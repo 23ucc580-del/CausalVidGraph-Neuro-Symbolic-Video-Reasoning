@@ -1,0 +1,495 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a person wearing a blue hoodie walking on a sidewalk.",
+    "objects": [
+      "sidewalk",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a person wearing a blue hoodie walking on a sidewalk.",
+    "objects": [
+      "sidewalk",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video starts with a person wearing a blue hoodie walking on a sidewalk.",
+    "objects": [
+      "sidewalk",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The camera then shifts to another person wearing a white shirt who is holding a cat.",
+    "objects": [
+      "white",
+      "cat",
+      "who",
+      "then",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shifts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The camera then shifts to another person wearing a white shirt who is holding a cat.",
+    "objects": [
+      "white",
+      "cat",
+      "who",
+      "then",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shifts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera then shifts to another person wearing a white shirt who is holding a cat.",
+    "objects": [
+      "white",
+      "cat",
+      "who",
+      "then",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shifts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The cat is standing on a concrete surface, and the person is feeding it.",
+    "objects": [
+      "concrete",
+      "surface",
+      "cat"
+    ],
+    "actions": [
+      "feeding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The cat is standing on a concrete surface, and the person is feeding it.",
+    "objects": [
+      "concrete",
+      "surface",
+      "cat"
+    ],
+    "actions": [
+      "feeding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The cat is standing on a concrete surface, and the person is feeding it.",
+    "objects": [
+      "concrete",
+      "surface",
+      "cat"
+    ],
+    "actions": [
+      "feeding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The cat seems to be enjoying the food as it eats.",
+    "objects": [
+      "eats",
+      "cat",
+      "food"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The cat seems to be enjoying the food as it eats.",
+    "objects": [
+      "eats",
+      "cat",
+      "food"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The cat seems to be enjoying the food as it eats.",
+    "objects": [
+      "eats",
+      "cat",
+      "food"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The person then walks away, and the camera follows them.",
+    "objects": [
+      "them",
+      "then",
+      "away"
+    ],
+    "actions": [
+      "walks",
+      "follows"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The person then walks away, and the camera follows them.",
+    "objects": [
+      "them",
+      "then",
+      "away"
+    ],
+    "actions": [
+      "walks",
+      "follows"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The person then walks away, and the camera follows them.",
+    "objects": [
+      "them",
+      "then",
+      "away"
+    ],
+    "actions": [
+      "walks",
+      "follows"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The person wearing the white shirt walks past a silver car, and the camera captures the car as well.",
+    "objects": [
+      "white",
+      "silver",
+      "car",
+      "past",
+      "well",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "walks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The person wearing the white shirt walks past a silver car, and the camera captures the car as well.",
+    "objects": [
+      "white",
+      "silver",
+      "car",
+      "past",
+      "well",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "walks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The person wearing the white shirt walks past a silver car, and the camera captures the car as well.",
+    "objects": [
+      "white",
+      "silver",
+      "car",
+      "past",
+      "well",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "walks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene then shifts to another person wearing a black shirt, who is holding the same cat.",
+    "objects": [
+      "cat",
+      "same",
+      "who",
+      "then",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shifts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene then shifts to another person wearing a black shirt, who is holding the same cat.",
+    "objects": [
+      "cat",
+      "same",
+      "who",
+      "then",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shifts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene then shifts to another person wearing a black shirt, who is holding the same cat.",
+    "objects": [
+      "cat",
+      "same",
+      "who",
+      "then",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shifts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The cat is walking on a sidewalk with the person holding it.",
+    "objects": [
+      "sidewalk",
+      "cat"
+    ],
+    "actions": [
+      "walking",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The cat is walking on a sidewalk with the person holding it.",
+    "objects": [
+      "sidewalk",
+      "cat"
+    ],
+    "actions": [
+      "walking",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The cat is walking on a sidewalk with the person holding it.",
+    "objects": [
+      "sidewalk",
+      "cat"
+    ],
+    "actions": [
+      "walking",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The person then turns towards the camera, and the camera captures the cat's face.",
+    "objects": [
+      "face",
+      "then"
+    ],
+    "actions": [
+      "turns",
+      "cat's",
+      "towards"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The person then turns towards the camera, and the camera captures the cat's face.",
+    "objects": [
+      "face",
+      "then"
+    ],
+    "actions": [
+      "turns",
+      "cat's",
+      "towards"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The person then turns towards the camera, and the camera captures the cat's face.",
+    "objects": [
+      "face",
+      "then"
+    ],
+    "actions": [
+      "turns",
+      "cat's",
+      "towards"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The person wearing the black shirt walks past the silver car again, and the camera captures the car.",
+    "objects": [
+      "again",
+      "silver",
+      "car",
+      "past",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "walks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The person wearing the black shirt walks past the silver car again, and the camera captures the car.",
+    "objects": [
+      "again",
+      "silver",
+      "car",
+      "past",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "walks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The person wearing the black shirt walks past the silver car again, and the camera captures the car.",
+    "objects": [
+      "again",
+      "silver",
+      "car",
+      "past",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "walks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The person wearing the black shirt then walks away, and the camera follows them.",
+    "objects": [
+      "away",
+      "them",
+      "then",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "walks",
+      "follows"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The person wearing the black shirt then walks away, and the camera follows them.",
+    "objects": [
+      "away",
+      "them",
+      "then",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "walks",
+      "follows"
+    ],
+    "segment_id": 10
+  }
+]

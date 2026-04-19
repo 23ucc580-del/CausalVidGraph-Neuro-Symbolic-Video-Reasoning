@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a view of a river, surrounded by trees and foliage.",
+    "objects": [
+      "foliage",
+      "river"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a view of a river, surrounded by trees and foliage.",
+    "objects": [
+      "foliage",
+      "river"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "Two individuals are standing in the foreground, observing the scene.",
+    "objects": [
+      "two"
+    ],
+    "actions": [
+      "observing",
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "Two individuals are standing in the foreground, observing the scene.",
+    "objects": [
+      "two"
+    ],
+    "actions": [
+      "observing",
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "One of them is holding a blue hoodie and the other is wearing a yellow shirt and blue pants.",
+    "objects": [
+      "one",
+      "other",
+      "blue",
+      "yellow",
+      "shirt",
+      "them",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "One of them is holding a blue hoodie and the other is wearing a yellow shirt and blue pants.",
+    "objects": [
+      "one",
+      "other",
+      "blue",
+      "yellow",
+      "shirt",
+      "them",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans to the left to reveal two more people, one of whom is wearing a yellow shirt and holding a blue jacket, and the other is in a blue hoodie.",
+    "objects": [
+      "one",
+      "other",
+      "people",
+      "reveal",
+      "two",
+      "pans",
+      "jacket",
+      "whom"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then pans to the left to reveal two more people, one of whom is wearing a yellow shirt and holding a blue jacket, and the other is in a blue hoodie.",
+    "objects": [
+      "one",
+      "other",
+      "people",
+      "reveal",
+      "two",
+      "pans",
+      "jacket",
+      "whom"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "They are all standing on a hill, watching the river and the surrounding area.",
+    "objects": [
+      "they",
+      "river",
+      "all",
+      "hill",
+      "area"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "surrounding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "They are all standing on a hill, watching the river and the surrounding area.",
+    "objects": [
+      "they",
+      "river",
+      "all",
+      "hill",
+      "area"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "surrounding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then shifts focus to a person in a silver car, driving down a dirt road that runs parallel to the river.",
+    "objects": [
+      "river",
+      "silver",
+      "that",
+      "car",
+      "parallel",
+      "road",
+      "then",
+      "runs"
+    ],
+    "actions": [
+      "shifts",
+      "driving",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then shifts focus to a person in a silver car, driving down a dirt road that runs parallel to the river.",
+    "objects": [
+      "river",
+      "silver",
+      "that",
+      "car",
+      "parallel",
+      "road",
+      "then",
+      "runs"
+    ],
+    "actions": [
+      "shifts",
+      "driving",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The car is moving away from the camera.",
+    "objects": [
+      "away",
+      "from",
+      "car"
+    ],
+    "actions": [
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The car is moving away from the camera.",
+    "objects": [
+      "away",
+      "from",
+      "car"
+    ],
+    "actions": [
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "As the camera pans back to the left, a person in a yellow shirt and blue pants is seen standing on the bank of the river, looking at the water.",
+    "objects": [
+      "river",
+      "pans",
+      "blue",
+      "yellow",
+      "shirt",
+      "bank",
+      "water"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "As the camera pans back to the left, a person in a yellow shirt and blue pants is seen standing on the bank of the river, looking at the water.",
+    "objects": [
+      "river",
+      "pans",
+      "blue",
+      "yellow",
+      "shirt",
+      "bank",
+      "water"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then focuses on a person in a blue jacket walking on the hillside, moving away from the car.",
+    "objects": [
+      "away",
+      "jacket",
+      "blue",
+      "from",
+      "car",
+      "hillside",
+      "then"
+    ],
+    "actions": [
+      "moving",
+      "walking",
+      "focuses"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then focuses on a person in a blue jacket walking on the hillside, moving away from the car.",
+    "objects": [
+      "away",
+      "jacket",
+      "blue",
+      "from",
+      "car",
+      "hillside",
+      "then"
+    ],
+    "actions": [
+      "moving",
+      "walking",
+      "focuses"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then shifts back to the first two individuals, who are now standing in the foreground.",
+    "objects": [
+      "two",
+      "who",
+      "now",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then shifts back to the first two individuals, who are now standing in the foreground.",
+    "objects": [
+      "two",
+      "who",
+      "now",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "One of them is holding a blue jacket and the other is wearing a yellow shirt.",
+    "objects": [
+      "one",
+      "other",
+      "jacket",
+      "blue",
+      "yellow",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "One of them is holding a blue jacket and the other is wearing a yellow shirt.",
+    "objects": [
+      "one",
+      "other",
+      "jacket",
+      "blue",
+      "yellow",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "They are both standing on the bank of the river, watching the water and the surrounding area.",
+    "objects": [
+      "they",
+      "both",
+      "river",
+      "bank",
+      "area",
+      "water"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "surrounding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "They are both standing on the bank of the river, watching the water and the surrounding area.",
+    "objects": [
+      "they",
+      "both",
+      "river",
+      "bank",
+      "area",
+      "water"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "surrounding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The video then shifts to a person in a yellow shirt and blue pants walking away from the camera on the hillside.",
+    "objects": [
+      "away",
+      "blue",
+      "yellow",
+      "shirt",
+      "from",
+      "hillside",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "pants",
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The video then shifts to a person in a yellow shirt and blue pants walking away from the camera on the hillside.",
+    "objects": [
+      "away",
+      "blue",
+      "yellow",
+      "shirt",
+      "from",
+      "hillside",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "pants",
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then pans to the right to reveal two people in yellow shirts, one holding a blue jacket and the other holding a backpack.",
+    "objects": [
+      "one",
+      "other",
+      "people",
+      "reveal",
+      "two",
+      "pans",
+      "jacket",
+      "yellow"
+    ],
+    "actions": [
+      "holding",
+      "shirts"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then pans to the right to reveal two people in yellow shirts, one holding a blue jacket and the other holding a backpack.",
+    "objects": [
+      "one",
+      "other",
+      "people",
+      "reveal",
+      "two",
+      "pans",
+      "jacket",
+      "yellow"
+    ],
+    "actions": [
+      "holding",
+      "shirts"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "They are walking up the hill.",
+    "objects": [
+      "they",
+      "hill"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "They are walking up the hill.",
+    "objects": [
+      "they",
+      "hill"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera then shifts back to the first two individuals, who are standing in the foreground.",
+    "objects": [
+      "who",
+      "first",
+      "then",
+      "two"
+    ],
+    "actions": [
+      "shifts",
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera then shifts back to the first two individuals, who are standing in the foreground.",
+    "objects": [
+      "who",
+      "first",
+      "then",
+      "two"
+    ],
+    "actions": [
+      "shifts",
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 15
+  }
+]

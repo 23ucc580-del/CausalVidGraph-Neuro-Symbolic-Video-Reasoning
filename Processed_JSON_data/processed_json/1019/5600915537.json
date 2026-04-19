@@ -1,0 +1,560 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a breathtaking scene of winter sports enthusiasts enjoying a day on a snowy mountain.",
+    "objects": [
+      "mountain",
+      "snowy",
+      "winter",
+      "day",
+      "this"
+    ],
+    "actions": [
+      "enthusiasts",
+      "enjoying",
+      "breathtaking",
+      "sports"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a breathtaking scene of winter sports enthusiasts enjoying a day on a snowy mountain.",
+    "objects": [
+      "mountain",
+      "snowy",
+      "winter",
+      "day",
+      "this"
+    ],
+    "actions": [
+      "enthusiasts",
+      "enjoying",
+      "breathtaking",
+      "sports"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The camera pans around the area, showcasing the vastness of the mountain and the people engaging in various activities.",
+    "objects": [
+      "mountain",
+      "people",
+      "pans",
+      "around",
+      "area"
+    ],
+    "actions": [
+      "activities",
+      "showcasing",
+      "vastness",
+      "engaging"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The camera pans around the area, showcasing the vastness of the mountain and the people engaging in various activities.",
+    "objects": [
+      "mountain",
+      "people",
+      "pans",
+      "around",
+      "area"
+    ],
+    "actions": [
+      "activities",
+      "showcasing",
+      "vastness",
+      "engaging"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The mountain itself is a majestic sight with a blanket of white snow covering its entirety, and the sun is shining brightly, casting a warm glow on the snow.",
+    "objects": [
+      "sight",
+      "mountain",
+      "snow",
+      "white",
+      "its",
+      "entirety",
+      "brightly",
+      "warm"
+    ],
+    "actions": [
+      "shining",
+      "covering",
+      "casting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The mountain itself is a majestic sight with a blanket of white snow covering its entirety, and the sun is shining brightly, casting a warm glow on the snow.",
+    "objects": [
+      "sight",
+      "mountain",
+      "snow",
+      "white",
+      "its",
+      "entirety",
+      "brightly",
+      "warm"
+    ],
+    "actions": [
+      "shining",
+      "covering",
+      "casting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The first scene shows a person skiing down the mountain, their body angled slightly to the left, and they are wearing a black jacket and black pants.",
+    "objects": [
+      "their",
+      "they",
+      "mountain",
+      "body",
+      "black",
+      "jacket",
+      "first",
+      "slightly"
+    ],
+    "actions": [
+      "wearing",
+      "angled",
+      "pants",
+      "skiing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The first scene shows a person skiing down the mountain, their body angled slightly to the left, and they are wearing a black jacket and black pants.",
+    "objects": [
+      "their",
+      "they",
+      "mountain",
+      "body",
+      "black",
+      "jacket",
+      "first",
+      "slightly"
+    ],
+    "actions": [
+      "wearing",
+      "angled",
+      "pants",
+      "skiing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "They are in control, gliding down the slope with ease.",
+    "objects": [
+      "they",
+      "ease",
+      "slope",
+      "control"
+    ],
+    "actions": [
+      "gliding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "They are in control, gliding down the slope with ease.",
+    "objects": [
+      "they",
+      "ease",
+      "slope",
+      "control"
+    ],
+    "actions": [
+      "gliding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The skis are visible, cutting through the snow, and the person's posture indicates confidence and skill.",
+    "objects": [
+      "snow",
+      "confidence",
+      "skis",
+      "through",
+      "posture",
+      "skill"
+    ],
+    "actions": [
+      "indicates",
+      "cutting",
+      "person's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The skis are visible, cutting through the snow, and the person's posture indicates confidence and skill.",
+    "objects": [
+      "snow",
+      "confidence",
+      "skis",
+      "through",
+      "posture",
+      "skill"
+    ],
+    "actions": [
+      "indicates",
+      "cutting",
+      "person's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "In the second scene, a person is snowboarding, their body facing towards the left of the frame.",
+    "objects": [
+      "their",
+      "second",
+      "body"
+    ],
+    "actions": [
+      "towards",
+      "facing",
+      "snowboarding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "In the second scene, a person is snowboarding, their body facing towards the left of the frame.",
+    "objects": [
+      "their",
+      "second",
+      "body"
+    ],
+    "actions": [
+      "towards",
+      "facing",
+      "snowboarding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "They are dressed in a red jacket and black pants, and their snowboard is visible, gliding along the snowy terrain.",
+    "objects": [
+      "they",
+      "their",
+      "along",
+      "jacket",
+      "black",
+      "snowboard",
+      "snowy",
+      "terrain"
+    ],
+    "actions": [
+      "dressed",
+      "pants",
+      "red",
+      "gliding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "They are dressed in a red jacket and black pants, and their snowboard is visible, gliding along the snowy terrain.",
+    "objects": [
+      "they",
+      "their",
+      "along",
+      "jacket",
+      "black",
+      "snowboard",
+      "snowy",
+      "terrain"
+    ],
+    "actions": [
+      "dressed",
+      "pants",
+      "red",
+      "gliding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The snowboarder appears to be carving a path through the mountain, adding to the dynamic nature of the scene.",
+    "objects": [
+      "mountain",
+      "snowboarder",
+      "path",
+      "through",
+      "nature",
+      "dynamic"
+    ],
+    "actions": [
+      "carving",
+      "adding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The snowboarder appears to be carving a path through the mountain, adding to the dynamic nature of the scene.",
+    "objects": [
+      "mountain",
+      "snowboarder",
+      "path",
+      "through",
+      "nature",
+      "dynamic"
+    ],
+    "actions": [
+      "carving",
+      "adding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The third scene shows two skiers on the mountain.",
+    "objects": [
+      "mountain",
+      "third",
+      "two"
+    ],
+    "actions": [
+      "skiers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The third scene shows two skiers on the mountain.",
+    "objects": [
+      "mountain",
+      "third",
+      "two"
+    ],
+    "actions": [
+      "skiers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "One of them is wearing a blue jacket and black pants, and the other is dressed in red.",
+    "objects": [
+      "one",
+      "other",
+      "jacket",
+      "black",
+      "blue",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "pants",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "One of them is wearing a blue jacket and black pants, and the other is dressed in red.",
+    "objects": [
+      "one",
+      "other",
+      "jacket",
+      "black",
+      "blue",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "pants",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "They are both skiing down the mountain, their skis leaving a trail in the snow.",
+    "objects": [
+      "they",
+      "their",
+      "mountain",
+      "snow",
+      "both",
+      "trail",
+      "skis"
+    ],
+    "actions": [
+      "leaving",
+      "skiing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "They are both skiing down the mountain, their skis leaving a trail in the snow.",
+    "objects": [
+      "they",
+      "their",
+      "mountain",
+      "snow",
+      "both",
+      "trail",
+      "skis"
+    ],
+    "actions": [
+      "leaving",
+      "skiing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "Their movements are swift and controlled, indicating their familiarity with the sport.",
+    "objects": [
+      "their",
+      "swift",
+      "familiarity",
+      "sport"
+    ],
+    "actions": [
+      "movements",
+      "controlled",
+      "indicating"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "Their movements are swift and controlled, indicating their familiarity with the sport.",
+    "objects": [
+      "their",
+      "swift",
+      "familiarity",
+      "sport"
+    ],
+    "actions": [
+      "movements",
+      "controlled",
+      "indicating"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The final scene showcases a snowboarder, also dressed in red, snowboarding down the mountain.",
+    "objects": [
+      "snowboarder",
+      "final",
+      "mountain"
+    ],
+    "actions": [
+      "dressed",
+      "showcases",
+      "snowboarding",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The final scene showcases a snowboarder, also dressed in red, snowboarding down the mountain.",
+    "objects": [
+      "snowboarder",
+      "final",
+      "mountain"
+    ],
+    "actions": [
+      "dressed",
+      "showcases",
+      "snowboarding",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "They are gliding to the right of the frame, their body leaning slightly forward as they navigate the snowy terrain.",
+    "objects": [
+      "they",
+      "their",
+      "body",
+      "forward",
+      "navigate",
+      "snowy",
+      "terrain",
+      "slightly"
+    ],
+    "actions": [
+      "gliding",
+      "leaning"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "They are gliding to the right of the frame, their body leaning slightly forward as they navigate the snowy terrain.",
+    "objects": [
+      "they",
+      "their",
+      "body",
+      "forward",
+      "navigate",
+      "snowy",
+      "terrain",
+      "slightly"
+    ],
+    "actions": [
+      "gliding",
+      "leaning"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "Their movements are fluid and graceful, demonstrating their experience in snowboarding.",
+    "objects": [
+      "their",
+      "graceful",
+      "experience",
+      "fluid"
+    ],
+    "actions": [
+      "movements",
+      "snowboarding",
+      "demonstrating"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "Their movements are fluid and graceful, demonstrating their experience in snowboarding.",
+    "objects": [
+      "their",
+      "graceful",
+      "experience",
+      "fluid"
+    ],
+    "actions": [
+      "movements",
+      "snowboarding",
+      "demonstrating"
+    ],
+    "segment_id": 15
+  }
+]

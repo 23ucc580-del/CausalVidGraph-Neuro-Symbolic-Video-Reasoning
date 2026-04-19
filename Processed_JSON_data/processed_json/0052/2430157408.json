@@ -1,0 +1,622 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered around a fireplace in a living room, creating a warm and cozy atmosphere.",
+    "objects": [
+      "people",
+      "fireplace",
+      "atmosphere",
+      "group",
+      "warm",
+      "around",
+      "cozy",
+      "room"
+    ],
+    "actions": [
+      "gathered",
+      "living",
+      "creating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered around a fireplace in a living room, creating a warm and cozy atmosphere.",
+    "objects": [
+      "people",
+      "fireplace",
+      "atmosphere",
+      "group",
+      "warm",
+      "around",
+      "cozy",
+      "room"
+    ],
+    "actions": [
+      "gathered",
+      "living",
+      "creating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are gathered around a fireplace in a living room, creating a warm and cozy atmosphere.",
+    "objects": [
+      "people",
+      "fireplace",
+      "atmosphere",
+      "group",
+      "warm",
+      "around",
+      "cozy",
+      "room"
+    ],
+    "actions": [
+      "gathered",
+      "living",
+      "creating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people are gathered around a fireplace in a living room, creating a warm and cozy atmosphere.",
+    "objects": [
+      "people",
+      "fireplace",
+      "atmosphere",
+      "group",
+      "warm",
+      "around",
+      "cozy",
+      "room"
+    ],
+    "actions": [
+      "gathered",
+      "living",
+      "creating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "Among the group, a young girl is playing a ukulele, while the others are seated on the floor, engaged in various activities.",
+    "objects": [
+      "floor",
+      "among",
+      "ukulele",
+      "while",
+      "group",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "activities",
+      "seated",
+      "playing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Among the group, a young girl is playing a ukulele, while the others are seated on the floor, engaged in various activities.",
+    "objects": [
+      "floor",
+      "among",
+      "ukulele",
+      "while",
+      "group",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "activities",
+      "seated",
+      "playing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Among the group, a young girl is playing a ukulele, while the others are seated on the floor, engaged in various activities.",
+    "objects": [
+      "floor",
+      "among",
+      "ukulele",
+      "while",
+      "group",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "activities",
+      "seated",
+      "playing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "Among the group, a young girl is playing a ukulele, while the others are seated on the floor, engaged in various activities.",
+    "objects": [
+      "floor",
+      "among",
+      "ukulele",
+      "while",
+      "group",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "activities",
+      "seated",
+      "playing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The girl playing the ukulele is wearing a red dress and has a blue hoodie on, and she's smiling at the camera.",
+    "objects": [
+      "has",
+      "dress",
+      "hoodie",
+      "blue",
+      "ukulele",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The girl playing the ukulele is wearing a red dress and has a blue hoodie on, and she's smiling at the camera.",
+    "objects": [
+      "has",
+      "dress",
+      "hoodie",
+      "blue",
+      "ukulele",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The girl playing the ukulele is wearing a red dress and has a blue hoodie on, and she's smiling at the camera.",
+    "objects": [
+      "has",
+      "dress",
+      "hoodie",
+      "blue",
+      "ukulele",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The girl playing the ukulele is wearing a red dress and has a blue hoodie on, and she's smiling at the camera.",
+    "objects": [
+      "has",
+      "dress",
+      "hoodie",
+      "blue",
+      "ukulele",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A young boy is sitting on the floor, holding a guitar in his hands and wearing a white shirt.",
+    "objects": [
+      "floor",
+      "white",
+      "guitar",
+      "young",
+      "shirt",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hands",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A young boy is sitting on the floor, holding a guitar in his hands and wearing a white shirt.",
+    "objects": [
+      "floor",
+      "white",
+      "guitar",
+      "young",
+      "shirt",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hands",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A young boy is sitting on the floor, holding a guitar in his hands and wearing a white shirt.",
+    "objects": [
+      "floor",
+      "white",
+      "guitar",
+      "young",
+      "shirt",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hands",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A young boy is sitting on the floor, holding a guitar in his hands and wearing a white shirt.",
+    "objects": [
+      "floor",
+      "white",
+      "guitar",
+      "young",
+      "shirt",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hands",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another young girl is sitting on the floor, wearing a pink hoodie and playing a drum, while the girl playing the ukulele is wearing a red dress.",
+    "objects": [
+      "floor",
+      "dress",
+      "girl",
+      "hoodie",
+      "ukulele",
+      "while",
+      "drum",
+      "young"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Another young girl is sitting on the floor, wearing a pink hoodie and playing a drum, while the girl playing the ukulele is wearing a red dress.",
+    "objects": [
+      "floor",
+      "dress",
+      "girl",
+      "hoodie",
+      "ukulele",
+      "while",
+      "drum",
+      "young"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Another young girl is sitting on the floor, wearing a pink hoodie and playing a drum, while the girl playing the ukulele is wearing a red dress.",
+    "objects": [
+      "floor",
+      "dress",
+      "girl",
+      "hoodie",
+      "ukulele",
+      "while",
+      "drum",
+      "young"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Another young girl is sitting on the floor, wearing a pink hoodie and playing a drum, while the girl playing the ukulele is wearing a red dress.",
+    "objects": [
+      "floor",
+      "dress",
+      "girl",
+      "hoodie",
+      "ukulele",
+      "while",
+      "drum",
+      "young"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "There are two other girls sitting on the floor, one wearing a white shirt and the other wearing a pink hoodie.",
+    "objects": [
+      "floor",
+      "white",
+      "two",
+      "hoodie",
+      "other",
+      "one",
+      "shirt",
+      "pink"
+    ],
+    "actions": [
+      "girls",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "There are two other girls sitting on the floor, one wearing a white shirt and the other wearing a pink hoodie.",
+    "objects": [
+      "floor",
+      "white",
+      "two",
+      "hoodie",
+      "other",
+      "one",
+      "shirt",
+      "pink"
+    ],
+    "actions": [
+      "girls",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "There are two other girls sitting on the floor, one wearing a white shirt and the other wearing a pink hoodie.",
+    "objects": [
+      "floor",
+      "white",
+      "two",
+      "hoodie",
+      "other",
+      "one",
+      "shirt",
+      "pink"
+    ],
+    "actions": [
+      "girls",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "There are two other girls sitting on the floor, one wearing a white shirt and the other wearing a pink hoodie.",
+    "objects": [
+      "floor",
+      "white",
+      "two",
+      "hoodie",
+      "other",
+      "one",
+      "shirt",
+      "pink"
+    ],
+    "actions": [
+      "girls",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A man is seated in a chair, holding a book and smiling at the camera, and a young boy is sitting on the floor in a blue hoodie.",
+    "objects": [
+      "chair",
+      "floor",
+      "man",
+      "book",
+      "hoodie",
+      "blue",
+      "young",
+      "boy"
+    ],
+    "actions": [
+      "smiling",
+      "holding",
+      "seated",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A man is seated in a chair, holding a book and smiling at the camera, and a young boy is sitting on the floor in a blue hoodie.",
+    "objects": [
+      "chair",
+      "floor",
+      "man",
+      "book",
+      "hoodie",
+      "blue",
+      "young",
+      "boy"
+    ],
+    "actions": [
+      "smiling",
+      "holding",
+      "seated",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A man is seated in a chair, holding a book and smiling at the camera, and a young boy is sitting on the floor in a blue hoodie.",
+    "objects": [
+      "chair",
+      "floor",
+      "man",
+      "book",
+      "hoodie",
+      "blue",
+      "young",
+      "boy"
+    ],
+    "actions": [
+      "smiling",
+      "holding",
+      "seated",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A man is seated in a chair, holding a book and smiling at the camera, and a young boy is sitting on the floor in a blue hoodie.",
+    "objects": [
+      "chair",
+      "floor",
+      "man",
+      "book",
+      "hoodie",
+      "blue",
+      "young",
+      "boy"
+    ],
+    "actions": [
+      "smiling",
+      "holding",
+      "seated",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is filled with smiles and interactions, suggesting a friendly and relaxed gathering.",
+    "objects": [
+      "friendly"
+    ],
+    "actions": [
+      "filled",
+      "smiles",
+      "interactions",
+      "suggesting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is filled with smiles and interactions, suggesting a friendly and relaxed gathering.",
+    "objects": [
+      "friendly"
+    ],
+    "actions": [
+      "filled",
+      "smiles",
+      "interactions",
+      "suggesting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is filled with smiles and interactions, suggesting a friendly and relaxed gathering.",
+    "objects": [
+      "friendly"
+    ],
+    "actions": [
+      "filled",
+      "smiles",
+      "interactions",
+      "suggesting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is filled with smiles and interactions, suggesting a friendly and relaxed gathering.",
+    "objects": [
+      "friendly"
+    ],
+    "actions": [
+      "filled",
+      "smiles",
+      "interactions",
+      "suggesting"
+    ],
+    "segment_id": 7
+  }
+]

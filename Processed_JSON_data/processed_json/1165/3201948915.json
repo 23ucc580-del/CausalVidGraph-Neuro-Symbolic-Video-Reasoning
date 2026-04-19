@@ -1,0 +1,579 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, two dogs are playing with a ball on a concrete floor.",
+    "objects": [
+      "concrete",
+      "ball",
+      "floor",
+      "two",
+      "dogs"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, two dogs are playing with a ball on a concrete floor.",
+    "objects": [
+      "concrete",
+      "ball",
+      "floor",
+      "two",
+      "dogs"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, two dogs are playing with a ball on a concrete floor.",
+    "objects": [
+      "concrete",
+      "ball",
+      "floor",
+      "two",
+      "dogs"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, two dogs are playing with a ball on a concrete floor.",
+    "objects": [
+      "concrete",
+      "ball",
+      "floor",
+      "two",
+      "dogs"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, two dogs are playing with a ball on a concrete floor.",
+    "objects": [
+      "concrete",
+      "ball",
+      "floor",
+      "two",
+      "dogs"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The larger dog, wearing a blue hoodie, is laying down while the smaller dog, wearing a brown hoodie, is standing nearby.",
+    "objects": [
+      "blue",
+      "smaller",
+      "while",
+      "larger",
+      "nearby",
+      "dog",
+      "hoodie",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "laying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The larger dog, wearing a blue hoodie, is laying down while the smaller dog, wearing a brown hoodie, is standing nearby.",
+    "objects": [
+      "blue",
+      "smaller",
+      "while",
+      "larger",
+      "nearby",
+      "dog",
+      "hoodie",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "laying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The larger dog, wearing a blue hoodie, is laying down while the smaller dog, wearing a brown hoodie, is standing nearby.",
+    "objects": [
+      "blue",
+      "smaller",
+      "while",
+      "larger",
+      "nearby",
+      "dog",
+      "hoodie",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "laying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The larger dog, wearing a blue hoodie, is laying down while the smaller dog, wearing a brown hoodie, is standing nearby.",
+    "objects": [
+      "blue",
+      "smaller",
+      "while",
+      "larger",
+      "nearby",
+      "dog",
+      "hoodie",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "laying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The larger dog, wearing a blue hoodie, is laying down while the smaller dog, wearing a brown hoodie, is standing nearby.",
+    "objects": [
+      "blue",
+      "smaller",
+      "while",
+      "larger",
+      "nearby",
+      "dog",
+      "hoodie",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "laying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "They are both wearing collar tags and seem to be enjoying their playtime.",
+    "objects": [
+      "collar",
+      "seem",
+      "both",
+      "playtime",
+      "tags",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are both wearing collar tags and seem to be enjoying their playtime.",
+    "objects": [
+      "collar",
+      "seem",
+      "both",
+      "playtime",
+      "tags",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "They are both wearing collar tags and seem to be enjoying their playtime.",
+    "objects": [
+      "collar",
+      "seem",
+      "both",
+      "playtime",
+      "tags",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "They are both wearing collar tags and seem to be enjoying their playtime.",
+    "objects": [
+      "collar",
+      "seem",
+      "both",
+      "playtime",
+      "tags",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "They are both wearing collar tags and seem to be enjoying their playtime.",
+    "objects": [
+      "collar",
+      "seem",
+      "both",
+      "playtime",
+      "tags",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The smaller dog jumps up to catch the ball in mid-air, successfully grabbing it with its mouth.",
+    "objects": [
+      "mouth",
+      "smaller",
+      "its",
+      "successfully",
+      "ball",
+      "dog",
+      "catch"
+    ],
+    "actions": [
+      "jumps",
+      "grabbing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The smaller dog jumps up to catch the ball in mid-air, successfully grabbing it with its mouth.",
+    "objects": [
+      "mouth",
+      "smaller",
+      "its",
+      "successfully",
+      "ball",
+      "dog",
+      "catch"
+    ],
+    "actions": [
+      "jumps",
+      "grabbing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The smaller dog jumps up to catch the ball in mid-air, successfully grabbing it with its mouth.",
+    "objects": [
+      "mouth",
+      "smaller",
+      "its",
+      "successfully",
+      "ball",
+      "dog",
+      "catch"
+    ],
+    "actions": [
+      "jumps",
+      "grabbing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The smaller dog jumps up to catch the ball in mid-air, successfully grabbing it with its mouth.",
+    "objects": [
+      "mouth",
+      "smaller",
+      "its",
+      "successfully",
+      "ball",
+      "dog",
+      "catch"
+    ],
+    "actions": [
+      "jumps",
+      "grabbing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The smaller dog jumps up to catch the ball in mid-air, successfully grabbing it with its mouth.",
+    "objects": [
+      "mouth",
+      "smaller",
+      "its",
+      "successfully",
+      "ball",
+      "dog",
+      "catch"
+    ],
+    "actions": [
+      "jumps",
+      "grabbing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The larger dog watches on, possibly waiting for its turn to play or simply enjoying the sight of the smaller dog's action.",
+    "objects": [
+      "simply",
+      "sight",
+      "smaller",
+      "its",
+      "larger",
+      "dog",
+      "turn",
+      "action"
+    ],
+    "actions": [
+      "dog's",
+      "waiting",
+      "enjoying",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The larger dog watches on, possibly waiting for its turn to play or simply enjoying the sight of the smaller dog's action.",
+    "objects": [
+      "simply",
+      "sight",
+      "smaller",
+      "its",
+      "larger",
+      "dog",
+      "turn",
+      "action"
+    ],
+    "actions": [
+      "dog's",
+      "waiting",
+      "enjoying",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The larger dog watches on, possibly waiting for its turn to play or simply enjoying the sight of the smaller dog's action.",
+    "objects": [
+      "simply",
+      "sight",
+      "smaller",
+      "its",
+      "larger",
+      "dog",
+      "turn",
+      "action"
+    ],
+    "actions": [
+      "dog's",
+      "waiting",
+      "enjoying",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The larger dog watches on, possibly waiting for its turn to play or simply enjoying the sight of the smaller dog's action.",
+    "objects": [
+      "simply",
+      "sight",
+      "smaller",
+      "its",
+      "larger",
+      "dog",
+      "turn",
+      "action"
+    ],
+    "actions": [
+      "dog's",
+      "waiting",
+      "enjoying",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The larger dog watches on, possibly waiting for its turn to play or simply enjoying the sight of the smaller dog's action.",
+    "objects": [
+      "simply",
+      "sight",
+      "smaller",
+      "its",
+      "larger",
+      "dog",
+      "turn",
+      "action"
+    ],
+    "actions": [
+      "dog's",
+      "waiting",
+      "enjoying",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The dogs are the main focus of the video, and there are no other people or objects in sight.",
+    "objects": [
+      "sight",
+      "main",
+      "other",
+      "people",
+      "there",
+      "dogs"
+    ],
+    "actions": [
+      "objects",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The dogs are the main focus of the video, and there are no other people or objects in sight.",
+    "objects": [
+      "sight",
+      "main",
+      "other",
+      "people",
+      "there",
+      "dogs"
+    ],
+    "actions": [
+      "objects",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The dogs are the main focus of the video, and there are no other people or objects in sight.",
+    "objects": [
+      "sight",
+      "main",
+      "other",
+      "people",
+      "there",
+      "dogs"
+    ],
+    "actions": [
+      "objects",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The dogs are the main focus of the video, and there are no other people or objects in sight.",
+    "objects": [
+      "sight",
+      "main",
+      "other",
+      "people",
+      "there",
+      "dogs"
+    ],
+    "actions": [
+      "objects",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The dogs are the main focus of the video, and there are no other people or objects in sight.",
+    "objects": [
+      "sight",
+      "main",
+      "other",
+      "people",
+      "there",
+      "dogs"
+    ],
+    "actions": [
+      "objects",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures a moment of playful interaction between the two dogs.",
+    "objects": [
+      "playful",
+      "interaction",
+      "between",
+      "moment",
+      "two",
+      "dogs"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures a moment of playful interaction between the two dogs.",
+    "objects": [
+      "playful",
+      "interaction",
+      "between",
+      "moment",
+      "two",
+      "dogs"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  }
+]

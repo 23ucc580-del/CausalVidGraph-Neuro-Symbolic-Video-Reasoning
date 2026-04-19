@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video showcases a group of individuals exploring a rocky terrain in a jungle setting.",
+    "objects": [
+      "jungle",
+      "terrain",
+      "rocky",
+      "group"
+    ],
+    "actions": [
+      "exploring",
+      "showcases",
+      "individuals",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video showcases a group of individuals exploring a rocky terrain in a jungle setting.",
+    "objects": [
+      "jungle",
+      "terrain",
+      "rocky",
+      "group"
+    ],
+    "actions": [
+      "exploring",
+      "showcases",
+      "individuals",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "At the beginning, we see a person wearing a blue hoodie and carrying a black backpack, walking towards the camera.",
+    "objects": [
+      "black",
+      "blue",
+      "see",
+      "hoodie",
+      "backpack"
+    ],
+    "actions": [
+      "towards",
+      "beginning",
+      "wearing",
+      "carrying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "At the beginning, we see a person wearing a blue hoodie and carrying a black backpack, walking towards the camera.",
+    "objects": [
+      "black",
+      "blue",
+      "see",
+      "hoodie",
+      "backpack"
+    ],
+    "actions": [
+      "towards",
+      "beginning",
+      "wearing",
+      "carrying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The camera then pans to the right to show two other people, one wearing a gray jacket and the other in a green jacket, both of whom are walking away from the camera.",
+    "objects": [
+      "one",
+      "other",
+      "show",
+      "people",
+      "two",
+      "pans",
+      "jacket",
+      "both"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera then pans to the right to show two other people, one wearing a gray jacket and the other in a green jacket, both of whom are walking away from the camera.",
+    "objects": [
+      "one",
+      "other",
+      "show",
+      "people",
+      "two",
+      "pans",
+      "jacket",
+      "both"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans back to the left to show two people in the center of the frame, both wearing silver jackets and carrying backpacks.",
+    "objects": [
+      "show",
+      "people",
+      "both",
+      "two",
+      "pans",
+      "silver",
+      "center",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "backpacks",
+      "jackets"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then pans back to the left to show two people in the center of the frame, both wearing silver jackets and carrying backpacks.",
+    "objects": [
+      "show",
+      "people",
+      "both",
+      "two",
+      "pans",
+      "silver",
+      "center",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "backpacks",
+      "jackets"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "One person is wearing a green jacket and the other is in a black jacket.",
+    "objects": [
+      "one",
+      "other",
+      "jacket",
+      "black",
+      "green"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "One person is wearing a green jacket and the other is in a black jacket.",
+    "objects": [
+      "one",
+      "other",
+      "jacket",
+      "black",
+      "green"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "They are walking towards the camera.",
+    "objects": [
+      "they"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "They are walking towards the camera.",
+    "objects": [
+      "they"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then pans back to the right to show two people in the background, both wearing gray jackets and carrying backpacks.",
+    "objects": [
+      "show",
+      "people",
+      "both",
+      "two",
+      "pans",
+      "gray",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "backpacks",
+      "jackets"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then pans back to the right to show two people in the background, both wearing gray jackets and carrying backpacks.",
+    "objects": [
+      "show",
+      "people",
+      "both",
+      "two",
+      "pans",
+      "gray",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "backpacks",
+      "jackets"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "They are walking away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "They are walking away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then pans back to the left to show two people in the center of the frame, both wearing silver jackets and carrying backpacks.",
+    "objects": [
+      "show",
+      "people",
+      "both",
+      "two",
+      "pans",
+      "silver",
+      "center",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "backpacks",
+      "jackets"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then pans back to the left to show two people in the center of the frame, both wearing silver jackets and carrying backpacks.",
+    "objects": [
+      "show",
+      "people",
+      "both",
+      "two",
+      "pans",
+      "silver",
+      "center",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "backpacks",
+      "jackets"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "They are walking away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "They are walking away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then pans back to the right to show two people in the background, one wearing a gray jacket and the other in a green jacket.",
+    "objects": [
+      "one",
+      "show",
+      "people",
+      "other",
+      "two",
+      "pans",
+      "jacket",
+      "green"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then pans back to the right to show two people in the background, one wearing a gray jacket and the other in a green jacket.",
+    "objects": [
+      "one",
+      "show",
+      "people",
+      "other",
+      "two",
+      "pans",
+      "jacket",
+      "green"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "They are walking away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "They are walking away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then pans back to the left to show two people in the center of the frame, both wearing black jackets and carrying backpacks.",
+    "objects": [
+      "show",
+      "people",
+      "both",
+      "two",
+      "pans",
+      "black",
+      "center",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "backpacks",
+      "jackets"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then pans back to the left to show two people in the center of the frame, both wearing black jackets and carrying backpacks.",
+    "objects": [
+      "show",
+      "people",
+      "both",
+      "two",
+      "pans",
+      "black",
+      "center",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "backpacks",
+      "jackets"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "They are walking towards the camera.",
+    "objects": [
+      "they"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "They are walking towards the camera.",
+    "objects": [
+      "they"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then pans back to the right to show two people in the background, both wearing gray jackets and carrying backpacks.",
+    "objects": [
+      "show",
+      "people",
+      "both",
+      "two",
+      "pans",
+      "gray",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "backpacks",
+      "jackets"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then pans back to the right to show two people in the background, both wearing gray jackets and carrying backpacks.",
+    "objects": [
+      "show",
+      "people",
+      "both",
+      "two",
+      "pans",
+      "gray",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "backpacks",
+      "jackets"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "They are walking away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "They are walking away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 15
+  }
+]

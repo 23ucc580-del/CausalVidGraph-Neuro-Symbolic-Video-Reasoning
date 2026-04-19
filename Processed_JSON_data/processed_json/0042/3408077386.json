@@ -1,0 +1,552 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a close-up shot of a little girl, who is wearing a white dress and a white hat with a blue bow, standing in front of a fireplace.",
+    "objects": [
+      "white",
+      "dress",
+      "who",
+      "bow",
+      "blue",
+      "fireplace",
+      "hat",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a close-up shot of a little girl, who is wearing a white dress and a white hat with a blue bow, standing in front of a fireplace.",
+    "objects": [
+      "white",
+      "dress",
+      "who",
+      "bow",
+      "blue",
+      "fireplace",
+      "hat",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "She is holding a white object in her hand.",
+    "objects": [
+      "object",
+      "white",
+      "she",
+      "hand",
+      "her"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "She is holding a white object in her hand.",
+    "objects": [
+      "object",
+      "white",
+      "she",
+      "hand",
+      "her"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The camera then pans to the right to reveal a baby girl sitting in a high chair, wearing a pink dress and a white hat, and holding a pink object in her hand.",
+    "objects": [
+      "chair",
+      "pink",
+      "white",
+      "her",
+      "pans",
+      "dress",
+      "reveal",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera then pans to the right to reveal a baby girl sitting in a high chair, wearing a pink dress and a white hat, and holding a pink object in her hand.",
+    "objects": [
+      "chair",
+      "pink",
+      "white",
+      "her",
+      "pans",
+      "dress",
+      "reveal",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby girl is smiling and looking at the camera.",
+    "objects": [
+      "baby",
+      "girl"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby girl is smiling and looking at the camera.",
+    "objects": [
+      "baby",
+      "girl"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then pans back to the little girl, who is now looking at the baby girl with a smile.",
+    "objects": [
+      "pans",
+      "who",
+      "then",
+      "smile",
+      "baby",
+      "now",
+      "girl",
+      "little"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then pans back to the little girl, who is now looking at the baby girl with a smile.",
+    "objects": [
+      "pans",
+      "who",
+      "then",
+      "smile",
+      "baby",
+      "now",
+      "girl",
+      "little"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "Next, the camera shows a man standing in the background, wearing a blue shirt and holding a blue toy in his hand.",
+    "objects": [
+      "man",
+      "blue",
+      "hand",
+      "shirt",
+      "his",
+      "toy"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "Next, the camera shows a man standing in the background, wearing a blue shirt and holding a blue toy in his hand.",
+    "objects": [
+      "man",
+      "blue",
+      "hand",
+      "shirt",
+      "his",
+      "toy"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "He is standing next to a white object.",
+    "objects": [
+      "white",
+      "object"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "He is standing next to a white object.",
+    "objects": [
+      "white",
+      "object"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The little girl is now holding a white object in her hand and smiling at the baby girl.",
+    "objects": [
+      "white",
+      "her",
+      "hand",
+      "baby",
+      "now",
+      "object",
+      "girl",
+      "little"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The little girl is now holding a white object in her hand and smiling at the baby girl.",
+    "objects": [
+      "white",
+      "her",
+      "hand",
+      "baby",
+      "now",
+      "object",
+      "girl",
+      "little"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby girl is looking at the camera and smiling.",
+    "objects": [
+      "baby",
+      "girl"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby girl is looking at the camera and smiling.",
+    "objects": [
+      "baby",
+      "girl"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The man then walks out of the frame.",
+    "objects": [
+      "out",
+      "then",
+      "man"
+    ],
+    "actions": [
+      "walks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The man then walks out of the frame.",
+    "objects": [
+      "out",
+      "then",
+      "man"
+    ],
+    "actions": [
+      "walks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene then changes to the little girl standing in a play area, wearing a pink dress and a white hat with a blue bow, holding a yellow object in her hand.",
+    "objects": [
+      "pink",
+      "white",
+      "her",
+      "dress",
+      "bow",
+      "play",
+      "blue",
+      "area"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "changes"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene then changes to the little girl standing in a play area, wearing a pink dress and a white hat with a blue bow, holding a yellow object in her hand.",
+    "objects": [
+      "pink",
+      "white",
+      "her",
+      "dress",
+      "bow",
+      "play",
+      "blue",
+      "area"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "changes"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "She is playing with a toy car, smiling at the camera, and looking at the baby girl.",
+    "objects": [
+      "she",
+      "car",
+      "baby",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "She is playing with a toy car, smiling at the camera, and looking at the baby girl.",
+    "objects": [
+      "she",
+      "car",
+      "baby",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The baby girl is also smiling at the camera, holding a pink object in her hand.",
+    "objects": [
+      "object",
+      "girl",
+      "hand",
+      "baby",
+      "her",
+      "pink"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The baby girl is also smiling at the camera, holding a pink object in her hand.",
+    "objects": [
+      "object",
+      "girl",
+      "hand",
+      "baby",
+      "her",
+      "pink"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then pans to the man standing in the background, wearing a black shirt and holding a black toy in his hand.",
+    "objects": [
+      "man",
+      "pans",
+      "hand",
+      "then",
+      "shirt",
+      "his",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then pans to the man standing in the background, wearing a black shirt and holding a black toy in his hand.",
+    "objects": [
+      "man",
+      "pans",
+      "hand",
+      "then",
+      "shirt",
+      "his",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The baby girl is sitting in the high chair, wearing a pink dress and a white hat, smiling at the camera.",
+    "objects": [
+      "chair",
+      "white",
+      "dress",
+      "girl",
+      "hat",
+      "high",
+      "baby",
+      "pink"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The baby girl is sitting in the high chair, wearing a pink dress and a white hat, smiling at the camera.",
+    "objects": [
+      "chair",
+      "white",
+      "dress",
+      "girl",
+      "hat",
+      "high",
+      "baby",
+      "pink"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The little girl is looking at the baby girl with a smile, holding a white object in her hand.",
+    "objects": [
+      "white",
+      "her",
+      "hand",
+      "smile",
+      "baby",
+      "object",
+      "girl",
+      "little"
+    ],
+    "actions": [
+      "holding",
+      "looking"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The little girl is looking at the baby girl with a smile, holding a white object in her hand.",
+    "objects": [
+      "white",
+      "her",
+      "hand",
+      "smile",
+      "baby",
+      "object",
+      "girl",
+      "little"
+    ],
+    "actions": [
+      "holding",
+      "looking"
+    ],
+    "segment_id": 15
+  }
+]

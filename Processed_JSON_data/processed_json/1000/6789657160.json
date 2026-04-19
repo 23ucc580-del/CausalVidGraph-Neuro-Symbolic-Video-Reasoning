@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man sitting down with a small child in his lap, holding up a white balloon.",
+    "objects": [
+      "lap",
+      "small",
+      "man",
+      "white",
+      "child",
+      "see",
+      "balloon",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man sitting down with a small child in his lap, holding up a white balloon.",
+    "objects": [
+      "lap",
+      "small",
+      "man",
+      "white",
+      "child",
+      "see",
+      "balloon",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man sitting down with a small child in his lap, holding up a white balloon.",
+    "objects": [
+      "lap",
+      "small",
+      "man",
+      "white",
+      "child",
+      "see",
+      "balloon",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man sitting down with a small child in his lap, holding up a white balloon.",
+    "objects": [
+      "lap",
+      "small",
+      "man",
+      "white",
+      "child",
+      "see",
+      "balloon",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a man sitting down with a small child in his lap, holding up a white balloon.",
+    "objects": [
+      "lap",
+      "small",
+      "man",
+      "white",
+      "child",
+      "see",
+      "balloon",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The child seems to be enjoying the balloon, and the man appears to be reading a book.",
+    "objects": [
+      "balloon",
+      "book",
+      "man",
+      "child"
+    ],
+    "actions": [
+      "enjoying",
+      "reading",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child seems to be enjoying the balloon, and the man appears to be reading a book.",
+    "objects": [
+      "balloon",
+      "book",
+      "man",
+      "child"
+    ],
+    "actions": [
+      "enjoying",
+      "reading",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child seems to be enjoying the balloon, and the man appears to be reading a book.",
+    "objects": [
+      "balloon",
+      "book",
+      "man",
+      "child"
+    ],
+    "actions": [
+      "enjoying",
+      "reading",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The child seems to be enjoying the balloon, and the man appears to be reading a book.",
+    "objects": [
+      "balloon",
+      "book",
+      "man",
+      "child"
+    ],
+    "actions": [
+      "enjoying",
+      "reading",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The child seems to be enjoying the balloon, and the man appears to be reading a book.",
+    "objects": [
+      "balloon",
+      "book",
+      "man",
+      "child"
+    ],
+    "actions": [
+      "enjoying",
+      "reading",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene is set in a restaurant, with a menu board visible in the background.",
+    "objects": [
+      "menu",
+      "board",
+      "restaurant",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene is set in a restaurant, with a menu board visible in the background.",
+    "objects": [
+      "menu",
+      "board",
+      "restaurant",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The scene is set in a restaurant, with a menu board visible in the background.",
+    "objects": [
+      "menu",
+      "board",
+      "restaurant",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The scene is set in a restaurant, with a menu board visible in the background.",
+    "objects": [
+      "menu",
+      "board",
+      "restaurant",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The scene is set in a restaurant, with a menu board visible in the background.",
+    "objects": [
+      "menu",
+      "board",
+      "restaurant",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is wearing a red hoodie and glasses, and the child is dressed in a black jacket with a white collar.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "child",
+      "collar",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "glasses",
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is wearing a red hoodie and glasses, and the child is dressed in a black jacket with a white collar.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "child",
+      "collar",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "glasses",
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is wearing a red hoodie and glasses, and the child is dressed in a black jacket with a white collar.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "child",
+      "collar",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "glasses",
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is wearing a red hoodie and glasses, and the child is dressed in a black jacket with a white collar.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "child",
+      "collar",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "glasses",
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is wearing a red hoodie and glasses, and the child is dressed in a black jacket with a white collar.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "child",
+      "collar",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "glasses",
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is holding the balloon with both hands and the child is wearing a white jacket.",
+    "objects": [
+      "white",
+      "man",
+      "child",
+      "both",
+      "jacket",
+      "balloon"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is holding the balloon with both hands and the child is wearing a white jacket.",
+    "objects": [
+      "white",
+      "man",
+      "child",
+      "both",
+      "jacket",
+      "balloon"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is holding the balloon with both hands and the child is wearing a white jacket.",
+    "objects": [
+      "white",
+      "man",
+      "child",
+      "both",
+      "jacket",
+      "balloon"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is holding the balloon with both hands and the child is wearing a white jacket.",
+    "objects": [
+      "white",
+      "man",
+      "child",
+      "both",
+      "jacket",
+      "balloon"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is holding the balloon with both hands and the child is wearing a white jacket.",
+    "objects": [
+      "white",
+      "man",
+      "child",
+      "both",
+      "jacket",
+      "balloon"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "There is also a man in a blue hoodie and a woman in a white jacket visible in the background, and the child is holding a red balloon.",
+    "objects": [
+      "woman",
+      "man",
+      "white",
+      "hoodie",
+      "child",
+      "blue",
+      "jacket",
+      "balloon"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "There is also a man in a blue hoodie and a woman in a white jacket visible in the background, and the child is holding a red balloon.",
+    "objects": [
+      "woman",
+      "man",
+      "white",
+      "hoodie",
+      "child",
+      "blue",
+      "jacket",
+      "balloon"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "There is also a man in a blue hoodie and a woman in a white jacket visible in the background, and the child is holding a red balloon.",
+    "objects": [
+      "woman",
+      "man",
+      "white",
+      "hoodie",
+      "child",
+      "blue",
+      "jacket",
+      "balloon"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "There is also a man in a blue hoodie and a woman in a white jacket visible in the background, and the child is holding a red balloon.",
+    "objects": [
+      "woman",
+      "man",
+      "white",
+      "hoodie",
+      "child",
+      "blue",
+      "jacket",
+      "balloon"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "There is also a man in a blue hoodie and a woman in a white jacket visible in the background, and the child is holding a red balloon.",
+    "objects": [
+      "woman",
+      "man",
+      "white",
+      "hoodie",
+      "child",
+      "blue",
+      "jacket",
+      "balloon"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the blue hoodie is reading a book, and the child is smiling at him.",
+    "objects": [
+      "man",
+      "book",
+      "hoodie",
+      "child",
+      "blue",
+      "him"
+    ],
+    "actions": [
+      "smiling",
+      "reading"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the blue hoodie is reading a book, and the child is smiling at him.",
+    "objects": [
+      "man",
+      "book",
+      "hoodie",
+      "child",
+      "blue",
+      "him"
+    ],
+    "actions": [
+      "smiling",
+      "reading"
+    ],
+    "segment_id": 6
+  }
+]

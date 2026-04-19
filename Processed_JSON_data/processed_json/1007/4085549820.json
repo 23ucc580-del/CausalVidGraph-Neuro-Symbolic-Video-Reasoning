@@ -1,0 +1,576 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people enjoying a day out in the river, surrounded by lush greenery.",
+    "objects": [
+      "greenery",
+      "people",
+      "river",
+      "lush",
+      "see",
+      "out",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people enjoying a day out in the river, surrounded by lush greenery.",
+    "objects": [
+      "greenery",
+      "people",
+      "river",
+      "lush",
+      "see",
+      "out",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene opens with a person in a blue hoodie standing near a silver car, smiling and waving at the camera.",
+    "objects": [
+      "silver",
+      "car",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "opens",
+      "standing",
+      "waving",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a person in a blue hoodie standing near a silver car, smiling and waving at the camera.",
+    "objects": [
+      "silver",
+      "car",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "opens",
+      "standing",
+      "waving",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The car is parked on the riverbank, and we can see another person inside it, possibly waving back.",
+    "objects": [
+      "can",
+      "possibly",
+      "see",
+      "riverbank",
+      "car",
+      "inside"
+    ],
+    "actions": [
+      "waving",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The car is parked on the riverbank, and we can see another person inside it, possibly waving back.",
+    "objects": [
+      "can",
+      "possibly",
+      "see",
+      "riverbank",
+      "car",
+      "inside"
+    ],
+    "actions": [
+      "waving",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The people are standing on the bank, dressed in casual clothes, and some are wearing life jackets, indicating they are prepared for water activities.",
+    "objects": [
+      "they",
+      "people",
+      "casual",
+      "some",
+      "bank",
+      "life",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "prepared",
+      "wearing",
+      "activities"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The people are standing on the bank, dressed in casual clothes, and some are wearing life jackets, indicating they are prepared for water activities.",
+    "objects": [
+      "they",
+      "people",
+      "casual",
+      "some",
+      "bank",
+      "life",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "prepared",
+      "wearing",
+      "activities"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "As the scene progresses, we see a car driving down the riverbank, its tires kicking up a spray of water.",
+    "objects": [
+      "spray",
+      "its",
+      "see",
+      "riverbank",
+      "car",
+      "water"
+    ],
+    "actions": [
+      "progresses",
+      "driving",
+      "kicking",
+      "tires"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "As the scene progresses, we see a car driving down the riverbank, its tires kicking up a spray of water.",
+    "objects": [
+      "spray",
+      "its",
+      "see",
+      "riverbank",
+      "car",
+      "water"
+    ],
+    "actions": [
+      "progresses",
+      "driving",
+      "kicking",
+      "tires"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The car is a black jeep, and it's being driven by a man who is wearing a blue shirt and a helmet.",
+    "objects": [
+      "jeep",
+      "black",
+      "driven",
+      "blue",
+      "shirt",
+      "who",
+      "car",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The car is a black jeep, and it's being driven by a man who is wearing a blue shirt and a helmet.",
+    "objects": [
+      "jeep",
+      "black",
+      "driven",
+      "blue",
+      "shirt",
+      "who",
+      "car",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The jeep is crossing a shallow river, navigating the current.",
+    "objects": [
+      "current",
+      "river",
+      "shallow",
+      "jeep"
+    ],
+    "actions": [
+      "navigating",
+      "crossing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The jeep is crossing a shallow river, navigating the current.",
+    "objects": [
+      "current",
+      "river",
+      "shallow",
+      "jeep"
+    ],
+    "actions": [
+      "navigating",
+      "crossing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The people on the bank seem to be watching the jeep's progress, possibly cheering it on or just enjoying the sight.",
+    "objects": [
+      "sight",
+      "people",
+      "possibly",
+      "just",
+      "seem",
+      "bank"
+    ],
+    "actions": [
+      "progress",
+      "jeep's",
+      "cheering",
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The people on the bank seem to be watching the jeep's progress, possibly cheering it on or just enjoying the sight.",
+    "objects": [
+      "sight",
+      "people",
+      "possibly",
+      "just",
+      "seem",
+      "bank"
+    ],
+    "actions": [
+      "progress",
+      "jeep's",
+      "cheering",
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The jeep reaches the middle of the river and stops.",
+    "objects": [
+      "middle",
+      "river",
+      "jeep"
+    ],
+    "actions": [
+      "stops",
+      "reaches"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The jeep reaches the middle of the river and stops.",
+    "objects": [
+      "middle",
+      "river",
+      "jeep"
+    ],
+    "actions": [
+      "stops",
+      "reaches"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "Here, we see the driver getting out, possibly to inspect the river or take a break.",
+    "objects": [
+      "inspect",
+      "break",
+      "river",
+      "possibly",
+      "see",
+      "out",
+      "take",
+      "here"
+    ],
+    "actions": [
+      "getting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "Here, we see the driver getting out, possibly to inspect the river or take a break.",
+    "objects": [
+      "inspect",
+      "break",
+      "river",
+      "possibly",
+      "see",
+      "out",
+      "take",
+      "here"
+    ],
+    "actions": [
+      "getting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "He is wearing a blue shirt and a helmet, and there's a silver car nearby, possibly belonging to another driver or a passenger.",
+    "objects": [
+      "passenger",
+      "possibly",
+      "blue",
+      "shirt",
+      "silver",
+      "driver",
+      "car",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "belonging",
+      "there's"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "He is wearing a blue shirt and a helmet, and there's a silver car nearby, possibly belonging to another driver or a passenger.",
+    "objects": [
+      "passenger",
+      "possibly",
+      "blue",
+      "shirt",
+      "silver",
+      "driver",
+      "car",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "belonging",
+      "there's"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The jeep's driver is now standing in the river, holding a rope, and looking towards the jeep.",
+    "objects": [
+      "rope",
+      "river",
+      "jeep",
+      "now",
+      "driver"
+    ],
+    "actions": [
+      "towards",
+      "standing",
+      "looking",
+      "jeep's"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The jeep's driver is now standing in the river, holding a rope, and looking towards the jeep.",
+    "objects": [
+      "rope",
+      "river",
+      "jeep",
+      "now",
+      "driver"
+    ],
+    "actions": [
+      "towards",
+      "standing",
+      "looking",
+      "jeep's"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "It's unclear if he is trying to help the jeep cross the river or if he's assisting the other driver.",
+    "objects": [
+      "cross",
+      "other",
+      "river",
+      "jeep",
+      "unclear",
+      "help",
+      "driver"
+    ],
+    "actions": [
+      "assisting",
+      "trying"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "It's unclear if he is trying to help the jeep cross the river or if he's assisting the other driver.",
+    "objects": [
+      "cross",
+      "other",
+      "river",
+      "jeep",
+      "unclear",
+      "help",
+      "driver"
+    ],
+    "actions": [
+      "assisting",
+      "trying"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene ends with the jeep's driver and the man in the blue shirt standing in the river.",
+    "objects": [
+      "river",
+      "blue",
+      "shirt",
+      "ends",
+      "man",
+      "driver"
+    ],
+    "actions": [
+      "standing",
+      "jeep's"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene ends with the jeep's driver and the man in the blue shirt standing in the river.",
+    "objects": [
+      "river",
+      "blue",
+      "shirt",
+      "ends",
+      "man",
+      "driver"
+    ],
+    "actions": [
+      "standing",
+      "jeep's"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The jeep is stuck, possibly due to the current or shallow water, and they are both trying to help it out.",
+    "objects": [
+      "they",
+      "both",
+      "shallow",
+      "jeep",
+      "due",
+      "stuck",
+      "possibly",
+      "current"
+    ],
+    "actions": [
+      "trying"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The jeep is stuck, possibly due to the current or shallow water, and they are both trying to help it out.",
+    "objects": [
+      "they",
+      "both",
+      "shallow",
+      "jeep",
+      "due",
+      "stuck",
+      "possibly",
+      "current"
+    ],
+    "actions": [
+      "trying"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The man is wearing a blue shirt and holding a rope, while the jeep's driver is wearing a helmet and also holding a rope.",
+    "objects": [
+      "rope",
+      "while",
+      "blue",
+      "shirt",
+      "helmet",
+      "man",
+      "driver"
+    ],
+    "actions": [
+      "wearing",
+      "jeep's",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The man is wearing a blue shirt and holding a rope, while the jeep's driver is wearing a helmet and also holding a rope.",
+    "objects": [
+      "rope",
+      "while",
+      "blue",
+      "shirt",
+      "helmet",
+      "man",
+      "driver"
+    ],
+    "actions": [
+      "wearing",
+      "jeep's",
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a vibrant scene on a lake where a group of people are enjoying a day of sailing.",
+    "objects": [
+      "people",
+      "where",
+      "vibrant",
+      "lake",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "sailing",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a vibrant scene on a lake where a group of people are enjoying a day of sailing.",
+    "objects": [
+      "people",
+      "where",
+      "vibrant",
+      "lake",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "sailing",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a vibrant scene on a lake where a group of people are enjoying a day of sailing.",
+    "objects": [
+      "people",
+      "where",
+      "vibrant",
+      "lake",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "sailing",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a vibrant scene on a lake where a group of people are enjoying a day of sailing.",
+    "objects": [
+      "people",
+      "where",
+      "vibrant",
+      "lake",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "sailing",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the foreground, two people are seen wearing life jackets and actively maneuvering a sailboat.",
+    "objects": [
+      "people",
+      "two",
+      "actively",
+      "sailboat",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "maneuvering",
+      "jackets"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, two people are seen wearing life jackets and actively maneuvering a sailboat.",
+    "objects": [
+      "people",
+      "two",
+      "actively",
+      "sailboat",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "maneuvering",
+      "jackets"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, two people are seen wearing life jackets and actively maneuvering a sailboat.",
+    "objects": [
+      "people",
+      "two",
+      "actively",
+      "sailboat",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "maneuvering",
+      "jackets"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, two people are seen wearing life jackets and actively maneuvering a sailboat.",
+    "objects": [
+      "people",
+      "two",
+      "actively",
+      "sailboat",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "maneuvering",
+      "jackets"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The sailboat, with its red and blue hull, is equipped with a white and blue sail.",
+    "objects": [
+      "hull",
+      "its",
+      "white",
+      "sail",
+      "blue",
+      "sailboat"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The sailboat, with its red and blue hull, is equipped with a white and blue sail.",
+    "objects": [
+      "hull",
+      "its",
+      "white",
+      "sail",
+      "blue",
+      "sailboat"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The sailboat, with its red and blue hull, is equipped with a white and blue sail.",
+    "objects": [
+      "hull",
+      "its",
+      "white",
+      "sail",
+      "blue",
+      "sailboat"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The sailboat, with its red and blue hull, is equipped with a white and blue sail.",
+    "objects": [
+      "hull",
+      "its",
+      "white",
+      "sail",
+      "blue",
+      "sailboat"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The person at the helm is holding the sail with one hand, while the other person, dressed in a white shirt, is sitting on the bench seat, steering the boat.",
+    "objects": [
+      "one",
+      "helm",
+      "other",
+      "white",
+      "sail",
+      "while",
+      "boat",
+      "shirt"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "holding",
+      "steering"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The person at the helm is holding the sail with one hand, while the other person, dressed in a white shirt, is sitting on the bench seat, steering the boat.",
+    "objects": [
+      "one",
+      "helm",
+      "other",
+      "white",
+      "sail",
+      "while",
+      "boat",
+      "shirt"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "holding",
+      "steering"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The person at the helm is holding the sail with one hand, while the other person, dressed in a white shirt, is sitting on the bench seat, steering the boat.",
+    "objects": [
+      "one",
+      "helm",
+      "other",
+      "white",
+      "sail",
+      "while",
+      "boat",
+      "shirt"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "holding",
+      "steering"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The person at the helm is holding the sail with one hand, while the other person, dressed in a white shirt, is sitting on the bench seat, steering the boat.",
+    "objects": [
+      "one",
+      "helm",
+      "other",
+      "white",
+      "sail",
+      "while",
+      "boat",
+      "shirt"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "holding",
+      "steering"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They both seem to be in a joyful mood, smiling and laughing as they navigate the sailboat.",
+    "objects": [
+      "they",
+      "both",
+      "joyful",
+      "navigate",
+      "sailboat",
+      "seem",
+      "mood"
+    ],
+    "actions": [
+      "laughing",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "They both seem to be in a joyful mood, smiling and laughing as they navigate the sailboat.",
+    "objects": [
+      "they",
+      "both",
+      "joyful",
+      "navigate",
+      "sailboat",
+      "seem",
+      "mood"
+    ],
+    "actions": [
+      "laughing",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "They both seem to be in a joyful mood, smiling and laughing as they navigate the sailboat.",
+    "objects": [
+      "they",
+      "both",
+      "joyful",
+      "navigate",
+      "sailboat",
+      "seem",
+      "mood"
+    ],
+    "actions": [
+      "laughing",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "They both seem to be in a joyful mood, smiling and laughing as they navigate the sailboat.",
+    "objects": [
+      "they",
+      "both",
+      "joyful",
+      "navigate",
+      "sailboat",
+      "seem",
+      "mood"
+    ],
+    "actions": [
+      "laughing",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, other sailboats can be seen on the water, with their sails catching the sunlight.",
+    "objects": [
+      "their",
+      "other",
+      "can",
+      "sunlight",
+      "water"
+    ],
+    "actions": [
+      "sails",
+      "sailboats",
+      "catching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, other sailboats can be seen on the water, with their sails catching the sunlight.",
+    "objects": [
+      "their",
+      "other",
+      "can",
+      "sunlight",
+      "water"
+    ],
+    "actions": [
+      "sails",
+      "sailboats",
+      "catching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, other sailboats can be seen on the water, with their sails catching the sunlight.",
+    "objects": [
+      "their",
+      "other",
+      "can",
+      "sunlight",
+      "water"
+    ],
+    "actions": [
+      "sails",
+      "sailboats",
+      "catching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, other sailboats can be seen on the water, with their sails catching the sunlight.",
+    "objects": [
+      "their",
+      "other",
+      "can",
+      "sunlight",
+      "water"
+    ],
+    "actions": [
+      "sails",
+      "sailboats",
+      "catching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A person on a sailboat in the distance is holding a sail with a red and white hoodie, while another sailboat further away has a red and white hull.",
+    "objects": [
+      "distance",
+      "hull",
+      "white",
+      "sail",
+      "while",
+      "further",
+      "away",
+      "has"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A person on a sailboat in the distance is holding a sail with a red and white hoodie, while another sailboat further away has a red and white hull.",
+    "objects": [
+      "distance",
+      "hull",
+      "white",
+      "sail",
+      "while",
+      "further",
+      "away",
+      "has"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A person on a sailboat in the distance is holding a sail with a red and white hoodie, while another sailboat further away has a red and white hull.",
+    "objects": [
+      "distance",
+      "hull",
+      "white",
+      "sail",
+      "while",
+      "further",
+      "away",
+      "has"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A person on a sailboat in the distance is holding a sail with a red and white hoodie, while another sailboat further away has a red and white hull.",
+    "objects": [
+      "distance",
+      "hull",
+      "white",
+      "sail",
+      "while",
+      "further",
+      "away",
+      "has"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is bustling with activity, and the water is dotted with various boats, adding to the lively atmosphere.",
+    "objects": [
+      "activity",
+      "atmosphere",
+      "water",
+      "lively"
+    ],
+    "actions": [
+      "boats",
+      "adding",
+      "bustling",
+      "dotted"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is bustling with activity, and the water is dotted with various boats, adding to the lively atmosphere.",
+    "objects": [
+      "activity",
+      "atmosphere",
+      "water",
+      "lively"
+    ],
+    "actions": [
+      "boats",
+      "adding",
+      "bustling",
+      "dotted"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is bustling with activity, and the water is dotted with various boats, adding to the lively atmosphere.",
+    "objects": [
+      "activity",
+      "atmosphere",
+      "water",
+      "lively"
+    ],
+    "actions": [
+      "boats",
+      "adding",
+      "bustling",
+      "dotted"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is bustling with activity, and the water is dotted with various boats, adding to the lively atmosphere.",
+    "objects": [
+      "activity",
+      "atmosphere",
+      "water",
+      "lively"
+    ],
+    "actions": [
+      "boats",
+      "adding",
+      "bustling",
+      "dotted"
+    ],
+    "segment_id": 7
+  }
+]

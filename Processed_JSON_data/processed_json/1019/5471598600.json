@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a serene scene of a group of people enjoying a walk on a dirt trail in a park.",
+    "objects": [
+      "walk",
+      "people",
+      "serene",
+      "trail",
+      "see",
+      "park",
+      "this",
+      "dirt"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a serene scene of a group of people enjoying a walk on a dirt trail in a park.",
+    "objects": [
+      "walk",
+      "people",
+      "serene",
+      "trail",
+      "see",
+      "park",
+      "this",
+      "dirt"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a serene scene of a group of people enjoying a walk on a dirt trail in a park.",
+    "objects": [
+      "walk",
+      "people",
+      "serene",
+      "trail",
+      "see",
+      "park",
+      "this",
+      "dirt"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "There are three individuals visible in the shot.",
+    "objects": [
+      "three",
+      "there"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "There are three individuals visible in the shot.",
+    "objects": [
+      "three",
+      "there"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "There are three individuals visible in the shot.",
+    "objects": [
+      "three",
+      "there"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One person is wearing a white jacket, another is in a black jacket, and the third person is dressed in a white hoodie.",
+    "objects": [
+      "one",
+      "white",
+      "jacket",
+      "black",
+      "third",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "One person is wearing a white jacket, another is in a black jacket, and the third person is dressed in a white hoodie.",
+    "objects": [
+      "one",
+      "white",
+      "jacket",
+      "black",
+      "third",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "One person is wearing a white jacket, another is in a black jacket, and the third person is dressed in a white hoodie.",
+    "objects": [
+      "one",
+      "white",
+      "jacket",
+      "black",
+      "third",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The person in the white jacket is walking ahead of the other two, leading the way.",
+    "objects": [
+      "other",
+      "white",
+      "two",
+      "jacket",
+      "way",
+      "ahead"
+    ],
+    "actions": [
+      "leading",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The person in the white jacket is walking ahead of the other two, leading the way.",
+    "objects": [
+      "other",
+      "white",
+      "two",
+      "jacket",
+      "way",
+      "ahead"
+    ],
+    "actions": [
+      "leading",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The person in the white jacket is walking ahead of the other two, leading the way.",
+    "objects": [
+      "other",
+      "white",
+      "two",
+      "jacket",
+      "way",
+      "ahead"
+    ],
+    "actions": [
+      "leading",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The person in the black jacket is slightly behind and to the left of the white jacket, while the third person in the white hoodie is trailing slightly behind and to the right of the white jacket.",
+    "objects": [
+      "behind",
+      "white",
+      "while",
+      "black",
+      "jacket",
+      "third",
+      "hoodie",
+      "slightly"
+    ],
+    "actions": [
+      "trailing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The person in the black jacket is slightly behind and to the left of the white jacket, while the third person in the white hoodie is trailing slightly behind and to the right of the white jacket.",
+    "objects": [
+      "behind",
+      "white",
+      "while",
+      "black",
+      "jacket",
+      "third",
+      "hoodie",
+      "slightly"
+    ],
+    "actions": [
+      "trailing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The person in the black jacket is slightly behind and to the left of the white jacket, while the third person in the white hoodie is trailing slightly behind and to the right of the white jacket.",
+    "objects": [
+      "behind",
+      "white",
+      "while",
+      "black",
+      "jacket",
+      "third",
+      "hoodie",
+      "slightly"
+    ],
+    "actions": [
+      "trailing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "All three are walking in the same direction, heading towards the right side of the frame.",
+    "objects": [
+      "three",
+      "same",
+      "direction",
+      "side",
+      "all"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "heading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "All three are walking in the same direction, heading towards the right side of the frame.",
+    "objects": [
+      "three",
+      "same",
+      "direction",
+      "side",
+      "all"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "heading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "All three are walking in the same direction, heading towards the right side of the frame.",
+    "objects": [
+      "three",
+      "same",
+      "direction",
+      "side",
+      "all"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "heading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The person in the white jacket is holding a handbag, while the person in the black jacket is carrying a backpack.",
+    "objects": [
+      "white",
+      "while",
+      "jacket",
+      "black",
+      "handbag",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The person in the white jacket is holding a handbag, while the person in the black jacket is carrying a backpack.",
+    "objects": [
+      "white",
+      "while",
+      "jacket",
+      "black",
+      "handbag",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The person in the white jacket is holding a handbag, while the person in the black jacket is carrying a backpack.",
+    "objects": [
+      "white",
+      "while",
+      "jacket",
+      "black",
+      "handbag",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The person in the white hoodie is not carrying any visible objects.",
+    "objects": [
+      "hoodie",
+      "not",
+      "white",
+      "any"
+    ],
+    "actions": [
+      "carrying",
+      "objects"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The person in the white hoodie is not carrying any visible objects.",
+    "objects": [
+      "hoodie",
+      "not",
+      "white",
+      "any"
+    ],
+    "actions": [
+      "carrying",
+      "objects"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The person in the white hoodie is not carrying any visible objects.",
+    "objects": [
+      "hoodie",
+      "not",
+      "white",
+      "any"
+    ],
+    "actions": [
+      "carrying",
+      "objects"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The trail they are walking on appears to be made of dirt and is surrounded by trees and bushes, creating a peaceful and natural atmosphere.",
+    "objects": [
+      "they",
+      "natural",
+      "made",
+      "trail",
+      "peaceful",
+      "atmosphere",
+      "dirt"
+    ],
+    "actions": [
+      "surrounded",
+      "trees",
+      "creating",
+      "bushes"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The trail they are walking on appears to be made of dirt and is surrounded by trees and bushes, creating a peaceful and natural atmosphere.",
+    "objects": [
+      "they",
+      "natural",
+      "made",
+      "trail",
+      "peaceful",
+      "atmosphere",
+      "dirt"
+    ],
+    "actions": [
+      "surrounded",
+      "trees",
+      "creating",
+      "bushes"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The trail they are walking on appears to be made of dirt and is surrounded by trees and bushes, creating a peaceful and natural atmosphere.",
+    "objects": [
+      "they",
+      "natural",
+      "made",
+      "trail",
+      "peaceful",
+      "atmosphere",
+      "dirt"
+    ],
+    "actions": [
+      "surrounded",
+      "trees",
+      "creating",
+      "bushes"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The people are dressed casually, suggesting a leisurely walk rather than a formal outing.",
+    "objects": [
+      "casually",
+      "rather",
+      "leisurely",
+      "walk",
+      "people",
+      "than",
+      "formal"
+    ],
+    "actions": [
+      "dressed",
+      "suggesting",
+      "outing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The people are dressed casually, suggesting a leisurely walk rather than a formal outing.",
+    "objects": [
+      "casually",
+      "rather",
+      "leisurely",
+      "walk",
+      "people",
+      "than",
+      "formal"
+    ],
+    "actions": [
+      "dressed",
+      "suggesting",
+      "outing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The people are dressed casually, suggesting a leisurely walk rather than a formal outing.",
+    "objects": [
+      "casually",
+      "rather",
+      "leisurely",
+      "walk",
+      "people",
+      "than",
+      "formal"
+    ],
+    "actions": [
+      "dressed",
+      "suggesting",
+      "outing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall scene is one of calm and leisure, with the individuals moving at a relaxed pace along the trail.",
+    "objects": [
+      "one",
+      "along",
+      "trail",
+      "pace",
+      "calm",
+      "overall",
+      "leisure"
+    ],
+    "actions": [
+      "moving",
+      "relaxed",
+      "individuals"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall scene is one of calm and leisure, with the individuals moving at a relaxed pace along the trail.",
+    "objects": [
+      "one",
+      "along",
+      "trail",
+      "pace",
+      "calm",
+      "overall",
+      "leisure"
+    ],
+    "actions": [
+      "moving",
+      "relaxed",
+      "individuals"
+    ],
+    "segment_id": 10
+  }
+]

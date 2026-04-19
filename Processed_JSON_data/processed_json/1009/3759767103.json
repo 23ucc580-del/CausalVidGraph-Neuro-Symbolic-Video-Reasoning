@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a tranquil suburban street scene at dusk.",
+    "objects": [
+      "dusk",
+      "suburban",
+      "street",
+      "tranquil"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a tranquil suburban street scene at dusk.",
+    "objects": [
+      "dusk",
+      "suburban",
+      "street",
+      "tranquil"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a tranquil suburban street scene at dusk.",
+    "objects": [
+      "dusk",
+      "suburban",
+      "street",
+      "tranquil"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The sky is a soft pinkish-orange, and the sun casts a long, warm glow on the surroundings.",
+    "objects": [
+      "soft",
+      "long",
+      "warm",
+      "sun",
+      "glow",
+      "sky"
+    ],
+    "actions": [
+      "surroundings",
+      "casts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The sky is a soft pinkish-orange, and the sun casts a long, warm glow on the surroundings.",
+    "objects": [
+      "soft",
+      "long",
+      "warm",
+      "sun",
+      "glow",
+      "sky"
+    ],
+    "actions": [
+      "surroundings",
+      "casts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The sky is a soft pinkish-orange, and the sun casts a long, warm glow on the surroundings.",
+    "objects": [
+      "soft",
+      "long",
+      "warm",
+      "sun",
+      "glow",
+      "sky"
+    ],
+    "actions": [
+      "surroundings",
+      "casts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man is seen walking his dog, the dog is leashed and appears to be on a leash.",
+    "objects": [
+      "man",
+      "dog",
+      "his",
+      "leash"
+    ],
+    "actions": [
+      "leashed",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A man is seen walking his dog, the dog is leashed and appears to be on a leash.",
+    "objects": [
+      "man",
+      "dog",
+      "his",
+      "leash"
+    ],
+    "actions": [
+      "leashed",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A man is seen walking his dog, the dog is leashed and appears to be on a leash.",
+    "objects": [
+      "man",
+      "dog",
+      "his",
+      "leash"
+    ],
+    "actions": [
+      "leashed",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is wearing a blue hoodie and jeans, and he carries a black backpack.",
+    "objects": [
+      "black",
+      "blue",
+      "hoodie",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "carries"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The man is wearing a blue hoodie and jeans, and he carries a black backpack.",
+    "objects": [
+      "black",
+      "blue",
+      "hoodie",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "carries"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The man is wearing a blue hoodie and jeans, and he carries a black backpack.",
+    "objects": [
+      "black",
+      "blue",
+      "hoodie",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "carries"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man is riding a skateboard, holding a skateboard, and he's wearing a gray hoodie.",
+    "objects": [
+      "skateboard",
+      "man",
+      "hoodie",
+      "gray"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "riding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man is riding a skateboard, holding a skateboard, and he's wearing a gray hoodie.",
+    "objects": [
+      "skateboard",
+      "man",
+      "hoodie",
+      "gray"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "riding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Another man is riding a skateboard, holding a skateboard, and he's wearing a gray hoodie.",
+    "objects": [
+      "skateboard",
+      "man",
+      "hoodie",
+      "gray"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "riding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "He is moving along the street at a steady pace, seemingly enjoying the cool air.",
+    "objects": [
+      "along",
+      "air",
+      "street",
+      "pace",
+      "seemingly",
+      "cool",
+      "steady"
+    ],
+    "actions": [
+      "moving",
+      "enjoying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "He is moving along the street at a steady pace, seemingly enjoying the cool air.",
+    "objects": [
+      "along",
+      "air",
+      "street",
+      "pace",
+      "seemingly",
+      "cool",
+      "steady"
+    ],
+    "actions": [
+      "moving",
+      "enjoying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "He is moving along the street at a steady pace, seemingly enjoying the cool air.",
+    "objects": [
+      "along",
+      "air",
+      "street",
+      "pace",
+      "seemingly",
+      "cool",
+      "steady"
+    ],
+    "actions": [
+      "moving",
+      "enjoying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "As the first man walks his dog, a car passes by him, its color is silver, and it's a compact car.",
+    "objects": [
+      "its",
+      "him",
+      "compact",
+      "silver",
+      "color",
+      "dog",
+      "car",
+      "his"
+    ],
+    "actions": [
+      "walks",
+      "passes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "As the first man walks his dog, a car passes by him, its color is silver, and it's a compact car.",
+    "objects": [
+      "its",
+      "him",
+      "compact",
+      "silver",
+      "color",
+      "dog",
+      "car",
+      "his"
+    ],
+    "actions": [
+      "walks",
+      "passes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "As the first man walks his dog, a car passes by him, its color is silver, and it's a compact car.",
+    "objects": [
+      "its",
+      "him",
+      "compact",
+      "silver",
+      "color",
+      "dog",
+      "car",
+      "his"
+    ],
+    "actions": [
+      "walks",
+      "passes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The dog is a medium-sized breed with a black coat and a white chest.",
+    "objects": [
+      "white",
+      "chest",
+      "black",
+      "coat",
+      "dog"
+    ],
+    "actions": [
+      "breed",
+      "medium-sized"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The dog is a medium-sized breed with a black coat and a white chest.",
+    "objects": [
+      "white",
+      "chest",
+      "black",
+      "coat",
+      "dog"
+    ],
+    "actions": [
+      "breed",
+      "medium-sized"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The dog is a medium-sized breed with a black coat and a white chest.",
+    "objects": [
+      "white",
+      "chest",
+      "black",
+      "coat",
+      "dog"
+    ],
+    "actions": [
+      "breed",
+      "medium-sized"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The street is lined with trees and grassy areas, and the houses in the background are white and have brown roofs.",
+    "objects": [
+      "white",
+      "street",
+      "have",
+      "grassy",
+      "brown"
+    ],
+    "actions": [
+      "roofs",
+      "lined",
+      "areas",
+      "trees"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The street is lined with trees and grassy areas, and the houses in the background are white and have brown roofs.",
+    "objects": [
+      "white",
+      "street",
+      "have",
+      "grassy",
+      "brown"
+    ],
+    "actions": [
+      "roofs",
+      "lined",
+      "areas",
+      "trees"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The street is lined with trees and grassy areas, and the houses in the background are white and have brown roofs.",
+    "objects": [
+      "white",
+      "street",
+      "have",
+      "grassy",
+      "brown"
+    ],
+    "actions": [
+      "roofs",
+      "lined",
+      "areas",
+      "trees"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The overall atmosphere is serene and peaceful.",
+    "objects": [
+      "overall",
+      "serene",
+      "atmosphere",
+      "peaceful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The overall atmosphere is serene and peaceful.",
+    "objects": [
+      "overall",
+      "serene",
+      "atmosphere",
+      "peaceful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The overall atmosphere is serene and peaceful.",
+    "objects": [
+      "overall",
+      "serene",
+      "atmosphere",
+      "peaceful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The streetlights are lit, casting a soft glow on the scene, and the sky is a beautiful gradient of orange and pink, suggesting it's either sunset or dawn.",
+    "objects": [
+      "soft",
+      "either",
+      "orange",
+      "pink",
+      "lit",
+      "sunset",
+      "gradient",
+      "glow"
+    ],
+    "actions": [
+      "suggesting",
+      "casting",
+      "streetlights"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The streetlights are lit, casting a soft glow on the scene, and the sky is a beautiful gradient of orange and pink, suggesting it's either sunset or dawn.",
+    "objects": [
+      "soft",
+      "either",
+      "orange",
+      "pink",
+      "lit",
+      "sunset",
+      "gradient",
+      "glow"
+    ],
+    "actions": [
+      "suggesting",
+      "casting",
+      "streetlights"
+    ],
+    "segment_id": 10
+  }
+]

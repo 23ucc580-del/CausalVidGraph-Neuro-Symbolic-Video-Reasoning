@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young man is seated at a piano, deeply engrossed in playing a classical piece.",
+    "objects": [
+      "classical",
+      "man",
+      "young",
+      "deeply",
+      "piece",
+      "piano"
+    ],
+    "actions": [
+      "seated",
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young man is seated at a piano, deeply engrossed in playing a classical piece.",
+    "objects": [
+      "classical",
+      "man",
+      "young",
+      "deeply",
+      "piece",
+      "piano"
+    ],
+    "actions": [
+      "seated",
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young man is seated at a piano, deeply engrossed in playing a classical piece.",
+    "objects": [
+      "classical",
+      "man",
+      "young",
+      "deeply",
+      "piece",
+      "piano"
+    ],
+    "actions": [
+      "seated",
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a young man is seated at a piano, deeply engrossed in playing a classical piece.",
+    "objects": [
+      "classical",
+      "man",
+      "young",
+      "deeply",
+      "piece",
+      "piano"
+    ],
+    "actions": [
+      "seated",
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is wearing a black t-shirt and blue shorts, and his attention is focused on the music sheet in front of him.",
+    "objects": [
+      "blue",
+      "attention",
+      "his",
+      "him",
+      "sheet",
+      "music",
+      "black"
+    ],
+    "actions": [
+      "focused",
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a black t-shirt and blue shorts, and his attention is focused on the music sheet in front of him.",
+    "objects": [
+      "blue",
+      "attention",
+      "his",
+      "him",
+      "sheet",
+      "music",
+      "black"
+    ],
+    "actions": [
+      "focused",
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is wearing a black t-shirt and blue shorts, and his attention is focused on the music sheet in front of him.",
+    "objects": [
+      "blue",
+      "attention",
+      "his",
+      "him",
+      "sheet",
+      "music",
+      "black"
+    ],
+    "actions": [
+      "focused",
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is wearing a black t-shirt and blue shorts, and his attention is focused on the music sheet in front of him.",
+    "objects": [
+      "blue",
+      "attention",
+      "his",
+      "him",
+      "sheet",
+      "music",
+      "black"
+    ],
+    "actions": [
+      "focused",
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "His fingers dance across the keys as he plays, demonstrating his mastery of the classical piece.",
+    "objects": [
+      "across",
+      "classical",
+      "dance",
+      "keys",
+      "his",
+      "piece",
+      "mastery"
+    ],
+    "actions": [
+      "fingers",
+      "plays",
+      "demonstrating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "His fingers dance across the keys as he plays, demonstrating his mastery of the classical piece.",
+    "objects": [
+      "across",
+      "classical",
+      "dance",
+      "keys",
+      "his",
+      "piece",
+      "mastery"
+    ],
+    "actions": [
+      "fingers",
+      "plays",
+      "demonstrating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "His fingers dance across the keys as he plays, demonstrating his mastery of the classical piece.",
+    "objects": [
+      "across",
+      "classical",
+      "dance",
+      "keys",
+      "his",
+      "piece",
+      "mastery"
+    ],
+    "actions": [
+      "fingers",
+      "plays",
+      "demonstrating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "His fingers dance across the keys as he plays, demonstrating his mastery of the classical piece.",
+    "objects": [
+      "across",
+      "classical",
+      "dance",
+      "keys",
+      "his",
+      "piece",
+      "mastery"
+    ],
+    "actions": [
+      "fingers",
+      "plays",
+      "demonstrating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Behind him, a living room scene unfolds.",
+    "objects": [
+      "him",
+      "behind",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "unfolds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Behind him, a living room scene unfolds.",
+    "objects": [
+      "him",
+      "behind",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "unfolds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Behind him, a living room scene unfolds.",
+    "objects": [
+      "him",
+      "behind",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "unfolds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Behind him, a living room scene unfolds.",
+    "objects": [
+      "him",
+      "behind",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "unfolds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A couch is visible, adorned with a few decorative items, including a potted plant and a vase.",
+    "objects": [
+      "couch",
+      "few",
+      "plant",
+      "decorative",
+      "vase"
+    ],
+    "actions": [
+      "potted",
+      "adorned",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A couch is visible, adorned with a few decorative items, including a potted plant and a vase.",
+    "objects": [
+      "couch",
+      "few",
+      "plant",
+      "decorative",
+      "vase"
+    ],
+    "actions": [
+      "potted",
+      "adorned",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A couch is visible, adorned with a few decorative items, including a potted plant and a vase.",
+    "objects": [
+      "couch",
+      "few",
+      "plant",
+      "decorative",
+      "vase"
+    ],
+    "actions": [
+      "potted",
+      "adorned",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A couch is visible, adorned with a few decorative items, including a potted plant and a vase.",
+    "objects": [
+      "couch",
+      "few",
+      "plant",
+      "decorative",
+      "vase"
+    ],
+    "actions": [
+      "potted",
+      "adorned",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman is seated on the couch, observing the young man's performance, her attention drawn to the musician.",
+    "objects": [
+      "couch",
+      "her",
+      "performance",
+      "attention",
+      "young",
+      "drawn",
+      "musician",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "observing",
+      "man's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman is seated on the couch, observing the young man's performance, her attention drawn to the musician.",
+    "objects": [
+      "couch",
+      "her",
+      "performance",
+      "attention",
+      "young",
+      "drawn",
+      "musician",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "observing",
+      "man's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman is seated on the couch, observing the young man's performance, her attention drawn to the musician.",
+    "objects": [
+      "couch",
+      "her",
+      "performance",
+      "attention",
+      "young",
+      "drawn",
+      "musician",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "observing",
+      "man's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman is seated on the couch, observing the young man's performance, her attention drawn to the musician.",
+    "objects": [
+      "couch",
+      "her",
+      "performance",
+      "attention",
+      "young",
+      "drawn",
+      "musician",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "observing",
+      "man's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A dog is also present in the scene, its body language suggesting curiosity as it watches the young man's playing.",
+    "objects": [
+      "body",
+      "present",
+      "curiosity",
+      "its",
+      "young",
+      "dog",
+      "language"
+    ],
+    "actions": [
+      "man's",
+      "watches",
+      "playing",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A dog is also present in the scene, its body language suggesting curiosity as it watches the young man's playing.",
+    "objects": [
+      "body",
+      "present",
+      "curiosity",
+      "its",
+      "young",
+      "dog",
+      "language"
+    ],
+    "actions": [
+      "man's",
+      "watches",
+      "playing",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A dog is also present in the scene, its body language suggesting curiosity as it watches the young man's playing.",
+    "objects": [
+      "body",
+      "present",
+      "curiosity",
+      "its",
+      "young",
+      "dog",
+      "language"
+    ],
+    "actions": [
+      "man's",
+      "watches",
+      "playing",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A dog is also present in the scene, its body language suggesting curiosity as it watches the young man's playing.",
+    "objects": [
+      "body",
+      "present",
+      "curiosity",
+      "its",
+      "young",
+      "dog",
+      "language"
+    ],
+    "actions": [
+      "man's",
+      "watches",
+      "playing",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The young man's posture is one of concentration and passion, embodying the intensity of his performance.",
+    "objects": [
+      "concentration",
+      "passion",
+      "performance",
+      "his",
+      "young",
+      "posture",
+      "intensity",
+      "one"
+    ],
+    "actions": [
+      "embodying",
+      "man's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The young man's posture is one of concentration and passion, embodying the intensity of his performance.",
+    "objects": [
+      "concentration",
+      "passion",
+      "performance",
+      "his",
+      "young",
+      "posture",
+      "intensity",
+      "one"
+    ],
+    "actions": [
+      "embodying",
+      "man's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The young man's posture is one of concentration and passion, embodying the intensity of his performance.",
+    "objects": [
+      "concentration",
+      "passion",
+      "performance",
+      "his",
+      "young",
+      "posture",
+      "intensity",
+      "one"
+    ],
+    "actions": [
+      "embodying",
+      "man's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The young man's posture is one of concentration and passion, embodying the intensity of his performance.",
+    "objects": [
+      "concentration",
+      "passion",
+      "performance",
+      "his",
+      "young",
+      "posture",
+      "intensity",
+      "one"
+    ],
+    "actions": [
+      "embodying",
+      "man's"
+    ],
+    "segment_id": 7
+  }
+]

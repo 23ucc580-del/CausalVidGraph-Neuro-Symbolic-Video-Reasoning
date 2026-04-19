@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, two men are standing on a stage.",
+    "objects": [
+      "stage",
+      "men",
+      "two"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, two men are standing on a stage.",
+    "objects": [
+      "stage",
+      "men",
+      "two"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, two men are standing on a stage.",
+    "objects": [
+      "stage",
+      "men",
+      "two"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, two men are standing on a stage.",
+    "objects": [
+      "stage",
+      "men",
+      "two"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One man is holding a beer bottle and a microphone, seemingly addressing the audience or a specific person, while the other man is holding a white sign that reads \"Ben's Target\".",
+    "objects": [
+      "one",
+      "specific",
+      "other",
+      "white",
+      "while",
+      "microphone",
+      "bottle",
+      "audience"
+    ],
+    "actions": [
+      "reads",
+      "holding",
+      "\"ben's",
+      "addressing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One man is holding a beer bottle and a microphone, seemingly addressing the audience or a specific person, while the other man is holding a white sign that reads \"Ben's Target\".",
+    "objects": [
+      "one",
+      "specific",
+      "other",
+      "white",
+      "while",
+      "microphone",
+      "bottle",
+      "audience"
+    ],
+    "actions": [
+      "reads",
+      "holding",
+      "\"ben's",
+      "addressing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One man is holding a beer bottle and a microphone, seemingly addressing the audience or a specific person, while the other man is holding a white sign that reads \"Ben's Target\".",
+    "objects": [
+      "one",
+      "specific",
+      "other",
+      "white",
+      "while",
+      "microphone",
+      "bottle",
+      "audience"
+    ],
+    "actions": [
+      "reads",
+      "holding",
+      "\"ben's",
+      "addressing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One man is holding a beer bottle and a microphone, seemingly addressing the audience or a specific person, while the other man is holding a white sign that reads \"Ben's Target\".",
+    "objects": [
+      "one",
+      "specific",
+      "other",
+      "white",
+      "while",
+      "microphone",
+      "bottle",
+      "audience"
+    ],
+    "actions": [
+      "reads",
+      "holding",
+      "\"ben's",
+      "addressing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man with the beer bottle is wearing a black shirt and glasses, and the man holding the sign is wearing a green shirt.",
+    "objects": [
+      "black",
+      "green",
+      "bottle",
+      "shirt",
+      "beer",
+      "man",
+      "sign"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man with the beer bottle is wearing a black shirt and glasses, and the man holding the sign is wearing a green shirt.",
+    "objects": [
+      "black",
+      "green",
+      "bottle",
+      "shirt",
+      "beer",
+      "man",
+      "sign"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man with the beer bottle is wearing a black shirt and glasses, and the man holding the sign is wearing a green shirt.",
+    "objects": [
+      "black",
+      "green",
+      "bottle",
+      "shirt",
+      "beer",
+      "man",
+      "sign"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man with the beer bottle is wearing a black shirt and glasses, and the man holding the sign is wearing a green shirt.",
+    "objects": [
+      "black",
+      "green",
+      "bottle",
+      "shirt",
+      "beer",
+      "man",
+      "sign"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Both are dressed casually.",
+    "objects": [
+      "casually",
+      "both"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Both are dressed casually.",
+    "objects": [
+      "casually",
+      "both"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Both are dressed casually.",
+    "objects": [
+      "casually",
+      "both"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Both are dressed casually.",
+    "objects": [
+      "casually",
+      "both"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man holding the beer bottle is speaking into the microphone, but the content of his speech is not discernible.",
+    "objects": [
+      "content",
+      "discernible",
+      "into",
+      "not",
+      "microphone",
+      "bottle",
+      "beer",
+      "speech"
+    ],
+    "actions": [
+      "holding",
+      "speaking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man holding the beer bottle is speaking into the microphone, but the content of his speech is not discernible.",
+    "objects": [
+      "content",
+      "discernible",
+      "into",
+      "not",
+      "microphone",
+      "bottle",
+      "beer",
+      "speech"
+    ],
+    "actions": [
+      "holding",
+      "speaking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man holding the beer bottle is speaking into the microphone, but the content of his speech is not discernible.",
+    "objects": [
+      "content",
+      "discernible",
+      "into",
+      "not",
+      "microphone",
+      "bottle",
+      "beer",
+      "speech"
+    ],
+    "actions": [
+      "holding",
+      "speaking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man holding the beer bottle is speaking into the microphone, but the content of his speech is not discernible.",
+    "objects": [
+      "content",
+      "discernible",
+      "into",
+      "not",
+      "microphone",
+      "bottle",
+      "beer",
+      "speech"
+    ],
+    "actions": [
+      "holding",
+      "speaking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man holding the sign is also holding a microphone, but he is not speaking at the moment.",
+    "objects": [
+      "moment",
+      "not",
+      "microphone",
+      "man",
+      "sign",
+      "but"
+    ],
+    "actions": [
+      "holding",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man holding the sign is also holding a microphone, but he is not speaking at the moment.",
+    "objects": [
+      "moment",
+      "not",
+      "microphone",
+      "man",
+      "sign",
+      "but"
+    ],
+    "actions": [
+      "holding",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man holding the sign is also holding a microphone, but he is not speaking at the moment.",
+    "objects": [
+      "moment",
+      "not",
+      "microphone",
+      "man",
+      "sign",
+      "but"
+    ],
+    "actions": [
+      "holding",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man holding the sign is also holding a microphone, but he is not speaking at the moment.",
+    "objects": [
+      "moment",
+      "not",
+      "microphone",
+      "man",
+      "sign",
+      "but"
+    ],
+    "actions": [
+      "holding",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The stage has a painting of a man on the backdrop, and there is a person in the audience wearing a black shirt and a white beard.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "beard",
+      "backdrop",
+      "has",
+      "audience",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "painting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The stage has a painting of a man on the backdrop, and there is a person in the audience wearing a black shirt and a white beard.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "beard",
+      "backdrop",
+      "has",
+      "audience",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "painting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The stage has a painting of a man on the backdrop, and there is a person in the audience wearing a black shirt and a white beard.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "beard",
+      "backdrop",
+      "has",
+      "audience",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "painting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The stage has a painting of a man on the backdrop, and there is a person in the audience wearing a black shirt and a white beard.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "beard",
+      "backdrop",
+      "has",
+      "audience",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "painting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The background is dimly lit, and there is a blue light shining on the men on the stage.",
+    "objects": [
+      "there",
+      "men",
+      "blue",
+      "lit",
+      "light",
+      "dimly",
+      "stage"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The background is dimly lit, and there is a blue light shining on the men on the stage.",
+    "objects": [
+      "there",
+      "men",
+      "blue",
+      "lit",
+      "light",
+      "dimly",
+      "stage"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The background is dimly lit, and there is a blue light shining on the men on the stage.",
+    "objects": [
+      "there",
+      "men",
+      "blue",
+      "lit",
+      "light",
+      "dimly",
+      "stage"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The background is dimly lit, and there is a blue light shining on the men on the stage.",
+    "objects": [
+      "there",
+      "men",
+      "blue",
+      "lit",
+      "light",
+      "dimly",
+      "stage"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 7
+  }
+]

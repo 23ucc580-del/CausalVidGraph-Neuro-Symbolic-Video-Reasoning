@@ -1,0 +1,505 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the image, there are two individuals at a park.",
+    "objects": [
+      "image",
+      "there",
+      "park",
+      "two"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the image, there are two individuals at a park.",
+    "objects": [
+      "image",
+      "there",
+      "park",
+      "two"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the image, there are two individuals at a park.",
+    "objects": [
+      "image",
+      "there",
+      "park",
+      "two"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the image, there are two individuals at a park.",
+    "objects": [
+      "image",
+      "there",
+      "park",
+      "two"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the image, there are two individuals at a park.",
+    "objects": [
+      "image",
+      "there",
+      "park",
+      "two"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "A woman and a baby.",
+    "objects": [
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman and a baby.",
+    "objects": [
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman and a baby.",
+    "objects": [
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A woman and a baby.",
+    "objects": [
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "A woman and a baby.",
+    "objects": [
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman is wearing a black tank top and shorts, and she is holding the baby who is wearing a black shirt and gray pants.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "shirt",
+      "top",
+      "gray",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman is wearing a black tank top and shorts, and she is holding the baby who is wearing a black shirt and gray pants.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "shirt",
+      "top",
+      "gray",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is wearing a black tank top and shorts, and she is holding the baby who is wearing a black shirt and gray pants.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "shirt",
+      "top",
+      "gray",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is wearing a black tank top and shorts, and she is holding the baby who is wearing a black shirt and gray pants.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "shirt",
+      "top",
+      "gray",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is wearing a black tank top and shorts, and she is holding the baby who is wearing a black shirt and gray pants.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "shirt",
+      "top",
+      "gray",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "They are both standing on a playground, with the woman on the right side of the swing set, and the baby on the left side.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "side",
+      "set",
+      "playground",
+      "baby"
+    ],
+    "actions": [
+      "swing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They are both standing on a playground, with the woman on the right side of the swing set, and the baby on the left side.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "side",
+      "set",
+      "playground",
+      "baby"
+    ],
+    "actions": [
+      "swing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "They are both standing on a playground, with the woman on the right side of the swing set, and the baby on the left side.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "side",
+      "set",
+      "playground",
+      "baby"
+    ],
+    "actions": [
+      "swing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "They are both standing on a playground, with the woman on the right side of the swing set, and the baby on the left side.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "side",
+      "set",
+      "playground",
+      "baby"
+    ],
+    "actions": [
+      "swing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "They are both standing on a playground, with the woman on the right side of the swing set, and the baby on the left side.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "side",
+      "set",
+      "playground",
+      "baby"
+    ],
+    "actions": [
+      "swing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman is smiling, and the baby is looking at the camera.",
+    "objects": [
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman is smiling, and the baby is looking at the camera.",
+    "objects": [
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman is smiling, and the baby is looking at the camera.",
+    "objects": [
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman is smiling, and the baby is looking at the camera.",
+    "objects": [
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman is smiling, and the baby is looking at the camera.",
+    "objects": [
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The swing set has blue and silver parts.",
+    "objects": [
+      "silver",
+      "blue",
+      "has",
+      "set"
+    ],
+    "actions": [
+      "swing",
+      "parts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The swing set has blue and silver parts.",
+    "objects": [
+      "silver",
+      "blue",
+      "has",
+      "set"
+    ],
+    "actions": [
+      "swing",
+      "parts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The swing set has blue and silver parts.",
+    "objects": [
+      "silver",
+      "blue",
+      "has",
+      "set"
+    ],
+    "actions": [
+      "swing",
+      "parts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The swing set has blue and silver parts.",
+    "objects": [
+      "silver",
+      "blue",
+      "has",
+      "set"
+    ],
+    "actions": [
+      "swing",
+      "parts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The swing set has blue and silver parts.",
+    "objects": [
+      "silver",
+      "blue",
+      "has",
+      "set"
+    ],
+    "actions": [
+      "swing",
+      "parts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "There is a blue car parked on the street in the background, and a child's playground structure can be seen in the distance.",
+    "objects": [
+      "distance",
+      "there",
+      "structure",
+      "street",
+      "can",
+      "blue",
+      "car",
+      "playground"
+    ],
+    "actions": [
+      "child's",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "There is a blue car parked on the street in the background, and a child's playground structure can be seen in the distance.",
+    "objects": [
+      "distance",
+      "there",
+      "structure",
+      "street",
+      "can",
+      "blue",
+      "car",
+      "playground"
+    ],
+    "actions": [
+      "child's",
+      "parked"
+    ],
+    "segment_id": 6
+  }
+]

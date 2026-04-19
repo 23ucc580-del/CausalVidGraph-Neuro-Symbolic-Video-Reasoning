@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a close-up shot of a baby's face, and the baby is seen laughing at the camera.",
+    "objects": [
+      "face",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "begins",
+      "laughing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a close-up shot of a baby's face, and the baby is seen laughing at the camera.",
+    "objects": [
+      "face",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "begins",
+      "laughing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The baby's hair is black, and they are wearing a black and white striped outfit with a bib.",
+    "objects": [
+      "white",
+      "bib",
+      "outfit",
+      "hair",
+      "black",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The baby's hair is black, and they are wearing a black and white striped outfit with a bib.",
+    "objects": [
+      "white",
+      "bib",
+      "outfit",
+      "hair",
+      "black",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The baby's eyes are open and looking directly at the camera.",
+    "objects": [
+      "eyes",
+      "open",
+      "directly"
+    ],
+    "actions": [
+      "baby's",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby's eyes are open and looking directly at the camera.",
+    "objects": [
+      "eyes",
+      "open",
+      "directly"
+    ],
+    "actions": [
+      "baby's",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby then turns their head and smiles towards the camera while holding onto a white blanket.",
+    "objects": [
+      "white",
+      "while",
+      "blanket",
+      "baby",
+      "their",
+      "head",
+      "onto",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "smiles",
+      "holding",
+      "turns"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby then turns their head and smiles towards the camera while holding onto a white blanket.",
+    "objects": [
+      "white",
+      "while",
+      "blanket",
+      "baby",
+      "their",
+      "head",
+      "onto",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "smiles",
+      "holding",
+      "turns"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby's hands are clenched around the blanket, and the baby appears to be enjoying themselves.",
+    "objects": [
+      "around",
+      "blanket",
+      "baby"
+    ],
+    "actions": [
+      "enjoying",
+      "baby's",
+      "themselves",
+      "hands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby's hands are clenched around the blanket, and the baby appears to be enjoying themselves.",
+    "objects": [
+      "around",
+      "blanket",
+      "baby"
+    ],
+    "actions": [
+      "enjoying",
+      "baby's",
+      "themselves",
+      "hands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "In the next scene, the baby is laying on a colorful play mat with their head resting on the mat.",
+    "objects": [
+      "mat",
+      "colorful",
+      "their",
+      "play",
+      "head",
+      "baby"
+    ],
+    "actions": [
+      "resting",
+      "laying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "In the next scene, the baby is laying on a colorful play mat with their head resting on the mat.",
+    "objects": [
+      "mat",
+      "colorful",
+      "their",
+      "play",
+      "head",
+      "baby"
+    ],
+    "actions": [
+      "resting",
+      "laying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby's head is gently resting on the mat, and their hair is black.",
+    "objects": [
+      "mat",
+      "gently",
+      "hair",
+      "their",
+      "head",
+      "black"
+    ],
+    "actions": [
+      "baby's",
+      "resting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby's head is gently resting on the mat, and their hair is black.",
+    "objects": [
+      "mat",
+      "gently",
+      "hair",
+      "their",
+      "head",
+      "black"
+    ],
+    "actions": [
+      "baby's",
+      "resting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby is wearing a pink and black outfit with a bib, and they are holding a white blanket in their hands.",
+    "objects": [
+      "white",
+      "pink",
+      "bib",
+      "outfit",
+      "blanket",
+      "baby",
+      "their",
+      "black"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby is wearing a pink and black outfit with a bib, and they are holding a white blanket in their hands.",
+    "objects": [
+      "white",
+      "pink",
+      "bib",
+      "outfit",
+      "blanket",
+      "baby",
+      "their",
+      "black"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby's eyes are closed, and they are smiling for the camera.",
+    "objects": [
+      "eyes",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "smiling",
+      "closed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby's eyes are closed, and they are smiling for the camera.",
+    "objects": [
+      "eyes",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "smiling",
+      "closed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The baby's head is tilted towards the camera, and the baby appears to be relaxed.",
+    "objects": [
+      "head",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "towards",
+      "tilted",
+      "relaxed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The baby's head is tilted towards the camera, and the baby appears to be relaxed.",
+    "objects": [
+      "head",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "towards",
+      "tilted",
+      "relaxed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "In the final scene, the baby is seen laying on a colorful play mat with their head on the mat again.",
+    "objects": [
+      "their",
+      "mat",
+      "colorful",
+      "again",
+      "final",
+      "baby",
+      "play",
+      "head"
+    ],
+    "actions": [
+      "laying"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "In the final scene, the baby is seen laying on a colorful play mat with their head on the mat again.",
+    "objects": [
+      "their",
+      "mat",
+      "colorful",
+      "again",
+      "final",
+      "baby",
+      "play",
+      "head"
+    ],
+    "actions": [
+      "laying"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The baby's hair is black, and they are wearing a pink and black outfit with a bib.",
+    "objects": [
+      "pink",
+      "bib",
+      "outfit",
+      "hair",
+      "black",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby's hair is black, and they are wearing a pink and black outfit with a bib.",
+    "objects": [
+      "pink",
+      "bib",
+      "outfit",
+      "hair",
+      "black",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The baby's eyes are open, and they are looking directly at the camera.",
+    "objects": [
+      "eyes",
+      "open",
+      "they",
+      "directly"
+    ],
+    "actions": [
+      "baby's",
+      "looking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The baby's eyes are open, and they are looking directly at the camera.",
+    "objects": [
+      "eyes",
+      "open",
+      "they",
+      "directly"
+    ],
+    "actions": [
+      "baby's",
+      "looking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The baby's hands are gently clenched around the blanket, and the baby appears to be enjoying themselves.",
+    "objects": [
+      "gently",
+      "around",
+      "blanket",
+      "baby"
+    ],
+    "actions": [
+      "enjoying",
+      "baby's",
+      "themselves",
+      "hands"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The baby's hands are gently clenched around the blanket, and the baby appears to be enjoying themselves.",
+    "objects": [
+      "gently",
+      "around",
+      "blanket",
+      "baby"
+    ],
+    "actions": [
+      "enjoying",
+      "baby's",
+      "themselves",
+      "hands"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The baby's head is tilted towards the camera, and the baby appears to be relaxed.",
+    "objects": [
+      "head",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "towards",
+      "tilted",
+      "relaxed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The baby's head is tilted towards the camera, and the baby appears to be relaxed.",
+    "objects": [
+      "head",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "towards",
+      "tilted",
+      "relaxed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "Overall, the video captures the playful and happy moments of a baby's day on a colorful play mat.",
+    "objects": [
+      "playful",
+      "colorful",
+      "mat",
+      "day",
+      "happy",
+      "play",
+      "overall"
+    ],
+    "actions": [
+      "moments",
+      "baby's"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "Overall, the video captures the playful and happy moments of a baby's day on a colorful play mat.",
+    "objects": [
+      "playful",
+      "colorful",
+      "mat",
+      "day",
+      "happy",
+      "play",
+      "overall"
+    ],
+    "actions": [
+      "moments",
+      "baby's"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,524 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a group of people engaging in various activities on a street.",
+    "objects": [
+      "group",
+      "street",
+      "people"
+    ],
+    "actions": [
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a group of people engaging in various activities on a street.",
+    "objects": [
+      "group",
+      "street",
+      "people"
+    ],
+    "actions": [
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a group of people engaging in various activities on a street.",
+    "objects": [
+      "group",
+      "street",
+      "people"
+    ],
+    "actions": [
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "At the start of the video, a man is riding a bicycle with two children on it, one in front and one in back.",
+    "objects": [
+      "man",
+      "two",
+      "bicycle",
+      "one",
+      "start",
+      "children"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "At the start of the video, a man is riding a bicycle with two children on it, one in front and one in back.",
+    "objects": [
+      "man",
+      "two",
+      "bicycle",
+      "one",
+      "start",
+      "children"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "At the start of the video, a man is riding a bicycle with two children on it, one in front and one in back.",
+    "objects": [
+      "man",
+      "two",
+      "bicycle",
+      "one",
+      "start",
+      "children"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are wearing helmets and seem to be enjoying the ride.",
+    "objects": [
+      "seem",
+      "they",
+      "ride"
+    ],
+    "actions": [
+      "helmets",
+      "wearing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "They are wearing helmets and seem to be enjoying the ride.",
+    "objects": [
+      "seem",
+      "they",
+      "ride"
+    ],
+    "actions": [
+      "helmets",
+      "wearing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "They are wearing helmets and seem to be enjoying the ride.",
+    "objects": [
+      "seem",
+      "they",
+      "ride"
+    ],
+    "actions": [
+      "helmets",
+      "wearing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A little further down the street, a man is seen riding a bike with a dog on it, and the dog is also wearing a helmet.",
+    "objects": [
+      "further",
+      "helmet",
+      "bike",
+      "man",
+      "street",
+      "little",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A little further down the street, a man is seen riding a bike with a dog on it, and the dog is also wearing a helmet.",
+    "objects": [
+      "further",
+      "helmet",
+      "bike",
+      "man",
+      "street",
+      "little",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A little further down the street, a man is seen riding a bike with a dog on it, and the dog is also wearing a helmet.",
+    "objects": [
+      "further",
+      "helmet",
+      "bike",
+      "man",
+      "street",
+      "little",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The street is lined with parked cars on both sides, and a house with a white garage door is visible in the background.",
+    "objects": [
+      "garage",
+      "white",
+      "street",
+      "cars",
+      "house",
+      "door",
+      "both"
+    ],
+    "actions": [
+      "parked",
+      "sides",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The street is lined with parked cars on both sides, and a house with a white garage door is visible in the background.",
+    "objects": [
+      "garage",
+      "white",
+      "street",
+      "cars",
+      "house",
+      "door",
+      "both"
+    ],
+    "actions": [
+      "parked",
+      "sides",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The street is lined with parked cars on both sides, and a house with a white garage door is visible in the background.",
+    "objects": [
+      "garage",
+      "white",
+      "street",
+      "cars",
+      "house",
+      "door",
+      "both"
+    ],
+    "actions": [
+      "parked",
+      "sides",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The group is wearing casual attire, and one person is holding a camera to record the moment.",
+    "objects": [
+      "casual",
+      "record",
+      "one",
+      "attire",
+      "group",
+      "moment"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The group is wearing casual attire, and one person is holding a camera to record the moment.",
+    "objects": [
+      "casual",
+      "record",
+      "one",
+      "attire",
+      "group",
+      "moment"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The group is wearing casual attire, and one person is holding a camera to record the moment.",
+    "objects": [
+      "casual",
+      "record",
+      "one",
+      "attire",
+      "group",
+      "moment"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "As the scene progresses, another group of people is seen playing in a park.",
+    "objects": [
+      "park",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "playing",
+      "progresses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "As the scene progresses, another group of people is seen playing in a park.",
+    "objects": [
+      "park",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "playing",
+      "progresses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "As the scene progresses, another group of people is seen playing in a park.",
+    "objects": [
+      "park",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "playing",
+      "progresses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "They are wearing casual clothing and seem to be having a fun time together.",
+    "objects": [
+      "casual",
+      "fun",
+      "together",
+      "they",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "having"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "They are wearing casual clothing and seem to be having a fun time together.",
+    "objects": [
+      "casual",
+      "fun",
+      "together",
+      "they",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "having"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "They are wearing casual clothing and seem to be having a fun time together.",
+    "objects": [
+      "casual",
+      "fun",
+      "together",
+      "they",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "having"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "There is a swing set visible in the background, and a car is parked nearby.",
+    "objects": [
+      "car",
+      "set",
+      "nearby",
+      "there"
+    ],
+    "actions": [
+      "parked",
+      "swing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "There is a swing set visible in the background, and a car is parked nearby.",
+    "objects": [
+      "car",
+      "set",
+      "nearby",
+      "there"
+    ],
+    "actions": [
+      "parked",
+      "swing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "There is a swing set visible in the background, and a car is parked nearby.",
+    "objects": [
+      "car",
+      "set",
+      "nearby",
+      "there"
+    ],
+    "actions": [
+      "parked",
+      "swing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The video then shifts to show a person riding a bike with a child on the back, both wearing helmets.",
+    "objects": [
+      "bike",
+      "child",
+      "both",
+      "then",
+      "show"
+    ],
+    "actions": [
+      "helmets",
+      "wearing",
+      "riding",
+      "shifts"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The video then shifts to show a person riding a bike with a child on the back, both wearing helmets.",
+    "objects": [
+      "bike",
+      "child",
+      "both",
+      "then",
+      "show"
+    ],
+    "actions": [
+      "helmets",
+      "wearing",
+      "riding",
+      "shifts"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The video then shifts to show a person riding a bike with a child on the back, both wearing helmets.",
+    "objects": [
+      "bike",
+      "child",
+      "both",
+      "then",
+      "show"
+    ],
+    "actions": [
+      "helmets",
+      "wearing",
+      "riding",
+      "shifts"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "They appear to be having a safe and enjoyable ride.",
+    "objects": [
+      "ride",
+      "enjoyable",
+      "appear",
+      "they",
+      "safe"
+    ],
+    "actions": [
+      "having"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "They appear to be having a safe and enjoyable ride.",
+    "objects": [
+      "ride",
+      "enjoyable",
+      "appear",
+      "they",
+      "safe"
+    ],
+    "actions": [
+      "having"
+    ],
+    "segment_id": 10
+  }
+]

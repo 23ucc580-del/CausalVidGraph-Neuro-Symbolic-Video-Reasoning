@@ -1,0 +1,483 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a close-up shot of a black cat sitting on a wooden table.",
+    "objects": [
+      "wooden",
+      "table",
+      "cat",
+      "black"
+    ],
+    "actions": [
+      "begins",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a close-up shot of a black cat sitting on a wooden table.",
+    "objects": [
+      "wooden",
+      "table",
+      "cat",
+      "black"
+    ],
+    "actions": [
+      "begins",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video begins with a close-up shot of a black cat sitting on a wooden table.",
+    "objects": [
+      "wooden",
+      "table",
+      "cat",
+      "black"
+    ],
+    "actions": [
+      "begins",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The cat is wearing a purple tutu around its neck and has a blue bow on its head.",
+    "objects": [
+      "blue",
+      "cat",
+      "its",
+      "purple",
+      "has",
+      "tutu",
+      "neck",
+      "bow"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The cat is wearing a purple tutu around its neck and has a blue bow on its head.",
+    "objects": [
+      "blue",
+      "cat",
+      "its",
+      "purple",
+      "has",
+      "tutu",
+      "neck",
+      "bow"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The cat is wearing a purple tutu around its neck and has a blue bow on its head.",
+    "objects": [
+      "blue",
+      "cat",
+      "its",
+      "purple",
+      "has",
+      "tutu",
+      "neck",
+      "bow"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The table has a white cloth on it, and there is a black bag on it.",
+    "objects": [
+      "white",
+      "table",
+      "there",
+      "black",
+      "has",
+      "bag",
+      "cloth"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The table has a white cloth on it, and there is a black bag on it.",
+    "objects": [
+      "white",
+      "table",
+      "there",
+      "black",
+      "has",
+      "bag",
+      "cloth"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The table has a white cloth on it, and there is a black bag on it.",
+    "objects": [
+      "white",
+      "table",
+      "there",
+      "black",
+      "has",
+      "bag",
+      "cloth"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the background, a person is seen walking in, and they are wearing a black shirt and blue jeans.",
+    "objects": [
+      "shirt",
+      "they",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "In the background, a person is seen walking in, and they are wearing a black shirt and blue jeans.",
+    "objects": [
+      "shirt",
+      "they",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "In the background, a person is seen walking in, and they are wearing a black shirt and blue jeans.",
+    "objects": [
+      "shirt",
+      "they",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The person is holding a blue hoodie and a purple bag.",
+    "objects": [
+      "bag",
+      "blue",
+      "hoodie",
+      "purple"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The person is holding a blue hoodie and a purple bag.",
+    "objects": [
+      "bag",
+      "blue",
+      "hoodie",
+      "purple"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The person is holding a blue hoodie and a purple bag.",
+    "objects": [
+      "bag",
+      "blue",
+      "hoodie",
+      "purple"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The cat begins to walk away, and the person walks towards the camera.",
+    "objects": [
+      "walk",
+      "cat",
+      "away"
+    ],
+    "actions": [
+      "begins",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The cat begins to walk away, and the person walks towards the camera.",
+    "objects": [
+      "walk",
+      "cat",
+      "away"
+    ],
+    "actions": [
+      "begins",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The cat begins to walk away, and the person walks towards the camera.",
+    "objects": [
+      "walk",
+      "cat",
+      "away"
+    ],
+    "actions": [
+      "begins",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then zooms out to show the full scene.",
+    "objects": [
+      "full",
+      "show",
+      "out",
+      "then"
+    ],
+    "actions": [
+      "zooms"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then zooms out to show the full scene.",
+    "objects": [
+      "full",
+      "show",
+      "out",
+      "then"
+    ],
+    "actions": [
+      "zooms"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then zooms out to show the full scene.",
+    "objects": [
+      "full",
+      "show",
+      "out",
+      "then"
+    ],
+    "actions": [
+      "zooms"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The person walks past the cat, and the cat is now standing on the table.",
+    "objects": [
+      "now",
+      "past",
+      "table",
+      "cat"
+    ],
+    "actions": [
+      "walks",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The person walks past the cat, and the cat is now standing on the table.",
+    "objects": [
+      "now",
+      "past",
+      "table",
+      "cat"
+    ],
+    "actions": [
+      "walks",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The person walks past the cat, and the cat is now standing on the table.",
+    "objects": [
+      "now",
+      "past",
+      "table",
+      "cat"
+    ],
+    "actions": [
+      "walks",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The person is holding a newspaper and the cat is still on the table.",
+    "objects": [
+      "table",
+      "still",
+      "newspaper",
+      "cat"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The person is holding a newspaper and the cat is still on the table.",
+    "objects": [
+      "table",
+      "still",
+      "newspaper",
+      "cat"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The person is holding a newspaper and the cat is still on the table.",
+    "objects": [
+      "table",
+      "still",
+      "newspaper",
+      "cat"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then zooms in on the cat, and the person is out of the frame.",
+    "objects": [
+      "out",
+      "cat",
+      "then"
+    ],
+    "actions": [
+      "zooms"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then zooms in on the cat, and the person is out of the frame.",
+    "objects": [
+      "out",
+      "cat",
+      "then"
+    ],
+    "actions": [
+      "zooms"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then zooms in on the cat, and the person is out of the frame.",
+    "objects": [
+      "out",
+      "cat",
+      "then"
+    ],
+    "actions": [
+      "zooms"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The cat is looking up and seems to be curious about the camera.",
+    "objects": [
+      "cat",
+      "about"
+    ],
+    "actions": [
+      "looking",
+      "curious",
+      "seems"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The cat is looking up and seems to be curious about the camera.",
+    "objects": [
+      "cat",
+      "about"
+    ],
+    "actions": [
+      "looking",
+      "curious",
+      "seems"
+    ],
+    "segment_id": 10
+  }
+]

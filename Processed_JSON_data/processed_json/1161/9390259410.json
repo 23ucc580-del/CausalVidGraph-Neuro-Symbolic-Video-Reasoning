@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a lively kitchen scene where a family is gathered around a large island.",
+    "objects": [
+      "family",
+      "large",
+      "island",
+      "around",
+      "lively",
+      "where",
+      "see",
+      "kitchen"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a lively kitchen scene where a family is gathered around a large island.",
+    "objects": [
+      "family",
+      "large",
+      "island",
+      "around",
+      "lively",
+      "where",
+      "see",
+      "kitchen"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a lively kitchen scene where a family is gathered around a large island.",
+    "objects": [
+      "family",
+      "large",
+      "island",
+      "around",
+      "lively",
+      "where",
+      "see",
+      "kitchen"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a lively kitchen scene where a family is gathered around a large island.",
+    "objects": [
+      "family",
+      "large",
+      "island",
+      "around",
+      "lively",
+      "where",
+      "see",
+      "kitchen"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The kitchen is well-lit, with a sink and stove visible in the background.",
+    "objects": [
+      "sink",
+      "stove",
+      "kitchen"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The kitchen is well-lit, with a sink and stove visible in the background.",
+    "objects": [
+      "sink",
+      "stove",
+      "kitchen"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The kitchen is well-lit, with a sink and stove visible in the background.",
+    "objects": [
+      "sink",
+      "stove",
+      "kitchen"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The kitchen is well-lit, with a sink and stove visible in the background.",
+    "objects": [
+      "sink",
+      "stove",
+      "kitchen"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "There are several people present, including a man, a woman, and three children.",
+    "objects": [
+      "present",
+      "man",
+      "several",
+      "three",
+      "people",
+      "there",
+      "woman",
+      "children"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "There are several people present, including a man, a woman, and three children.",
+    "objects": [
+      "present",
+      "man",
+      "several",
+      "three",
+      "people",
+      "there",
+      "woman",
+      "children"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "There are several people present, including a man, a woman, and three children.",
+    "objects": [
+      "present",
+      "man",
+      "several",
+      "three",
+      "people",
+      "there",
+      "woman",
+      "children"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "There are several people present, including a man, a woman, and three children.",
+    "objects": [
+      "present",
+      "man",
+      "several",
+      "three",
+      "people",
+      "there",
+      "woman",
+      "children"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is seated at the island, wearing a black shirt and smiling.",
+    "objects": [
+      "island",
+      "man",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "smiling",
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is seated at the island, wearing a black shirt and smiling.",
+    "objects": [
+      "island",
+      "man",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "smiling",
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man is seated at the island, wearing a black shirt and smiling.",
+    "objects": [
+      "island",
+      "man",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "smiling",
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is seated at the island, wearing a black shirt and smiling.",
+    "objects": [
+      "island",
+      "man",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "smiling",
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "He appears to be engaged in a conversation with one of the children, who is wearing an orange shirt and holding a green bottle of water.",
+    "objects": [
+      "conversation",
+      "who",
+      "green",
+      "water",
+      "shirt",
+      "one",
+      "orange",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "He appears to be engaged in a conversation with one of the children, who is wearing an orange shirt and holding a green bottle of water.",
+    "objects": [
+      "conversation",
+      "who",
+      "green",
+      "water",
+      "shirt",
+      "one",
+      "orange",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "He appears to be engaged in a conversation with one of the children, who is wearing an orange shirt and holding a green bottle of water.",
+    "objects": [
+      "conversation",
+      "who",
+      "green",
+      "water",
+      "shirt",
+      "one",
+      "orange",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "He appears to be engaged in a conversation with one of the children, who is wearing an orange shirt and holding a green bottle of water.",
+    "objects": [
+      "conversation",
+      "who",
+      "green",
+      "water",
+      "shirt",
+      "one",
+      "orange",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman is standing at the counter, wearing a black shirt, and she seems to be in a conversation with the other child, who is dressed in a green shirt and holding a green bottle of water.",
+    "objects": [
+      "counter",
+      "bottle",
+      "conversation",
+      "other",
+      "green",
+      "water",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "standing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman is standing at the counter, wearing a black shirt, and she seems to be in a conversation with the other child, who is dressed in a green shirt and holding a green bottle of water.",
+    "objects": [
+      "counter",
+      "bottle",
+      "conversation",
+      "other",
+      "green",
+      "water",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "standing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman is standing at the counter, wearing a black shirt, and she seems to be in a conversation with the other child, who is dressed in a green shirt and holding a green bottle of water.",
+    "objects": [
+      "counter",
+      "bottle",
+      "conversation",
+      "other",
+      "green",
+      "water",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "standing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman is standing at the counter, wearing a black shirt, and she seems to be in a conversation with the other child, who is dressed in a green shirt and holding a green bottle of water.",
+    "objects": [
+      "counter",
+      "bottle",
+      "conversation",
+      "other",
+      "green",
+      "water",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "standing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The other child, wearing a blue shirt, is also at the counter, looking at the camera.",
+    "objects": [
+      "blue",
+      "counter",
+      "other",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The other child, wearing a blue shirt, is also at the counter, looking at the camera.",
+    "objects": [
+      "blue",
+      "counter",
+      "other",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The other child, wearing a blue shirt, is also at the counter, looking at the camera.",
+    "objects": [
+      "blue",
+      "counter",
+      "other",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The other child, wearing a blue shirt, is also at the counter, looking at the camera.",
+    "objects": [
+      "blue",
+      "counter",
+      "other",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The kitchen is filled with everyday items like a clock on the wall and a green bottle on the counter.",
+    "objects": [
+      "counter",
+      "bottle",
+      "green",
+      "clock",
+      "wall",
+      "like",
+      "kitchen",
+      "everyday"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The kitchen is filled with everyday items like a clock on the wall and a green bottle on the counter.",
+    "objects": [
+      "counter",
+      "bottle",
+      "green",
+      "clock",
+      "wall",
+      "like",
+      "kitchen",
+      "everyday"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The kitchen is filled with everyday items like a clock on the wall and a green bottle on the counter.",
+    "objects": [
+      "counter",
+      "bottle",
+      "green",
+      "clock",
+      "wall",
+      "like",
+      "kitchen",
+      "everyday"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The kitchen is filled with everyday items like a clock on the wall and a green bottle on the counter.",
+    "objects": [
+      "counter",
+      "bottle",
+      "green",
+      "clock",
+      "wall",
+      "like",
+      "kitchen",
+      "everyday"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,513 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a woman seated in an office environment.",
+    "objects": [
+      "office",
+      "this",
+      "woman",
+      "see",
+      "environment"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a woman seated in an office environment.",
+    "objects": [
+      "office",
+      "this",
+      "woman",
+      "see",
+      "environment"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a woman seated in an office environment.",
+    "objects": [
+      "office",
+      "this",
+      "woman",
+      "see",
+      "environment"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "She is wearing a black and white striped top, and is holding a bouquet of flowers.",
+    "objects": [
+      "white",
+      "she",
+      "bouquet",
+      "top",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "striped",
+      "flowers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a black and white striped top, and is holding a bouquet of flowers.",
+    "objects": [
+      "white",
+      "she",
+      "bouquet",
+      "top",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "striped",
+      "flowers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a black and white striped top, and is holding a bouquet of flowers.",
+    "objects": [
+      "white",
+      "she",
+      "bouquet",
+      "top",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "striped",
+      "flowers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene is set in an office space, with other individuals present in the background.",
+    "objects": [
+      "office",
+      "present",
+      "space",
+      "other",
+      "set"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene is set in an office space, with other individuals present in the background.",
+    "objects": [
+      "office",
+      "present",
+      "space",
+      "other",
+      "set"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene is set in an office space, with other individuals present in the background.",
+    "objects": [
+      "office",
+      "present",
+      "space",
+      "other",
+      "set"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman is in the foreground, and the camera focuses on her.",
+    "objects": [
+      "woman",
+      "her"
+    ],
+    "actions": [
+      "focuses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman is in the foreground, and the camera focuses on her.",
+    "objects": [
+      "woman",
+      "her"
+    ],
+    "actions": [
+      "focuses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman is in the foreground, and the camera focuses on her.",
+    "objects": [
+      "woman",
+      "her"
+    ],
+    "actions": [
+      "focuses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "She is talking on the phone, holding the bouquet of flowers in one hand and her phone in the other.",
+    "objects": [
+      "she",
+      "other",
+      "bouquet",
+      "hand",
+      "one",
+      "her",
+      "phone"
+    ],
+    "actions": [
+      "holding",
+      "talking",
+      "flowers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "She is talking on the phone, holding the bouquet of flowers in one hand and her phone in the other.",
+    "objects": [
+      "she",
+      "other",
+      "bouquet",
+      "hand",
+      "one",
+      "her",
+      "phone"
+    ],
+    "actions": [
+      "holding",
+      "talking",
+      "flowers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "She is talking on the phone, holding the bouquet of flowers in one hand and her phone in the other.",
+    "objects": [
+      "she",
+      "other",
+      "bouquet",
+      "hand",
+      "one",
+      "her",
+      "phone"
+    ],
+    "actions": [
+      "holding",
+      "talking",
+      "flowers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Her expression is one of surprise, and she is wearing glasses.",
+    "objects": [
+      "expression",
+      "she",
+      "one",
+      "her",
+      "surprise"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Her expression is one of surprise, and she is wearing glasses.",
+    "objects": [
+      "expression",
+      "she",
+      "one",
+      "her",
+      "surprise"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Her expression is one of surprise, and she is wearing glasses.",
+    "objects": [
+      "expression",
+      "she",
+      "one",
+      "her",
+      "surprise"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "There is another person in the background, seated at a desk, also wearing a striped top, looking at her with a smile.",
+    "objects": [
+      "desk",
+      "smile",
+      "her",
+      "top",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "striped",
+      "looking",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "There is another person in the background, seated at a desk, also wearing a striped top, looking at her with a smile.",
+    "objects": [
+      "desk",
+      "smile",
+      "her",
+      "top",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "striped",
+      "looking",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "There is another person in the background, seated at a desk, also wearing a striped top, looking at her with a smile.",
+    "objects": [
+      "desk",
+      "smile",
+      "her",
+      "top",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "striped",
+      "looking",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The person in the foreground appears to be a woman, while the one in the background is a man.",
+    "objects": [
+      "while",
+      "one",
+      "woman",
+      "man"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The person in the foreground appears to be a woman, while the one in the background is a man.",
+    "objects": [
+      "while",
+      "one",
+      "woman",
+      "man"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The person in the foreground appears to be a woman, while the one in the background is a man.",
+    "objects": [
+      "while",
+      "one",
+      "woman",
+      "man"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The office space has various items on the desk, including a laptop, a keyboard, a phone, and a pair of scissors.",
+    "objects": [
+      "office",
+      "has",
+      "pair",
+      "space",
+      "keyboard",
+      "desk",
+      "laptop",
+      "phone"
+    ],
+    "actions": [
+      "scissors",
+      "items"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The office space has various items on the desk, including a laptop, a keyboard, a phone, and a pair of scissors.",
+    "objects": [
+      "office",
+      "has",
+      "pair",
+      "space",
+      "keyboard",
+      "desk",
+      "laptop",
+      "phone"
+    ],
+    "actions": [
+      "scissors",
+      "items"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The office space has various items on the desk, including a laptop, a keyboard, a phone, and a pair of scissors.",
+    "objects": [
+      "office",
+      "has",
+      "pair",
+      "space",
+      "keyboard",
+      "desk",
+      "laptop",
+      "phone"
+    ],
+    "actions": [
+      "scissors",
+      "items"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman is holding the bouquet of flowers and talking on the phone.",
+    "objects": [
+      "woman",
+      "phone",
+      "bouquet"
+    ],
+    "actions": [
+      "holding",
+      "talking",
+      "flowers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman is holding the bouquet of flowers and talking on the phone.",
+    "objects": [
+      "woman",
+      "phone",
+      "bouquet"
+    ],
+    "actions": [
+      "holding",
+      "talking",
+      "flowers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman is holding the bouquet of flowers and talking on the phone.",
+    "objects": [
+      "woman",
+      "phone",
+      "bouquet"
+    ],
+    "actions": [
+      "holding",
+      "talking",
+      "flowers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is indoors, and there is a sense of office-related activity.",
+    "objects": [
+      "sense",
+      "activity",
+      "there"
+    ],
+    "actions": [
+      "indoors",
+      "office-related"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is indoors, and there is a sense of office-related activity.",
+    "objects": [
+      "sense",
+      "activity",
+      "there"
+    ],
+    "actions": [
+      "indoors",
+      "office-related"
+    ],
+    "segment_id": 10
+  }
+]

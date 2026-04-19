@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively gathering of people at a restaurant.",
+    "objects": [
+      "lively",
+      "restaurant",
+      "people"
+    ],
+    "actions": [
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively gathering of people at a restaurant.",
+    "objects": [
+      "lively",
+      "restaurant",
+      "people"
+    ],
+    "actions": [
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene opens with a close-up shot of a table filled with various bottles of alcohol, glasses of different sizes, and a few pieces of cutlery.",
+    "objects": [
+      "different",
+      "cutlery",
+      "table",
+      "few",
+      "alcohol"
+    ],
+    "actions": [
+      "bottles",
+      "filled",
+      "glasses",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a close-up shot of a table filled with various bottles of alcohol, glasses of different sizes, and a few pieces of cutlery.",
+    "objects": [
+      "different",
+      "cutlery",
+      "table",
+      "few",
+      "alcohol"
+    ],
+    "actions": [
+      "bottles",
+      "filled",
+      "glasses",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The camera then pans to reveal a group of people engaged in conversation.",
+    "objects": [
+      "people",
+      "pans",
+      "reveal",
+      "then",
+      "group",
+      "conversation"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera then pans to reveal a group of people engaged in conversation.",
+    "objects": [
+      "people",
+      "pans",
+      "reveal",
+      "then",
+      "group",
+      "conversation"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The main focus is on a man and a woman, both wearing black tops, who are deep in conversation.",
+    "objects": [
+      "woman",
+      "man",
+      "tops",
+      "main",
+      "who",
+      "both",
+      "conversation",
+      "deep"
+    ],
+    "actions": [
+      "wearing",
+      "focus"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The main focus is on a man and a woman, both wearing black tops, who are deep in conversation.",
+    "objects": [
+      "woman",
+      "man",
+      "tops",
+      "main",
+      "who",
+      "both",
+      "conversation",
+      "deep"
+    ],
+    "actions": [
+      "wearing",
+      "focus"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is gesturing animatedly with his hands, possibly making a point or sharing a story.",
+    "objects": [
+      "point",
+      "man",
+      "possibly",
+      "animatedly",
+      "his",
+      "story"
+    ],
+    "actions": [
+      "making",
+      "gesturing",
+      "hands",
+      "sharing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is gesturing animatedly with his hands, possibly making a point or sharing a story.",
+    "objects": [
+      "point",
+      "man",
+      "possibly",
+      "animatedly",
+      "his",
+      "story"
+    ],
+    "actions": [
+      "making",
+      "gesturing",
+      "hands",
+      "sharing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "Meanwhile, a woman in a blue top is sitting across from them, listening attentively.",
+    "objects": [
+      "woman",
+      "across",
+      "them",
+      "blue",
+      "meanwhile",
+      "attentively",
+      "from",
+      "top"
+    ],
+    "actions": [
+      "listening",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "Meanwhile, a woman in a blue top is sitting across from them, listening attentively.",
+    "objects": [
+      "woman",
+      "across",
+      "them",
+      "blue",
+      "meanwhile",
+      "attentively",
+      "from",
+      "top"
+    ],
+    "actions": [
+      "listening",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then shifts to show another woman in a white top, wearing a silver necklace, observing the interaction.",
+    "objects": [
+      "woman",
+      "white",
+      "necklace",
+      "silver",
+      "then",
+      "interaction",
+      "top",
+      "show"
+    ],
+    "actions": [
+      "observing",
+      "wearing",
+      "shifts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then shifts to show another woman in a white top, wearing a silver necklace, observing the interaction.",
+    "objects": [
+      "woman",
+      "white",
+      "necklace",
+      "silver",
+      "then",
+      "interaction",
+      "top",
+      "show"
+    ],
+    "actions": [
+      "observing",
+      "wearing",
+      "shifts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "She seems to be enjoying the lively atmosphere.",
+    "objects": [
+      "she",
+      "lively",
+      "atmosphere"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "She seems to be enjoying the lively atmosphere.",
+    "objects": [
+      "she",
+      "lively",
+      "atmosphere"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then returns to the man and the woman, who are still engaged in their discussion.",
+    "objects": [
+      "still",
+      "woman",
+      "man",
+      "their",
+      "discussion",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "engaged",
+      "returns"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then returns to the man and the woman, who are still engaged in their discussion.",
+    "objects": [
+      "still",
+      "woman",
+      "man",
+      "their",
+      "discussion",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "engaged",
+      "returns"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is holding a bottle of alcohol, perhaps toasting or sharing a drink.",
+    "objects": [
+      "bottle",
+      "man",
+      "drink",
+      "alcohol"
+    ],
+    "actions": [
+      "holding",
+      "perhaps",
+      "toasting",
+      "sharing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is holding a bottle of alcohol, perhaps toasting or sharing a drink.",
+    "objects": [
+      "bottle",
+      "man",
+      "drink",
+      "alcohol"
+    ],
+    "actions": [
+      "holding",
+      "perhaps",
+      "toasting",
+      "sharing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman in the blue top is holding a wine glass, possibly waiting for her turn or simply enjoying the company.",
+    "objects": [
+      "company",
+      "woman",
+      "simply",
+      "wine",
+      "blue",
+      "turn",
+      "glass",
+      "her"
+    ],
+    "actions": [
+      "enjoying",
+      "holding",
+      "waiting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman in the blue top is holding a wine glass, possibly waiting for her turn or simply enjoying the company.",
+    "objects": [
+      "company",
+      "woman",
+      "simply",
+      "wine",
+      "blue",
+      "turn",
+      "glass",
+      "her"
+    ],
+    "actions": [
+      "enjoying",
+      "holding",
+      "waiting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then cuts to a man in a black shirt, wearing a wristwatch, who is looking on with a smile.",
+    "objects": [
+      "man",
+      "who",
+      "cuts",
+      "then",
+      "smile",
+      "shirt",
+      "wristwatch",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then cuts to a man in a black shirt, wearing a wristwatch, who is looking on with a smile.",
+    "objects": [
+      "man",
+      "who",
+      "cuts",
+      "then",
+      "smile",
+      "shirt",
+      "wristwatch",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "He appears to be enjoying the camaraderie.",
+    "objects": [
+      "camaraderie"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "He appears to be enjoying the camaraderie.",
+    "objects": [
+      "camaraderie"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then shifts to another man, wearing a blue hoodie, who is also engaged in the conversation.",
+    "objects": [
+      "man",
+      "who",
+      "hoodie",
+      "blue",
+      "then",
+      "conversation"
+    ],
+    "actions": [
+      "wearing",
+      "shifts",
+      "engaged"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then shifts to another man, wearing a blue hoodie, who is also engaged in the conversation.",
+    "objects": [
+      "man",
+      "who",
+      "hoodie",
+      "blue",
+      "then",
+      "conversation"
+    ],
+    "actions": [
+      "wearing",
+      "shifts",
+      "engaged"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "He seems to be listening intently.",
+    "objects": [
+      "intently"
+    ],
+    "actions": [
+      "listening",
+      "seems"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "He seems to be listening intently.",
+    "objects": [
+      "intently"
+    ],
+    "actions": [
+      "listening",
+      "seems"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene then cuts back to the man in the black shirt, who is also wearing a watch and looking on with a smile.",
+    "objects": [
+      "man",
+      "who",
+      "watch",
+      "cuts",
+      "then",
+      "smile",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene then cuts back to the man in the black shirt, who is also wearing a watch and looking on with a smile.",
+    "objects": [
+      "man",
+      "who",
+      "watch",
+      "cuts",
+      "then",
+      "smile",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 15
+  }
+]

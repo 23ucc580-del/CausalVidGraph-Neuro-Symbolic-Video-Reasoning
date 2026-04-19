@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene of children playing outside in a park.",
+    "objects": [
+      "outside",
+      "children",
+      "park",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively scene of children playing outside in a park.",
+    "objects": [
+      "outside",
+      "children",
+      "park",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively scene of children playing outside in a park.",
+    "objects": [
+      "outside",
+      "children",
+      "park",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively scene of children playing outside in a park.",
+    "objects": [
+      "outside",
+      "children",
+      "park",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "There are several kids of varying ages, all dressed in colorful and vibrant outfits.",
+    "objects": [
+      "kids",
+      "there",
+      "ages",
+      "vibrant",
+      "several",
+      "colorful",
+      "all"
+    ],
+    "actions": [
+      "outfits",
+      "dressed",
+      "varying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "There are several kids of varying ages, all dressed in colorful and vibrant outfits.",
+    "objects": [
+      "kids",
+      "there",
+      "ages",
+      "vibrant",
+      "several",
+      "colorful",
+      "all"
+    ],
+    "actions": [
+      "outfits",
+      "dressed",
+      "varying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "There are several kids of varying ages, all dressed in colorful and vibrant outfits.",
+    "objects": [
+      "kids",
+      "there",
+      "ages",
+      "vibrant",
+      "several",
+      "colorful",
+      "all"
+    ],
+    "actions": [
+      "outfits",
+      "dressed",
+      "varying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "There are several kids of varying ages, all dressed in colorful and vibrant outfits.",
+    "objects": [
+      "kids",
+      "there",
+      "ages",
+      "vibrant",
+      "several",
+      "colorful",
+      "all"
+    ],
+    "actions": [
+      "outfits",
+      "dressed",
+      "varying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "One girl is wearing a pink dress, while another is in a floral dress, and there's a boy in a blue shirt and black shorts.",
+    "objects": [
+      "one",
+      "boy",
+      "pink",
+      "while",
+      "black",
+      "blue",
+      "floral",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "there's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One girl is wearing a pink dress, while another is in a floral dress, and there's a boy in a blue shirt and black shorts.",
+    "objects": [
+      "one",
+      "boy",
+      "pink",
+      "while",
+      "black",
+      "blue",
+      "floral",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "there's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "One girl is wearing a pink dress, while another is in a floral dress, and there's a boy in a blue shirt and black shorts.",
+    "objects": [
+      "one",
+      "boy",
+      "pink",
+      "while",
+      "black",
+      "blue",
+      "floral",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "there's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "One girl is wearing a pink dress, while another is in a floral dress, and there's a boy in a blue shirt and black shorts.",
+    "objects": [
+      "one",
+      "boy",
+      "pink",
+      "while",
+      "black",
+      "blue",
+      "floral",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "there's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The children are seen engaging in playful activities, such as throwing a ball, playing with a frisbee, and running around.",
+    "objects": [
+      "frisbee",
+      "children",
+      "ball",
+      "around",
+      "playful",
+      "such"
+    ],
+    "actions": [
+      "running",
+      "throwing",
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The children are seen engaging in playful activities, such as throwing a ball, playing with a frisbee, and running around.",
+    "objects": [
+      "frisbee",
+      "children",
+      "ball",
+      "around",
+      "playful",
+      "such"
+    ],
+    "actions": [
+      "running",
+      "throwing",
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The children are seen engaging in playful activities, such as throwing a ball, playing with a frisbee, and running around.",
+    "objects": [
+      "frisbee",
+      "children",
+      "ball",
+      "around",
+      "playful",
+      "such"
+    ],
+    "actions": [
+      "running",
+      "throwing",
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The children are seen engaging in playful activities, such as throwing a ball, playing with a frisbee, and running around.",
+    "objects": [
+      "frisbee",
+      "children",
+      "ball",
+      "around",
+      "playful",
+      "such"
+    ],
+    "actions": [
+      "running",
+      "throwing",
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They are also seen playing with a soccer ball and a frisbee, and there are multiple instances of children playing with toys, including a red toy and a green toy.",
+    "objects": [
+      "they",
+      "frisbee",
+      "soccer",
+      "there",
+      "children",
+      "green",
+      "ball",
+      "multiple"
+    ],
+    "actions": [
+      "playing",
+      "instances",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "They are also seen playing with a soccer ball and a frisbee, and there are multiple instances of children playing with toys, including a red toy and a green toy.",
+    "objects": [
+      "they",
+      "frisbee",
+      "soccer",
+      "there",
+      "children",
+      "green",
+      "ball",
+      "multiple"
+    ],
+    "actions": [
+      "playing",
+      "instances",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "They are also seen playing with a soccer ball and a frisbee, and there are multiple instances of children playing with toys, including a red toy and a green toy.",
+    "objects": [
+      "they",
+      "frisbee",
+      "soccer",
+      "there",
+      "children",
+      "green",
+      "ball",
+      "multiple"
+    ],
+    "actions": [
+      "playing",
+      "instances",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "They are also seen playing with a soccer ball and a frisbee, and there are multiple instances of children playing with toys, including a red toy and a green toy.",
+    "objects": [
+      "they",
+      "frisbee",
+      "soccer",
+      "there",
+      "children",
+      "green",
+      "ball",
+      "multiple"
+    ],
+    "actions": [
+      "playing",
+      "instances",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "One boy is holding a green ball while another is holding a green soccer ball.",
+    "objects": [
+      "one",
+      "soccer",
+      "boy",
+      "while",
+      "green",
+      "ball"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "One boy is holding a green ball while another is holding a green soccer ball.",
+    "objects": [
+      "one",
+      "soccer",
+      "boy",
+      "while",
+      "green",
+      "ball"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "One boy is holding a green ball while another is holding a green soccer ball.",
+    "objects": [
+      "one",
+      "soccer",
+      "boy",
+      "while",
+      "green",
+      "ball"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "One boy is holding a green ball while another is holding a green soccer ball.",
+    "objects": [
+      "one",
+      "soccer",
+      "boy",
+      "while",
+      "green",
+      "ball"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is filled with excitement and energy as the children move around the park, with some children jumping and playing in the background.",
+    "objects": [
+      "children",
+      "some",
+      "move",
+      "around",
+      "excitement",
+      "park",
+      "energy"
+    ],
+    "actions": [
+      "playing",
+      "filled",
+      "jumping"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is filled with excitement and energy as the children move around the park, with some children jumping and playing in the background.",
+    "objects": [
+      "children",
+      "some",
+      "move",
+      "around",
+      "excitement",
+      "park",
+      "energy"
+    ],
+    "actions": [
+      "playing",
+      "filled",
+      "jumping"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is filled with excitement and energy as the children move around the park, with some children jumping and playing in the background.",
+    "objects": [
+      "children",
+      "some",
+      "move",
+      "around",
+      "excitement",
+      "park",
+      "energy"
+    ],
+    "actions": [
+      "playing",
+      "filled",
+      "jumping"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is filled with excitement and energy as the children move around the park, with some children jumping and playing in the background.",
+    "objects": [
+      "children",
+      "some",
+      "move",
+      "around",
+      "excitement",
+      "park",
+      "energy"
+    ],
+    "actions": [
+      "playing",
+      "filled",
+      "jumping"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The video captures a joyful atmosphere of children enjoying their time outdoors in a playful environment.",
+    "objects": [
+      "their",
+      "environment",
+      "joyful",
+      "children",
+      "playful",
+      "atmosphere",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The video captures a joyful atmosphere of children enjoying their time outdoors in a playful environment.",
+    "objects": [
+      "their",
+      "environment",
+      "joyful",
+      "children",
+      "playful",
+      "atmosphere",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures a joyful atmosphere of children enjoying their time outdoors in a playful environment.",
+    "objects": [
+      "their",
+      "environment",
+      "joyful",
+      "children",
+      "playful",
+      "atmosphere",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures a joyful atmosphere of children enjoying their time outdoors in a playful environment.",
+    "objects": [
+      "their",
+      "environment",
+      "joyful",
+      "children",
+      "playful",
+      "atmosphere",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 7
+  }
+]

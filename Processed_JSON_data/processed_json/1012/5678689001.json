@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a peaceful scene of two men walking their dogs in a grassy area.",
+    "objects": [
+      "their",
+      "two",
+      "men",
+      "peaceful",
+      "grassy",
+      "dogs",
+      "area"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a peaceful scene of two men walking their dogs in a grassy area.",
+    "objects": [
+      "their",
+      "two",
+      "men",
+      "peaceful",
+      "grassy",
+      "dogs",
+      "area"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a peaceful scene of two men walking their dogs in a grassy area.",
+    "objects": [
+      "their",
+      "two",
+      "men",
+      "peaceful",
+      "grassy",
+      "dogs",
+      "area"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video shows a peaceful scene of two men walking their dogs in a grassy area.",
+    "objects": [
+      "their",
+      "two",
+      "men",
+      "peaceful",
+      "grassy",
+      "dogs",
+      "area"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The men are wearing casual clothing, with one of them wearing a blue hoodie and the other a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "casual",
+      "men",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "clothing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The men are wearing casual clothing, with one of them wearing a blue hoodie and the other a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "casual",
+      "men",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "clothing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The men are wearing casual clothing, with one of them wearing a blue hoodie and the other a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "casual",
+      "men",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "clothing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The men are wearing casual clothing, with one of them wearing a blue hoodie and the other a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "casual",
+      "men",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "clothing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The dogs are being walked on leashes.",
+    "objects": [
+      "dogs"
+    ],
+    "actions": [
+      "walked",
+      "leashes",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The dogs are being walked on leashes.",
+    "objects": [
+      "dogs"
+    ],
+    "actions": [
+      "walked",
+      "leashes",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The dogs are being walked on leashes.",
+    "objects": [
+      "dogs"
+    ],
+    "actions": [
+      "walked",
+      "leashes",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The dogs are being walked on leashes.",
+    "objects": [
+      "dogs"
+    ],
+    "actions": [
+      "walked",
+      "leashes",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "One of the dogs, a black and white one, is wearing a red collar.",
+    "objects": [
+      "one",
+      "white",
+      "black",
+      "collar",
+      "dogs"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "One of the dogs, a black and white one, is wearing a red collar.",
+    "objects": [
+      "one",
+      "white",
+      "black",
+      "collar",
+      "dogs"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "One of the dogs, a black and white one, is wearing a red collar.",
+    "objects": [
+      "one",
+      "white",
+      "black",
+      "collar",
+      "dogs"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "One of the dogs, a black and white one, is wearing a red collar.",
+    "objects": [
+      "one",
+      "white",
+      "black",
+      "collar",
+      "dogs"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The men are accompanied by two other dogs, one brown and black and the other black and white, with a red collar.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "two",
+      "black",
+      "men",
+      "collar",
+      "dogs"
+    ],
+    "actions": [
+      "red",
+      "accompanied"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The men are accompanied by two other dogs, one brown and black and the other black and white, with a red collar.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "two",
+      "black",
+      "men",
+      "collar",
+      "dogs"
+    ],
+    "actions": [
+      "red",
+      "accompanied"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The men are accompanied by two other dogs, one brown and black and the other black and white, with a red collar.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "two",
+      "black",
+      "men",
+      "collar",
+      "dogs"
+    ],
+    "actions": [
+      "red",
+      "accompanied"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The men are accompanied by two other dogs, one brown and black and the other black and white, with a red collar.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "two",
+      "black",
+      "men",
+      "collar",
+      "dogs"
+    ],
+    "actions": [
+      "red",
+      "accompanied"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The dogs are seen playing and running around in the grass, and one of them is biting a red leash.",
+    "objects": [
+      "one",
+      "leash",
+      "around",
+      "them",
+      "grass",
+      "dogs"
+    ],
+    "actions": [
+      "playing",
+      "biting",
+      "running",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The dogs are seen playing and running around in the grass, and one of them is biting a red leash.",
+    "objects": [
+      "one",
+      "leash",
+      "around",
+      "them",
+      "grass",
+      "dogs"
+    ],
+    "actions": [
+      "playing",
+      "biting",
+      "running",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The dogs are seen playing and running around in the grass, and one of them is biting a red leash.",
+    "objects": [
+      "one",
+      "leash",
+      "around",
+      "them",
+      "grass",
+      "dogs"
+    ],
+    "actions": [
+      "playing",
+      "biting",
+      "running",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The dogs are seen playing and running around in the grass, and one of them is biting a red leash.",
+    "objects": [
+      "one",
+      "leash",
+      "around",
+      "them",
+      "grass",
+      "dogs"
+    ],
+    "actions": [
+      "playing",
+      "biting",
+      "running",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The men are walking past a building, with one of them holding a blue bowl.",
+    "objects": [
+      "one",
+      "men",
+      "blue",
+      "bowl",
+      "them",
+      "past"
+    ],
+    "actions": [
+      "building",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The men are walking past a building, with one of them holding a blue bowl.",
+    "objects": [
+      "one",
+      "men",
+      "blue",
+      "bowl",
+      "them",
+      "past"
+    ],
+    "actions": [
+      "building",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The men are walking past a building, with one of them holding a blue bowl.",
+    "objects": [
+      "one",
+      "men",
+      "blue",
+      "bowl",
+      "them",
+      "past"
+    ],
+    "actions": [
+      "building",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The men are walking past a building, with one of them holding a blue bowl.",
+    "objects": [
+      "one",
+      "men",
+      "blue",
+      "bowl",
+      "them",
+      "past"
+    ],
+    "actions": [
+      "building",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The grassy area is surrounded by a metal fence and there's a green pole in the background.",
+    "objects": [
+      "pole",
+      "green",
+      "grassy",
+      "metal",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "surrounded",
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The grassy area is surrounded by a metal fence and there's a green pole in the background.",
+    "objects": [
+      "pole",
+      "green",
+      "grassy",
+      "metal",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "surrounded",
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The grassy area is surrounded by a metal fence and there's a green pole in the background.",
+    "objects": [
+      "pole",
+      "green",
+      "grassy",
+      "metal",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "surrounded",
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The grassy area is surrounded by a metal fence and there's a green pole in the background.",
+    "objects": [
+      "pole",
+      "green",
+      "grassy",
+      "metal",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "surrounded",
+      "there's"
+    ],
+    "segment_id": 7
+  }
+]

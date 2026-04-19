@@ -1,0 +1,526 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there is a man swimming in the ocean while wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "ocean",
+      "man",
+      "there",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "swimming",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there is a man swimming in the ocean while wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "ocean",
+      "man",
+      "there",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "swimming",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there is a man swimming in the ocean while wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "ocean",
+      "man",
+      "there",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "swimming",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there is a man swimming in the ocean while wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "ocean",
+      "man",
+      "there",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "swimming",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is moving towards a large rock formation in the middle of the water.",
+    "objects": [
+      "water",
+      "rock",
+      "middle",
+      "formation",
+      "large"
+    ],
+    "actions": [
+      "towards",
+      "moving"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is moving towards a large rock formation in the middle of the water.",
+    "objects": [
+      "water",
+      "rock",
+      "middle",
+      "formation",
+      "large"
+    ],
+    "actions": [
+      "towards",
+      "moving"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is moving towards a large rock formation in the middle of the water.",
+    "objects": [
+      "water",
+      "rock",
+      "middle",
+      "formation",
+      "large"
+    ],
+    "actions": [
+      "towards",
+      "moving"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is moving towards a large rock formation in the middle of the water.",
+    "objects": [
+      "water",
+      "rock",
+      "middle",
+      "formation",
+      "large"
+    ],
+    "actions": [
+      "towards",
+      "moving"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The water appears to be calm, and the sun is shining brightly.",
+    "objects": [
+      "water",
+      "brightly",
+      "sun",
+      "calm"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The water appears to be calm, and the sun is shining brightly.",
+    "objects": [
+      "water",
+      "brightly",
+      "sun",
+      "calm"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The water appears to be calm, and the sun is shining brightly.",
+    "objects": [
+      "water",
+      "brightly",
+      "sun",
+      "calm"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The water appears to be calm, and the sun is shining brightly.",
+    "objects": [
+      "water",
+      "brightly",
+      "sun",
+      "calm"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "There is also a person sitting on the beach in the foreground, wearing a pink swimsuit, and another person, also in a pink swimsuit, walking on the beach towards the camera.",
+    "objects": [
+      "swimsuit",
+      "pink",
+      "beach",
+      "there"
+    ],
+    "actions": [
+      "sitting",
+      "walking",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "There is also a person sitting on the beach in the foreground, wearing a pink swimsuit, and another person, also in a pink swimsuit, walking on the beach towards the camera.",
+    "objects": [
+      "swimsuit",
+      "pink",
+      "beach",
+      "there"
+    ],
+    "actions": [
+      "sitting",
+      "walking",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "There is also a person sitting on the beach in the foreground, wearing a pink swimsuit, and another person, also in a pink swimsuit, walking on the beach towards the camera.",
+    "objects": [
+      "swimsuit",
+      "pink",
+      "beach",
+      "there"
+    ],
+    "actions": [
+      "sitting",
+      "walking",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "There is also a person sitting on the beach in the foreground, wearing a pink swimsuit, and another person, also in a pink swimsuit, walking on the beach towards the camera.",
+    "objects": [
+      "swimsuit",
+      "pink",
+      "beach",
+      "there"
+    ],
+    "actions": [
+      "sitting",
+      "walking",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A young boy in a blue shirt is standing on the beach, watching the swimming man.",
+    "objects": [
+      "shirt",
+      "boy",
+      "beach",
+      "blue",
+      "man",
+      "young"
+    ],
+    "actions": [
+      "swimming",
+      "standing",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A young boy in a blue shirt is standing on the beach, watching the swimming man.",
+    "objects": [
+      "shirt",
+      "boy",
+      "beach",
+      "blue",
+      "man",
+      "young"
+    ],
+    "actions": [
+      "swimming",
+      "standing",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A young boy in a blue shirt is standing on the beach, watching the swimming man.",
+    "objects": [
+      "shirt",
+      "boy",
+      "beach",
+      "blue",
+      "man",
+      "young"
+    ],
+    "actions": [
+      "swimming",
+      "standing",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A young boy in a blue shirt is standing on the beach, watching the swimming man.",
+    "objects": [
+      "shirt",
+      "boy",
+      "beach",
+      "blue",
+      "man",
+      "young"
+    ],
+    "actions": [
+      "swimming",
+      "standing",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In the distance, a woman is standing on the beach, holding a child.",
+    "objects": [
+      "distance",
+      "child",
+      "beach",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In the distance, a woman is standing on the beach, holding a child.",
+    "objects": [
+      "distance",
+      "child",
+      "beach",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In the distance, a woman is standing on the beach, holding a child.",
+    "objects": [
+      "distance",
+      "child",
+      "beach",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In the distance, a woman is standing on the beach, holding a child.",
+    "objects": [
+      "distance",
+      "child",
+      "beach",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There is a person lying on a beach towel, and another person is standing on the beach, wearing a white shirt.",
+    "objects": [
+      "shirt",
+      "beach",
+      "white",
+      "towel",
+      "there"
+    ],
+    "actions": [
+      "standing",
+      "lying",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There is a person lying on a beach towel, and another person is standing on the beach, wearing a white shirt.",
+    "objects": [
+      "shirt",
+      "beach",
+      "white",
+      "towel",
+      "there"
+    ],
+    "actions": [
+      "standing",
+      "lying",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There is a person lying on a beach towel, and another person is standing on the beach, wearing a white shirt.",
+    "objects": [
+      "shirt",
+      "beach",
+      "white",
+      "towel",
+      "there"
+    ],
+    "actions": [
+      "standing",
+      "lying",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There is a person lying on a beach towel, and another person is standing on the beach, wearing a white shirt.",
+    "objects": [
+      "shirt",
+      "beach",
+      "white",
+      "towel",
+      "there"
+    ],
+    "actions": [
+      "standing",
+      "lying",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The beach is sandy, and the ocean water is a light blue color.",
+    "objects": [
+      "blue",
+      "beach",
+      "ocean",
+      "sandy",
+      "color",
+      "water",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The beach is sandy, and the ocean water is a light blue color.",
+    "objects": [
+      "blue",
+      "beach",
+      "ocean",
+      "sandy",
+      "color",
+      "water",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The beach is sandy, and the ocean water is a light blue color.",
+    "objects": [
+      "blue",
+      "beach",
+      "ocean",
+      "sandy",
+      "color",
+      "water",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The beach is sandy, and the ocean water is a light blue color.",
+    "objects": [
+      "blue",
+      "beach",
+      "ocean",
+      "sandy",
+      "color",
+      "water",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,607 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a group of people braving the outdoors during a rainy day.",
+    "objects": [
+      "people",
+      "day",
+      "rainy",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "braving",
+      "during",
+      "outdoors"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a group of people braving the outdoors during a rainy day.",
+    "objects": [
+      "people",
+      "day",
+      "rainy",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "braving",
+      "during",
+      "outdoors"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a group of people braving the outdoors during a rainy day.",
+    "objects": [
+      "people",
+      "day",
+      "rainy",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "braving",
+      "during",
+      "outdoors"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "They are dressed in waterproof jackets and hoodies, with some wearing backpacks, indicating they are prepared for a day of hiking or outdoor exploration.",
+    "objects": [
+      "they",
+      "waterproof",
+      "day",
+      "some",
+      "exploration",
+      "outdoor"
+    ],
+    "actions": [
+      "backpacks",
+      "prepared",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "They are dressed in waterproof jackets and hoodies, with some wearing backpacks, indicating they are prepared for a day of hiking or outdoor exploration.",
+    "objects": [
+      "they",
+      "waterproof",
+      "day",
+      "some",
+      "exploration",
+      "outdoor"
+    ],
+    "actions": [
+      "backpacks",
+      "prepared",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "They are dressed in waterproof jackets and hoodies, with some wearing backpacks, indicating they are prepared for a day of hiking or outdoor exploration.",
+    "objects": [
+      "they",
+      "waterproof",
+      "day",
+      "some",
+      "exploration",
+      "outdoor"
+    ],
+    "actions": [
+      "backpacks",
+      "prepared",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene opens with a close-up shot of a person's hand holding a camera, perhaps to capture the beauty of the landscape they are about to explore.",
+    "objects": [
+      "capture",
+      "they",
+      "hand",
+      "about",
+      "beauty",
+      "explore",
+      "landscape"
+    ],
+    "actions": [
+      "opens",
+      "perhaps",
+      "holding",
+      "person's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene opens with a close-up shot of a person's hand holding a camera, perhaps to capture the beauty of the landscape they are about to explore.",
+    "objects": [
+      "capture",
+      "they",
+      "hand",
+      "about",
+      "beauty",
+      "explore",
+      "landscape"
+    ],
+    "actions": [
+      "opens",
+      "perhaps",
+      "holding",
+      "person's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene opens with a close-up shot of a person's hand holding a camera, perhaps to capture the beauty of the landscape they are about to explore.",
+    "objects": [
+      "capture",
+      "they",
+      "hand",
+      "about",
+      "beauty",
+      "explore",
+      "landscape"
+    ],
+    "actions": [
+      "opens",
+      "perhaps",
+      "holding",
+      "person's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then pans to show the group of people walking in the rain, their hoodies hooded up to protect them from the wet weather.",
+    "objects": [
+      "their",
+      "weather",
+      "show",
+      "people",
+      "protect",
+      "rain",
+      "pans",
+      "from"
+    ],
+    "actions": [
+      "hoodies",
+      "walking",
+      "hooded"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then pans to show the group of people walking in the rain, their hoodies hooded up to protect them from the wet weather.",
+    "objects": [
+      "their",
+      "weather",
+      "show",
+      "people",
+      "protect",
+      "rain",
+      "pans",
+      "from"
+    ],
+    "actions": [
+      "hoodies",
+      "walking",
+      "hooded"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then pans to show the group of people walking in the rain, their hoodies hooded up to protect them from the wet weather.",
+    "objects": [
+      "their",
+      "weather",
+      "show",
+      "people",
+      "protect",
+      "rain",
+      "pans",
+      "from"
+    ],
+    "actions": [
+      "hoodies",
+      "walking",
+      "hooded"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera follows their journey as they navigate through a rocky area with a waterfall in the background, and one person holds an umbrella to shield themselves from the rain.",
+    "objects": [
+      "their",
+      "they",
+      "one",
+      "waterfall",
+      "rain",
+      "journey",
+      "rocky",
+      "navigate"
+    ],
+    "actions": [
+      "follows",
+      "themselves",
+      "holds"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera follows their journey as they navigate through a rocky area with a waterfall in the background, and one person holds an umbrella to shield themselves from the rain.",
+    "objects": [
+      "their",
+      "they",
+      "one",
+      "waterfall",
+      "rain",
+      "journey",
+      "rocky",
+      "navigate"
+    ],
+    "actions": [
+      "follows",
+      "themselves",
+      "holds"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera follows their journey as they navigate through a rocky area with a waterfall in the background, and one person holds an umbrella to shield themselves from the rain.",
+    "objects": [
+      "their",
+      "they",
+      "one",
+      "waterfall",
+      "rain",
+      "journey",
+      "rocky",
+      "navigate"
+    ],
+    "actions": [
+      "follows",
+      "themselves",
+      "holds"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The group moves through a mountainous area, possibly on a trail, with a large waterfall in the distance.",
+    "objects": [
+      "distance",
+      "large",
+      "waterfall",
+      "trail",
+      "possibly",
+      "through",
+      "area",
+      "group"
+    ],
+    "actions": [
+      "mountainous",
+      "moves"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The group moves through a mountainous area, possibly on a trail, with a large waterfall in the distance.",
+    "objects": [
+      "distance",
+      "large",
+      "waterfall",
+      "trail",
+      "possibly",
+      "through",
+      "area",
+      "group"
+    ],
+    "actions": [
+      "mountainous",
+      "moves"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The group moves through a mountainous area, possibly on a trail, with a large waterfall in the distance.",
+    "objects": [
+      "distance",
+      "large",
+      "waterfall",
+      "trail",
+      "possibly",
+      "through",
+      "area",
+      "group"
+    ],
+    "actions": [
+      "mountainous",
+      "moves"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then focuses on a person with a backpack, walking through the same area, seemingly leading the group.",
+    "objects": [
+      "same",
+      "seemingly",
+      "through",
+      "then",
+      "backpack",
+      "area",
+      "group"
+    ],
+    "actions": [
+      "leading",
+      "walking",
+      "focuses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then focuses on a person with a backpack, walking through the same area, seemingly leading the group.",
+    "objects": [
+      "same",
+      "seemingly",
+      "through",
+      "then",
+      "backpack",
+      "area",
+      "group"
+    ],
+    "actions": [
+      "leading",
+      "walking",
+      "focuses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then focuses on a person with a backpack, walking through the same area, seemingly leading the group.",
+    "objects": [
+      "same",
+      "seemingly",
+      "through",
+      "then",
+      "backpack",
+      "area",
+      "group"
+    ],
+    "actions": [
+      "leading",
+      "walking",
+      "focuses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "They move through a rocky area with a waterfall in the distance, continuing their walk in the rain.",
+    "objects": [
+      "they",
+      "distance",
+      "their",
+      "walk",
+      "waterfall",
+      "rain",
+      "rocky",
+      "move"
+    ],
+    "actions": [
+      "continuing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "They move through a rocky area with a waterfall in the distance, continuing their walk in the rain.",
+    "objects": [
+      "they",
+      "distance",
+      "their",
+      "walk",
+      "waterfall",
+      "rain",
+      "rocky",
+      "move"
+    ],
+    "actions": [
+      "continuing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "They move through a rocky area with a waterfall in the distance, continuing their walk in the rain.",
+    "objects": [
+      "they",
+      "distance",
+      "their",
+      "walk",
+      "waterfall",
+      "rain",
+      "rocky",
+      "move"
+    ],
+    "actions": [
+      "continuing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera pans to another person in a raincoat, smiling brightly, adding a sense of joy and excitement to the scene.",
+    "objects": [
+      "raincoat",
+      "pans",
+      "sense",
+      "brightly",
+      "excitement",
+      "joy"
+    ],
+    "actions": [
+      "adding",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera pans to another person in a raincoat, smiling brightly, adding a sense of joy and excitement to the scene.",
+    "objects": [
+      "raincoat",
+      "pans",
+      "sense",
+      "brightly",
+      "excitement",
+      "joy"
+    ],
+    "actions": [
+      "adding",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera pans to another person in a raincoat, smiling brightly, adding a sense of joy and excitement to the scene.",
+    "objects": [
+      "raincoat",
+      "pans",
+      "sense",
+      "brightly",
+      "excitement",
+      "joy"
+    ],
+    "actions": [
+      "adding",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera returns to the person with the backpack, walking with the group, as they continue their journey through the mountainous area.",
+    "objects": [
+      "they",
+      "their",
+      "journey",
+      "continue",
+      "through",
+      "backpack",
+      "area",
+      "group"
+    ],
+    "actions": [
+      "mountainous",
+      "walking",
+      "returns"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera returns to the person with the backpack, walking with the group, as they continue their journey through the mountainous area.",
+    "objects": [
+      "they",
+      "their",
+      "journey",
+      "continue",
+      "through",
+      "backpack",
+      "area",
+      "group"
+    ],
+    "actions": [
+      "mountainous",
+      "walking",
+      "returns"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera returns to the person with the backpack, walking with the group, as they continue their journey through the mountainous area.",
+    "objects": [
+      "they",
+      "their",
+      "journey",
+      "continue",
+      "through",
+      "backpack",
+      "area",
+      "group"
+    ],
+    "actions": [
+      "mountainous",
+      "walking",
+      "returns"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Finally, the camera shows a person with an umbrella walking in the same area, likely to protect themselves from the rain.",
+    "objects": [
+      "protect",
+      "rain",
+      "finally",
+      "same",
+      "from",
+      "umbrella",
+      "likely",
+      "area"
+    ],
+    "actions": [
+      "themselves",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Finally, the camera shows a person with an umbrella walking in the same area, likely to protect themselves from the rain.",
+    "objects": [
+      "protect",
+      "rain",
+      "finally",
+      "same",
+      "from",
+      "umbrella",
+      "likely",
+      "area"
+    ],
+    "actions": [
+      "themselves",
+      "walking"
+    ],
+    "segment_id": 10
+  }
+]

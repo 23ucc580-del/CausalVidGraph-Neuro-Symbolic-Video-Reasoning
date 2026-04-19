@@ -1,0 +1,634 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts an indoor scene with several people engaged in various activities.",
+    "objects": [
+      "indoor",
+      "people",
+      "several"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts an indoor scene with several people engaged in various activities.",
+    "objects": [
+      "indoor",
+      "people",
+      "several"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts an indoor scene with several people engaged in various activities.",
+    "objects": [
+      "indoor",
+      "people",
+      "several"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts an indoor scene with several people engaged in various activities.",
+    "objects": [
+      "indoor",
+      "people",
+      "several"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the foreground, there is a man dressed in a green sleeveless top and black pants, standing in front of a display case with sneakers.",
+    "objects": [
+      "there",
+      "black",
+      "green",
+      "top",
+      "display",
+      "man",
+      "case"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "dressed",
+      "sneakers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, there is a man dressed in a green sleeveless top and black pants, standing in front of a display case with sneakers.",
+    "objects": [
+      "there",
+      "black",
+      "green",
+      "top",
+      "display",
+      "man",
+      "case"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "dressed",
+      "sneakers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, there is a man dressed in a green sleeveless top and black pants, standing in front of a display case with sneakers.",
+    "objects": [
+      "there",
+      "black",
+      "green",
+      "top",
+      "display",
+      "man",
+      "case"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "dressed",
+      "sneakers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, there is a man dressed in a green sleeveless top and black pants, standing in front of a display case with sneakers.",
+    "objects": [
+      "there",
+      "black",
+      "green",
+      "top",
+      "display",
+      "man",
+      "case"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "dressed",
+      "sneakers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is holding a pair of sneakers in his hand, possibly examining them or preparing to put them on.",
+    "objects": [
+      "possibly",
+      "put",
+      "them",
+      "his",
+      "pair",
+      "hand"
+    ],
+    "actions": [
+      "preparing",
+      "examining",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is holding a pair of sneakers in his hand, possibly examining them or preparing to put them on.",
+    "objects": [
+      "possibly",
+      "put",
+      "them",
+      "his",
+      "pair",
+      "hand"
+    ],
+    "actions": [
+      "preparing",
+      "examining",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is holding a pair of sneakers in his hand, possibly examining them or preparing to put them on.",
+    "objects": [
+      "possibly",
+      "put",
+      "them",
+      "his",
+      "pair",
+      "hand"
+    ],
+    "actions": [
+      "preparing",
+      "examining",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is holding a pair of sneakers in his hand, possibly examining them or preparing to put them on.",
+    "objects": [
+      "possibly",
+      "put",
+      "them",
+      "his",
+      "pair",
+      "hand"
+    ],
+    "actions": [
+      "preparing",
+      "examining",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "In the background, another man is standing near a window, wearing a black jacket and holding a pair of sneakers, seemingly observing or waiting for someone.",
+    "objects": [
+      "jacket",
+      "black",
+      "seemingly",
+      "window",
+      "someone",
+      "pair",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "In the background, another man is standing near a window, wearing a black jacket and holding a pair of sneakers, seemingly observing or waiting for someone.",
+    "objects": [
+      "jacket",
+      "black",
+      "seemingly",
+      "window",
+      "someone",
+      "pair",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "In the background, another man is standing near a window, wearing a black jacket and holding a pair of sneakers, seemingly observing or waiting for someone.",
+    "objects": [
+      "jacket",
+      "black",
+      "seemingly",
+      "window",
+      "someone",
+      "pair",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, another man is standing near a window, wearing a black jacket and holding a pair of sneakers, seemingly observing or waiting for someone.",
+    "objects": [
+      "jacket",
+      "black",
+      "seemingly",
+      "window",
+      "someone",
+      "pair",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the same background, another man is standing in a blue hoodie and black pants, holding a pair of sneakers, also examining them or preparing to put them on.",
+    "objects": [
+      "black",
+      "blue",
+      "same",
+      "put",
+      "them",
+      "hoodie",
+      "pair",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "In the same background, another man is standing in a blue hoodie and black pants, holding a pair of sneakers, also examining them or preparing to put them on.",
+    "objects": [
+      "black",
+      "blue",
+      "same",
+      "put",
+      "them",
+      "hoodie",
+      "pair",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "In the same background, another man is standing in a blue hoodie and black pants, holding a pair of sneakers, also examining them or preparing to put them on.",
+    "objects": [
+      "black",
+      "blue",
+      "same",
+      "put",
+      "them",
+      "hoodie",
+      "pair",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "In the same background, another man is standing in a blue hoodie and black pants, holding a pair of sneakers, also examining them or preparing to put them on.",
+    "objects": [
+      "black",
+      "blue",
+      "same",
+      "put",
+      "them",
+      "hoodie",
+      "pair",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "sneakers",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "To the right, there is a man wearing a blue shirt and black pants, standing near a display case with sneakers, seemingly observing or waiting for someone.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "seemingly",
+      "someone",
+      "display",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "sneakers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "To the right, there is a man wearing a blue shirt and black pants, standing near a display case with sneakers, seemingly observing or waiting for someone.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "seemingly",
+      "someone",
+      "display",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "sneakers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "To the right, there is a man wearing a blue shirt and black pants, standing near a display case with sneakers, seemingly observing or waiting for someone.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "seemingly",
+      "someone",
+      "display",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "sneakers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "To the right, there is a man wearing a blue shirt and black pants, standing near a display case with sneakers, seemingly observing or waiting for someone.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "seemingly",
+      "someone",
+      "display",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "sneakers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "On the left side of the video, there is a man in a white shirt and black pants, holding a pair of sneakers, examining them or preparing to put them on.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "shirt",
+      "put",
+      "them",
+      "side",
+      "pair"
+    ],
+    "actions": [
+      "pants",
+      "sneakers",
+      "holding",
+      "examining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "On the left side of the video, there is a man in a white shirt and black pants, holding a pair of sneakers, examining them or preparing to put them on.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "shirt",
+      "put",
+      "them",
+      "side",
+      "pair"
+    ],
+    "actions": [
+      "pants",
+      "sneakers",
+      "holding",
+      "examining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "On the left side of the video, there is a man in a white shirt and black pants, holding a pair of sneakers, examining them or preparing to put them on.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "shirt",
+      "put",
+      "them",
+      "side",
+      "pair"
+    ],
+    "actions": [
+      "pants",
+      "sneakers",
+      "holding",
+      "examining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "On the left side of the video, there is a man in a white shirt and black pants, holding a pair of sneakers, examining them or preparing to put them on.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "shirt",
+      "put",
+      "them",
+      "side",
+      "pair"
+    ],
+    "actions": [
+      "pants",
+      "sneakers",
+      "holding",
+      "examining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "At the far right end of the video, there is a man wearing a blue shirt and black pants, standing next to a display case with sneakers, observing or waiting for someone.",
+    "objects": [
+      "there",
+      "end",
+      "far",
+      "black",
+      "blue",
+      "shirt",
+      "someone",
+      "display"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "sneakers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "At the far right end of the video, there is a man wearing a blue shirt and black pants, standing next to a display case with sneakers, observing or waiting for someone.",
+    "objects": [
+      "there",
+      "end",
+      "far",
+      "black",
+      "blue",
+      "shirt",
+      "someone",
+      "display"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "sneakers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "At the far right end of the video, there is a man wearing a blue shirt and black pants, standing next to a display case with sneakers, observing or waiting for someone.",
+    "objects": [
+      "there",
+      "end",
+      "far",
+      "black",
+      "blue",
+      "shirt",
+      "someone",
+      "display"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "sneakers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "At the far right end of the video, there is a man wearing a blue shirt and black pants, standing next to a display case with sneakers, observing or waiting for someone.",
+    "objects": [
+      "there",
+      "end",
+      "far",
+      "black",
+      "blue",
+      "shirt",
+      "someone",
+      "display"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "sneakers"
+    ],
+    "segment_id": 7
+  }
+]

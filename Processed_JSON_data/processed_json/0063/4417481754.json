@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people gathered around a wooden dining table, enjoying a meal together.",
+    "objects": [
+      "this",
+      "people",
+      "wooden",
+      "meal",
+      "see",
+      "together",
+      "group",
+      "table"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people gathered around a wooden dining table, enjoying a meal together.",
+    "objects": [
+      "this",
+      "people",
+      "wooden",
+      "meal",
+      "see",
+      "together",
+      "group",
+      "table"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people gathered around a wooden dining table, enjoying a meal together.",
+    "objects": [
+      "this",
+      "people",
+      "wooden",
+      "meal",
+      "see",
+      "together",
+      "group",
+      "table"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a group of people gathered around a wooden dining table, enjoying a meal together.",
+    "objects": [
+      "this",
+      "people",
+      "wooden",
+      "meal",
+      "see",
+      "together",
+      "group",
+      "table"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One person is holding a glass of beer, while another person is holding a knife.",
+    "objects": [
+      "beer",
+      "knife",
+      "glass",
+      "one",
+      "while"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One person is holding a glass of beer, while another person is holding a knife.",
+    "objects": [
+      "beer",
+      "knife",
+      "glass",
+      "one",
+      "while"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One person is holding a glass of beer, while another person is holding a knife.",
+    "objects": [
+      "beer",
+      "knife",
+      "glass",
+      "one",
+      "while"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One person is holding a glass of beer, while another person is holding a knife.",
+    "objects": [
+      "beer",
+      "knife",
+      "glass",
+      "one",
+      "while"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The atmosphere is casual and relaxed, with everyone engaged in conversation.",
+    "objects": [
+      "everyone",
+      "casual",
+      "conversation",
+      "atmosphere"
+    ],
+    "actions": [
+      "engaged",
+      "relaxed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The atmosphere is casual and relaxed, with everyone engaged in conversation.",
+    "objects": [
+      "everyone",
+      "casual",
+      "conversation",
+      "atmosphere"
+    ],
+    "actions": [
+      "engaged",
+      "relaxed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The atmosphere is casual and relaxed, with everyone engaged in conversation.",
+    "objects": [
+      "everyone",
+      "casual",
+      "conversation",
+      "atmosphere"
+    ],
+    "actions": [
+      "engaged",
+      "relaxed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The atmosphere is casual and relaxed, with everyone engaged in conversation.",
+    "objects": [
+      "everyone",
+      "casual",
+      "conversation",
+      "atmosphere"
+    ],
+    "actions": [
+      "engaged",
+      "relaxed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The table is filled with various items, including a knife, a beer bottle, and a glass of water.",
+    "objects": [
+      "beer",
+      "water",
+      "knife",
+      "glass",
+      "table",
+      "bottle"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The table is filled with various items, including a knife, a beer bottle, and a glass of water.",
+    "objects": [
+      "beer",
+      "water",
+      "knife",
+      "glass",
+      "table",
+      "bottle"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The table is filled with various items, including a knife, a beer bottle, and a glass of water.",
+    "objects": [
+      "beer",
+      "water",
+      "knife",
+      "glass",
+      "table",
+      "bottle"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The table is filled with various items, including a knife, a beer bottle, and a glass of water.",
+    "objects": [
+      "beer",
+      "water",
+      "knife",
+      "glass",
+      "table",
+      "bottle"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "One person is wearing a blue hoodie, while another is dressed in a red shirt.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "while",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "One person is wearing a blue hoodie, while another is dressed in a red shirt.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "while",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "One person is wearing a blue hoodie, while another is dressed in a red shirt.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "while",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "One person is wearing a blue hoodie, while another is dressed in a red shirt.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "while",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene appears to be set in a home environment, with a potted plant and a lamp visible in the background.",
+    "objects": [
+      "lamp",
+      "home",
+      "plant",
+      "environment",
+      "set"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene appears to be set in a home environment, with a potted plant and a lamp visible in the background.",
+    "objects": [
+      "lamp",
+      "home",
+      "plant",
+      "environment",
+      "set"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene appears to be set in a home environment, with a potted plant and a lamp visible in the background.",
+    "objects": [
+      "lamp",
+      "home",
+      "plant",
+      "environment",
+      "set"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene appears to be set in a home environment, with a potted plant and a lamp visible in the background.",
+    "objects": [
+      "lamp",
+      "home",
+      "plant",
+      "environment",
+      "set"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The people are sitting on chairs, with one person sitting on a chair and another on a couch.",
+    "objects": [
+      "chair",
+      "couch",
+      "one",
+      "people"
+    ],
+    "actions": [
+      "chairs",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The people are sitting on chairs, with one person sitting on a chair and another on a couch.",
+    "objects": [
+      "chair",
+      "couch",
+      "one",
+      "people"
+    ],
+    "actions": [
+      "chairs",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The people are sitting on chairs, with one person sitting on a chair and another on a couch.",
+    "objects": [
+      "chair",
+      "couch",
+      "one",
+      "people"
+    ],
+    "actions": [
+      "chairs",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The people are sitting on chairs, with one person sitting on a chair and another on a couch.",
+    "objects": [
+      "chair",
+      "couch",
+      "one",
+      "people"
+    ],
+    "actions": [
+      "chairs",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The overall mood is friendly and convivial, as everyone seems to be enjoying each other's company.",
+    "objects": [
+      "company",
+      "each",
+      "mood",
+      "convivial",
+      "friendly",
+      "everyone",
+      "overall"
+    ],
+    "actions": [
+      "enjoying",
+      "other's",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The overall mood is friendly and convivial, as everyone seems to be enjoying each other's company.",
+    "objects": [
+      "company",
+      "each",
+      "mood",
+      "convivial",
+      "friendly",
+      "everyone",
+      "overall"
+    ],
+    "actions": [
+      "enjoying",
+      "other's",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall mood is friendly and convivial, as everyone seems to be enjoying each other's company.",
+    "objects": [
+      "company",
+      "each",
+      "mood",
+      "convivial",
+      "friendly",
+      "everyone",
+      "overall"
+    ],
+    "actions": [
+      "enjoying",
+      "other's",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall mood is friendly and convivial, as everyone seems to be enjoying each other's company.",
+    "objects": [
+      "company",
+      "each",
+      "mood",
+      "convivial",
+      "friendly",
+      "everyone",
+      "overall"
+    ],
+    "actions": [
+      "enjoying",
+      "other's",
+      "seems"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,526 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of three children standing on the shore of the ocean.",
+    "objects": [
+      "three",
+      "shore",
+      "group",
+      "ocean",
+      "see",
+      "children"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of three children standing on the shore of the ocean.",
+    "objects": [
+      "three",
+      "shore",
+      "group",
+      "ocean",
+      "see",
+      "children"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of three children standing on the shore of the ocean.",
+    "objects": [
+      "three",
+      "shore",
+      "group",
+      "ocean",
+      "see",
+      "children"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a group of three children standing on the shore of the ocean.",
+    "objects": [
+      "three",
+      "shore",
+      "group",
+      "ocean",
+      "see",
+      "children"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The child in the middle, dressed in a blue hoodie, is standing on one foot and holding the hand of a child in a pink jacket, who is wearing a red snowsuit.",
+    "objects": [
+      "blue",
+      "foot",
+      "hand",
+      "pink",
+      "middle",
+      "child",
+      "jacket",
+      "one"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child in the middle, dressed in a blue hoodie, is standing on one foot and holding the hand of a child in a pink jacket, who is wearing a red snowsuit.",
+    "objects": [
+      "blue",
+      "foot",
+      "hand",
+      "pink",
+      "middle",
+      "child",
+      "jacket",
+      "one"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child in the middle, dressed in a blue hoodie, is standing on one foot and holding the hand of a child in a pink jacket, who is wearing a red snowsuit.",
+    "objects": [
+      "blue",
+      "foot",
+      "hand",
+      "pink",
+      "middle",
+      "child",
+      "jacket",
+      "one"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child in the middle, dressed in a blue hoodie, is standing on one foot and holding the hand of a child in a pink jacket, who is wearing a red snowsuit.",
+    "objects": [
+      "blue",
+      "foot",
+      "hand",
+      "pink",
+      "middle",
+      "child",
+      "jacket",
+      "one"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The child on the left, dressed in a blue jacket and a hat, is bending over.",
+    "objects": [
+      "blue",
+      "over",
+      "child",
+      "jacket",
+      "hat"
+    ],
+    "actions": [
+      "bending",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The child on the left, dressed in a blue jacket and a hat, is bending over.",
+    "objects": [
+      "blue",
+      "over",
+      "child",
+      "jacket",
+      "hat"
+    ],
+    "actions": [
+      "bending",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The child on the left, dressed in a blue jacket and a hat, is bending over.",
+    "objects": [
+      "blue",
+      "over",
+      "child",
+      "jacket",
+      "hat"
+    ],
+    "actions": [
+      "bending",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The child on the left, dressed in a blue jacket and a hat, is bending over.",
+    "objects": [
+      "blue",
+      "over",
+      "child",
+      "jacket",
+      "hat"
+    ],
+    "actions": [
+      "bending",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The child in the pink jacket is looking at the water.",
+    "objects": [
+      "jacket",
+      "pink",
+      "water",
+      "child"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The child in the pink jacket is looking at the water.",
+    "objects": [
+      "jacket",
+      "pink",
+      "water",
+      "child"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The child in the pink jacket is looking at the water.",
+    "objects": [
+      "jacket",
+      "pink",
+      "water",
+      "child"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The child in the pink jacket is looking at the water.",
+    "objects": [
+      "jacket",
+      "pink",
+      "water",
+      "child"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The child in the blue jacket and hat is wearing a helmet and pointing at something in the water.",
+    "objects": [
+      "blue",
+      "helmet",
+      "water",
+      "child",
+      "jacket",
+      "hat"
+    ],
+    "actions": [
+      "something",
+      "wearing",
+      "pointing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The child in the blue jacket and hat is wearing a helmet and pointing at something in the water.",
+    "objects": [
+      "blue",
+      "helmet",
+      "water",
+      "child",
+      "jacket",
+      "hat"
+    ],
+    "actions": [
+      "something",
+      "wearing",
+      "pointing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The child in the blue jacket and hat is wearing a helmet and pointing at something in the water.",
+    "objects": [
+      "blue",
+      "helmet",
+      "water",
+      "child",
+      "jacket",
+      "hat"
+    ],
+    "actions": [
+      "something",
+      "wearing",
+      "pointing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The child in the blue jacket and hat is wearing a helmet and pointing at something in the water.",
+    "objects": [
+      "blue",
+      "helmet",
+      "water",
+      "child",
+      "jacket",
+      "hat"
+    ],
+    "actions": [
+      "something",
+      "wearing",
+      "pointing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The child in the pink jacket is holding a rock.",
+    "objects": [
+      "jacket",
+      "rock",
+      "pink",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The child in the pink jacket is holding a rock.",
+    "objects": [
+      "jacket",
+      "rock",
+      "pink",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The child in the pink jacket is holding a rock.",
+    "objects": [
+      "jacket",
+      "rock",
+      "pink",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The child in the pink jacket is holding a rock.",
+    "objects": [
+      "jacket",
+      "rock",
+      "pink",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The child in the red snowsuit is holding a bucket.",
+    "objects": [
+      "bucket",
+      "snowsuit",
+      "child"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The child in the red snowsuit is holding a bucket.",
+    "objects": [
+      "bucket",
+      "snowsuit",
+      "child"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The child in the red snowsuit is holding a bucket.",
+    "objects": [
+      "bucket",
+      "snowsuit",
+      "child"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The child in the red snowsuit is holding a bucket.",
+    "objects": [
+      "bucket",
+      "snowsuit",
+      "child"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The child in the blue hoodie is wearing a black hat and holding a red bucket.",
+    "objects": [
+      "blue",
+      "bucket",
+      "child",
+      "hoodie",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The child in the blue hoodie is wearing a black hat and holding a red bucket.",
+    "objects": [
+      "blue",
+      "bucket",
+      "child",
+      "hoodie",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The child in the blue hoodie is wearing a black hat and holding a red bucket.",
+    "objects": [
+      "blue",
+      "bucket",
+      "child",
+      "hoodie",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The child in the blue hoodie is wearing a black hat and holding a red bucket.",
+    "objects": [
+      "blue",
+      "bucket",
+      "child",
+      "hoodie",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

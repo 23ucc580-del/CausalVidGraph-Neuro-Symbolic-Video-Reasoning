@@ -1,0 +1,594 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene at a club or party, with a group of people engaging in various activities.",
+    "objects": [
+      "people",
+      "club",
+      "lively",
+      "party",
+      "group"
+    ],
+    "actions": [
+      "activities",
+      "engaging",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively scene at a club or party, with a group of people engaging in various activities.",
+    "objects": [
+      "people",
+      "club",
+      "lively",
+      "party",
+      "group"
+    ],
+    "actions": [
+      "activities",
+      "engaging",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively scene at a club or party, with a group of people engaging in various activities.",
+    "objects": [
+      "people",
+      "club",
+      "lively",
+      "party",
+      "group"
+    ],
+    "actions": [
+      "activities",
+      "engaging",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively scene at a club or party, with a group of people engaging in various activities.",
+    "objects": [
+      "people",
+      "club",
+      "lively",
+      "party",
+      "group"
+    ],
+    "actions": [
+      "activities",
+      "engaging",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the foreground, a person wearing a pink costume, resembling a large stuffed animal, is dancing.",
+    "objects": [
+      "animal",
+      "large",
+      "costume",
+      "pink"
+    ],
+    "actions": [
+      "wearing",
+      "stuffed",
+      "resembling",
+      "dancing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, a person wearing a pink costume, resembling a large stuffed animal, is dancing.",
+    "objects": [
+      "animal",
+      "large",
+      "costume",
+      "pink"
+    ],
+    "actions": [
+      "wearing",
+      "stuffed",
+      "resembling",
+      "dancing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, a person wearing a pink costume, resembling a large stuffed animal, is dancing.",
+    "objects": [
+      "animal",
+      "large",
+      "costume",
+      "pink"
+    ],
+    "actions": [
+      "wearing",
+      "stuffed",
+      "resembling",
+      "dancing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, a person wearing a pink costume, resembling a large stuffed animal, is dancing.",
+    "objects": [
+      "animal",
+      "large",
+      "costume",
+      "pink"
+    ],
+    "actions": [
+      "wearing",
+      "stuffed",
+      "resembling",
+      "dancing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are spinning around, with one hand on their hip and the other arm raised, as if they are dancing.",
+    "objects": [
+      "they",
+      "their",
+      "one",
+      "arm",
+      "other",
+      "around",
+      "hip",
+      "hand"
+    ],
+    "actions": [
+      "dancing",
+      "spinning",
+      "raised"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are spinning around, with one hand on their hip and the other arm raised, as if they are dancing.",
+    "objects": [
+      "they",
+      "their",
+      "one",
+      "arm",
+      "other",
+      "around",
+      "hip",
+      "hand"
+    ],
+    "actions": [
+      "dancing",
+      "spinning",
+      "raised"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are spinning around, with one hand on their hip and the other arm raised, as if they are dancing.",
+    "objects": [
+      "they",
+      "their",
+      "one",
+      "arm",
+      "other",
+      "around",
+      "hip",
+      "hand"
+    ],
+    "actions": [
+      "dancing",
+      "spinning",
+      "raised"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are spinning around, with one hand on their hip and the other arm raised, as if they are dancing.",
+    "objects": [
+      "they",
+      "their",
+      "one",
+      "arm",
+      "other",
+      "around",
+      "hip",
+      "hand"
+    ],
+    "actions": [
+      "dancing",
+      "spinning",
+      "raised"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "In the background, there is a person wearing a blue hoodie who is also dancing, bending over, and another person in a green top who is singing.",
+    "objects": [
+      "there",
+      "blue",
+      "green",
+      "top",
+      "who",
+      "hoodie",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "dancing",
+      "singing",
+      "bending"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "In the background, there is a person wearing a blue hoodie who is also dancing, bending over, and another person in a green top who is singing.",
+    "objects": [
+      "there",
+      "blue",
+      "green",
+      "top",
+      "who",
+      "hoodie",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "dancing",
+      "singing",
+      "bending"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "In the background, there is a person wearing a blue hoodie who is also dancing, bending over, and another person in a green top who is singing.",
+    "objects": [
+      "there",
+      "blue",
+      "green",
+      "top",
+      "who",
+      "hoodie",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "dancing",
+      "singing",
+      "bending"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, there is a person wearing a blue hoodie who is also dancing, bending over, and another person in a green top who is singing.",
+    "objects": [
+      "there",
+      "blue",
+      "green",
+      "top",
+      "who",
+      "hoodie",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "dancing",
+      "singing",
+      "bending"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The atmosphere is vibrant, with colorful lighting and a festive mood.",
+    "objects": [
+      "vibrant",
+      "colorful",
+      "festive",
+      "atmosphere",
+      "mood"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The atmosphere is vibrant, with colorful lighting and a festive mood.",
+    "objects": [
+      "vibrant",
+      "colorful",
+      "festive",
+      "atmosphere",
+      "mood"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The atmosphere is vibrant, with colorful lighting and a festive mood.",
+    "objects": [
+      "vibrant",
+      "colorful",
+      "festive",
+      "atmosphere",
+      "mood"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The atmosphere is vibrant, with colorful lighting and a festive mood.",
+    "objects": [
+      "vibrant",
+      "colorful",
+      "festive",
+      "atmosphere",
+      "mood"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The costumed person is the main focus of the scene, with their bright pink color contrasting against the darker surroundings.",
+    "objects": [
+      "their",
+      "pink",
+      "main",
+      "darker",
+      "bright",
+      "color",
+      "against"
+    ],
+    "actions": [
+      "costumed",
+      "focus",
+      "surroundings",
+      "contrasting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The costumed person is the main focus of the scene, with their bright pink color contrasting against the darker surroundings.",
+    "objects": [
+      "their",
+      "pink",
+      "main",
+      "darker",
+      "bright",
+      "color",
+      "against"
+    ],
+    "actions": [
+      "costumed",
+      "focus",
+      "surroundings",
+      "contrasting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The costumed person is the main focus of the scene, with their bright pink color contrasting against the darker surroundings.",
+    "objects": [
+      "their",
+      "pink",
+      "main",
+      "darker",
+      "bright",
+      "color",
+      "against"
+    ],
+    "actions": [
+      "costumed",
+      "focus",
+      "surroundings",
+      "contrasting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The costumed person is the main focus of the scene, with their bright pink color contrasting against the darker surroundings.",
+    "objects": [
+      "their",
+      "pink",
+      "main",
+      "darker",
+      "bright",
+      "color",
+      "against"
+    ],
+    "actions": [
+      "costumed",
+      "focus",
+      "surroundings",
+      "contrasting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The club appears to be filled with people, some of whom are wearing costumes, adding to the festive atmosphere.",
+    "objects": [
+      "people",
+      "whom",
+      "club",
+      "some",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "wearing",
+      "adding",
+      "filled",
+      "costumes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The club appears to be filled with people, some of whom are wearing costumes, adding to the festive atmosphere.",
+    "objects": [
+      "people",
+      "whom",
+      "club",
+      "some",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "wearing",
+      "adding",
+      "filled",
+      "costumes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The club appears to be filled with people, some of whom are wearing costumes, adding to the festive atmosphere.",
+    "objects": [
+      "people",
+      "whom",
+      "club",
+      "some",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "wearing",
+      "adding",
+      "filled",
+      "costumes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The club appears to be filled with people, some of whom are wearing costumes, adding to the festive atmosphere.",
+    "objects": [
+      "people",
+      "whom",
+      "club",
+      "some",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "wearing",
+      "adding",
+      "filled",
+      "costumes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The person in the blue hoodie is in the middle of the action, with their arms raised, and the person in the green top is standing, singing.",
+    "objects": [
+      "their",
+      "arms",
+      "middle",
+      "action",
+      "blue",
+      "green",
+      "top",
+      "hoodie"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "raised"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The person in the blue hoodie is in the middle of the action, with their arms raised, and the person in the green top is standing, singing.",
+    "objects": [
+      "their",
+      "arms",
+      "middle",
+      "action",
+      "blue",
+      "green",
+      "top",
+      "hoodie"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "raised"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The person in the blue hoodie is in the middle of the action, with their arms raised, and the person in the green top is standing, singing.",
+    "objects": [
+      "their",
+      "arms",
+      "middle",
+      "action",
+      "blue",
+      "green",
+      "top",
+      "hoodie"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "raised"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The person in the blue hoodie is in the middle of the action, with their arms raised, and the person in the green top is standing, singing.",
+    "objects": [
+      "their",
+      "arms",
+      "middle",
+      "action",
+      "blue",
+      "green",
+      "top",
+      "hoodie"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "raised"
+    ],
+    "segment_id": 7
+  }
+]

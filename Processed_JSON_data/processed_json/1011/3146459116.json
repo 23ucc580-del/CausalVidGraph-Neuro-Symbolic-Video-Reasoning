@@ -1,0 +1,634 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a moment of a baby boy sitting on the floor, reaching out for a toy car with both hands, his eyes locked onto it.",
+    "objects": [
+      "baby",
+      "boy",
+      "both",
+      "onto",
+      "out",
+      "toy",
+      "car",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "locked",
+      "reaching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a moment of a baby boy sitting on the floor, reaching out for a toy car with both hands, his eyes locked onto it.",
+    "objects": [
+      "baby",
+      "boy",
+      "both",
+      "onto",
+      "out",
+      "toy",
+      "car",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "locked",
+      "reaching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a moment of a baby boy sitting on the floor, reaching out for a toy car with both hands, his eyes locked onto it.",
+    "objects": [
+      "baby",
+      "boy",
+      "both",
+      "onto",
+      "out",
+      "toy",
+      "car",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "locked",
+      "reaching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a moment of a baby boy sitting on the floor, reaching out for a toy car with both hands, his eyes locked onto it.",
+    "objects": [
+      "baby",
+      "boy",
+      "both",
+      "onto",
+      "out",
+      "toy",
+      "car",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "locked",
+      "reaching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is dressed in a blue and white striped pajama set with red socks peeking out from underneath.",
+    "objects": [
+      "pajama",
+      "white",
+      "blue",
+      "from",
+      "out",
+      "set",
+      "underneath"
+    ],
+    "actions": [
+      "socks",
+      "red",
+      "dressed",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is dressed in a blue and white striped pajama set with red socks peeking out from underneath.",
+    "objects": [
+      "pajama",
+      "white",
+      "blue",
+      "from",
+      "out",
+      "set",
+      "underneath"
+    ],
+    "actions": [
+      "socks",
+      "red",
+      "dressed",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is dressed in a blue and white striped pajama set with red socks peeking out from underneath.",
+    "objects": [
+      "pajama",
+      "white",
+      "blue",
+      "from",
+      "out",
+      "set",
+      "underneath"
+    ],
+    "actions": [
+      "socks",
+      "red",
+      "dressed",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is dressed in a blue and white striped pajama set with red socks peeking out from underneath.",
+    "objects": [
+      "pajama",
+      "white",
+      "blue",
+      "from",
+      "out",
+      "set",
+      "underneath"
+    ],
+    "actions": [
+      "socks",
+      "red",
+      "dressed",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby's mother, wearing a blue hoodie and blue shoes, is standing behind him, observing him intently.",
+    "objects": [
+      "behind",
+      "him",
+      "blue",
+      "hoodie",
+      "mother",
+      "intently"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "baby's",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby's mother, wearing a blue hoodie and blue shoes, is standing behind him, observing him intently.",
+    "objects": [
+      "behind",
+      "him",
+      "blue",
+      "hoodie",
+      "mother",
+      "intently"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "baby's",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The baby's mother, wearing a blue hoodie and blue shoes, is standing behind him, observing him intently.",
+    "objects": [
+      "behind",
+      "him",
+      "blue",
+      "hoodie",
+      "mother",
+      "intently"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "baby's",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The baby's mother, wearing a blue hoodie and blue shoes, is standing behind him, observing him intently.",
+    "objects": [
+      "behind",
+      "him",
+      "blue",
+      "hoodie",
+      "mother",
+      "intently"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "baby's",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby boy's father is in the background, wearing a blue shirt and blue shoes, also watching the interaction unfold.",
+    "objects": [
+      "father",
+      "blue",
+      "shirt",
+      "unfold",
+      "interaction",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "boy's",
+      "watching",
+      "shoes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby boy's father is in the background, wearing a blue shirt and blue shoes, also watching the interaction unfold.",
+    "objects": [
+      "father",
+      "blue",
+      "shirt",
+      "unfold",
+      "interaction",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "boy's",
+      "watching",
+      "shoes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby boy's father is in the background, wearing a blue shirt and blue shoes, also watching the interaction unfold.",
+    "objects": [
+      "father",
+      "blue",
+      "shirt",
+      "unfold",
+      "interaction",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "boy's",
+      "watching",
+      "shoes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby boy's father is in the background, wearing a blue shirt and blue shoes, also watching the interaction unfold.",
+    "objects": [
+      "father",
+      "blue",
+      "shirt",
+      "unfold",
+      "interaction",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "boy's",
+      "watching",
+      "shoes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby boy is wearing blue shoes that match his father's, indicating a color coordination in the family.",
+    "objects": [
+      "coordination",
+      "boy",
+      "blue",
+      "family",
+      "color",
+      "that",
+      "his",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "father's",
+      "indicating",
+      "shoes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby boy is wearing blue shoes that match his father's, indicating a color coordination in the family.",
+    "objects": [
+      "coordination",
+      "boy",
+      "blue",
+      "family",
+      "color",
+      "that",
+      "his",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "father's",
+      "indicating",
+      "shoes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The baby boy is wearing blue shoes that match his father's, indicating a color coordination in the family.",
+    "objects": [
+      "coordination",
+      "boy",
+      "blue",
+      "family",
+      "color",
+      "that",
+      "his",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "father's",
+      "indicating",
+      "shoes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The baby boy is wearing blue shoes that match his father's, indicating a color coordination in the family.",
+    "objects": [
+      "coordination",
+      "boy",
+      "blue",
+      "family",
+      "color",
+      "that",
+      "his",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "father's",
+      "indicating",
+      "shoes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene is set in a living room with a wooden floor that contrasts with the blue hoodie the baby boy is wearing.",
+    "objects": [
+      "baby",
+      "boy",
+      "blue",
+      "that",
+      "wooden",
+      "set",
+      "hoodie",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "contrasts",
+      "living"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene is set in a living room with a wooden floor that contrasts with the blue hoodie the baby boy is wearing.",
+    "objects": [
+      "baby",
+      "boy",
+      "blue",
+      "that",
+      "wooden",
+      "set",
+      "hoodie",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "contrasts",
+      "living"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene is set in a living room with a wooden floor that contrasts with the blue hoodie the baby boy is wearing.",
+    "objects": [
+      "baby",
+      "boy",
+      "blue",
+      "that",
+      "wooden",
+      "set",
+      "hoodie",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "contrasts",
+      "living"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene is set in a living room with a wooden floor that contrasts with the blue hoodie the baby boy is wearing.",
+    "objects": [
+      "baby",
+      "boy",
+      "blue",
+      "that",
+      "wooden",
+      "set",
+      "hoodie",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "contrasts",
+      "living"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The baby boy's focus on the toy car suggests his interest in playing with it, while his mother's and father's attention towards him indicate their presence and care for him.",
+    "objects": [
+      "their",
+      "attention",
+      "while",
+      "him",
+      "presence",
+      "toy",
+      "care",
+      "his"
+    ],
+    "actions": [
+      "father's",
+      "towards",
+      "boy's",
+      "mother's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The baby boy's focus on the toy car suggests his interest in playing with it, while his mother's and father's attention towards him indicate their presence and care for him.",
+    "objects": [
+      "their",
+      "attention",
+      "while",
+      "him",
+      "presence",
+      "toy",
+      "care",
+      "his"
+    ],
+    "actions": [
+      "father's",
+      "towards",
+      "boy's",
+      "mother's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The baby boy's focus on the toy car suggests his interest in playing with it, while his mother's and father's attention towards him indicate their presence and care for him.",
+    "objects": [
+      "their",
+      "attention",
+      "while",
+      "him",
+      "presence",
+      "toy",
+      "care",
+      "his"
+    ],
+    "actions": [
+      "father's",
+      "towards",
+      "boy's",
+      "mother's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The baby boy's focus on the toy car suggests his interest in playing with it, while his mother's and father's attention towards him indicate their presence and care for him.",
+    "objects": [
+      "their",
+      "attention",
+      "while",
+      "him",
+      "presence",
+      "toy",
+      "care",
+      "his"
+    ],
+    "actions": [
+      "father's",
+      "towards",
+      "boy's",
+      "mother's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The colors in the scene are blue, white, and red, creating a harmonious and cozy atmosphere.",
+    "objects": [
+      "atmosphere",
+      "blue",
+      "white",
+      "cozy"
+    ],
+    "actions": [
+      "colors",
+      "creating",
+      "red",
+      "harmonious"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The colors in the scene are blue, white, and red, creating a harmonious and cozy atmosphere.",
+    "objects": [
+      "atmosphere",
+      "blue",
+      "white",
+      "cozy"
+    ],
+    "actions": [
+      "colors",
+      "creating",
+      "red",
+      "harmonious"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The colors in the scene are blue, white, and red, creating a harmonious and cozy atmosphere.",
+    "objects": [
+      "atmosphere",
+      "blue",
+      "white",
+      "cozy"
+    ],
+    "actions": [
+      "colors",
+      "creating",
+      "red",
+      "harmonious"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The colors in the scene are blue, white, and red, creating a harmonious and cozy atmosphere.",
+    "objects": [
+      "atmosphere",
+      "blue",
+      "white",
+      "cozy"
+    ],
+    "actions": [
+      "colors",
+      "creating",
+      "red",
+      "harmonious"
+    ],
+    "segment_id": 7
+  }
+]

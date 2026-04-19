@@ -1,0 +1,510 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a woman sitting on a couch, holding a black and white cat.",
+    "objects": [
+      "couch",
+      "white",
+      "cat",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "starts",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a woman sitting on a couch, holding a black and white cat.",
+    "objects": [
+      "couch",
+      "white",
+      "cat",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "starts",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video starts with a woman sitting on a couch, holding a black and white cat.",
+    "objects": [
+      "couch",
+      "white",
+      "cat",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "starts",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The cat is sitting on her lap, looking directly at the camera with a curious gaze.",
+    "objects": [
+      "lap",
+      "her",
+      "cat",
+      "gaze",
+      "directly"
+    ],
+    "actions": [
+      "curious",
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The cat is sitting on her lap, looking directly at the camera with a curious gaze.",
+    "objects": [
+      "lap",
+      "her",
+      "cat",
+      "gaze",
+      "directly"
+    ],
+    "actions": [
+      "curious",
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The cat is sitting on her lap, looking directly at the camera with a curious gaze.",
+    "objects": [
+      "lap",
+      "her",
+      "cat",
+      "gaze",
+      "directly"
+    ],
+    "actions": [
+      "curious",
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is wearing a blue hoodie and appears to be smiling.",
+    "objects": [
+      "blue",
+      "woman",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is wearing a blue hoodie and appears to be smiling.",
+    "objects": [
+      "blue",
+      "woman",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman is wearing a blue hoodie and appears to be smiling.",
+    "objects": [
+      "blue",
+      "woman",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "She then picks up a remote and starts pressing buttons, perhaps to change the channel or adjust the volume.",
+    "objects": [
+      "change",
+      "remote",
+      "adjust",
+      "channel",
+      "volume",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "picks",
+      "starts",
+      "buttons",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "She then picks up a remote and starts pressing buttons, perhaps to change the channel or adjust the volume.",
+    "objects": [
+      "change",
+      "remote",
+      "adjust",
+      "channel",
+      "volume",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "picks",
+      "starts",
+      "buttons",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "She then picks up a remote and starts pressing buttons, perhaps to change the channel or adjust the volume.",
+    "objects": [
+      "change",
+      "remote",
+      "adjust",
+      "channel",
+      "volume",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "picks",
+      "starts",
+      "buttons",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Next, she's seen holding a phone and talking to someone off-camera.",
+    "objects": [
+      "someone",
+      "phone"
+    ],
+    "actions": [
+      "talking",
+      "she's",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Next, she's seen holding a phone and talking to someone off-camera.",
+    "objects": [
+      "someone",
+      "phone"
+    ],
+    "actions": [
+      "talking",
+      "she's",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Next, she's seen holding a phone and talking to someone off-camera.",
+    "objects": [
+      "someone",
+      "phone"
+    ],
+    "actions": [
+      "talking",
+      "she's",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "She's wearing a ring and a watch.",
+    "objects": [
+      "watch"
+    ],
+    "actions": [
+      "ring",
+      "she's",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "She's wearing a ring and a watch.",
+    "objects": [
+      "watch"
+    ],
+    "actions": [
+      "ring",
+      "she's",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "She's wearing a ring and a watch.",
+    "objects": [
+      "watch"
+    ],
+    "actions": [
+      "ring",
+      "she's",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The cat is still on her lap, and she looks at it affectionately.",
+    "objects": [
+      "lap",
+      "her",
+      "cat",
+      "still",
+      "affectionately",
+      "she"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The cat is still on her lap, and she looks at it affectionately.",
+    "objects": [
+      "lap",
+      "her",
+      "cat",
+      "still",
+      "affectionately",
+      "she"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The cat is still on her lap, and she looks at it affectionately.",
+    "objects": [
+      "lap",
+      "her",
+      "cat",
+      "still",
+      "affectionately",
+      "she"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then pans to the woman's left, where we see a black and white cat standing on the floor.",
+    "objects": [
+      "white",
+      "pans",
+      "cat",
+      "floor",
+      "where",
+      "black",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "woman's",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then pans to the woman's left, where we see a black and white cat standing on the floor.",
+    "objects": [
+      "white",
+      "pans",
+      "cat",
+      "floor",
+      "where",
+      "black",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "woman's",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then pans to the woman's left, where we see a black and white cat standing on the floor.",
+    "objects": [
+      "white",
+      "pans",
+      "cat",
+      "floor",
+      "where",
+      "black",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "woman's",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The cat seems to be looking at something, but it's not clear what it's looking at.",
+    "objects": [
+      "what",
+      "not",
+      "but",
+      "cat",
+      "clear"
+    ],
+    "actions": [
+      "looking",
+      "something",
+      "seems"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The cat seems to be looking at something, but it's not clear what it's looking at.",
+    "objects": [
+      "what",
+      "not",
+      "but",
+      "cat",
+      "clear"
+    ],
+    "actions": [
+      "looking",
+      "something",
+      "seems"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The cat seems to be looking at something, but it's not clear what it's looking at.",
+    "objects": [
+      "what",
+      "not",
+      "but",
+      "cat",
+      "clear"
+    ],
+    "actions": [
+      "looking",
+      "something",
+      "seems"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman is still talking on the phone.",
+    "objects": [
+      "still",
+      "phone",
+      "woman"
+    ],
+    "actions": [
+      "talking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman is still talking on the phone.",
+    "objects": [
+      "still",
+      "phone",
+      "woman"
+    ],
+    "actions": [
+      "talking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman is still talking on the phone.",
+    "objects": [
+      "still",
+      "phone",
+      "woman"
+    ],
+    "actions": [
+      "talking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "She's wearing a blue shirt and appears to be smiling.",
+    "objects": [
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "smiling",
+      "she's",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "She's wearing a blue shirt and appears to be smiling.",
+    "objects": [
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "smiling",
+      "she's",
+      "wearing"
+    ],
+    "segment_id": 10
+  }
+]

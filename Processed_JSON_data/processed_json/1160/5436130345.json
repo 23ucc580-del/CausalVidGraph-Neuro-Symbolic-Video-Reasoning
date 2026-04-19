@@ -1,0 +1,622 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a cozy indoor setting where a small child is comfortably seated on a couch, dressed in a pajama outfit consisting of a white top and pants.",
+    "objects": [
+      "couch",
+      "cozy",
+      "white",
+      "pajama",
+      "top",
+      "small",
+      "comfortably",
+      "outfit"
+    ],
+    "actions": [
+      "setting",
+      "dressed",
+      "consisting",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a cozy indoor setting where a small child is comfortably seated on a couch, dressed in a pajama outfit consisting of a white top and pants.",
+    "objects": [
+      "couch",
+      "cozy",
+      "white",
+      "pajama",
+      "top",
+      "small",
+      "comfortably",
+      "outfit"
+    ],
+    "actions": [
+      "setting",
+      "dressed",
+      "consisting",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a cozy indoor setting where a small child is comfortably seated on a couch, dressed in a pajama outfit consisting of a white top and pants.",
+    "objects": [
+      "couch",
+      "cozy",
+      "white",
+      "pajama",
+      "top",
+      "small",
+      "comfortably",
+      "outfit"
+    ],
+    "actions": [
+      "setting",
+      "dressed",
+      "consisting",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a cozy indoor setting where a small child is comfortably seated on a couch, dressed in a pajama outfit consisting of a white top and pants.",
+    "objects": [
+      "couch",
+      "cozy",
+      "white",
+      "pajama",
+      "top",
+      "small",
+      "comfortably",
+      "outfit"
+    ],
+    "actions": [
+      "setting",
+      "dressed",
+      "consisting",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is holding a remote control in their right hand and appears to be watching television, as indicated by the glowing screen in the background.",
+    "objects": [
+      "hand",
+      "remote",
+      "television",
+      "child",
+      "screen",
+      "their",
+      "control"
+    ],
+    "actions": [
+      "indicated",
+      "glowing",
+      "holding",
+      "watching"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is holding a remote control in their right hand and appears to be watching television, as indicated by the glowing screen in the background.",
+    "objects": [
+      "hand",
+      "remote",
+      "television",
+      "child",
+      "screen",
+      "their",
+      "control"
+    ],
+    "actions": [
+      "indicated",
+      "glowing",
+      "holding",
+      "watching"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child is holding a remote control in their right hand and appears to be watching television, as indicated by the glowing screen in the background.",
+    "objects": [
+      "hand",
+      "remote",
+      "television",
+      "child",
+      "screen",
+      "their",
+      "control"
+    ],
+    "actions": [
+      "indicated",
+      "glowing",
+      "holding",
+      "watching"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child is holding a remote control in their right hand and appears to be watching television, as indicated by the glowing screen in the background.",
+    "objects": [
+      "hand",
+      "remote",
+      "television",
+      "child",
+      "screen",
+      "their",
+      "control"
+    ],
+    "actions": [
+      "indicated",
+      "glowing",
+      "holding",
+      "watching"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The child is sitting with their legs crossed and has a relaxed posture, suggesting a sense of ease and familiarity with their surroundings.",
+    "objects": [
+      "legs",
+      "has",
+      "ease",
+      "child",
+      "posture",
+      "sense",
+      "their",
+      "familiarity"
+    ],
+    "actions": [
+      "relaxed",
+      "crossed",
+      "surroundings",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The child is sitting with their legs crossed and has a relaxed posture, suggesting a sense of ease and familiarity with their surroundings.",
+    "objects": [
+      "legs",
+      "has",
+      "ease",
+      "child",
+      "posture",
+      "sense",
+      "their",
+      "familiarity"
+    ],
+    "actions": [
+      "relaxed",
+      "crossed",
+      "surroundings",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The child is sitting with their legs crossed and has a relaxed posture, suggesting a sense of ease and familiarity with their surroundings.",
+    "objects": [
+      "legs",
+      "has",
+      "ease",
+      "child",
+      "posture",
+      "sense",
+      "their",
+      "familiarity"
+    ],
+    "actions": [
+      "relaxed",
+      "crossed",
+      "surroundings",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The child is sitting with their legs crossed and has a relaxed posture, suggesting a sense of ease and familiarity with their surroundings.",
+    "objects": [
+      "legs",
+      "has",
+      "ease",
+      "child",
+      "posture",
+      "sense",
+      "their",
+      "familiarity"
+    ],
+    "actions": [
+      "relaxed",
+      "crossed",
+      "surroundings",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The child's attention is focused on the television, and they seem to be enjoying the content.",
+    "objects": [
+      "seem",
+      "attention",
+      "television",
+      "content",
+      "they"
+    ],
+    "actions": [
+      "focused",
+      "child's",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The child's attention is focused on the television, and they seem to be enjoying the content.",
+    "objects": [
+      "seem",
+      "attention",
+      "television",
+      "content",
+      "they"
+    ],
+    "actions": [
+      "focused",
+      "child's",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The child's attention is focused on the television, and they seem to be enjoying the content.",
+    "objects": [
+      "seem",
+      "attention",
+      "television",
+      "content",
+      "they"
+    ],
+    "actions": [
+      "focused",
+      "child's",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The child's attention is focused on the television, and they seem to be enjoying the content.",
+    "objects": [
+      "seem",
+      "attention",
+      "television",
+      "content",
+      "they"
+    ],
+    "actions": [
+      "focused",
+      "child's",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The room is well-lit, with a soft glow emanating from the screen, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "soft",
+      "glow",
+      "room",
+      "screen",
+      "atmosphere",
+      "from"
+    ],
+    "actions": [
+      "emanating",
+      "inviting",
+      "creating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The room is well-lit, with a soft glow emanating from the screen, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "soft",
+      "glow",
+      "room",
+      "screen",
+      "atmosphere",
+      "from"
+    ],
+    "actions": [
+      "emanating",
+      "inviting",
+      "creating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The room is well-lit, with a soft glow emanating from the screen, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "soft",
+      "glow",
+      "room",
+      "screen",
+      "atmosphere",
+      "from"
+    ],
+    "actions": [
+      "emanating",
+      "inviting",
+      "creating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The room is well-lit, with a soft glow emanating from the screen, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "soft",
+      "glow",
+      "room",
+      "screen",
+      "atmosphere",
+      "from"
+    ],
+    "actions": [
+      "emanating",
+      "inviting",
+      "creating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The background features a window, through which light filters in, casting soft shadows and adding depth to the scene.",
+    "objects": [
+      "soft",
+      "which",
+      "depth",
+      "light",
+      "window",
+      "through"
+    ],
+    "actions": [
+      "filters",
+      "adding",
+      "shadows",
+      "features"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The background features a window, through which light filters in, casting soft shadows and adding depth to the scene.",
+    "objects": [
+      "soft",
+      "which",
+      "depth",
+      "light",
+      "window",
+      "through"
+    ],
+    "actions": [
+      "filters",
+      "adding",
+      "shadows",
+      "features"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The background features a window, through which light filters in, casting soft shadows and adding depth to the scene.",
+    "objects": [
+      "soft",
+      "which",
+      "depth",
+      "light",
+      "window",
+      "through"
+    ],
+    "actions": [
+      "filters",
+      "adding",
+      "shadows",
+      "features"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The background features a window, through which light filters in, casting soft shadows and adding depth to the scene.",
+    "objects": [
+      "soft",
+      "which",
+      "depth",
+      "light",
+      "window",
+      "through"
+    ],
+    "actions": [
+      "filters",
+      "adding",
+      "shadows",
+      "features"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The child's facial expression is one of contentment and interest, as they engage with the visuals displayed on the screen.",
+    "objects": [
+      "contentment",
+      "expression",
+      "one",
+      "facial",
+      "engage",
+      "screen",
+      "interest",
+      "they"
+    ],
+    "actions": [
+      "displayed",
+      "child's",
+      "visuals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The child's facial expression is one of contentment and interest, as they engage with the visuals displayed on the screen.",
+    "objects": [
+      "contentment",
+      "expression",
+      "one",
+      "facial",
+      "engage",
+      "screen",
+      "interest",
+      "they"
+    ],
+    "actions": [
+      "displayed",
+      "child's",
+      "visuals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The child's facial expression is one of contentment and interest, as they engage with the visuals displayed on the screen.",
+    "objects": [
+      "contentment",
+      "expression",
+      "one",
+      "facial",
+      "engage",
+      "screen",
+      "interest",
+      "they"
+    ],
+    "actions": [
+      "displayed",
+      "child's",
+      "visuals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The child's facial expression is one of contentment and interest, as they engage with the visuals displayed on the screen.",
+    "objects": [
+      "contentment",
+      "expression",
+      "one",
+      "facial",
+      "engage",
+      "screen",
+      "interest",
+      "they"
+    ],
+    "actions": [
+      "displayed",
+      "child's",
+      "visuals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "Overall, the video captures a peaceful and comfortable moment in a home environment where the child is engaged with their favorite pastime.",
+    "objects": [
+      "peaceful",
+      "home",
+      "where",
+      "comfortable",
+      "child",
+      "moment",
+      "their",
+      "overall"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "Overall, the video captures a peaceful and comfortable moment in a home environment where the child is engaged with their favorite pastime.",
+    "objects": [
+      "peaceful",
+      "home",
+      "where",
+      "comfortable",
+      "child",
+      "moment",
+      "their",
+      "overall"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "Overall, the video captures a peaceful and comfortable moment in a home environment where the child is engaged with their favorite pastime.",
+    "objects": [
+      "peaceful",
+      "home",
+      "where",
+      "comfortable",
+      "child",
+      "moment",
+      "their",
+      "overall"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "Overall, the video captures a peaceful and comfortable moment in a home environment where the child is engaged with their favorite pastime.",
+    "objects": [
+      "peaceful",
+      "home",
+      "where",
+      "comfortable",
+      "child",
+      "moment",
+      "their",
+      "overall"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 7
+  }
+]

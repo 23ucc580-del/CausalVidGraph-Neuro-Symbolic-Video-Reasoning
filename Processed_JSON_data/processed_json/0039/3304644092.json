@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people in a clothing store.",
+    "objects": [
+      "store",
+      "group",
+      "see",
+      "people",
+      "this"
+    ],
+    "actions": [
+      "clothing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people in a clothing store.",
+    "objects": [
+      "store",
+      "group",
+      "see",
+      "people",
+      "this"
+    ],
+    "actions": [
+      "clothing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people in a clothing store.",
+    "objects": [
+      "store",
+      "group",
+      "see",
+      "people",
+      "this"
+    ],
+    "actions": [
+      "clothing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a group of people in a clothing store.",
+    "objects": [
+      "store",
+      "group",
+      "see",
+      "people",
+      "this"
+    ],
+    "actions": [
+      "clothing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman in a black jacket and red shirt is seen talking to a mannequin.",
+    "objects": [
+      "shirt",
+      "jacket",
+      "black",
+      "mannequin",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "talking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A woman in a black jacket and red shirt is seen talking to a mannequin.",
+    "objects": [
+      "shirt",
+      "jacket",
+      "black",
+      "mannequin",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "talking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman in a black jacket and red shirt is seen talking to a mannequin.",
+    "objects": [
+      "shirt",
+      "jacket",
+      "black",
+      "mannequin",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "talking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman in a black jacket and red shirt is seen talking to a mannequin.",
+    "objects": [
+      "shirt",
+      "jacket",
+      "black",
+      "mannequin",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "talking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A boy in a black jacket is also present, and he is holding a white glove in his hand.",
+    "objects": [
+      "boy",
+      "jacket",
+      "glove",
+      "white",
+      "black",
+      "present",
+      "hand",
+      "his"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A boy in a black jacket is also present, and he is holding a white glove in his hand.",
+    "objects": [
+      "boy",
+      "jacket",
+      "glove",
+      "white",
+      "black",
+      "present",
+      "hand",
+      "his"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A boy in a black jacket is also present, and he is holding a white glove in his hand.",
+    "objects": [
+      "boy",
+      "jacket",
+      "glove",
+      "white",
+      "black",
+      "present",
+      "hand",
+      "his"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A boy in a black jacket is also present, and he is holding a white glove in his hand.",
+    "objects": [
+      "boy",
+      "jacket",
+      "glove",
+      "white",
+      "black",
+      "present",
+      "hand",
+      "his"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another woman in a red shirt is sitting down, holding a black purse.",
+    "objects": [
+      "shirt",
+      "black",
+      "purse",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another woman in a red shirt is sitting down, holding a black purse.",
+    "objects": [
+      "shirt",
+      "black",
+      "purse",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another woman in a red shirt is sitting down, holding a black purse.",
+    "objects": [
+      "shirt",
+      "black",
+      "purse",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another woman in a red shirt is sitting down, holding a black purse.",
+    "objects": [
+      "shirt",
+      "black",
+      "purse",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Two girls in plaid shirts are standing together, with one holding a white glove and the other holding a black purse.",
+    "objects": [
+      "together",
+      "one",
+      "glove",
+      "white",
+      "plaid",
+      "purse",
+      "black",
+      "other"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "girls",
+      "shirts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Two girls in plaid shirts are standing together, with one holding a white glove and the other holding a black purse.",
+    "objects": [
+      "together",
+      "one",
+      "glove",
+      "white",
+      "plaid",
+      "purse",
+      "black",
+      "other"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "girls",
+      "shirts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Two girls in plaid shirts are standing together, with one holding a white glove and the other holding a black purse.",
+    "objects": [
+      "together",
+      "one",
+      "glove",
+      "white",
+      "plaid",
+      "purse",
+      "black",
+      "other"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "girls",
+      "shirts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Two girls in plaid shirts are standing together, with one holding a white glove and the other holding a black purse.",
+    "objects": [
+      "together",
+      "one",
+      "glove",
+      "white",
+      "plaid",
+      "purse",
+      "black",
+      "other"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "girls",
+      "shirts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene takes place in a clothing store with people wearing different styles of clothing.",
+    "objects": [
+      "people",
+      "store",
+      "different",
+      "place"
+    ],
+    "actions": [
+      "takes",
+      "clothing",
+      "styles",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene takes place in a clothing store with people wearing different styles of clothing.",
+    "objects": [
+      "people",
+      "store",
+      "different",
+      "place"
+    ],
+    "actions": [
+      "takes",
+      "clothing",
+      "styles",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene takes place in a clothing store with people wearing different styles of clothing.",
+    "objects": [
+      "people",
+      "store",
+      "different",
+      "place"
+    ],
+    "actions": [
+      "takes",
+      "clothing",
+      "styles",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene takes place in a clothing store with people wearing different styles of clothing.",
+    "objects": [
+      "people",
+      "store",
+      "different",
+      "place"
+    ],
+    "actions": [
+      "takes",
+      "clothing",
+      "styles",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The mannequin, dressed in a suit, is sitting on a stand, and a man in a suit is holding a black glove.",
+    "objects": [
+      "glove",
+      "stand",
+      "black",
+      "man",
+      "mannequin",
+      "suit"
+    ],
+    "actions": [
+      "dressed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The mannequin, dressed in a suit, is sitting on a stand, and a man in a suit is holding a black glove.",
+    "objects": [
+      "glove",
+      "stand",
+      "black",
+      "man",
+      "mannequin",
+      "suit"
+    ],
+    "actions": [
+      "dressed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The mannequin, dressed in a suit, is sitting on a stand, and a man in a suit is holding a black glove.",
+    "objects": [
+      "glove",
+      "stand",
+      "black",
+      "man",
+      "mannequin",
+      "suit"
+    ],
+    "actions": [
+      "dressed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The mannequin, dressed in a suit, is sitting on a stand, and a man in a suit is holding a black glove.",
+    "objects": [
+      "glove",
+      "stand",
+      "black",
+      "man",
+      "mannequin",
+      "suit"
+    ],
+    "actions": [
+      "dressed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the black jacket is holding a white glove, and the woman in the blue hoodie is holding a black purse.",
+    "objects": [
+      "jacket",
+      "glove",
+      "blue",
+      "white",
+      "purse",
+      "black",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the black jacket is holding a white glove, and the woman in the blue hoodie is holding a black purse.",
+    "objects": [
+      "jacket",
+      "glove",
+      "blue",
+      "white",
+      "purse",
+      "black",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the black jacket is holding a white glove, and the woman in the blue hoodie is holding a black purse.",
+    "objects": [
+      "jacket",
+      "glove",
+      "blue",
+      "white",
+      "purse",
+      "black",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the black jacket is holding a white glove, and the woman in the blue hoodie is holding a black purse.",
+    "objects": [
+      "jacket",
+      "glove",
+      "blue",
+      "white",
+      "purse",
+      "black",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a scene featuring a group of women, with one woman wearing a black shirt and the others wearing different colored tops.",
+    "objects": [
+      "one",
+      "woman",
+      "black",
+      "shirt",
+      "tops",
+      "different",
+      "women",
+      "group"
+    ],
+    "actions": [
+      "others",
+      "wearing",
+      "opens",
+      "colored"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a scene featuring a group of women, with one woman wearing a black shirt and the others wearing different colored tops.",
+    "objects": [
+      "one",
+      "woman",
+      "black",
+      "shirt",
+      "tops",
+      "different",
+      "women",
+      "group"
+    ],
+    "actions": [
+      "others",
+      "wearing",
+      "opens",
+      "colored"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "They are gathered in a kitchen, with one woman holding a remote control and another holding a toothbrush, and they all appear to be laughing and having a good time.",
+    "objects": [
+      "they",
+      "one",
+      "toothbrush",
+      "appear",
+      "good",
+      "woman",
+      "control",
+      "remote"
+    ],
+    "actions": [
+      "having",
+      "gathered",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "They are gathered in a kitchen, with one woman holding a remote control and another holding a toothbrush, and they all appear to be laughing and having a good time.",
+    "objects": [
+      "they",
+      "one",
+      "toothbrush",
+      "appear",
+      "good",
+      "woman",
+      "control",
+      "remote"
+    ],
+    "actions": [
+      "having",
+      "gathered",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A girl in a blue shirt and a man in a blue shirt are standing in a kitchen, with the man holding a toothbrush.",
+    "objects": [
+      "toothbrush",
+      "blue",
+      "shirt",
+      "girl",
+      "man",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "A girl in a blue shirt and a man in a blue shirt are standing in a kitchen, with the man holding a toothbrush.",
+    "objects": [
+      "toothbrush",
+      "blue",
+      "shirt",
+      "girl",
+      "man",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene then shifts to a room where a woman in a blue shirt is sitting on a couch, and a girl in a blue shirt is standing next to her.",
+    "objects": [
+      "woman",
+      "where",
+      "blue",
+      "shirt",
+      "girl",
+      "her",
+      "couch",
+      "room"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene then shifts to a room where a woman in a blue shirt is sitting on a couch, and a girl in a blue shirt is standing next to her.",
+    "objects": [
+      "woman",
+      "where",
+      "blue",
+      "shirt",
+      "girl",
+      "her",
+      "couch",
+      "room"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The two are engaged in a playful moment, with the girl on the couch holding the toothbrush and the girl standing next to her putting it in her mouth.",
+    "objects": [
+      "toothbrush",
+      "mouth",
+      "moment",
+      "two",
+      "her",
+      "couch",
+      "girl",
+      "playful"
+    ],
+    "actions": [
+      "putting",
+      "standing",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The two are engaged in a playful moment, with the girl on the couch holding the toothbrush and the girl standing next to her putting it in her mouth.",
+    "objects": [
+      "toothbrush",
+      "mouth",
+      "moment",
+      "two",
+      "her",
+      "couch",
+      "girl",
+      "playful"
+    ],
+    "actions": [
+      "putting",
+      "standing",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The girl on the couch then smiles at the camera.",
+    "objects": [
+      "girl",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "smiles"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The girl on the couch then smiles at the camera.",
+    "objects": [
+      "girl",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "smiles"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The scene then shifts to a kitchen where a woman in a blue shirt is sitting at a counter with a man in a blue shirt, and they are both laughing.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "where",
+      "blue",
+      "shirt",
+      "counter",
+      "man"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "laughing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The scene then shifts to a kitchen where a woman in a blue shirt is sitting at a counter with a man in a blue shirt, and they are both laughing.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "where",
+      "blue",
+      "shirt",
+      "counter",
+      "man"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "laughing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is holding a remote control.",
+    "objects": [
+      "control",
+      "remote",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is holding a remote control.",
+    "objects": [
+      "control",
+      "remote",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is holding a toothbrush, and they seem to be enjoying a light-hearted moment together.",
+    "objects": [
+      "they",
+      "toothbrush",
+      "moment",
+      "seem",
+      "man",
+      "together"
+    ],
+    "actions": [
+      "light-hearted",
+      "holding",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is holding a toothbrush, and they seem to be enjoying a light-hearted moment together.",
+    "objects": [
+      "they",
+      "toothbrush",
+      "moment",
+      "seem",
+      "man",
+      "together"
+    ],
+    "actions": [
+      "light-hearted",
+      "holding",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene then shifts to a bathroom where a woman in a blue shirt is standing next to a girl in a blue shirt, and they are both wearing sunglasses.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "where",
+      "blue",
+      "shirt",
+      "bathroom",
+      "girl"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "standing",
+      "sunglasses"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene then shifts to a bathroom where a woman in a blue shirt is standing next to a girl in a blue shirt, and they are both wearing sunglasses.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "where",
+      "blue",
+      "shirt",
+      "bathroom",
+      "girl"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "standing",
+      "sunglasses"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman holds a toothbrush, and the girl is holding a remote control.",
+    "objects": [
+      "toothbrush",
+      "woman",
+      "control",
+      "remote",
+      "girl"
+    ],
+    "actions": [
+      "holding",
+      "holds"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman holds a toothbrush, and the girl is holding a remote control.",
+    "objects": [
+      "toothbrush",
+      "woman",
+      "control",
+      "remote",
+      "girl"
+    ],
+    "actions": [
+      "holding",
+      "holds"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The girl in the bathroom is laughing and looking at the camera.",
+    "objects": [
+      "bathroom",
+      "girl"
+    ],
+    "actions": [
+      "looking",
+      "laughing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The girl in the bathroom is laughing and looking at the camera.",
+    "objects": [
+      "bathroom",
+      "girl"
+    ],
+    "actions": [
+      "looking",
+      "laughing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene then shifts to a kitchen where a woman in a blue shirt is standing next to a girl in a blue shirt, and they are both wearing sunglasses.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "where",
+      "blue",
+      "shirt",
+      "girl",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "standing",
+      "sunglasses"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene then shifts to a kitchen where a woman in a blue shirt is standing next to a girl in a blue shirt, and they are both wearing sunglasses.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "where",
+      "blue",
+      "shirt",
+      "girl",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "standing",
+      "sunglasses"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman is holding a remote control and the girl is holding a toothbrush.",
+    "objects": [
+      "toothbrush",
+      "woman",
+      "control",
+      "remote",
+      "girl"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman is holding a remote control and the girl is holding a toothbrush.",
+    "objects": [
+      "toothbrush",
+      "woman",
+      "control",
+      "remote",
+      "girl"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "They are laughing and seem to be having a fun time together.",
+    "objects": [
+      "they",
+      "fun",
+      "seem",
+      "time",
+      "together"
+    ],
+    "actions": [
+      "having",
+      "laughing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "They are laughing and seem to be having a fun time together.",
+    "objects": [
+      "they",
+      "fun",
+      "seem",
+      "time",
+      "together"
+    ],
+    "actions": [
+      "having",
+      "laughing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene ends with a woman in a blue shirt standing in a room, holding a remote control and smiling at the camera.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "control",
+      "ends",
+      "remote",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene ends with a woman in a blue shirt standing in a room, holding a remote control and smiling at the camera.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "control",
+      "ends",
+      "remote",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 15
+  }
+]

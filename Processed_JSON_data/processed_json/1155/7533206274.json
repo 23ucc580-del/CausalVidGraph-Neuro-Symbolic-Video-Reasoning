@@ -1,0 +1,506 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a joyful scene at a swimming pool where a man and a woman, both shirtless, are enjoying their time in the water with their baby.",
+    "objects": [
+      "pool",
+      "both",
+      "man",
+      "water",
+      "joyful",
+      "time",
+      "baby",
+      "their"
+    ],
+    "actions": [
+      "enjoying",
+      "shirtless",
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a joyful scene at a swimming pool where a man and a woman, both shirtless, are enjoying their time in the water with their baby.",
+    "objects": [
+      "pool",
+      "both",
+      "man",
+      "water",
+      "joyful",
+      "time",
+      "baby",
+      "their"
+    ],
+    "actions": [
+      "enjoying",
+      "shirtless",
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a joyful scene at a swimming pool where a man and a woman, both shirtless, are enjoying their time in the water with their baby.",
+    "objects": [
+      "pool",
+      "both",
+      "man",
+      "water",
+      "joyful",
+      "time",
+      "baby",
+      "their"
+    ],
+    "actions": [
+      "enjoying",
+      "shirtless",
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The man is wearing a blue swimsuit, while the woman is wearing a pink swimsuit.",
+    "objects": [
+      "blue",
+      "pink",
+      "man",
+      "while",
+      "swimsuit",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a blue swimsuit, while the woman is wearing a pink swimsuit.",
+    "objects": [
+      "blue",
+      "pink",
+      "man",
+      "while",
+      "swimsuit",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a blue swimsuit, while the woman is wearing a pink swimsuit.",
+    "objects": [
+      "blue",
+      "pink",
+      "man",
+      "while",
+      "swimsuit",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby is holding a blue frisbee in one hand and a blue cup in the other.",
+    "objects": [
+      "blue",
+      "hand",
+      "frisbee",
+      "cup",
+      "other",
+      "one",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby is holding a blue frisbee in one hand and a blue cup in the other.",
+    "objects": [
+      "blue",
+      "hand",
+      "frisbee",
+      "cup",
+      "other",
+      "one",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby is holding a blue frisbee in one hand and a blue cup in the other.",
+    "objects": [
+      "blue",
+      "hand",
+      "frisbee",
+      "cup",
+      "other",
+      "one",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are playing with a small child in the water, who is wearing a pink swimsuit.",
+    "objects": [
+      "pink",
+      "small",
+      "water",
+      "child",
+      "swimsuit",
+      "who",
+      "they"
+    ],
+    "actions": [
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They are playing with a small child in the water, who is wearing a pink swimsuit.",
+    "objects": [
+      "pink",
+      "small",
+      "water",
+      "child",
+      "swimsuit",
+      "who",
+      "they"
+    ],
+    "actions": [
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They are playing with a small child in the water, who is wearing a pink swimsuit.",
+    "objects": [
+      "pink",
+      "small",
+      "water",
+      "child",
+      "swimsuit",
+      "who",
+      "they"
+    ],
+    "actions": [
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is also holding a blue cup.",
+    "objects": [
+      "cup",
+      "blue",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is also holding a blue cup.",
+    "objects": [
+      "cup",
+      "blue",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is also holding a blue cup.",
+    "objects": [
+      "cup",
+      "blue",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby is being handed a blue frisbee by the man.",
+    "objects": [
+      "frisbee",
+      "blue",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "handed",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby is being handed a blue frisbee by the man.",
+    "objects": [
+      "frisbee",
+      "blue",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "handed",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby is being handed a blue frisbee by the man.",
+    "objects": [
+      "frisbee",
+      "blue",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "handed",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman is sitting on a chair, and the man is kneeling on the ground.",
+    "objects": [
+      "chair",
+      "man",
+      "woman",
+      "ground"
+    ],
+    "actions": [
+      "kneeling",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman is sitting on a chair, and the man is kneeling on the ground.",
+    "objects": [
+      "chair",
+      "man",
+      "woman",
+      "ground"
+    ],
+    "actions": [
+      "kneeling",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman is sitting on a chair, and the man is kneeling on the ground.",
+    "objects": [
+      "chair",
+      "man",
+      "woman",
+      "ground"
+    ],
+    "actions": [
+      "kneeling",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The baby is also sitting on the ground, and the man is holding the baby.",
+    "objects": [
+      "ground",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The baby is also sitting on the ground, and the man is holding the baby.",
+    "objects": [
+      "ground",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby is also sitting on the ground, and the man is holding the baby.",
+    "objects": [
+      "ground",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman is standing in the water, and the baby is standing on the ground.",
+    "objects": [
+      "ground",
+      "water",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman is standing in the water, and the baby is standing on the ground.",
+    "objects": [
+      "ground",
+      "water",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman is standing in the water, and the baby is standing on the ground.",
+    "objects": [
+      "ground",
+      "water",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The man and woman are playing with the baby in the water, and the baby is playing with a blue frisbee.",
+    "objects": [
+      "blue",
+      "frisbee",
+      "man",
+      "water",
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The man and woman are playing with the baby in the water, and the baby is playing with a blue frisbee.",
+    "objects": [
+      "blue",
+      "frisbee",
+      "man",
+      "water",
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The man and woman are playing with the baby in the water, and the baby is playing with a blue frisbee.",
+    "objects": [
+      "blue",
+      "frisbee",
+      "man",
+      "water",
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby is holding a blue cup, and the man is holding a blue frisbee.",
+    "objects": [
+      "blue",
+      "cup",
+      "frisbee",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby is holding a blue cup, and the man is holding a blue frisbee.",
+    "objects": [
+      "blue",
+      "cup",
+      "frisbee",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

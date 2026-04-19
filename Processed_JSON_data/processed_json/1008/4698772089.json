@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a close-up of a hand holding a treat, which the hand then proceeds to feed to a cat.",
+    "objects": [
+      "see",
+      "cat",
+      "which",
+      "treat",
+      "then",
+      "hand"
+    ],
+    "actions": [
+      "feed",
+      "proceeds",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a close-up of a hand holding a treat, which the hand then proceeds to feed to a cat.",
+    "objects": [
+      "see",
+      "cat",
+      "which",
+      "treat",
+      "then",
+      "hand"
+    ],
+    "actions": [
+      "feed",
+      "proceeds",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a close-up of a hand holding a treat, which the hand then proceeds to feed to a cat.",
+    "objects": [
+      "see",
+      "cat",
+      "which",
+      "treat",
+      "then",
+      "hand"
+    ],
+    "actions": [
+      "feed",
+      "proceeds",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a close-up of a hand holding a treat, which the hand then proceeds to feed to a cat.",
+    "objects": [
+      "see",
+      "cat",
+      "which",
+      "treat",
+      "then",
+      "hand"
+    ],
+    "actions": [
+      "feed",
+      "proceeds",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The cat takes the treat from the hand's palm and begins to eat it.",
+    "objects": [
+      "eat",
+      "palm",
+      "from",
+      "cat",
+      "treat"
+    ],
+    "actions": [
+      "begins",
+      "hand's",
+      "takes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The cat takes the treat from the hand's palm and begins to eat it.",
+    "objects": [
+      "eat",
+      "palm",
+      "from",
+      "cat",
+      "treat"
+    ],
+    "actions": [
+      "begins",
+      "hand's",
+      "takes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The cat takes the treat from the hand's palm and begins to eat it.",
+    "objects": [
+      "eat",
+      "palm",
+      "from",
+      "cat",
+      "treat"
+    ],
+    "actions": [
+      "begins",
+      "hand's",
+      "takes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The cat takes the treat from the hand's palm and begins to eat it.",
+    "objects": [
+      "eat",
+      "palm",
+      "from",
+      "cat",
+      "treat"
+    ],
+    "actions": [
+      "begins",
+      "hand's",
+      "takes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene is set in a room with a carpeted floor and a cat sitting on the floor, which appears to be a floral pattern.",
+    "objects": [
+      "floral",
+      "cat",
+      "which",
+      "set",
+      "pattern",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "carpeted"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene is set in a room with a carpeted floor and a cat sitting on the floor, which appears to be a floral pattern.",
+    "objects": [
+      "floral",
+      "cat",
+      "which",
+      "set",
+      "pattern",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "carpeted"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene is set in a room with a carpeted floor and a cat sitting on the floor, which appears to be a floral pattern.",
+    "objects": [
+      "floral",
+      "cat",
+      "which",
+      "set",
+      "pattern",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "carpeted"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene is set in a room with a carpeted floor and a cat sitting on the floor, which appears to be a floral pattern.",
+    "objects": [
+      "floral",
+      "cat",
+      "which",
+      "set",
+      "pattern",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "carpeted"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The cat seems to be a tabby cat with a grey and white coloring.",
+    "objects": [
+      "cat",
+      "tabby",
+      "grey",
+      "white"
+    ],
+    "actions": [
+      "seems",
+      "coloring"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The cat seems to be a tabby cat with a grey and white coloring.",
+    "objects": [
+      "cat",
+      "tabby",
+      "grey",
+      "white"
+    ],
+    "actions": [
+      "seems",
+      "coloring"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The cat seems to be a tabby cat with a grey and white coloring.",
+    "objects": [
+      "cat",
+      "tabby",
+      "grey",
+      "white"
+    ],
+    "actions": [
+      "seems",
+      "coloring"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The cat seems to be a tabby cat with a grey and white coloring.",
+    "objects": [
+      "cat",
+      "tabby",
+      "grey",
+      "white"
+    ],
+    "actions": [
+      "seems",
+      "coloring"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The cat is on the left side of the frame, and the hand is on the right side.",
+    "objects": [
+      "cat",
+      "side",
+      "hand"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The cat is on the left side of the frame, and the hand is on the right side.",
+    "objects": [
+      "cat",
+      "side",
+      "hand"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The cat is on the left side of the frame, and the hand is on the right side.",
+    "objects": [
+      "cat",
+      "side",
+      "hand"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The cat is on the left side of the frame, and the hand is on the right side.",
+    "objects": [
+      "cat",
+      "side",
+      "hand"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The hand is wearing a blue hoodie and is holding a blue object, which could be the treat the cat is eating.",
+    "objects": [
+      "blue",
+      "cat",
+      "which",
+      "hoodie",
+      "object",
+      "treat",
+      "could",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "eating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The hand is wearing a blue hoodie and is holding a blue object, which could be the treat the cat is eating.",
+    "objects": [
+      "blue",
+      "cat",
+      "which",
+      "hoodie",
+      "object",
+      "treat",
+      "could",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "eating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The hand is wearing a blue hoodie and is holding a blue object, which could be the treat the cat is eating.",
+    "objects": [
+      "blue",
+      "cat",
+      "which",
+      "hoodie",
+      "object",
+      "treat",
+      "could",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "eating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The hand is wearing a blue hoodie and is holding a blue object, which could be the treat the cat is eating.",
+    "objects": [
+      "blue",
+      "cat",
+      "which",
+      "hoodie",
+      "object",
+      "treat",
+      "could",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "eating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The room has a warm and cozy ambiance, with a rug and a lamp in the background, providing a homely atmosphere.",
+    "objects": [
+      "ambiance",
+      "has",
+      "warm",
+      "lamp",
+      "cozy",
+      "room",
+      "homely",
+      "atmosphere"
+    ],
+    "actions": [
+      "providing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The room has a warm and cozy ambiance, with a rug and a lamp in the background, providing a homely atmosphere.",
+    "objects": [
+      "ambiance",
+      "has",
+      "warm",
+      "lamp",
+      "cozy",
+      "room",
+      "homely",
+      "atmosphere"
+    ],
+    "actions": [
+      "providing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The room has a warm and cozy ambiance, with a rug and a lamp in the background, providing a homely atmosphere.",
+    "objects": [
+      "ambiance",
+      "has",
+      "warm",
+      "lamp",
+      "cozy",
+      "room",
+      "homely",
+      "atmosphere"
+    ],
+    "actions": [
+      "providing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The room has a warm and cozy ambiance, with a rug and a lamp in the background, providing a homely atmosphere.",
+    "objects": [
+      "ambiance",
+      "has",
+      "warm",
+      "lamp",
+      "cozy",
+      "room",
+      "homely",
+      "atmosphere"
+    ],
+    "actions": [
+      "providing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The cat seems to be well-behaved and calmly eating the treat, indicating a comfortable environment for both the cat and the person.",
+    "objects": [
+      "treat",
+      "both",
+      "environment",
+      "comfortable",
+      "cat",
+      "calmly"
+    ],
+    "actions": [
+      "seems",
+      "indicating",
+      "eating",
+      "well-behaved"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The cat seems to be well-behaved and calmly eating the treat, indicating a comfortable environment for both the cat and the person.",
+    "objects": [
+      "treat",
+      "both",
+      "environment",
+      "comfortable",
+      "cat",
+      "calmly"
+    ],
+    "actions": [
+      "seems",
+      "indicating",
+      "eating",
+      "well-behaved"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The cat seems to be well-behaved and calmly eating the treat, indicating a comfortable environment for both the cat and the person.",
+    "objects": [
+      "treat",
+      "both",
+      "environment",
+      "comfortable",
+      "cat",
+      "calmly"
+    ],
+    "actions": [
+      "seems",
+      "indicating",
+      "eating",
+      "well-behaved"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The cat seems to be well-behaved and calmly eating the treat, indicating a comfortable environment for both the cat and the person.",
+    "objects": [
+      "treat",
+      "both",
+      "environment",
+      "comfortable",
+      "cat",
+      "calmly"
+    ],
+    "actions": [
+      "seems",
+      "indicating",
+      "eating",
+      "well-behaved"
+    ],
+    "segment_id": 7
+  }
+]

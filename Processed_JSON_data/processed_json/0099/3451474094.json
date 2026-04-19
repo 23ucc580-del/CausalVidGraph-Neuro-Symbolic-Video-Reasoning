@@ -1,0 +1,584 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of black and brown jaguars in a zoo enclosure.",
+    "objects": [
+      "this",
+      "see",
+      "brown",
+      "group",
+      "zoo",
+      "enclosure",
+      "black"
+    ],
+    "actions": [
+      "jaguars"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of black and brown jaguars in a zoo enclosure.",
+    "objects": [
+      "this",
+      "see",
+      "brown",
+      "group",
+      "zoo",
+      "enclosure",
+      "black"
+    ],
+    "actions": [
+      "jaguars"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of black and brown jaguars in a zoo enclosure.",
+    "objects": [
+      "this",
+      "see",
+      "brown",
+      "group",
+      "zoo",
+      "enclosure",
+      "black"
+    ],
+    "actions": [
+      "jaguars"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a group of black and brown jaguars in a zoo enclosure.",
+    "objects": [
+      "this",
+      "see",
+      "brown",
+      "group",
+      "zoo",
+      "enclosure",
+      "black"
+    ],
+    "actions": [
+      "jaguars"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In this video, we see a group of black and brown jaguars in a zoo enclosure.",
+    "objects": [
+      "this",
+      "see",
+      "brown",
+      "group",
+      "zoo",
+      "enclosure",
+      "black"
+    ],
+    "actions": [
+      "jaguars"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The jaguars are engaged in various activities.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "jaguars"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The jaguars are engaged in various activities.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "jaguars"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The jaguars are engaged in various activities.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "jaguars"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The jaguars are engaged in various activities.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "jaguars"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The jaguars are engaged in various activities.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "jaguars"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "One jaguar is lying on the ground, while another is sitting up, perhaps in a more alert or curious state.",
+    "objects": [
+      "alert",
+      "state",
+      "jaguar",
+      "while",
+      "one",
+      "more",
+      "ground"
+    ],
+    "actions": [
+      "curious",
+      "perhaps",
+      "lying",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "One jaguar is lying on the ground, while another is sitting up, perhaps in a more alert or curious state.",
+    "objects": [
+      "alert",
+      "state",
+      "jaguar",
+      "while",
+      "one",
+      "more",
+      "ground"
+    ],
+    "actions": [
+      "curious",
+      "perhaps",
+      "lying",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "One jaguar is lying on the ground, while another is sitting up, perhaps in a more alert or curious state.",
+    "objects": [
+      "alert",
+      "state",
+      "jaguar",
+      "while",
+      "one",
+      "more",
+      "ground"
+    ],
+    "actions": [
+      "curious",
+      "perhaps",
+      "lying",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "One jaguar is lying on the ground, while another is sitting up, perhaps in a more alert or curious state.",
+    "objects": [
+      "alert",
+      "state",
+      "jaguar",
+      "while",
+      "one",
+      "more",
+      "ground"
+    ],
+    "actions": [
+      "curious",
+      "perhaps",
+      "lying",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "One jaguar is lying on the ground, while another is sitting up, perhaps in a more alert or curious state.",
+    "objects": [
+      "alert",
+      "state",
+      "jaguar",
+      "while",
+      "one",
+      "more",
+      "ground"
+    ],
+    "actions": [
+      "curious",
+      "perhaps",
+      "lying",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The black jaguar is sitting on its hind legs, with its front paws extended, displaying a characteristic stance often seen when they are curious or alert.",
+    "objects": [
+      "alert",
+      "when",
+      "jaguar",
+      "stance",
+      "hind",
+      "characteristic",
+      "they",
+      "often"
+    ],
+    "actions": [
+      "curious",
+      "extended",
+      "sitting",
+      "displaying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The black jaguar is sitting on its hind legs, with its front paws extended, displaying a characteristic stance often seen when they are curious or alert.",
+    "objects": [
+      "alert",
+      "when",
+      "jaguar",
+      "stance",
+      "hind",
+      "characteristic",
+      "they",
+      "often"
+    ],
+    "actions": [
+      "curious",
+      "extended",
+      "sitting",
+      "displaying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The black jaguar is sitting on its hind legs, with its front paws extended, displaying a characteristic stance often seen when they are curious or alert.",
+    "objects": [
+      "alert",
+      "when",
+      "jaguar",
+      "stance",
+      "hind",
+      "characteristic",
+      "they",
+      "often"
+    ],
+    "actions": [
+      "curious",
+      "extended",
+      "sitting",
+      "displaying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The black jaguar is sitting on its hind legs, with its front paws extended, displaying a characteristic stance often seen when they are curious or alert.",
+    "objects": [
+      "alert",
+      "when",
+      "jaguar",
+      "stance",
+      "hind",
+      "characteristic",
+      "they",
+      "often"
+    ],
+    "actions": [
+      "curious",
+      "extended",
+      "sitting",
+      "displaying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The black jaguar is sitting on its hind legs, with its front paws extended, displaying a characteristic stance often seen when they are curious or alert.",
+    "objects": [
+      "alert",
+      "when",
+      "jaguar",
+      "stance",
+      "hind",
+      "characteristic",
+      "they",
+      "often"
+    ],
+    "actions": [
+      "curious",
+      "extended",
+      "sitting",
+      "displaying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The brown jaguar is standing, and it appears to be interacting with the black jaguar, with its front paws touching the black jaguar's back, possibly in a social or playful manner.",
+    "objects": [
+      "playful",
+      "manner",
+      "jaguar",
+      "brown",
+      "social",
+      "possibly",
+      "its",
+      "paws"
+    ],
+    "actions": [
+      "touching",
+      "standing",
+      "jaguar's",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The brown jaguar is standing, and it appears to be interacting with the black jaguar, with its front paws touching the black jaguar's back, possibly in a social or playful manner.",
+    "objects": [
+      "playful",
+      "manner",
+      "jaguar",
+      "brown",
+      "social",
+      "possibly",
+      "its",
+      "paws"
+    ],
+    "actions": [
+      "touching",
+      "standing",
+      "jaguar's",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The brown jaguar is standing, and it appears to be interacting with the black jaguar, with its front paws touching the black jaguar's back, possibly in a social or playful manner.",
+    "objects": [
+      "playful",
+      "manner",
+      "jaguar",
+      "brown",
+      "social",
+      "possibly",
+      "its",
+      "paws"
+    ],
+    "actions": [
+      "touching",
+      "standing",
+      "jaguar's",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The brown jaguar is standing, and it appears to be interacting with the black jaguar, with its front paws touching the black jaguar's back, possibly in a social or playful manner.",
+    "objects": [
+      "playful",
+      "manner",
+      "jaguar",
+      "brown",
+      "social",
+      "possibly",
+      "its",
+      "paws"
+    ],
+    "actions": [
+      "touching",
+      "standing",
+      "jaguar's",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The brown jaguar is standing, and it appears to be interacting with the black jaguar, with its front paws touching the black jaguar's back, possibly in a social or playful manner.",
+    "objects": [
+      "playful",
+      "manner",
+      "jaguar",
+      "brown",
+      "social",
+      "possibly",
+      "its",
+      "paws"
+    ],
+    "actions": [
+      "touching",
+      "standing",
+      "jaguar's",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "Both jaguars are looking at the camera, suggesting they are aware of their surroundings and possibly being observed by visitors.",
+    "objects": [
+      "their",
+      "aware",
+      "both",
+      "they",
+      "possibly"
+    ],
+    "actions": [
+      "jaguars",
+      "observed",
+      "surroundings",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "Both jaguars are looking at the camera, suggesting they are aware of their surroundings and possibly being observed by visitors.",
+    "objects": [
+      "their",
+      "aware",
+      "both",
+      "they",
+      "possibly"
+    ],
+    "actions": [
+      "jaguars",
+      "observed",
+      "surroundings",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "Both jaguars are looking at the camera, suggesting they are aware of their surroundings and possibly being observed by visitors.",
+    "objects": [
+      "their",
+      "aware",
+      "both",
+      "they",
+      "possibly"
+    ],
+    "actions": [
+      "jaguars",
+      "observed",
+      "surroundings",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "Both jaguars are looking at the camera, suggesting they are aware of their surroundings and possibly being observed by visitors.",
+    "objects": [
+      "their",
+      "aware",
+      "both",
+      "they",
+      "possibly"
+    ],
+    "actions": [
+      "jaguars",
+      "observed",
+      "surroundings",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "Both jaguars are looking at the camera, suggesting they are aware of their surroundings and possibly being observed by visitors.",
+    "objects": [
+      "their",
+      "aware",
+      "both",
+      "they",
+      "possibly"
+    ],
+    "actions": [
+      "jaguars",
+      "observed",
+      "surroundings",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "They are wearing no clothes and holding no objects, focusing on their natural behaviors.",
+    "objects": [
+      "they",
+      "their",
+      "natural"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "objects",
+      "focusing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "They are wearing no clothes and holding no objects, focusing on their natural behaviors.",
+    "objects": [
+      "they",
+      "their",
+      "natural"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "objects",
+      "focusing"
+    ],
+    "segment_id": 6
+  }
+]

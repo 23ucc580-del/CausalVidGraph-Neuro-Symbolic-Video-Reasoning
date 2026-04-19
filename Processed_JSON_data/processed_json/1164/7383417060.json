@@ -1,0 +1,576 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a wide shot of a mountainous landscape, showcasing the grandeur of nature.",
+    "objects": [
+      "grandeur",
+      "wide",
+      "nature",
+      "landscape"
+    ],
+    "actions": [
+      "mountainous",
+      "begins",
+      "showcasing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a wide shot of a mountainous landscape, showcasing the grandeur of nature.",
+    "objects": [
+      "grandeur",
+      "wide",
+      "nature",
+      "landscape"
+    ],
+    "actions": [
+      "mountainous",
+      "begins",
+      "showcasing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The camera then focuses on two hikers, a man and a woman, standing on a rocky terrain.",
+    "objects": [
+      "man",
+      "terrain",
+      "then",
+      "two",
+      "woman",
+      "rocky"
+    ],
+    "actions": [
+      "focuses",
+      "standing",
+      "hikers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The camera then focuses on two hikers, a man and a woman, standing on a rocky terrain.",
+    "objects": [
+      "man",
+      "terrain",
+      "then",
+      "two",
+      "woman",
+      "rocky"
+    ],
+    "actions": [
+      "focuses",
+      "standing",
+      "hikers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is holding a camera, possibly documenting their journey, while the woman is holding a rock in her hand, perhaps as a memento or a way to show her strength.",
+    "objects": [
+      "hand",
+      "her",
+      "man",
+      "while",
+      "rock",
+      "way",
+      "show",
+      "memento"
+    ],
+    "actions": [
+      "documenting",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is holding a camera, possibly documenting their journey, while the woman is holding a rock in her hand, perhaps as a memento or a way to show her strength.",
+    "objects": [
+      "hand",
+      "her",
+      "man",
+      "while",
+      "rock",
+      "way",
+      "show",
+      "memento"
+    ],
+    "actions": [
+      "documenting",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then zooms in on the man, revealing him to be wearing a backpack and a headlamp, indicating they might be on an overnight hike.",
+    "objects": [
+      "overnight",
+      "man",
+      "him",
+      "headlamp",
+      "backpack",
+      "might",
+      "hike",
+      "they"
+    ],
+    "actions": [
+      "wearing",
+      "indicating",
+      "revealing",
+      "zooms"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then zooms in on the man, revealing him to be wearing a backpack and a headlamp, indicating they might be on an overnight hike.",
+    "objects": [
+      "overnight",
+      "man",
+      "him",
+      "headlamp",
+      "backpack",
+      "might",
+      "hike",
+      "they"
+    ],
+    "actions": [
+      "wearing",
+      "indicating",
+      "revealing",
+      "zooms"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "He is holding the camera steady and takes a selfie, capturing both himself and the woman in the frame.",
+    "objects": [
+      "selfie",
+      "both",
+      "steady",
+      "himself",
+      "woman"
+    ],
+    "actions": [
+      "takes",
+      "holding",
+      "capturing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "He is holding the camera steady and takes a selfie, capturing both himself and the woman in the frame.",
+    "objects": [
+      "selfie",
+      "both",
+      "steady",
+      "himself",
+      "woman"
+    ],
+    "actions": [
+      "takes",
+      "holding",
+      "capturing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene is serene and tranquil, with the sounds of nature in the background.",
+    "objects": [
+      "serene",
+      "tranquil",
+      "nature"
+    ],
+    "actions": [
+      "sounds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene is serene and tranquil, with the sounds of nature in the background.",
+    "objects": [
+      "serene",
+      "tranquil",
+      "nature"
+    ],
+    "actions": [
+      "sounds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then shifts to focus on the woman, who is wearing a backpack and holding a rock in her other hand.",
+    "objects": [
+      "hand",
+      "her",
+      "rock",
+      "other",
+      "backpack",
+      "woman",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "holding",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then shifts to focus on the woman, who is wearing a backpack and holding a rock in her other hand.",
+    "objects": [
+      "hand",
+      "her",
+      "rock",
+      "other",
+      "backpack",
+      "woman",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "holding",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "She is smiling, seemingly enjoying the experience.",
+    "objects": [
+      "experience",
+      "seemingly",
+      "she"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "She is smiling, seemingly enjoying the experience.",
+    "objects": [
+      "experience",
+      "seemingly",
+      "she"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The man takes another selfie, this time with both himself and the woman in the frame.",
+    "objects": [
+      "selfie",
+      "both",
+      "man",
+      "this",
+      "himself",
+      "time",
+      "woman"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The man takes another selfie, this time with both himself and the woman in the frame.",
+    "objects": [
+      "selfie",
+      "both",
+      "man",
+      "this",
+      "himself",
+      "time",
+      "woman"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then zooms out, providing a wider shot of the two hikers, who are both smiling and appear to be having a good time.",
+    "objects": [
+      "both",
+      "good",
+      "wider",
+      "time",
+      "out",
+      "appear",
+      "two",
+      "who"
+    ],
+    "actions": [
+      "providing",
+      "smiling",
+      "zooms",
+      "having"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then zooms out, providing a wider shot of the two hikers, who are both smiling and appear to be having a good time.",
+    "objects": [
+      "both",
+      "good",
+      "wider",
+      "time",
+      "out",
+      "appear",
+      "two",
+      "who"
+    ],
+    "actions": [
+      "providing",
+      "smiling",
+      "zooms",
+      "having"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The hikers are dressed in appropriate outdoor attire, suggesting they are prepared for the hike.",
+    "objects": [
+      "appropriate",
+      "attire",
+      "hike",
+      "outdoor",
+      "they"
+    ],
+    "actions": [
+      "prepared",
+      "suggesting",
+      "hikers",
+      "dressed"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The hikers are dressed in appropriate outdoor attire, suggesting they are prepared for the hike.",
+    "objects": [
+      "appropriate",
+      "attire",
+      "hike",
+      "outdoor",
+      "they"
+    ],
+    "actions": [
+      "prepared",
+      "suggesting",
+      "hikers",
+      "dressed"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then zooms in again, this time focusing on the woman, who is wearing a headscarf, adding a personal touch to her appearance.",
+    "objects": [
+      "her",
+      "again",
+      "this",
+      "touch",
+      "appearance",
+      "time",
+      "headscarf",
+      "woman"
+    ],
+    "actions": [
+      "adding",
+      "wearing",
+      "zooms",
+      "focusing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then zooms in again, this time focusing on the woman, who is wearing a headscarf, adding a personal touch to her appearance.",
+    "objects": [
+      "her",
+      "again",
+      "this",
+      "touch",
+      "appearance",
+      "time",
+      "headscarf",
+      "woman"
+    ],
+    "actions": [
+      "adding",
+      "wearing",
+      "zooms",
+      "focusing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "She holds the rock in her hand and smiles, looking happy and content.",
+    "objects": [
+      "hand",
+      "her",
+      "rock",
+      "happy",
+      "content",
+      "she"
+    ],
+    "actions": [
+      "holds",
+      "smiles",
+      "looking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "She holds the rock in her hand and smiles, looking happy and content.",
+    "objects": [
+      "hand",
+      "her",
+      "rock",
+      "happy",
+      "content",
+      "she"
+    ],
+    "actions": [
+      "holds",
+      "smiles",
+      "looking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The video concludes with a wide shot of the hikers again, standing on the rocky terrain.",
+    "objects": [
+      "terrain",
+      "again",
+      "wide",
+      "rocky"
+    ],
+    "actions": [
+      "standing",
+      "concludes",
+      "hikers"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The video concludes with a wide shot of the hikers again, standing on the rocky terrain.",
+    "objects": [
+      "terrain",
+      "again",
+      "wide",
+      "rocky"
+    ],
+    "actions": [
+      "standing",
+      "concludes",
+      "hikers"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "They are both smiling, indicating a shared sense of joy and adventure.",
+    "objects": [
+      "both",
+      "sense",
+      "joy",
+      "adventure",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "indicating",
+      "shared"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "They are both smiling, indicating a shared sense of joy and adventure.",
+    "objects": [
+      "both",
+      "sense",
+      "joy",
+      "adventure",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "indicating",
+      "shared"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera captures the breathtaking view of the mountainous landscape behind them, showcasing the beauty of nature and the thrill of the hike.",
+    "objects": [
+      "beauty",
+      "hike",
+      "them",
+      "behind",
+      "landscape",
+      "thrill",
+      "nature"
+    ],
+    "actions": [
+      "mountainous",
+      "breathtaking",
+      "showcasing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera captures the breathtaking view of the mountainous landscape behind them, showcasing the beauty of nature and the thrill of the hike.",
+    "objects": [
+      "beauty",
+      "hike",
+      "them",
+      "behind",
+      "landscape",
+      "thrill",
+      "nature"
+    ],
+    "actions": [
+      "mountainous",
+      "breathtaking",
+      "showcasing"
+    ],
+    "segment_id": 15
+  }
+]

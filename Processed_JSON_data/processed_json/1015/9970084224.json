@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a black dog and a white dog playing together in a yard.",
+    "objects": [
+      "white",
+      "black",
+      "see",
+      "dog",
+      "yard",
+      "together"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a black dog and a white dog playing together in a yard.",
+    "objects": [
+      "white",
+      "black",
+      "see",
+      "dog",
+      "yard",
+      "together"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a black dog and a white dog playing together in a yard.",
+    "objects": [
+      "white",
+      "black",
+      "see",
+      "dog",
+      "yard",
+      "together"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a black dog and a white dog playing together in a yard.",
+    "objects": [
+      "white",
+      "black",
+      "see",
+      "dog",
+      "yard",
+      "together"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The black dog is wearing a red collar and is being held by a person in a blue shirt.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "shirt",
+      "dog",
+      "held"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The black dog is wearing a red collar and is being held by a person in a blue shirt.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "shirt",
+      "dog",
+      "held"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The black dog is wearing a red collar and is being held by a person in a blue shirt.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "shirt",
+      "dog",
+      "held"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The black dog is wearing a red collar and is being held by a person in a blue shirt.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "shirt",
+      "dog",
+      "held"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The white dog is also being held by a person in a blue shirt, who is standing in front of the black dog.",
+    "objects": [
+      "white",
+      "black",
+      "blue",
+      "shirt",
+      "dog",
+      "who",
+      "held"
+    ],
+    "actions": [
+      "standing",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The white dog is also being held by a person in a blue shirt, who is standing in front of the black dog.",
+    "objects": [
+      "white",
+      "black",
+      "blue",
+      "shirt",
+      "dog",
+      "who",
+      "held"
+    ],
+    "actions": [
+      "standing",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The white dog is also being held by a person in a blue shirt, who is standing in front of the black dog.",
+    "objects": [
+      "white",
+      "black",
+      "blue",
+      "shirt",
+      "dog",
+      "who",
+      "held"
+    ],
+    "actions": [
+      "standing",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The white dog is also being held by a person in a blue shirt, who is standing in front of the black dog.",
+    "objects": [
+      "white",
+      "black",
+      "blue",
+      "shirt",
+      "dog",
+      "who",
+      "held"
+    ],
+    "actions": [
+      "standing",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The dogs are sniffing each other's mouths and seem to be enjoying their playtime.",
+    "objects": [
+      "their",
+      "each",
+      "seem",
+      "dogs",
+      "playtime"
+    ],
+    "actions": [
+      "sniffing",
+      "other's",
+      "mouths",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The dogs are sniffing each other's mouths and seem to be enjoying their playtime.",
+    "objects": [
+      "their",
+      "each",
+      "seem",
+      "dogs",
+      "playtime"
+    ],
+    "actions": [
+      "sniffing",
+      "other's",
+      "mouths",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The dogs are sniffing each other's mouths and seem to be enjoying their playtime.",
+    "objects": [
+      "their",
+      "each",
+      "seem",
+      "dogs",
+      "playtime"
+    ],
+    "actions": [
+      "sniffing",
+      "other's",
+      "mouths",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The dogs are sniffing each other's mouths and seem to be enjoying their playtime.",
+    "objects": [
+      "their",
+      "each",
+      "seem",
+      "dogs",
+      "playtime"
+    ],
+    "actions": [
+      "sniffing",
+      "other's",
+      "mouths",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The black dog is licking the white dog's nose, and the white dog is licking the black dog's mouth.",
+    "objects": [
+      "mouth",
+      "white",
+      "black",
+      "nose",
+      "dog"
+    ],
+    "actions": [
+      "dog's",
+      "licking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The black dog is licking the white dog's nose, and the white dog is licking the black dog's mouth.",
+    "objects": [
+      "mouth",
+      "white",
+      "black",
+      "nose",
+      "dog"
+    ],
+    "actions": [
+      "dog's",
+      "licking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The black dog is licking the white dog's nose, and the white dog is licking the black dog's mouth.",
+    "objects": [
+      "mouth",
+      "white",
+      "black",
+      "nose",
+      "dog"
+    ],
+    "actions": [
+      "dog's",
+      "licking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The black dog is licking the white dog's nose, and the white dog is licking the black dog's mouth.",
+    "objects": [
+      "mouth",
+      "white",
+      "black",
+      "nose",
+      "dog"
+    ],
+    "actions": [
+      "dog's",
+      "licking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "They are both wagging their tails and seem to be having a good time.",
+    "objects": [
+      "they",
+      "their",
+      "good",
+      "both",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "having",
+      "wagging",
+      "tails"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "They are both wagging their tails and seem to be having a good time.",
+    "objects": [
+      "they",
+      "their",
+      "good",
+      "both",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "having",
+      "wagging",
+      "tails"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "They are both wagging their tails and seem to be having a good time.",
+    "objects": [
+      "they",
+      "their",
+      "good",
+      "both",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "having",
+      "wagging",
+      "tails"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "They are both wagging their tails and seem to be having a good time.",
+    "objects": [
+      "they",
+      "their",
+      "good",
+      "both",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "having",
+      "wagging",
+      "tails"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The black dog is barking, and the white dog is yipping, indicating that they are communicating with each other.",
+    "objects": [
+      "they",
+      "each",
+      "white",
+      "other",
+      "black",
+      "that",
+      "dog"
+    ],
+    "actions": [
+      "yipping",
+      "indicating",
+      "barking",
+      "communicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The black dog is barking, and the white dog is yipping, indicating that they are communicating with each other.",
+    "objects": [
+      "they",
+      "each",
+      "white",
+      "other",
+      "black",
+      "that",
+      "dog"
+    ],
+    "actions": [
+      "yipping",
+      "indicating",
+      "barking",
+      "communicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The black dog is barking, and the white dog is yipping, indicating that they are communicating with each other.",
+    "objects": [
+      "they",
+      "each",
+      "white",
+      "other",
+      "black",
+      "that",
+      "dog"
+    ],
+    "actions": [
+      "yipping",
+      "indicating",
+      "barking",
+      "communicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The black dog is barking, and the white dog is yipping, indicating that they are communicating with each other.",
+    "objects": [
+      "they",
+      "each",
+      "white",
+      "other",
+      "black",
+      "that",
+      "dog"
+    ],
+    "actions": [
+      "yipping",
+      "indicating",
+      "barking",
+      "communicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The yard is fenced, and we can see a blue car in the background.",
+    "objects": [
+      "can",
+      "blue",
+      "see",
+      "car",
+      "yard"
+    ],
+    "actions": [
+      "fenced"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The yard is fenced, and we can see a blue car in the background.",
+    "objects": [
+      "can",
+      "blue",
+      "see",
+      "car",
+      "yard"
+    ],
+    "actions": [
+      "fenced"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The yard is fenced, and we can see a blue car in the background.",
+    "objects": [
+      "can",
+      "blue",
+      "see",
+      "car",
+      "yard"
+    ],
+    "actions": [
+      "fenced"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The yard is fenced, and we can see a blue car in the background.",
+    "objects": [
+      "can",
+      "blue",
+      "see",
+      "car",
+      "yard"
+    ],
+    "actions": [
+      "fenced"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people gathered in a room that appears to be a mix of a classroom and a gym.",
+    "objects": [
+      "room",
+      "gym",
+      "people",
+      "that",
+      "mix",
+      "classroom",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people gathered in a room that appears to be a mix of a classroom and a gym.",
+    "objects": [
+      "room",
+      "gym",
+      "people",
+      "that",
+      "mix",
+      "classroom",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of people gathered in a room that appears to be a mix of a classroom and a gym.",
+    "objects": [
+      "room",
+      "gym",
+      "people",
+      "that",
+      "mix",
+      "classroom",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "They are engaged in various activities, and there are several chairs scattered around the room.",
+    "objects": [
+      "around",
+      "room",
+      "several",
+      "there",
+      "they"
+    ],
+    "actions": [
+      "scattered",
+      "chairs",
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "They are engaged in various activities, and there are several chairs scattered around the room.",
+    "objects": [
+      "around",
+      "room",
+      "several",
+      "there",
+      "they"
+    ],
+    "actions": [
+      "scattered",
+      "chairs",
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "They are engaged in various activities, and there are several chairs scattered around the room.",
+    "objects": [
+      "around",
+      "room",
+      "several",
+      "there",
+      "they"
+    ],
+    "actions": [
+      "scattered",
+      "chairs",
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Some individuals are sitting on the floor, while others are standing.",
+    "objects": [
+      "while",
+      "floor",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "individuals",
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "Some individuals are sitting on the floor, while others are standing.",
+    "objects": [
+      "while",
+      "floor",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "individuals",
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "Some individuals are sitting on the floor, while others are standing.",
+    "objects": [
+      "while",
+      "floor",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "individuals",
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One person is holding a clipboard, and a few are wearing t-shirts.",
+    "objects": [
+      "clipboard",
+      "few",
+      "one"
+    ],
+    "actions": [
+      "t-shirts",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "One person is holding a clipboard, and a few are wearing t-shirts.",
+    "objects": [
+      "clipboard",
+      "few",
+      "one"
+    ],
+    "actions": [
+      "t-shirts",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "One person is holding a clipboard, and a few are wearing t-shirts.",
+    "objects": [
+      "clipboard",
+      "few",
+      "one"
+    ],
+    "actions": [
+      "t-shirts",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "There is a large animal statue in the background, and a man is painting a mural on the wall.",
+    "objects": [
+      "large",
+      "animal",
+      "statue",
+      "man",
+      "there",
+      "wall",
+      "mural"
+    ],
+    "actions": [
+      "painting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "There is a large animal statue in the background, and a man is painting a mural on the wall.",
+    "objects": [
+      "large",
+      "animal",
+      "statue",
+      "man",
+      "there",
+      "wall",
+      "mural"
+    ],
+    "actions": [
+      "painting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "There is a large animal statue in the background, and a man is painting a mural on the wall.",
+    "objects": [
+      "large",
+      "animal",
+      "statue",
+      "man",
+      "there",
+      "wall",
+      "mural"
+    ],
+    "actions": [
+      "painting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman is standing in front of a board with a red and white diamond pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "diamond",
+      "board",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman is standing in front of a board with a red and white diamond pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "diamond",
+      "board",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman is standing in front of a board with a red and white diamond pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "diamond",
+      "board",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "One woman is holding a red cloth, while another woman is holding a white object.",
+    "objects": [
+      "white",
+      "while",
+      "object",
+      "one",
+      "woman",
+      "cloth"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "One woman is holding a red cloth, while another woman is holding a white object.",
+    "objects": [
+      "white",
+      "while",
+      "object",
+      "one",
+      "woman",
+      "cloth"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "One woman is holding a red cloth, while another woman is holding a white object.",
+    "objects": [
+      "white",
+      "while",
+      "object",
+      "one",
+      "woman",
+      "cloth"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A man is drawing on the wall, and there is a person holding a green object.",
+    "objects": [
+      "man",
+      "green",
+      "object",
+      "there",
+      "wall"
+    ],
+    "actions": [
+      "drawing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A man is drawing on the wall, and there is a person holding a green object.",
+    "objects": [
+      "man",
+      "green",
+      "object",
+      "there",
+      "wall"
+    ],
+    "actions": [
+      "drawing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A man is drawing on the wall, and there is a person holding a green object.",
+    "objects": [
+      "man",
+      "green",
+      "object",
+      "there",
+      "wall"
+    ],
+    "actions": [
+      "drawing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A man is holding a yellow object, and a woman is holding a blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "object",
+      "yellow",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A man is holding a yellow object, and a woman is holding a blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "object",
+      "yellow",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A man is holding a yellow object, and a woman is holding a blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "object",
+      "yellow",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "A person is standing in front of a large mirror, and another is holding a yellow bag.",
+    "objects": [
+      "large",
+      "bag",
+      "yellow",
+      "mirror"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "A person is standing in front of a large mirror, and another is holding a yellow bag.",
+    "objects": [
+      "large",
+      "bag",
+      "yellow",
+      "mirror"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "A person is standing in front of a large mirror, and another is holding a yellow bag.",
+    "objects": [
+      "large",
+      "bag",
+      "yellow",
+      "mirror"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "A woman is holding a black object, and another is holding a white object.",
+    "objects": [
+      "white",
+      "object",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "A woman is holding a black object, and another is holding a white object.",
+    "objects": [
+      "white",
+      "object",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

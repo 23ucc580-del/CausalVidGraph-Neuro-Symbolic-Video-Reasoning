@@ -1,0 +1,526 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a young child is the central figure, sitting in a crib in a room.",
+    "objects": [
+      "room",
+      "child",
+      "central",
+      "crib",
+      "young",
+      "this",
+      "figure"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a young child is the central figure, sitting in a crib in a room.",
+    "objects": [
+      "room",
+      "child",
+      "central",
+      "crib",
+      "young",
+      "this",
+      "figure"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a young child is the central figure, sitting in a crib in a room.",
+    "objects": [
+      "room",
+      "child",
+      "central",
+      "crib",
+      "young",
+      "this",
+      "figure"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, a young child is the central figure, sitting in a crib in a room.",
+    "objects": [
+      "room",
+      "child",
+      "central",
+      "crib",
+      "young",
+      "this",
+      "figure"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The crib is yellow with a green mattress.",
+    "objects": [
+      "crib",
+      "green",
+      "yellow"
+    ],
+    "actions": [
+      "mattress"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The crib is yellow with a green mattress.",
+    "objects": [
+      "crib",
+      "green",
+      "yellow"
+    ],
+    "actions": [
+      "mattress"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The crib is yellow with a green mattress.",
+    "objects": [
+      "crib",
+      "green",
+      "yellow"
+    ],
+    "actions": [
+      "mattress"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The crib is yellow with a green mattress.",
+    "objects": [
+      "crib",
+      "green",
+      "yellow"
+    ],
+    "actions": [
+      "mattress"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The child is wearing a white onesie, blue shorts, and holding a yellow toy.",
+    "objects": [
+      "white",
+      "child",
+      "yellow",
+      "blue",
+      "toy",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The child is wearing a white onesie, blue shorts, and holding a yellow toy.",
+    "objects": [
+      "white",
+      "child",
+      "yellow",
+      "blue",
+      "toy",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The child is wearing a white onesie, blue shorts, and holding a yellow toy.",
+    "objects": [
+      "white",
+      "child",
+      "yellow",
+      "blue",
+      "toy",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The child is wearing a white onesie, blue shorts, and holding a yellow toy.",
+    "objects": [
+      "white",
+      "child",
+      "yellow",
+      "blue",
+      "toy",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The room is dimly lit, with a white floor and a wooden floor, and there's a white door visible in the background.",
+    "objects": [
+      "white",
+      "door",
+      "lit",
+      "dimly",
+      "wooden",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The room is dimly lit, with a white floor and a wooden floor, and there's a white door visible in the background.",
+    "objects": [
+      "white",
+      "door",
+      "lit",
+      "dimly",
+      "wooden",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The room is dimly lit, with a white floor and a wooden floor, and there's a white door visible in the background.",
+    "objects": [
+      "white",
+      "door",
+      "lit",
+      "dimly",
+      "wooden",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The room is dimly lit, with a white floor and a wooden floor, and there's a white door visible in the background.",
+    "objects": [
+      "white",
+      "door",
+      "lit",
+      "dimly",
+      "wooden",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The child is holding a white toy with a green handle, which appears to be a rattle.",
+    "objects": [
+      "handle",
+      "white",
+      "child",
+      "green",
+      "rattle",
+      "which",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The child is holding a white toy with a green handle, which appears to be a rattle.",
+    "objects": [
+      "handle",
+      "white",
+      "child",
+      "green",
+      "rattle",
+      "which",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The child is holding a white toy with a green handle, which appears to be a rattle.",
+    "objects": [
+      "handle",
+      "white",
+      "child",
+      "green",
+      "rattle",
+      "which",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The child is holding a white toy with a green handle, which appears to be a rattle.",
+    "objects": [
+      "handle",
+      "white",
+      "child",
+      "green",
+      "rattle",
+      "which",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The child is also wearing a black hoodie with blue shorts.",
+    "objects": [
+      "black",
+      "blue",
+      "hoodie",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The child is also wearing a black hoodie with blue shorts.",
+    "objects": [
+      "black",
+      "blue",
+      "hoodie",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The child is also wearing a black hoodie with blue shorts.",
+    "objects": [
+      "black",
+      "blue",
+      "hoodie",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The child is also wearing a black hoodie with blue shorts.",
+    "objects": [
+      "black",
+      "blue",
+      "hoodie",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A person in a white hoodie is holding the child's hand while the child is sitting on the floor.",
+    "objects": [
+      "white",
+      "child",
+      "while",
+      "hoodie",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "child's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A person in a white hoodie is holding the child's hand while the child is sitting on the floor.",
+    "objects": [
+      "white",
+      "child",
+      "while",
+      "hoodie",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "child's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A person in a white hoodie is holding the child's hand while the child is sitting on the floor.",
+    "objects": [
+      "white",
+      "child",
+      "while",
+      "hoodie",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "child's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A person in a white hoodie is holding the child's hand while the child is sitting on the floor.",
+    "objects": [
+      "white",
+      "child",
+      "while",
+      "hoodie",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "child's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The child is looking at the camera, and the person in the white hoodie is facing away from it.",
+    "objects": [
+      "white",
+      "child",
+      "away",
+      "from",
+      "hoodie"
+    ],
+    "actions": [
+      "looking",
+      "facing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The child is looking at the camera, and the person in the white hoodie is facing away from it.",
+    "objects": [
+      "white",
+      "child",
+      "away",
+      "from",
+      "hoodie"
+    ],
+    "actions": [
+      "looking",
+      "facing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The child is looking at the camera, and the person in the white hoodie is facing away from it.",
+    "objects": [
+      "white",
+      "child",
+      "away",
+      "from",
+      "hoodie"
+    ],
+    "actions": [
+      "looking",
+      "facing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The child is looking at the camera, and the person in the white hoodie is facing away from it.",
+    "objects": [
+      "white",
+      "child",
+      "away",
+      "from",
+      "hoodie"
+    ],
+    "actions": [
+      "looking",
+      "facing"
+    ],
+    "segment_id": 7
+  }
+]

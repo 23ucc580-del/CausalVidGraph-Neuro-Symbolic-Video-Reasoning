@@ -1,0 +1,574 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively dance class in progress, with a group of people gathered in a spacious dance studio.",
+    "objects": [
+      "people",
+      "lively",
+      "dance",
+      "studio",
+      "group"
+    ],
+    "actions": [
+      "progress",
+      "class",
+      "gathered",
+      "spacious"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively dance class in progress, with a group of people gathered in a spacious dance studio.",
+    "objects": [
+      "people",
+      "lively",
+      "dance",
+      "studio",
+      "group"
+    ],
+    "actions": [
+      "progress",
+      "class",
+      "gathered",
+      "spacious"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively dance class in progress, with a group of people gathered in a spacious dance studio.",
+    "objects": [
+      "people",
+      "lively",
+      "dance",
+      "studio",
+      "group"
+    ],
+    "actions": [
+      "progress",
+      "class",
+      "gathered",
+      "spacious"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a lively dance class in progress, with a group of people gathered in a spacious dance studio.",
+    "objects": [
+      "people",
+      "lively",
+      "dance",
+      "studio",
+      "group"
+    ],
+    "actions": [
+      "progress",
+      "class",
+      "gathered",
+      "spacious"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video captures a lively dance class in progress, with a group of people gathered in a spacious dance studio.",
+    "objects": [
+      "people",
+      "lively",
+      "dance",
+      "studio",
+      "group"
+    ],
+    "actions": [
+      "progress",
+      "class",
+      "gathered",
+      "spacious"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The instructor, dressed in a blue hoodie, stands in front, leading the class.",
+    "objects": [
+      "blue",
+      "instructor",
+      "hoodie"
+    ],
+    "actions": [
+      "class",
+      "dressed",
+      "leading",
+      "stands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The instructor, dressed in a blue hoodie, stands in front, leading the class.",
+    "objects": [
+      "blue",
+      "instructor",
+      "hoodie"
+    ],
+    "actions": [
+      "class",
+      "dressed",
+      "leading",
+      "stands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The instructor, dressed in a blue hoodie, stands in front, leading the class.",
+    "objects": [
+      "blue",
+      "instructor",
+      "hoodie"
+    ],
+    "actions": [
+      "class",
+      "dressed",
+      "leading",
+      "stands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The instructor, dressed in a blue hoodie, stands in front, leading the class.",
+    "objects": [
+      "blue",
+      "instructor",
+      "hoodie"
+    ],
+    "actions": [
+      "class",
+      "dressed",
+      "leading",
+      "stands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The instructor, dressed in a blue hoodie, stands in front, leading the class.",
+    "objects": [
+      "blue",
+      "instructor",
+      "hoodie"
+    ],
+    "actions": [
+      "class",
+      "dressed",
+      "leading",
+      "stands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "One man, dressed in a white shirt, is dancing in the mirror, while another man in a black shirt is in the corner, watching the instructor's moves.",
+    "objects": [
+      "one",
+      "white",
+      "while",
+      "black",
+      "shirt",
+      "mirror",
+      "corner",
+      "man"
+    ],
+    "actions": [
+      "instructor's",
+      "dressed",
+      "dancing",
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "One man, dressed in a white shirt, is dancing in the mirror, while another man in a black shirt is in the corner, watching the instructor's moves.",
+    "objects": [
+      "one",
+      "white",
+      "while",
+      "black",
+      "shirt",
+      "mirror",
+      "corner",
+      "man"
+    ],
+    "actions": [
+      "instructor's",
+      "dressed",
+      "dancing",
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "One man, dressed in a white shirt, is dancing in the mirror, while another man in a black shirt is in the corner, watching the instructor's moves.",
+    "objects": [
+      "one",
+      "white",
+      "while",
+      "black",
+      "shirt",
+      "mirror",
+      "corner",
+      "man"
+    ],
+    "actions": [
+      "instructor's",
+      "dressed",
+      "dancing",
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "One man, dressed in a white shirt, is dancing in the mirror, while another man in a black shirt is in the corner, watching the instructor's moves.",
+    "objects": [
+      "one",
+      "white",
+      "while",
+      "black",
+      "shirt",
+      "mirror",
+      "corner",
+      "man"
+    ],
+    "actions": [
+      "instructor's",
+      "dressed",
+      "dancing",
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "One man, dressed in a white shirt, is dancing in the mirror, while another man in a black shirt is in the corner, watching the instructor's moves.",
+    "objects": [
+      "one",
+      "white",
+      "while",
+      "black",
+      "shirt",
+      "mirror",
+      "corner",
+      "man"
+    ],
+    "actions": [
+      "instructor's",
+      "dressed",
+      "dancing",
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman in a pink top is seen dancing in the mirror, and a man in a blue shirt is also dancing in the mirror.",
+    "objects": [
+      "pink",
+      "woman",
+      "blue",
+      "shirt",
+      "top",
+      "mirror",
+      "man"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a pink top is seen dancing in the mirror, and a man in a blue shirt is also dancing in the mirror.",
+    "objects": [
+      "pink",
+      "woman",
+      "blue",
+      "shirt",
+      "top",
+      "mirror",
+      "man"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a pink top is seen dancing in the mirror, and a man in a blue shirt is also dancing in the mirror.",
+    "objects": [
+      "pink",
+      "woman",
+      "blue",
+      "shirt",
+      "top",
+      "mirror",
+      "man"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman in a pink top is seen dancing in the mirror, and a man in a blue shirt is also dancing in the mirror.",
+    "objects": [
+      "pink",
+      "woman",
+      "blue",
+      "shirt",
+      "top",
+      "mirror",
+      "man"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman in a pink top is seen dancing in the mirror, and a man in a blue shirt is also dancing in the mirror.",
+    "objects": [
+      "pink",
+      "woman",
+      "blue",
+      "shirt",
+      "top",
+      "mirror",
+      "man"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The instructor is holding a microphone, and the class is seen dancing in the center of the room.",
+    "objects": [
+      "room",
+      "microphone",
+      "instructor",
+      "center"
+    ],
+    "actions": [
+      "dancing",
+      "class",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The instructor is holding a microphone, and the class is seen dancing in the center of the room.",
+    "objects": [
+      "room",
+      "microphone",
+      "instructor",
+      "center"
+    ],
+    "actions": [
+      "dancing",
+      "class",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The instructor is holding a microphone, and the class is seen dancing in the center of the room.",
+    "objects": [
+      "room",
+      "microphone",
+      "instructor",
+      "center"
+    ],
+    "actions": [
+      "dancing",
+      "class",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The instructor is holding a microphone, and the class is seen dancing in the center of the room.",
+    "objects": [
+      "room",
+      "microphone",
+      "instructor",
+      "center"
+    ],
+    "actions": [
+      "dancing",
+      "class",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The instructor is holding a microphone, and the class is seen dancing in the center of the room.",
+    "objects": [
+      "room",
+      "microphone",
+      "instructor",
+      "center"
+    ],
+    "actions": [
+      "dancing",
+      "class",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The floor is covered in light brown wood, and the room has large windows.",
+    "objects": [
+      "wood",
+      "large",
+      "has",
+      "light",
+      "room",
+      "brown",
+      "floor"
+    ],
+    "actions": [
+      "windows",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The floor is covered in light brown wood, and the room has large windows.",
+    "objects": [
+      "wood",
+      "large",
+      "has",
+      "light",
+      "room",
+      "brown",
+      "floor"
+    ],
+    "actions": [
+      "windows",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The floor is covered in light brown wood, and the room has large windows.",
+    "objects": [
+      "wood",
+      "large",
+      "has",
+      "light",
+      "room",
+      "brown",
+      "floor"
+    ],
+    "actions": [
+      "windows",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The floor is covered in light brown wood, and the room has large windows.",
+    "objects": [
+      "wood",
+      "large",
+      "has",
+      "light",
+      "room",
+      "brown",
+      "floor"
+    ],
+    "actions": [
+      "windows",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The floor is covered in light brown wood, and the room has large windows.",
+    "objects": [
+      "wood",
+      "large",
+      "has",
+      "light",
+      "room",
+      "brown",
+      "floor"
+    ],
+    "actions": [
+      "windows",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The class members are dressed in casual clothing, and they are engaged in dancing and moving around the room, with some individuals standing still while others are actively dancing.",
+    "objects": [
+      "they",
+      "casual",
+      "while",
+      "actively",
+      "some",
+      "around",
+      "room",
+      "still"
+    ],
+    "actions": [
+      "standing",
+      "engaged",
+      "others",
+      "clothing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The class members are dressed in casual clothing, and they are engaged in dancing and moving around the room, with some individuals standing still while others are actively dancing.",
+    "objects": [
+      "they",
+      "casual",
+      "while",
+      "actively",
+      "some",
+      "around",
+      "room",
+      "still"
+    ],
+    "actions": [
+      "standing",
+      "engaged",
+      "others",
+      "clothing"
+    ],
+    "segment_id": 6
+  }
+]

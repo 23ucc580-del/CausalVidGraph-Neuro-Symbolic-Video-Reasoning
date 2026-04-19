@@ -1,0 +1,574 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, three dogs are seen walking on leashes down a sidewalk.",
+    "objects": [
+      "three",
+      "sidewalk",
+      "dogs"
+    ],
+    "actions": [
+      "leashes",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, three dogs are seen walking on leashes down a sidewalk.",
+    "objects": [
+      "three",
+      "sidewalk",
+      "dogs"
+    ],
+    "actions": [
+      "leashes",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, three dogs are seen walking on leashes down a sidewalk.",
+    "objects": [
+      "three",
+      "sidewalk",
+      "dogs"
+    ],
+    "actions": [
+      "leashes",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, three dogs are seen walking on leashes down a sidewalk.",
+    "objects": [
+      "three",
+      "sidewalk",
+      "dogs"
+    ],
+    "actions": [
+      "leashes",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The first dog, a black one, is wearing a red collar and is walking on the right side of the sidewalk.",
+    "objects": [
+      "one",
+      "black",
+      "collar",
+      "dog",
+      "side",
+      "sidewalk",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The first dog, a black one, is wearing a red collar and is walking on the right side of the sidewalk.",
+    "objects": [
+      "one",
+      "black",
+      "collar",
+      "dog",
+      "side",
+      "sidewalk",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The first dog, a black one, is wearing a red collar and is walking on the right side of the sidewalk.",
+    "objects": [
+      "one",
+      "black",
+      "collar",
+      "dog",
+      "side",
+      "sidewalk",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The first dog, a black one, is wearing a red collar and is walking on the right side of the sidewalk.",
+    "objects": [
+      "one",
+      "black",
+      "collar",
+      "dog",
+      "side",
+      "sidewalk",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The second dog, a brown one, is wearing a red collar and is walking on the left side of the sidewalk.",
+    "objects": [
+      "one",
+      "collar",
+      "dog",
+      "side",
+      "sidewalk",
+      "second",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The second dog, a brown one, is wearing a red collar and is walking on the left side of the sidewalk.",
+    "objects": [
+      "one",
+      "collar",
+      "dog",
+      "side",
+      "sidewalk",
+      "second",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The second dog, a brown one, is wearing a red collar and is walking on the left side of the sidewalk.",
+    "objects": [
+      "one",
+      "collar",
+      "dog",
+      "side",
+      "sidewalk",
+      "second",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The second dog, a brown one, is wearing a red collar and is walking on the left side of the sidewalk.",
+    "objects": [
+      "one",
+      "collar",
+      "dog",
+      "side",
+      "sidewalk",
+      "second",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The third dog, a white one, is walking in the middle and is wearing a blue collar.",
+    "objects": [
+      "one",
+      "white",
+      "middle",
+      "blue",
+      "collar",
+      "dog",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The third dog, a white one, is walking in the middle and is wearing a blue collar.",
+    "objects": [
+      "one",
+      "white",
+      "middle",
+      "blue",
+      "collar",
+      "dog",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The third dog, a white one, is walking in the middle and is wearing a blue collar.",
+    "objects": [
+      "one",
+      "white",
+      "middle",
+      "blue",
+      "collar",
+      "dog",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The third dog, a white one, is walking in the middle and is wearing a blue collar.",
+    "objects": [
+      "one",
+      "white",
+      "middle",
+      "blue",
+      "collar",
+      "dog",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The dogs appear to be enjoying a leisurely walk, taking in the surroundings as they move along.",
+    "objects": [
+      "appear",
+      "they",
+      "walk",
+      "leisurely",
+      "along",
+      "move",
+      "dogs"
+    ],
+    "actions": [
+      "taking",
+      "enjoying",
+      "surroundings"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The dogs appear to be enjoying a leisurely walk, taking in the surroundings as they move along.",
+    "objects": [
+      "appear",
+      "they",
+      "walk",
+      "leisurely",
+      "along",
+      "move",
+      "dogs"
+    ],
+    "actions": [
+      "taking",
+      "enjoying",
+      "surroundings"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The dogs appear to be enjoying a leisurely walk, taking in the surroundings as they move along.",
+    "objects": [
+      "appear",
+      "they",
+      "walk",
+      "leisurely",
+      "along",
+      "move",
+      "dogs"
+    ],
+    "actions": [
+      "taking",
+      "enjoying",
+      "surroundings"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The dogs appear to be enjoying a leisurely walk, taking in the surroundings as they move along.",
+    "objects": [
+      "appear",
+      "they",
+      "walk",
+      "leisurely",
+      "along",
+      "move",
+      "dogs"
+    ],
+    "actions": [
+      "taking",
+      "enjoying",
+      "surroundings"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The sidewalk is lined with trees, providing a pleasant backdrop for the dogs' stroll.",
+    "objects": [
+      "sidewalk",
+      "pleasant",
+      "stroll",
+      "backdrop"
+    ],
+    "actions": [
+      "trees",
+      "providing",
+      "lined"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The sidewalk is lined with trees, providing a pleasant backdrop for the dogs' stroll.",
+    "objects": [
+      "sidewalk",
+      "pleasant",
+      "stroll",
+      "backdrop"
+    ],
+    "actions": [
+      "trees",
+      "providing",
+      "lined"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The sidewalk is lined with trees, providing a pleasant backdrop for the dogs' stroll.",
+    "objects": [
+      "sidewalk",
+      "pleasant",
+      "stroll",
+      "backdrop"
+    ],
+    "actions": [
+      "trees",
+      "providing",
+      "lined"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The sidewalk is lined with trees, providing a pleasant backdrop for the dogs' stroll.",
+    "objects": [
+      "sidewalk",
+      "pleasant",
+      "stroll",
+      "backdrop"
+    ],
+    "actions": [
+      "trees",
+      "providing",
+      "lined"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The dogs' leashes are attached to their collars, indicating that they are on a walk.",
+    "objects": [
+      "their",
+      "they",
+      "that",
+      "walk"
+    ],
+    "actions": [
+      "collars",
+      "leashes",
+      "indicating",
+      "attached"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The dogs' leashes are attached to their collars, indicating that they are on a walk.",
+    "objects": [
+      "their",
+      "they",
+      "that",
+      "walk"
+    ],
+    "actions": [
+      "collars",
+      "leashes",
+      "indicating",
+      "attached"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The dogs' leashes are attached to their collars, indicating that they are on a walk.",
+    "objects": [
+      "their",
+      "they",
+      "that",
+      "walk"
+    ],
+    "actions": [
+      "collars",
+      "leashes",
+      "indicating",
+      "attached"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The dogs' leashes are attached to their collars, indicating that they are on a walk.",
+    "objects": [
+      "their",
+      "they",
+      "that",
+      "walk"
+    ],
+    "actions": [
+      "collars",
+      "leashes",
+      "indicating",
+      "attached"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The people are not visible in the video, but the dogs are moving along a paved path, suggesting that they are under the control of their owners.",
+    "objects": [
+      "along",
+      "they",
+      "their",
+      "people",
+      "not",
+      "path",
+      "control",
+      "that"
+    ],
+    "actions": [
+      "paved",
+      "moving",
+      "suggesting",
+      "owners"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The people are not visible in the video, but the dogs are moving along a paved path, suggesting that they are under the control of their owners.",
+    "objects": [
+      "along",
+      "they",
+      "their",
+      "people",
+      "not",
+      "path",
+      "control",
+      "that"
+    ],
+    "actions": [
+      "paved",
+      "moving",
+      "suggesting",
+      "owners"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The people are not visible in the video, but the dogs are moving along a paved path, suggesting that they are under the control of their owners.",
+    "objects": [
+      "along",
+      "they",
+      "their",
+      "people",
+      "not",
+      "path",
+      "control",
+      "that"
+    ],
+    "actions": [
+      "paved",
+      "moving",
+      "suggesting",
+      "owners"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The people are not visible in the video, but the dogs are moving along a paved path, suggesting that they are under the control of their owners.",
+    "objects": [
+      "along",
+      "they",
+      "their",
+      "people",
+      "not",
+      "path",
+      "control",
+      "that"
+    ],
+    "actions": [
+      "paved",
+      "moving",
+      "suggesting",
+      "owners"
+    ],
+    "segment_id": 7
+  }
+]

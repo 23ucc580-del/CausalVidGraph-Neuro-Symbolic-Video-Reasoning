@@ -1,0 +1,542 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a man wearing a blue hoodie is standing on a stage, holding a guitar.",
+    "objects": [
+      "blue",
+      "guitar",
+      "stage",
+      "man",
+      "this",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a man wearing a blue hoodie is standing on a stage, holding a guitar.",
+    "objects": [
+      "blue",
+      "guitar",
+      "stage",
+      "man",
+      "this",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a man wearing a blue hoodie is standing on a stage, holding a guitar.",
+    "objects": [
+      "blue",
+      "guitar",
+      "stage",
+      "man",
+      "this",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, a man wearing a blue hoodie is standing on a stage, holding a guitar.",
+    "objects": [
+      "blue",
+      "guitar",
+      "stage",
+      "man",
+      "this",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He appears to be in his mid-40s, with a beard and mustache, and is wearing glasses.",
+    "objects": [
+      "his",
+      "beard",
+      "mustache"
+    ],
+    "actions": [
+      "glasses",
+      "wearing",
+      "mid-40s"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He appears to be in his mid-40s, with a beard and mustache, and is wearing glasses.",
+    "objects": [
+      "his",
+      "beard",
+      "mustache"
+    ],
+    "actions": [
+      "glasses",
+      "wearing",
+      "mid-40s"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He appears to be in his mid-40s, with a beard and mustache, and is wearing glasses.",
+    "objects": [
+      "his",
+      "beard",
+      "mustache"
+    ],
+    "actions": [
+      "glasses",
+      "wearing",
+      "mid-40s"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He appears to be in his mid-40s, with a beard and mustache, and is wearing glasses.",
+    "objects": [
+      "his",
+      "beard",
+      "mustache"
+    ],
+    "actions": [
+      "glasses",
+      "wearing",
+      "mid-40s"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is strumming the guitar while singing into a microphone.",
+    "objects": [
+      "into",
+      "microphone",
+      "while",
+      "guitar"
+    ],
+    "actions": [
+      "singing",
+      "strumming"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is strumming the guitar while singing into a microphone.",
+    "objects": [
+      "into",
+      "microphone",
+      "while",
+      "guitar"
+    ],
+    "actions": [
+      "singing",
+      "strumming"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is strumming the guitar while singing into a microphone.",
+    "objects": [
+      "into",
+      "microphone",
+      "while",
+      "guitar"
+    ],
+    "actions": [
+      "singing",
+      "strumming"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is strumming the guitar while singing into a microphone.",
+    "objects": [
+      "into",
+      "microphone",
+      "while",
+      "guitar"
+    ],
+    "actions": [
+      "singing",
+      "strumming"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The guitar is a light wood color with a brownish pattern on it.",
+    "objects": [
+      "brownish",
+      "color",
+      "guitar",
+      "pattern",
+      "wood",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The guitar is a light wood color with a brownish pattern on it.",
+    "objects": [
+      "brownish",
+      "color",
+      "guitar",
+      "pattern",
+      "wood",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The guitar is a light wood color with a brownish pattern on it.",
+    "objects": [
+      "brownish",
+      "color",
+      "guitar",
+      "pattern",
+      "wood",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The guitar is a light wood color with a brownish pattern on it.",
+    "objects": [
+      "brownish",
+      "color",
+      "guitar",
+      "pattern",
+      "wood",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "On his left wrist, he is wearing a black watch with a silver band.",
+    "objects": [
+      "band",
+      "his",
+      "silver",
+      "watch",
+      "black",
+      "wrist"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "On his left wrist, he is wearing a black watch with a silver band.",
+    "objects": [
+      "band",
+      "his",
+      "silver",
+      "watch",
+      "black",
+      "wrist"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "On his left wrist, he is wearing a black watch with a silver band.",
+    "objects": [
+      "band",
+      "his",
+      "silver",
+      "watch",
+      "black",
+      "wrist"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "On his left wrist, he is wearing a black watch with a silver band.",
+    "objects": [
+      "band",
+      "his",
+      "silver",
+      "watch",
+      "black",
+      "wrist"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "There is another person on the right side of the stage, also wearing a blue hoodie, holding a microphone and watching the man play.",
+    "objects": [
+      "blue",
+      "stage",
+      "man",
+      "side",
+      "microphone",
+      "there",
+      "hoodie",
+      "play"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "There is another person on the right side of the stage, also wearing a blue hoodie, holding a microphone and watching the man play.",
+    "objects": [
+      "blue",
+      "stage",
+      "man",
+      "side",
+      "microphone",
+      "there",
+      "hoodie",
+      "play"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "There is another person on the right side of the stage, also wearing a blue hoodie, holding a microphone and watching the man play.",
+    "objects": [
+      "blue",
+      "stage",
+      "man",
+      "side",
+      "microphone",
+      "there",
+      "hoodie",
+      "play"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "There is another person on the right side of the stage, also wearing a blue hoodie, holding a microphone and watching the man play.",
+    "objects": [
+      "blue",
+      "stage",
+      "man",
+      "side",
+      "microphone",
+      "there",
+      "hoodie",
+      "play"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "They are both on a stage that has a black background.",
+    "objects": [
+      "has",
+      "stage",
+      "both",
+      "that",
+      "black",
+      "they"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "They are both on a stage that has a black background.",
+    "objects": [
+      "has",
+      "stage",
+      "both",
+      "that",
+      "black",
+      "they"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "They are both on a stage that has a black background.",
+    "objects": [
+      "has",
+      "stage",
+      "both",
+      "that",
+      "black",
+      "they"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "They are both on a stage that has a black background.",
+    "objects": [
+      "has",
+      "stage",
+      "both",
+      "that",
+      "black",
+      "they"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The lighting is dim, creating a moody atmosphere, with the stage lighting primarily focused on the man and the microphone.",
+    "objects": [
+      "dim",
+      "stage",
+      "moody",
+      "man",
+      "microphone",
+      "atmosphere",
+      "primarily"
+    ],
+    "actions": [
+      "focused",
+      "creating",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The lighting is dim, creating a moody atmosphere, with the stage lighting primarily focused on the man and the microphone.",
+    "objects": [
+      "dim",
+      "stage",
+      "moody",
+      "man",
+      "microphone",
+      "atmosphere",
+      "primarily"
+    ],
+    "actions": [
+      "focused",
+      "creating",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The lighting is dim, creating a moody atmosphere, with the stage lighting primarily focused on the man and the microphone.",
+    "objects": [
+      "dim",
+      "stage",
+      "moody",
+      "man",
+      "microphone",
+      "atmosphere",
+      "primarily"
+    ],
+    "actions": [
+      "focused",
+      "creating",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The lighting is dim, creating a moody atmosphere, with the stage lighting primarily focused on the man and the microphone.",
+    "objects": [
+      "dim",
+      "stage",
+      "moody",
+      "man",
+      "microphone",
+      "atmosphere",
+      "primarily"
+    ],
+    "actions": [
+      "focused",
+      "creating",
+      "lighting"
+    ],
+    "segment_id": 7
+  }
+]

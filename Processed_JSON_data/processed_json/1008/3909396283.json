@@ -1,0 +1,568 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a brown dog lying on a white rug in a living room.",
+    "objects": [
+      "white",
+      "see",
+      "dog",
+      "room",
+      "brown",
+      "rug"
+    ],
+    "actions": [
+      "lying",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a brown dog lying on a white rug in a living room.",
+    "objects": [
+      "white",
+      "see",
+      "dog",
+      "room",
+      "brown",
+      "rug"
+    ],
+    "actions": [
+      "lying",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a brown dog lying on a white rug in a living room.",
+    "objects": [
+      "white",
+      "see",
+      "dog",
+      "room",
+      "brown",
+      "rug"
+    ],
+    "actions": [
+      "lying",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a brown dog lying on a white rug in a living room.",
+    "objects": [
+      "white",
+      "see",
+      "dog",
+      "room",
+      "brown",
+      "rug"
+    ],
+    "actions": [
+      "lying",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a brown dog lying on a white rug in a living room.",
+    "objects": [
+      "white",
+      "see",
+      "dog",
+      "room",
+      "brown",
+      "rug"
+    ],
+    "actions": [
+      "lying",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog is wearing a blue collar and is engaged in playful behavior with two other dogs.",
+    "objects": [
+      "other",
+      "two",
+      "blue",
+      "collar",
+      "behavior",
+      "dog",
+      "dogs",
+      "playful"
+    ],
+    "actions": [
+      "wearing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog is wearing a blue collar and is engaged in playful behavior with two other dogs.",
+    "objects": [
+      "other",
+      "two",
+      "blue",
+      "collar",
+      "behavior",
+      "dog",
+      "dogs",
+      "playful"
+    ],
+    "actions": [
+      "wearing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog is wearing a blue collar and is engaged in playful behavior with two other dogs.",
+    "objects": [
+      "other",
+      "two",
+      "blue",
+      "collar",
+      "behavior",
+      "dog",
+      "dogs",
+      "playful"
+    ],
+    "actions": [
+      "wearing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog is wearing a blue collar and is engaged in playful behavior with two other dogs.",
+    "objects": [
+      "other",
+      "two",
+      "blue",
+      "collar",
+      "behavior",
+      "dog",
+      "dogs",
+      "playful"
+    ],
+    "actions": [
+      "wearing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog is wearing a blue collar and is engaged in playful behavior with two other dogs.",
+    "objects": [
+      "other",
+      "two",
+      "blue",
+      "collar",
+      "behavior",
+      "dog",
+      "dogs",
+      "playful"
+    ],
+    "actions": [
+      "wearing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The other dogs are brown and black, and they are also lying on the rug.",
+    "objects": [
+      "they",
+      "other",
+      "black",
+      "dogs",
+      "brown",
+      "rug"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The other dogs are brown and black, and they are also lying on the rug.",
+    "objects": [
+      "they",
+      "other",
+      "black",
+      "dogs",
+      "brown",
+      "rug"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The other dogs are brown and black, and they are also lying on the rug.",
+    "objects": [
+      "they",
+      "other",
+      "black",
+      "dogs",
+      "brown",
+      "rug"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The other dogs are brown and black, and they are also lying on the rug.",
+    "objects": [
+      "they",
+      "other",
+      "black",
+      "dogs",
+      "brown",
+      "rug"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The other dogs are brown and black, and they are also lying on the rug.",
+    "objects": [
+      "they",
+      "other",
+      "black",
+      "dogs",
+      "brown",
+      "rug"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The room appears to be well-lit with natural light coming in through a window.",
+    "objects": [
+      "natural",
+      "window",
+      "light",
+      "through",
+      "room"
+    ],
+    "actions": [
+      "coming"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The room appears to be well-lit with natural light coming in through a window.",
+    "objects": [
+      "natural",
+      "window",
+      "light",
+      "through",
+      "room"
+    ],
+    "actions": [
+      "coming"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The room appears to be well-lit with natural light coming in through a window.",
+    "objects": [
+      "natural",
+      "window",
+      "light",
+      "through",
+      "room"
+    ],
+    "actions": [
+      "coming"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The room appears to be well-lit with natural light coming in through a window.",
+    "objects": [
+      "natural",
+      "window",
+      "light",
+      "through",
+      "room"
+    ],
+    "actions": [
+      "coming"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The room appears to be well-lit with natural light coming in through a window.",
+    "objects": [
+      "natural",
+      "window",
+      "light",
+      "through",
+      "room"
+    ],
+    "actions": [
+      "coming"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The floor beneath them is wooden, and there is a green couch in the background with a pillow and a blanket on it.",
+    "objects": [
+      "pillow",
+      "there",
+      "green",
+      "beneath",
+      "them",
+      "wooden",
+      "couch",
+      "floor"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The floor beneath them is wooden, and there is a green couch in the background with a pillow and a blanket on it.",
+    "objects": [
+      "pillow",
+      "there",
+      "green",
+      "beneath",
+      "them",
+      "wooden",
+      "couch",
+      "floor"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The floor beneath them is wooden, and there is a green couch in the background with a pillow and a blanket on it.",
+    "objects": [
+      "pillow",
+      "there",
+      "green",
+      "beneath",
+      "them",
+      "wooden",
+      "couch",
+      "floor"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The floor beneath them is wooden, and there is a green couch in the background with a pillow and a blanket on it.",
+    "objects": [
+      "pillow",
+      "there",
+      "green",
+      "beneath",
+      "them",
+      "wooden",
+      "couch",
+      "floor"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The floor beneath them is wooden, and there is a green couch in the background with a pillow and a blanket on it.",
+    "objects": [
+      "pillow",
+      "there",
+      "green",
+      "beneath",
+      "them",
+      "wooden",
+      "couch",
+      "floor"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog in the blue collar is lying on its side and is biting the other dog's paw while the other dogs are lying on their sides and seem to be in a relaxed state.",
+    "objects": [
+      "their",
+      "its",
+      "other",
+      "state",
+      "while",
+      "blue",
+      "collar",
+      "paw"
+    ],
+    "actions": [
+      "sides",
+      "relaxed",
+      "lying",
+      "biting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog in the blue collar is lying on its side and is biting the other dog's paw while the other dogs are lying on their sides and seem to be in a relaxed state.",
+    "objects": [
+      "their",
+      "its",
+      "other",
+      "state",
+      "while",
+      "blue",
+      "collar",
+      "paw"
+    ],
+    "actions": [
+      "sides",
+      "relaxed",
+      "lying",
+      "biting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog in the blue collar is lying on its side and is biting the other dog's paw while the other dogs are lying on their sides and seem to be in a relaxed state.",
+    "objects": [
+      "their",
+      "its",
+      "other",
+      "state",
+      "while",
+      "blue",
+      "collar",
+      "paw"
+    ],
+    "actions": [
+      "sides",
+      "relaxed",
+      "lying",
+      "biting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog in the blue collar is lying on its side and is biting the other dog's paw while the other dogs are lying on their sides and seem to be in a relaxed state.",
+    "objects": [
+      "their",
+      "its",
+      "other",
+      "state",
+      "while",
+      "blue",
+      "collar",
+      "paw"
+    ],
+    "actions": [
+      "sides",
+      "relaxed",
+      "lying",
+      "biting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog in the blue collar is lying on its side and is biting the other dog's paw while the other dogs are lying on their sides and seem to be in a relaxed state.",
+    "objects": [
+      "their",
+      "its",
+      "other",
+      "state",
+      "while",
+      "blue",
+      "collar",
+      "paw"
+    ],
+    "actions": [
+      "sides",
+      "relaxed",
+      "lying",
+      "biting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is calm and serene, with the dogs enjoying each other's company in a comfortable environment.",
+    "objects": [
+      "each",
+      "environment",
+      "serene",
+      "comfortable",
+      "calm",
+      "company",
+      "dogs"
+    ],
+    "actions": [
+      "other's",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is calm and serene, with the dogs enjoying each other's company in a comfortable environment.",
+    "objects": [
+      "each",
+      "environment",
+      "serene",
+      "comfortable",
+      "calm",
+      "company",
+      "dogs"
+    ],
+    "actions": [
+      "other's",
+      "enjoying"
+    ],
+    "segment_id": 6
+  }
+]

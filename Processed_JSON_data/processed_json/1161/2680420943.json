@@ -1,0 +1,578 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a lively scene in a rustic room.",
+    "objects": [
+      "rustic",
+      "this",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a lively scene in a rustic room.",
+    "objects": [
+      "rustic",
+      "this",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a lively scene in a rustic room.",
+    "objects": [
+      "rustic",
+      "this",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "Three people are present, each engaged in their own activities.",
+    "objects": [
+      "present",
+      "each",
+      "three",
+      "people",
+      "own",
+      "their"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Three people are present, each engaged in their own activities.",
+    "objects": [
+      "present",
+      "each",
+      "three",
+      "people",
+      "own",
+      "their"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Three people are present, each engaged in their own activities.",
+    "objects": [
+      "present",
+      "each",
+      "three",
+      "people",
+      "own",
+      "their"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man stands in the center, dressed in a blue hoodie and holding a green object, possibly a tool or a part of a machine.",
+    "objects": [
+      "machine",
+      "blue",
+      "part",
+      "tool",
+      "man",
+      "green",
+      "object",
+      "hoodie"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A man stands in the center, dressed in a blue hoodie and holding a green object, possibly a tool or a part of a machine.",
+    "objects": [
+      "machine",
+      "blue",
+      "part",
+      "tool",
+      "man",
+      "green",
+      "object",
+      "hoodie"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A man stands in the center, dressed in a blue hoodie and holding a green object, possibly a tool or a part of a machine.",
+    "objects": [
+      "machine",
+      "blue",
+      "part",
+      "tool",
+      "man",
+      "green",
+      "object",
+      "hoodie"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "To his right, another man is wearing a white shirt and holds a green object, which could be a similar tool or part of the same machine.",
+    "objects": [
+      "white",
+      "part",
+      "machine",
+      "which",
+      "tool",
+      "man",
+      "green",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "To his right, another man is wearing a white shirt and holds a green object, which could be a similar tool or part of the same machine.",
+    "objects": [
+      "white",
+      "part",
+      "machine",
+      "which",
+      "tool",
+      "man",
+      "green",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "To his right, another man is wearing a white shirt and holds a green object, which could be a similar tool or part of the same machine.",
+    "objects": [
+      "white",
+      "part",
+      "machine",
+      "which",
+      "tool",
+      "man",
+      "green",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "On the far right, a woman stands, dressed in a black top and holding a white object, which might be related to the activities in the room.",
+    "objects": [
+      "far",
+      "white",
+      "which",
+      "top",
+      "room",
+      "object",
+      "might",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "activities",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "On the far right, a woman stands, dressed in a black top and holding a white object, which might be related to the activities in the room.",
+    "objects": [
+      "far",
+      "white",
+      "which",
+      "top",
+      "room",
+      "object",
+      "might",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "activities",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "On the far right, a woman stands, dressed in a black top and holding a white object, which might be related to the activities in the room.",
+    "objects": [
+      "far",
+      "white",
+      "which",
+      "top",
+      "room",
+      "object",
+      "might",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "activities",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The room has a wooden floor and a window, allowing natural light to filter in.",
+    "objects": [
+      "filter",
+      "room",
+      "wooden",
+      "has",
+      "natural",
+      "light",
+      "window",
+      "floor"
+    ],
+    "actions": [
+      "allowing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The room has a wooden floor and a window, allowing natural light to filter in.",
+    "objects": [
+      "filter",
+      "room",
+      "wooden",
+      "has",
+      "natural",
+      "light",
+      "window",
+      "floor"
+    ],
+    "actions": [
+      "allowing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The room has a wooden floor and a window, allowing natural light to filter in.",
+    "objects": [
+      "filter",
+      "room",
+      "wooden",
+      "has",
+      "natural",
+      "light",
+      "window",
+      "floor"
+    ],
+    "actions": [
+      "allowing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "On the left side of the frame, a green object, possibly a part of the machine or tool, is placed on the floor.",
+    "objects": [
+      "machine",
+      "part",
+      "tool",
+      "green",
+      "side",
+      "object",
+      "floor",
+      "possibly"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "On the left side of the frame, a green object, possibly a part of the machine or tool, is placed on the floor.",
+    "objects": [
+      "machine",
+      "part",
+      "tool",
+      "green",
+      "side",
+      "object",
+      "floor",
+      "possibly"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "On the left side of the frame, a green object, possibly a part of the machine or tool, is placed on the floor.",
+    "objects": [
+      "machine",
+      "part",
+      "tool",
+      "green",
+      "side",
+      "object",
+      "floor",
+      "possibly"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The background features a wooden wall, adding to the rustic ambiance of the room.",
+    "objects": [
+      "room",
+      "ambiance",
+      "wooden",
+      "wall",
+      "rustic"
+    ],
+    "actions": [
+      "adding",
+      "features"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The background features a wooden wall, adding to the rustic ambiance of the room.",
+    "objects": [
+      "room",
+      "ambiance",
+      "wooden",
+      "wall",
+      "rustic"
+    ],
+    "actions": [
+      "adding",
+      "features"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The background features a wooden wall, adding to the rustic ambiance of the room.",
+    "objects": [
+      "room",
+      "ambiance",
+      "wooden",
+      "wall",
+      "rustic"
+    ],
+    "actions": [
+      "adding",
+      "features"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The individuals seem to be in the middle of a discussion or preparing for some activity, given the objects they are holding.",
+    "objects": [
+      "seem",
+      "discussion",
+      "middle",
+      "they",
+      "given",
+      "activity",
+      "some"
+    ],
+    "actions": [
+      "objects",
+      "individuals",
+      "holding",
+      "preparing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The individuals seem to be in the middle of a discussion or preparing for some activity, given the objects they are holding.",
+    "objects": [
+      "seem",
+      "discussion",
+      "middle",
+      "they",
+      "given",
+      "activity",
+      "some"
+    ],
+    "actions": [
+      "objects",
+      "individuals",
+      "holding",
+      "preparing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The individuals seem to be in the middle of a discussion or preparing for some activity, given the objects they are holding.",
+    "objects": [
+      "seem",
+      "discussion",
+      "middle",
+      "they",
+      "given",
+      "activity",
+      "some"
+    ],
+    "actions": [
+      "objects",
+      "individuals",
+      "holding",
+      "preparing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera is positioned at a distance, capturing the entire scene without focusing on any specific person.",
+    "objects": [
+      "without",
+      "entire",
+      "specific",
+      "distance",
+      "any"
+    ],
+    "actions": [
+      "positioned",
+      "focusing",
+      "capturing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera is positioned at a distance, capturing the entire scene without focusing on any specific person.",
+    "objects": [
+      "without",
+      "entire",
+      "specific",
+      "distance",
+      "any"
+    ],
+    "actions": [
+      "positioned",
+      "focusing",
+      "capturing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera is positioned at a distance, capturing the entire scene without focusing on any specific person.",
+    "objects": [
+      "without",
+      "entire",
+      "specific",
+      "distance",
+      "any"
+    ],
+    "actions": [
+      "positioned",
+      "focusing",
+      "capturing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The room appears to be well-lit, with the natural light from the window creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "room",
+      "natural",
+      "light",
+      "window",
+      "atmosphere",
+      "from"
+    ],
+    "actions": [
+      "inviting",
+      "creating"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The room appears to be well-lit, with the natural light from the window creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "room",
+      "natural",
+      "light",
+      "window",
+      "atmosphere",
+      "from"
+    ],
+    "actions": [
+      "inviting",
+      "creating"
+    ],
+    "segment_id": 10
+  }
+]

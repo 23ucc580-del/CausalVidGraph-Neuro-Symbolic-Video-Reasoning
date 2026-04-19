@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see two men standing on a dock overlooking a body of water.",
+    "objects": [
+      "body",
+      "two",
+      "men",
+      "see",
+      "dock",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "overlooking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see two men standing on a dock overlooking a body of water.",
+    "objects": [
+      "body",
+      "two",
+      "men",
+      "see",
+      "dock",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "overlooking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see two men standing on a dock overlooking a body of water.",
+    "objects": [
+      "body",
+      "two",
+      "men",
+      "see",
+      "dock",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "overlooking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see two men standing on a dock overlooking a body of water.",
+    "objects": [
+      "body",
+      "two",
+      "men",
+      "see",
+      "dock",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "overlooking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man on the left is holding a canoe paddle and the man on the right is wearing a life jacket.",
+    "objects": [
+      "canoe",
+      "jacket",
+      "paddle",
+      "man",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man on the left is holding a canoe paddle and the man on the right is wearing a life jacket.",
+    "objects": [
+      "canoe",
+      "jacket",
+      "paddle",
+      "man",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man on the left is holding a canoe paddle and the man on the right is wearing a life jacket.",
+    "objects": [
+      "canoe",
+      "jacket",
+      "paddle",
+      "man",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man on the left is holding a canoe paddle and the man on the right is wearing a life jacket.",
+    "objects": [
+      "canoe",
+      "jacket",
+      "paddle",
+      "man",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They seem to be discussing something, possibly about the canoe or the water conditions.",
+    "objects": [
+      "they",
+      "canoe",
+      "possibly",
+      "about",
+      "seem",
+      "water"
+    ],
+    "actions": [
+      "something",
+      "conditions",
+      "discussing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They seem to be discussing something, possibly about the canoe or the water conditions.",
+    "objects": [
+      "they",
+      "canoe",
+      "possibly",
+      "about",
+      "seem",
+      "water"
+    ],
+    "actions": [
+      "something",
+      "conditions",
+      "discussing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They seem to be discussing something, possibly about the canoe or the water conditions.",
+    "objects": [
+      "they",
+      "canoe",
+      "possibly",
+      "about",
+      "seem",
+      "water"
+    ],
+    "actions": [
+      "something",
+      "conditions",
+      "discussing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They seem to be discussing something, possibly about the canoe or the water conditions.",
+    "objects": [
+      "they",
+      "canoe",
+      "possibly",
+      "about",
+      "seem",
+      "water"
+    ],
+    "actions": [
+      "something",
+      "conditions",
+      "discussing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man on the left is dressed in a blue hoodie, while the man on the right is wearing red shorts.",
+    "objects": [
+      "while",
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man on the left is dressed in a blue hoodie, while the man on the right is wearing red shorts.",
+    "objects": [
+      "while",
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man on the left is dressed in a blue hoodie, while the man on the right is wearing red shorts.",
+    "objects": [
+      "while",
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man on the left is dressed in a blue hoodie, while the man on the right is wearing red shorts.",
+    "objects": [
+      "while",
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They both appear to be smiling, suggesting a friendly or casual interaction.",
+    "objects": [
+      "they",
+      "appear",
+      "both",
+      "casual",
+      "friendly",
+      "interaction"
+    ],
+    "actions": [
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "They both appear to be smiling, suggesting a friendly or casual interaction.",
+    "objects": [
+      "they",
+      "appear",
+      "both",
+      "casual",
+      "friendly",
+      "interaction"
+    ],
+    "actions": [
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "They both appear to be smiling, suggesting a friendly or casual interaction.",
+    "objects": [
+      "they",
+      "appear",
+      "both",
+      "casual",
+      "friendly",
+      "interaction"
+    ],
+    "actions": [
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "They both appear to be smiling, suggesting a friendly or casual interaction.",
+    "objects": [
+      "they",
+      "appear",
+      "both",
+      "casual",
+      "friendly",
+      "interaction"
+    ],
+    "actions": [
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The dock they are standing on is made of wood, and there is a red canoe nearby.",
+    "objects": [
+      "they",
+      "wood",
+      "there",
+      "made",
+      "canoe",
+      "dock",
+      "nearby"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The dock they are standing on is made of wood, and there is a red canoe nearby.",
+    "objects": [
+      "they",
+      "wood",
+      "there",
+      "made",
+      "canoe",
+      "dock",
+      "nearby"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The dock they are standing on is made of wood, and there is a red canoe nearby.",
+    "objects": [
+      "they",
+      "wood",
+      "there",
+      "made",
+      "canoe",
+      "dock",
+      "nearby"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The dock they are standing on is made of wood, and there is a red canoe nearby.",
+    "objects": [
+      "they",
+      "wood",
+      "there",
+      "made",
+      "canoe",
+      "dock",
+      "nearby"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "In the background, we can see other boats, including a white boat and a red boat, which suggests that the dock is located near a marina or a popular boating spot.",
+    "objects": [
+      "other",
+      "white",
+      "can",
+      "boat",
+      "popular",
+      "spot",
+      "see",
+      "dock"
+    ],
+    "actions": [
+      "boats",
+      "red",
+      "boating",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, we can see other boats, including a white boat and a red boat, which suggests that the dock is located near a marina or a popular boating spot.",
+    "objects": [
+      "other",
+      "white",
+      "can",
+      "boat",
+      "popular",
+      "spot",
+      "see",
+      "dock"
+    ],
+    "actions": [
+      "boats",
+      "red",
+      "boating",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, we can see other boats, including a white boat and a red boat, which suggests that the dock is located near a marina or a popular boating spot.",
+    "objects": [
+      "other",
+      "white",
+      "can",
+      "boat",
+      "popular",
+      "spot",
+      "see",
+      "dock"
+    ],
+    "actions": [
+      "boats",
+      "red",
+      "boating",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "In the background, we can see other boats, including a white boat and a red boat, which suggests that the dock is located near a marina or a popular boating spot.",
+    "objects": [
+      "other",
+      "white",
+      "can",
+      "boat",
+      "popular",
+      "spot",
+      "see",
+      "dock"
+    ],
+    "actions": [
+      "boats",
+      "red",
+      "boating",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The overall scene is calm and leisurely, with the focus on the interaction between the two men and the serene water environment.",
+    "objects": [
+      "leisurely",
+      "two",
+      "environment",
+      "serene",
+      "men",
+      "calm",
+      "interaction",
+      "overall"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The overall scene is calm and leisurely, with the focus on the interaction between the two men and the serene water environment.",
+    "objects": [
+      "leisurely",
+      "two",
+      "environment",
+      "serene",
+      "men",
+      "calm",
+      "interaction",
+      "overall"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall scene is calm and leisurely, with the focus on the interaction between the two men and the serene water environment.",
+    "objects": [
+      "leisurely",
+      "two",
+      "environment",
+      "serene",
+      "men",
+      "calm",
+      "interaction",
+      "overall"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall scene is calm and leisurely, with the focus on the interaction between the two men and the serene water environment.",
+    "objects": [
+      "leisurely",
+      "two",
+      "environment",
+      "serene",
+      "men",
+      "calm",
+      "interaction",
+      "overall"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 7
+  }
+]

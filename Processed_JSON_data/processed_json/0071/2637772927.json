@@ -1,0 +1,564 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a young boy is playing with his dog in a backyard.",
+    "objects": [
+      "this",
+      "backyard",
+      "young",
+      "boy",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a young boy is playing with his dog in a backyard.",
+    "objects": [
+      "this",
+      "backyard",
+      "young",
+      "boy",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a young boy is playing with his dog in a backyard.",
+    "objects": [
+      "this",
+      "backyard",
+      "young",
+      "boy",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, a young boy is playing with his dog in a backyard.",
+    "objects": [
+      "this",
+      "backyard",
+      "young",
+      "boy",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In this video, a young boy is playing with his dog in a backyard.",
+    "objects": [
+      "this",
+      "backyard",
+      "young",
+      "boy",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The boy is wearing a blue shirt and is standing near a small, inflatable pool filled with water.",
+    "objects": [
+      "water",
+      "small",
+      "pool",
+      "inflatable",
+      "blue",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The boy is wearing a blue shirt and is standing near a small, inflatable pool filled with water.",
+    "objects": [
+      "water",
+      "small",
+      "pool",
+      "inflatable",
+      "blue",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The boy is wearing a blue shirt and is standing near a small, inflatable pool filled with water.",
+    "objects": [
+      "water",
+      "small",
+      "pool",
+      "inflatable",
+      "blue",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The boy is wearing a blue shirt and is standing near a small, inflatable pool filled with water.",
+    "objects": [
+      "water",
+      "small",
+      "pool",
+      "inflatable",
+      "blue",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The boy is wearing a blue shirt and is standing near a small, inflatable pool filled with water.",
+    "objects": [
+      "water",
+      "small",
+      "pool",
+      "inflatable",
+      "blue",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The dog is a medium-sized, brown and black mixed breed with a fluffy coat.",
+    "objects": [
+      "coat",
+      "fluffy",
+      "brown",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "breed",
+      "mixed",
+      "medium-sized"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The dog is a medium-sized, brown and black mixed breed with a fluffy coat.",
+    "objects": [
+      "coat",
+      "fluffy",
+      "brown",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "breed",
+      "mixed",
+      "medium-sized"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog is a medium-sized, brown and black mixed breed with a fluffy coat.",
+    "objects": [
+      "coat",
+      "fluffy",
+      "brown",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "breed",
+      "mixed",
+      "medium-sized"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog is a medium-sized, brown and black mixed breed with a fluffy coat.",
+    "objects": [
+      "coat",
+      "fluffy",
+      "brown",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "breed",
+      "mixed",
+      "medium-sized"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The dog is a medium-sized, brown and black mixed breed with a fluffy coat.",
+    "objects": [
+      "coat",
+      "fluffy",
+      "brown",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "breed",
+      "mixed",
+      "medium-sized"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The dog is seen walking around the pool, running on all fours in the pool, and playing with the boy.",
+    "objects": [
+      "all",
+      "pool",
+      "boy",
+      "around",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "running",
+      "fours",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The dog is seen walking around the pool, running on all fours in the pool, and playing with the boy.",
+    "objects": [
+      "all",
+      "pool",
+      "boy",
+      "around",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "running",
+      "fours",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The dog is seen walking around the pool, running on all fours in the pool, and playing with the boy.",
+    "objects": [
+      "all",
+      "pool",
+      "boy",
+      "around",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "running",
+      "fours",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The dog is seen walking around the pool, running on all fours in the pool, and playing with the boy.",
+    "objects": [
+      "all",
+      "pool",
+      "boy",
+      "around",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "running",
+      "fours",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The dog is seen walking around the pool, running on all fours in the pool, and playing with the boy.",
+    "objects": [
+      "all",
+      "pool",
+      "boy",
+      "around",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "running",
+      "fours",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The boy holds a red Frisbee in his hand, which he throws to the dog.",
+    "objects": [
+      "which",
+      "hand",
+      "frisbee",
+      "boy",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "throws",
+      "holds",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The boy holds a red Frisbee in his hand, which he throws to the dog.",
+    "objects": [
+      "which",
+      "hand",
+      "frisbee",
+      "boy",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "throws",
+      "holds",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The boy holds a red Frisbee in his hand, which he throws to the dog.",
+    "objects": [
+      "which",
+      "hand",
+      "frisbee",
+      "boy",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "throws",
+      "holds",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The boy holds a red Frisbee in his hand, which he throws to the dog.",
+    "objects": [
+      "which",
+      "hand",
+      "frisbee",
+      "boy",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "throws",
+      "holds",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The boy holds a red Frisbee in his hand, which he throws to the dog.",
+    "objects": [
+      "which",
+      "hand",
+      "frisbee",
+      "boy",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "throws",
+      "holds",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog catches the Frisbee in its mouth and brings it back to the boy.",
+    "objects": [
+      "mouth",
+      "frisbee",
+      "boy",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "catches",
+      "brings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog catches the Frisbee in its mouth and brings it back to the boy.",
+    "objects": [
+      "mouth",
+      "frisbee",
+      "boy",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "catches",
+      "brings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog catches the Frisbee in its mouth and brings it back to the boy.",
+    "objects": [
+      "mouth",
+      "frisbee",
+      "boy",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "catches",
+      "brings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog catches the Frisbee in its mouth and brings it back to the boy.",
+    "objects": [
+      "mouth",
+      "frisbee",
+      "boy",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "catches",
+      "brings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog catches the Frisbee in its mouth and brings it back to the boy.",
+    "objects": [
+      "mouth",
+      "frisbee",
+      "boy",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "catches",
+      "brings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The boy and dog are having a joyful time together, enjoying each other's company and engaging in playful activities.",
+    "objects": [
+      "company",
+      "each",
+      "together",
+      "joyful",
+      "boy",
+      "time",
+      "playful",
+      "dog"
+    ],
+    "actions": [
+      "having",
+      "other's",
+      "activities",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The boy and dog are having a joyful time together, enjoying each other's company and engaging in playful activities.",
+    "objects": [
+      "company",
+      "each",
+      "together",
+      "joyful",
+      "boy",
+      "time",
+      "playful",
+      "dog"
+    ],
+    "actions": [
+      "having",
+      "other's",
+      "activities",
+      "enjoying"
+    ],
+    "segment_id": 6
+  }
+]

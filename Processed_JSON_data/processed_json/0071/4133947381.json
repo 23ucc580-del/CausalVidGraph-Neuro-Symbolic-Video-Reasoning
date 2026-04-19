@@ -1,0 +1,506 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a black cat is sitting in a cage while a person is seen holding a yellow object in their hand.",
+    "objects": [
+      "their",
+      "cat",
+      "cage",
+      "hand",
+      "while",
+      "yellow",
+      "object",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a black cat is sitting in a cage while a person is seen holding a yellow object in their hand.",
+    "objects": [
+      "their",
+      "cat",
+      "cage",
+      "hand",
+      "while",
+      "yellow",
+      "object",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a black cat is sitting in a cage while a person is seen holding a yellow object in their hand.",
+    "objects": [
+      "their",
+      "cat",
+      "cage",
+      "hand",
+      "while",
+      "yellow",
+      "object",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a black cat is sitting in a cage while a person is seen holding a yellow object in their hand.",
+    "objects": [
+      "their",
+      "cat",
+      "cage",
+      "hand",
+      "while",
+      "yellow",
+      "object",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The cat seems to be curious and staring at it.",
+    "objects": [
+      "cat"
+    ],
+    "actions": [
+      "curious",
+      "staring",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The cat seems to be curious and staring at it.",
+    "objects": [
+      "cat"
+    ],
+    "actions": [
+      "curious",
+      "staring",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The cat seems to be curious and staring at it.",
+    "objects": [
+      "cat"
+    ],
+    "actions": [
+      "curious",
+      "staring",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The cat seems to be curious and staring at it.",
+    "objects": [
+      "cat"
+    ],
+    "actions": [
+      "curious",
+      "staring",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The person is wearing a blue hoodie and is standing next to a silver car.",
+    "objects": [
+      "silver",
+      "car",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The person is wearing a blue hoodie and is standing next to a silver car.",
+    "objects": [
+      "silver",
+      "car",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The person is wearing a blue hoodie and is standing next to a silver car.",
+    "objects": [
+      "silver",
+      "car",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The person is wearing a blue hoodie and is standing next to a silver car.",
+    "objects": [
+      "silver",
+      "car",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "They are holding the yellow object in their right hand, which appears to be a bottle of water.",
+    "objects": [
+      "which",
+      "their",
+      "water",
+      "hand",
+      "they",
+      "yellow",
+      "object",
+      "bottle"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "They are holding the yellow object in their right hand, which appears to be a bottle of water.",
+    "objects": [
+      "which",
+      "their",
+      "water",
+      "hand",
+      "they",
+      "yellow",
+      "object",
+      "bottle"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "They are holding the yellow object in their right hand, which appears to be a bottle of water.",
+    "objects": [
+      "which",
+      "their",
+      "water",
+      "hand",
+      "they",
+      "yellow",
+      "object",
+      "bottle"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "They are holding the yellow object in their right hand, which appears to be a bottle of water.",
+    "objects": [
+      "which",
+      "their",
+      "water",
+      "hand",
+      "they",
+      "yellow",
+      "object",
+      "bottle"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The cat is wearing a yellow collar and seems to be interested in the object.",
+    "objects": [
+      "object",
+      "yellow",
+      "cat",
+      "collar"
+    ],
+    "actions": [
+      "interested",
+      "wearing",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The cat is wearing a yellow collar and seems to be interested in the object.",
+    "objects": [
+      "object",
+      "yellow",
+      "cat",
+      "collar"
+    ],
+    "actions": [
+      "interested",
+      "wearing",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The cat is wearing a yellow collar and seems to be interested in the object.",
+    "objects": [
+      "object",
+      "yellow",
+      "cat",
+      "collar"
+    ],
+    "actions": [
+      "interested",
+      "wearing",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The cat is wearing a yellow collar and seems to be interested in the object.",
+    "objects": [
+      "object",
+      "yellow",
+      "cat",
+      "collar"
+    ],
+    "actions": [
+      "interested",
+      "wearing",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The person is also wearing a ring on their left hand, and is standing on a concrete floor.",
+    "objects": [
+      "hand",
+      "floor",
+      "their",
+      "concrete"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "ring"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The person is also wearing a ring on their left hand, and is standing on a concrete floor.",
+    "objects": [
+      "hand",
+      "floor",
+      "their",
+      "concrete"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "ring"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The person is also wearing a ring on their left hand, and is standing on a concrete floor.",
+    "objects": [
+      "hand",
+      "floor",
+      "their",
+      "concrete"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "ring"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The person is also wearing a ring on their left hand, and is standing on a concrete floor.",
+    "objects": [
+      "hand",
+      "floor",
+      "their",
+      "concrete"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "ring"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The background of the scene is a white wall with a window.",
+    "objects": [
+      "wall",
+      "window",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The background of the scene is a white wall with a window.",
+    "objects": [
+      "wall",
+      "window",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The background of the scene is a white wall with a window.",
+    "objects": [
+      "wall",
+      "window",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The background of the scene is a white wall with a window.",
+    "objects": [
+      "wall",
+      "window",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The cat's cage is made of wire and has a black door.",
+    "objects": [
+      "has",
+      "made",
+      "cage",
+      "door",
+      "wire",
+      "black"
+    ],
+    "actions": [
+      "cat's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The cat's cage is made of wire and has a black door.",
+    "objects": [
+      "has",
+      "made",
+      "cage",
+      "door",
+      "wire",
+      "black"
+    ],
+    "actions": [
+      "cat's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The cat's cage is made of wire and has a black door.",
+    "objects": [
+      "has",
+      "made",
+      "cage",
+      "door",
+      "wire",
+      "black"
+    ],
+    "actions": [
+      "cat's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The cat's cage is made of wire and has a black door.",
+    "objects": [
+      "has",
+      "made",
+      "cage",
+      "door",
+      "wire",
+      "black"
+    ],
+    "actions": [
+      "cat's"
+    ],
+    "segment_id": 7
+  }
+]

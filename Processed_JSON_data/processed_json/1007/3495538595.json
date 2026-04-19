@@ -1,0 +1,481 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of six people is seen enjoying a sunny day at the beach.",
+    "objects": [
+      "beach",
+      "people",
+      "six",
+      "day",
+      "sunny",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The scene is lively, with everyone engaged in different activities.",
+    "objects": [
+      "everyone",
+      "different",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "- One person is holding a kite, preparing to fly it, while another person is standing nearby.",
+    "objects": [
+      "one",
+      "fly",
+      "while",
+      "kite",
+      "nearby"
+    ],
+    "actions": [
+      "preparing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "- Another individual is wearing a blue hoodie and a hat, and is smiling while looking towards the camera.",
+    "objects": [
+      "while",
+      "blue",
+      "hat",
+      "hoodie",
+      "individual"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "towards",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "- There's a man in a black shirt, who appears to be talking to someone, holding a surfboard.",
+    "objects": [
+      "black",
+      "shirt",
+      "someone",
+      "surfboard",
+      "who",
+      "man"
+    ],
+    "actions": [
+      "talking",
+      "holding",
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "- A woman in a blue shirt is also smiling and pointing towards the camera.",
+    "objects": [
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "towards",
+      "pointing",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "- A person in a white shirt is walking away from the group.",
+    "objects": [
+      "white",
+      "away",
+      "shirt",
+      "from",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "- A woman in a white shirt is wearing a necklace and looking at the camera.",
+    "objects": [
+      "necklace",
+      "white",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "- A person in a white shirt is sitting on the beach.",
+    "objects": [
+      "beach",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "- A person in a red shirt is holding a kite.",
+    "objects": [
+      "kite",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "- A woman in a blue shirt is holding a kite, and smiling at the camera.",
+    "objects": [
+      "kite",
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "- A woman in a red shirt is holding a kite while another person is wearing a red shirt and smiling.",
+    "objects": [
+      "kite",
+      "while",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "- A person in a white shirt is holding a kite, and smiling.",
+    "objects": [
+      "kite",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "- A woman in a blue shirt is standing near the water, holding a kite and smiling.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "kite",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "- A person in a black shirt is wearing a hat and looking away from the camera.",
+    "objects": [
+      "away",
+      "black",
+      "shirt",
+      "from",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "- A man in a blue shirt is walking away from the group.",
+    "objects": [
+      "away",
+      "blue",
+      "shirt",
+      "from",
+      "man",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "- A person in a white shirt is sitting on the beach.",
+    "objects": [
+      "beach",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "- A woman in a red shirt is sitting on the beach.",
+    "objects": [
+      "beach",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "red"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "- A man in a blue shirt is smiling at the camera.",
+    "objects": [
+      "man",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "- A woman in a blue shirt is wearing a necklace and smiling.",
+    "objects": [
+      "blue",
+      "necklace",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "- A woman in a red shirt is wearing a necklace and smiling.",
+    "objects": [
+      "necklace",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "- A person in a white shirt is wearing a hat and smiling.",
+    "objects": [
+      "hat",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "- A person in a white shirt is wearing a hat and walking away from the group.",
+    "objects": [
+      "white",
+      "away",
+      "shirt",
+      "from",
+      "hat",
+      "group"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "- A person in a blue shirt is standing near the water.",
+    "objects": [
+      "water",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "- A woman in a blue shirt is wearing a necklace and looking away from the camera.",
+    "objects": [
+      "woman",
+      "away",
+      "blue",
+      "shirt",
+      "from",
+      "necklace"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "- A person in a white shirt is holding a kite.",
+    "objects": [
+      "kite",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "- A person in a white shirt is sitting on the beach.",
+    "objects": [
+      "beach",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "- A woman in a blue shirt is standing near the water.",
+    "objects": [
+      "water",
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "- A man in a blue shirt is smiling at the camera.",
+    "objects": [
+      "man",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "- A woman in a white shirt is wearing a hat and smiling.",
+    "objects": [
+      "hat",
+      "white",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "- A person in a white shirt is wearing a hat and walking away from the group.",
+    "objects": [
+      "white",
+      "away",
+      "shirt",
+      "from",
+      "hat",
+      "group"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "- A woman in a blue shirt is standing near the water.",
+    "objects": [
+      "water",
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 31
+  }
+]

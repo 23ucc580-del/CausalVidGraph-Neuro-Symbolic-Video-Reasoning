@@ -1,0 +1,573 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a close-up shot of a baby's face, who is wearing a white onesie with blue polka dots and appears to be playing with a red and blue rattle toy.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "polka",
+      "onesie",
+      "dots",
+      "rattle",
+      "face"
+    ],
+    "actions": [
+      "starts",
+      "red",
+      "baby's",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a close-up shot of a baby's face, who is wearing a white onesie with blue polka dots and appears to be playing with a red and blue rattle toy.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "polka",
+      "onesie",
+      "dots",
+      "rattle",
+      "face"
+    ],
+    "actions": [
+      "starts",
+      "red",
+      "baby's",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video starts with a close-up shot of a baby's face, who is wearing a white onesie with blue polka dots and appears to be playing with a red and blue rattle toy.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "polka",
+      "onesie",
+      "dots",
+      "rattle",
+      "face"
+    ],
+    "actions": [
+      "starts",
+      "red",
+      "baby's",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The baby is seen looking at the camera with a content expression.",
+    "objects": [
+      "content",
+      "expression",
+      "baby"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The baby is seen looking at the camera with a content expression.",
+    "objects": [
+      "content",
+      "expression",
+      "baby"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby is seen looking at the camera with a content expression.",
+    "objects": [
+      "content",
+      "expression",
+      "baby"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene then cuts to the baby lying on the floor with a red ball nearby, still playing with the rattle toy.",
+    "objects": [
+      "toy",
+      "cuts",
+      "ball",
+      "nearby",
+      "baby",
+      "still",
+      "floor",
+      "rattle"
+    ],
+    "actions": [
+      "lying",
+      "red",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene then cuts to the baby lying on the floor with a red ball nearby, still playing with the rattle toy.",
+    "objects": [
+      "toy",
+      "cuts",
+      "ball",
+      "nearby",
+      "baby",
+      "still",
+      "floor",
+      "rattle"
+    ],
+    "actions": [
+      "lying",
+      "red",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene then cuts to the baby lying on the floor with a red ball nearby, still playing with the rattle toy.",
+    "objects": [
+      "toy",
+      "cuts",
+      "ball",
+      "nearby",
+      "baby",
+      "still",
+      "floor",
+      "rattle"
+    ],
+    "actions": [
+      "lying",
+      "red",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then pans to the right, showing the baby's parents holding the baby and a dog in the background.",
+    "objects": [
+      "dog",
+      "baby",
+      "pans",
+      "then"
+    ],
+    "actions": [
+      "baby's",
+      "parents",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then pans to the right, showing the baby's parents holding the baby and a dog in the background.",
+    "objects": [
+      "dog",
+      "baby",
+      "pans",
+      "then"
+    ],
+    "actions": [
+      "baby's",
+      "parents",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then pans to the right, showing the baby's parents holding the baby and a dog in the background.",
+    "objects": [
+      "dog",
+      "baby",
+      "pans",
+      "then"
+    ],
+    "actions": [
+      "baby's",
+      "parents",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby's mother is wearing a white shirt with blue flowers, and the baby's father is wearing a blue shirt.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "mother",
+      "father"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "flowers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby's mother is wearing a white shirt with blue flowers, and the baby's father is wearing a blue shirt.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "mother",
+      "father"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "flowers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby's mother is wearing a white shirt with blue flowers, and the baby's father is wearing a blue shirt.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "mother",
+      "father"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "flowers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby continues to play with the rattle toy and looks up at the camera with a smile.",
+    "objects": [
+      "toy",
+      "smile",
+      "baby",
+      "play",
+      "rattle"
+    ],
+    "actions": [
+      "continues",
+      "looks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby continues to play with the rattle toy and looks up at the camera with a smile.",
+    "objects": [
+      "toy",
+      "smile",
+      "baby",
+      "play",
+      "rattle"
+    ],
+    "actions": [
+      "continues",
+      "looks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby continues to play with the rattle toy and looks up at the camera with a smile.",
+    "objects": [
+      "toy",
+      "smile",
+      "baby",
+      "play",
+      "rattle"
+    ],
+    "actions": [
+      "continues",
+      "looks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "In the next scene, the baby is seen lying on the floor again, this time with a blue blanket and a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "again",
+      "this",
+      "blanket",
+      "time",
+      "baby",
+      "floor"
+    ],
+    "actions": [
+      "lying",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "In the next scene, the baby is seen lying on the floor again, this time with a blue blanket and a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "again",
+      "this",
+      "blanket",
+      "time",
+      "baby",
+      "floor"
+    ],
+    "actions": [
+      "lying",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "In the next scene, the baby is seen lying on the floor again, this time with a blue blanket and a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "again",
+      "this",
+      "blanket",
+      "time",
+      "baby",
+      "floor"
+    ],
+    "actions": [
+      "lying",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The baby's father is holding the baby, and the baby's mother is wearing a white shirt with blue flowers.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "baby",
+      "mother",
+      "father"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "holding",
+      "flowers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The baby's father is holding the baby, and the baby's mother is wearing a white shirt with blue flowers.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "baby",
+      "mother",
+      "father"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "holding",
+      "flowers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby's father is holding the baby, and the baby's mother is wearing a white shirt with blue flowers.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "baby",
+      "mother",
+      "father"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "holding",
+      "flowers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The baby continues to play with the red and blue toy and looks up at the camera with a smile.",
+    "objects": [
+      "blue",
+      "toy",
+      "smile",
+      "baby",
+      "play"
+    ],
+    "actions": [
+      "continues",
+      "looks",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The baby continues to play with the red and blue toy and looks up at the camera with a smile.",
+    "objects": [
+      "blue",
+      "toy",
+      "smile",
+      "baby",
+      "play"
+    ],
+    "actions": [
+      "continues",
+      "looks",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The baby continues to play with the red and blue toy and looks up at the camera with a smile.",
+    "objects": [
+      "blue",
+      "toy",
+      "smile",
+      "baby",
+      "play"
+    ],
+    "actions": [
+      "continues",
+      "looks",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene then cuts to the baby sitting on the floor, wearing a white shirt with blue flowers.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "cuts",
+      "baby",
+      "floor",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "flowers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene then cuts to the baby sitting on the floor, wearing a white shirt with blue flowers.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "cuts",
+      "baby",
+      "floor",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "flowers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene then cuts to the baby sitting on the floor, wearing a white shirt with blue flowers.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "cuts",
+      "baby",
+      "floor",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "flowers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby's father is holding the baby, and the baby's mother is wearing a white shirt with blue polka dots.",
+    "objects": [
+      "white",
+      "blue",
+      "polka",
+      "shirt",
+      "dots",
+      "baby",
+      "mother",
+      "father"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby's father is holding the baby, and the baby's mother is wearing a white shirt with blue polka dots.",
+    "objects": [
+      "white",
+      "blue",
+      "polka",
+      "shirt",
+      "dots",
+      "baby",
+      "mother",
+      "father"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,609 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a live musical performance by a band.",
+    "objects": [
+      "musical",
+      "performance",
+      "band",
+      "live"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a live musical performance by a band.",
+    "objects": [
+      "musical",
+      "performance",
+      "band",
+      "live"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a live musical performance by a band.",
+    "objects": [
+      "musical",
+      "performance",
+      "band",
+      "live"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a shot of a female guitarist in a green dress playing her guitar on stage, her eyes focused on the music.",
+    "objects": [
+      "guitarist",
+      "guitar",
+      "stage",
+      "her",
+      "female",
+      "green",
+      "dress",
+      "eyes"
+    ],
+    "actions": [
+      "focused",
+      "opens",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with a shot of a female guitarist in a green dress playing her guitar on stage, her eyes focused on the music.",
+    "objects": [
+      "guitarist",
+      "guitar",
+      "stage",
+      "her",
+      "female",
+      "green",
+      "dress",
+      "eyes"
+    ],
+    "actions": [
+      "focused",
+      "opens",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with a shot of a female guitarist in a green dress playing her guitar on stage, her eyes focused on the music.",
+    "objects": [
+      "guitarist",
+      "guitar",
+      "stage",
+      "her",
+      "female",
+      "green",
+      "dress",
+      "eyes"
+    ],
+    "actions": [
+      "focused",
+      "opens",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A male guitarist stands nearby, also playing his instrument, while a female bassist and a male drummer are positioned behind them, ready to join in the performance.",
+    "objects": [
+      "guitarist",
+      "instrument",
+      "ready",
+      "female",
+      "while",
+      "his",
+      "performance",
+      "male"
+    ],
+    "actions": [
+      "playing",
+      "positioned",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A male guitarist stands nearby, also playing his instrument, while a female bassist and a male drummer are positioned behind them, ready to join in the performance.",
+    "objects": [
+      "guitarist",
+      "instrument",
+      "ready",
+      "female",
+      "while",
+      "his",
+      "performance",
+      "male"
+    ],
+    "actions": [
+      "playing",
+      "positioned",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A male guitarist stands nearby, also playing his instrument, while a female bassist and a male drummer are positioned behind them, ready to join in the performance.",
+    "objects": [
+      "guitarist",
+      "instrument",
+      "ready",
+      "female",
+      "while",
+      "his",
+      "performance",
+      "male"
+    ],
+    "actions": [
+      "playing",
+      "positioned",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then shifts to show a woman in a blue dress singing into the microphone, her voice resonating through the venue.",
+    "objects": [
+      "blue",
+      "her",
+      "microphone",
+      "dress",
+      "voice",
+      "show",
+      "through",
+      "into"
+    ],
+    "actions": [
+      "resonating",
+      "shifts",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then shifts to show a woman in a blue dress singing into the microphone, her voice resonating through the venue.",
+    "objects": [
+      "blue",
+      "her",
+      "microphone",
+      "dress",
+      "voice",
+      "show",
+      "through",
+      "into"
+    ],
+    "actions": [
+      "resonating",
+      "shifts",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then shifts to show a woman in a blue dress singing into the microphone, her voice resonating through the venue.",
+    "objects": [
+      "blue",
+      "her",
+      "microphone",
+      "dress",
+      "voice",
+      "show",
+      "through",
+      "into"
+    ],
+    "actions": [
+      "resonating",
+      "shifts",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The band is dressed in matching green outfits, indicating they might be a part of the same ensemble.",
+    "objects": [
+      "part",
+      "band",
+      "green",
+      "ensemble",
+      "same",
+      "might",
+      "they"
+    ],
+    "actions": [
+      "outfits",
+      "indicating",
+      "matching",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The band is dressed in matching green outfits, indicating they might be a part of the same ensemble.",
+    "objects": [
+      "part",
+      "band",
+      "green",
+      "ensemble",
+      "same",
+      "might",
+      "they"
+    ],
+    "actions": [
+      "outfits",
+      "indicating",
+      "matching",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The band is dressed in matching green outfits, indicating they might be a part of the same ensemble.",
+    "objects": [
+      "part",
+      "band",
+      "green",
+      "ensemble",
+      "same",
+      "might",
+      "they"
+    ],
+    "actions": [
+      "outfits",
+      "indicating",
+      "matching",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The focus then shifts to a man in a black shirt, who is holding a microphone and looking off into the distance, perhaps directing the performance or communicating with the audience.",
+    "objects": [
+      "audience",
+      "into",
+      "man",
+      "performance",
+      "microphone",
+      "shirt",
+      "off",
+      "distance"
+    ],
+    "actions": [
+      "shifts",
+      "looking",
+      "focus",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The focus then shifts to a man in a black shirt, who is holding a microphone and looking off into the distance, perhaps directing the performance or communicating with the audience.",
+    "objects": [
+      "audience",
+      "into",
+      "man",
+      "performance",
+      "microphone",
+      "shirt",
+      "off",
+      "distance"
+    ],
+    "actions": [
+      "shifts",
+      "looking",
+      "focus",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The focus then shifts to a man in a black shirt, who is holding a microphone and looking off into the distance, perhaps directing the performance or communicating with the audience.",
+    "objects": [
+      "audience",
+      "into",
+      "man",
+      "performance",
+      "microphone",
+      "shirt",
+      "off",
+      "distance"
+    ],
+    "actions": [
+      "shifts",
+      "looking",
+      "focus",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then returns to the female guitarist, who is now playing her instrument with her left hand while her right hand is on her heart.",
+    "objects": [
+      "guitarist",
+      "heart",
+      "instrument",
+      "hand",
+      "her",
+      "female",
+      "while",
+      "now"
+    ],
+    "actions": [
+      "returns",
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then returns to the female guitarist, who is now playing her instrument with her left hand while her right hand is on her heart.",
+    "objects": [
+      "guitarist",
+      "heart",
+      "instrument",
+      "hand",
+      "her",
+      "female",
+      "while",
+      "now"
+    ],
+    "actions": [
+      "returns",
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then returns to the female guitarist, who is now playing her instrument with her left hand while her right hand is on her heart.",
+    "objects": [
+      "guitarist",
+      "heart",
+      "instrument",
+      "hand",
+      "her",
+      "female",
+      "while",
+      "now"
+    ],
+    "actions": [
+      "returns",
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera lingers on the musician's focused expression, showcasing her passion for the music.",
+    "objects": [
+      "her",
+      "expression",
+      "music",
+      "passion"
+    ],
+    "actions": [
+      "lingers",
+      "musician's",
+      "showcasing",
+      "focused"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera lingers on the musician's focused expression, showcasing her passion for the music.",
+    "objects": [
+      "her",
+      "expression",
+      "music",
+      "passion"
+    ],
+    "actions": [
+      "lingers",
+      "musician's",
+      "showcasing",
+      "focused"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera lingers on the musician's focused expression, showcasing her passion for the music.",
+    "objects": [
+      "her",
+      "expression",
+      "music",
+      "passion"
+    ],
+    "actions": [
+      "lingers",
+      "musician's",
+      "showcasing",
+      "focused"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene closes with a man in a green shirt, possibly the guitarist, looking off into the distance, perhaps lost in the performance or engaging with the audience.",
+    "objects": [
+      "guitarist",
+      "audience",
+      "man",
+      "green",
+      "lost",
+      "performance",
+      "shirt",
+      "off"
+    ],
+    "actions": [
+      "engaging",
+      "perhaps",
+      "closes",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene closes with a man in a green shirt, possibly the guitarist, looking off into the distance, perhaps lost in the performance or engaging with the audience.",
+    "objects": [
+      "guitarist",
+      "audience",
+      "man",
+      "green",
+      "lost",
+      "performance",
+      "shirt",
+      "off"
+    ],
+    "actions": [
+      "engaging",
+      "perhaps",
+      "closes",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene closes with a man in a green shirt, possibly the guitarist, looking off into the distance, perhaps lost in the performance or engaging with the audience.",
+    "objects": [
+      "guitarist",
+      "audience",
+      "man",
+      "green",
+      "lost",
+      "performance",
+      "shirt",
+      "off"
+    ],
+    "actions": [
+      "engaging",
+      "perhaps",
+      "closes",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera stays on him for a brief moment before returning to the female guitarist.",
+    "objects": [
+      "guitarist",
+      "female",
+      "him",
+      "brief",
+      "moment",
+      "before"
+    ],
+    "actions": [
+      "returning",
+      "stays"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera stays on him for a brief moment before returning to the female guitarist.",
+    "objects": [
+      "guitarist",
+      "female",
+      "him",
+      "brief",
+      "moment",
+      "before"
+    ],
+    "actions": [
+      "returning",
+      "stays"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera stays on him for a brief moment before returning to the female guitarist.",
+    "objects": [
+      "guitarist",
+      "female",
+      "him",
+      "brief",
+      "moment",
+      "before"
+    ],
+    "actions": [
+      "returning",
+      "stays"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Overall, the video captures the energy and passion of a live musical performance, with the band members fully immersed in their craft and the audience's attention.",
+    "objects": [
+      "musical",
+      "craft",
+      "band",
+      "passion",
+      "energy",
+      "performance",
+      "attention",
+      "live"
+    ],
+    "actions": [
+      "immersed",
+      "members",
+      "audience's"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Overall, the video captures the energy and passion of a live musical performance, with the band members fully immersed in their craft and the audience's attention.",
+    "objects": [
+      "musical",
+      "craft",
+      "band",
+      "passion",
+      "energy",
+      "performance",
+      "attention",
+      "live"
+    ],
+    "actions": [
+      "immersed",
+      "members",
+      "audience's"
+    ],
+    "segment_id": 10
+  }
+]

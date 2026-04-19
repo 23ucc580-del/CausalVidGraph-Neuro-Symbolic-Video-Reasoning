@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see two men engaged in a lively video game session in a living room setting.",
+    "objects": [
+      "game",
+      "room",
+      "men",
+      "lively",
+      "session",
+      "two",
+      "see"
+    ],
+    "actions": [
+      "living",
+      "setting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see two men engaged in a lively video game session in a living room setting.",
+    "objects": [
+      "game",
+      "room",
+      "men",
+      "lively",
+      "session",
+      "two",
+      "see"
+    ],
+    "actions": [
+      "living",
+      "setting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see two men engaged in a lively video game session in a living room setting.",
+    "objects": [
+      "game",
+      "room",
+      "men",
+      "lively",
+      "session",
+      "two",
+      "see"
+    ],
+    "actions": [
+      "living",
+      "setting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see two men engaged in a lively video game session in a living room setting.",
+    "objects": [
+      "game",
+      "room",
+      "men",
+      "lively",
+      "session",
+      "two",
+      "see"
+    ],
+    "actions": [
+      "living",
+      "setting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man on the left is wearing a blue hoodie and holding a game controller, while the man on the right is dressed in a black t-shirt and holding a similar controller.",
+    "objects": [
+      "game",
+      "controller",
+      "blue",
+      "man",
+      "while",
+      "similar",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man on the left is wearing a blue hoodie and holding a game controller, while the man on the right is dressed in a black t-shirt and holding a similar controller.",
+    "objects": [
+      "game",
+      "controller",
+      "blue",
+      "man",
+      "while",
+      "similar",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man on the left is wearing a blue hoodie and holding a game controller, while the man on the right is dressed in a black t-shirt and holding a similar controller.",
+    "objects": [
+      "game",
+      "controller",
+      "blue",
+      "man",
+      "while",
+      "similar",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man on the left is wearing a blue hoodie and holding a game controller, while the man on the right is dressed in a black t-shirt and holding a similar controller.",
+    "objects": [
+      "game",
+      "controller",
+      "blue",
+      "man",
+      "while",
+      "similar",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are both laughing and enjoying themselves as they play, with the man on the right making a funny face towards the camera.",
+    "objects": [
+      "both",
+      "man",
+      "funny",
+      "play",
+      "face",
+      "they"
+    ],
+    "actions": [
+      "laughing",
+      "towards",
+      "enjoying",
+      "themselves"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are both laughing and enjoying themselves as they play, with the man on the right making a funny face towards the camera.",
+    "objects": [
+      "both",
+      "man",
+      "funny",
+      "play",
+      "face",
+      "they"
+    ],
+    "actions": [
+      "laughing",
+      "towards",
+      "enjoying",
+      "themselves"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are both laughing and enjoying themselves as they play, with the man on the right making a funny face towards the camera.",
+    "objects": [
+      "both",
+      "man",
+      "funny",
+      "play",
+      "face",
+      "they"
+    ],
+    "actions": [
+      "laughing",
+      "towards",
+      "enjoying",
+      "themselves"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are both laughing and enjoying themselves as they play, with the man on the right making a funny face towards the camera.",
+    "objects": [
+      "both",
+      "man",
+      "funny",
+      "play",
+      "face",
+      "they"
+    ],
+    "actions": [
+      "laughing",
+      "towards",
+      "enjoying",
+      "themselves"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "In the background, there's a white couch with a dog lying on it and a woman sitting on it, watching the men play.",
+    "objects": [
+      "white",
+      "couch",
+      "men",
+      "dog",
+      "play",
+      "woman"
+    ],
+    "actions": [
+      "there's",
+      "sitting",
+      "lying",
+      "watching"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "In the background, there's a white couch with a dog lying on it and a woman sitting on it, watching the men play.",
+    "objects": [
+      "white",
+      "couch",
+      "men",
+      "dog",
+      "play",
+      "woman"
+    ],
+    "actions": [
+      "there's",
+      "sitting",
+      "lying",
+      "watching"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "In the background, there's a white couch with a dog lying on it and a woman sitting on it, watching the men play.",
+    "objects": [
+      "white",
+      "couch",
+      "men",
+      "dog",
+      "play",
+      "woman"
+    ],
+    "actions": [
+      "there's",
+      "sitting",
+      "lying",
+      "watching"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, there's a white couch with a dog lying on it and a woman sitting on it, watching the men play.",
+    "objects": [
+      "white",
+      "couch",
+      "men",
+      "dog",
+      "play",
+      "woman"
+    ],
+    "actions": [
+      "there's",
+      "sitting",
+      "lying",
+      "watching"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A dog is also present in the room, lying on the floor near the couch.",
+    "objects": [
+      "couch",
+      "room",
+      "present",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A dog is also present in the room, lying on the floor near the couch.",
+    "objects": [
+      "couch",
+      "room",
+      "present",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A dog is also present in the room, lying on the floor near the couch.",
+    "objects": [
+      "couch",
+      "room",
+      "present",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A dog is also present in the room, lying on the floor near the couch.",
+    "objects": [
+      "couch",
+      "room",
+      "present",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A white cat is seen walking around on the floor.",
+    "objects": [
+      "white",
+      "floor",
+      "around",
+      "cat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A white cat is seen walking around on the floor.",
+    "objects": [
+      "white",
+      "floor",
+      "around",
+      "cat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A white cat is seen walking around on the floor.",
+    "objects": [
+      "white",
+      "floor",
+      "around",
+      "cat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A white cat is seen walking around on the floor.",
+    "objects": [
+      "white",
+      "floor",
+      "around",
+      "cat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The room features a wooden floor and a chandelier hanging from the ceiling.",
+    "objects": [
+      "room",
+      "wooden",
+      "chandelier",
+      "from",
+      "floor"
+    ],
+    "actions": [
+      "hanging",
+      "ceiling",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The room features a wooden floor and a chandelier hanging from the ceiling.",
+    "objects": [
+      "room",
+      "wooden",
+      "chandelier",
+      "from",
+      "floor"
+    ],
+    "actions": [
+      "hanging",
+      "ceiling",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The room features a wooden floor and a chandelier hanging from the ceiling.",
+    "objects": [
+      "room",
+      "wooden",
+      "chandelier",
+      "from",
+      "floor"
+    ],
+    "actions": [
+      "hanging",
+      "ceiling",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The room features a wooden floor and a chandelier hanging from the ceiling.",
+    "objects": [
+      "room",
+      "wooden",
+      "chandelier",
+      "from",
+      "floor"
+    ],
+    "actions": [
+      "hanging",
+      "ceiling",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The men are standing in front of a mirror, and the room is well-lit.",
+    "objects": [
+      "men",
+      "room",
+      "mirror"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The men are standing in front of a mirror, and the room is well-lit.",
+    "objects": [
+      "men",
+      "room",
+      "mirror"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The men are standing in front of a mirror, and the room is well-lit.",
+    "objects": [
+      "men",
+      "room",
+      "mirror"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The men are standing in front of a mirror, and the room is well-lit.",
+    "objects": [
+      "men",
+      "room",
+      "mirror"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 7
+  }
+]

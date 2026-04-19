@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This is a video of a live music performance, specifically a band playing on stage.",
+    "objects": [
+      "band",
+      "stage",
+      "performance",
+      "this",
+      "live",
+      "music",
+      "specifically"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This is a video of a live music performance, specifically a band playing on stage.",
+    "objects": [
+      "band",
+      "stage",
+      "performance",
+      "this",
+      "live",
+      "music",
+      "specifically"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This is a video of a live music performance, specifically a band playing on stage.",
+    "objects": [
+      "band",
+      "stage",
+      "performance",
+      "this",
+      "live",
+      "music",
+      "specifically"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "This is a video of a live music performance, specifically a band playing on stage.",
+    "objects": [
+      "band",
+      "stage",
+      "performance",
+      "this",
+      "live",
+      "music",
+      "specifically"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The camera focuses on the lead singer, who is standing up and singing into a microphone while playing a guitar.",
+    "objects": [
+      "guitar",
+      "while",
+      "microphone",
+      "singer",
+      "into",
+      "who",
+      "lead"
+    ],
+    "actions": [
+      "singing",
+      "focuses",
+      "standing",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera focuses on the lead singer, who is standing up and singing into a microphone while playing a guitar.",
+    "objects": [
+      "guitar",
+      "while",
+      "microphone",
+      "singer",
+      "into",
+      "who",
+      "lead"
+    ],
+    "actions": [
+      "singing",
+      "focuses",
+      "standing",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera focuses on the lead singer, who is standing up and singing into a microphone while playing a guitar.",
+    "objects": [
+      "guitar",
+      "while",
+      "microphone",
+      "singer",
+      "into",
+      "who",
+      "lead"
+    ],
+    "actions": [
+      "singing",
+      "focuses",
+      "standing",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera focuses on the lead singer, who is standing up and singing into a microphone while playing a guitar.",
+    "objects": [
+      "guitar",
+      "while",
+      "microphone",
+      "singer",
+      "into",
+      "who",
+      "lead"
+    ],
+    "actions": [
+      "singing",
+      "focuses",
+      "standing",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is wearing a white shirt and appears to be in his mid-twenties.",
+    "objects": [
+      "white",
+      "his",
+      "shirt"
+    ],
+    "actions": [
+      "mid-twenties",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is wearing a white shirt and appears to be in his mid-twenties.",
+    "objects": [
+      "white",
+      "his",
+      "shirt"
+    ],
+    "actions": [
+      "mid-twenties",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is wearing a white shirt and appears to be in his mid-twenties.",
+    "objects": [
+      "white",
+      "his",
+      "shirt"
+    ],
+    "actions": [
+      "mid-twenties",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is wearing a white shirt and appears to be in his mid-twenties.",
+    "objects": [
+      "white",
+      "his",
+      "shirt"
+    ],
+    "actions": [
+      "mid-twenties",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Behind him, there is a drummer seated on a drum set, playing the drums.",
+    "objects": [
+      "him",
+      "set",
+      "there",
+      "behind",
+      "drummer",
+      "drum"
+    ],
+    "actions": [
+      "seated",
+      "playing",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Behind him, there is a drummer seated on a drum set, playing the drums.",
+    "objects": [
+      "him",
+      "set",
+      "there",
+      "behind",
+      "drummer",
+      "drum"
+    ],
+    "actions": [
+      "seated",
+      "playing",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Behind him, there is a drummer seated on a drum set, playing the drums.",
+    "objects": [
+      "him",
+      "set",
+      "there",
+      "behind",
+      "drummer",
+      "drum"
+    ],
+    "actions": [
+      "seated",
+      "playing",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Behind him, there is a drummer seated on a drum set, playing the drums.",
+    "objects": [
+      "him",
+      "set",
+      "there",
+      "behind",
+      "drummer",
+      "drum"
+    ],
+    "actions": [
+      "seated",
+      "playing",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "To the right of the singer, there is a woman singing into her own microphone, wearing a black top.",
+    "objects": [
+      "top",
+      "her",
+      "microphone",
+      "black",
+      "singer",
+      "there",
+      "own",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "To the right of the singer, there is a woman singing into her own microphone, wearing a black top.",
+    "objects": [
+      "top",
+      "her",
+      "microphone",
+      "black",
+      "singer",
+      "there",
+      "own",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "To the right of the singer, there is a woman singing into her own microphone, wearing a black top.",
+    "objects": [
+      "top",
+      "her",
+      "microphone",
+      "black",
+      "singer",
+      "there",
+      "own",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "To the right of the singer, there is a woman singing into her own microphone, wearing a black top.",
+    "objects": [
+      "top",
+      "her",
+      "microphone",
+      "black",
+      "singer",
+      "there",
+      "own",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "On the left, another man is also singing into his microphone while playing a guitar.",
+    "objects": [
+      "guitar",
+      "man",
+      "while",
+      "microphone",
+      "his",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "On the left, another man is also singing into his microphone while playing a guitar.",
+    "objects": [
+      "guitar",
+      "man",
+      "while",
+      "microphone",
+      "his",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "On the left, another man is also singing into his microphone while playing a guitar.",
+    "objects": [
+      "guitar",
+      "man",
+      "while",
+      "microphone",
+      "his",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "On the left, another man is also singing into his microphone while playing a guitar.",
+    "objects": [
+      "guitar",
+      "man",
+      "while",
+      "microphone",
+      "his",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The background features a stage with a black and white logo that reads \"Fellas\".",
+    "objects": [
+      "logo",
+      "white",
+      "stage",
+      "that",
+      "black"
+    ],
+    "actions": [
+      "reads",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The background features a stage with a black and white logo that reads \"Fellas\".",
+    "objects": [
+      "logo",
+      "white",
+      "stage",
+      "that",
+      "black"
+    ],
+    "actions": [
+      "reads",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The background features a stage with a black and white logo that reads \"Fellas\".",
+    "objects": [
+      "logo",
+      "white",
+      "stage",
+      "that",
+      "black"
+    ],
+    "actions": [
+      "reads",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The background features a stage with a black and white logo that reads \"Fellas\".",
+    "objects": [
+      "logo",
+      "white",
+      "stage",
+      "that",
+      "black"
+    ],
+    "actions": [
+      "reads",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The lighting is dim, and the audience is not visible.",
+    "objects": [
+      "not",
+      "dim",
+      "audience"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The lighting is dim, and the audience is not visible.",
+    "objects": [
+      "not",
+      "dim",
+      "audience"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The lighting is dim, and the audience is not visible.",
+    "objects": [
+      "not",
+      "dim",
+      "audience"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The lighting is dim, and the audience is not visible.",
+    "objects": [
+      "not",
+      "dim",
+      "audience"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 7
+  }
+]

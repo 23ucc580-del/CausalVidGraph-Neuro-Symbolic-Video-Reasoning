@@ -1,0 +1,547 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people working on a construction site near a small stream.",
+    "objects": [
+      "people",
+      "small",
+      "see",
+      "construction",
+      "stream",
+      "site",
+      "group"
+    ],
+    "actions": [
+      "working"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people working on a construction site near a small stream.",
+    "objects": [
+      "people",
+      "small",
+      "see",
+      "construction",
+      "stream",
+      "site",
+      "group"
+    ],
+    "actions": [
+      "working"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of people working on a construction site near a small stream.",
+    "objects": [
+      "people",
+      "small",
+      "see",
+      "construction",
+      "stream",
+      "site",
+      "group"
+    ],
+    "actions": [
+      "working"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a group of people working on a construction site near a small stream.",
+    "objects": [
+      "people",
+      "small",
+      "see",
+      "construction",
+      "stream",
+      "site",
+      "group"
+    ],
+    "actions": [
+      "working"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a group of people working on a construction site near a small stream.",
+    "objects": [
+      "people",
+      "small",
+      "see",
+      "construction",
+      "stream",
+      "site",
+      "group"
+    ],
+    "actions": [
+      "working"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "A man is standing on a wooden bridge with a metal detour sign, holding a metal detour sign.",
+    "objects": [
+      "bridge",
+      "metal",
+      "wooden",
+      "sign",
+      "man",
+      "detour"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man is standing on a wooden bridge with a metal detour sign, holding a metal detour sign.",
+    "objects": [
+      "bridge",
+      "metal",
+      "wooden",
+      "sign",
+      "man",
+      "detour"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A man is standing on a wooden bridge with a metal detour sign, holding a metal detour sign.",
+    "objects": [
+      "bridge",
+      "metal",
+      "wooden",
+      "sign",
+      "man",
+      "detour"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A man is standing on a wooden bridge with a metal detour sign, holding a metal detour sign.",
+    "objects": [
+      "bridge",
+      "metal",
+      "wooden",
+      "sign",
+      "man",
+      "detour"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "A man is standing on a wooden bridge with a metal detour sign, holding a metal detour sign.",
+    "objects": [
+      "bridge",
+      "metal",
+      "wooden",
+      "sign",
+      "man",
+      "detour"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "Another man is standing on a green tractor, operating a metal detour sign.",
+    "objects": [
+      "green",
+      "tractor",
+      "metal",
+      "sign",
+      "man",
+      "detour"
+    ],
+    "actions": [
+      "standing",
+      "operating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another man is standing on a green tractor, operating a metal detour sign.",
+    "objects": [
+      "green",
+      "tractor",
+      "metal",
+      "sign",
+      "man",
+      "detour"
+    ],
+    "actions": [
+      "standing",
+      "operating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man is standing on a green tractor, operating a metal detour sign.",
+    "objects": [
+      "green",
+      "tractor",
+      "metal",
+      "sign",
+      "man",
+      "detour"
+    ],
+    "actions": [
+      "standing",
+      "operating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man is standing on a green tractor, operating a metal detour sign.",
+    "objects": [
+      "green",
+      "tractor",
+      "metal",
+      "sign",
+      "man",
+      "detour"
+    ],
+    "actions": [
+      "standing",
+      "operating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "Another man is standing on a green tractor, operating a metal detour sign.",
+    "objects": [
+      "green",
+      "tractor",
+      "metal",
+      "sign",
+      "man",
+      "detour"
+    ],
+    "actions": [
+      "standing",
+      "operating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "A third man is standing on a wooden plank, wearing a green shirt and a blue hoodie, and he is also holding a metal detour sign.",
+    "objects": [
+      "detour",
+      "blue",
+      "plank",
+      "green",
+      "shirt",
+      "wooden",
+      "third",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A third man is standing on a wooden plank, wearing a green shirt and a blue hoodie, and he is also holding a metal detour sign.",
+    "objects": [
+      "detour",
+      "blue",
+      "plank",
+      "green",
+      "shirt",
+      "wooden",
+      "third",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "A third man is standing on a wooden plank, wearing a green shirt and a blue hoodie, and he is also holding a metal detour sign.",
+    "objects": [
+      "detour",
+      "blue",
+      "plank",
+      "green",
+      "shirt",
+      "wooden",
+      "third",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "A third man is standing on a wooden plank, wearing a green shirt and a blue hoodie, and he is also holding a metal detour sign.",
+    "objects": [
+      "detour",
+      "blue",
+      "plank",
+      "green",
+      "shirt",
+      "wooden",
+      "third",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "A third man is standing on a wooden plank, wearing a green shirt and a blue hoodie, and he is also holding a metal detour sign.",
+    "objects": [
+      "detour",
+      "blue",
+      "plank",
+      "green",
+      "shirt",
+      "wooden",
+      "third",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a green tractor on the right side of the video, and a blue car is visible in the background.",
+    "objects": [
+      "there",
+      "blue",
+      "green",
+      "tractor",
+      "car",
+      "side"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a green tractor on the right side of the video, and a blue car is visible in the background.",
+    "objects": [
+      "there",
+      "blue",
+      "green",
+      "tractor",
+      "car",
+      "side"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "There is a green tractor on the right side of the video, and a blue car is visible in the background.",
+    "objects": [
+      "there",
+      "blue",
+      "green",
+      "tractor",
+      "car",
+      "side"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "There is a green tractor on the right side of the video, and a blue car is visible in the background.",
+    "objects": [
+      "there",
+      "blue",
+      "green",
+      "tractor",
+      "car",
+      "side"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "There is a green tractor on the right side of the video, and a blue car is visible in the background.",
+    "objects": [
+      "there",
+      "blue",
+      "green",
+      "tractor",
+      "car",
+      "side"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "One man is sitting on a tractor and another is walking on a wooden plank.",
+    "objects": [
+      "one",
+      "plank",
+      "tractor",
+      "wooden",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "One man is sitting on a tractor and another is walking on a wooden plank.",
+    "objects": [
+      "one",
+      "plank",
+      "tractor",
+      "wooden",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "One man is sitting on a tractor and another is walking on a wooden plank.",
+    "objects": [
+      "one",
+      "plank",
+      "tractor",
+      "wooden",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "One man is sitting on a tractor and another is walking on a wooden plank.",
+    "objects": [
+      "one",
+      "plank",
+      "tractor",
+      "wooden",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "One man is sitting on a tractor and another is walking on a wooden plank.",
+    "objects": [
+      "one",
+      "plank",
+      "tractor",
+      "wooden",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is quite busy with the presence of multiple people and vehicles.",
+    "objects": [
+      "busy",
+      "people",
+      "quite",
+      "multiple",
+      "presence"
+    ],
+    "actions": [
+      "vehicles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is quite busy with the presence of multiple people and vehicles.",
+    "objects": [
+      "busy",
+      "people",
+      "quite",
+      "multiple",
+      "presence"
+    ],
+    "actions": [
+      "vehicles"
+    ],
+    "segment_id": 6
+  }
+]

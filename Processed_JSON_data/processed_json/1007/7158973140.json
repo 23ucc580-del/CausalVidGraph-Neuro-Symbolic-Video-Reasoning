@@ -1,0 +1,510 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a baby is lying on the floor of a room.",
+    "objects": [
+      "floor",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a baby is lying on the floor of a room.",
+    "objects": [
+      "floor",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a baby is lying on the floor of a room.",
+    "objects": [
+      "floor",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a baby is lying on the floor of a room.",
+    "objects": [
+      "floor",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The baby is wearing a pink onesie and holding a red toy in its mouth.",
+    "objects": [
+      "its",
+      "mouth",
+      "pink",
+      "toy",
+      "baby",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby is wearing a pink onesie and holding a red toy in its mouth.",
+    "objects": [
+      "its",
+      "mouth",
+      "pink",
+      "toy",
+      "baby",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby is wearing a pink onesie and holding a red toy in its mouth.",
+    "objects": [
+      "its",
+      "mouth",
+      "pink",
+      "toy",
+      "baby",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby is wearing a pink onesie and holding a red toy in its mouth.",
+    "objects": [
+      "its",
+      "mouth",
+      "pink",
+      "toy",
+      "baby",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The toy appears to be a rubbery, possibly a teething toy.",
+    "objects": [
+      "rubbery",
+      "possibly",
+      "toy"
+    ],
+    "actions": [
+      "teething"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The toy appears to be a rubbery, possibly a teething toy.",
+    "objects": [
+      "rubbery",
+      "possibly",
+      "toy"
+    ],
+    "actions": [
+      "teething"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The toy appears to be a rubbery, possibly a teething toy.",
+    "objects": [
+      "rubbery",
+      "possibly",
+      "toy"
+    ],
+    "actions": [
+      "teething"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The toy appears to be a rubbery, possibly a teething toy.",
+    "objects": [
+      "rubbery",
+      "possibly",
+      "toy"
+    ],
+    "actions": [
+      "teething"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby's eyes are open and it is looking at the camera, seemingly engaging with the viewer.",
+    "objects": [
+      "open",
+      "viewer",
+      "seemingly",
+      "eyes"
+    ],
+    "actions": [
+      "looking",
+      "engaging",
+      "baby's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby's eyes are open and it is looking at the camera, seemingly engaging with the viewer.",
+    "objects": [
+      "open",
+      "viewer",
+      "seemingly",
+      "eyes"
+    ],
+    "actions": [
+      "looking",
+      "engaging",
+      "baby's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby's eyes are open and it is looking at the camera, seemingly engaging with the viewer.",
+    "objects": [
+      "open",
+      "viewer",
+      "seemingly",
+      "eyes"
+    ],
+    "actions": [
+      "looking",
+      "engaging",
+      "baby's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby's eyes are open and it is looking at the camera, seemingly engaging with the viewer.",
+    "objects": [
+      "open",
+      "viewer",
+      "seemingly",
+      "eyes"
+    ],
+    "actions": [
+      "looking",
+      "engaging",
+      "baby's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby's hand is on the floor, and the room has a carpeted floor.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "hand"
+    ],
+    "actions": [
+      "carpeted",
+      "baby's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby's hand is on the floor, and the room has a carpeted floor.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "hand"
+    ],
+    "actions": [
+      "carpeted",
+      "baby's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The baby's hand is on the floor, and the room has a carpeted floor.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "hand"
+    ],
+    "actions": [
+      "carpeted",
+      "baby's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The baby's hand is on the floor, and the room has a carpeted floor.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "hand"
+    ],
+    "actions": [
+      "carpeted",
+      "baby's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The baby's head is turned to the side, and the baby seems to be focused on the toy, perhaps playing with it or chewing on it.",
+    "objects": [
+      "side",
+      "baby",
+      "head",
+      "toy"
+    ],
+    "actions": [
+      "seems",
+      "focused",
+      "chewing",
+      "turned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The baby's head is turned to the side, and the baby seems to be focused on the toy, perhaps playing with it or chewing on it.",
+    "objects": [
+      "side",
+      "baby",
+      "head",
+      "toy"
+    ],
+    "actions": [
+      "seems",
+      "focused",
+      "chewing",
+      "turned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The baby's head is turned to the side, and the baby seems to be focused on the toy, perhaps playing with it or chewing on it.",
+    "objects": [
+      "side",
+      "baby",
+      "head",
+      "toy"
+    ],
+    "actions": [
+      "seems",
+      "focused",
+      "chewing",
+      "turned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby's head is turned to the side, and the baby seems to be focused on the toy, perhaps playing with it or chewing on it.",
+    "objects": [
+      "side",
+      "baby",
+      "head",
+      "toy"
+    ],
+    "actions": [
+      "seems",
+      "focused",
+      "chewing",
+      "turned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene captures a simple, everyday moment of a baby's life.",
+    "objects": [
+      "everyday",
+      "simple",
+      "life",
+      "moment"
+    ],
+    "actions": [
+      "baby's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene captures a simple, everyday moment of a baby's life.",
+    "objects": [
+      "everyday",
+      "simple",
+      "life",
+      "moment"
+    ],
+    "actions": [
+      "baby's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene captures a simple, everyday moment of a baby's life.",
+    "objects": [
+      "everyday",
+      "simple",
+      "life",
+      "moment"
+    ],
+    "actions": [
+      "baby's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene captures a simple, everyday moment of a baby's life.",
+    "objects": [
+      "everyday",
+      "simple",
+      "life",
+      "moment"
+    ],
+    "actions": [
+      "baby's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The pink onesie adds a pop of color to the otherwise neutral-toned room, and the red toy contrasts with the baby's pink skin.",
+    "objects": [
+      "pink",
+      "skin",
+      "pop",
+      "color",
+      "otherwise",
+      "room",
+      "toy",
+      "onesie"
+    ],
+    "actions": [
+      "baby's",
+      "contrasts",
+      "neutral-toned",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The pink onesie adds a pop of color to the otherwise neutral-toned room, and the red toy contrasts with the baby's pink skin.",
+    "objects": [
+      "pink",
+      "skin",
+      "pop",
+      "color",
+      "otherwise",
+      "room",
+      "toy",
+      "onesie"
+    ],
+    "actions": [
+      "baby's",
+      "contrasts",
+      "neutral-toned",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The pink onesie adds a pop of color to the otherwise neutral-toned room, and the red toy contrasts with the baby's pink skin.",
+    "objects": [
+      "pink",
+      "skin",
+      "pop",
+      "color",
+      "otherwise",
+      "room",
+      "toy",
+      "onesie"
+    ],
+    "actions": [
+      "baby's",
+      "contrasts",
+      "neutral-toned",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The pink onesie adds a pop of color to the otherwise neutral-toned room, and the red toy contrasts with the baby's pink skin.",
+    "objects": [
+      "pink",
+      "skin",
+      "pop",
+      "color",
+      "otherwise",
+      "room",
+      "toy",
+      "onesie"
+    ],
+    "actions": [
+      "baby's",
+      "contrasts",
+      "neutral-toned",
+      "red"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a lively scene at a riverside park on a sunny day.",
+    "objects": [
+      "riverside",
+      "lively",
+      "park",
+      "day",
+      "sunny",
+      "this"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a lively scene at a riverside park on a sunny day.",
+    "objects": [
+      "riverside",
+      "lively",
+      "park",
+      "day",
+      "sunny",
+      "this"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The park is bustling with activity as numerous people are enjoying the cool water, some standing, others wading, and a few sitting on the dock.",
+    "objects": [
+      "activity",
+      "people",
+      "some",
+      "dock",
+      "park",
+      "cool",
+      "few",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "others",
+      "sitting",
+      "numerous"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The park is bustling with activity as numerous people are enjoying the cool water, some standing, others wading, and a few sitting on the dock.",
+    "objects": [
+      "activity",
+      "people",
+      "some",
+      "dock",
+      "park",
+      "cool",
+      "few",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "others",
+      "sitting",
+      "numerous"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The park is a popular spot with various amenities, including benches and a playground for children.",
+    "objects": [
+      "popular",
+      "spot",
+      "children",
+      "park",
+      "playground"
+    ],
+    "actions": [
+      "benches",
+      "amenities"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The park is a popular spot with various amenities, including benches and a playground for children.",
+    "objects": [
+      "popular",
+      "spot",
+      "children",
+      "park",
+      "playground"
+    ],
+    "actions": [
+      "benches",
+      "amenities"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene opens with a man in a white shirt and black pants standing near the water, appearing to be observing the scene.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "opens",
+      "appearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene opens with a man in a white shirt and black pants standing near the water, appearing to be observing the scene.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "opens",
+      "appearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "As he watches, a person in a red shirt walks by, holding a water bottle.",
+    "objects": [
+      "water",
+      "bottle",
+      "shirt"
+    ],
+    "actions": [
+      "walks",
+      "red",
+      "holding",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "As he watches, a person in a red shirt walks by, holding a water bottle.",
+    "objects": [
+      "water",
+      "bottle",
+      "shirt"
+    ],
+    "actions": [
+      "walks",
+      "red",
+      "holding",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The water is a light blue-green color, indicating it's a cool day.",
+    "objects": [
+      "color",
+      "light",
+      "day",
+      "cool",
+      "water"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The water is a light blue-green color, indicating it's a cool day.",
+    "objects": [
+      "color",
+      "light",
+      "day",
+      "cool",
+      "water"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Several people are wading in the water, some holding bottles.",
+    "objects": [
+      "some",
+      "people",
+      "water",
+      "several"
+    ],
+    "actions": [
+      "holding",
+      "bottles",
+      "wading"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Several people are wading in the water, some holding bottles.",
+    "objects": [
+      "some",
+      "people",
+      "water",
+      "several"
+    ],
+    "actions": [
+      "holding",
+      "bottles",
+      "wading"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the white shirt is seen walking on the dock, and a woman in a black dress is seen standing on the dock.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "dock",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the white shirt is seen walking on the dock, and a woman in a black dress is seen standing on the dock.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "dock",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The dock is a popular spot with a railing and a bench.",
+    "objects": [
+      "bench",
+      "popular",
+      "dock",
+      "spot"
+    ],
+    "actions": [
+      "railing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The dock is a popular spot with a railing and a bench.",
+    "objects": [
+      "bench",
+      "popular",
+      "dock",
+      "spot"
+    ],
+    "actions": [
+      "railing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene then shifts to a man in a blue hoodie standing on the dock, and a woman in a white shirt is sitting on the dock.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "dock",
+      "hoodie",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene then shifts to a man in a blue hoodie standing on the dock, and a woman in a white shirt is sitting on the dock.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "dock",
+      "hoodie",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a man in a red shirt standing on the dock with a bottle, and a man in a black hat is standing on the dock.",
+    "objects": [
+      "there",
+      "black",
+      "bottle",
+      "shirt",
+      "dock",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a man in a red shirt standing on the dock with a bottle, and a man in a black hat is standing on the dock.",
+    "objects": [
+      "there",
+      "black",
+      "bottle",
+      "shirt",
+      "dock",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "In the foreground, there are two people wading in the water, one holding a bottle and the other wearing a white shirt.",
+    "objects": [
+      "one",
+      "there",
+      "people",
+      "other",
+      "two",
+      "white",
+      "bottle",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "wading"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "In the foreground, there are two people wading in the water, one holding a bottle and the other wearing a white shirt.",
+    "objects": [
+      "one",
+      "there",
+      "people",
+      "other",
+      "two",
+      "white",
+      "bottle",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "wading"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "There is a man in a white shirt standing on the dock and a woman in a white shirt sitting on the dock.",
+    "objects": [
+      "there",
+      "white",
+      "woman",
+      "shirt",
+      "dock",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "There is a man in a white shirt standing on the dock and a woman in a white shirt sitting on the dock.",
+    "objects": [
+      "there",
+      "white",
+      "woman",
+      "shirt",
+      "dock",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The dock is a popular spot with a railing and a bench.",
+    "objects": [
+      "bench",
+      "popular",
+      "dock",
+      "spot"
+    ],
+    "actions": [
+      "railing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The dock is a popular spot with a railing and a bench.",
+    "objects": [
+      "bench",
+      "popular",
+      "dock",
+      "spot"
+    ],
+    "actions": [
+      "railing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene changes to a man in a white shirt standing on the dock and a man in a black hat walking on the dock.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "dock",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "changes",
+      "walking",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene changes to a man in a white shirt standing on the dock and a man in a black hat walking on the dock.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "dock",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "changes",
+      "walking",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The water is a light blue-green color.",
+    "objects": [
+      "color",
+      "light",
+      "water"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The water is a light blue-green color.",
+    "objects": [
+      "color",
+      "light",
+      "water"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  }
+]

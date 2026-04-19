@@ -1,0 +1,557 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people interacting with a donkey in an outdoor setting.",
+    "objects": [
+      "people",
+      "see",
+      "outdoor",
+      "this",
+      "donkey",
+      "group"
+    ],
+    "actions": [
+      "interacting",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people interacting with a donkey in an outdoor setting.",
+    "objects": [
+      "people",
+      "see",
+      "outdoor",
+      "this",
+      "donkey",
+      "group"
+    ],
+    "actions": [
+      "interacting",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people interacting with a donkey in an outdoor setting.",
+    "objects": [
+      "people",
+      "see",
+      "outdoor",
+      "this",
+      "donkey",
+      "group"
+    ],
+    "actions": [
+      "interacting",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "At the beginning of the video, a man wearing a blue hoodie and a white shirt is petting the donkey.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "donkey"
+    ],
+    "actions": [
+      "wearing",
+      "petting",
+      "beginning"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "At the beginning of the video, a man wearing a blue hoodie and a white shirt is petting the donkey.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "donkey"
+    ],
+    "actions": [
+      "wearing",
+      "petting",
+      "beginning"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "At the beginning of the video, a man wearing a blue hoodie and a white shirt is petting the donkey.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "donkey"
+    ],
+    "actions": [
+      "wearing",
+      "petting",
+      "beginning"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Another man wearing a white shirt and blue jeans is standing next to the donkey.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "man",
+      "donkey"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "Another man wearing a white shirt and blue jeans is standing next to the donkey.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "man",
+      "donkey"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "Another man wearing a white shirt and blue jeans is standing next to the donkey.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "man",
+      "donkey"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The donkey seems to be enjoying the attention, and the man in the blue hoodie is smiling as he pets it.",
+    "objects": [
+      "attention",
+      "blue",
+      "pets",
+      "hoodie",
+      "man",
+      "donkey"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The donkey seems to be enjoying the attention, and the man in the blue hoodie is smiling as he pets it.",
+    "objects": [
+      "attention",
+      "blue",
+      "pets",
+      "hoodie",
+      "man",
+      "donkey"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The donkey seems to be enjoying the attention, and the man in the blue hoodie is smiling as he pets it.",
+    "objects": [
+      "attention",
+      "blue",
+      "pets",
+      "hoodie",
+      "man",
+      "donkey"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The donkey is wearing a silver harness.",
+    "objects": [
+      "silver",
+      "donkey"
+    ],
+    "actions": [
+      "wearing",
+      "harness"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The donkey is wearing a silver harness.",
+    "objects": [
+      "silver",
+      "donkey"
+    ],
+    "actions": [
+      "wearing",
+      "harness"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The donkey is wearing a silver harness.",
+    "objects": [
+      "silver",
+      "donkey"
+    ],
+    "actions": [
+      "wearing",
+      "harness"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The scene is peaceful and serene, with lush green grass and a clear blue sky in the background.",
+    "objects": [
+      "serene",
+      "blue",
+      "green",
+      "lush",
+      "peaceful",
+      "clear",
+      "grass",
+      "sky"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene is peaceful and serene, with lush green grass and a clear blue sky in the background.",
+    "objects": [
+      "serene",
+      "blue",
+      "green",
+      "lush",
+      "peaceful",
+      "clear",
+      "grass",
+      "sky"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene is peaceful and serene, with lush green grass and a clear blue sky in the background.",
+    "objects": [
+      "serene",
+      "blue",
+      "green",
+      "lush",
+      "peaceful",
+      "clear",
+      "grass",
+      "sky"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "As the video progresses, we see other people in the group also petting the donkey, with some of them smiling at the camera, enjoying the moment.",
+    "objects": [
+      "other",
+      "people",
+      "see",
+      "some",
+      "them",
+      "moment",
+      "donkey",
+      "group"
+    ],
+    "actions": [
+      "progresses",
+      "petting",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "As the video progresses, we see other people in the group also petting the donkey, with some of them smiling at the camera, enjoying the moment.",
+    "objects": [
+      "other",
+      "people",
+      "see",
+      "some",
+      "them",
+      "moment",
+      "donkey",
+      "group"
+    ],
+    "actions": [
+      "progresses",
+      "petting",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "As the video progresses, we see other people in the group also petting the donkey, with some of them smiling at the camera, enjoying the moment.",
+    "objects": [
+      "other",
+      "people",
+      "see",
+      "some",
+      "them",
+      "moment",
+      "donkey",
+      "group"
+    ],
+    "actions": [
+      "progresses",
+      "petting",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The donkey seems to be happy and relaxed, enjoying the attention it is receiving.",
+    "objects": [
+      "happy",
+      "attention",
+      "donkey"
+    ],
+    "actions": [
+      "seems",
+      "relaxed",
+      "enjoying",
+      "receiving"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The donkey seems to be happy and relaxed, enjoying the attention it is receiving.",
+    "objects": [
+      "happy",
+      "attention",
+      "donkey"
+    ],
+    "actions": [
+      "seems",
+      "relaxed",
+      "enjoying",
+      "receiving"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The donkey seems to be happy and relaxed, enjoying the attention it is receiving.",
+    "objects": [
+      "happy",
+      "attention",
+      "donkey"
+    ],
+    "actions": [
+      "seems",
+      "relaxed",
+      "enjoying",
+      "receiving"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The people continue to pet the donkey, and the camera pans around the group, showing everyone's interactions with the animal.",
+    "objects": [
+      "animal",
+      "people",
+      "pans",
+      "continue",
+      "pet",
+      "around",
+      "donkey",
+      "group"
+    ],
+    "actions": [
+      "everyone's",
+      "interactions"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The people continue to pet the donkey, and the camera pans around the group, showing everyone's interactions with the animal.",
+    "objects": [
+      "animal",
+      "people",
+      "pans",
+      "continue",
+      "pet",
+      "around",
+      "donkey",
+      "group"
+    ],
+    "actions": [
+      "everyone's",
+      "interactions"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The people continue to pet the donkey, and the camera pans around the group, showing everyone's interactions with the animal.",
+    "objects": [
+      "animal",
+      "people",
+      "pans",
+      "continue",
+      "pet",
+      "around",
+      "donkey",
+      "group"
+    ],
+    "actions": [
+      "everyone's",
+      "interactions"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The donkey remains calm and at ease throughout the video.",
+    "objects": [
+      "ease",
+      "calm",
+      "throughout",
+      "donkey"
+    ],
+    "actions": [
+      "remains"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The donkey remains calm and at ease throughout the video.",
+    "objects": [
+      "ease",
+      "calm",
+      "throughout",
+      "donkey"
+    ],
+    "actions": [
+      "remains"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The donkey remains calm and at ease throughout the video.",
+    "objects": [
+      "ease",
+      "calm",
+      "throughout",
+      "donkey"
+    ],
+    "actions": [
+      "remains"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is a pleasant interaction between humans and a friendly animal, showcasing a moment of happiness and relaxation in a beautiful setting.",
+    "objects": [
+      "animal",
+      "relaxation",
+      "pleasant",
+      "friendly",
+      "interaction",
+      "between",
+      "moment",
+      "beautiful"
+    ],
+    "actions": [
+      "showcasing",
+      "humans",
+      "setting",
+      "happiness"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is a pleasant interaction between humans and a friendly animal, showcasing a moment of happiness and relaxation in a beautiful setting.",
+    "objects": [
+      "animal",
+      "relaxation",
+      "pleasant",
+      "friendly",
+      "interaction",
+      "between",
+      "moment",
+      "beautiful"
+    ],
+    "actions": [
+      "showcasing",
+      "humans",
+      "setting",
+      "happiness"
+    ],
+    "segment_id": 10
+  }
+]

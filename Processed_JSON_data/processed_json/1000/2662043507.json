@@ -1,0 +1,574 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a scene of a rainy day with a group of people and vehicles.",
+    "objects": [
+      "day",
+      "rainy",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "vehicles",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a scene of a rainy day with a group of people and vehicles.",
+    "objects": [
+      "day",
+      "rainy",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "vehicles",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a scene of a rainy day with a group of people and vehicles.",
+    "objects": [
+      "day",
+      "rainy",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "vehicles",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a scene of a rainy day with a group of people and vehicles.",
+    "objects": [
+      "day",
+      "rainy",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "vehicles",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The sky is overcast and gray, indicating that it's likely raining.",
+    "objects": [
+      "likely",
+      "gray",
+      "sky",
+      "that",
+      "overcast"
+    ],
+    "actions": [
+      "indicating",
+      "raining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The sky is overcast and gray, indicating that it's likely raining.",
+    "objects": [
+      "likely",
+      "gray",
+      "sky",
+      "that",
+      "overcast"
+    ],
+    "actions": [
+      "indicating",
+      "raining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The sky is overcast and gray, indicating that it's likely raining.",
+    "objects": [
+      "likely",
+      "gray",
+      "sky",
+      "that",
+      "overcast"
+    ],
+    "actions": [
+      "indicating",
+      "raining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The sky is overcast and gray, indicating that it's likely raining.",
+    "objects": [
+      "likely",
+      "gray",
+      "sky",
+      "that",
+      "overcast"
+    ],
+    "actions": [
+      "indicating",
+      "raining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The people are dressed in raincoats and are seen walking in the rain, with one person wearing a blue hoodie.",
+    "objects": [
+      "people",
+      "hoodie",
+      "blue",
+      "one",
+      "rain"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "dressed",
+      "raincoats"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The people are dressed in raincoats and are seen walking in the rain, with one person wearing a blue hoodie.",
+    "objects": [
+      "people",
+      "hoodie",
+      "blue",
+      "one",
+      "rain"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "dressed",
+      "raincoats"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The people are dressed in raincoats and are seen walking in the rain, with one person wearing a blue hoodie.",
+    "objects": [
+      "people",
+      "hoodie",
+      "blue",
+      "one",
+      "rain"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "dressed",
+      "raincoats"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The people are dressed in raincoats and are seen walking in the rain, with one person wearing a blue hoodie.",
+    "objects": [
+      "people",
+      "hoodie",
+      "blue",
+      "one",
+      "rain"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "dressed",
+      "raincoats"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "There is a blue car parked in a lot, and a white truck with a red flag attached to its antenna.",
+    "objects": [
+      "lot",
+      "flag",
+      "white",
+      "car",
+      "blue",
+      "antenna",
+      "truck",
+      "its"
+    ],
+    "actions": [
+      "parked",
+      "attached",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "There is a blue car parked in a lot, and a white truck with a red flag attached to its antenna.",
+    "objects": [
+      "lot",
+      "flag",
+      "white",
+      "car",
+      "blue",
+      "antenna",
+      "truck",
+      "its"
+    ],
+    "actions": [
+      "parked",
+      "attached",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "There is a blue car parked in a lot, and a white truck with a red flag attached to its antenna.",
+    "objects": [
+      "lot",
+      "flag",
+      "white",
+      "car",
+      "blue",
+      "antenna",
+      "truck",
+      "its"
+    ],
+    "actions": [
+      "parked",
+      "attached",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "There is a blue car parked in a lot, and a white truck with a red flag attached to its antenna.",
+    "objects": [
+      "lot",
+      "flag",
+      "white",
+      "car",
+      "blue",
+      "antenna",
+      "truck",
+      "its"
+    ],
+    "actions": [
+      "parked",
+      "attached",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A white truck is driving down a wet street, with the driver wearing a blue shirt and a red scarf.",
+    "objects": [
+      "street",
+      "white",
+      "scarf",
+      "blue",
+      "driver",
+      "wet",
+      "shirt",
+      "truck"
+    ],
+    "actions": [
+      "driving",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A white truck is driving down a wet street, with the driver wearing a blue shirt and a red scarf.",
+    "objects": [
+      "street",
+      "white",
+      "scarf",
+      "blue",
+      "driver",
+      "wet",
+      "shirt",
+      "truck"
+    ],
+    "actions": [
+      "driving",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A white truck is driving down a wet street, with the driver wearing a blue shirt and a red scarf.",
+    "objects": [
+      "street",
+      "white",
+      "scarf",
+      "blue",
+      "driver",
+      "wet",
+      "shirt",
+      "truck"
+    ],
+    "actions": [
+      "driving",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A white truck is driving down a wet street, with the driver wearing a blue shirt and a red scarf.",
+    "objects": [
+      "street",
+      "white",
+      "scarf",
+      "blue",
+      "driver",
+      "wet",
+      "shirt",
+      "truck"
+    ],
+    "actions": [
+      "driving",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In addition, a person in a red shirt and blue jeans is seen walking in the rain.",
+    "objects": [
+      "addition",
+      "rain",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In addition, a person in a red shirt and blue jeans is seen walking in the rain.",
+    "objects": [
+      "addition",
+      "rain",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In addition, a person in a red shirt and blue jeans is seen walking in the rain.",
+    "objects": [
+      "addition",
+      "rain",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In addition, a person in a red shirt and blue jeans is seen walking in the rain.",
+    "objects": [
+      "addition",
+      "rain",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a red shirt and a blue jacket is standing in the rain, and there's a white truck with a black and red flag on its antenna.",
+    "objects": [
+      "black",
+      "flag",
+      "man",
+      "white",
+      "blue",
+      "antenna",
+      "shirt",
+      "jacket"
+    ],
+    "actions": [
+      "standing",
+      "there's",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a red shirt and a blue jacket is standing in the rain, and there's a white truck with a black and red flag on its antenna.",
+    "objects": [
+      "black",
+      "flag",
+      "man",
+      "white",
+      "blue",
+      "antenna",
+      "shirt",
+      "jacket"
+    ],
+    "actions": [
+      "standing",
+      "there's",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a red shirt and a blue jacket is standing in the rain, and there's a white truck with a black and red flag on its antenna.",
+    "objects": [
+      "black",
+      "flag",
+      "man",
+      "white",
+      "blue",
+      "antenna",
+      "shirt",
+      "jacket"
+    ],
+    "actions": [
+      "standing",
+      "there's",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a red shirt and a blue jacket is standing in the rain, and there's a white truck with a black and red flag on its antenna.",
+    "objects": [
+      "black",
+      "flag",
+      "man",
+      "white",
+      "blue",
+      "antenna",
+      "shirt",
+      "jacket"
+    ],
+    "actions": [
+      "standing",
+      "there's",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "Another white truck with a blue flag on its antenna is parked on a wet street.",
+    "objects": [
+      "flag",
+      "white",
+      "street",
+      "blue",
+      "antenna",
+      "wet",
+      "truck",
+      "its"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "Another white truck with a blue flag on its antenna is parked on a wet street.",
+    "objects": [
+      "flag",
+      "white",
+      "street",
+      "blue",
+      "antenna",
+      "wet",
+      "truck",
+      "its"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "Another white truck with a blue flag on its antenna is parked on a wet street.",
+    "objects": [
+      "flag",
+      "white",
+      "street",
+      "blue",
+      "antenna",
+      "wet",
+      "truck",
+      "its"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "Another white truck with a blue flag on its antenna is parked on a wet street.",
+    "objects": [
+      "flag",
+      "white",
+      "street",
+      "blue",
+      "antenna",
+      "wet",
+      "truck",
+      "its"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 7
+  }
+]

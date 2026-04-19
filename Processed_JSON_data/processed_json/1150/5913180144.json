@@ -1,0 +1,576 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene on a stage where a group of people are performing a play.",
+    "objects": [
+      "stage",
+      "people",
+      "lively",
+      "play",
+      "where",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively scene on a stage where a group of people are performing a play.",
+    "objects": [
+      "stage",
+      "people",
+      "lively",
+      "play",
+      "where",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The stage is set with a backdrop of a wooden wall and a red curtain, providing a rustic and theatrical atmosphere.",
+    "objects": [
+      "wooden",
+      "stage",
+      "theatrical",
+      "set",
+      "wall",
+      "rustic",
+      "atmosphere",
+      "curtain"
+    ],
+    "actions": [
+      "providing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The stage is set with a backdrop of a wooden wall and a red curtain, providing a rustic and theatrical atmosphere.",
+    "objects": [
+      "wooden",
+      "stage",
+      "theatrical",
+      "set",
+      "wall",
+      "rustic",
+      "atmosphere",
+      "curtain"
+    ],
+    "actions": [
+      "providing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "In the foreground, a woman stands, holding a microphone, possibly directing the actors.",
+    "objects": [
+      "microphone",
+      "woman",
+      "possibly"
+    ],
+    "actions": [
+      "directing",
+      "actors",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, a woman stands, holding a microphone, possibly directing the actors.",
+    "objects": [
+      "microphone",
+      "woman",
+      "possibly"
+    ],
+    "actions": [
+      "directing",
+      "actors",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "She is dressed in a black shirt and appears to be giving instructions to the performers.",
+    "objects": [
+      "black",
+      "she",
+      "shirt"
+    ],
+    "actions": [
+      "performers",
+      "giving",
+      "instructions",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "She is dressed in a black shirt and appears to be giving instructions to the performers.",
+    "objects": [
+      "black",
+      "she",
+      "shirt"
+    ],
+    "actions": [
+      "performers",
+      "giving",
+      "instructions",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "Behind her, a man is seated on the stage, holding a wooden chair, seemingly waiting for his cue to join the performance.",
+    "objects": [
+      "cue",
+      "wooden",
+      "stage",
+      "her",
+      "man",
+      "performance",
+      "his",
+      "behind"
+    ],
+    "actions": [
+      "seated",
+      "waiting",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "Behind her, a man is seated on the stage, holding a wooden chair, seemingly waiting for his cue to join the performance.",
+    "objects": [
+      "cue",
+      "wooden",
+      "stage",
+      "her",
+      "man",
+      "performance",
+      "his",
+      "behind"
+    ],
+    "actions": [
+      "seated",
+      "waiting",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "In the middle ground, a man is standing, wearing a gray suit and holding a microphone, possibly addressing the audience or another performer.",
+    "objects": [
+      "performer",
+      "ground",
+      "middle",
+      "gray",
+      "suit",
+      "man",
+      "audience",
+      "microphone"
+    ],
+    "actions": [
+      "addressing",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "In the middle ground, a man is standing, wearing a gray suit and holding a microphone, possibly addressing the audience or another performer.",
+    "objects": [
+      "performer",
+      "ground",
+      "middle",
+      "gray",
+      "suit",
+      "man",
+      "audience",
+      "microphone"
+    ],
+    "actions": [
+      "addressing",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "On the right side of the stage, a woman in a red dress is standing, observing the performance.",
+    "objects": [
+      "stage",
+      "performance",
+      "side",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "observing",
+      "red",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "On the right side of the stage, a woman in a red dress is standing, observing the performance.",
+    "objects": [
+      "stage",
+      "performance",
+      "side",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "observing",
+      "red",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "At the front of the stage, a man is seen kneeling on the floor, holding a microphone, possibly reading lines or reacting to the play.",
+    "objects": [
+      "stage",
+      "man",
+      "microphone",
+      "play",
+      "floor",
+      "possibly"
+    ],
+    "actions": [
+      "holding",
+      "kneeling",
+      "reacting",
+      "lines"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "At the front of the stage, a man is seen kneeling on the floor, holding a microphone, possibly reading lines or reacting to the play.",
+    "objects": [
+      "stage",
+      "man",
+      "microphone",
+      "play",
+      "floor",
+      "possibly"
+    ],
+    "actions": [
+      "holding",
+      "kneeling",
+      "reacting",
+      "lines"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a blue dress is standing, watching the performance, seemingly engrossed in the show.",
+    "objects": [
+      "blue",
+      "performance",
+      "dress",
+      "show",
+      "seemingly",
+      "woman"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "engrossed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a blue dress is standing, watching the performance, seemingly engrossed in the show.",
+    "objects": [
+      "blue",
+      "performance",
+      "dress",
+      "show",
+      "seemingly",
+      "woman"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "engrossed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, a man is standing in a black suit, possibly overseeing the performance or waiting for his turn.",
+    "objects": [
+      "suit",
+      "man",
+      "performance",
+      "his",
+      "turn",
+      "black",
+      "possibly"
+    ],
+    "actions": [
+      "overseeing",
+      "waiting",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, a man is standing in a black suit, possibly overseeing the performance or waiting for his turn.",
+    "objects": [
+      "suit",
+      "man",
+      "performance",
+      "his",
+      "turn",
+      "black",
+      "possibly"
+    ],
+    "actions": [
+      "overseeing",
+      "waiting",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a black dress is seated on a chair, watching the play.",
+    "objects": [
+      "dress",
+      "play",
+      "chair",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "watching"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a black dress is seated on a chair, watching the play.",
+    "objects": [
+      "dress",
+      "play",
+      "chair",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "watching"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a gray suit is also standing, looking attentively at the performance.",
+    "objects": [
+      "attentively",
+      "gray",
+      "suit",
+      "man",
+      "performance"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a gray suit is also standing, looking attentively at the performance.",
+    "objects": [
+      "attentively",
+      "gray",
+      "suit",
+      "man",
+      "performance"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "On the left side of the stage, a man in a red shirt is standing, possibly a performer waiting for his cue.",
+    "objects": [
+      "performer",
+      "cue",
+      "stage",
+      "man",
+      "side",
+      "his",
+      "shirt",
+      "possibly"
+    ],
+    "actions": [
+      "waiting",
+      "red",
+      "standing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "On the left side of the stage, a man in a red shirt is standing, possibly a performer waiting for his cue.",
+    "objects": [
+      "performer",
+      "cue",
+      "stage",
+      "man",
+      "side",
+      "his",
+      "shirt",
+      "possibly"
+    ],
+    "actions": [
+      "waiting",
+      "red",
+      "standing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a blue shirt is also standing, observing the performance with interest.",
+    "objects": [
+      "blue",
+      "man",
+      "performance",
+      "shirt",
+      "interest"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a blue shirt is also standing, observing the performance with interest.",
+    "objects": [
+      "blue",
+      "man",
+      "performance",
+      "shirt",
+      "interest"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Lastly, a man in a black suit is standing, possibly an actor or part of the production team.",
+    "objects": [
+      "part",
+      "actor",
+      "team",
+      "suit",
+      "man",
+      "production",
+      "lastly",
+      "black"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Lastly, a man in a black suit is standing, possibly an actor or part of the production team.",
+    "objects": [
+      "part",
+      "actor",
+      "team",
+      "suit",
+      "man",
+      "production",
+      "lastly",
+      "black"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "All the performers are dressed in various costumes, suggesting a themed play, and the atmosphere is one of anticipation and engagement.",
+    "objects": [
+      "engagement",
+      "anticipation",
+      "all",
+      "one",
+      "play",
+      "atmosphere"
+    ],
+    "actions": [
+      "themed",
+      "dressed",
+      "costumes",
+      "performers"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "All the performers are dressed in various costumes, suggesting a themed play, and the atmosphere is one of anticipation and engagement.",
+    "objects": [
+      "engagement",
+      "anticipation",
+      "all",
+      "one",
+      "play",
+      "atmosphere"
+    ],
+    "actions": [
+      "themed",
+      "dressed",
+      "costumes",
+      "performers"
+    ],
+    "segment_id": 15
+  }
+]

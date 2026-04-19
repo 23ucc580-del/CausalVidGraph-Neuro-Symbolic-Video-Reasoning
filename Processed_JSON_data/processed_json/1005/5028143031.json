@@ -1,0 +1,576 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a group of young boys engaging in skateboarding activities in a park or skateboarding facility.",
+    "objects": [
+      "facility",
+      "boys",
+      "park",
+      "young",
+      "group"
+    ],
+    "actions": [
+      "activities",
+      "engaging",
+      "skateboarding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a group of young boys engaging in skateboarding activities in a park or skateboarding facility.",
+    "objects": [
+      "facility",
+      "boys",
+      "park",
+      "young",
+      "group"
+    ],
+    "actions": [
+      "activities",
+      "engaging",
+      "skateboarding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the first scene, two boys are standing on their skateboards, with one holding a skateboard, while the other is holding a helmet.",
+    "objects": [
+      "their",
+      "one",
+      "other",
+      "two",
+      "while",
+      "boys",
+      "skateboard",
+      "helmet"
+    ],
+    "actions": [
+      "skateboards",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "In the first scene, two boys are standing on their skateboards, with one holding a skateboard, while the other is holding a helmet.",
+    "objects": [
+      "their",
+      "one",
+      "other",
+      "two",
+      "while",
+      "boys",
+      "skateboard",
+      "helmet"
+    ],
+    "actions": [
+      "skateboards",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The boy holding the helmet is wearing a green shirt and black pants, while the other is in a blue hoodie and white shoes.",
+    "objects": [
+      "other",
+      "boy",
+      "white",
+      "while",
+      "black",
+      "blue",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The boy holding the helmet is wearing a green shirt and black pants, while the other is in a blue hoodie and white shoes.",
+    "objects": [
+      "other",
+      "boy",
+      "white",
+      "while",
+      "black",
+      "blue",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "In the second scene, the boy in the green shirt is lying on the ground, possibly injured, with his skateboard and helmet nearby.",
+    "objects": [
+      "boy",
+      "possibly",
+      "green",
+      "shirt",
+      "skateboard",
+      "his",
+      "helmet",
+      "second"
+    ],
+    "actions": [
+      "injured",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "In the second scene, the boy in the green shirt is lying on the ground, possibly injured, with his skateboard and helmet nearby.",
+    "objects": [
+      "boy",
+      "possibly",
+      "green",
+      "shirt",
+      "skateboard",
+      "his",
+      "helmet",
+      "second"
+    ],
+    "actions": [
+      "injured",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The boy holding the helmet is standing and appears to be assisting the injured boy.",
+    "objects": [
+      "boy",
+      "helmet"
+    ],
+    "actions": [
+      "assisting",
+      "injured",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The boy holding the helmet is standing and appears to be assisting the injured boy.",
+    "objects": [
+      "boy",
+      "helmet"
+    ],
+    "actions": [
+      "assisting",
+      "injured",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The third scene shows a boy in a striped shirt and black pants walking away from the injured boy, while another boy in a red and white shirt is riding his skateboard.",
+    "objects": [
+      "boy",
+      "white",
+      "away",
+      "black",
+      "while",
+      "shirt",
+      "from",
+      "skateboard"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "injured",
+      "striped"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The third scene shows a boy in a striped shirt and black pants walking away from the injured boy, while another boy in a red and white shirt is riding his skateboard.",
+    "objects": [
+      "boy",
+      "white",
+      "away",
+      "black",
+      "while",
+      "shirt",
+      "from",
+      "skateboard"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "injured",
+      "striped"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The boy in the striped shirt is also holding a skateboard.",
+    "objects": [
+      "skateboard",
+      "boy",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "striped"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The boy in the striped shirt is also holding a skateboard.",
+    "objects": [
+      "skateboard",
+      "boy",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "striped"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "In the fourth scene, a boy in a green shirt and blue jeans is skateboarding, and a boy in a red and white shirt is walking.",
+    "objects": [
+      "boy",
+      "white",
+      "blue",
+      "fourth",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "skateboarding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "In the fourth scene, a boy in a green shirt and blue jeans is skateboarding, and a boy in a red and white shirt is walking.",
+    "objects": [
+      "boy",
+      "white",
+      "blue",
+      "fourth",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "skateboarding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy in the green shirt is holding a skateboard while the boy in red and white is holding a helmet.",
+    "objects": [
+      "boy",
+      "white",
+      "while",
+      "green",
+      "shirt",
+      "skateboard",
+      "helmet"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy in the green shirt is holding a skateboard while the boy in red and white is holding a helmet.",
+    "objects": [
+      "boy",
+      "white",
+      "while",
+      "green",
+      "shirt",
+      "skateboard",
+      "helmet"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "In the fifth scene, a boy in a green shirt and black pants is riding a skateboard, and another boy in a striped shirt is standing nearby with a skateboard.",
+    "objects": [
+      "boy",
+      "black",
+      "green",
+      "shirt",
+      "fifth",
+      "skateboard",
+      "nearby"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "striped",
+      "riding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "In the fifth scene, a boy in a green shirt and black pants is riding a skateboard, and another boy in a striped shirt is standing nearby with a skateboard.",
+    "objects": [
+      "boy",
+      "black",
+      "green",
+      "shirt",
+      "fifth",
+      "skateboard",
+      "nearby"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "striped",
+      "riding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The boy in the green shirt is wearing a helmet and holding a skateboard.",
+    "objects": [
+      "boy",
+      "green",
+      "shirt",
+      "skateboard",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The boy in the green shirt is wearing a helmet and holding a skateboard.",
+    "objects": [
+      "boy",
+      "green",
+      "shirt",
+      "skateboard",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The boy in the striped shirt is wearing jeans and holding a helmet.",
+    "objects": [
+      "boy",
+      "shirt",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "striped",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The boy in the striped shirt is wearing jeans and holding a helmet.",
+    "objects": [
+      "boy",
+      "shirt",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "striped",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "In the sixth scene, a boy in a green shirt and blue jeans is sitting on the ground with his skateboard, while a boy in a red shirt and white jeans is walking away.",
+    "objects": [
+      "sixth",
+      "boy",
+      "white",
+      "while",
+      "away",
+      "blue",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "sitting",
+      "jeans",
+      "walking",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "In the sixth scene, a boy in a green shirt and blue jeans is sitting on the ground with his skateboard, while a boy in a red shirt and white jeans is walking away.",
+    "objects": [
+      "sixth",
+      "boy",
+      "white",
+      "while",
+      "away",
+      "blue",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "sitting",
+      "jeans",
+      "walking",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The boy in green is holding a skateboard, and the boy in red is holding a helmet.",
+    "objects": [
+      "skateboard",
+      "green",
+      "boy",
+      "helmet"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The boy in green is holding a skateboard, and the boy in red is holding a helmet.",
+    "objects": [
+      "skateboard",
+      "green",
+      "boy",
+      "helmet"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "In the seventh scene, a boy in a green shirt and black pants is riding a skateboard, and another boy in a striped shirt is standing nearby holding a skateboard.",
+    "objects": [
+      "boy",
+      "black",
+      "green",
+      "shirt",
+      "skateboard",
+      "seventh",
+      "nearby"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "In the seventh scene, a boy in a green shirt and black pants is riding a skateboard, and another boy in a striped shirt is standing nearby holding a skateboard.",
+    "objects": [
+      "boy",
+      "black",
+      "green",
+      "shirt",
+      "skateboard",
+      "seventh",
+      "nearby"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The boy in green is wearing a helmet, and the boy in striped is holding a helmet.",
+    "objects": [
+      "green",
+      "boy",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The boy in green is wearing a helmet, and the boy in striped is holding a helmet.",
+    "objects": [
+      "green",
+      "boy",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 15
+  }
+]

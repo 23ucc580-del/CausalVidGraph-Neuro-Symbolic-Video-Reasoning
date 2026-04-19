@@ -1,0 +1,620 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a young child sitting at a dining table, wearing a blue hoodie and a hat, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "blue",
+      "see",
+      "hat",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a young child sitting at a dining table, wearing a blue hoodie and a hat, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "blue",
+      "see",
+      "hat",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a young child sitting at a dining table, wearing a blue hoodie and a hat, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "blue",
+      "see",
+      "hat",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a young child sitting at a dining table, wearing a blue hoodie and a hat, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "blue",
+      "see",
+      "hat",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a young child sitting at a dining table, wearing a blue hoodie and a hat, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "blue",
+      "see",
+      "hat",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "In the video, we see a young child sitting at a dining table, wearing a blue hoodie and a hat, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "blue",
+      "see",
+      "hat",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 6,
+    "description": "The child is seen eating a breakfast meal that includes pancakes, sausage, and a beverage.",
+    "objects": [
+      "meal",
+      "child",
+      "breakfast",
+      "beverage",
+      "sausage",
+      "that"
+    ],
+    "actions": [
+      "pancakes",
+      "includes",
+      "eating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child is seen eating a breakfast meal that includes pancakes, sausage, and a beverage.",
+    "objects": [
+      "meal",
+      "child",
+      "breakfast",
+      "beverage",
+      "sausage",
+      "that"
+    ],
+    "actions": [
+      "pancakes",
+      "includes",
+      "eating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The child is seen eating a breakfast meal that includes pancakes, sausage, and a beverage.",
+    "objects": [
+      "meal",
+      "child",
+      "breakfast",
+      "beverage",
+      "sausage",
+      "that"
+    ],
+    "actions": [
+      "pancakes",
+      "includes",
+      "eating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The child is seen eating a breakfast meal that includes pancakes, sausage, and a beverage.",
+    "objects": [
+      "meal",
+      "child",
+      "breakfast",
+      "beverage",
+      "sausage",
+      "that"
+    ],
+    "actions": [
+      "pancakes",
+      "includes",
+      "eating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The child is seen eating a breakfast meal that includes pancakes, sausage, and a beverage.",
+    "objects": [
+      "meal",
+      "child",
+      "breakfast",
+      "beverage",
+      "sausage",
+      "that"
+    ],
+    "actions": [
+      "pancakes",
+      "includes",
+      "eating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 11,
+    "description": "The child is seen eating a breakfast meal that includes pancakes, sausage, and a beverage.",
+    "objects": [
+      "meal",
+      "child",
+      "breakfast",
+      "beverage",
+      "sausage",
+      "that"
+    ],
+    "actions": [
+      "pancakes",
+      "includes",
+      "eating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 12,
+    "description": "The child is engaged in the meal, eating with their hands while making a mess, and seems to be relishing the food.",
+    "objects": [
+      "their",
+      "meal",
+      "child",
+      "while",
+      "mess",
+      "food"
+    ],
+    "actions": [
+      "seems",
+      "hands",
+      "engaged",
+      "making"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The child is engaged in the meal, eating with their hands while making a mess, and seems to be relishing the food.",
+    "objects": [
+      "their",
+      "meal",
+      "child",
+      "while",
+      "mess",
+      "food"
+    ],
+    "actions": [
+      "seems",
+      "hands",
+      "engaged",
+      "making"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The child is engaged in the meal, eating with their hands while making a mess, and seems to be relishing the food.",
+    "objects": [
+      "their",
+      "meal",
+      "child",
+      "while",
+      "mess",
+      "food"
+    ],
+    "actions": [
+      "seems",
+      "hands",
+      "engaged",
+      "making"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The child is engaged in the meal, eating with their hands while making a mess, and seems to be relishing the food.",
+    "objects": [
+      "their",
+      "meal",
+      "child",
+      "while",
+      "mess",
+      "food"
+    ],
+    "actions": [
+      "seems",
+      "hands",
+      "engaged",
+      "making"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 16,
+    "description": "The child is engaged in the meal, eating with their hands while making a mess, and seems to be relishing the food.",
+    "objects": [
+      "their",
+      "meal",
+      "child",
+      "while",
+      "mess",
+      "food"
+    ],
+    "actions": [
+      "seems",
+      "hands",
+      "engaged",
+      "making"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 17,
+    "description": "The child is engaged in the meal, eating with their hands while making a mess, and seems to be relishing the food.",
+    "objects": [
+      "their",
+      "meal",
+      "child",
+      "while",
+      "mess",
+      "food"
+    ],
+    "actions": [
+      "seems",
+      "hands",
+      "engaged",
+      "making"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 18,
+    "description": "The meal appears to be a casual breakfast meal, and the child appears to be in a relaxed and comfortable setting, with a dining table and chairs visible in the background.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "casual",
+      "breakfast",
+      "comfortable"
+    ],
+    "actions": [
+      "chairs",
+      "relaxed",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The meal appears to be a casual breakfast meal, and the child appears to be in a relaxed and comfortable setting, with a dining table and chairs visible in the background.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "casual",
+      "breakfast",
+      "comfortable"
+    ],
+    "actions": [
+      "chairs",
+      "relaxed",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The meal appears to be a casual breakfast meal, and the child appears to be in a relaxed and comfortable setting, with a dining table and chairs visible in the background.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "casual",
+      "breakfast",
+      "comfortable"
+    ],
+    "actions": [
+      "chairs",
+      "relaxed",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 21,
+    "description": "The meal appears to be a casual breakfast meal, and the child appears to be in a relaxed and comfortable setting, with a dining table and chairs visible in the background.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "casual",
+      "breakfast",
+      "comfortable"
+    ],
+    "actions": [
+      "chairs",
+      "relaxed",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 22,
+    "description": "The meal appears to be a casual breakfast meal, and the child appears to be in a relaxed and comfortable setting, with a dining table and chairs visible in the background.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "casual",
+      "breakfast",
+      "comfortable"
+    ],
+    "actions": [
+      "chairs",
+      "relaxed",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 23,
+    "description": "The meal appears to be a casual breakfast meal, and the child appears to be in a relaxed and comfortable setting, with a dining table and chairs visible in the background.",
+    "objects": [
+      "table",
+      "meal",
+      "child",
+      "casual",
+      "breakfast",
+      "comfortable"
+    ],
+    "actions": [
+      "chairs",
+      "relaxed",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 24,
+    "description": "The child's focus is on the meal, and they seem to be enjoying the food, making a bit of a mess while eating.",
+    "objects": [
+      "they",
+      "meal",
+      "while",
+      "mess",
+      "seem",
+      "food",
+      "bit"
+    ],
+    "actions": [
+      "making",
+      "child's",
+      "eating",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The child's focus is on the meal, and they seem to be enjoying the food, making a bit of a mess while eating.",
+    "objects": [
+      "they",
+      "meal",
+      "while",
+      "mess",
+      "seem",
+      "food",
+      "bit"
+    ],
+    "actions": [
+      "making",
+      "child's",
+      "eating",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 26,
+    "description": "The child's focus is on the meal, and they seem to be enjoying the food, making a bit of a mess while eating.",
+    "objects": [
+      "they",
+      "meal",
+      "while",
+      "mess",
+      "seem",
+      "food",
+      "bit"
+    ],
+    "actions": [
+      "making",
+      "child's",
+      "eating",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 27,
+    "description": "The child's focus is on the meal, and they seem to be enjoying the food, making a bit of a mess while eating.",
+    "objects": [
+      "they",
+      "meal",
+      "while",
+      "mess",
+      "seem",
+      "food",
+      "bit"
+    ],
+    "actions": [
+      "making",
+      "child's",
+      "eating",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 28,
+    "description": "The child's focus is on the meal, and they seem to be enjoying the food, making a bit of a mess while eating.",
+    "objects": [
+      "they",
+      "meal",
+      "while",
+      "mess",
+      "seem",
+      "food",
+      "bit"
+    ],
+    "actions": [
+      "making",
+      "child's",
+      "eating",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 29,
+    "description": "The child's focus is on the meal, and they seem to be enjoying the food, making a bit of a mess while eating.",
+    "objects": [
+      "they",
+      "meal",
+      "while",
+      "mess",
+      "seem",
+      "food",
+      "bit"
+    ],
+    "actions": [
+      "making",
+      "child's",
+      "eating",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall scene is one of a casual and relaxed breakfast meal, with the child enjoying their meal.",
+    "objects": [
+      "one",
+      "their",
+      "meal",
+      "child",
+      "casual",
+      "breakfast",
+      "overall"
+    ],
+    "actions": [
+      "relaxed",
+      "enjoying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall scene is one of a casual and relaxed breakfast meal, with the child enjoying their meal.",
+    "objects": [
+      "one",
+      "their",
+      "meal",
+      "child",
+      "casual",
+      "breakfast",
+      "overall"
+    ],
+    "actions": [
+      "relaxed",
+      "enjoying"
+    ],
+    "segment_id": 5
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a young boy and a young girl standing inside a room.",
+    "objects": [
+      "room",
+      "young",
+      "girl",
+      "boy",
+      "inside"
+    ],
+    "actions": [
+      "opens",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a young boy and a young girl standing inside a room.",
+    "objects": [
+      "room",
+      "young",
+      "girl",
+      "boy",
+      "inside"
+    ],
+    "actions": [
+      "opens",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The boy is wearing a blue hoodie, while the girl is dressed in a white sweater.",
+    "objects": [
+      "white",
+      "blue",
+      "sweater",
+      "while",
+      "boy",
+      "girl",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The boy is wearing a blue hoodie, while the girl is dressed in a white sweater.",
+    "objects": [
+      "white",
+      "blue",
+      "sweater",
+      "while",
+      "boy",
+      "girl",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Both are smiling and looking at the camera.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "Both are smiling and looking at the camera.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The boy is holding a remote control in his hand, suggesting they might be watching TV or playing a video game.",
+    "objects": [
+      "game",
+      "hand",
+      "remote",
+      "his",
+      "might",
+      "boy",
+      "control",
+      "they"
+    ],
+    "actions": [
+      "playing",
+      "holding",
+      "watching",
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The boy is holding a remote control in his hand, suggesting they might be watching TV or playing a video game.",
+    "objects": [
+      "game",
+      "hand",
+      "remote",
+      "his",
+      "might",
+      "boy",
+      "control",
+      "they"
+    ],
+    "actions": [
+      "playing",
+      "holding",
+      "watching",
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The girl is holding a toy, which could indicate she's playing with a doll or a toy car.",
+    "objects": [
+      "car",
+      "toy",
+      "which",
+      "girl",
+      "doll",
+      "could",
+      "indicate"
+    ],
+    "actions": [
+      "she's",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The girl is holding a toy, which could indicate she's playing with a doll or a toy car.",
+    "objects": [
+      "car",
+      "toy",
+      "which",
+      "girl",
+      "doll",
+      "could",
+      "indicate"
+    ],
+    "actions": [
+      "she's",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The room has a wooden floor, and there's a yellow door behind them.",
+    "objects": [
+      "room",
+      "wooden",
+      "has",
+      "door",
+      "them",
+      "yellow",
+      "behind",
+      "floor"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The room has a wooden floor, and there's a yellow door behind them.",
+    "objects": [
+      "room",
+      "wooden",
+      "has",
+      "door",
+      "them",
+      "yellow",
+      "behind",
+      "floor"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The scene is brightly lit, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "atmosphere",
+      "brightly",
+      "lit"
+    ],
+    "actions": [
+      "inviting",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The scene is brightly lit, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "atmosphere",
+      "brightly",
+      "lit"
+    ],
+    "actions": [
+      "inviting",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then pans to the left, showing another boy and a young girl in the room.",
+    "objects": [
+      "room",
+      "pans",
+      "young",
+      "girl",
+      "boy",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then pans to the left, showing another boy and a young girl in the room.",
+    "objects": [
+      "room",
+      "pans",
+      "young",
+      "girl",
+      "boy",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy is wearing a gray hoodie and holding a toy, which might be a toy car or a doll, while the girl is wearing a white sweater and holding a remote control.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "sweater",
+      "which",
+      "gray",
+      "remote",
+      "while"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy is wearing a gray hoodie and holding a toy, which might be a toy car or a doll, while the girl is wearing a white sweater and holding a remote control.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "sweater",
+      "which",
+      "gray",
+      "remote",
+      "while"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The room looks cozy, with a blue rug and a yellow door behind them.",
+    "objects": [
+      "blue",
+      "cozy",
+      "room",
+      "door",
+      "them",
+      "yellow",
+      "behind",
+      "rug"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The room looks cozy, with a blue rug and a yellow door behind them.",
+    "objects": [
+      "blue",
+      "cozy",
+      "room",
+      "door",
+      "them",
+      "yellow",
+      "behind",
+      "rug"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then pans to the right, revealing the first boy and girl again.",
+    "objects": [
+      "again",
+      "pans",
+      "girl",
+      "boy",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "revealing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then pans to the right, revealing the first boy and girl again.",
+    "objects": [
+      "again",
+      "pans",
+      "girl",
+      "boy",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "revealing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The boy is holding a toy, while the girl is wearing a white sweater and holding a remote control.",
+    "objects": [
+      "white",
+      "sweater",
+      "toy",
+      "remote",
+      "while",
+      "girl",
+      "boy",
+      "control"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The boy is holding a toy, while the girl is wearing a white sweater and holding a remote control.",
+    "objects": [
+      "white",
+      "sweater",
+      "toy",
+      "remote",
+      "while",
+      "girl",
+      "boy",
+      "control"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is brightly lit, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "atmosphere",
+      "brightly",
+      "lit"
+    ],
+    "actions": [
+      "inviting",
+      "creating"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is brightly lit, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "atmosphere",
+      "brightly",
+      "lit"
+    ],
+    "actions": [
+      "inviting",
+      "creating"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then pans to the left, showing the first boy and girl again.",
+    "objects": [
+      "again",
+      "pans",
+      "girl",
+      "boy",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then pans to the left, showing the first boy and girl again.",
+    "objects": [
+      "again",
+      "pans",
+      "girl",
+      "boy",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The boy is wearing a blue hoodie and holding a toy, while the girl is wearing a white sweater and holding a remote control.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "sweater",
+      "remote",
+      "while",
+      "boy",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The boy is wearing a blue hoodie and holding a toy, while the girl is wearing a white sweater and holding a remote control.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "sweater",
+      "remote",
+      "while",
+      "boy",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The room looks cozy, with a yellow door behind them.",
+    "objects": [
+      "cozy",
+      "room",
+      "door",
+      "them",
+      "behind",
+      "yellow"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The room looks cozy, with a yellow door behind them.",
+    "objects": [
+      "cozy",
+      "room",
+      "door",
+      "them",
+      "behind",
+      "yellow"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 15
+  }
+]

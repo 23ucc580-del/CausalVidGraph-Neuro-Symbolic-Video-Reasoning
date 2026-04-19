@@ -1,0 +1,577 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively scene at a bar, where a band is performing on stage.",
+    "objects": [
+      "band",
+      "bar",
+      "where",
+      "lively",
+      "stage"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively scene at a bar, where a band is performing on stage.",
+    "objects": [
+      "band",
+      "bar",
+      "where",
+      "lively",
+      "stage"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively scene at a bar, where a band is performing on stage.",
+    "objects": [
+      "band",
+      "bar",
+      "where",
+      "lively",
+      "stage"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The band consists of four members, each engrossed in their roles.",
+    "objects": [
+      "band",
+      "their",
+      "each",
+      "four"
+    ],
+    "actions": [
+      "consists",
+      "roles",
+      "engrossed",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The band consists of four members, each engrossed in their roles.",
+    "objects": [
+      "band",
+      "their",
+      "each",
+      "four"
+    ],
+    "actions": [
+      "consists",
+      "roles",
+      "engrossed",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The band consists of four members, each engrossed in their roles.",
+    "objects": [
+      "band",
+      "their",
+      "each",
+      "four"
+    ],
+    "actions": [
+      "consists",
+      "roles",
+      "engrossed",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The lead singer, clad in a black shirt, is passionately singing into a microphone.",
+    "objects": [
+      "into",
+      "black",
+      "singer",
+      "microphone",
+      "shirt",
+      "passionately",
+      "lead",
+      "clad"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The lead singer, clad in a black shirt, is passionately singing into a microphone.",
+    "objects": [
+      "into",
+      "black",
+      "singer",
+      "microphone",
+      "shirt",
+      "passionately",
+      "lead",
+      "clad"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The lead singer, clad in a black shirt, is passionately singing into a microphone.",
+    "objects": [
+      "into",
+      "black",
+      "singer",
+      "microphone",
+      "shirt",
+      "passionately",
+      "lead",
+      "clad"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "His voice is amplified by the large speaker on the stage, filling the room with music.",
+    "objects": [
+      "large",
+      "room",
+      "speaker",
+      "his",
+      "stage",
+      "voice",
+      "music"
+    ],
+    "actions": [
+      "amplified",
+      "filling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "His voice is amplified by the large speaker on the stage, filling the room with music.",
+    "objects": [
+      "large",
+      "room",
+      "speaker",
+      "his",
+      "stage",
+      "voice",
+      "music"
+    ],
+    "actions": [
+      "amplified",
+      "filling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "His voice is amplified by the large speaker on the stage, filling the room with music.",
+    "objects": [
+      "large",
+      "room",
+      "speaker",
+      "his",
+      "stage",
+      "voice",
+      "music"
+    ],
+    "actions": [
+      "amplified",
+      "filling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The guitarist, also in a black shirt, is strumming his guitar with precision and enthusiasm, adding to the melody.",
+    "objects": [
+      "melody",
+      "black",
+      "enthusiasm",
+      "guitar",
+      "shirt",
+      "his",
+      "guitarist",
+      "precision"
+    ],
+    "actions": [
+      "adding",
+      "strumming"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The guitarist, also in a black shirt, is strumming his guitar with precision and enthusiasm, adding to the melody.",
+    "objects": [
+      "melody",
+      "black",
+      "enthusiasm",
+      "guitar",
+      "shirt",
+      "his",
+      "guitarist",
+      "precision"
+    ],
+    "actions": [
+      "adding",
+      "strumming"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The guitarist, also in a black shirt, is strumming his guitar with precision and enthusiasm, adding to the melody.",
+    "objects": [
+      "melody",
+      "black",
+      "enthusiasm",
+      "guitar",
+      "shirt",
+      "his",
+      "guitarist",
+      "precision"
+    ],
+    "actions": [
+      "adding",
+      "strumming"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The drummer, wearing a white shirt, is energetically hitting the drums with his sticks, creating a rhythmic beat.",
+    "objects": [
+      "rhythmic",
+      "white",
+      "beat",
+      "energetically",
+      "drummer",
+      "shirt",
+      "his"
+    ],
+    "actions": [
+      "drums",
+      "wearing",
+      "creating",
+      "sticks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The drummer, wearing a white shirt, is energetically hitting the drums with his sticks, creating a rhythmic beat.",
+    "objects": [
+      "rhythmic",
+      "white",
+      "beat",
+      "energetically",
+      "drummer",
+      "shirt",
+      "his"
+    ],
+    "actions": [
+      "drums",
+      "wearing",
+      "creating",
+      "sticks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The drummer, wearing a white shirt, is energetically hitting the drums with his sticks, creating a rhythmic beat.",
+    "objects": [
+      "rhythmic",
+      "white",
+      "beat",
+      "energetically",
+      "drummer",
+      "shirt",
+      "his"
+    ],
+    "actions": [
+      "drums",
+      "wearing",
+      "creating",
+      "sticks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The bassist, dressed in a gray shirt, is holding a bass guitar, pumping out the low notes that anchor the song.",
+    "objects": [
+      "anchor",
+      "guitar",
+      "shirt",
+      "gray",
+      "bassist",
+      "out",
+      "that",
+      "song"
+    ],
+    "actions": [
+      "pumping",
+      "dressed",
+      "holding",
+      "notes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The bassist, dressed in a gray shirt, is holding a bass guitar, pumping out the low notes that anchor the song.",
+    "objects": [
+      "anchor",
+      "guitar",
+      "shirt",
+      "gray",
+      "bassist",
+      "out",
+      "that",
+      "song"
+    ],
+    "actions": [
+      "pumping",
+      "dressed",
+      "holding",
+      "notes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The bassist, dressed in a gray shirt, is holding a bass guitar, pumping out the low notes that anchor the song.",
+    "objects": [
+      "anchor",
+      "guitar",
+      "shirt",
+      "gray",
+      "bassist",
+      "out",
+      "that",
+      "song"
+    ],
+    "actions": [
+      "pumping",
+      "dressed",
+      "holding",
+      "notes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "In the audience, a group of people are enjoying the performance.",
+    "objects": [
+      "performance",
+      "people",
+      "audience",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "In the audience, a group of people are enjoying the performance.",
+    "objects": [
+      "performance",
+      "people",
+      "audience",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "In the audience, a group of people are enjoying the performance.",
+    "objects": [
+      "performance",
+      "people",
+      "audience",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Some are standing, clapping along to the music, while others are seated on chairs, their attention riveted on the band.",
+    "objects": [
+      "their",
+      "along",
+      "band",
+      "attention",
+      "while",
+      "some",
+      "music"
+    ],
+    "actions": [
+      "riveted",
+      "standing",
+      "others",
+      "chairs"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Some are standing, clapping along to the music, while others are seated on chairs, their attention riveted on the band.",
+    "objects": [
+      "their",
+      "along",
+      "band",
+      "attention",
+      "while",
+      "some",
+      "music"
+    ],
+    "actions": [
+      "riveted",
+      "standing",
+      "others",
+      "chairs"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Some are standing, clapping along to the music, while others are seated on chairs, their attention riveted on the band.",
+    "objects": [
+      "their",
+      "along",
+      "band",
+      "attention",
+      "while",
+      "some",
+      "music"
+    ],
+    "actions": [
+      "riveted",
+      "standing",
+      "others",
+      "chairs"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "One person is seen holding a beer, possibly enjoying the festivities, while another is holding a phone, perhaps capturing the moment.",
+    "objects": [
+      "one",
+      "while",
+      "possibly",
+      "phone",
+      "beer",
+      "moment"
+    ],
+    "actions": [
+      "capturing",
+      "festivities",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "One person is seen holding a beer, possibly enjoying the festivities, while another is holding a phone, perhaps capturing the moment.",
+    "objects": [
+      "one",
+      "while",
+      "possibly",
+      "phone",
+      "beer",
+      "moment"
+    ],
+    "actions": [
+      "capturing",
+      "festivities",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "One person is seen holding a beer, possibly enjoying the festivities, while another is holding a phone, perhaps capturing the moment.",
+    "objects": [
+      "one",
+      "while",
+      "possibly",
+      "phone",
+      "beer",
+      "moment"
+    ],
+    "actions": [
+      "capturing",
+      "festivities",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The stage is adorned with a black curtain, adding to the ambiance of the bar.",
+    "objects": [
+      "bar",
+      "black",
+      "ambiance",
+      "curtain",
+      "stage"
+    ],
+    "actions": [
+      "adorned",
+      "adding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The stage is adorned with a black curtain, adding to the ambiance of the bar.",
+    "objects": [
+      "bar",
+      "black",
+      "ambiance",
+      "curtain",
+      "stage"
+    ],
+    "actions": [
+      "adorned",
+      "adding"
+    ],
+    "segment_id": 10
+  }
+]

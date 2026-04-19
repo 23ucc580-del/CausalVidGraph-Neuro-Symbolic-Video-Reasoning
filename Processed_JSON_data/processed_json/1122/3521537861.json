@@ -1,0 +1,601 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is gathered in a backyard setting up a BBQ grill and having a casual outdoor cookout.",
+    "objects": [
+      "bbq",
+      "cookout",
+      "backyard",
+      "casual",
+      "grill",
+      "people",
+      "outdoor",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "having",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is gathered in a backyard setting up a BBQ grill and having a casual outdoor cookout.",
+    "objects": [
+      "bbq",
+      "cookout",
+      "backyard",
+      "casual",
+      "grill",
+      "people",
+      "outdoor",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "having",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people is gathered in a backyard setting up a BBQ grill and having a casual outdoor cookout.",
+    "objects": [
+      "bbq",
+      "cookout",
+      "backyard",
+      "casual",
+      "grill",
+      "people",
+      "outdoor",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "having",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is lively and social, with everyone engaged in different activities.",
+    "objects": [
+      "everyone",
+      "different",
+      "social",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is lively and social, with everyone engaged in different activities.",
+    "objects": [
+      "everyone",
+      "different",
+      "social",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is lively and social, with everyone engaged in different activities.",
+    "objects": [
+      "everyone",
+      "different",
+      "social",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A young man in a red hat is standing next to a BBQ, holding a beer, while another man in a blue hoodie stands near the grill, holding a beer.",
+    "objects": [
+      "bbq",
+      "blue",
+      "man",
+      "while",
+      "young",
+      "grill",
+      "hoodie",
+      "beer"
+    ],
+    "actions": [
+      "holding",
+      "red",
+      "standing",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A young man in a red hat is standing next to a BBQ, holding a beer, while another man in a blue hoodie stands near the grill, holding a beer.",
+    "objects": [
+      "bbq",
+      "blue",
+      "man",
+      "while",
+      "young",
+      "grill",
+      "hoodie",
+      "beer"
+    ],
+    "actions": [
+      "holding",
+      "red",
+      "standing",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A young man in a red hat is standing next to a BBQ, holding a beer, while another man in a blue hoodie stands near the grill, holding a beer.",
+    "objects": [
+      "bbq",
+      "blue",
+      "man",
+      "while",
+      "young",
+      "grill",
+      "hoodie",
+      "beer"
+    ],
+    "actions": [
+      "holding",
+      "red",
+      "standing",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A young boy in a blue hoodie is grilling food on the BBQ, standing next to a child in a blue hoodie, also holding a beer.",
+    "objects": [
+      "blue",
+      "bbq",
+      "young",
+      "food",
+      "boy",
+      "child",
+      "hoodie",
+      "beer"
+    ],
+    "actions": [
+      "grilling",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A young boy in a blue hoodie is grilling food on the BBQ, standing next to a child in a blue hoodie, also holding a beer.",
+    "objects": [
+      "blue",
+      "bbq",
+      "young",
+      "food",
+      "boy",
+      "child",
+      "hoodie",
+      "beer"
+    ],
+    "actions": [
+      "grilling",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A young boy in a blue hoodie is grilling food on the BBQ, standing next to a child in a blue hoodie, also holding a beer.",
+    "objects": [
+      "blue",
+      "bbq",
+      "young",
+      "food",
+      "boy",
+      "child",
+      "hoodie",
+      "beer"
+    ],
+    "actions": [
+      "grilling",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a red shirt is helping the boy in the blue hoodie with the grilling, and a woman in a blue tank top is standing next to the grill, holding a beer.",
+    "objects": [
+      "blue",
+      "top",
+      "man",
+      "shirt",
+      "grill",
+      "hoodie",
+      "boy",
+      "beer"
+    ],
+    "actions": [
+      "grilling",
+      "holding",
+      "standing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a red shirt is helping the boy in the blue hoodie with the grilling, and a woman in a blue tank top is standing next to the grill, holding a beer.",
+    "objects": [
+      "blue",
+      "top",
+      "man",
+      "shirt",
+      "grill",
+      "hoodie",
+      "boy",
+      "beer"
+    ],
+    "actions": [
+      "grilling",
+      "holding",
+      "standing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a red shirt is helping the boy in the blue hoodie with the grilling, and a woman in a blue tank top is standing next to the grill, holding a beer.",
+    "objects": [
+      "blue",
+      "top",
+      "man",
+      "shirt",
+      "grill",
+      "hoodie",
+      "boy",
+      "beer"
+    ],
+    "actions": [
+      "grilling",
+      "holding",
+      "standing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A young girl in a blue hoodie is standing next to the BBQ, observing, and a young boy in a grey hat is standing nearby, also holding a beer.",
+    "objects": [
+      "grey",
+      "blue",
+      "bbq",
+      "young",
+      "boy",
+      "girl",
+      "nearby",
+      "hoodie"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A young girl in a blue hoodie is standing next to the BBQ, observing, and a young boy in a grey hat is standing nearby, also holding a beer.",
+    "objects": [
+      "grey",
+      "blue",
+      "bbq",
+      "young",
+      "boy",
+      "girl",
+      "nearby",
+      "hoodie"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A young girl in a blue hoodie is standing next to the BBQ, observing, and a young boy in a grey hat is standing nearby, also holding a beer.",
+    "objects": [
+      "grey",
+      "blue",
+      "bbq",
+      "young",
+      "boy",
+      "girl",
+      "nearby",
+      "hoodie"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A small dog is present in the scene, standing on the grass near the BBQ.",
+    "objects": [
+      "bbq",
+      "present",
+      "small",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A small dog is present in the scene, standing on the grass near the BBQ.",
+    "objects": [
+      "bbq",
+      "present",
+      "small",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A small dog is present in the scene, standing on the grass near the BBQ.",
+    "objects": [
+      "bbq",
+      "present",
+      "small",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "In terms of actions, people are preparing the BBQ grill by placing it on the ground, lighting the grill, and setting up the food.",
+    "objects": [
+      "bbq",
+      "ground",
+      "grill",
+      "food",
+      "people"
+    ],
+    "actions": [
+      "setting",
+      "preparing",
+      "actions",
+      "placing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "In terms of actions, people are preparing the BBQ grill by placing it on the ground, lighting the grill, and setting up the food.",
+    "objects": [
+      "bbq",
+      "ground",
+      "grill",
+      "food",
+      "people"
+    ],
+    "actions": [
+      "setting",
+      "preparing",
+      "actions",
+      "placing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "In terms of actions, people are preparing the BBQ grill by placing it on the ground, lighting the grill, and setting up the food.",
+    "objects": [
+      "bbq",
+      "ground",
+      "grill",
+      "food",
+      "people"
+    ],
+    "actions": [
+      "setting",
+      "preparing",
+      "actions",
+      "placing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the red shirt is helping the young boy with the grilling, and the woman in the blue tank top is standing next to the grill.",
+    "objects": [
+      "blue",
+      "top",
+      "man",
+      "young",
+      "shirt",
+      "grill",
+      "boy",
+      "tank"
+    ],
+    "actions": [
+      "grilling",
+      "standing",
+      "red",
+      "helping"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the red shirt is helping the young boy with the grilling, and the woman in the blue tank top is standing next to the grill.",
+    "objects": [
+      "blue",
+      "top",
+      "man",
+      "young",
+      "shirt",
+      "grill",
+      "boy",
+      "tank"
+    ],
+    "actions": [
+      "grilling",
+      "standing",
+      "red",
+      "helping"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the red shirt is helping the young boy with the grilling, and the woman in the blue tank top is standing next to the grill.",
+    "objects": [
+      "blue",
+      "top",
+      "man",
+      "young",
+      "shirt",
+      "grill",
+      "boy",
+      "tank"
+    ],
+    "actions": [
+      "grilling",
+      "standing",
+      "red",
+      "helping"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The girl in the blue hoodie is standing near the grill, and the young boy in the grey hat is standing nearby.",
+    "objects": [
+      "grey",
+      "blue",
+      "young",
+      "grill",
+      "boy",
+      "girl",
+      "nearby",
+      "hoodie"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The girl in the blue hoodie is standing near the grill, and the young boy in the grey hat is standing nearby.",
+    "objects": [
+      "grey",
+      "blue",
+      "young",
+      "grill",
+      "boy",
+      "girl",
+      "nearby",
+      "hoodie"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The girl in the blue hoodie is standing near the grill, and the young boy in the grey hat is standing nearby.",
+    "objects": [
+      "grey",
+      "blue",
+      "young",
+      "grill",
+      "boy",
+      "girl",
+      "nearby",
+      "hoodie"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The young boy in the blue hoodie is grilling the food on the BBQ.",
+    "objects": [
+      "blue",
+      "bbq",
+      "young",
+      "food",
+      "boy",
+      "hoodie"
+    ],
+    "actions": [
+      "grilling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The young boy in the blue hoodie is grilling the food on the BBQ.",
+    "objects": [
+      "blue",
+      "bbq",
+      "young",
+      "food",
+      "boy",
+      "hoodie"
+    ],
+    "actions": [
+      "grilling"
+    ],
+    "segment_id": 10
+  }
+]

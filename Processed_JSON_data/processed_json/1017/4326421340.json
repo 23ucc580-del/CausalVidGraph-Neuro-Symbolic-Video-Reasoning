@@ -1,0 +1,548 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a close-up shot of a woman's face, who appears to be in her late 20s or early 30s, wearing a blue hoodie and a pink t-shirt underneath.",
+    "objects": [
+      "late",
+      "pink",
+      "face",
+      "blue",
+      "who",
+      "her",
+      "hoodie",
+      "early"
+    ],
+    "actions": [
+      "wearing",
+      "begins",
+      "woman's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a close-up shot of a woman's face, who appears to be in her late 20s or early 30s, wearing a blue hoodie and a pink t-shirt underneath.",
+    "objects": [
+      "late",
+      "pink",
+      "face",
+      "blue",
+      "who",
+      "her",
+      "hoodie",
+      "early"
+    ],
+    "actions": [
+      "wearing",
+      "begins",
+      "woman's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "She has brown hair and is looking directly into the camera.",
+    "objects": [
+      "hair",
+      "she",
+      "into",
+      "directly",
+      "has",
+      "brown"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "She has brown hair and is looking directly into the camera.",
+    "objects": [
+      "hair",
+      "she",
+      "into",
+      "directly",
+      "has",
+      "brown"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "She seems to be in a car, as we can see the interior of the car in the background.",
+    "objects": [
+      "she",
+      "can",
+      "see",
+      "car",
+      "interior"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "She seems to be in a car, as we can see the interior of the car in the background.",
+    "objects": [
+      "she",
+      "can",
+      "see",
+      "car",
+      "interior"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is sitting in the passenger seat, holding a black bag in her lap.",
+    "objects": [
+      "woman",
+      "passenger",
+      "black",
+      "bag",
+      "her",
+      "lap",
+      "seat"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is sitting in the passenger seat, holding a black bag in her lap.",
+    "objects": [
+      "woman",
+      "passenger",
+      "black",
+      "bag",
+      "her",
+      "lap",
+      "seat"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene then cuts to a shot of a young girl, possibly a teenager, wearing a yellow hoodie and a pink t-shirt, sitting in the driver's seat of the same car.",
+    "objects": [
+      "cuts",
+      "pink",
+      "young",
+      "possibly",
+      "yellow",
+      "same",
+      "hoodie",
+      "car"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "driver's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene then cuts to a shot of a young girl, possibly a teenager, wearing a yellow hoodie and a pink t-shirt, sitting in the driver's seat of the same car.",
+    "objects": [
+      "cuts",
+      "pink",
+      "young",
+      "possibly",
+      "yellow",
+      "same",
+      "hoodie",
+      "car"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "driver's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "She is smiling and looking at the camera.",
+    "objects": [
+      "she"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "She is smiling and looking at the camera.",
+    "objects": [
+      "she"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "She is holding a black bag in her lap.",
+    "objects": [
+      "she",
+      "black",
+      "bag",
+      "her",
+      "lap"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "She is holding a black bag in her lap.",
+    "objects": [
+      "she",
+      "black",
+      "bag",
+      "her",
+      "lap"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then shifts to a close-up of a younger girl, possibly a teenager, wearing a blue hoodie and a pink t-shirt, sitting in the back seat of the car.",
+    "objects": [
+      "younger",
+      "pink",
+      "possibly",
+      "blue",
+      "hoodie",
+      "car",
+      "seat",
+      "teenager"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then shifts to a close-up of a younger girl, possibly a teenager, wearing a blue hoodie and a pink t-shirt, sitting in the back seat of the car.",
+    "objects": [
+      "younger",
+      "pink",
+      "possibly",
+      "blue",
+      "hoodie",
+      "car",
+      "seat",
+      "teenager"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "She is looking away from the camera and appears to be in deep thought.",
+    "objects": [
+      "thought",
+      "she",
+      "away",
+      "from",
+      "deep"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "She is looking away from the camera and appears to be in deep thought.",
+    "objects": [
+      "thought",
+      "she",
+      "away",
+      "from",
+      "deep"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "Next, the camera pans back to the woman in the passenger seat, who is now looking away from the camera and looking at the girl in the driver's seat.",
+    "objects": [
+      "woman",
+      "pans",
+      "passenger",
+      "away",
+      "from",
+      "who",
+      "now",
+      "seat"
+    ],
+    "actions": [
+      "looking",
+      "driver's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "Next, the camera pans back to the woman in the passenger seat, who is now looking away from the camera and looking at the girl in the driver's seat.",
+    "objects": [
+      "woman",
+      "pans",
+      "passenger",
+      "away",
+      "from",
+      "who",
+      "now",
+      "seat"
+    ],
+    "actions": [
+      "looking",
+      "driver's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "She has a concerned expression on her face.",
+    "objects": [
+      "she",
+      "face",
+      "has",
+      "her",
+      "expression"
+    ],
+    "actions": [
+      "concerned"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "She has a concerned expression on her face.",
+    "objects": [
+      "she",
+      "face",
+      "has",
+      "her",
+      "expression"
+    ],
+    "actions": [
+      "concerned"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then cuts to a shot of the young girl driving the car, looking at the camera, and holding a black bag in her lap.",
+    "objects": [
+      "cuts",
+      "young",
+      "black",
+      "bag",
+      "her",
+      "car",
+      "lap",
+      "girl"
+    ],
+    "actions": [
+      "driving",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then cuts to a shot of the young girl driving the car, looking at the camera, and holding a black bag in her lap.",
+    "objects": [
+      "cuts",
+      "young",
+      "black",
+      "bag",
+      "her",
+      "car",
+      "lap",
+      "girl"
+    ],
+    "actions": [
+      "driving",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "She is wearing a yellow hoodie and a pink t-shirt.",
+    "objects": [
+      "yellow",
+      "hoodie",
+      "she",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "She is wearing a yellow hoodie and a pink t-shirt.",
+    "objects": [
+      "yellow",
+      "hoodie",
+      "she",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The video ends with a close-up of the woman in the passenger seat, who is looking away from the camera and holding a black bag in her lap.",
+    "objects": [
+      "woman",
+      "away",
+      "passenger",
+      "black",
+      "bag",
+      "from",
+      "ends",
+      "who"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The video ends with a close-up of the woman in the passenger seat, who is looking away from the camera and holding a black bag in her lap.",
+    "objects": [
+      "woman",
+      "away",
+      "passenger",
+      "black",
+      "bag",
+      "from",
+      "ends",
+      "who"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "She appears to be in deep thought, and her expression is one of concern.",
+    "objects": [
+      "one",
+      "thought",
+      "she",
+      "her",
+      "deep",
+      "expression",
+      "concern"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "She appears to be in deep thought, and her expression is one of concern.",
+    "objects": [
+      "one",
+      "thought",
+      "she",
+      "her",
+      "deep",
+      "expression",
+      "concern"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "Throughout the video, we see a glimpse of the interior of the car, including the dashboard, steering wheel, and seats.",
+    "objects": [
+      "glimpse",
+      "throughout",
+      "dashboard",
+      "see",
+      "wheel",
+      "car",
+      "interior"
+    ],
+    "actions": [
+      "seats",
+      "steering"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "Throughout the video, we see a glimpse of the interior of the car, including the dashboard, steering wheel, and seats.",
+    "objects": [
+      "glimpse",
+      "throughout",
+      "dashboard",
+      "see",
+      "wheel",
+      "car",
+      "interior"
+    ],
+    "actions": [
+      "seats",
+      "steering"
+    ],
+    "segment_id": 15
+  }
+]

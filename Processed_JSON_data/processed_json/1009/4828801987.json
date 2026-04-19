@@ -1,0 +1,568 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see two women sitting on a grassy field, engaged in a musical performance.",
+    "objects": [
+      "two",
+      "musical",
+      "see",
+      "field",
+      "performance",
+      "grassy",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see two women sitting on a grassy field, engaged in a musical performance.",
+    "objects": [
+      "two",
+      "musical",
+      "see",
+      "field",
+      "performance",
+      "grassy",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see two women sitting on a grassy field, engaged in a musical performance.",
+    "objects": [
+      "two",
+      "musical",
+      "see",
+      "field",
+      "performance",
+      "grassy",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "One of the women is playing the guitar, while the other is holding a microphone.",
+    "objects": [
+      "one",
+      "other",
+      "while",
+      "microphone",
+      "guitar",
+      "women"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "One of the women is playing the guitar, while the other is holding a microphone.",
+    "objects": [
+      "one",
+      "other",
+      "while",
+      "microphone",
+      "guitar",
+      "women"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One of the women is playing the guitar, while the other is holding a microphone.",
+    "objects": [
+      "one",
+      "other",
+      "while",
+      "microphone",
+      "guitar",
+      "women"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman holding the microphone is wearing a black tank top and jeans, and she is holding a microphone.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "microphone",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman holding the microphone is wearing a black tank top and jeans, and she is holding a microphone.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "microphone",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman holding the microphone is wearing a black tank top and jeans, and she is holding a microphone.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "microphone",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Both of them are smiling and seem to be enjoying themselves.",
+    "objects": [
+      "seem",
+      "them",
+      "both"
+    ],
+    "actions": [
+      "themselves",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Both of them are smiling and seem to be enjoying themselves.",
+    "objects": [
+      "seem",
+      "them",
+      "both"
+    ],
+    "actions": [
+      "themselves",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Both of them are smiling and seem to be enjoying themselves.",
+    "objects": [
+      "seem",
+      "them",
+      "both"
+    ],
+    "actions": [
+      "themselves",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The guitar-playing woman is wearing a black tank top and jeans, and she is holding a guitar.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "guitar",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "guitar-playing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The guitar-playing woman is wearing a black tank top and jeans, and she is holding a guitar.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "guitar",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "guitar-playing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The guitar-playing woman is wearing a black tank top and jeans, and she is holding a guitar.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "guitar",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "guitar-playing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "They appear to be singing or speaking into the microphone, creating a lively and entertaining atmosphere.",
+    "objects": [
+      "they",
+      "appear",
+      "into",
+      "microphone",
+      "lively",
+      "atmosphere"
+    ],
+    "actions": [
+      "singing",
+      "entertaining",
+      "creating",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "They appear to be singing or speaking into the microphone, creating a lively and entertaining atmosphere.",
+    "objects": [
+      "they",
+      "appear",
+      "into",
+      "microphone",
+      "lively",
+      "atmosphere"
+    ],
+    "actions": [
+      "singing",
+      "entertaining",
+      "creating",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "They appear to be singing or speaking into the microphone, creating a lively and entertaining atmosphere.",
+    "objects": [
+      "they",
+      "appear",
+      "into",
+      "microphone",
+      "lively",
+      "atmosphere"
+    ],
+    "actions": [
+      "singing",
+      "entertaining",
+      "creating",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The background features a large tree, suggesting a natural outdoor setting.",
+    "objects": [
+      "large",
+      "natural",
+      "tree",
+      "outdoor"
+    ],
+    "actions": [
+      "setting",
+      "suggesting",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The background features a large tree, suggesting a natural outdoor setting.",
+    "objects": [
+      "large",
+      "natural",
+      "tree",
+      "outdoor"
+    ],
+    "actions": [
+      "setting",
+      "suggesting",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The background features a large tree, suggesting a natural outdoor setting.",
+    "objects": [
+      "large",
+      "natural",
+      "tree",
+      "outdoor"
+    ],
+    "actions": [
+      "setting",
+      "suggesting",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera is positioned in such a way that we can see both women and the tree, providing a clear view of the scene.",
+    "objects": [
+      "both",
+      "can",
+      "see",
+      "that",
+      "tree",
+      "clear",
+      "women",
+      "way"
+    ],
+    "actions": [
+      "positioned",
+      "providing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera is positioned in such a way that we can see both women and the tree, providing a clear view of the scene.",
+    "objects": [
+      "both",
+      "can",
+      "see",
+      "that",
+      "tree",
+      "clear",
+      "women",
+      "way"
+    ],
+    "actions": [
+      "positioned",
+      "providing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera is positioned in such a way that we can see both women and the tree, providing a clear view of the scene.",
+    "objects": [
+      "both",
+      "can",
+      "see",
+      "that",
+      "tree",
+      "clear",
+      "women",
+      "way"
+    ],
+    "actions": [
+      "positioned",
+      "providing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The focus is on the women and their musical performance, capturing the moment of their interaction and enjoyment.",
+    "objects": [
+      "their",
+      "musical",
+      "enjoyment",
+      "performance",
+      "interaction",
+      "moment",
+      "women"
+    ],
+    "actions": [
+      "capturing",
+      "focus"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The focus is on the women and their musical performance, capturing the moment of their interaction and enjoyment.",
+    "objects": [
+      "their",
+      "musical",
+      "enjoyment",
+      "performance",
+      "interaction",
+      "moment",
+      "women"
+    ],
+    "actions": [
+      "capturing",
+      "focus"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The focus is on the women and their musical performance, capturing the moment of their interaction and enjoyment.",
+    "objects": [
+      "their",
+      "musical",
+      "enjoyment",
+      "performance",
+      "interaction",
+      "moment",
+      "women"
+    ],
+    "actions": [
+      "capturing",
+      "focus"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The brightness and clarity of the video suggest it was recorded in daylight, likely during the day.",
+    "objects": [
+      "was",
+      "daylight",
+      "suggest",
+      "day",
+      "likely",
+      "clarity"
+    ],
+    "actions": [
+      "brightness",
+      "during",
+      "recorded"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The brightness and clarity of the video suggest it was recorded in daylight, likely during the day.",
+    "objects": [
+      "was",
+      "daylight",
+      "suggest",
+      "day",
+      "likely",
+      "clarity"
+    ],
+    "actions": [
+      "brightness",
+      "during",
+      "recorded"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The brightness and clarity of the video suggest it was recorded in daylight, likely during the day.",
+    "objects": [
+      "was",
+      "daylight",
+      "suggest",
+      "day",
+      "likely",
+      "clarity"
+    ],
+    "actions": [
+      "brightness",
+      "during",
+      "recorded"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall scene is a pleasant and casual outdoor musical performance.",
+    "objects": [
+      "casual",
+      "musical",
+      "performance",
+      "pleasant",
+      "outdoor",
+      "overall"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall scene is a pleasant and casual outdoor musical performance.",
+    "objects": [
+      "casual",
+      "musical",
+      "performance",
+      "pleasant",
+      "outdoor",
+      "overall"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  }
+]

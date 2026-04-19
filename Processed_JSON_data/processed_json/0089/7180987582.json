@@ -1,0 +1,572 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene on a city street, with several people engaged in various activities.",
+    "objects": [
+      "lively",
+      "several",
+      "street",
+      "people",
+      "city"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively scene on a city street, with several people engaged in various activities.",
+    "objects": [
+      "lively",
+      "several",
+      "street",
+      "people",
+      "city"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the foreground, two women are standing close together, with one holding a blue purse.",
+    "objects": [
+      "purse",
+      "two",
+      "blue",
+      "together",
+      "women",
+      "one",
+      "close"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "In the foreground, two women are standing close together, with one holding a blue purse.",
+    "objects": [
+      "purse",
+      "two",
+      "blue",
+      "together",
+      "women",
+      "one",
+      "close"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "They are engaged in a conversation, their faces lit up with smiles, suggesting a friendly or positive interaction.",
+    "objects": [
+      "their",
+      "lit",
+      "friendly",
+      "they",
+      "conversation",
+      "positive",
+      "interaction"
+    ],
+    "actions": [
+      "engaged",
+      "faces",
+      "suggesting",
+      "smiles"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "They are engaged in a conversation, their faces lit up with smiles, suggesting a friendly or positive interaction.",
+    "objects": [
+      "their",
+      "lit",
+      "friendly",
+      "they",
+      "conversation",
+      "positive",
+      "interaction"
+    ],
+    "actions": [
+      "engaged",
+      "faces",
+      "suggesting",
+      "smiles"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "A man is seen walking towards them, carrying a white bag in his left hand and a white paper in his right, possibly heading towards a meeting or an event.",
+    "objects": [
+      "event",
+      "man",
+      "white",
+      "possibly",
+      "bag",
+      "them",
+      "hand",
+      "paper"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "heading",
+      "meeting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "A man is seen walking towards them, carrying a white bag in his left hand and a white paper in his right, possibly heading towards a meeting or an event.",
+    "objects": [
+      "event",
+      "man",
+      "white",
+      "possibly",
+      "bag",
+      "them",
+      "hand",
+      "paper"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "heading",
+      "meeting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A few steps ahead, a woman is seen walking towards the left, carrying a pink purse.",
+    "objects": [
+      "purse",
+      "woman",
+      "ahead",
+      "pink",
+      "few"
+    ],
+    "actions": [
+      "walking",
+      "steps",
+      "towards",
+      "carrying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A few steps ahead, a woman is seen walking towards the left, carrying a pink purse.",
+    "objects": [
+      "purse",
+      "woman",
+      "ahead",
+      "pink",
+      "few"
+    ],
+    "actions": [
+      "walking",
+      "steps",
+      "towards",
+      "carrying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "She appears to be in motion, possibly heading towards a destination.",
+    "objects": [
+      "she",
+      "motion",
+      "destination",
+      "possibly"
+    ],
+    "actions": [
+      "towards",
+      "heading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "She appears to be in motion, possibly heading towards a destination.",
+    "objects": [
+      "she",
+      "motion",
+      "destination",
+      "possibly"
+    ],
+    "actions": [
+      "towards",
+      "heading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "In the background, there's a car parked on the side of the road, a man standing near it, wearing a black shirt and holding a white paper.",
+    "objects": [
+      "man",
+      "white",
+      "car",
+      "road",
+      "side",
+      "paper",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "there's",
+      "wearing",
+      "holding",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "In the background, there's a car parked on the side of the road, a man standing near it, wearing a black shirt and holding a white paper.",
+    "objects": [
+      "man",
+      "white",
+      "car",
+      "road",
+      "side",
+      "paper",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "there's",
+      "wearing",
+      "holding",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "He seems to be waiting for something or someone.",
+    "objects": [
+      "someone"
+    ],
+    "actions": [
+      "something",
+      "waiting",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "He seems to be waiting for something or someone.",
+    "objects": [
+      "someone"
+    ],
+    "actions": [
+      "something",
+      "waiting",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "Further back, a group of women are standing around a car, with one holding a pink purse.",
+    "objects": [
+      "further",
+      "purse",
+      "car",
+      "women",
+      "one",
+      "group",
+      "around",
+      "pink"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "Further back, a group of women are standing around a car, with one holding a pink purse.",
+    "objects": [
+      "further",
+      "purse",
+      "car",
+      "women",
+      "one",
+      "group",
+      "around",
+      "pink"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "They are talking, creating a sense of camaraderie.",
+    "objects": [
+      "they",
+      "camaraderie",
+      "sense"
+    ],
+    "actions": [
+      "talking",
+      "creating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "They are talking, creating a sense of camaraderie.",
+    "objects": [
+      "they",
+      "camaraderie",
+      "sense"
+    ],
+    "actions": [
+      "talking",
+      "creating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, there's a white car parked on the side of the road, with a man standing near it.",
+    "objects": [
+      "white",
+      "man",
+      "car",
+      "road",
+      "side"
+    ],
+    "actions": [
+      "parked",
+      "there's",
+      "standing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, there's a white car parked on the side of the road, with a man standing near it.",
+    "objects": [
+      "white",
+      "man",
+      "car",
+      "road",
+      "side"
+    ],
+    "actions": [
+      "parked",
+      "there's",
+      "standing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "He is wearing a black shirt and holding a white paper, possibly related to the car or the group of women.",
+    "objects": [
+      "white",
+      "car",
+      "women",
+      "group",
+      "paper",
+      "shirt",
+      "possibly",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "related"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "He is wearing a black shirt and holding a white paper, possibly related to the car or the group of women.",
+    "objects": [
+      "white",
+      "car",
+      "women",
+      "group",
+      "paper",
+      "shirt",
+      "possibly",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "related"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "Additionally, a man and woman are standing near a car, the woman holding a blue purse, and the man holding a white bag.",
+    "objects": [
+      "purse",
+      "woman",
+      "man",
+      "white",
+      "bag",
+      "car",
+      "blue",
+      "additionally"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "Additionally, a man and woman are standing near a car, the woman holding a blue purse, and the man holding a white bag.",
+    "objects": [
+      "purse",
+      "woman",
+      "man",
+      "white",
+      "bag",
+      "car",
+      "blue",
+      "additionally"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "They seem to be in a conversation, possibly related to the car or the parked vehicles.",
+    "objects": [
+      "car",
+      "they",
+      "conversation",
+      "seem",
+      "possibly"
+    ],
+    "actions": [
+      "parked",
+      "vehicles",
+      "related"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "They seem to be in a conversation, possibly related to the car or the parked vehicles.",
+    "objects": [
+      "car",
+      "they",
+      "conversation",
+      "seem",
+      "possibly"
+    ],
+    "actions": [
+      "parked",
+      "vehicles",
+      "related"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is bustling with activity, and everyone seems to be going about their day, some interacting with each other, others waiting or observing.",
+    "objects": [
+      "some",
+      "each",
+      "their",
+      "about",
+      "activity",
+      "everyone",
+      "other",
+      "day"
+    ],
+    "actions": [
+      "seems",
+      "observing",
+      "going",
+      "interacting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is bustling with activity, and everyone seems to be going about their day, some interacting with each other, others waiting or observing.",
+    "objects": [
+      "some",
+      "each",
+      "their",
+      "about",
+      "activity",
+      "everyone",
+      "other",
+      "day"
+    ],
+    "actions": [
+      "seems",
+      "observing",
+      "going",
+      "interacting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The clothing and accessories are casual, suggesting a relaxed atmosphere.",
+    "objects": [
+      "casual",
+      "atmosphere"
+    ],
+    "actions": [
+      "clothing",
+      "accessories",
+      "suggesting",
+      "relaxed"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The clothing and accessories are casual, suggesting a relaxed atmosphere.",
+    "objects": [
+      "casual",
+      "atmosphere"
+    ],
+    "actions": [
+      "clothing",
+      "accessories",
+      "suggesting",
+      "relaxed"
+    ],
+    "segment_id": 15
+  }
+]

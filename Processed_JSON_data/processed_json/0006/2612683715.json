@@ -1,0 +1,537 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are two people, a man and a woman, standing in a room with a bird perched on a metal stand.",
+    "objects": [
+      "stand",
+      "room",
+      "man",
+      "there",
+      "metal",
+      "bird",
+      "woman",
+      "people"
+    ],
+    "actions": [
+      "perched",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are two people, a man and a woman, standing in a room with a bird perched on a metal stand.",
+    "objects": [
+      "stand",
+      "room",
+      "man",
+      "there",
+      "metal",
+      "bird",
+      "woman",
+      "people"
+    ],
+    "actions": [
+      "perched",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are two people, a man and a woman, standing in a room with a bird perched on a metal stand.",
+    "objects": [
+      "stand",
+      "room",
+      "man",
+      "there",
+      "metal",
+      "bird",
+      "woman",
+      "people"
+    ],
+    "actions": [
+      "perched",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there are two people, a man and a woman, standing in a room with a bird perched on a metal stand.",
+    "objects": [
+      "stand",
+      "room",
+      "man",
+      "there",
+      "metal",
+      "bird",
+      "woman",
+      "people"
+    ],
+    "actions": [
+      "perched",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, there are two people, a man and a woman, standing in a room with a bird perched on a metal stand.",
+    "objects": [
+      "stand",
+      "room",
+      "man",
+      "there",
+      "metal",
+      "bird",
+      "woman",
+      "people"
+    ],
+    "actions": [
+      "perched",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The bird is green and red with a yellow head.",
+    "objects": [
+      "green",
+      "yellow",
+      "bird",
+      "head"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The bird is green and red with a yellow head.",
+    "objects": [
+      "green",
+      "yellow",
+      "bird",
+      "head"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The bird is green and red with a yellow head.",
+    "objects": [
+      "green",
+      "yellow",
+      "bird",
+      "head"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The bird is green and red with a yellow head.",
+    "objects": [
+      "green",
+      "yellow",
+      "bird",
+      "head"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The bird is green and red with a yellow head.",
+    "objects": [
+      "green",
+      "yellow",
+      "bird",
+      "head"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The man is wearing a blue hoodie and holding a red and white bag, while the woman is wearing a white shirt.",
+    "objects": [
+      "shirt",
+      "blue",
+      "white",
+      "man",
+      "bag",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man is wearing a blue hoodie and holding a red and white bag, while the woman is wearing a white shirt.",
+    "objects": [
+      "shirt",
+      "blue",
+      "white",
+      "man",
+      "bag",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is wearing a blue hoodie and holding a red and white bag, while the woman is wearing a white shirt.",
+    "objects": [
+      "shirt",
+      "blue",
+      "white",
+      "man",
+      "bag",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is wearing a blue hoodie and holding a red and white bag, while the woman is wearing a white shirt.",
+    "objects": [
+      "shirt",
+      "blue",
+      "white",
+      "man",
+      "bag",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The man is wearing a blue hoodie and holding a red and white bag, while the woman is wearing a white shirt.",
+    "objects": [
+      "shirt",
+      "blue",
+      "white",
+      "man",
+      "bag",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The bird is being fed something in its beak by the man, and it is looking at the camera.",
+    "objects": [
+      "beak",
+      "its",
+      "bird",
+      "man"
+    ],
+    "actions": [
+      "something",
+      "being",
+      "looking",
+      "fed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The bird is being fed something in its beak by the man, and it is looking at the camera.",
+    "objects": [
+      "beak",
+      "its",
+      "bird",
+      "man"
+    ],
+    "actions": [
+      "something",
+      "being",
+      "looking",
+      "fed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The bird is being fed something in its beak by the man, and it is looking at the camera.",
+    "objects": [
+      "beak",
+      "its",
+      "bird",
+      "man"
+    ],
+    "actions": [
+      "something",
+      "being",
+      "looking",
+      "fed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The bird is being fed something in its beak by the man, and it is looking at the camera.",
+    "objects": [
+      "beak",
+      "its",
+      "bird",
+      "man"
+    ],
+    "actions": [
+      "something",
+      "being",
+      "looking",
+      "fed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The bird is being fed something in its beak by the man, and it is looking at the camera.",
+    "objects": [
+      "beak",
+      "its",
+      "bird",
+      "man"
+    ],
+    "actions": [
+      "something",
+      "being",
+      "looking",
+      "fed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The bird is perched on a metal stand with a bowl in front of it.",
+    "objects": [
+      "bird",
+      "stand",
+      "bowl",
+      "metal"
+    ],
+    "actions": [
+      "perched"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The bird is perched on a metal stand with a bowl in front of it.",
+    "objects": [
+      "bird",
+      "stand",
+      "bowl",
+      "metal"
+    ],
+    "actions": [
+      "perched"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The bird is perched on a metal stand with a bowl in front of it.",
+    "objects": [
+      "bird",
+      "stand",
+      "bowl",
+      "metal"
+    ],
+    "actions": [
+      "perched"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The bird is perched on a metal stand with a bowl in front of it.",
+    "objects": [
+      "bird",
+      "stand",
+      "bowl",
+      "metal"
+    ],
+    "actions": [
+      "perched"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The bird is perched on a metal stand with a bowl in front of it.",
+    "objects": [
+      "bird",
+      "stand",
+      "bowl",
+      "metal"
+    ],
+    "actions": [
+      "perched"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The room has a window with a glass door and a large mirror.",
+    "objects": [
+      "door",
+      "window",
+      "mirror",
+      "room",
+      "has",
+      "glass",
+      "large"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The room has a window with a glass door and a large mirror.",
+    "objects": [
+      "door",
+      "window",
+      "mirror",
+      "room",
+      "has",
+      "glass",
+      "large"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The room has a window with a glass door and a large mirror.",
+    "objects": [
+      "door",
+      "window",
+      "mirror",
+      "room",
+      "has",
+      "glass",
+      "large"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The room has a window with a glass door and a large mirror.",
+    "objects": [
+      "door",
+      "window",
+      "mirror",
+      "room",
+      "has",
+      "glass",
+      "large"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The room has a window with a glass door and a large mirror.",
+    "objects": [
+      "door",
+      "window",
+      "mirror",
+      "room",
+      "has",
+      "glass",
+      "large"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The bird is on a metal stand, and the people are standing in the room.",
+    "objects": [
+      "stand",
+      "room",
+      "metal",
+      "bird",
+      "people"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The bird is on a metal stand, and the people are standing in the room.",
+    "objects": [
+      "stand",
+      "room",
+      "metal",
+      "bird",
+      "people"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  }
+]

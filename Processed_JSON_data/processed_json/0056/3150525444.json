@@ -1,0 +1,562 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a lively scene in a living room where a group of people are gathered, engaged in a lively conversation.",
+    "objects": [
+      "lively",
+      "this",
+      "people",
+      "where",
+      "group",
+      "conversation",
+      "room"
+    ],
+    "actions": [
+      "gathered",
+      "living",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a lively scene in a living room where a group of people are gathered, engaged in a lively conversation.",
+    "objects": [
+      "lively",
+      "this",
+      "people",
+      "where",
+      "group",
+      "conversation",
+      "room"
+    ],
+    "actions": [
+      "gathered",
+      "living",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The room is filled with various objects that add to the homely atmosphere, including a television set, a bookshelf, a chair, and a clock hanging on the wall.",
+    "objects": [
+      "chair",
+      "add",
+      "wall",
+      "bookshelf",
+      "homely",
+      "television",
+      "atmosphere",
+      "clock"
+    ],
+    "actions": [
+      "objects",
+      "hanging",
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The room is filled with various objects that add to the homely atmosphere, including a television set, a bookshelf, a chair, and a clock hanging on the wall.",
+    "objects": [
+      "chair",
+      "add",
+      "wall",
+      "bookshelf",
+      "homely",
+      "television",
+      "atmosphere",
+      "clock"
+    ],
+    "actions": [
+      "objects",
+      "hanging",
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is decorated with Christmas lights, adding a festive touch to the ambiance.",
+    "objects": [
+      "festive",
+      "touch",
+      "ambiance",
+      "room"
+    ],
+    "actions": [
+      "christmas",
+      "lights",
+      "decorated",
+      "adding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is decorated with Christmas lights, adding a festive touch to the ambiance.",
+    "objects": [
+      "festive",
+      "touch",
+      "ambiance",
+      "room"
+    ],
+    "actions": [
+      "christmas",
+      "lights",
+      "decorated",
+      "adding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, we see two individuals standing in the room.",
+    "objects": [
+      "two",
+      "see",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, we see two individuals standing in the room.",
+    "objects": [
+      "two",
+      "see",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The first person is a woman dressed in a white blouse and blue jeans, holding a game controller, possibly indicating a gaming session.",
+    "objects": [
+      "first",
+      "woman",
+      "white",
+      "game",
+      "blue",
+      "controller",
+      "session",
+      "blouse"
+    ],
+    "actions": [
+      "indicating",
+      "holding",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The first person is a woman dressed in a white blouse and blue jeans, holding a game controller, possibly indicating a gaming session.",
+    "objects": [
+      "first",
+      "woman",
+      "white",
+      "game",
+      "blue",
+      "controller",
+      "session",
+      "blouse"
+    ],
+    "actions": [
+      "indicating",
+      "holding",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "She is engaged in an animated conversation with the second person, who is a man in a blue shirt, standing next to her.",
+    "objects": [
+      "man",
+      "her",
+      "she",
+      "who",
+      "blue",
+      "conversation",
+      "second",
+      "shirt"
+    ],
+    "actions": [
+      "engaged",
+      "standing",
+      "animated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "She is engaged in an animated conversation with the second person, who is a man in a blue shirt, standing next to her.",
+    "objects": [
+      "man",
+      "her",
+      "she",
+      "who",
+      "blue",
+      "conversation",
+      "second",
+      "shirt"
+    ],
+    "actions": [
+      "engaged",
+      "standing",
+      "animated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Both of them are holding drinks, suggesting they might be enjoying a casual get-together or a party.",
+    "objects": [
+      "casual",
+      "them",
+      "might",
+      "both",
+      "party",
+      "they"
+    ],
+    "actions": [
+      "drinks",
+      "holding",
+      "enjoying",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Both of them are holding drinks, suggesting they might be enjoying a casual get-together or a party.",
+    "objects": [
+      "casual",
+      "them",
+      "might",
+      "both",
+      "party",
+      "they"
+    ],
+    "actions": [
+      "drinks",
+      "holding",
+      "enjoying",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "Further back, a woman in a black top is standing in the room, her attention drawn towards the television.",
+    "objects": [
+      "further",
+      "black",
+      "woman",
+      "attention",
+      "television",
+      "drawn",
+      "her",
+      "top"
+    ],
+    "actions": [
+      "standing",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "Further back, a woman in a black top is standing in the room, her attention drawn towards the television.",
+    "objects": [
+      "further",
+      "black",
+      "woman",
+      "attention",
+      "television",
+      "drawn",
+      "her",
+      "top"
+    ],
+    "actions": [
+      "standing",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "She appears to be observing something on the screen, possibly reacting to the content being displayed.",
+    "objects": [
+      "she",
+      "possibly",
+      "screen",
+      "content"
+    ],
+    "actions": [
+      "something",
+      "observing",
+      "reacting",
+      "displayed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "She appears to be observing something on the screen, possibly reacting to the content being displayed.",
+    "objects": [
+      "she",
+      "possibly",
+      "screen",
+      "content"
+    ],
+    "actions": [
+      "something",
+      "observing",
+      "reacting",
+      "displayed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "Another man in a black shirt is also present, contributing to the convivial atmosphere.",
+    "objects": [
+      "present",
+      "man",
+      "convivial",
+      "atmosphere",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "contributing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "Another man in a black shirt is also present, contributing to the convivial atmosphere.",
+    "objects": [
+      "present",
+      "man",
+      "convivial",
+      "atmosphere",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "contributing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "He is holding a remote control, perhaps controlling the device or adjusting the volume.",
+    "objects": [
+      "volume",
+      "remote",
+      "device",
+      "control"
+    ],
+    "actions": [
+      "controlling",
+      "adjusting",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "He is holding a remote control, perhaps controlling the device or adjusting the volume.",
+    "objects": [
+      "volume",
+      "remote",
+      "device",
+      "control"
+    ],
+    "actions": [
+      "controlling",
+      "adjusting",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The room is filled with objects that tell a story of everyday life.",
+    "objects": [
+      "life",
+      "everyday",
+      "that",
+      "tell",
+      "story",
+      "room"
+    ],
+    "actions": [
+      "objects",
+      "filled"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The room is filled with objects that tell a story of everyday life.",
+    "objects": [
+      "life",
+      "everyday",
+      "that",
+      "tell",
+      "story",
+      "room"
+    ],
+    "actions": [
+      "objects",
+      "filled"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A television set is on, likely displaying some form of entertainment.",
+    "objects": [
+      "some",
+      "likely",
+      "entertainment",
+      "television",
+      "form",
+      "set"
+    ],
+    "actions": [
+      "displaying"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A television set is on, likely displaying some form of entertainment.",
+    "objects": [
+      "some",
+      "likely",
+      "entertainment",
+      "television",
+      "form",
+      "set"
+    ],
+    "actions": [
+      "displaying"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A bookshelf stands in the background, filled with various items.",
+    "objects": [
+      "bookshelf"
+    ],
+    "actions": [
+      "filled",
+      "items",
+      "stands"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A bookshelf stands in the background, filled with various items.",
+    "objects": [
+      "bookshelf"
+    ],
+    "actions": [
+      "filled",
+      "items",
+      "stands"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A clock is visible on the wall, ticking away the passage of time.",
+    "objects": [
+      "wall",
+      "away",
+      "clock",
+      "passage",
+      "time"
+    ],
+    "actions": [
+      "ticking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A clock is visible on the wall, ticking away the passage of time.",
+    "objects": [
+      "wall",
+      "away",
+      "clock",
+      "passage",
+      "time"
+    ],
+    "actions": [
+      "ticking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The Christmas lights twinkle, adding a festive glow to the room, and a chair is placed strategically for comfort.",
+    "objects": [
+      "chair",
+      "festive",
+      "strategically",
+      "comfort",
+      "glow",
+      "twinkle",
+      "room"
+    ],
+    "actions": [
+      "christmas",
+      "placed",
+      "lights",
+      "adding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The Christmas lights twinkle, adding a festive glow to the room, and a chair is placed strategically for comfort.",
+    "objects": [
+      "chair",
+      "festive",
+      "strategically",
+      "comfort",
+      "glow",
+      "twinkle",
+      "room"
+    ],
+    "actions": [
+      "christmas",
+      "placed",
+      "lights",
+      "adding"
+    ],
+    "segment_id": 15
+  }
+]

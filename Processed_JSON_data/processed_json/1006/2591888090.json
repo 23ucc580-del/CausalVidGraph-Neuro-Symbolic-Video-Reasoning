@@ -1,0 +1,506 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man and two children are seen walking down a suburban street.",
+    "objects": [
+      "suburban",
+      "street",
+      "two",
+      "children",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man and two children are seen walking down a suburban street.",
+    "objects": [
+      "suburban",
+      "street",
+      "two",
+      "children",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man and two children are seen walking down a suburban street.",
+    "objects": [
+      "suburban",
+      "street",
+      "two",
+      "children",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man and two children are seen walking down a suburban street.",
+    "objects": [
+      "suburban",
+      "street",
+      "two",
+      "children",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a black t-shirt, blue shorts, and white shoes, while the boy on the left is wearing a blue t-shirt and white shorts, and the boy on the right is wearing a red hoodie and a white hat.",
+    "objects": [
+      "white",
+      "boy",
+      "while",
+      "black",
+      "blue",
+      "hat",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "red",
+      "shoes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a black t-shirt, blue shorts, and white shoes, while the boy on the left is wearing a blue t-shirt and white shorts, and the boy on the right is wearing a red hoodie and a white hat.",
+    "objects": [
+      "white",
+      "boy",
+      "while",
+      "black",
+      "blue",
+      "hat",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "red",
+      "shoes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is wearing a black t-shirt, blue shorts, and white shoes, while the boy on the left is wearing a blue t-shirt and white shorts, and the boy on the right is wearing a red hoodie and a white hat.",
+    "objects": [
+      "white",
+      "boy",
+      "while",
+      "black",
+      "blue",
+      "hat",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "red",
+      "shoes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is wearing a black t-shirt, blue shorts, and white shoes, while the boy on the left is wearing a blue t-shirt and white shorts, and the boy on the right is wearing a red hoodie and a white hat.",
+    "objects": [
+      "white",
+      "boy",
+      "while",
+      "black",
+      "blue",
+      "hat",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "red",
+      "shoes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is pushing a stroller with a red canopy, and the boy on the right is pushing a red stroller with a canopy.",
+    "objects": [
+      "man",
+      "canopy",
+      "boy",
+      "stroller"
+    ],
+    "actions": [
+      "pushing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is pushing a stroller with a red canopy, and the boy on the right is pushing a red stroller with a canopy.",
+    "objects": [
+      "man",
+      "canopy",
+      "boy",
+      "stroller"
+    ],
+    "actions": [
+      "pushing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man is pushing a stroller with a red canopy, and the boy on the right is pushing a red stroller with a canopy.",
+    "objects": [
+      "man",
+      "canopy",
+      "boy",
+      "stroller"
+    ],
+    "actions": [
+      "pushing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man is pushing a stroller with a red canopy, and the boy on the right is pushing a red stroller with a canopy.",
+    "objects": [
+      "man",
+      "canopy",
+      "boy",
+      "stroller"
+    ],
+    "actions": [
+      "pushing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Both strollers are equipped with safety belts.",
+    "objects": [
+      "both",
+      "safety"
+    ],
+    "actions": [
+      "belts",
+      "strollers"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Both strollers are equipped with safety belts.",
+    "objects": [
+      "both",
+      "safety"
+    ],
+    "actions": [
+      "belts",
+      "strollers"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Both strollers are equipped with safety belts.",
+    "objects": [
+      "both",
+      "safety"
+    ],
+    "actions": [
+      "belts",
+      "strollers"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Both strollers are equipped with safety belts.",
+    "objects": [
+      "both",
+      "safety"
+    ],
+    "actions": [
+      "belts",
+      "strollers"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The street is lined with houses and cars, and the sun is shining.",
+    "objects": [
+      "sun",
+      "cars",
+      "street"
+    ],
+    "actions": [
+      "shining",
+      "houses",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The street is lined with houses and cars, and the sun is shining.",
+    "objects": [
+      "sun",
+      "cars",
+      "street"
+    ],
+    "actions": [
+      "shining",
+      "houses",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The street is lined with houses and cars, and the sun is shining.",
+    "objects": [
+      "sun",
+      "cars",
+      "street"
+    ],
+    "actions": [
+      "shining",
+      "houses",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The street is lined with houses and cars, and the sun is shining.",
+    "objects": [
+      "sun",
+      "cars",
+      "street"
+    ],
+    "actions": [
+      "shining",
+      "houses",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man holds the hand of the boy on the right and the boy on the right holds the handle of the stroller.",
+    "objects": [
+      "handle",
+      "boy",
+      "stroller",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man holds the hand of the boy on the right and the boy on the right holds the handle of the stroller.",
+    "objects": [
+      "handle",
+      "boy",
+      "stroller",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man holds the hand of the boy on the right and the boy on the right holds the handle of the stroller.",
+    "objects": [
+      "handle",
+      "boy",
+      "stroller",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man holds the hand of the boy on the right and the boy on the right holds the handle of the stroller.",
+    "objects": [
+      "handle",
+      "boy",
+      "stroller",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The boy on the left is wearing a blue hat and a white shirt, while the boy on the right is wearing a red hat and a pink shirt.",
+    "objects": [
+      "boy",
+      "white",
+      "pink",
+      "while",
+      "blue",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The boy on the left is wearing a blue hat and a white shirt, while the boy on the right is wearing a red hat and a pink shirt.",
+    "objects": [
+      "boy",
+      "white",
+      "pink",
+      "while",
+      "blue",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The boy on the left is wearing a blue hat and a white shirt, while the boy on the right is wearing a red hat and a pink shirt.",
+    "objects": [
+      "boy",
+      "white",
+      "pink",
+      "while",
+      "blue",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The boy on the left is wearing a blue hat and a white shirt, while the boy on the right is wearing a red hat and a pink shirt.",
+    "objects": [
+      "boy",
+      "white",
+      "pink",
+      "while",
+      "blue",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The boy on the right is also holding a red umbrella, and the man is holding a red umbrella.",
+    "objects": [
+      "man",
+      "umbrella",
+      "boy"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The boy on the right is also holding a red umbrella, and the man is holding a red umbrella.",
+    "objects": [
+      "man",
+      "umbrella",
+      "boy"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The boy on the right is also holding a red umbrella, and the man is holding a red umbrella.",
+    "objects": [
+      "man",
+      "umbrella",
+      "boy"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The boy on the right is also holding a red umbrella, and the man is holding a red umbrella.",
+    "objects": [
+      "man",
+      "umbrella",
+      "boy"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  }
+]

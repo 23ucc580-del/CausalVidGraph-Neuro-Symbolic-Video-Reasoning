@@ -1,0 +1,576 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of four people are gathered in a living room, engaged in a lively conversation.",
+    "objects": [
+      "people",
+      "conversation",
+      "lively",
+      "four",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of four people are gathered in a living room, engaged in a lively conversation.",
+    "objects": [
+      "people",
+      "conversation",
+      "lively",
+      "four",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene unfolds as follows:\n\n\n1.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "unfolds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene unfolds as follows:\n\n\n1.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "unfolds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Two men are seated on a sofa, one in a blue hoodie and the other in a black jacket.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "black",
+      "men",
+      "blue",
+      "jacket",
+      "sofa"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "Two men are seated on a sofa, one in a blue hoodie and the other in a black jacket.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "black",
+      "men",
+      "blue",
+      "jacket",
+      "sofa"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "They are laughing and enjoying each other's company.",
+    "objects": [
+      "they",
+      "company",
+      "each"
+    ],
+    "actions": [
+      "other's",
+      "enjoying",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "They are laughing and enjoying each other's company.",
+    "objects": [
+      "they",
+      "company",
+      "each"
+    ],
+    "actions": [
+      "other's",
+      "enjoying",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A woman in a white jacket is standing, holding a white bag.",
+    "objects": [
+      "jacket",
+      "bag",
+      "white",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A woman in a white jacket is standing, holding a white bag.",
+    "objects": [
+      "jacket",
+      "bag",
+      "white",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "She is wearing white pants and a black top, her attention seemingly caught by something out of frame.",
+    "objects": [
+      "white",
+      "she",
+      "attention",
+      "caught",
+      "black",
+      "top",
+      "seemingly",
+      "out"
+    ],
+    "actions": [
+      "wearing",
+      "something",
+      "pants"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "She is wearing white pants and a black top, her attention seemingly caught by something out of frame.",
+    "objects": [
+      "white",
+      "she",
+      "attention",
+      "caught",
+      "black",
+      "top",
+      "seemingly",
+      "out"
+    ],
+    "actions": [
+      "wearing",
+      "something",
+      "pants"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man, dressed in a white shirt, is seated in a chair, actively participating in the conversation.",
+    "objects": [
+      "white",
+      "conversation",
+      "actively",
+      "shirt",
+      "man",
+      "chair"
+    ],
+    "actions": [
+      "participating",
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man, dressed in a white shirt, is seated in a chair, actively participating in the conversation.",
+    "objects": [
+      "white",
+      "conversation",
+      "actively",
+      "shirt",
+      "man",
+      "chair"
+    ],
+    "actions": [
+      "participating",
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A woman in a black jacket is standing, her attention is on the man in the white shirt, and she is holding a white object, possibly a phone.",
+    "objects": [
+      "attention",
+      "white",
+      "woman",
+      "she",
+      "black",
+      "jacket",
+      "possibly",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman in a black jacket is standing, her attention is on the man in the white shirt, and she is holding a white object, possibly a phone.",
+    "objects": [
+      "attention",
+      "white",
+      "woman",
+      "she",
+      "black",
+      "jacket",
+      "possibly",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A fourth person, wearing a suit, stands next to the woman in the black jacket, her face lit up with a smile.",
+    "objects": [
+      "suit",
+      "woman",
+      "black",
+      "jacket",
+      "fourth",
+      "face",
+      "lit",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A fourth person, wearing a suit, stands next to the woman in the black jacket, her face lit up with a smile.",
+    "objects": [
+      "suit",
+      "woman",
+      "black",
+      "jacket",
+      "fourth",
+      "face",
+      "lit",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a black suit is standing, holding a white object in his left hand, seemingly engaged in the conversation.",
+    "objects": [
+      "white",
+      "suit",
+      "black",
+      "conversation",
+      "seemingly",
+      "his",
+      "object",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a black suit is standing, holding a white object in his left hand, seemingly engaged in the conversation.",
+    "objects": [
+      "white",
+      "suit",
+      "black",
+      "conversation",
+      "seemingly",
+      "his",
+      "object",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a white jacket and black pants stands, her attention is on the man in the white shirt.",
+    "objects": [
+      "white",
+      "attention",
+      "woman",
+      "jacket",
+      "black",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "pants",
+      "stands"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a white jacket and black pants stands, her attention is on the man in the white shirt.",
+    "objects": [
+      "white",
+      "attention",
+      "woman",
+      "jacket",
+      "black",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "pants",
+      "stands"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a blue shirt is standing, holding a white object, and is smiling towards the woman in the blue jacket.",
+    "objects": [
+      "white",
+      "woman",
+      "jacket",
+      "blue",
+      "shirt",
+      "object",
+      "man"
+    ],
+    "actions": [
+      "towards",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a blue shirt is standing, holding a white object, and is smiling towards the woman in the blue jacket.",
+    "objects": [
+      "white",
+      "woman",
+      "jacket",
+      "blue",
+      "shirt",
+      "object",
+      "man"
+    ],
+    "actions": [
+      "towards",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman in a black dress is standing, her attention is on the man in the blue shirt.",
+    "objects": [
+      "attention",
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "her",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman in a black dress is standing, her attention is on the man in the blue shirt.",
+    "objects": [
+      "attention",
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "her",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a black suit is standing, holding a white object, and is smiling towards the woman in the black dress.",
+    "objects": [
+      "white",
+      "suit",
+      "woman",
+      "black",
+      "dress",
+      "object",
+      "man"
+    ],
+    "actions": [
+      "towards",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a black suit is standing, holding a white object, and is smiling towards the woman in the black dress.",
+    "objects": [
+      "white",
+      "suit",
+      "woman",
+      "black",
+      "dress",
+      "object",
+      "man"
+    ],
+    "actions": [
+      "towards",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A woman in a white shirt is standing, her attention is on the man in the black suit.",
+    "objects": [
+      "attention",
+      "white",
+      "woman",
+      "suit",
+      "black",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A woman in a white shirt is standing, her attention is on the man in the black suit.",
+    "objects": [
+      "attention",
+      "white",
+      "woman",
+      "suit",
+      "black",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a blue shirt is standing, holding a white object, and is smiling towards the woman in the white shirt.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "object",
+      "man"
+    ],
+    "actions": [
+      "towards",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a blue shirt is standing, holding a white object, and is smiling towards the woman in the white shirt.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "object",
+      "man"
+    ],
+    "actions": [
+      "towards",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 15
+  }
+]

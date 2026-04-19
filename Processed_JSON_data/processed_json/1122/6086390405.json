@@ -1,0 +1,553 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively scene in a residential neighborhood.",
+    "objects": [
+      "neighborhood",
+      "residential",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively scene in a residential neighborhood.",
+    "objects": [
+      "neighborhood",
+      "residential",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively scene in a residential neighborhood.",
+    "objects": [
+      "neighborhood",
+      "residential",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a lively scene in a residential neighborhood.",
+    "objects": [
+      "neighborhood",
+      "residential",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video captures a lively scene in a residential neighborhood.",
+    "objects": [
+      "neighborhood",
+      "residential",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "A young boy is seen energetically riding a silver bicycle down the sidewalk, wearing a blue hoodie and a helmet.",
+    "objects": [
+      "blue",
+      "helmet",
+      "silver",
+      "young",
+      "sidewalk",
+      "hoodie",
+      "boy",
+      "energetically"
+    ],
+    "actions": [
+      "riding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A young boy is seen energetically riding a silver bicycle down the sidewalk, wearing a blue hoodie and a helmet.",
+    "objects": [
+      "blue",
+      "helmet",
+      "silver",
+      "young",
+      "sidewalk",
+      "hoodie",
+      "boy",
+      "energetically"
+    ],
+    "actions": [
+      "riding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A young boy is seen energetically riding a silver bicycle down the sidewalk, wearing a blue hoodie and a helmet.",
+    "objects": [
+      "blue",
+      "helmet",
+      "silver",
+      "young",
+      "sidewalk",
+      "hoodie",
+      "boy",
+      "energetically"
+    ],
+    "actions": [
+      "riding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A young boy is seen energetically riding a silver bicycle down the sidewalk, wearing a blue hoodie and a helmet.",
+    "objects": [
+      "blue",
+      "helmet",
+      "silver",
+      "young",
+      "sidewalk",
+      "hoodie",
+      "boy",
+      "energetically"
+    ],
+    "actions": [
+      "riding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "A young boy is seen energetically riding a silver bicycle down the sidewalk, wearing a blue hoodie and a helmet.",
+    "objects": [
+      "blue",
+      "helmet",
+      "silver",
+      "young",
+      "sidewalk",
+      "hoodie",
+      "boy",
+      "energetically"
+    ],
+    "actions": [
+      "riding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "He is grinning from ear to ear, clearly enjoying his ride.",
+    "objects": [
+      "from",
+      "ride",
+      "his",
+      "ear",
+      "clearly"
+    ],
+    "actions": [
+      "grinning",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is grinning from ear to ear, clearly enjoying his ride.",
+    "objects": [
+      "from",
+      "ride",
+      "his",
+      "ear",
+      "clearly"
+    ],
+    "actions": [
+      "grinning",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "He is grinning from ear to ear, clearly enjoying his ride.",
+    "objects": [
+      "from",
+      "ride",
+      "his",
+      "ear",
+      "clearly"
+    ],
+    "actions": [
+      "grinning",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "He is grinning from ear to ear, clearly enjoying his ride.",
+    "objects": [
+      "from",
+      "ride",
+      "his",
+      "ear",
+      "clearly"
+    ],
+    "actions": [
+      "grinning",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "He is grinning from ear to ear, clearly enjoying his ride.",
+    "objects": [
+      "from",
+      "ride",
+      "his",
+      "ear",
+      "clearly"
+    ],
+    "actions": [
+      "grinning",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "Not far from him, another boy is walking on the sidewalk, also wearing a blue hoodie and a backpack.",
+    "objects": [
+      "far",
+      "blue",
+      "him",
+      "not",
+      "sidewalk",
+      "hoodie",
+      "backpack",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Not far from him, another boy is walking on the sidewalk, also wearing a blue hoodie and a backpack.",
+    "objects": [
+      "far",
+      "blue",
+      "him",
+      "not",
+      "sidewalk",
+      "hoodie",
+      "backpack",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "Not far from him, another boy is walking on the sidewalk, also wearing a blue hoodie and a backpack.",
+    "objects": [
+      "far",
+      "blue",
+      "him",
+      "not",
+      "sidewalk",
+      "hoodie",
+      "backpack",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "Not far from him, another boy is walking on the sidewalk, also wearing a blue hoodie and a backpack.",
+    "objects": [
+      "far",
+      "blue",
+      "him",
+      "not",
+      "sidewalk",
+      "hoodie",
+      "backpack",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "Not far from him, another boy is walking on the sidewalk, also wearing a blue hoodie and a backpack.",
+    "objects": [
+      "far",
+      "blue",
+      "him",
+      "not",
+      "sidewalk",
+      "hoodie",
+      "backpack",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The two boys are moving in the same direction, one on a bicycle and the other on foot, creating a dynamic duo in motion.",
+    "objects": [
+      "direction",
+      "duo",
+      "foot",
+      "dynamic",
+      "motion",
+      "other",
+      "one",
+      "same"
+    ],
+    "actions": [
+      "creating",
+      "moving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The two boys are moving in the same direction, one on a bicycle and the other on foot, creating a dynamic duo in motion.",
+    "objects": [
+      "direction",
+      "duo",
+      "foot",
+      "dynamic",
+      "motion",
+      "other",
+      "one",
+      "same"
+    ],
+    "actions": [
+      "creating",
+      "moving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The two boys are moving in the same direction, one on a bicycle and the other on foot, creating a dynamic duo in motion.",
+    "objects": [
+      "direction",
+      "duo",
+      "foot",
+      "dynamic",
+      "motion",
+      "other",
+      "one",
+      "same"
+    ],
+    "actions": [
+      "creating",
+      "moving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The two boys are moving in the same direction, one on a bicycle and the other on foot, creating a dynamic duo in motion.",
+    "objects": [
+      "direction",
+      "duo",
+      "foot",
+      "dynamic",
+      "motion",
+      "other",
+      "one",
+      "same"
+    ],
+    "actions": [
+      "creating",
+      "moving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The two boys are moving in the same direction, one on a bicycle and the other on foot, creating a dynamic duo in motion.",
+    "objects": [
+      "direction",
+      "duo",
+      "foot",
+      "dynamic",
+      "motion",
+      "other",
+      "one",
+      "same"
+    ],
+    "actions": [
+      "creating",
+      "moving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "In the distance, cars are parked along the curb, adding to the suburban ambiance.",
+    "objects": [
+      "ambiance",
+      "suburban",
+      "cars",
+      "curb",
+      "along",
+      "distance"
+    ],
+    "actions": [
+      "adding",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "In the distance, cars are parked along the curb, adding to the suburban ambiance.",
+    "objects": [
+      "ambiance",
+      "suburban",
+      "cars",
+      "curb",
+      "along",
+      "distance"
+    ],
+    "actions": [
+      "adding",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "In the distance, cars are parked along the curb, adding to the suburban ambiance.",
+    "objects": [
+      "ambiance",
+      "suburban",
+      "cars",
+      "curb",
+      "along",
+      "distance"
+    ],
+    "actions": [
+      "adding",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "In the distance, cars are parked along the curb, adding to the suburban ambiance.",
+    "objects": [
+      "ambiance",
+      "suburban",
+      "cars",
+      "curb",
+      "along",
+      "distance"
+    ],
+    "actions": [
+      "adding",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "In the distance, cars are parked along the curb, adding to the suburban ambiance.",
+    "objects": [
+      "ambiance",
+      "suburban",
+      "cars",
+      "curb",
+      "along",
+      "distance"
+    ],
+    "actions": [
+      "adding",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The video is a snapshot of a regular day in the life of a community, with its youthful energy and everyday activities.",
+    "objects": [
+      "regular",
+      "community",
+      "youthful",
+      "energy",
+      "its",
+      "day",
+      "life",
+      "snapshot"
+    ],
+    "actions": [
+      "activities"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The video is a snapshot of a regular day in the life of a community, with its youthful energy and everyday activities.",
+    "objects": [
+      "regular",
+      "community",
+      "youthful",
+      "energy",
+      "its",
+      "day",
+      "life",
+      "snapshot"
+    ],
+    "actions": [
+      "activities"
+    ],
+    "segment_id": 6
+  }
+]

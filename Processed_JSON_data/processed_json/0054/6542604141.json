@@ -1,0 +1,564 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video depicts a lively scene on a grassy park field where a group of young men are engaged in a game of football.",
+    "objects": [
+      "lively",
+      "this",
+      "grassy",
+      "football",
+      "park",
+      "where",
+      "group",
+      "young"
+    ],
+    "actions": [
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video depicts a lively scene on a grassy park field where a group of young men are engaged in a game of football.",
+    "objects": [
+      "lively",
+      "this",
+      "grassy",
+      "football",
+      "park",
+      "where",
+      "group",
+      "young"
+    ],
+    "actions": [
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video depicts a lively scene on a grassy park field where a group of young men are engaged in a game of football.",
+    "objects": [
+      "lively",
+      "this",
+      "grassy",
+      "football",
+      "park",
+      "where",
+      "group",
+      "young"
+    ],
+    "actions": [
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "There are four men in the frame, each one dressed in casual sportswear.",
+    "objects": [
+      "each",
+      "casual",
+      "four",
+      "one",
+      "men",
+      "sportswear",
+      "there"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "There are four men in the frame, each one dressed in casual sportswear.",
+    "objects": [
+      "each",
+      "casual",
+      "four",
+      "one",
+      "men",
+      "sportswear",
+      "there"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "There are four men in the frame, each one dressed in casual sportswear.",
+    "objects": [
+      "each",
+      "casual",
+      "four",
+      "one",
+      "men",
+      "sportswear",
+      "there"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One of them is wearing a blue hoodie, another a black shirt, and the third is sporting a white hoodie.",
+    "objects": [
+      "white",
+      "third",
+      "them",
+      "hoodie",
+      "blue",
+      "one",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sporting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "One of them is wearing a blue hoodie, another a black shirt, and the third is sporting a white hoodie.",
+    "objects": [
+      "white",
+      "third",
+      "them",
+      "hoodie",
+      "blue",
+      "one",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sporting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "One of them is wearing a blue hoodie, another a black shirt, and the third is sporting a white hoodie.",
+    "objects": [
+      "white",
+      "third",
+      "them",
+      "hoodie",
+      "blue",
+      "one",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sporting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The fourth man is wearing a black shirt.",
+    "objects": [
+      "shirt",
+      "man",
+      "fourth",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The fourth man is wearing a black shirt.",
+    "objects": [
+      "shirt",
+      "man",
+      "fourth",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The fourth man is wearing a black shirt.",
+    "objects": [
+      "shirt",
+      "man",
+      "fourth",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in the blue hoodie is running towards the right side of the frame, possibly chasing after the ball.",
+    "objects": [
+      "man",
+      "hoodie",
+      "side",
+      "blue",
+      "after",
+      "ball",
+      "possibly"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "chasing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in the blue hoodie is running towards the right side of the frame, possibly chasing after the ball.",
+    "objects": [
+      "man",
+      "hoodie",
+      "side",
+      "blue",
+      "after",
+      "ball",
+      "possibly"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "chasing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the blue hoodie is running towards the right side of the frame, possibly chasing after the ball.",
+    "objects": [
+      "man",
+      "hoodie",
+      "side",
+      "blue",
+      "after",
+      "ball",
+      "possibly"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "chasing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the black shirt is running towards the left side of the frame, also chasing after the ball.",
+    "objects": [
+      "man",
+      "side",
+      "after",
+      "shirt",
+      "ball",
+      "black"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "chasing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the black shirt is running towards the left side of the frame, also chasing after the ball.",
+    "objects": [
+      "man",
+      "side",
+      "after",
+      "shirt",
+      "ball",
+      "black"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "chasing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the black shirt is running towards the left side of the frame, also chasing after the ball.",
+    "objects": [
+      "man",
+      "side",
+      "after",
+      "shirt",
+      "ball",
+      "black"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "chasing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the white hoodie is standing still, seemingly observing the game.",
+    "objects": [
+      "still",
+      "white",
+      "man",
+      "seemingly",
+      "hoodie",
+      "game"
+    ],
+    "actions": [
+      "standing",
+      "observing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the white hoodie is standing still, seemingly observing the game.",
+    "objects": [
+      "still",
+      "white",
+      "man",
+      "seemingly",
+      "hoodie",
+      "game"
+    ],
+    "actions": [
+      "standing",
+      "observing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The man in the white hoodie is standing still, seemingly observing the game.",
+    "objects": [
+      "still",
+      "white",
+      "man",
+      "seemingly",
+      "hoodie",
+      "game"
+    ],
+    "actions": [
+      "standing",
+      "observing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The fourth man is holding a ball, possibly waiting for his turn to play.",
+    "objects": [
+      "man",
+      "fourth",
+      "possibly",
+      "play",
+      "turn",
+      "ball",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "waiting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The fourth man is holding a ball, possibly waiting for his turn to play.",
+    "objects": [
+      "man",
+      "fourth",
+      "possibly",
+      "play",
+      "turn",
+      "ball",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "waiting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The fourth man is holding a ball, possibly waiting for his turn to play.",
+    "objects": [
+      "man",
+      "fourth",
+      "possibly",
+      "play",
+      "turn",
+      "ball",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "waiting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is filled with the excitement and energy of a friendly game of football.",
+    "objects": [
+      "football",
+      "friendly",
+      "excitement",
+      "game",
+      "energy"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is filled with the excitement and energy of a friendly game of football.",
+    "objects": [
+      "football",
+      "friendly",
+      "excitement",
+      "game",
+      "energy"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is filled with the excitement and energy of a friendly game of football.",
+    "objects": [
+      "football",
+      "friendly",
+      "excitement",
+      "game",
+      "energy"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The men appear to be enjoying their time, as they run and chase after the ball, their movements suggesting a competitive yet friendly atmosphere.",
+    "objects": [
+      "their",
+      "yet",
+      "friendly",
+      "appear",
+      "atmosphere",
+      "after",
+      "they",
+      "competitive"
+    ],
+    "actions": [
+      "enjoying",
+      "suggesting",
+      "movements"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The men appear to be enjoying their time, as they run and chase after the ball, their movements suggesting a competitive yet friendly atmosphere.",
+    "objects": [
+      "their",
+      "yet",
+      "friendly",
+      "appear",
+      "atmosphere",
+      "after",
+      "they",
+      "competitive"
+    ],
+    "actions": [
+      "enjoying",
+      "suggesting",
+      "movements"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The men appear to be enjoying their time, as they run and chase after the ball, their movements suggesting a competitive yet friendly atmosphere.",
+    "objects": [
+      "their",
+      "yet",
+      "friendly",
+      "appear",
+      "atmosphere",
+      "after",
+      "they",
+      "competitive"
+    ],
+    "actions": [
+      "enjoying",
+      "suggesting",
+      "movements"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The park setting provides a perfect backdrop for this energetic game.",
+    "objects": [
+      "perfect",
+      "this",
+      "backdrop",
+      "energetic",
+      "park",
+      "game"
+    ],
+    "actions": [
+      "provides",
+      "setting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The park setting provides a perfect backdrop for this energetic game.",
+    "objects": [
+      "perfect",
+      "this",
+      "backdrop",
+      "energetic",
+      "park",
+      "game"
+    ],
+    "actions": [
+      "provides",
+      "setting"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is using a small, yellow lawn mower to cut grass in a backyard area.",
+    "objects": [
+      "cut",
+      "yellow",
+      "small",
+      "backyard",
+      "mower",
+      "lawn",
+      "man",
+      "area"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is using a small, yellow lawn mower to cut grass in a backyard area.",
+    "objects": [
+      "cut",
+      "yellow",
+      "small",
+      "backyard",
+      "mower",
+      "lawn",
+      "man",
+      "area"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man is using a small, yellow lawn mower to cut grass in a backyard area.",
+    "objects": [
+      "cut",
+      "yellow",
+      "small",
+      "backyard",
+      "mower",
+      "lawn",
+      "man",
+      "area"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man is using a small, yellow lawn mower to cut grass in a backyard area.",
+    "objects": [
+      "cut",
+      "yellow",
+      "small",
+      "backyard",
+      "mower",
+      "lawn",
+      "man",
+      "area"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The lawn mower is connected to a large, black hose that is being held by another person.",
+    "objects": [
+      "hose",
+      "mower",
+      "lawn",
+      "black",
+      "that",
+      "held",
+      "large"
+    ],
+    "actions": [
+      "being",
+      "connected"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The lawn mower is connected to a large, black hose that is being held by another person.",
+    "objects": [
+      "hose",
+      "mower",
+      "lawn",
+      "black",
+      "that",
+      "held",
+      "large"
+    ],
+    "actions": [
+      "being",
+      "connected"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The lawn mower is connected to a large, black hose that is being held by another person.",
+    "objects": [
+      "hose",
+      "mower",
+      "lawn",
+      "black",
+      "that",
+      "held",
+      "large"
+    ],
+    "actions": [
+      "being",
+      "connected"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The lawn mower is connected to a large, black hose that is being held by another person.",
+    "objects": [
+      "hose",
+      "mower",
+      "lawn",
+      "black",
+      "that",
+      "held",
+      "large"
+    ],
+    "actions": [
+      "being",
+      "connected"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man operating the mower is wearing an orange shirt, while the person holding the hose is dressed in a blue hoodie.",
+    "objects": [
+      "shirt",
+      "hose",
+      "blue",
+      "mower",
+      "orange",
+      "man",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "dressed",
+      "operating",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man operating the mower is wearing an orange shirt, while the person holding the hose is dressed in a blue hoodie.",
+    "objects": [
+      "shirt",
+      "hose",
+      "blue",
+      "mower",
+      "orange",
+      "man",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "dressed",
+      "operating",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man operating the mower is wearing an orange shirt, while the person holding the hose is dressed in a blue hoodie.",
+    "objects": [
+      "shirt",
+      "hose",
+      "blue",
+      "mower",
+      "orange",
+      "man",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "dressed",
+      "operating",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man operating the mower is wearing an orange shirt, while the person holding the hose is dressed in a blue hoodie.",
+    "objects": [
+      "shirt",
+      "hose",
+      "blue",
+      "mower",
+      "orange",
+      "man",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "dressed",
+      "operating",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The lawn mower is powered on, and the person holding the hose is holding it in his right hand, while the mower's handle is in his left hand.",
+    "objects": [
+      "hose",
+      "mower",
+      "lawn",
+      "handle",
+      "hand",
+      "while",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "mower's",
+      "powered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The lawn mower is powered on, and the person holding the hose is holding it in his right hand, while the mower's handle is in his left hand.",
+    "objects": [
+      "hose",
+      "mower",
+      "lawn",
+      "handle",
+      "hand",
+      "while",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "mower's",
+      "powered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The lawn mower is powered on, and the person holding the hose is holding it in his right hand, while the mower's handle is in his left hand.",
+    "objects": [
+      "hose",
+      "mower",
+      "lawn",
+      "handle",
+      "hand",
+      "while",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "mower's",
+      "powered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The lawn mower is powered on, and the person holding the hose is holding it in his right hand, while the mower's handle is in his left hand.",
+    "objects": [
+      "hose",
+      "mower",
+      "lawn",
+      "handle",
+      "hand",
+      "while",
+      "his"
+    ],
+    "actions": [
+      "holding",
+      "mower's",
+      "powered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene is set on a sunny day, and the grass is green.",
+    "objects": [
+      "green",
+      "set",
+      "grass",
+      "sunny",
+      "day"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene is set on a sunny day, and the grass is green.",
+    "objects": [
+      "green",
+      "set",
+      "grass",
+      "sunny",
+      "day"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene is set on a sunny day, and the grass is green.",
+    "objects": [
+      "green",
+      "set",
+      "grass",
+      "sunny",
+      "day"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene is set on a sunny day, and the grass is green.",
+    "objects": [
+      "green",
+      "set",
+      "grass",
+      "sunny",
+      "day"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The backyard area appears to be a typical residential one with a paved area and a patch of dirt.",
+    "objects": [
+      "dirt",
+      "backyard",
+      "one",
+      "residential",
+      "typical",
+      "area",
+      "patch"
+    ],
+    "actions": [
+      "paved"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The backyard area appears to be a typical residential one with a paved area and a patch of dirt.",
+    "objects": [
+      "dirt",
+      "backyard",
+      "one",
+      "residential",
+      "typical",
+      "area",
+      "patch"
+    ],
+    "actions": [
+      "paved"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The backyard area appears to be a typical residential one with a paved area and a patch of dirt.",
+    "objects": [
+      "dirt",
+      "backyard",
+      "one",
+      "residential",
+      "typical",
+      "area",
+      "patch"
+    ],
+    "actions": [
+      "paved"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The backyard area appears to be a typical residential one with a paved area and a patch of dirt.",
+    "objects": [
+      "dirt",
+      "backyard",
+      "one",
+      "residential",
+      "typical",
+      "area",
+      "patch"
+    ],
+    "actions": [
+      "paved"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is wearing shorts and a cap, and the person holding the hose is wearing sunglasses.",
+    "objects": [
+      "hose",
+      "cap",
+      "man"
+    ],
+    "actions": [
+      "sunglasses",
+      "holding",
+      "shorts",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is wearing shorts and a cap, and the person holding the hose is wearing sunglasses.",
+    "objects": [
+      "hose",
+      "cap",
+      "man"
+    ],
+    "actions": [
+      "sunglasses",
+      "holding",
+      "shorts",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is wearing shorts and a cap, and the person holding the hose is wearing sunglasses.",
+    "objects": [
+      "hose",
+      "cap",
+      "man"
+    ],
+    "actions": [
+      "sunglasses",
+      "holding",
+      "shorts",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is wearing shorts and a cap, and the person holding the hose is wearing sunglasses.",
+    "objects": [
+      "hose",
+      "cap",
+      "man"
+    ],
+    "actions": [
+      "sunglasses",
+      "holding",
+      "shorts",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The person holding the hose is also wearing a blue shirt and a cap.",
+    "objects": [
+      "shirt",
+      "hose",
+      "blue",
+      "cap"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The person holding the hose is also wearing a blue shirt and a cap.",
+    "objects": [
+      "shirt",
+      "hose",
+      "blue",
+      "cap"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The person holding the hose is also wearing a blue shirt and a cap.",
+    "objects": [
+      "shirt",
+      "hose",
+      "blue",
+      "cap"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The person holding the hose is also wearing a blue shirt and a cap.",
+    "objects": [
+      "shirt",
+      "hose",
+      "blue",
+      "cap"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 7
+  }
+]

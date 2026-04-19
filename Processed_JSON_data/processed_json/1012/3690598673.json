@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man and a dog are seen standing on a stone patio with a wooden fence in the background.",
+    "objects": [
+      "patio",
+      "dog",
+      "wooden",
+      "man",
+      "stone",
+      "fence"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man and a dog are seen standing on a stone patio with a wooden fence in the background.",
+    "objects": [
+      "patio",
+      "dog",
+      "wooden",
+      "man",
+      "stone",
+      "fence"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man and a dog are seen standing on a stone patio with a wooden fence in the background.",
+    "objects": [
+      "patio",
+      "dog",
+      "wooden",
+      "man",
+      "stone",
+      "fence"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man and a dog are seen standing on a stone patio with a wooden fence in the background.",
+    "objects": [
+      "patio",
+      "dog",
+      "wooden",
+      "man",
+      "stone",
+      "fence"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a blue shirt and holding a yellow frisbee, and the dog is black with a white chest.",
+    "objects": [
+      "frisbee",
+      "white",
+      "chest",
+      "black",
+      "blue",
+      "yellow",
+      "shirt",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a blue shirt and holding a yellow frisbee, and the dog is black with a white chest.",
+    "objects": [
+      "frisbee",
+      "white",
+      "chest",
+      "black",
+      "blue",
+      "yellow",
+      "shirt",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is wearing a blue shirt and holding a yellow frisbee, and the dog is black with a white chest.",
+    "objects": [
+      "frisbee",
+      "white",
+      "chest",
+      "black",
+      "blue",
+      "yellow",
+      "shirt",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is wearing a blue shirt and holding a yellow frisbee, and the dog is black with a white chest.",
+    "objects": [
+      "frisbee",
+      "white",
+      "chest",
+      "black",
+      "blue",
+      "yellow",
+      "shirt",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man throws the frisbee, and the dog chases after it, panting and wagging its tail.",
+    "objects": [
+      "frisbee",
+      "after",
+      "its",
+      "tail",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "wagging",
+      "panting",
+      "throws",
+      "chases"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man throws the frisbee, and the dog chases after it, panting and wagging its tail.",
+    "objects": [
+      "frisbee",
+      "after",
+      "its",
+      "tail",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "wagging",
+      "panting",
+      "throws",
+      "chases"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man throws the frisbee, and the dog chases after it, panting and wagging its tail.",
+    "objects": [
+      "frisbee",
+      "after",
+      "its",
+      "tail",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "wagging",
+      "panting",
+      "throws",
+      "chases"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man throws the frisbee, and the dog chases after it, panting and wagging its tail.",
+    "objects": [
+      "frisbee",
+      "after",
+      "its",
+      "tail",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "wagging",
+      "panting",
+      "throws",
+      "chases"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog jumps to catch the frisbee, and the man throws it again, and the dog jumps to catch it again.",
+    "objects": [
+      "frisbee",
+      "catch",
+      "dog",
+      "man",
+      "again"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog jumps to catch the frisbee, and the man throws it again, and the dog jumps to catch it again.",
+    "objects": [
+      "frisbee",
+      "catch",
+      "dog",
+      "man",
+      "again"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The dog jumps to catch the frisbee, and the man throws it again, and the dog jumps to catch it again.",
+    "objects": [
+      "frisbee",
+      "catch",
+      "dog",
+      "man",
+      "again"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The dog jumps to catch the frisbee, and the man throws it again, and the dog jumps to catch it again.",
+    "objects": [
+      "frisbee",
+      "catch",
+      "dog",
+      "man",
+      "again"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They play with the frisbee in this manner, and the man throws it for a third time, and the dog jumps to catch it.",
+    "objects": [
+      "they",
+      "frisbee",
+      "catch",
+      "dog",
+      "third",
+      "man",
+      "play",
+      "manner"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "They play with the frisbee in this manner, and the man throws it for a third time, and the dog jumps to catch it.",
+    "objects": [
+      "they",
+      "frisbee",
+      "catch",
+      "dog",
+      "third",
+      "man",
+      "play",
+      "manner"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "They play with the frisbee in this manner, and the man throws it for a third time, and the dog jumps to catch it.",
+    "objects": [
+      "they",
+      "frisbee",
+      "catch",
+      "dog",
+      "third",
+      "man",
+      "play",
+      "manner"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "They play with the frisbee in this manner, and the man throws it for a third time, and the dog jumps to catch it.",
+    "objects": [
+      "they",
+      "frisbee",
+      "catch",
+      "dog",
+      "third",
+      "man",
+      "play",
+      "manner"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man smiles while playing with the dog, and the dog continues to jump to catch the frisbee.",
+    "objects": [
+      "frisbee",
+      "catch",
+      "while",
+      "jump",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "continues",
+      "smiles"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man smiles while playing with the dog, and the dog continues to jump to catch the frisbee.",
+    "objects": [
+      "frisbee",
+      "catch",
+      "while",
+      "jump",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "continues",
+      "smiles"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man smiles while playing with the dog, and the dog continues to jump to catch the frisbee.",
+    "objects": [
+      "frisbee",
+      "catch",
+      "while",
+      "jump",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "continues",
+      "smiles"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man smiles while playing with the dog, and the dog continues to jump to catch the frisbee.",
+    "objects": [
+      "frisbee",
+      "catch",
+      "while",
+      "jump",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "continues",
+      "smiles"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The dog looks happy and excited as it catches the frisbee.",
+    "objects": [
+      "frisbee",
+      "dog",
+      "happy"
+    ],
+    "actions": [
+      "excited",
+      "catches",
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog looks happy and excited as it catches the frisbee.",
+    "objects": [
+      "frisbee",
+      "dog",
+      "happy"
+    ],
+    "actions": [
+      "excited",
+      "catches",
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog looks happy and excited as it catches the frisbee.",
+    "objects": [
+      "frisbee",
+      "dog",
+      "happy"
+    ],
+    "actions": [
+      "excited",
+      "catches",
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog looks happy and excited as it catches the frisbee.",
+    "objects": [
+      "frisbee",
+      "dog",
+      "happy"
+    ],
+    "actions": [
+      "excited",
+      "catches",
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is outdoors and the man and dog are the main subjects of the video.",
+    "objects": [
+      "main",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "subjects",
+      "outdoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is outdoors and the man and dog are the main subjects of the video.",
+    "objects": [
+      "main",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "subjects",
+      "outdoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is outdoors and the man and dog are the main subjects of the video.",
+    "objects": [
+      "main",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "subjects",
+      "outdoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is outdoors and the man and dog are the main subjects of the video.",
+    "objects": [
+      "main",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "subjects",
+      "outdoors"
+    ],
+    "segment_id": 7
+  }
+]

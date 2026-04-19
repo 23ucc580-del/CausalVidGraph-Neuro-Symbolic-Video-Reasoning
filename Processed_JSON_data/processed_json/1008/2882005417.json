@@ -1,0 +1,510 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a man standing in a forest, holding a camera, and looking up into the trees.",
+    "objects": [
+      "man",
+      "forest",
+      "into"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "holding",
+      "trees"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a man standing in a forest, holding a camera, and looking up into the trees.",
+    "objects": [
+      "man",
+      "forest",
+      "into"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "holding",
+      "trees"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a man standing in a forest, holding a camera, and looking up into the trees.",
+    "objects": [
+      "man",
+      "forest",
+      "into"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "holding",
+      "trees"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a man standing in a forest, holding a camera, and looking up into the trees.",
+    "objects": [
+      "man",
+      "forest",
+      "into"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "holding",
+      "trees"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is wearing a blue hoodie, and he is capturing the scene with his camera.",
+    "objects": [
+      "his",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "capturing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a blue hoodie, and he is capturing the scene with his camera.",
+    "objects": [
+      "his",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "capturing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is wearing a blue hoodie, and he is capturing the scene with his camera.",
+    "objects": [
+      "his",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "capturing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is wearing a blue hoodie, and he is capturing the scene with his camera.",
+    "objects": [
+      "his",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "capturing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "In the background, there is a squirrel hanging on a branch, and it appears to be looking down at the camera man.",
+    "objects": [
+      "man",
+      "branch",
+      "there",
+      "squirrel"
+    ],
+    "actions": [
+      "hanging",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the background, there is a squirrel hanging on a branch, and it appears to be looking down at the camera man.",
+    "objects": [
+      "man",
+      "branch",
+      "there",
+      "squirrel"
+    ],
+    "actions": [
+      "hanging",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "In the background, there is a squirrel hanging on a branch, and it appears to be looking down at the camera man.",
+    "objects": [
+      "man",
+      "branch",
+      "there",
+      "squirrel"
+    ],
+    "actions": [
+      "hanging",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "In the background, there is a squirrel hanging on a branch, and it appears to be looking down at the camera man.",
+    "objects": [
+      "man",
+      "branch",
+      "there",
+      "squirrel"
+    ],
+    "actions": [
+      "hanging",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The squirrel is wearing a red jacket and holding a camera in its paws, seemingly taking a selfie.",
+    "objects": [
+      "its",
+      "jacket",
+      "seemingly",
+      "selfie",
+      "paws",
+      "squirrel"
+    ],
+    "actions": [
+      "wearing",
+      "taking",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The squirrel is wearing a red jacket and holding a camera in its paws, seemingly taking a selfie.",
+    "objects": [
+      "its",
+      "jacket",
+      "seemingly",
+      "selfie",
+      "paws",
+      "squirrel"
+    ],
+    "actions": [
+      "wearing",
+      "taking",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The squirrel is wearing a red jacket and holding a camera in its paws, seemingly taking a selfie.",
+    "objects": [
+      "its",
+      "jacket",
+      "seemingly",
+      "selfie",
+      "paws",
+      "squirrel"
+    ],
+    "actions": [
+      "wearing",
+      "taking",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The squirrel is wearing a red jacket and holding a camera in its paws, seemingly taking a selfie.",
+    "objects": [
+      "its",
+      "jacket",
+      "seemingly",
+      "selfie",
+      "paws",
+      "squirrel"
+    ],
+    "actions": [
+      "wearing",
+      "taking",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is smiling, and the squirrel is also smiling.",
+    "objects": [
+      "man",
+      "squirrel"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is smiling, and the squirrel is also smiling.",
+    "objects": [
+      "man",
+      "squirrel"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is smiling, and the squirrel is also smiling.",
+    "objects": [
+      "man",
+      "squirrel"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is smiling, and the squirrel is also smiling.",
+    "objects": [
+      "man",
+      "squirrel"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera man is holding a silver camera and seems to be taking a picture of the squirrel, who is wearing a red jacket.",
+    "objects": [
+      "picture",
+      "jacket",
+      "silver",
+      "who",
+      "man",
+      "squirrel"
+    ],
+    "actions": [
+      "seems",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera man is holding a silver camera and seems to be taking a picture of the squirrel, who is wearing a red jacket.",
+    "objects": [
+      "picture",
+      "jacket",
+      "silver",
+      "who",
+      "man",
+      "squirrel"
+    ],
+    "actions": [
+      "seems",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera man is holding a silver camera and seems to be taking a picture of the squirrel, who is wearing a red jacket.",
+    "objects": [
+      "picture",
+      "jacket",
+      "silver",
+      "who",
+      "man",
+      "squirrel"
+    ],
+    "actions": [
+      "seems",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera man is holding a silver camera and seems to be taking a picture of the squirrel, who is wearing a red jacket.",
+    "objects": [
+      "picture",
+      "jacket",
+      "silver",
+      "who",
+      "man",
+      "squirrel"
+    ],
+    "actions": [
+      "seems",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The forest is lush with green trees, and the sunlight is filtering through, creating a serene atmosphere.",
+    "objects": [
+      "serene",
+      "green",
+      "lush",
+      "through",
+      "sunlight",
+      "forest",
+      "atmosphere"
+    ],
+    "actions": [
+      "trees",
+      "creating",
+      "filtering"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The forest is lush with green trees, and the sunlight is filtering through, creating a serene atmosphere.",
+    "objects": [
+      "serene",
+      "green",
+      "lush",
+      "through",
+      "sunlight",
+      "forest",
+      "atmosphere"
+    ],
+    "actions": [
+      "trees",
+      "creating",
+      "filtering"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The forest is lush with green trees, and the sunlight is filtering through, creating a serene atmosphere.",
+    "objects": [
+      "serene",
+      "green",
+      "lush",
+      "through",
+      "sunlight",
+      "forest",
+      "atmosphere"
+    ],
+    "actions": [
+      "trees",
+      "creating",
+      "filtering"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The forest is lush with green trees, and the sunlight is filtering through, creating a serene atmosphere.",
+    "objects": [
+      "serene",
+      "green",
+      "lush",
+      "through",
+      "sunlight",
+      "forest",
+      "atmosphere"
+    ],
+    "actions": [
+      "trees",
+      "creating",
+      "filtering"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The squirrel is also wearing a red hat.",
+    "objects": [
+      "hat",
+      "squirrel"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The squirrel is also wearing a red hat.",
+    "objects": [
+      "hat",
+      "squirrel"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The squirrel is also wearing a red hat.",
+    "objects": [
+      "hat",
+      "squirrel"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The squirrel is also wearing a red hat.",
+    "objects": [
+      "hat",
+      "squirrel"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  }
+]

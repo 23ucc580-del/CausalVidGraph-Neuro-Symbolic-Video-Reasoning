@@ -1,0 +1,606 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a man and a woman standing in a cluttered living room, engrossed in playing a video game on a large television.",
+    "objects": [
+      "game",
+      "large",
+      "room",
+      "man",
+      "television",
+      "woman"
+    ],
+    "actions": [
+      "cluttered",
+      "standing",
+      "opens",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a man and a woman standing in a cluttered living room, engrossed in playing a video game on a large television.",
+    "objects": [
+      "game",
+      "large",
+      "room",
+      "man",
+      "television",
+      "woman"
+    ],
+    "actions": [
+      "cluttered",
+      "standing",
+      "opens",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video opens with a man and a woman standing in a cluttered living room, engrossed in playing a video game on a large television.",
+    "objects": [
+      "game",
+      "large",
+      "room",
+      "man",
+      "television",
+      "woman"
+    ],
+    "actions": [
+      "cluttered",
+      "standing",
+      "opens",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video opens with a man and a woman standing in a cluttered living room, engrossed in playing a video game on a large television.",
+    "objects": [
+      "game",
+      "large",
+      "room",
+      "man",
+      "television",
+      "woman"
+    ],
+    "actions": [
+      "cluttered",
+      "standing",
+      "opens",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is holding a remote control, and the man is dressed in a black shirt and blue jeans.",
+    "objects": [
+      "blue",
+      "remote",
+      "man",
+      "shirt",
+      "control",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "jeans",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is holding a remote control, and the man is dressed in a black shirt and blue jeans.",
+    "objects": [
+      "blue",
+      "remote",
+      "man",
+      "shirt",
+      "control",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "jeans",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is holding a remote control, and the man is dressed in a black shirt and blue jeans.",
+    "objects": [
+      "blue",
+      "remote",
+      "man",
+      "shirt",
+      "control",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "jeans",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is holding a remote control, and the man is dressed in a black shirt and blue jeans.",
+    "objects": [
+      "blue",
+      "remote",
+      "man",
+      "shirt",
+      "control",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "jeans",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A potted plant is visible in the background, and the room is dimly lit, with a single light source casting a warm glow on the scene.",
+    "objects": [
+      "warm",
+      "dimly",
+      "glow",
+      "room",
+      "single",
+      "plant",
+      "source",
+      "light"
+    ],
+    "actions": [
+      "potted",
+      "casting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A potted plant is visible in the background, and the room is dimly lit, with a single light source casting a warm glow on the scene.",
+    "objects": [
+      "warm",
+      "dimly",
+      "glow",
+      "room",
+      "single",
+      "plant",
+      "source",
+      "light"
+    ],
+    "actions": [
+      "potted",
+      "casting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A potted plant is visible in the background, and the room is dimly lit, with a single light source casting a warm glow on the scene.",
+    "objects": [
+      "warm",
+      "dimly",
+      "glow",
+      "room",
+      "single",
+      "plant",
+      "source",
+      "light"
+    ],
+    "actions": [
+      "potted",
+      "casting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A potted plant is visible in the background, and the room is dimly lit, with a single light source casting a warm glow on the scene.",
+    "objects": [
+      "warm",
+      "dimly",
+      "glow",
+      "room",
+      "single",
+      "plant",
+      "source",
+      "light"
+    ],
+    "actions": [
+      "potted",
+      "casting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "As the video progresses, the man stands up, revealing his bare feet and blue jeans, and starts dancing energetically in front of the television.",
+    "objects": [
+      "blue",
+      "feet",
+      "man",
+      "television",
+      "his",
+      "bare",
+      "energetically"
+    ],
+    "actions": [
+      "starts",
+      "dancing",
+      "jeans",
+      "revealing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "As the video progresses, the man stands up, revealing his bare feet and blue jeans, and starts dancing energetically in front of the television.",
+    "objects": [
+      "blue",
+      "feet",
+      "man",
+      "television",
+      "his",
+      "bare",
+      "energetically"
+    ],
+    "actions": [
+      "starts",
+      "dancing",
+      "jeans",
+      "revealing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "As the video progresses, the man stands up, revealing his bare feet and blue jeans, and starts dancing energetically in front of the television.",
+    "objects": [
+      "blue",
+      "feet",
+      "man",
+      "television",
+      "his",
+      "bare",
+      "energetically"
+    ],
+    "actions": [
+      "starts",
+      "dancing",
+      "jeans",
+      "revealing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "As the video progresses, the man stands up, revealing his bare feet and blue jeans, and starts dancing energetically in front of the television.",
+    "objects": [
+      "blue",
+      "feet",
+      "man",
+      "television",
+      "his",
+      "bare",
+      "energetically"
+    ],
+    "actions": [
+      "starts",
+      "dancing",
+      "jeans",
+      "revealing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "He is laughing and looking towards the woman, who is wearing a black sweater and holding a remote control.",
+    "objects": [
+      "sweater",
+      "remote",
+      "control",
+      "black",
+      "woman",
+      "who"
+    ],
+    "actions": [
+      "laughing",
+      "looking",
+      "towards",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "He is laughing and looking towards the woman, who is wearing a black sweater and holding a remote control.",
+    "objects": [
+      "sweater",
+      "remote",
+      "control",
+      "black",
+      "woman",
+      "who"
+    ],
+    "actions": [
+      "laughing",
+      "looking",
+      "towards",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "He is laughing and looking towards the woman, who is wearing a black sweater and holding a remote control.",
+    "objects": [
+      "sweater",
+      "remote",
+      "control",
+      "black",
+      "woman",
+      "who"
+    ],
+    "actions": [
+      "laughing",
+      "looking",
+      "towards",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "He is laughing and looking towards the woman, who is wearing a black sweater and holding a remote control.",
+    "objects": [
+      "sweater",
+      "remote",
+      "control",
+      "black",
+      "woman",
+      "who"
+    ],
+    "actions": [
+      "laughing",
+      "looking",
+      "towards",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "She is also standing up, her feet covered in blue jeans, and she too is laughing and smiling.",
+    "objects": [
+      "blue",
+      "feet",
+      "too",
+      "her",
+      "she"
+    ],
+    "actions": [
+      "laughing",
+      "smiling",
+      "standing",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "She is also standing up, her feet covered in blue jeans, and she too is laughing and smiling.",
+    "objects": [
+      "blue",
+      "feet",
+      "too",
+      "her",
+      "she"
+    ],
+    "actions": [
+      "laughing",
+      "smiling",
+      "standing",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "She is also standing up, her feet covered in blue jeans, and she too is laughing and smiling.",
+    "objects": [
+      "blue",
+      "feet",
+      "too",
+      "her",
+      "she"
+    ],
+    "actions": [
+      "laughing",
+      "smiling",
+      "standing",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "She is also standing up, her feet covered in blue jeans, and she too is laughing and smiling.",
+    "objects": [
+      "blue",
+      "feet",
+      "too",
+      "her",
+      "she"
+    ],
+    "actions": [
+      "laughing",
+      "smiling",
+      "standing",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The room is further filled with objects and activities, such as a blue couch and a bookshelf, a blue carpet, a vase, and a book.",
+    "objects": [
+      "such",
+      "couch",
+      "blue",
+      "bookshelf",
+      "room",
+      "further",
+      "carpet",
+      "book"
+    ],
+    "actions": [
+      "filled",
+      "objects",
+      "activities"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The room is further filled with objects and activities, such as a blue couch and a bookshelf, a blue carpet, a vase, and a book.",
+    "objects": [
+      "such",
+      "couch",
+      "blue",
+      "bookshelf",
+      "room",
+      "further",
+      "carpet",
+      "book"
+    ],
+    "actions": [
+      "filled",
+      "objects",
+      "activities"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The room is further filled with objects and activities, such as a blue couch and a bookshelf, a blue carpet, a vase, and a book.",
+    "objects": [
+      "such",
+      "couch",
+      "blue",
+      "bookshelf",
+      "room",
+      "further",
+      "carpet",
+      "book"
+    ],
+    "actions": [
+      "filled",
+      "objects",
+      "activities"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The room is further filled with objects and activities, such as a blue couch and a bookshelf, a blue carpet, a vase, and a book.",
+    "objects": [
+      "such",
+      "couch",
+      "blue",
+      "bookshelf",
+      "room",
+      "further",
+      "carpet",
+      "book"
+    ],
+    "actions": [
+      "filled",
+      "objects",
+      "activities"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman holds a blue umbrella while dancing, and the man holds a blue ball.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "ball",
+      "umbrella",
+      "woman"
+    ],
+    "actions": [
+      "dancing",
+      "holds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman holds a blue umbrella while dancing, and the man holds a blue ball.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "ball",
+      "umbrella",
+      "woman"
+    ],
+    "actions": [
+      "dancing",
+      "holds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman holds a blue umbrella while dancing, and the man holds a blue ball.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "ball",
+      "umbrella",
+      "woman"
+    ],
+    "actions": [
+      "dancing",
+      "holds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman holds a blue umbrella while dancing, and the man holds a blue ball.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "ball",
+      "umbrella",
+      "woman"
+    ],
+    "actions": [
+      "dancing",
+      "holds"
+    ],
+    "segment_id": 7
+  }
+]

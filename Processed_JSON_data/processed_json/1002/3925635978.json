@@ -1,0 +1,584 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively gathering of friends enjoying a night out at a restaurant.",
+    "objects": [
+      "restaurant",
+      "out",
+      "night",
+      "lively"
+    ],
+    "actions": [
+      "friends",
+      "enjoying",
+      "depicts",
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively gathering of friends enjoying a night out at a restaurant.",
+    "objects": [
+      "restaurant",
+      "out",
+      "night",
+      "lively"
+    ],
+    "actions": [
+      "friends",
+      "enjoying",
+      "depicts",
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively gathering of friends enjoying a night out at a restaurant.",
+    "objects": [
+      "restaurant",
+      "out",
+      "night",
+      "lively"
+    ],
+    "actions": [
+      "friends",
+      "enjoying",
+      "depicts",
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "There are multiple groups of people seated around tables, each engaged in their own conversations.",
+    "objects": [
+      "their",
+      "each",
+      "there",
+      "people",
+      "own",
+      "multiple",
+      "around"
+    ],
+    "actions": [
+      "engaged",
+      "groups",
+      "conversations",
+      "tables"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "There are multiple groups of people seated around tables, each engaged in their own conversations.",
+    "objects": [
+      "their",
+      "each",
+      "there",
+      "people",
+      "own",
+      "multiple",
+      "around"
+    ],
+    "actions": [
+      "engaged",
+      "groups",
+      "conversations",
+      "tables"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "There are multiple groups of people seated around tables, each engaged in their own conversations.",
+    "objects": [
+      "their",
+      "each",
+      "there",
+      "people",
+      "own",
+      "multiple",
+      "around"
+    ],
+    "actions": [
+      "engaged",
+      "groups",
+      "conversations",
+      "tables"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The atmosphere is casual and social, with a focus on food and drink.",
+    "objects": [
+      "casual",
+      "social",
+      "food",
+      "atmosphere",
+      "drink"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The atmosphere is casual and social, with a focus on food and drink.",
+    "objects": [
+      "casual",
+      "social",
+      "food",
+      "atmosphere",
+      "drink"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The atmosphere is casual and social, with a focus on food and drink.",
+    "objects": [
+      "casual",
+      "social",
+      "food",
+      "atmosphere",
+      "drink"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera pans around the groups, showing different interactions.",
+    "objects": [
+      "pans",
+      "around",
+      "different"
+    ],
+    "actions": [
+      "groups",
+      "interactions"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera pans around the groups, showing different interactions.",
+    "objects": [
+      "pans",
+      "around",
+      "different"
+    ],
+    "actions": [
+      "groups",
+      "interactions"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera pans around the groups, showing different interactions.",
+    "objects": [
+      "pans",
+      "around",
+      "different"
+    ],
+    "actions": [
+      "groups",
+      "interactions"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "In one scene, a man is seen with a bowl of food, smiling and looking at the camera, while in another, a woman in a black shirt is holding a bowl of food and looking away from the camera.",
+    "objects": [
+      "one",
+      "woman",
+      "while",
+      "black",
+      "away",
+      "bowl",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "looking",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "In one scene, a man is seen with a bowl of food, smiling and looking at the camera, while in another, a woman in a black shirt is holding a bowl of food and looking away from the camera.",
+    "objects": [
+      "one",
+      "woman",
+      "while",
+      "black",
+      "away",
+      "bowl",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "looking",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "In one scene, a man is seen with a bowl of food, smiling and looking at the camera, while in another, a woman in a black shirt is holding a bowl of food and looking away from the camera.",
+    "objects": [
+      "one",
+      "woman",
+      "while",
+      "black",
+      "away",
+      "bowl",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "looking",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera also shows a man and woman sitting together, with the man wearing a blue shirt and the woman holding a beer.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "beer",
+      "man",
+      "together"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera also shows a man and woman sitting together, with the man wearing a blue shirt and the woman holding a beer.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "beer",
+      "man",
+      "together"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera also shows a man and woman sitting together, with the man wearing a blue shirt and the woman holding a beer.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "beer",
+      "man",
+      "together"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman in a black shirt is seen with a bowl of food, smiling, and a man in a black shirt is holding a beer, with a woman in a white shirt standing next to him.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "him",
+      "bowl",
+      "shirt",
+      "beer",
+      "food"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman in a black shirt is seen with a bowl of food, smiling, and a man in a black shirt is holding a beer, with a woman in a white shirt standing next to him.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "him",
+      "bowl",
+      "shirt",
+      "beer",
+      "food"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a black shirt is seen with a bowl of food, smiling, and a man in a black shirt is holding a beer, with a woman in a white shirt standing next to him.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "him",
+      "bowl",
+      "shirt",
+      "beer",
+      "food"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A group of people is seen together, with one woman holding a beer.",
+    "objects": [
+      "one",
+      "people",
+      "woman",
+      "beer",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A group of people is seen together, with one woman holding a beer.",
+    "objects": [
+      "one",
+      "people",
+      "woman",
+      "beer",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A group of people is seen together, with one woman holding a beer.",
+    "objects": [
+      "one",
+      "people",
+      "woman",
+      "beer",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman in a black shirt is standing with a bowl of food, smiling, and a man in a grey shirt is holding a beer and looking at the camera.",
+    "objects": [
+      "woman",
+      "black",
+      "grey",
+      "bowl",
+      "shirt",
+      "beer",
+      "food",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman in a black shirt is standing with a bowl of food, smiling, and a man in a grey shirt is holding a beer and looking at the camera.",
+    "objects": [
+      "woman",
+      "black",
+      "grey",
+      "bowl",
+      "shirt",
+      "beer",
+      "food",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A woman in a black shirt is standing with a bowl of food, smiling, and a man in a grey shirt is holding a beer and looking at the camera.",
+    "objects": [
+      "woman",
+      "black",
+      "grey",
+      "bowl",
+      "shirt",
+      "beer",
+      "food",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "A woman in a white shirt is sitting with a bowl of food, smiling, and a man in a brown shirt is holding a beer, with a woman in a white shirt standing next to him.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "bowl",
+      "shirt",
+      "beer",
+      "food",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "A woman in a white shirt is sitting with a bowl of food, smiling, and a man in a brown shirt is holding a beer, with a woman in a white shirt standing next to him.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "bowl",
+      "shirt",
+      "beer",
+      "food",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "A woman in a white shirt is sitting with a bowl of food, smiling, and a man in a brown shirt is holding a beer, with a woman in a white shirt standing next to him.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "bowl",
+      "shirt",
+      "beer",
+      "food",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a blue shirt is seen with a bowl of food, smiling, and a woman in a white shirt is standing with a bowl of food.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "bowl",
+      "food",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a blue shirt is seen with a bowl of food, smiling, and a woman in a white shirt is standing with a bowl of food.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "bowl",
+      "food",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 10
+  }
+]

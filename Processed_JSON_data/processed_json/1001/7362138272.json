@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a suburban street scene where various vehicles are parked on both sides of the street, including cars and trucks.",
+    "objects": [
+      "suburban",
+      "both",
+      "street",
+      "where",
+      "cars",
+      "see"
+    ],
+    "actions": [
+      "vehicles",
+      "sides",
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a suburban street scene where various vehicles are parked on both sides of the street, including cars and trucks.",
+    "objects": [
+      "suburban",
+      "both",
+      "street",
+      "where",
+      "cars",
+      "see"
+    ],
+    "actions": [
+      "vehicles",
+      "sides",
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a suburban street scene where various vehicles are parked on both sides of the street, including cars and trucks.",
+    "objects": [
+      "suburban",
+      "both",
+      "street",
+      "where",
+      "cars",
+      "see"
+    ],
+    "actions": [
+      "vehicles",
+      "sides",
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a suburban street scene where various vehicles are parked on both sides of the street, including cars and trucks.",
+    "objects": [
+      "suburban",
+      "both",
+      "street",
+      "where",
+      "cars",
+      "see"
+    ],
+    "actions": [
+      "vehicles",
+      "sides",
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "There are two trucks visible: one parked near the curb and another parked further down the street.",
+    "objects": [
+      "one",
+      "there",
+      "two",
+      "further",
+      "street",
+      "curb"
+    ],
+    "actions": [
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "There are two trucks visible: one parked near the curb and another parked further down the street.",
+    "objects": [
+      "one",
+      "there",
+      "two",
+      "further",
+      "street",
+      "curb"
+    ],
+    "actions": [
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "There are two trucks visible: one parked near the curb and another parked further down the street.",
+    "objects": [
+      "one",
+      "there",
+      "two",
+      "further",
+      "street",
+      "curb"
+    ],
+    "actions": [
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "There are two trucks visible: one parked near the curb and another parked further down the street.",
+    "objects": [
+      "one",
+      "there",
+      "two",
+      "further",
+      "street",
+      "curb"
+    ],
+    "actions": [
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The parked cars include a black sedan, a white sedan, and a white car.",
+    "objects": [
+      "sedan",
+      "white",
+      "cars",
+      "black",
+      "include",
+      "car"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The parked cars include a black sedan, a white sedan, and a white car.",
+    "objects": [
+      "sedan",
+      "white",
+      "cars",
+      "black",
+      "include",
+      "car"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The parked cars include a black sedan, a white sedan, and a white car.",
+    "objects": [
+      "sedan",
+      "white",
+      "cars",
+      "black",
+      "include",
+      "car"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The parked cars include a black sedan, a white sedan, and a white car.",
+    "objects": [
+      "sedan",
+      "white",
+      "cars",
+      "black",
+      "include",
+      "car"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The street appears to be quiet, with no traffic in sight.",
+    "objects": [
+      "sight",
+      "traffic",
+      "quiet",
+      "street"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The street appears to be quiet, with no traffic in sight.",
+    "objects": [
+      "sight",
+      "traffic",
+      "quiet",
+      "street"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The street appears to be quiet, with no traffic in sight.",
+    "objects": [
+      "sight",
+      "traffic",
+      "quiet",
+      "street"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The street appears to be quiet, with no traffic in sight.",
+    "objects": [
+      "sight",
+      "traffic",
+      "quiet",
+      "street"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A man and a woman are standing in the middle of the road, engaged in a conversation.",
+    "objects": [
+      "woman",
+      "middle",
+      "conversation",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A man and a woman are standing in the middle of the road, engaged in a conversation.",
+    "objects": [
+      "woman",
+      "middle",
+      "conversation",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A man and a woman are standing in the middle of the road, engaged in a conversation.",
+    "objects": [
+      "woman",
+      "middle",
+      "conversation",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A man and a woman are standing in the middle of the road, engaged in a conversation.",
+    "objects": [
+      "woman",
+      "middle",
+      "conversation",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is wearing a red shirt and a blue hat, while the woman is wearing a red top and a black skirt.",
+    "objects": [
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "top",
+      "skirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is wearing a red shirt and a blue hat, while the woman is wearing a red top and a black skirt.",
+    "objects": [
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "top",
+      "skirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is wearing a red shirt and a blue hat, while the woman is wearing a red top and a black skirt.",
+    "objects": [
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "top",
+      "skirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is wearing a red shirt and a blue hat, while the woman is wearing a red top and a black skirt.",
+    "objects": [
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "top",
+      "skirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "They are facing each other, smiling, and seem to be enjoying their interaction.",
+    "objects": [
+      "they",
+      "their",
+      "other",
+      "each",
+      "seem",
+      "interaction"
+    ],
+    "actions": [
+      "facing",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "They are facing each other, smiling, and seem to be enjoying their interaction.",
+    "objects": [
+      "they",
+      "their",
+      "other",
+      "each",
+      "seem",
+      "interaction"
+    ],
+    "actions": [
+      "facing",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "They are facing each other, smiling, and seem to be enjoying their interaction.",
+    "objects": [
+      "they",
+      "their",
+      "other",
+      "each",
+      "seem",
+      "interaction"
+    ],
+    "actions": [
+      "facing",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "They are facing each other, smiling, and seem to be enjoying their interaction.",
+    "objects": [
+      "they",
+      "their",
+      "other",
+      "each",
+      "seem",
+      "interaction"
+    ],
+    "actions": [
+      "facing",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "Another man is standing nearby, wearing a yellow shirt and a baseball cap, watching them with a slight smile on his face.",
+    "objects": [
+      "yellow",
+      "face",
+      "shirt",
+      "baseball",
+      "them",
+      "slight",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "Another man is standing nearby, wearing a yellow shirt and a baseball cap, watching them with a slight smile on his face.",
+    "objects": [
+      "yellow",
+      "face",
+      "shirt",
+      "baseball",
+      "them",
+      "slight",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "Another man is standing nearby, wearing a yellow shirt and a baseball cap, watching them with a slight smile on his face.",
+    "objects": [
+      "yellow",
+      "face",
+      "shirt",
+      "baseball",
+      "them",
+      "slight",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "Another man is standing nearby, wearing a yellow shirt and a baseball cap, watching them with a slight smile on his face.",
+    "objects": [
+      "yellow",
+      "face",
+      "shirt",
+      "baseball",
+      "them",
+      "slight",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 7
+  }
+]

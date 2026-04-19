@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young child is sitting at a dining table, enjoying a meal.",
+    "objects": [
+      "young",
+      "table",
+      "meal",
+      "child"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young child is sitting at a dining table, enjoying a meal.",
+    "objects": [
+      "young",
+      "table",
+      "meal",
+      "child"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young child is sitting at a dining table, enjoying a meal.",
+    "objects": [
+      "young",
+      "table",
+      "meal",
+      "child"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a young child is sitting at a dining table, enjoying a meal.",
+    "objects": [
+      "young",
+      "table",
+      "meal",
+      "child"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is wearing a blue hoodie and is laughing and smiling, holding a blue cup filled with water.",
+    "objects": [
+      "child",
+      "blue",
+      "cup",
+      "hoodie",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "filled",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is wearing a blue hoodie and is laughing and smiling, holding a blue cup filled with water.",
+    "objects": [
+      "child",
+      "blue",
+      "cup",
+      "hoodie",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "filled",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child is wearing a blue hoodie and is laughing and smiling, holding a blue cup filled with water.",
+    "objects": [
+      "child",
+      "blue",
+      "cup",
+      "hoodie",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "filled",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child is wearing a blue hoodie and is laughing and smiling, holding a blue cup filled with water.",
+    "objects": [
+      "child",
+      "blue",
+      "cup",
+      "hoodie",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "filled",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The table is laden with various objects, including a plate of food and a napkin, which is also blue.",
+    "objects": [
+      "table",
+      "napkin",
+      "blue",
+      "plate",
+      "laden",
+      "which",
+      "food"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The table is laden with various objects, including a plate of food and a napkin, which is also blue.",
+    "objects": [
+      "table",
+      "napkin",
+      "blue",
+      "plate",
+      "laden",
+      "which",
+      "food"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The table is laden with various objects, including a plate of food and a napkin, which is also blue.",
+    "objects": [
+      "table",
+      "napkin",
+      "blue",
+      "plate",
+      "laden",
+      "which",
+      "food"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The table is laden with various objects, including a plate of food and a napkin, which is also blue.",
+    "objects": [
+      "table",
+      "napkin",
+      "blue",
+      "plate",
+      "laden",
+      "which",
+      "food"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The child seems to be in a cheerful mood, possibly due to the food's taste or company.",
+    "objects": [
+      "child",
+      "due",
+      "possibly",
+      "company",
+      "taste",
+      "cheerful",
+      "mood"
+    ],
+    "actions": [
+      "seems",
+      "food's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The child seems to be in a cheerful mood, possibly due to the food's taste or company.",
+    "objects": [
+      "child",
+      "due",
+      "possibly",
+      "company",
+      "taste",
+      "cheerful",
+      "mood"
+    ],
+    "actions": [
+      "seems",
+      "food's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The child seems to be in a cheerful mood, possibly due to the food's taste or company.",
+    "objects": [
+      "child",
+      "due",
+      "possibly",
+      "company",
+      "taste",
+      "cheerful",
+      "mood"
+    ],
+    "actions": [
+      "seems",
+      "food's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The child seems to be in a cheerful mood, possibly due to the food's taste or company.",
+    "objects": [
+      "child",
+      "due",
+      "possibly",
+      "company",
+      "taste",
+      "cheerful",
+      "mood"
+    ],
+    "actions": [
+      "seems",
+      "food's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, another child is also seen eating at the table, wearing a green shirt.",
+    "objects": [
+      "green",
+      "table",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "eating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, another child is also seen eating at the table, wearing a green shirt.",
+    "objects": [
+      "green",
+      "table",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "eating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, another child is also seen eating at the table, wearing a green shirt.",
+    "objects": [
+      "green",
+      "table",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "eating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, another child is also seen eating at the table, wearing a green shirt.",
+    "objects": [
+      "green",
+      "table",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "eating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The table is set with a silver car and a plastic chair, and a napkin that is red.",
+    "objects": [
+      "plastic",
+      "table",
+      "napkin",
+      "silver",
+      "that",
+      "car",
+      "set",
+      "chair"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The table is set with a silver car and a plastic chair, and a napkin that is red.",
+    "objects": [
+      "plastic",
+      "table",
+      "napkin",
+      "silver",
+      "that",
+      "car",
+      "set",
+      "chair"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The table is set with a silver car and a plastic chair, and a napkin that is red.",
+    "objects": [
+      "plastic",
+      "table",
+      "napkin",
+      "silver",
+      "that",
+      "car",
+      "set",
+      "chair"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The table is set with a silver car and a plastic chair, and a napkin that is red.",
+    "objects": [
+      "plastic",
+      "table",
+      "napkin",
+      "silver",
+      "that",
+      "car",
+      "set",
+      "chair"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The child is eating from a plate that is also blue and has a spoon on it.",
+    "objects": [
+      "child",
+      "blue",
+      "has",
+      "from",
+      "that",
+      "plate",
+      "spoon"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The child is eating from a plate that is also blue and has a spoon on it.",
+    "objects": [
+      "child",
+      "blue",
+      "has",
+      "from",
+      "that",
+      "plate",
+      "spoon"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The child is eating from a plate that is also blue and has a spoon on it.",
+    "objects": [
+      "child",
+      "blue",
+      "has",
+      "from",
+      "that",
+      "plate",
+      "spoon"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The child is eating from a plate that is also blue and has a spoon on it.",
+    "objects": [
+      "child",
+      "blue",
+      "has",
+      "from",
+      "that",
+      "plate",
+      "spoon"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is lively and full of joy, with the child's laughter and the atmosphere of a shared mealtime.",
+    "objects": [
+      "full",
+      "lively",
+      "laughter",
+      "mealtime",
+      "atmosphere",
+      "joy"
+    ],
+    "actions": [
+      "child's",
+      "shared"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is lively and full of joy, with the child's laughter and the atmosphere of a shared mealtime.",
+    "objects": [
+      "full",
+      "lively",
+      "laughter",
+      "mealtime",
+      "atmosphere",
+      "joy"
+    ],
+    "actions": [
+      "child's",
+      "shared"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is lively and full of joy, with the child's laughter and the atmosphere of a shared mealtime.",
+    "objects": [
+      "full",
+      "lively",
+      "laughter",
+      "mealtime",
+      "atmosphere",
+      "joy"
+    ],
+    "actions": [
+      "child's",
+      "shared"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is lively and full of joy, with the child's laughter and the atmosphere of a shared mealtime.",
+    "objects": [
+      "full",
+      "lively",
+      "laughter",
+      "mealtime",
+      "atmosphere",
+      "joy"
+    ],
+    "actions": [
+      "child's",
+      "shared"
+    ],
+    "segment_id": 7
+  }
+]

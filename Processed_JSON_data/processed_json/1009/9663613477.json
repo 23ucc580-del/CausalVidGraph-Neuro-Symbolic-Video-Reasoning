@@ -1,0 +1,516 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a person wearing a blue hoodie and holding a small brown dog.",
+    "objects": [
+      "small",
+      "blue",
+      "dog",
+      "hoodie",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "starts",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a person wearing a blue hoodie and holding a small brown dog.",
+    "objects": [
+      "small",
+      "blue",
+      "dog",
+      "hoodie",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "starts",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video starts with a person wearing a blue hoodie and holding a small brown dog.",
+    "objects": [
+      "small",
+      "blue",
+      "dog",
+      "hoodie",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "starts",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The dog is standing on a wooden floor and the person is petting its fur.",
+    "objects": [
+      "its",
+      "fur",
+      "dog",
+      "wooden",
+      "floor"
+    ],
+    "actions": [
+      "petting",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The dog is standing on a wooden floor and the person is petting its fur.",
+    "objects": [
+      "its",
+      "fur",
+      "dog",
+      "wooden",
+      "floor"
+    ],
+    "actions": [
+      "petting",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog is standing on a wooden floor and the person is petting its fur.",
+    "objects": [
+      "its",
+      "fur",
+      "dog",
+      "wooden",
+      "floor"
+    ],
+    "actions": [
+      "petting",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans to the right, showing another person wearing black shorts.",
+    "objects": [
+      "pans",
+      "black",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then pans to the right, showing another person wearing black shorts.",
+    "objects": [
+      "pans",
+      "black",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then pans to the right, showing another person wearing black shorts.",
+    "objects": [
+      "pans",
+      "black",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog is seen in the background, walking across the room and jumping up on the person's lap.",
+    "objects": [
+      "room",
+      "dog",
+      "across",
+      "lap"
+    ],
+    "actions": [
+      "jumping",
+      "walking",
+      "person's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The dog is seen in the background, walking across the room and jumping up on the person's lap.",
+    "objects": [
+      "room",
+      "dog",
+      "across",
+      "lap"
+    ],
+    "actions": [
+      "jumping",
+      "walking",
+      "person's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The dog is seen in the background, walking across the room and jumping up on the person's lap.",
+    "objects": [
+      "room",
+      "dog",
+      "across",
+      "lap"
+    ],
+    "actions": [
+      "jumping",
+      "walking",
+      "person's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The person in blue hoodie continues to pet the dog while it jumps on their lap.",
+    "objects": [
+      "their",
+      "while",
+      "blue",
+      "pet",
+      "dog",
+      "hoodie",
+      "lap"
+    ],
+    "actions": [
+      "continues",
+      "jumps"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The person in blue hoodie continues to pet the dog while it jumps on their lap.",
+    "objects": [
+      "their",
+      "while",
+      "blue",
+      "pet",
+      "dog",
+      "hoodie",
+      "lap"
+    ],
+    "actions": [
+      "continues",
+      "jumps"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The person in blue hoodie continues to pet the dog while it jumps on their lap.",
+    "objects": [
+      "their",
+      "while",
+      "blue",
+      "pet",
+      "dog",
+      "hoodie",
+      "lap"
+    ],
+    "actions": [
+      "continues",
+      "jumps"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The dog appears to be a happy and playful puppy.",
+    "objects": [
+      "puppy",
+      "dog",
+      "playful",
+      "happy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The dog appears to be a happy and playful puppy.",
+    "objects": [
+      "puppy",
+      "dog",
+      "playful",
+      "happy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The dog appears to be a happy and playful puppy.",
+    "objects": [
+      "puppy",
+      "dog",
+      "playful",
+      "happy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The wooden floor and the furniture in the background are blurry, indicating that the focus is on the interaction between the person and the dog.",
+    "objects": [
+      "blurry",
+      "that",
+      "furniture",
+      "wooden",
+      "interaction",
+      "dog",
+      "between",
+      "floor"
+    ],
+    "actions": [
+      "focus",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The wooden floor and the furniture in the background are blurry, indicating that the focus is on the interaction between the person and the dog.",
+    "objects": [
+      "blurry",
+      "that",
+      "furniture",
+      "wooden",
+      "interaction",
+      "dog",
+      "between",
+      "floor"
+    ],
+    "actions": [
+      "focus",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The wooden floor and the furniture in the background are blurry, indicating that the focus is on the interaction between the person and the dog.",
+    "objects": [
+      "blurry",
+      "that",
+      "furniture",
+      "wooden",
+      "interaction",
+      "dog",
+      "between",
+      "floor"
+    ],
+    "actions": [
+      "focus",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The dog jumps on the person's lap again, and the person pets it while it jumps.",
+    "objects": [
+      "while",
+      "pets",
+      "dog",
+      "lap",
+      "again"
+    ],
+    "actions": [
+      "jumps",
+      "person's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The dog jumps on the person's lap again, and the person pets it while it jumps.",
+    "objects": [
+      "while",
+      "pets",
+      "dog",
+      "lap",
+      "again"
+    ],
+    "actions": [
+      "jumps",
+      "person's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The dog jumps on the person's lap again, and the person pets it while it jumps.",
+    "objects": [
+      "while",
+      "pets",
+      "dog",
+      "lap",
+      "again"
+    ],
+    "actions": [
+      "jumps",
+      "person's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The dog looks up at the camera, showing excitement and joy.",
+    "objects": [
+      "dog",
+      "excitement",
+      "joy"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog looks up at the camera, showing excitement and joy.",
+    "objects": [
+      "dog",
+      "excitement",
+      "joy"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog looks up at the camera, showing excitement and joy.",
+    "objects": [
+      "dog",
+      "excitement",
+      "joy"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then pans back to the left, focusing on the person in the blue hoodie again, who pets the dog while it jumps on their lap.",
+    "objects": [
+      "their",
+      "pans",
+      "while",
+      "blue",
+      "pets",
+      "who",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "jumps",
+      "focusing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then pans back to the left, focusing on the person in the blue hoodie again, who pets the dog while it jumps on their lap.",
+    "objects": [
+      "their",
+      "pans",
+      "while",
+      "blue",
+      "pets",
+      "who",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "jumps",
+      "focusing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then pans back to the left, focusing on the person in the blue hoodie again, who pets the dog while it jumps on their lap.",
+    "objects": [
+      "their",
+      "pans",
+      "while",
+      "blue",
+      "pets",
+      "who",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "jumps",
+      "focusing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The dog appears to be a happy and playful puppy.",
+    "objects": [
+      "puppy",
+      "dog",
+      "playful",
+      "happy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The dog appears to be a happy and playful puppy.",
+    "objects": [
+      "puppy",
+      "dog",
+      "playful",
+      "happy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  }
+]

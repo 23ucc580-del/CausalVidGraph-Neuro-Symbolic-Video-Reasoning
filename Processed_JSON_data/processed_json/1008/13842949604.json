@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man in a blue hoodie walking down a sidewalk next to a silver car.",
+    "objects": [
+      "blue",
+      "see",
+      "silver",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man in a blue hoodie walking down a sidewalk next to a silver car.",
+    "objects": [
+      "blue",
+      "see",
+      "silver",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man in a blue hoodie walking down a sidewalk next to a silver car.",
+    "objects": [
+      "blue",
+      "see",
+      "silver",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man in a blue hoodie walking down a sidewalk next to a silver car.",
+    "objects": [
+      "blue",
+      "see",
+      "silver",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a man in a blue hoodie walking down a sidewalk next to a silver car.",
+    "objects": [
+      "blue",
+      "see",
+      "silver",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "He is holding a brick in his right hand, presumably to place it on the ground.",
+    "objects": [
+      "place",
+      "presumably",
+      "his",
+      "ground",
+      "brick",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is holding a brick in his right hand, presumably to place it on the ground.",
+    "objects": [
+      "place",
+      "presumably",
+      "his",
+      "ground",
+      "brick",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is holding a brick in his right hand, presumably to place it on the ground.",
+    "objects": [
+      "place",
+      "presumably",
+      "his",
+      "ground",
+      "brick",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is holding a brick in his right hand, presumably to place it on the ground.",
+    "objects": [
+      "place",
+      "presumably",
+      "his",
+      "ground",
+      "brick",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "He is holding a brick in his right hand, presumably to place it on the ground.",
+    "objects": [
+      "place",
+      "presumably",
+      "his",
+      "ground",
+      "brick",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "Another man wearing a blue shirt is walking with a dog on a leash, and they are both walking away from the camera.",
+    "objects": [
+      "they",
+      "both",
+      "away",
+      "blue",
+      "shirt",
+      "leash",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another man wearing a blue shirt is walking with a dog on a leash, and they are both walking away from the camera.",
+    "objects": [
+      "they",
+      "both",
+      "away",
+      "blue",
+      "shirt",
+      "leash",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man wearing a blue shirt is walking with a dog on a leash, and they are both walking away from the camera.",
+    "objects": [
+      "they",
+      "both",
+      "away",
+      "blue",
+      "shirt",
+      "leash",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man wearing a blue shirt is walking with a dog on a leash, and they are both walking away from the camera.",
+    "objects": [
+      "they",
+      "both",
+      "away",
+      "blue",
+      "shirt",
+      "leash",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "Another man wearing a blue shirt is walking with a dog on a leash, and they are both walking away from the camera.",
+    "objects": [
+      "they",
+      "both",
+      "away",
+      "blue",
+      "shirt",
+      "leash",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman in a black dress and a man in a red shirt are standing on the sidewalk, talking to each other.",
+    "objects": [
+      "each",
+      "other",
+      "woman",
+      "black",
+      "shirt",
+      "sidewalk",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "talking",
+      "standing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a black dress and a man in a red shirt are standing on the sidewalk, talking to each other.",
+    "objects": [
+      "each",
+      "other",
+      "woman",
+      "black",
+      "shirt",
+      "sidewalk",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "talking",
+      "standing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a black dress and a man in a red shirt are standing on the sidewalk, talking to each other.",
+    "objects": [
+      "each",
+      "other",
+      "woman",
+      "black",
+      "shirt",
+      "sidewalk",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "talking",
+      "standing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman in a black dress and a man in a red shirt are standing on the sidewalk, talking to each other.",
+    "objects": [
+      "each",
+      "other",
+      "woman",
+      "black",
+      "shirt",
+      "sidewalk",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "talking",
+      "standing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman in a black dress and a man in a red shirt are standing on the sidewalk, talking to each other.",
+    "objects": [
+      "each",
+      "other",
+      "woman",
+      "black",
+      "shirt",
+      "sidewalk",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "talking",
+      "standing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman is holding a red umbrella and the man is holding a bag.",
+    "objects": [
+      "man",
+      "umbrella",
+      "bag",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman is holding a red umbrella and the man is holding a bag.",
+    "objects": [
+      "man",
+      "umbrella",
+      "bag",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman is holding a red umbrella and the man is holding a bag.",
+    "objects": [
+      "man",
+      "umbrella",
+      "bag",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman is holding a red umbrella and the man is holding a bag.",
+    "objects": [
+      "man",
+      "umbrella",
+      "bag",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman is holding a red umbrella and the man is holding a bag.",
+    "objects": [
+      "man",
+      "umbrella",
+      "bag",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "There is a person standing in front of a house, holding a dog on a leash, and they seem to be watching the other people walking by.",
+    "objects": [
+      "they",
+      "there",
+      "other",
+      "people",
+      "house",
+      "leash",
+      "dog",
+      "seem"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "There is a person standing in front of a house, holding a dog on a leash, and they seem to be watching the other people walking by.",
+    "objects": [
+      "they",
+      "there",
+      "other",
+      "people",
+      "house",
+      "leash",
+      "dog",
+      "seem"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "There is a person standing in front of a house, holding a dog on a leash, and they seem to be watching the other people walking by.",
+    "objects": [
+      "they",
+      "there",
+      "other",
+      "people",
+      "house",
+      "leash",
+      "dog",
+      "seem"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "There is a person standing in front of a house, holding a dog on a leash, and they seem to be watching the other people walking by.",
+    "objects": [
+      "they",
+      "there",
+      "other",
+      "people",
+      "house",
+      "leash",
+      "dog",
+      "seem"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "There is a person standing in front of a house, holding a dog on a leash, and they seem to be watching the other people walking by.",
+    "objects": [
+      "they",
+      "there",
+      "other",
+      "people",
+      "house",
+      "leash",
+      "dog",
+      "seem"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is on a city street with buildings in the background.",
+    "objects": [
+      "city",
+      "street"
+    ],
+    "actions": [
+      "buildings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is on a city street with buildings in the background.",
+    "objects": [
+      "city",
+      "street"
+    ],
+    "actions": [
+      "buildings"
+    ],
+    "segment_id": 6
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively office scene, with three individuals engaged in various activities.",
+    "objects": [
+      "three",
+      "office",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively office scene, with three individuals engaged in various activities.",
+    "objects": [
+      "three",
+      "office",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively office scene, with three individuals engaged in various activities.",
+    "objects": [
+      "three",
+      "office",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a lively office scene, with three individuals engaged in various activities.",
+    "objects": [
+      "three",
+      "office",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The first person, donned in a blue hoodie, is seated at a desk and is engaged in a conversation.",
+    "objects": [
+      "desk",
+      "conversation",
+      "blue",
+      "hoodie",
+      "first"
+    ],
+    "actions": [
+      "donned",
+      "seated",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The first person, donned in a blue hoodie, is seated at a desk and is engaged in a conversation.",
+    "objects": [
+      "desk",
+      "conversation",
+      "blue",
+      "hoodie",
+      "first"
+    ],
+    "actions": [
+      "donned",
+      "seated",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The first person, donned in a blue hoodie, is seated at a desk and is engaged in a conversation.",
+    "objects": [
+      "desk",
+      "conversation",
+      "blue",
+      "hoodie",
+      "first"
+    ],
+    "actions": [
+      "donned",
+      "seated",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The first person, donned in a blue hoodie, is seated at a desk and is engaged in a conversation.",
+    "objects": [
+      "desk",
+      "conversation",
+      "blue",
+      "hoodie",
+      "first"
+    ],
+    "actions": [
+      "donned",
+      "seated",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The second person, wearing a black shirt, is also seated at the same desk, but is focused on their computer.",
+    "objects": [
+      "their",
+      "desk",
+      "black",
+      "same",
+      "shirt",
+      "second",
+      "computer",
+      "but"
+    ],
+    "actions": [
+      "wearing",
+      "focused",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The second person, wearing a black shirt, is also seated at the same desk, but is focused on their computer.",
+    "objects": [
+      "their",
+      "desk",
+      "black",
+      "same",
+      "shirt",
+      "second",
+      "computer",
+      "but"
+    ],
+    "actions": [
+      "wearing",
+      "focused",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The second person, wearing a black shirt, is also seated at the same desk, but is focused on their computer.",
+    "objects": [
+      "their",
+      "desk",
+      "black",
+      "same",
+      "shirt",
+      "second",
+      "computer",
+      "but"
+    ],
+    "actions": [
+      "wearing",
+      "focused",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The second person, wearing a black shirt, is also seated at the same desk, but is focused on their computer.",
+    "objects": [
+      "their",
+      "desk",
+      "black",
+      "same",
+      "shirt",
+      "second",
+      "computer",
+      "but"
+    ],
+    "actions": [
+      "wearing",
+      "focused",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The third individual, clad in a red shirt, is standing and is also partaking in the conversation.",
+    "objects": [
+      "conversation",
+      "shirt",
+      "third",
+      "clad",
+      "individual"
+    ],
+    "actions": [
+      "partaking",
+      "standing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The third individual, clad in a red shirt, is standing and is also partaking in the conversation.",
+    "objects": [
+      "conversation",
+      "shirt",
+      "third",
+      "clad",
+      "individual"
+    ],
+    "actions": [
+      "partaking",
+      "standing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The third individual, clad in a red shirt, is standing and is also partaking in the conversation.",
+    "objects": [
+      "conversation",
+      "shirt",
+      "third",
+      "clad",
+      "individual"
+    ],
+    "actions": [
+      "partaking",
+      "standing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The third individual, clad in a red shirt, is standing and is also partaking in the conversation.",
+    "objects": [
+      "conversation",
+      "shirt",
+      "third",
+      "clad",
+      "individual"
+    ],
+    "actions": [
+      "partaking",
+      "standing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "All three are positioned in front of a large window that allows natural light to flood in.",
+    "objects": [
+      "three",
+      "large",
+      "natural",
+      "that",
+      "light",
+      "flood",
+      "window",
+      "all"
+    ],
+    "actions": [
+      "positioned",
+      "allows"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "All three are positioned in front of a large window that allows natural light to flood in.",
+    "objects": [
+      "three",
+      "large",
+      "natural",
+      "that",
+      "light",
+      "flood",
+      "window",
+      "all"
+    ],
+    "actions": [
+      "positioned",
+      "allows"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "All three are positioned in front of a large window that allows natural light to flood in.",
+    "objects": [
+      "three",
+      "large",
+      "natural",
+      "that",
+      "light",
+      "flood",
+      "window",
+      "all"
+    ],
+    "actions": [
+      "positioned",
+      "allows"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "All three are positioned in front of a large window that allows natural light to flood in.",
+    "objects": [
+      "three",
+      "large",
+      "natural",
+      "that",
+      "light",
+      "flood",
+      "window",
+      "all"
+    ],
+    "actions": [
+      "positioned",
+      "allows"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The blue hoodie-wearing person is holding a piece of food, while the black-shirted person is holding a white object, possibly a phone or a remote.",
+    "objects": [
+      "white",
+      "while",
+      "possibly",
+      "blue",
+      "phone",
+      "food",
+      "object",
+      "remote"
+    ],
+    "actions": [
+      "hoodie-wearing",
+      "black-shirted",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The blue hoodie-wearing person is holding a piece of food, while the black-shirted person is holding a white object, possibly a phone or a remote.",
+    "objects": [
+      "white",
+      "while",
+      "possibly",
+      "blue",
+      "phone",
+      "food",
+      "object",
+      "remote"
+    ],
+    "actions": [
+      "hoodie-wearing",
+      "black-shirted",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The blue hoodie-wearing person is holding a piece of food, while the black-shirted person is holding a white object, possibly a phone or a remote.",
+    "objects": [
+      "white",
+      "while",
+      "possibly",
+      "blue",
+      "phone",
+      "food",
+      "object",
+      "remote"
+    ],
+    "actions": [
+      "hoodie-wearing",
+      "black-shirted",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The blue hoodie-wearing person is holding a piece of food, while the black-shirted person is holding a white object, possibly a phone or a remote.",
+    "objects": [
+      "white",
+      "while",
+      "possibly",
+      "blue",
+      "phone",
+      "food",
+      "object",
+      "remote"
+    ],
+    "actions": [
+      "hoodie-wearing",
+      "black-shirted",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The red-shirted person is holding a black object, which could be a remote or a phone.",
+    "objects": [
+      "black",
+      "phone",
+      "which",
+      "remote",
+      "object",
+      "could"
+    ],
+    "actions": [
+      "red-shirted",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The red-shirted person is holding a black object, which could be a remote or a phone.",
+    "objects": [
+      "black",
+      "phone",
+      "which",
+      "remote",
+      "object",
+      "could"
+    ],
+    "actions": [
+      "red-shirted",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The red-shirted person is holding a black object, which could be a remote or a phone.",
+    "objects": [
+      "black",
+      "phone",
+      "which",
+      "remote",
+      "object",
+      "could"
+    ],
+    "actions": [
+      "red-shirted",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The red-shirted person is holding a black object, which could be a remote or a phone.",
+    "objects": [
+      "black",
+      "phone",
+      "which",
+      "remote",
+      "object",
+      "could"
+    ],
+    "actions": [
+      "red-shirted",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene suggests a casual work environment where conversations and interactions take place amidst a backdrop of natural light.",
+    "objects": [
+      "natural",
+      "amidst",
+      "place",
+      "where",
+      "casual",
+      "environment",
+      "backdrop",
+      "work"
+    ],
+    "actions": [
+      "interactions",
+      "suggests",
+      "conversations"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene suggests a casual work environment where conversations and interactions take place amidst a backdrop of natural light.",
+    "objects": [
+      "natural",
+      "amidst",
+      "place",
+      "where",
+      "casual",
+      "environment",
+      "backdrop",
+      "work"
+    ],
+    "actions": [
+      "interactions",
+      "suggests",
+      "conversations"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene suggests a casual work environment where conversations and interactions take place amidst a backdrop of natural light.",
+    "objects": [
+      "natural",
+      "amidst",
+      "place",
+      "where",
+      "casual",
+      "environment",
+      "backdrop",
+      "work"
+    ],
+    "actions": [
+      "interactions",
+      "suggests",
+      "conversations"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene suggests a casual work environment where conversations and interactions take place amidst a backdrop of natural light.",
+    "objects": [
+      "natural",
+      "amidst",
+      "place",
+      "where",
+      "casual",
+      "environment",
+      "backdrop",
+      "work"
+    ],
+    "actions": [
+      "interactions",
+      "suggests",
+      "conversations"
+    ],
+    "segment_id": 7
+  }
+]

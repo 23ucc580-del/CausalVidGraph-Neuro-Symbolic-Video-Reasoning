@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a young child playing in a living room.",
+    "objects": [
+      "young",
+      "room",
+      "child"
+    ],
+    "actions": [
+      "playing",
+      "living",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a young child playing in a living room.",
+    "objects": [
+      "young",
+      "room",
+      "child"
+    ],
+    "actions": [
+      "playing",
+      "living",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a young child playing in a living room.",
+    "objects": [
+      "young",
+      "room",
+      "child"
+    ],
+    "actions": [
+      "playing",
+      "living",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a young child playing in a living room.",
+    "objects": [
+      "young",
+      "room",
+      "child"
+    ],
+    "actions": [
+      "playing",
+      "living",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the foreground, a young boy is standing on a wooden floor, wearing a red shirt and holding a small, white stuffed animal.",
+    "objects": [
+      "animal",
+      "boy",
+      "small",
+      "white",
+      "shirt",
+      "wooden",
+      "young",
+      "floor"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, a young boy is standing on a wooden floor, wearing a red shirt and holding a small, white stuffed animal.",
+    "objects": [
+      "animal",
+      "boy",
+      "small",
+      "white",
+      "shirt",
+      "wooden",
+      "young",
+      "floor"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, a young boy is standing on a wooden floor, wearing a red shirt and holding a small, white stuffed animal.",
+    "objects": [
+      "animal",
+      "boy",
+      "small",
+      "white",
+      "shirt",
+      "wooden",
+      "young",
+      "floor"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, a young boy is standing on a wooden floor, wearing a red shirt and holding a small, white stuffed animal.",
+    "objects": [
+      "animal",
+      "boy",
+      "small",
+      "white",
+      "shirt",
+      "wooden",
+      "young",
+      "floor"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is smiling and appears to be interacting with a woman who is sitting on the floor, also wearing a red shirt.",
+    "objects": [
+      "floor",
+      "who",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "interacting",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is smiling and appears to be interacting with a woman who is sitting on the floor, also wearing a red shirt.",
+    "objects": [
+      "floor",
+      "who",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "interacting",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is smiling and appears to be interacting with a woman who is sitting on the floor, also wearing a red shirt.",
+    "objects": [
+      "floor",
+      "who",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "interacting",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is smiling and appears to be interacting with a woman who is sitting on the floor, also wearing a red shirt.",
+    "objects": [
+      "floor",
+      "who",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "interacting",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is holding the boy's hand and they are engaged in play.",
+    "objects": [
+      "hand",
+      "they",
+      "play",
+      "woman"
+    ],
+    "actions": [
+      "boy's",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is holding the boy's hand and they are engaged in play.",
+    "objects": [
+      "hand",
+      "they",
+      "play",
+      "woman"
+    ],
+    "actions": [
+      "boy's",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is holding the boy's hand and they are engaged in play.",
+    "objects": [
+      "hand",
+      "they",
+      "play",
+      "woman"
+    ],
+    "actions": [
+      "boy's",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is holding the boy's hand and they are engaged in play.",
+    "objects": [
+      "hand",
+      "they",
+      "play",
+      "woman"
+    ],
+    "actions": [
+      "boy's",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, another child is playing with a toy, a pink stuffed animal, and standing on a rug.",
+    "objects": [
+      "animal",
+      "pink",
+      "child",
+      "toy",
+      "rug"
+    ],
+    "actions": [
+      "playing",
+      "stuffed",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, another child is playing with a toy, a pink stuffed animal, and standing on a rug.",
+    "objects": [
+      "animal",
+      "pink",
+      "child",
+      "toy",
+      "rug"
+    ],
+    "actions": [
+      "playing",
+      "stuffed",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, another child is playing with a toy, a pink stuffed animal, and standing on a rug.",
+    "objects": [
+      "animal",
+      "pink",
+      "child",
+      "toy",
+      "rug"
+    ],
+    "actions": [
+      "playing",
+      "stuffed",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, another child is playing with a toy, a pink stuffed animal, and standing on a rug.",
+    "objects": [
+      "animal",
+      "pink",
+      "child",
+      "toy",
+      "rug"
+    ],
+    "actions": [
+      "playing",
+      "stuffed",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The room has a wooden floor, a television in the background, and various furniture such as a dining table, chairs, and a shelf.",
+    "objects": [
+      "table",
+      "has",
+      "shelf",
+      "furniture",
+      "wooden",
+      "room",
+      "floor",
+      "television"
+    ],
+    "actions": [
+      "chairs",
+      "dining"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The room has a wooden floor, a television in the background, and various furniture such as a dining table, chairs, and a shelf.",
+    "objects": [
+      "table",
+      "has",
+      "shelf",
+      "furniture",
+      "wooden",
+      "room",
+      "floor",
+      "television"
+    ],
+    "actions": [
+      "chairs",
+      "dining"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The room has a wooden floor, a television in the background, and various furniture such as a dining table, chairs, and a shelf.",
+    "objects": [
+      "table",
+      "has",
+      "shelf",
+      "furniture",
+      "wooden",
+      "room",
+      "floor",
+      "television"
+    ],
+    "actions": [
+      "chairs",
+      "dining"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The room has a wooden floor, a television in the background, and various furniture such as a dining table, chairs, and a shelf.",
+    "objects": [
+      "table",
+      "has",
+      "shelf",
+      "furniture",
+      "wooden",
+      "room",
+      "floor",
+      "television"
+    ],
+    "actions": [
+      "chairs",
+      "dining"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There is a potted plant on the table and a vase on a shelf.",
+    "objects": [
+      "there",
+      "table",
+      "plant",
+      "vase",
+      "shelf"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There is a potted plant on the table and a vase on a shelf.",
+    "objects": [
+      "there",
+      "table",
+      "plant",
+      "vase",
+      "shelf"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There is a potted plant on the table and a vase on a shelf.",
+    "objects": [
+      "there",
+      "table",
+      "plant",
+      "vase",
+      "shelf"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There is a potted plant on the table and a vase on a shelf.",
+    "objects": [
+      "there",
+      "table",
+      "plant",
+      "vase",
+      "shelf"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman is wearing shorts and holding the child's hand while they play.",
+    "objects": [
+      "they",
+      "woman",
+      "while",
+      "play",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman is wearing shorts and holding the child's hand while they play.",
+    "objects": [
+      "they",
+      "woman",
+      "while",
+      "play",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman is wearing shorts and holding the child's hand while they play.",
+    "objects": [
+      "they",
+      "woman",
+      "while",
+      "play",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman is wearing shorts and holding the child's hand while they play.",
+    "objects": [
+      "they",
+      "woman",
+      "while",
+      "play",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "child's"
+    ],
+    "segment_id": 7
+  }
+]

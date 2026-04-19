@@ -1,0 +1,540 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a close-up shot of a baby in a crib, captured from a low angle.",
+    "objects": [
+      "from",
+      "baby",
+      "crib",
+      "low"
+    ],
+    "actions": [
+      "begins",
+      "captured"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The baby's eyes are wide open, and the camera focuses on them.",
+    "objects": [
+      "open",
+      "wide",
+      "them",
+      "eyes"
+    ],
+    "actions": [
+      "focuses",
+      "baby's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The crib is decorated with colorful cushions, and a mobile with a white background featuring blue and red shapes swings gently above the baby.",
+    "objects": [
+      "mobile",
+      "white",
+      "above",
+      "blue",
+      "crib",
+      "gently",
+      "colorful",
+      "baby"
+    ],
+    "actions": [
+      "shapes",
+      "red",
+      "cushions",
+      "swings"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The camera then cuts to a shot of two young girls sitting on the floor, one wearing a pink shirt and the other in a blue hoodie, holding hands.",
+    "objects": [
+      "one",
+      "other",
+      "cuts",
+      "two",
+      "pink",
+      "blue",
+      "shirt",
+      "then"
+    ],
+    "actions": [
+      "hands",
+      "girls",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The girl in the blue hoodie is wearing jeans and has blonde hair, while the one in the pink shirt is wearing a white shirt.",
+    "objects": [
+      "one",
+      "hair",
+      "blonde",
+      "white",
+      "pink",
+      "while",
+      "blue",
+      "has"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby is in a high chair with a white bib, and the girl in the blue hoodie is holding a blue spoon.",
+    "objects": [
+      "white",
+      "high",
+      "bib",
+      "blue",
+      "hoodie",
+      "spoon",
+      "girl",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans to the left, and the girls are seen sitting on a couch with a brown leather armchair.",
+    "objects": [
+      "pans",
+      "armchair",
+      "couch",
+      "brown",
+      "then",
+      "leather"
+    ],
+    "actions": [
+      "sitting",
+      "girls"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The girl in the pink shirt is holding a toy and the girl in the blue hoodie is holding a toy as well.",
+    "objects": [
+      "pink",
+      "blue",
+      "shirt",
+      "well",
+      "hoodie",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then cuts to a close-up of the baby in the crib, and the baby is seen holding a toy in their right hand.",
+    "objects": [
+      "their",
+      "cuts",
+      "then",
+      "crib",
+      "toy",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The girl in the blue hoodie is now sitting in a chair, wearing a white shirt, and the girl in the pink shirt is on the floor.",
+    "objects": [
+      "white",
+      "pink",
+      "blue",
+      "shirt",
+      "now",
+      "hoodie",
+      "girl",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The girl in the blue hoodie is holding a blue toy.",
+    "objects": [
+      "girl",
+      "blue",
+      "hoodie",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then cuts to a shot of the girl in the blue hoodie standing next to the couch, and the camera cuts to the baby in the high chair again.",
+    "objects": [
+      "baby",
+      "cuts",
+      "high",
+      "blue",
+      "hoodie",
+      "couch",
+      "girl",
+      "then"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby is holding a blue toy.",
+    "objects": [
+      "blue",
+      "baby",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then cuts back to the girl in the blue hoodie, who is now on the floor.",
+    "objects": [
+      "cuts",
+      "blue",
+      "who",
+      "now",
+      "hoodie",
+      "floor",
+      "girl",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby is in the high chair with a white bib, and the girl in the blue hoodie is holding a blue toy.",
+    "objects": [
+      "white",
+      "high",
+      "bib",
+      "blue",
+      "toy",
+      "hoodie",
+      "girl",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then cuts back to the girl in the pink shirt, who is sitting on the couch, and the camera cuts to the baby in the high chair.",
+    "objects": [
+      "baby",
+      "cuts",
+      "high",
+      "pink",
+      "shirt",
+      "who",
+      "couch",
+      "girl"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby is holding a blue toy, and the girl in the blue hoodie is holding a blue toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "hoodie",
+      "girl",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then cuts to a close-up of the baby in the high chair, and the baby is holding a blue toy.",
+    "objects": [
+      "cuts",
+      "high",
+      "blue",
+      "then",
+      "toy",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The girl in the pink shirt is wearing a white shirt and is sitting on the couch.",
+    "objects": [
+      "white",
+      "pink",
+      "shirt",
+      "couch",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera cuts to a shot of the baby in the high chair, and the camera cuts to the girl in the blue hoodie.",
+    "objects": [
+      "cuts",
+      "high",
+      "blue",
+      "hoodie",
+      "girl",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The girl in the blue hoodie is holding a blue toy.",
+    "objects": [
+      "girl",
+      "blue",
+      "hoodie",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then cuts back to the baby in the high chair, and the baby is holding a blue toy.",
+    "objects": [
+      "cuts",
+      "high",
+      "blue",
+      "then",
+      "toy",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then cuts to the girl in the pink shirt, and the camera cuts to the baby in the high chair.",
+    "objects": [
+      "baby",
+      "cuts",
+      "high",
+      "pink",
+      "shirt",
+      "girl",
+      "then",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby is holding a blue toy, and the girl in the blue hoodie is holding a blue toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "hoodie",
+      "girl",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then cuts back to the baby in the high chair, and the baby is holding a blue toy.",
+    "objects": [
+      "cuts",
+      "high",
+      "blue",
+      "then",
+      "toy",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera cuts to the girl in the pink shirt, and the baby is holding a blue toy.",
+    "objects": [
+      "cuts",
+      "pink",
+      "blue",
+      "shirt",
+      "toy",
+      "girl",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera cuts to a close-up of the baby in the high chair, and the baby is holding a blue toy.",
+    "objects": [
+      "cuts",
+      "high",
+      "blue",
+      "toy",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera cuts to the girl in the pink shirt, and the camera cuts to the baby in the high chair.",
+    "objects": [
+      "cuts",
+      "high",
+      "pink",
+      "shirt",
+      "girl",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The baby is holding a blue toy, and the girl in the blue hoodie is holding a blue toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "hoodie",
+      "girl",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera cuts to a shot of the baby in the high chair, and the camera cuts to the girl in the blue hoodie.",
+    "objects": [
+      "cuts",
+      "high",
+      "blue",
+      "hoodie",
+      "girl",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby is holding a blue toy, and the girl in the pink shirt is holding a blue toy.",
+    "objects": [
+      "pink",
+      "blue",
+      "shirt",
+      "toy",
+      "girl",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera cuts to a close-up of the baby in the high chair, and the baby is holding a blue toy.",
+    "objects": [
+      "cuts",
+      "high",
+      "blue",
+      "toy",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 31
+  }
+]

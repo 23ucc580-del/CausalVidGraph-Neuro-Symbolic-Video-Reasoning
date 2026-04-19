@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of children is engaging in a lively dance party.",
+    "objects": [
+      "dance",
+      "lively",
+      "group",
+      "party",
+      "children"
+    ],
+    "actions": [
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of children is engaging in a lively dance party.",
+    "objects": [
+      "dance",
+      "lively",
+      "group",
+      "party",
+      "children"
+    ],
+    "actions": [
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of children is engaging in a lively dance party.",
+    "objects": [
+      "dance",
+      "lively",
+      "group",
+      "party",
+      "children"
+    ],
+    "actions": [
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of children is engaging in a lively dance party.",
+    "objects": [
+      "dance",
+      "lively",
+      "group",
+      "party",
+      "children"
+    ],
+    "actions": [
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is filled with energy and excitement as they move to the rhythm of the music.",
+    "objects": [
+      "excitement",
+      "room",
+      "energy",
+      "move",
+      "rhythm",
+      "music",
+      "they"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is filled with energy and excitement as they move to the rhythm of the music.",
+    "objects": [
+      "excitement",
+      "room",
+      "energy",
+      "move",
+      "rhythm",
+      "music",
+      "they"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The room is filled with energy and excitement as they move to the rhythm of the music.",
+    "objects": [
+      "excitement",
+      "room",
+      "energy",
+      "move",
+      "rhythm",
+      "music",
+      "they"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The room is filled with energy and excitement as they move to the rhythm of the music.",
+    "objects": [
+      "excitement",
+      "room",
+      "energy",
+      "move",
+      "rhythm",
+      "music",
+      "they"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The girls are dressed in colorful outfits, with some wearing blue hoodies and others in yellow dresses.",
+    "objects": [
+      "blue",
+      "colorful",
+      "yellow",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "dresses",
+      "dressed",
+      "hoodies"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The girls are dressed in colorful outfits, with some wearing blue hoodies and others in yellow dresses.",
+    "objects": [
+      "blue",
+      "colorful",
+      "yellow",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "dresses",
+      "dressed",
+      "hoodies"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The girls are dressed in colorful outfits, with some wearing blue hoodies and others in yellow dresses.",
+    "objects": [
+      "blue",
+      "colorful",
+      "yellow",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "dresses",
+      "dressed",
+      "hoodies"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The girls are dressed in colorful outfits, with some wearing blue hoodies and others in yellow dresses.",
+    "objects": [
+      "blue",
+      "colorful",
+      "yellow",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "dresses",
+      "dressed",
+      "hoodies"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "They are twirling and spinning, their arms outstretched as they dance, their movements vibrant and full of life.",
+    "objects": [
+      "dance",
+      "full",
+      "life",
+      "arms",
+      "their",
+      "vibrant",
+      "they"
+    ],
+    "actions": [
+      "twirling",
+      "movements",
+      "outstretched",
+      "spinning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "They are twirling and spinning, their arms outstretched as they dance, their movements vibrant and full of life.",
+    "objects": [
+      "dance",
+      "full",
+      "life",
+      "arms",
+      "their",
+      "vibrant",
+      "they"
+    ],
+    "actions": [
+      "twirling",
+      "movements",
+      "outstretched",
+      "spinning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "They are twirling and spinning, their arms outstretched as they dance, their movements vibrant and full of life.",
+    "objects": [
+      "dance",
+      "full",
+      "life",
+      "arms",
+      "their",
+      "vibrant",
+      "they"
+    ],
+    "actions": [
+      "twirling",
+      "movements",
+      "outstretched",
+      "spinning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "They are twirling and spinning, their arms outstretched as they dance, their movements vibrant and full of life.",
+    "objects": [
+      "dance",
+      "full",
+      "life",
+      "arms",
+      "their",
+      "vibrant",
+      "they"
+    ],
+    "actions": [
+      "twirling",
+      "movements",
+      "outstretched",
+      "spinning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera captures the scene from behind the children, giving us a glimpse into their world of joy and camaraderie.",
+    "objects": [
+      "world",
+      "camaraderie",
+      "joy",
+      "glimpse",
+      "behind",
+      "their",
+      "from",
+      "into"
+    ],
+    "actions": [
+      "giving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera captures the scene from behind the children, giving us a glimpse into their world of joy and camaraderie.",
+    "objects": [
+      "world",
+      "camaraderie",
+      "joy",
+      "glimpse",
+      "behind",
+      "their",
+      "from",
+      "into"
+    ],
+    "actions": [
+      "giving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera captures the scene from behind the children, giving us a glimpse into their world of joy and camaraderie.",
+    "objects": [
+      "world",
+      "camaraderie",
+      "joy",
+      "glimpse",
+      "behind",
+      "their",
+      "from",
+      "into"
+    ],
+    "actions": [
+      "giving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera captures the scene from behind the children, giving us a glimpse into their world of joy and camaraderie.",
+    "objects": [
+      "world",
+      "camaraderie",
+      "joy",
+      "glimpse",
+      "behind",
+      "their",
+      "from",
+      "into"
+    ],
+    "actions": [
+      "giving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "As they dance, one of the girls in the blue hoodie spins around, her arms raised in the air, her smile bright and infectious.",
+    "objects": [
+      "blue",
+      "dance",
+      "around",
+      "bright",
+      "her",
+      "smile",
+      "one",
+      "arms"
+    ],
+    "actions": [
+      "infectious",
+      "girls",
+      "spins",
+      "raised"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "As they dance, one of the girls in the blue hoodie spins around, her arms raised in the air, her smile bright and infectious.",
+    "objects": [
+      "blue",
+      "dance",
+      "around",
+      "bright",
+      "her",
+      "smile",
+      "one",
+      "arms"
+    ],
+    "actions": [
+      "infectious",
+      "girls",
+      "spins",
+      "raised"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "As they dance, one of the girls in the blue hoodie spins around, her arms raised in the air, her smile bright and infectious.",
+    "objects": [
+      "blue",
+      "dance",
+      "around",
+      "bright",
+      "her",
+      "smile",
+      "one",
+      "arms"
+    ],
+    "actions": [
+      "infectious",
+      "girls",
+      "spins",
+      "raised"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "As they dance, one of the girls in the blue hoodie spins around, her arms raised in the air, her smile bright and infectious.",
+    "objects": [
+      "blue",
+      "dance",
+      "around",
+      "bright",
+      "her",
+      "smile",
+      "one",
+      "arms"
+    ],
+    "actions": [
+      "infectious",
+      "girls",
+      "spins",
+      "raised"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The silver car parked in the background adds a touch of everyday life to the scene.",
+    "objects": [
+      "adds",
+      "car",
+      "silver",
+      "touch",
+      "life",
+      "everyday"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The silver car parked in the background adds a touch of everyday life to the scene.",
+    "objects": [
+      "adds",
+      "car",
+      "silver",
+      "touch",
+      "life",
+      "everyday"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The silver car parked in the background adds a touch of everyday life to the scene.",
+    "objects": [
+      "adds",
+      "car",
+      "silver",
+      "touch",
+      "life",
+      "everyday"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The silver car parked in the background adds a touch of everyday life to the scene.",
+    "objects": [
+      "adds",
+      "car",
+      "silver",
+      "touch",
+      "life",
+      "everyday"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The music fills the room, creating a festive atmosphere that brings everyone together in a shared moment of fun.",
+    "objects": [
+      "everyone",
+      "festive",
+      "room",
+      "together",
+      "that",
+      "fun",
+      "moment",
+      "music"
+    ],
+    "actions": [
+      "brings",
+      "fills",
+      "creating",
+      "shared"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The music fills the room, creating a festive atmosphere that brings everyone together in a shared moment of fun.",
+    "objects": [
+      "everyone",
+      "festive",
+      "room",
+      "together",
+      "that",
+      "fun",
+      "moment",
+      "music"
+    ],
+    "actions": [
+      "brings",
+      "fills",
+      "creating",
+      "shared"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The music fills the room, creating a festive atmosphere that brings everyone together in a shared moment of fun.",
+    "objects": [
+      "everyone",
+      "festive",
+      "room",
+      "together",
+      "that",
+      "fun",
+      "moment",
+      "music"
+    ],
+    "actions": [
+      "brings",
+      "fills",
+      "creating",
+      "shared"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The music fills the room, creating a festive atmosphere that brings everyone together in a shared moment of fun.",
+    "objects": [
+      "everyone",
+      "festive",
+      "room",
+      "together",
+      "that",
+      "fun",
+      "moment",
+      "music"
+    ],
+    "actions": [
+      "brings",
+      "fills",
+      "creating",
+      "shared"
+    ],
+    "segment_id": 7
+  }
+]

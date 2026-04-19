@@ -1,0 +1,530 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video depicts a family scene in a living room.",
+    "objects": [
+      "family",
+      "this",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video depicts a family scene in a living room.",
+    "objects": [
+      "family",
+      "this",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video depicts a family scene in a living room.",
+    "objects": [
+      "family",
+      "this",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "This video depicts a family scene in a living room.",
+    "objects": [
+      "family",
+      "this",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "This video depicts a family scene in a living room.",
+    "objects": [
+      "family",
+      "this",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The father, wearing a blue hoodie, is sitting on the couch with his legs crossed, smiling and looking at the camera.",
+    "objects": [
+      "father",
+      "blue",
+      "his",
+      "hoodie",
+      "couch",
+      "legs"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The father, wearing a blue hoodie, is sitting on the couch with his legs crossed, smiling and looking at the camera.",
+    "objects": [
+      "father",
+      "blue",
+      "his",
+      "hoodie",
+      "couch",
+      "legs"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The father, wearing a blue hoodie, is sitting on the couch with his legs crossed, smiling and looking at the camera.",
+    "objects": [
+      "father",
+      "blue",
+      "his",
+      "hoodie",
+      "couch",
+      "legs"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The father, wearing a blue hoodie, is sitting on the couch with his legs crossed, smiling and looking at the camera.",
+    "objects": [
+      "father",
+      "blue",
+      "his",
+      "hoodie",
+      "couch",
+      "legs"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The father, wearing a blue hoodie, is sitting on the couch with his legs crossed, smiling and looking at the camera.",
+    "objects": [
+      "father",
+      "blue",
+      "his",
+      "hoodie",
+      "couch",
+      "legs"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The mother, wearing a red shirt, is standing near the stairs, looking up at the ceiling while holding a book.",
+    "objects": [
+      "while",
+      "mother",
+      "book",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "ceiling",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The mother, wearing a red shirt, is standing near the stairs, looking up at the ceiling while holding a book.",
+    "objects": [
+      "while",
+      "mother",
+      "book",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "ceiling",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The mother, wearing a red shirt, is standing near the stairs, looking up at the ceiling while holding a book.",
+    "objects": [
+      "while",
+      "mother",
+      "book",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "ceiling",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The mother, wearing a red shirt, is standing near the stairs, looking up at the ceiling while holding a book.",
+    "objects": [
+      "while",
+      "mother",
+      "book",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "ceiling",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The mother, wearing a red shirt, is standing near the stairs, looking up at the ceiling while holding a book.",
+    "objects": [
+      "while",
+      "mother",
+      "book",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "ceiling",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "A child, wearing a striped shirt and blue pants, is walking on the wooden floor, holding a video game remote control.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "game",
+      "control",
+      "wooden",
+      "remote",
+      "floor"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A child, wearing a striped shirt and blue pants, is walking on the wooden floor, holding a video game remote control.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "game",
+      "control",
+      "wooden",
+      "remote",
+      "floor"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "A child, wearing a striped shirt and blue pants, is walking on the wooden floor, holding a video game remote control.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "game",
+      "control",
+      "wooden",
+      "remote",
+      "floor"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "A child, wearing a striped shirt and blue pants, is walking on the wooden floor, holding a video game remote control.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "game",
+      "control",
+      "wooden",
+      "remote",
+      "floor"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "A child, wearing a striped shirt and blue pants, is walking on the wooden floor, holding a video game remote control.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "game",
+      "control",
+      "wooden",
+      "remote",
+      "floor"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The dog is also present in the scene, standing next to the child and looking at the camera.",
+    "objects": [
+      "dog",
+      "present",
+      "child"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The dog is also present in the scene, standing next to the child and looking at the camera.",
+    "objects": [
+      "dog",
+      "present",
+      "child"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The dog is also present in the scene, standing next to the child and looking at the camera.",
+    "objects": [
+      "dog",
+      "present",
+      "child"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The dog is also present in the scene, standing next to the child and looking at the camera.",
+    "objects": [
+      "dog",
+      "present",
+      "child"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The dog is also present in the scene, standing next to the child and looking at the camera.",
+    "objects": [
+      "dog",
+      "present",
+      "child"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The living room is well-lit with a wooden floor and white walls.",
+    "objects": [
+      "room",
+      "floor",
+      "wooden",
+      "white"
+    ],
+    "actions": [
+      "walls",
+      "living"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The living room is well-lit with a wooden floor and white walls.",
+    "objects": [
+      "room",
+      "floor",
+      "wooden",
+      "white"
+    ],
+    "actions": [
+      "walls",
+      "living"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The living room is well-lit with a wooden floor and white walls.",
+    "objects": [
+      "room",
+      "floor",
+      "wooden",
+      "white"
+    ],
+    "actions": [
+      "walls",
+      "living"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The living room is well-lit with a wooden floor and white walls.",
+    "objects": [
+      "room",
+      "floor",
+      "wooden",
+      "white"
+    ],
+    "actions": [
+      "walls",
+      "living"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The living room is well-lit with a wooden floor and white walls.",
+    "objects": [
+      "room",
+      "floor",
+      "wooden",
+      "white"
+    ],
+    "actions": [
+      "walls",
+      "living"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere is warm and homey.",
+    "objects": [
+      "overall",
+      "atmosphere",
+      "homey",
+      "warm"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere is warm and homey.",
+    "objects": [
+      "overall",
+      "atmosphere",
+      "homey",
+      "warm"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  }
+]

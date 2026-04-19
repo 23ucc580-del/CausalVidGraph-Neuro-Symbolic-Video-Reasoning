@@ -1,0 +1,596 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young boy is sitting at a dining table, wearing a blue hoodie and smiling as he talks to the camera.",
+    "objects": [
+      "table",
+      "boy",
+      "blue",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "talks",
+      "wearing",
+      "sitting",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young boy is sitting at a dining table, wearing a blue hoodie and smiling as he talks to the camera.",
+    "objects": [
+      "table",
+      "boy",
+      "blue",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "talks",
+      "wearing",
+      "sitting",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young boy is sitting at a dining table, wearing a blue hoodie and smiling as he talks to the camera.",
+    "objects": [
+      "table",
+      "boy",
+      "blue",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "talks",
+      "wearing",
+      "sitting",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "He holds a blue plastic cup with a green lid, from which he takes a sip.",
+    "objects": [
+      "plastic",
+      "lid",
+      "blue",
+      "green",
+      "from",
+      "cup",
+      "which",
+      "sip"
+    ],
+    "actions": [
+      "takes",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He holds a blue plastic cup with a green lid, from which he takes a sip.",
+    "objects": [
+      "plastic",
+      "lid",
+      "blue",
+      "green",
+      "from",
+      "cup",
+      "which",
+      "sip"
+    ],
+    "actions": [
+      "takes",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He holds a blue plastic cup with a green lid, from which he takes a sip.",
+    "objects": [
+      "plastic",
+      "lid",
+      "blue",
+      "green",
+      "from",
+      "cup",
+      "which",
+      "sip"
+    ],
+    "actions": [
+      "takes",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera zooms in on the cup, revealing its vibrant colors and texture.",
+    "objects": [
+      "vibrant",
+      "its",
+      "cup",
+      "texture"
+    ],
+    "actions": [
+      "zooms",
+      "revealing",
+      "colors"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera zooms in on the cup, revealing its vibrant colors and texture.",
+    "objects": [
+      "vibrant",
+      "its",
+      "cup",
+      "texture"
+    ],
+    "actions": [
+      "zooms",
+      "revealing",
+      "colors"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera zooms in on the cup, revealing its vibrant colors and texture.",
+    "objects": [
+      "vibrant",
+      "its",
+      "cup",
+      "texture"
+    ],
+    "actions": [
+      "zooms",
+      "revealing",
+      "colors"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The boy continues to talk, and the camera pans around him, capturing his joyful demeanor.",
+    "objects": [
+      "boy",
+      "pans",
+      "him",
+      "joyful",
+      "around",
+      "his",
+      "demeanor",
+      "talk"
+    ],
+    "actions": [
+      "continues",
+      "capturing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The boy continues to talk, and the camera pans around him, capturing his joyful demeanor.",
+    "objects": [
+      "boy",
+      "pans",
+      "him",
+      "joyful",
+      "around",
+      "his",
+      "demeanor",
+      "talk"
+    ],
+    "actions": [
+      "continues",
+      "capturing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The boy continues to talk, and the camera pans around him, capturing his joyful demeanor.",
+    "objects": [
+      "boy",
+      "pans",
+      "him",
+      "joyful",
+      "around",
+      "his",
+      "demeanor",
+      "talk"
+    ],
+    "actions": [
+      "continues",
+      "capturing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The background is filled with various pieces of furniture, including a wooden dining table and chairs, a potted plant, and a television screen displaying a show.",
+    "objects": [
+      "table",
+      "screen",
+      "show",
+      "plant",
+      "furniture",
+      "wooden",
+      "television"
+    ],
+    "actions": [
+      "displaying",
+      "chairs",
+      "filled",
+      "dining"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The background is filled with various pieces of furniture, including a wooden dining table and chairs, a potted plant, and a television screen displaying a show.",
+    "objects": [
+      "table",
+      "screen",
+      "show",
+      "plant",
+      "furniture",
+      "wooden",
+      "television"
+    ],
+    "actions": [
+      "displaying",
+      "chairs",
+      "filled",
+      "dining"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The background is filled with various pieces of furniture, including a wooden dining table and chairs, a potted plant, and a television screen displaying a show.",
+    "objects": [
+      "table",
+      "screen",
+      "show",
+      "plant",
+      "furniture",
+      "wooden",
+      "television"
+    ],
+    "actions": [
+      "displaying",
+      "chairs",
+      "filled",
+      "dining"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The boy's blue hoodie stands out against the otherwise muted colors of the scene.",
+    "objects": [
+      "blue",
+      "out",
+      "otherwise",
+      "hoodie",
+      "against"
+    ],
+    "actions": [
+      "boy's",
+      "muted",
+      "stands",
+      "colors"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy's blue hoodie stands out against the otherwise muted colors of the scene.",
+    "objects": [
+      "blue",
+      "out",
+      "otherwise",
+      "hoodie",
+      "against"
+    ],
+    "actions": [
+      "boy's",
+      "muted",
+      "stands",
+      "colors"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy's blue hoodie stands out against the otherwise muted colors of the scene.",
+    "objects": [
+      "blue",
+      "out",
+      "otherwise",
+      "hoodie",
+      "against"
+    ],
+    "actions": [
+      "boy's",
+      "muted",
+      "stands",
+      "colors"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "He seems to be enjoying a quiet moment, perhaps a snack time or a conversation with someone off-camera.",
+    "objects": [
+      "conversation",
+      "quiet",
+      "someone",
+      "snack",
+      "moment",
+      "time"
+    ],
+    "actions": [
+      "seems",
+      "perhaps",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "He seems to be enjoying a quiet moment, perhaps a snack time or a conversation with someone off-camera.",
+    "objects": [
+      "conversation",
+      "quiet",
+      "someone",
+      "snack",
+      "moment",
+      "time"
+    ],
+    "actions": [
+      "seems",
+      "perhaps",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "He seems to be enjoying a quiet moment, perhaps a snack time or a conversation with someone off-camera.",
+    "objects": [
+      "conversation",
+      "quiet",
+      "someone",
+      "snack",
+      "moment",
+      "time"
+    ],
+    "actions": [
+      "seems",
+      "perhaps",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The green lid of the cup contrasts nicely with the blue hoodie, adding a pop of color to the otherwise subdued setting.",
+    "objects": [
+      "lid",
+      "blue",
+      "green",
+      "nicely",
+      "pop",
+      "color",
+      "cup",
+      "hoodie"
+    ],
+    "actions": [
+      "subdued",
+      "contrasts",
+      "adding",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The green lid of the cup contrasts nicely with the blue hoodie, adding a pop of color to the otherwise subdued setting.",
+    "objects": [
+      "lid",
+      "blue",
+      "green",
+      "nicely",
+      "pop",
+      "color",
+      "cup",
+      "hoodie"
+    ],
+    "actions": [
+      "subdued",
+      "contrasts",
+      "adding",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The green lid of the cup contrasts nicely with the blue hoodie, adding a pop of color to the otherwise subdued setting.",
+    "objects": [
+      "lid",
+      "blue",
+      "green",
+      "nicely",
+      "pop",
+      "color",
+      "cup",
+      "hoodie"
+    ],
+    "actions": [
+      "subdued",
+      "contrasts",
+      "adding",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera's focus on the cup adds a sense of intimacy, as if it's sharing a secret with the viewer.",
+    "objects": [
+      "intimacy",
+      "viewer",
+      "sense",
+      "secret",
+      "cup",
+      "adds"
+    ],
+    "actions": [
+      "sharing",
+      "focus",
+      "camera's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera's focus on the cup adds a sense of intimacy, as if it's sharing a secret with the viewer.",
+    "objects": [
+      "intimacy",
+      "viewer",
+      "sense",
+      "secret",
+      "cup",
+      "adds"
+    ],
+    "actions": [
+      "sharing",
+      "focus",
+      "camera's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera's focus on the cup adds a sense of intimacy, as if it's sharing a secret with the viewer.",
+    "objects": [
+      "intimacy",
+      "viewer",
+      "sense",
+      "secret",
+      "cup",
+      "adds"
+    ],
+    "actions": [
+      "sharing",
+      "focus",
+      "camera's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The boy's smile is infectious, making the viewer feel as if they're part of the conversation.",
+    "objects": [
+      "viewer",
+      "conversation",
+      "part",
+      "smile",
+      "feel"
+    ],
+    "actions": [
+      "making",
+      "boy's",
+      "infectious"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The boy's smile is infectious, making the viewer feel as if they're part of the conversation.",
+    "objects": [
+      "viewer",
+      "conversation",
+      "part",
+      "smile",
+      "feel"
+    ],
+    "actions": [
+      "making",
+      "boy's",
+      "infectious"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The boy's smile is infectious, making the viewer feel as if they're part of the conversation.",
+    "objects": [
+      "viewer",
+      "conversation",
+      "part",
+      "smile",
+      "feel"
+    ],
+    "actions": [
+      "making",
+      "boy's",
+      "infectious"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The wooden dining table and chairs suggest a homey, comfortable setting, while the potted plant adds a touch of nature to the indoor scene.",
+    "objects": [
+      "indoor",
+      "table",
+      "homey",
+      "while",
+      "plant",
+      "comfortable",
+      "touch",
+      "suggest"
+    ],
+    "actions": [
+      "chairs",
+      "potted",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The wooden dining table and chairs suggest a homey, comfortable setting, while the potted plant adds a touch of nature to the indoor scene.",
+    "objects": [
+      "indoor",
+      "table",
+      "homey",
+      "while",
+      "plant",
+      "comfortable",
+      "touch",
+      "suggest"
+    ],
+    "actions": [
+      "chairs",
+      "potted",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 10
+  }
+]

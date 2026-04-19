@@ -1,0 +1,590 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a man is performing on stage, strumming a guitar with a microphone close to his mouth, indicating that he is singing.",
+    "objects": [
+      "mouth",
+      "microphone",
+      "guitar",
+      "that",
+      "his",
+      "stage",
+      "man",
+      "close"
+    ],
+    "actions": [
+      "singing",
+      "strumming",
+      "indicating",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a man is performing on stage, strumming a guitar with a microphone close to his mouth, indicating that he is singing.",
+    "objects": [
+      "mouth",
+      "microphone",
+      "guitar",
+      "that",
+      "his",
+      "stage",
+      "man",
+      "close"
+    ],
+    "actions": [
+      "singing",
+      "strumming",
+      "indicating",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a man is performing on stage, strumming a guitar with a microphone close to his mouth, indicating that he is singing.",
+    "objects": [
+      "mouth",
+      "microphone",
+      "guitar",
+      "that",
+      "his",
+      "stage",
+      "man",
+      "close"
+    ],
+    "actions": [
+      "singing",
+      "strumming",
+      "indicating",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, a man is performing on stage, strumming a guitar with a microphone close to his mouth, indicating that he is singing.",
+    "objects": [
+      "mouth",
+      "microphone",
+      "guitar",
+      "that",
+      "his",
+      "stage",
+      "man",
+      "close"
+    ],
+    "actions": [
+      "singing",
+      "strumming",
+      "indicating",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is wearing a blue hoodie and a pair of black pants.",
+    "objects": [
+      "pair",
+      "black",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a blue hoodie and a pair of black pants.",
+    "objects": [
+      "pair",
+      "black",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is wearing a blue hoodie and a pair of black pants.",
+    "objects": [
+      "pair",
+      "black",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is wearing a blue hoodie and a pair of black pants.",
+    "objects": [
+      "pair",
+      "black",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The stage is well-lit, and there are two people in the audience seated on chairs, attentively watching the performance.",
+    "objects": [
+      "attentively",
+      "there",
+      "people",
+      "two",
+      "audience",
+      "performance",
+      "stage"
+    ],
+    "actions": [
+      "chairs",
+      "watching",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The stage is well-lit, and there are two people in the audience seated on chairs, attentively watching the performance.",
+    "objects": [
+      "attentively",
+      "there",
+      "people",
+      "two",
+      "audience",
+      "performance",
+      "stage"
+    ],
+    "actions": [
+      "chairs",
+      "watching",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The stage is well-lit, and there are two people in the audience seated on chairs, attentively watching the performance.",
+    "objects": [
+      "attentively",
+      "there",
+      "people",
+      "two",
+      "audience",
+      "performance",
+      "stage"
+    ],
+    "actions": [
+      "chairs",
+      "watching",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The stage is well-lit, and there are two people in the audience seated on chairs, attentively watching the performance.",
+    "objects": [
+      "attentively",
+      "there",
+      "people",
+      "two",
+      "audience",
+      "performance",
+      "stage"
+    ],
+    "actions": [
+      "chairs",
+      "watching",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The audience members are dressed in casual clothing, with one person wearing a blue shirt and the other wearing a gray hoodie.",
+    "objects": [
+      "one",
+      "other",
+      "casual",
+      "blue",
+      "shirt",
+      "audience",
+      "gray",
+      "hoodie"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed",
+      "members"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The audience members are dressed in casual clothing, with one person wearing a blue shirt and the other wearing a gray hoodie.",
+    "objects": [
+      "one",
+      "other",
+      "casual",
+      "blue",
+      "shirt",
+      "audience",
+      "gray",
+      "hoodie"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed",
+      "members"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The audience members are dressed in casual clothing, with one person wearing a blue shirt and the other wearing a gray hoodie.",
+    "objects": [
+      "one",
+      "other",
+      "casual",
+      "blue",
+      "shirt",
+      "audience",
+      "gray",
+      "hoodie"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed",
+      "members"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The audience members are dressed in casual clothing, with one person wearing a blue shirt and the other wearing a gray hoodie.",
+    "objects": [
+      "one",
+      "other",
+      "casual",
+      "blue",
+      "shirt",
+      "audience",
+      "gray",
+      "hoodie"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed",
+      "members"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man playing the guitar is standing on a small platform at the front of the stage, while the microphone is positioned to capture his voice.",
+    "objects": [
+      "capture",
+      "small",
+      "platform",
+      "while",
+      "voice",
+      "microphone",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "positioned",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man playing the guitar is standing on a small platform at the front of the stage, while the microphone is positioned to capture his voice.",
+    "objects": [
+      "capture",
+      "small",
+      "platform",
+      "while",
+      "voice",
+      "microphone",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "positioned",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man playing the guitar is standing on a small platform at the front of the stage, while the microphone is positioned to capture his voice.",
+    "objects": [
+      "capture",
+      "small",
+      "platform",
+      "while",
+      "voice",
+      "microphone",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "positioned",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man playing the guitar is standing on a small platform at the front of the stage, while the microphone is positioned to capture his voice.",
+    "objects": [
+      "capture",
+      "small",
+      "platform",
+      "while",
+      "voice",
+      "microphone",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "positioned",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The background features a simple black curtain, which adds to the intimate atmosphere of the performance.",
+    "objects": [
+      "black",
+      "intimate",
+      "performance",
+      "which",
+      "curtain",
+      "simple",
+      "atmosphere",
+      "adds"
+    ],
+    "actions": [
+      "features"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The background features a simple black curtain, which adds to the intimate atmosphere of the performance.",
+    "objects": [
+      "black",
+      "intimate",
+      "performance",
+      "which",
+      "curtain",
+      "simple",
+      "atmosphere",
+      "adds"
+    ],
+    "actions": [
+      "features"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The background features a simple black curtain, which adds to the intimate atmosphere of the performance.",
+    "objects": [
+      "black",
+      "intimate",
+      "performance",
+      "which",
+      "curtain",
+      "simple",
+      "atmosphere",
+      "adds"
+    ],
+    "actions": [
+      "features"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The background features a simple black curtain, which adds to the intimate atmosphere of the performance.",
+    "objects": [
+      "black",
+      "intimate",
+      "performance",
+      "which",
+      "curtain",
+      "simple",
+      "atmosphere",
+      "adds"
+    ],
+    "actions": [
+      "features"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The focus of the video is on the interaction between the performer and the audience, creating a sense of connection and engagement between the performer and the viewers.",
+    "objects": [
+      "audience",
+      "sense",
+      "connection",
+      "engagement",
+      "interaction",
+      "between",
+      "performer"
+    ],
+    "actions": [
+      "viewers",
+      "focus",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The focus of the video is on the interaction between the performer and the audience, creating a sense of connection and engagement between the performer and the viewers.",
+    "objects": [
+      "audience",
+      "sense",
+      "connection",
+      "engagement",
+      "interaction",
+      "between",
+      "performer"
+    ],
+    "actions": [
+      "viewers",
+      "focus",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The focus of the video is on the interaction between the performer and the audience, creating a sense of connection and engagement between the performer and the viewers.",
+    "objects": [
+      "audience",
+      "sense",
+      "connection",
+      "engagement",
+      "interaction",
+      "between",
+      "performer"
+    ],
+    "actions": [
+      "viewers",
+      "focus",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The focus of the video is on the interaction between the performer and the audience, creating a sense of connection and engagement between the performer and the viewers.",
+    "objects": [
+      "audience",
+      "sense",
+      "connection",
+      "engagement",
+      "interaction",
+      "between",
+      "performer"
+    ],
+    "actions": [
+      "viewers",
+      "focus",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene captures a moment of musical performance and appreciation.",
+    "objects": [
+      "moment",
+      "musical",
+      "appreciation",
+      "performance"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene captures a moment of musical performance and appreciation.",
+    "objects": [
+      "moment",
+      "musical",
+      "appreciation",
+      "performance"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene captures a moment of musical performance and appreciation.",
+    "objects": [
+      "moment",
+      "musical",
+      "appreciation",
+      "performance"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene captures a moment of musical performance and appreciation.",
+    "objects": [
+      "moment",
+      "musical",
+      "appreciation",
+      "performance"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively music performance.",
+    "objects": [
+      "performance",
+      "music",
+      "lively"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively music performance.",
+    "objects": [
+      "performance",
+      "music",
+      "lively"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively music performance.",
+    "objects": [
+      "performance",
+      "music",
+      "lively"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively music performance.",
+    "objects": [
+      "performance",
+      "music",
+      "lively"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The stage is well-lit, with a large screen displaying the band's logo at the back, and the audience is visible in the background.",
+    "objects": [
+      "large",
+      "logo",
+      "audience",
+      "stage",
+      "screen"
+    ],
+    "actions": [
+      "displaying",
+      "band's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The stage is well-lit, with a large screen displaying the band's logo at the back, and the audience is visible in the background.",
+    "objects": [
+      "large",
+      "logo",
+      "audience",
+      "stage",
+      "screen"
+    ],
+    "actions": [
+      "displaying",
+      "band's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The stage is well-lit, with a large screen displaying the band's logo at the back, and the audience is visible in the background.",
+    "objects": [
+      "large",
+      "logo",
+      "audience",
+      "stage",
+      "screen"
+    ],
+    "actions": [
+      "displaying",
+      "band's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The stage is well-lit, with a large screen displaying the band's logo at the back, and the audience is visible in the background.",
+    "objects": [
+      "large",
+      "logo",
+      "audience",
+      "stage",
+      "screen"
+    ],
+    "actions": [
+      "displaying",
+      "band's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "On the stage, a man is wearing a black shirt and a black hat, playing a guitar, while a woman is singing into a microphone, holding a microphone stand.",
+    "objects": [
+      "guitar",
+      "stage",
+      "into",
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "stand"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "On the stage, a man is wearing a black shirt and a black hat, playing a guitar, while a woman is singing into a microphone, holding a microphone stand.",
+    "objects": [
+      "guitar",
+      "stage",
+      "into",
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "stand"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "On the stage, a man is wearing a black shirt and a black hat, playing a guitar, while a woman is singing into a microphone, holding a microphone stand.",
+    "objects": [
+      "guitar",
+      "stage",
+      "into",
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "stand"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "On the stage, a man is wearing a black shirt and a black hat, playing a guitar, while a woman is singing into a microphone, holding a microphone stand.",
+    "objects": [
+      "guitar",
+      "stage",
+      "into",
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "stand"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "She is wearing a black top and a black skirt.",
+    "objects": [
+      "top",
+      "black",
+      "she",
+      "skirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "She is wearing a black top and a black skirt.",
+    "objects": [
+      "top",
+      "black",
+      "she",
+      "skirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "She is wearing a black top and a black skirt.",
+    "objects": [
+      "top",
+      "black",
+      "she",
+      "skirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "She is wearing a black top and a black skirt.",
+    "objects": [
+      "top",
+      "black",
+      "she",
+      "skirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another woman is also singing, wearing a white shirt and a black hat.",
+    "objects": [
+      "white",
+      "shirt",
+      "black",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Another woman is also singing, wearing a white shirt and a black hat.",
+    "objects": [
+      "white",
+      "shirt",
+      "black",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Another woman is also singing, wearing a white shirt and a black hat.",
+    "objects": [
+      "white",
+      "shirt",
+      "black",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Another woman is also singing, wearing a white shirt and a black hat.",
+    "objects": [
+      "white",
+      "shirt",
+      "black",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The audience is engaged, with some people dancing, clapping, and others raising their hands in the air.",
+    "objects": [
+      "audience",
+      "people",
+      "air",
+      "their",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "raising",
+      "clapping",
+      "dancing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The audience is engaged, with some people dancing, clapping, and others raising their hands in the air.",
+    "objects": [
+      "audience",
+      "people",
+      "air",
+      "their",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "raising",
+      "clapping",
+      "dancing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The audience is engaged, with some people dancing, clapping, and others raising their hands in the air.",
+    "objects": [
+      "audience",
+      "people",
+      "air",
+      "their",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "raising",
+      "clapping",
+      "dancing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The audience is engaged, with some people dancing, clapping, and others raising their hands in the air.",
+    "objects": [
+      "audience",
+      "people",
+      "air",
+      "their",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "raising",
+      "clapping",
+      "dancing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera captures the performance from different angles, and the focus is on the performers, with occasional shots of the audience in the background.",
+    "objects": [
+      "different",
+      "audience",
+      "performance",
+      "occasional",
+      "from"
+    ],
+    "actions": [
+      "performers",
+      "angles",
+      "shots",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera captures the performance from different angles, and the focus is on the performers, with occasional shots of the audience in the background.",
+    "objects": [
+      "different",
+      "audience",
+      "performance",
+      "occasional",
+      "from"
+    ],
+    "actions": [
+      "performers",
+      "angles",
+      "shots",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera captures the performance from different angles, and the focus is on the performers, with occasional shots of the audience in the background.",
+    "objects": [
+      "different",
+      "audience",
+      "performance",
+      "occasional",
+      "from"
+    ],
+    "actions": [
+      "performers",
+      "angles",
+      "shots",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera captures the performance from different angles, and the focus is on the performers, with occasional shots of the audience in the background.",
+    "objects": [
+      "different",
+      "audience",
+      "performance",
+      "occasional",
+      "from"
+    ],
+    "actions": [
+      "performers",
+      "angles",
+      "shots",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The music is energetic, and the atmosphere is vibrant.",
+    "objects": [
+      "atmosphere",
+      "energetic",
+      "vibrant",
+      "music"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The music is energetic, and the atmosphere is vibrant.",
+    "objects": [
+      "atmosphere",
+      "energetic",
+      "vibrant",
+      "music"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The music is energetic, and the atmosphere is vibrant.",
+    "objects": [
+      "atmosphere",
+      "energetic",
+      "vibrant",
+      "music"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The music is energetic, and the atmosphere is vibrant.",
+    "objects": [
+      "atmosphere",
+      "energetic",
+      "vibrant",
+      "music"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

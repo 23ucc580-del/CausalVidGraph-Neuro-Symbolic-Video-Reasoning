@@ -1,0 +1,488 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are two men in the foreground and one man in the background.",
+    "objects": [
+      "man",
+      "men",
+      "there",
+      "one",
+      "two"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are two men in the foreground and one man in the background.",
+    "objects": [
+      "man",
+      "men",
+      "there",
+      "one",
+      "two"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are two men in the foreground and one man in the background.",
+    "objects": [
+      "man",
+      "men",
+      "there",
+      "one",
+      "two"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The man in the foreground is wearing a black jacket and is standing in front of a screen, talking to a crowd.",
+    "objects": [
+      "crowd",
+      "man",
+      "jacket",
+      "screen",
+      "black"
+    ],
+    "actions": [
+      "talking",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man in the foreground is wearing a black jacket and is standing in front of a screen, talking to a crowd.",
+    "objects": [
+      "crowd",
+      "man",
+      "jacket",
+      "screen",
+      "black"
+    ],
+    "actions": [
+      "talking",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man in the foreground is wearing a black jacket and is standing in front of a screen, talking to a crowd.",
+    "objects": [
+      "crowd",
+      "man",
+      "jacket",
+      "screen",
+      "black"
+    ],
+    "actions": [
+      "talking",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He appears to be giving a presentation or a speech.",
+    "objects": [
+      "speech",
+      "presentation"
+    ],
+    "actions": [
+      "giving"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He appears to be giving a presentation or a speech.",
+    "objects": [
+      "speech",
+      "presentation"
+    ],
+    "actions": [
+      "giving"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He appears to be giving a presentation or a speech.",
+    "objects": [
+      "speech",
+      "presentation"
+    ],
+    "actions": [
+      "giving"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man in the background is standing on a stage, wearing a white shirt and glasses, and is also speaking.",
+    "objects": [
+      "white",
+      "man",
+      "shirt",
+      "stage"
+    ],
+    "actions": [
+      "speaking",
+      "glasses",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The man in the background is standing on a stage, wearing a white shirt and glasses, and is also speaking.",
+    "objects": [
+      "white",
+      "man",
+      "shirt",
+      "stage"
+    ],
+    "actions": [
+      "speaking",
+      "glasses",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The man in the background is standing on a stage, wearing a white shirt and glasses, and is also speaking.",
+    "objects": [
+      "white",
+      "man",
+      "shirt",
+      "stage"
+    ],
+    "actions": [
+      "speaking",
+      "glasses",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "He is gesturing as he talks, and the man in the foreground is also gesturing while he speaks.",
+    "objects": [
+      "man",
+      "while"
+    ],
+    "actions": [
+      "speaks",
+      "gesturing",
+      "talks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "He is gesturing as he talks, and the man in the foreground is also gesturing while he speaks.",
+    "objects": [
+      "man",
+      "while"
+    ],
+    "actions": [
+      "speaks",
+      "gesturing",
+      "talks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "He is gesturing as he talks, and the man in the foreground is also gesturing while he speaks.",
+    "objects": [
+      "man",
+      "while"
+    ],
+    "actions": [
+      "speaks",
+      "gesturing",
+      "talks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Both men are wearing black pants.",
+    "objects": [
+      "black",
+      "men",
+      "both"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Both men are wearing black pants.",
+    "objects": [
+      "black",
+      "men",
+      "both"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Both men are wearing black pants.",
+    "objects": [
+      "black",
+      "men",
+      "both"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The screen behind them displays the words \"minisode\" and \"The End\" in large white letters, with a black background and a blue logo in the center.",
+    "objects": [
+      "large",
+      "white",
+      "blue",
+      "logo",
+      "them",
+      "behind",
+      "screen",
+      "black"
+    ],
+    "actions": [
+      "words",
+      "displays",
+      "letters"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The screen behind them displays the words \"minisode\" and \"The End\" in large white letters, with a black background and a blue logo in the center.",
+    "objects": [
+      "large",
+      "white",
+      "blue",
+      "logo",
+      "them",
+      "behind",
+      "screen",
+      "black"
+    ],
+    "actions": [
+      "words",
+      "displays",
+      "letters"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The screen behind them displays the words \"minisode\" and \"The End\" in large white letters, with a black background and a blue logo in the center.",
+    "objects": [
+      "large",
+      "white",
+      "blue",
+      "logo",
+      "them",
+      "behind",
+      "screen",
+      "black"
+    ],
+    "actions": [
+      "words",
+      "displays",
+      "letters"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Above the words, the words \"The End\" are in smaller white letters.",
+    "objects": [
+      "smaller",
+      "white",
+      "above"
+    ],
+    "actions": [
+      "words",
+      "letters"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Above the words, the words \"The End\" are in smaller white letters.",
+    "objects": [
+      "smaller",
+      "white",
+      "above"
+    ],
+    "actions": [
+      "words",
+      "letters"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Above the words, the words \"The End\" are in smaller white letters.",
+    "objects": [
+      "smaller",
+      "white",
+      "above"
+    ],
+    "actions": [
+      "words",
+      "letters"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The screen is turned off, and there is a blue light illuminating the stage.",
+    "objects": [
+      "blue",
+      "stage",
+      "light",
+      "off",
+      "there",
+      "screen"
+    ],
+    "actions": [
+      "turned",
+      "illuminating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The screen is turned off, and there is a blue light illuminating the stage.",
+    "objects": [
+      "blue",
+      "stage",
+      "light",
+      "off",
+      "there",
+      "screen"
+    ],
+    "actions": [
+      "turned",
+      "illuminating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The screen is turned off, and there is a blue light illuminating the stage.",
+    "objects": [
+      "blue",
+      "stage",
+      "light",
+      "off",
+      "there",
+      "screen"
+    ],
+    "actions": [
+      "turned",
+      "illuminating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the background is holding a microphone.",
+    "objects": [
+      "man",
+      "microphone"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the background is holding a microphone.",
+    "objects": [
+      "man",
+      "microphone"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the background is holding a microphone.",
+    "objects": [
+      "man",
+      "microphone"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the foreground is holding a remote control in his right hand.",
+    "objects": [
+      "hand",
+      "remote",
+      "man",
+      "his",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the foreground is holding a remote control in his right hand.",
+    "objects": [
+      "hand",
+      "remote",
+      "man",
+      "his",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

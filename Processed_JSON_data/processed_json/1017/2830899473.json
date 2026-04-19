@@ -1,0 +1,529 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are walking on a street.",
+    "objects": [
+      "street",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are walking on a street.",
+    "objects": [
+      "street",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are walking on a street.",
+    "objects": [
+      "street",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people are walking on a street.",
+    "objects": [
+      "street",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a group of people are walking on a street.",
+    "objects": [
+      "street",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "There is a man wearing a blue hoodie, a woman wearing a red shirt, and a man wearing a green shirt.",
+    "objects": [
+      "there",
+      "woman",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "There is a man wearing a blue hoodie, a woman wearing a red shirt, and a man wearing a green shirt.",
+    "objects": [
+      "there",
+      "woman",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "There is a man wearing a blue hoodie, a woman wearing a red shirt, and a man wearing a green shirt.",
+    "objects": [
+      "there",
+      "woman",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "There is a man wearing a blue hoodie, a woman wearing a red shirt, and a man wearing a green shirt.",
+    "objects": [
+      "there",
+      "woman",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "There is a man wearing a blue hoodie, a woman wearing a red shirt, and a man wearing a green shirt.",
+    "objects": [
+      "there",
+      "woman",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The man in the blue hoodie is holding a bag and is walking beside the woman in the red shirt.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "bag",
+      "beside",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "walking",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man in the blue hoodie is holding a bag and is walking beside the woman in the red shirt.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "bag",
+      "beside",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "walking",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in the blue hoodie is holding a bag and is walking beside the woman in the red shirt.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "bag",
+      "beside",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "walking",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in the blue hoodie is holding a bag and is walking beside the woman in the red shirt.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "bag",
+      "beside",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "walking",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the blue hoodie is holding a bag and is walking beside the woman in the red shirt.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "bag",
+      "beside",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "walking",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the green shirt is walking beside the man in the silver car.",
+    "objects": [
+      "green",
+      "shirt",
+      "beside",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the green shirt is walking beside the man in the silver car.",
+    "objects": [
+      "green",
+      "shirt",
+      "beside",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the green shirt is walking beside the man in the silver car.",
+    "objects": [
+      "green",
+      "shirt",
+      "beside",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the green shirt is walking beside the man in the silver car.",
+    "objects": [
+      "green",
+      "shirt",
+      "beside",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the green shirt is walking beside the man in the silver car.",
+    "objects": [
+      "green",
+      "shirt",
+      "beside",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman in the red shirt is walking beside the man in the blue hoodie.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "beside",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman in the red shirt is walking beside the man in the blue hoodie.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "beside",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman in the red shirt is walking beside the man in the blue hoodie.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "beside",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman in the red shirt is walking beside the man in the blue hoodie.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "beside",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman in the red shirt is walking beside the man in the blue hoodie.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "beside",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the green shirt is smiling, and the man in the silver car is driving.",
+    "objects": [
+      "green",
+      "shirt",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "driving",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the green shirt is smiling, and the man in the silver car is driving.",
+    "objects": [
+      "green",
+      "shirt",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "driving",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the green shirt is smiling, and the man in the silver car is driving.",
+    "objects": [
+      "green",
+      "shirt",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "driving",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the green shirt is smiling, and the man in the silver car is driving.",
+    "objects": [
+      "green",
+      "shirt",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "driving",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the green shirt is smiling, and the man in the silver car is driving.",
+    "objects": [
+      "green",
+      "shirt",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "driving",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the red shirt is walking behind the man in the blue hoodie.",
+    "objects": [
+      "behind",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the red shirt is walking behind the man in the blue hoodie.",
+    "objects": [
+      "behind",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 6
+  }
+]

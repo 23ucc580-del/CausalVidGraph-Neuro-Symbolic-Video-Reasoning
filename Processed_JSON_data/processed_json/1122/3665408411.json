@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this lively video, a group of boys is captured in various stages of play and rest at the edge of a cliff.",
+    "objects": [
+      "edge",
+      "cliff",
+      "this",
+      "rest",
+      "lively",
+      "play",
+      "group",
+      "boys"
+    ],
+    "actions": [
+      "stages",
+      "captured"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "Some are engaged in water activities, while others are seen running or climbing up the hill.",
+    "objects": [
+      "while",
+      "hill",
+      "water",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "running",
+      "activities",
+      "climbing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene is a lively mix of fun and adventure.",
+    "objects": [
+      "mix",
+      "fun",
+      "adventure",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "At the start of the video, a boy in blue swim trunks is running up the hill, his arms pumping as he ascends.",
+    "objects": [
+      "blue",
+      "start",
+      "his",
+      "swim",
+      "arms",
+      "boy",
+      "hill"
+    ],
+    "actions": [
+      "ascends",
+      "trunks",
+      "pumping",
+      "running"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "He seems to be in a hurry, perhaps eager to join the others in the water.",
+    "objects": [
+      "hurry",
+      "join",
+      "water",
+      "eager"
+    ],
+    "actions": [
+      "others",
+      "perhaps",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "Two boys are seen swimming in the water.",
+    "objects": [
+      "two",
+      "water",
+      "boys"
+    ],
+    "actions": [
+      "swimming"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "One is wearing blue swim trunks, and the other is in a blue hoodie, both are enjoying the cool water.",
+    "objects": [
+      "blue",
+      "cool",
+      "both",
+      "water",
+      "other",
+      "one",
+      "swim",
+      "hoodie"
+    ],
+    "actions": [
+      "trunks",
+      "wearing",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "Another boy in black trunks is climbing up the hill, his arms and legs muscles straining with the effort.",
+    "objects": [
+      "legs",
+      "his",
+      "effort",
+      "arms",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "straining",
+      "trunks",
+      "muscles",
+      "climbing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "A boy in black shorts and a white t-shirt is walking down the hill, perhaps after a swim.",
+    "objects": [
+      "white",
+      "after",
+      "swim",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "perhaps",
+      "walking",
+      "shorts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "A boy in a black shirt and shorts is climbing up the hill, his body tense with exertion.",
+    "objects": [
+      "body",
+      "his",
+      "shirt",
+      "tense",
+      "exertion",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "climbing",
+      "shorts"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "A boy in a blue shirt and black shorts is also climbing up the hill, his hands gripping the rocks.",
+    "objects": [
+      "blue",
+      "his",
+      "shirt",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "shorts",
+      "rocks",
+      "hands",
+      "climbing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "A boy in a black t-shirt and blue shorts is walking down the hill, his body relaxed and satisfied.",
+    "objects": [
+      "blue",
+      "body",
+      "his",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "satisfied",
+      "walking",
+      "relaxed",
+      "shorts"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "A boy in a black t-shirt and orange shorts is running up the hill, his breathing heavy and sweating.",
+    "objects": [
+      "his",
+      "boy",
+      "orange",
+      "hill",
+      "black",
+      "heavy"
+    ],
+    "actions": [
+      "sweating",
+      "breathing",
+      "shorts",
+      "running"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "A boy in black trunks is walking down the hill, his body relaxed and content.",
+    "objects": [
+      "body",
+      "his",
+      "content",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "trunks",
+      "relaxed",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "A boy in blue swim trunks is swimming in the water, his movements smooth and confident.",
+    "objects": [
+      "blue",
+      "water",
+      "his",
+      "confident",
+      "swim",
+      "boy",
+      "smooth"
+    ],
+    "actions": [
+      "movements",
+      "trunks",
+      "swimming"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "A boy in black trunks is climbing up the hill, his arms and legs straining with the effort.",
+    "objects": [
+      "legs",
+      "his",
+      "effort",
+      "arms",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "trunks",
+      "straining",
+      "climbing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "A boy in black swim trunks is walking down the hill, his body relaxed and happy.",
+    "objects": [
+      "body",
+      "his",
+      "happy",
+      "swim",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "trunks",
+      "relaxed",
+      "walking"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "A boy in blue swim trunks is running up the hill, his body tense and determined.",
+    "objects": [
+      "blue",
+      "body",
+      "his",
+      "tense",
+      "swim",
+      "boy",
+      "hill"
+    ],
+    "actions": [
+      "determined",
+      "trunks",
+      "running"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "A boy in a black t-shirt is swimming in the water, his movements fluid and at ease.",
+    "objects": [
+      "ease",
+      "water",
+      "his",
+      "fluid",
+      "boy",
+      "black"
+    ],
+    "actions": [
+      "movements",
+      "swimming"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "A boy in blue swim trunks is climbing up the hill, his body tense and focused.",
+    "objects": [
+      "blue",
+      "body",
+      "his",
+      "tense",
+      "swim",
+      "boy",
+      "hill"
+    ],
+    "actions": [
+      "focused",
+      "trunks",
+      "climbing"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "A boy in a black t-shirt and blue shorts is walking down the hill, his body relaxed and satisfied.",
+    "objects": [
+      "blue",
+      "body",
+      "his",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "satisfied",
+      "walking",
+      "relaxed",
+      "shorts"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "A boy in black trunks is climbing up the hill, his body tense and focused.",
+    "objects": [
+      "body",
+      "his",
+      "tense",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "focused",
+      "trunks",
+      "climbing"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "A boy in a black t-shirt is walking down the hill, his body relaxed and happy.",
+    "objects": [
+      "body",
+      "his",
+      "happy",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "relaxed",
+      "walking"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "A boy in blue swim trunks is running up the hill, his body tense and focused.",
+    "objects": [
+      "blue",
+      "body",
+      "his",
+      "tense",
+      "swim",
+      "boy",
+      "hill"
+    ],
+    "actions": [
+      "trunks",
+      "focused",
+      "running"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "A boy in black shorts is walking down the hill, his body relaxed and content.",
+    "objects": [
+      "body",
+      "his",
+      "content",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "relaxed",
+      "shorts"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "A boy in a black t-shirt is walking down the hill, his body relaxed and happy.",
+    "objects": [
+      "body",
+      "his",
+      "happy",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "relaxed",
+      "walking"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "A boy in a black t-shirt and orange shorts is running up the hill, his body tense and determined.",
+    "objects": [
+      "body",
+      "his",
+      "tense",
+      "boy",
+      "orange",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "determined",
+      "shorts",
+      "running"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "A boy in a black t-shirt and black shorts is walking down the hill, his body relaxed and satisfied.",
+    "objects": [
+      "body",
+      "his",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "satisfied",
+      "walking",
+      "relaxed",
+      "shorts"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "A boy in a blue t-shirt and black trunks is walking down the hill, his body relaxed and happy.",
+    "objects": [
+      "blue",
+      "body",
+      "his",
+      "happy",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "trunks",
+      "relaxed",
+      "walking"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "A boy in a black t-shirt and orange shorts is running up the hill, his body tense and focused.",
+    "objects": [
+      "body",
+      "his",
+      "tense",
+      "boy",
+      "orange",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "focused",
+      "shorts",
+      "running"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "A boy in a black t-shirt and blue shorts is walking down the hill, his body relaxed and content.",
+    "objects": [
+      "blue",
+      "body",
+      "his",
+      "content",
+      "boy",
+      "hill",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "relaxed",
+      "shorts"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "A boy in blue swim trunks is climbing up the hill, his body tense and focused.",
+    "objects": [
+      "blue",
+      "body",
+      "his",
+      "tense",
+      "swim",
+      "boy",
+      "hill"
+    ],
+    "actions": [
+      "focused",
+      "trunks",
+      "climbing"
+    ],
+    "segment_id": 31
+  }
+]

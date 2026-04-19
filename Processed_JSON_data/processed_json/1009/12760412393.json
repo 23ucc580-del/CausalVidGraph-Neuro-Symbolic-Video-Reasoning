@@ -1,0 +1,584 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of children and adults are gathered in a living room, engaging in a festive atmosphere.",
+    "objects": [
+      "children",
+      "room",
+      "festive",
+      "atmosphere",
+      "group"
+    ],
+    "actions": [
+      "engaging",
+      "gathered",
+      "adults",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of children and adults are gathered in a living room, engaging in a festive atmosphere.",
+    "objects": [
+      "children",
+      "room",
+      "festive",
+      "atmosphere",
+      "group"
+    ],
+    "actions": [
+      "engaging",
+      "gathered",
+      "adults",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of children and adults are gathered in a living room, engaging in a festive atmosphere.",
+    "objects": [
+      "children",
+      "room",
+      "festive",
+      "atmosphere",
+      "group"
+    ],
+    "actions": [
+      "engaging",
+      "gathered",
+      "adults",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A boy in a blue hoodie is singing into a microphone, while a girl in a red shirt is also singing, both of them holding microphones.",
+    "objects": [
+      "boy",
+      "both",
+      "into",
+      "while",
+      "microphone",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "singing",
+      "microphones",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A boy in a blue hoodie is singing into a microphone, while a girl in a red shirt is also singing, both of them holding microphones.",
+    "objects": [
+      "boy",
+      "both",
+      "into",
+      "while",
+      "microphone",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "singing",
+      "microphones",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A boy in a blue hoodie is singing into a microphone, while a girl in a red shirt is also singing, both of them holding microphones.",
+    "objects": [
+      "boy",
+      "both",
+      "into",
+      "while",
+      "microphone",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "singing",
+      "microphones",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The boy is wearing a blue shirt and a girl in a blue dress is standing behind him.",
+    "objects": [
+      "behind",
+      "boy",
+      "him",
+      "blue",
+      "shirt",
+      "dress",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The boy is wearing a blue shirt and a girl in a blue dress is standing behind him.",
+    "objects": [
+      "behind",
+      "boy",
+      "him",
+      "blue",
+      "shirt",
+      "dress",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The boy is wearing a blue shirt and a girl in a blue dress is standing behind him.",
+    "objects": [
+      "behind",
+      "boy",
+      "him",
+      "blue",
+      "shirt",
+      "dress",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A boy in a plaid shirt is sitting on the floor, playing a toy guitar, and another boy in a black shirt is standing nearby, also holding a microphone.",
+    "objects": [
+      "boy",
+      "black",
+      "microphone",
+      "guitar",
+      "shirt",
+      "plaid",
+      "toy",
+      "nearby"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A boy in a plaid shirt is sitting on the floor, playing a toy guitar, and another boy in a black shirt is standing nearby, also holding a microphone.",
+    "objects": [
+      "boy",
+      "black",
+      "microphone",
+      "guitar",
+      "shirt",
+      "plaid",
+      "toy",
+      "nearby"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A boy in a plaid shirt is sitting on the floor, playing a toy guitar, and another boy in a black shirt is standing nearby, also holding a microphone.",
+    "objects": [
+      "boy",
+      "black",
+      "microphone",
+      "guitar",
+      "shirt",
+      "plaid",
+      "toy",
+      "nearby"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a plaid shirt is holding a toy guitar.",
+    "objects": [
+      "guitar",
+      "shirt",
+      "plaid",
+      "man",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a plaid shirt is holding a toy guitar.",
+    "objects": [
+      "guitar",
+      "shirt",
+      "plaid",
+      "man",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a plaid shirt is holding a toy guitar.",
+    "objects": [
+      "guitar",
+      "shirt",
+      "plaid",
+      "man",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman in a grey dress is sitting on the floor, wearing blue pants and holding a toy guitar.",
+    "objects": [
+      "woman",
+      "blue",
+      "grey",
+      "guitar",
+      "toy",
+      "dress",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a grey dress is sitting on the floor, wearing blue pants and holding a toy guitar.",
+    "objects": [
+      "woman",
+      "blue",
+      "grey",
+      "guitar",
+      "toy",
+      "dress",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a grey dress is sitting on the floor, wearing blue pants and holding a toy guitar.",
+    "objects": [
+      "woman",
+      "blue",
+      "grey",
+      "guitar",
+      "toy",
+      "dress",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman in a pink shirt is seated on the floor, holding a toy guitar.",
+    "objects": [
+      "pink",
+      "woman",
+      "guitar",
+      "shirt",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman in a pink shirt is seated on the floor, holding a toy guitar.",
+    "objects": [
+      "pink",
+      "woman",
+      "guitar",
+      "shirt",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a pink shirt is seated on the floor, holding a toy guitar.",
+    "objects": [
+      "pink",
+      "woman",
+      "guitar",
+      "shirt",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A girl in a black dress is sitting on the floor, wearing black tights, and another girl in a floral dress is standing, holding a toy guitar.",
+    "objects": [
+      "black",
+      "floral",
+      "guitar",
+      "dress",
+      "toy",
+      "girl",
+      "floor"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "sitting",
+      "tights"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A girl in a black dress is sitting on the floor, wearing black tights, and another girl in a floral dress is standing, holding a toy guitar.",
+    "objects": [
+      "black",
+      "floral",
+      "guitar",
+      "dress",
+      "toy",
+      "girl",
+      "floor"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "sitting",
+      "tights"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A girl in a black dress is sitting on the floor, wearing black tights, and another girl in a floral dress is standing, holding a toy guitar.",
+    "objects": [
+      "black",
+      "floral",
+      "guitar",
+      "dress",
+      "toy",
+      "girl",
+      "floor"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "sitting",
+      "tights"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman in a black dress is seated on a couch, holding a toy guitar.",
+    "objects": [
+      "woman",
+      "black",
+      "guitar",
+      "couch",
+      "dress",
+      "toy"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman in a black dress is seated on a couch, holding a toy guitar.",
+    "objects": [
+      "woman",
+      "black",
+      "guitar",
+      "couch",
+      "dress",
+      "toy"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A woman in a black dress is seated on a couch, holding a toy guitar.",
+    "objects": [
+      "woman",
+      "black",
+      "guitar",
+      "couch",
+      "dress",
+      "toy"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "A boy in a grey shirt is sitting on the floor, holding a toy guitar.",
+    "objects": [
+      "boy",
+      "grey",
+      "shirt",
+      "guitar",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "A boy in a grey shirt is sitting on the floor, holding a toy guitar.",
+    "objects": [
+      "boy",
+      "grey",
+      "shirt",
+      "guitar",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "A boy in a grey shirt is sitting on the floor, holding a toy guitar.",
+    "objects": [
+      "boy",
+      "grey",
+      "shirt",
+      "guitar",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "A woman in a black dress is standing, wearing black tights.",
+    "objects": [
+      "black",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "tights"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "A woman in a black dress is standing, wearing black tights.",
+    "objects": [
+      "black",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "tights"
+    ],
+    "segment_id": 10
+  }
+]

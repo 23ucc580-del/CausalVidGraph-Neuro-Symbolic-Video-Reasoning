@@ -1,0 +1,536 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a snowy mountain scene where a skier is descending a trail.",
+    "objects": [
+      "skier",
+      "mountain",
+      "where",
+      "trail",
+      "snowy"
+    ],
+    "actions": [
+      "descending",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a snowy mountain scene where a skier is descending a trail.",
+    "objects": [
+      "skier",
+      "mountain",
+      "where",
+      "trail",
+      "snowy"
+    ],
+    "actions": [
+      "descending",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a snowy mountain scene where a skier is descending a trail.",
+    "objects": [
+      "skier",
+      "mountain",
+      "where",
+      "trail",
+      "snowy"
+    ],
+    "actions": [
+      "descending",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a snowy mountain scene where a skier is descending a trail.",
+    "objects": [
+      "skier",
+      "mountain",
+      "where",
+      "trail",
+      "snowy"
+    ],
+    "actions": [
+      "descending",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video depicts a snowy mountain scene where a skier is descending a trail.",
+    "objects": [
+      "skier",
+      "mountain",
+      "where",
+      "trail",
+      "snowy"
+    ],
+    "actions": [
+      "descending",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The skier is wearing a white jacket, black pants, and a helmet.",
+    "objects": [
+      "skier",
+      "white",
+      "jacket",
+      "black",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The skier is wearing a white jacket, black pants, and a helmet.",
+    "objects": [
+      "skier",
+      "white",
+      "jacket",
+      "black",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The skier is wearing a white jacket, black pants, and a helmet.",
+    "objects": [
+      "skier",
+      "white",
+      "jacket",
+      "black",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The skier is wearing a white jacket, black pants, and a helmet.",
+    "objects": [
+      "skier",
+      "white",
+      "jacket",
+      "black",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The skier is wearing a white jacket, black pants, and a helmet.",
+    "objects": [
+      "skier",
+      "white",
+      "jacket",
+      "black",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The skier is holding ski poles and is in a crouched position, indicating that they are skiing downhill.",
+    "objects": [
+      "they",
+      "skier",
+      "ski",
+      "position",
+      "that",
+      "downhill"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "skiing",
+      "crouched"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The skier is holding ski poles and is in a crouched position, indicating that they are skiing downhill.",
+    "objects": [
+      "they",
+      "skier",
+      "ski",
+      "position",
+      "that",
+      "downhill"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "skiing",
+      "crouched"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The skier is holding ski poles and is in a crouched position, indicating that they are skiing downhill.",
+    "objects": [
+      "they",
+      "skier",
+      "ski",
+      "position",
+      "that",
+      "downhill"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "skiing",
+      "crouched"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The skier is holding ski poles and is in a crouched position, indicating that they are skiing downhill.",
+    "objects": [
+      "they",
+      "skier",
+      "ski",
+      "position",
+      "that",
+      "downhill"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "skiing",
+      "crouched"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The skier is holding ski poles and is in a crouched position, indicating that they are skiing downhill.",
+    "objects": [
+      "they",
+      "skier",
+      "ski",
+      "position",
+      "that",
+      "downhill"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "skiing",
+      "crouched"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, there is another person wearing a black jacket and a white helmet who is also skiing downhill.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "jacket",
+      "who",
+      "helmet",
+      "downhill"
+    ],
+    "actions": [
+      "wearing",
+      "skiing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, there is another person wearing a black jacket and a white helmet who is also skiing downhill.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "jacket",
+      "who",
+      "helmet",
+      "downhill"
+    ],
+    "actions": [
+      "wearing",
+      "skiing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, there is another person wearing a black jacket and a white helmet who is also skiing downhill.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "jacket",
+      "who",
+      "helmet",
+      "downhill"
+    ],
+    "actions": [
+      "wearing",
+      "skiing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, there is another person wearing a black jacket and a white helmet who is also skiing downhill.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "jacket",
+      "who",
+      "helmet",
+      "downhill"
+    ],
+    "actions": [
+      "wearing",
+      "skiing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, there is another person wearing a black jacket and a white helmet who is also skiing downhill.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "jacket",
+      "who",
+      "helmet",
+      "downhill"
+    ],
+    "actions": [
+      "wearing",
+      "skiing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The skier in white jacket and black pants is skiing on the left side of the trail while the skier in black jacket and white helmet is on the right side of the trail.",
+    "objects": [
+      "skier",
+      "white",
+      "while",
+      "jacket",
+      "black",
+      "trail",
+      "side",
+      "helmet"
+    ],
+    "actions": [
+      "pants",
+      "skiing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The skier in white jacket and black pants is skiing on the left side of the trail while the skier in black jacket and white helmet is on the right side of the trail.",
+    "objects": [
+      "skier",
+      "white",
+      "while",
+      "jacket",
+      "black",
+      "trail",
+      "side",
+      "helmet"
+    ],
+    "actions": [
+      "pants",
+      "skiing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The skier in white jacket and black pants is skiing on the left side of the trail while the skier in black jacket and white helmet is on the right side of the trail.",
+    "objects": [
+      "skier",
+      "white",
+      "while",
+      "jacket",
+      "black",
+      "trail",
+      "side",
+      "helmet"
+    ],
+    "actions": [
+      "pants",
+      "skiing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The skier in white jacket and black pants is skiing on the left side of the trail while the skier in black jacket and white helmet is on the right side of the trail.",
+    "objects": [
+      "skier",
+      "white",
+      "while",
+      "jacket",
+      "black",
+      "trail",
+      "side",
+      "helmet"
+    ],
+    "actions": [
+      "pants",
+      "skiing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The skier in white jacket and black pants is skiing on the left side of the trail while the skier in black jacket and white helmet is on the right side of the trail.",
+    "objects": [
+      "skier",
+      "white",
+      "while",
+      "jacket",
+      "black",
+      "trail",
+      "side",
+      "helmet"
+    ],
+    "actions": [
+      "pants",
+      "skiing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The trail is surrounded by trees, and the sky is overcast.",
+    "objects": [
+      "sky",
+      "trail",
+      "overcast"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The trail is surrounded by trees, and the sky is overcast.",
+    "objects": [
+      "sky",
+      "trail",
+      "overcast"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The trail is surrounded by trees, and the sky is overcast.",
+    "objects": [
+      "sky",
+      "trail",
+      "overcast"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The trail is surrounded by trees, and the sky is overcast.",
+    "objects": [
+      "sky",
+      "trail",
+      "overcast"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The trail is surrounded by trees, and the sky is overcast.",
+    "objects": [
+      "sky",
+      "trail",
+      "overcast"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The video appears to be taken during the daytime.",
+    "objects": [
+      "daytime",
+      "taken"
+    ],
+    "actions": [
+      "during"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The video appears to be taken during the daytime.",
+    "objects": [
+      "daytime",
+      "taken"
+    ],
+    "actions": [
+      "during"
+    ],
+    "segment_id": 6
+  }
+]

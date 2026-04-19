@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered on a grassy field, engaging in a game of football.",
+    "objects": [
+      "field",
+      "group",
+      "people",
+      "game",
+      "grassy",
+      "football"
+    ],
+    "actions": [
+      "engaging",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered on a grassy field, engaging in a game of football.",
+    "objects": [
+      "field",
+      "group",
+      "people",
+      "game",
+      "grassy",
+      "football"
+    ],
+    "actions": [
+      "engaging",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are gathered on a grassy field, engaging in a game of football.",
+    "objects": [
+      "field",
+      "group",
+      "people",
+      "game",
+      "grassy",
+      "football"
+    ],
+    "actions": [
+      "engaging",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "Some of them are wearing helmets for safety, while others are not.",
+    "objects": [
+      "them",
+      "some",
+      "safety",
+      "while",
+      "not"
+    ],
+    "actions": [
+      "others",
+      "helmets",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Some of them are wearing helmets for safety, while others are not.",
+    "objects": [
+      "them",
+      "some",
+      "safety",
+      "while",
+      "not"
+    ],
+    "actions": [
+      "others",
+      "helmets",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Some of them are wearing helmets for safety, while others are not.",
+    "objects": [
+      "them",
+      "some",
+      "safety",
+      "while",
+      "not"
+    ],
+    "actions": [
+      "others",
+      "helmets",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene is lively with players actively participating in the game.",
+    "objects": [
+      "game",
+      "lively",
+      "actively"
+    ],
+    "actions": [
+      "participating",
+      "players"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene is lively with players actively participating in the game.",
+    "objects": [
+      "game",
+      "lively",
+      "actively"
+    ],
+    "actions": [
+      "participating",
+      "players"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene is lively with players actively participating in the game.",
+    "objects": [
+      "game",
+      "lively",
+      "actively"
+    ],
+    "actions": [
+      "participating",
+      "players"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One player in a blue hoodie and black pants is running towards the right side of the field, possibly trying to score a touchdown or pass the ball to a teammate.",
+    "objects": [
+      "pass",
+      "one",
+      "player",
+      "blue",
+      "side",
+      "teammate",
+      "black",
+      "score"
+    ],
+    "actions": [
+      "pants",
+      "trying",
+      "running",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "One player in a blue hoodie and black pants is running towards the right side of the field, possibly trying to score a touchdown or pass the ball to a teammate.",
+    "objects": [
+      "pass",
+      "one",
+      "player",
+      "blue",
+      "side",
+      "teammate",
+      "black",
+      "score"
+    ],
+    "actions": [
+      "pants",
+      "trying",
+      "running",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "One player in a blue hoodie and black pants is running towards the right side of the field, possibly trying to score a touchdown or pass the ball to a teammate.",
+    "objects": [
+      "pass",
+      "one",
+      "player",
+      "blue",
+      "side",
+      "teammate",
+      "black",
+      "score"
+    ],
+    "actions": [
+      "pants",
+      "trying",
+      "running",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Another player, wearing a black hoodie and black shorts, is walking towards the left side of the field.",
+    "objects": [
+      "player",
+      "side",
+      "black",
+      "field",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "shorts",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Another player, wearing a black hoodie and black shorts, is walking towards the left side of the field.",
+    "objects": [
+      "player",
+      "side",
+      "black",
+      "field",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "shorts",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Another player, wearing a black hoodie and black shorts, is walking towards the left side of the field.",
+    "objects": [
+      "player",
+      "side",
+      "black",
+      "field",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "shorts",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The player in a red shirt and black shorts is seen walking towards the center of the field.",
+    "objects": [
+      "shirt",
+      "center",
+      "player",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "walking",
+      "red",
+      "towards",
+      "shorts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The player in a red shirt and black shorts is seen walking towards the center of the field.",
+    "objects": [
+      "shirt",
+      "center",
+      "player",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "walking",
+      "red",
+      "towards",
+      "shorts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The player in a red shirt and black shorts is seen walking towards the center of the field.",
+    "objects": [
+      "shirt",
+      "center",
+      "player",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "walking",
+      "red",
+      "towards",
+      "shorts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A player in a red shirt and black shorts is also running towards the left side of the field.",
+    "objects": [
+      "shirt",
+      "player",
+      "side",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "red",
+      "running",
+      "shorts",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A player in a red shirt and black shorts is also running towards the left side of the field.",
+    "objects": [
+      "shirt",
+      "player",
+      "side",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "red",
+      "running",
+      "shorts",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A player in a red shirt and black shorts is also running towards the left side of the field.",
+    "objects": [
+      "shirt",
+      "player",
+      "side",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "red",
+      "running",
+      "shorts",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A player in a white shirt and black pants is running towards the right side of the field.",
+    "objects": [
+      "shirt",
+      "player",
+      "side",
+      "white",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "pants",
+      "running",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A player in a white shirt and black pants is running towards the right side of the field.",
+    "objects": [
+      "shirt",
+      "player",
+      "side",
+      "white",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "pants",
+      "running",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A player in a white shirt and black pants is running towards the right side of the field.",
+    "objects": [
+      "shirt",
+      "player",
+      "side",
+      "white",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "pants",
+      "running",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A player in a black hoodie and black shorts is walking towards the left side of the field.",
+    "objects": [
+      "player",
+      "side",
+      "black",
+      "field",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "shorts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A player in a black hoodie and black shorts is walking towards the left side of the field.",
+    "objects": [
+      "player",
+      "side",
+      "black",
+      "field",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "shorts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A player in a black hoodie and black shorts is walking towards the left side of the field.",
+    "objects": [
+      "player",
+      "side",
+      "black",
+      "field",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "shorts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "Another player in a red shirt and black shorts is also running towards the right side of the field.",
+    "objects": [
+      "shirt",
+      "player",
+      "side",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "red",
+      "running",
+      "shorts",
+      "towards"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "Another player in a red shirt and black shorts is also running towards the right side of the field.",
+    "objects": [
+      "shirt",
+      "player",
+      "side",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "red",
+      "running",
+      "shorts",
+      "towards"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "Another player in a red shirt and black shorts is also running towards the right side of the field.",
+    "objects": [
+      "shirt",
+      "player",
+      "side",
+      "black",
+      "field"
+    ],
+    "actions": [
+      "red",
+      "running",
+      "shorts",
+      "towards"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is dynamic, with players moving and interacting with each other, possibly strategizing their next move in the game.",
+    "objects": [
+      "dynamic",
+      "their",
+      "move",
+      "possibly",
+      "other",
+      "game",
+      "each"
+    ],
+    "actions": [
+      "strategizing",
+      "interacting",
+      "players",
+      "moving"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is dynamic, with players moving and interacting with each other, possibly strategizing their next move in the game.",
+    "objects": [
+      "dynamic",
+      "their",
+      "move",
+      "possibly",
+      "other",
+      "game",
+      "each"
+    ],
+    "actions": [
+      "strategizing",
+      "interacting",
+      "players",
+      "moving"
+    ],
+    "segment_id": 10
+  }
+]

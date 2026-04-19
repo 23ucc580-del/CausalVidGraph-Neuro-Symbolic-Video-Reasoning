@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is gathered in a meeting room with a table in the center.",
+    "objects": [
+      "room",
+      "people",
+      "table",
+      "group",
+      "center"
+    ],
+    "actions": [
+      "gathered",
+      "meeting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is gathered in a meeting room with a table in the center.",
+    "objects": [
+      "room",
+      "people",
+      "table",
+      "group",
+      "center"
+    ],
+    "actions": [
+      "gathered",
+      "meeting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people is gathered in a meeting room with a table in the center.",
+    "objects": [
+      "room",
+      "people",
+      "table",
+      "group",
+      "center"
+    ],
+    "actions": [
+      "gathered",
+      "meeting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people is gathered in a meeting room with a table in the center.",
+    "objects": [
+      "room",
+      "people",
+      "table",
+      "group",
+      "center"
+    ],
+    "actions": [
+      "gathered",
+      "meeting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a group of people is gathered in a meeting room with a table in the center.",
+    "objects": [
+      "room",
+      "people",
+      "table",
+      "group",
+      "center"
+    ],
+    "actions": [
+      "gathered",
+      "meeting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "There are two women and two men standing around the table, engaged in a discussion.",
+    "objects": [
+      "around",
+      "women",
+      "discussion",
+      "men",
+      "there",
+      "table",
+      "two"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "There are two women and two men standing around the table, engaged in a discussion.",
+    "objects": [
+      "around",
+      "women",
+      "discussion",
+      "men",
+      "there",
+      "table",
+      "two"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "There are two women and two men standing around the table, engaged in a discussion.",
+    "objects": [
+      "around",
+      "women",
+      "discussion",
+      "men",
+      "there",
+      "table",
+      "two"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "There are two women and two men standing around the table, engaged in a discussion.",
+    "objects": [
+      "around",
+      "women",
+      "discussion",
+      "men",
+      "there",
+      "table",
+      "two"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "There are two women and two men standing around the table, engaged in a discussion.",
+    "objects": [
+      "around",
+      "women",
+      "discussion",
+      "men",
+      "there",
+      "table",
+      "two"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "One woman is wearing a black dress and a necklace, and the other woman is wearing a white blouse and a necklace.",
+    "objects": [
+      "white",
+      "other",
+      "dress",
+      "necklace",
+      "one",
+      "blouse",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "One woman is wearing a black dress and a necklace, and the other woman is wearing a white blouse and a necklace.",
+    "objects": [
+      "white",
+      "other",
+      "dress",
+      "necklace",
+      "one",
+      "blouse",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "One woman is wearing a black dress and a necklace, and the other woman is wearing a white blouse and a necklace.",
+    "objects": [
+      "white",
+      "other",
+      "dress",
+      "necklace",
+      "one",
+      "blouse",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "One woman is wearing a black dress and a necklace, and the other woman is wearing a white blouse and a necklace.",
+    "objects": [
+      "white",
+      "other",
+      "dress",
+      "necklace",
+      "one",
+      "blouse",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "One woman is wearing a black dress and a necklace, and the other woman is wearing a white blouse and a necklace.",
+    "objects": [
+      "white",
+      "other",
+      "dress",
+      "necklace",
+      "one",
+      "blouse",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "One man is wearing a white shirt and tie, while the other is wearing a blue shirt and a tie.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "while",
+      "other",
+      "shirt",
+      "one",
+      "tie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "One man is wearing a white shirt and tie, while the other is wearing a blue shirt and a tie.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "while",
+      "other",
+      "shirt",
+      "one",
+      "tie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "One man is wearing a white shirt and tie, while the other is wearing a blue shirt and a tie.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "while",
+      "other",
+      "shirt",
+      "one",
+      "tie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "One man is wearing a white shirt and tie, while the other is wearing a blue shirt and a tie.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "while",
+      "other",
+      "shirt",
+      "one",
+      "tie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "One man is wearing a white shirt and tie, while the other is wearing a blue shirt and a tie.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "while",
+      "other",
+      "shirt",
+      "one",
+      "tie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman in the white blouse is holding a plastic bag and a bottle of soda, and the man in the blue shirt is holding a bottle of soda.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "bag",
+      "plastic",
+      "shirt",
+      "blouse",
+      "soda"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman in the white blouse is holding a plastic bag and a bottle of soda, and the man in the blue shirt is holding a bottle of soda.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "bag",
+      "plastic",
+      "shirt",
+      "blouse",
+      "soda"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman in the white blouse is holding a plastic bag and a bottle of soda, and the man in the blue shirt is holding a bottle of soda.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "bag",
+      "plastic",
+      "shirt",
+      "blouse",
+      "soda"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman in the white blouse is holding a plastic bag and a bottle of soda, and the man in the blue shirt is holding a bottle of soda.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "bag",
+      "plastic",
+      "shirt",
+      "blouse",
+      "soda"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman in the white blouse is holding a plastic bag and a bottle of soda, and the man in the blue shirt is holding a bottle of soda.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "bag",
+      "plastic",
+      "shirt",
+      "blouse",
+      "soda"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "There is a table with food on it, including a cake and a bowl, and another table with a bottle of soda and a bag of chips.",
+    "objects": [
+      "bag",
+      "food",
+      "there",
+      "soda",
+      "bowl",
+      "table",
+      "cake",
+      "bottle"
+    ],
+    "actions": [
+      "chips"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "There is a table with food on it, including a cake and a bowl, and another table with a bottle of soda and a bag of chips.",
+    "objects": [
+      "bag",
+      "food",
+      "there",
+      "soda",
+      "bowl",
+      "table",
+      "cake",
+      "bottle"
+    ],
+    "actions": [
+      "chips"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "There is a table with food on it, including a cake and a bowl, and another table with a bottle of soda and a bag of chips.",
+    "objects": [
+      "bag",
+      "food",
+      "there",
+      "soda",
+      "bowl",
+      "table",
+      "cake",
+      "bottle"
+    ],
+    "actions": [
+      "chips"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "There is a table with food on it, including a cake and a bowl, and another table with a bottle of soda and a bag of chips.",
+    "objects": [
+      "bag",
+      "food",
+      "there",
+      "soda",
+      "bowl",
+      "table",
+      "cake",
+      "bottle"
+    ],
+    "actions": [
+      "chips"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "There is a table with food on it, including a cake and a bowl, and another table with a bottle of soda and a bag of chips.",
+    "objects": [
+      "bag",
+      "food",
+      "there",
+      "soda",
+      "bowl",
+      "table",
+      "cake",
+      "bottle"
+    ],
+    "actions": [
+      "chips"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The room is furnished with cubicle-style furniture, and the meeting is taking place in an office environment.",
+    "objects": [
+      "room",
+      "place",
+      "office",
+      "furniture",
+      "environment"
+    ],
+    "actions": [
+      "taking",
+      "furnished",
+      "meeting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The room is furnished with cubicle-style furniture, and the meeting is taking place in an office environment.",
+    "objects": [
+      "room",
+      "place",
+      "office",
+      "furniture",
+      "environment"
+    ],
+    "actions": [
+      "taking",
+      "furnished",
+      "meeting"
+    ],
+    "segment_id": 6
+  }
+]

@@ -1,0 +1,568 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a scene inside a classroom where a group of students are sitting and observing an ongoing activity.",
+    "objects": [
+      "activity",
+      "where",
+      "classroom",
+      "inside",
+      "group"
+    ],
+    "actions": [
+      "students",
+      "sitting",
+      "depicts",
+      "ongoing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a scene inside a classroom where a group of students are sitting and observing an ongoing activity.",
+    "objects": [
+      "activity",
+      "where",
+      "classroom",
+      "inside",
+      "group"
+    ],
+    "actions": [
+      "students",
+      "sitting",
+      "depicts",
+      "ongoing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a scene inside a classroom where a group of students are sitting and observing an ongoing activity.",
+    "objects": [
+      "activity",
+      "where",
+      "classroom",
+      "inside",
+      "group"
+    ],
+    "actions": [
+      "students",
+      "sitting",
+      "depicts",
+      "ongoing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A young man in a striped hoodie is opening a box, and he is holding a trophy in one hand and a box cutter in the other.",
+    "objects": [
+      "one",
+      "other",
+      "box",
+      "hand",
+      "hoodie",
+      "cutter",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "opening",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A young man in a striped hoodie is opening a box, and he is holding a trophy in one hand and a box cutter in the other.",
+    "objects": [
+      "one",
+      "other",
+      "box",
+      "hand",
+      "hoodie",
+      "cutter",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "opening",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A young man in a striped hoodie is opening a box, and he is holding a trophy in one hand and a box cutter in the other.",
+    "objects": [
+      "one",
+      "other",
+      "box",
+      "hand",
+      "hoodie",
+      "cutter",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "opening",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The box he is opening has a blue lid.",
+    "objects": [
+      "blue",
+      "has",
+      "box",
+      "lid"
+    ],
+    "actions": [
+      "opening"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The box he is opening has a blue lid.",
+    "objects": [
+      "blue",
+      "has",
+      "box",
+      "lid"
+    ],
+    "actions": [
+      "opening"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The box he is opening has a blue lid.",
+    "objects": [
+      "blue",
+      "has",
+      "box",
+      "lid"
+    ],
+    "actions": [
+      "opening"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another boy in a blue hoodie is sitting at a desk, observing the activity.",
+    "objects": [
+      "activity",
+      "boy",
+      "desk",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "observing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Another boy in a blue hoodie is sitting at a desk, observing the activity.",
+    "objects": [
+      "activity",
+      "boy",
+      "desk",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "observing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Another boy in a blue hoodie is sitting at a desk, observing the activity.",
+    "objects": [
+      "activity",
+      "boy",
+      "desk",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "observing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in the striped hoodie is wearing a red and white striped shirt and blue jeans, while the boy in the blue hoodie is also wearing a blue hoodie.",
+    "objects": [
+      "white",
+      "boy",
+      "while",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "striped",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in the striped hoodie is wearing a red and white striped shirt and blue jeans, while the boy in the blue hoodie is also wearing a blue hoodie.",
+    "objects": [
+      "white",
+      "boy",
+      "while",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "striped",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the striped hoodie is wearing a red and white striped shirt and blue jeans, while the boy in the blue hoodie is also wearing a blue hoodie.",
+    "objects": [
+      "white",
+      "boy",
+      "while",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "striped",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "There is a young man in a blue sweater sitting at a desk, and another young man in a black hoodie is seated at a table.",
+    "objects": [
+      "there",
+      "table",
+      "desk",
+      "black",
+      "blue",
+      "sweater",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "sitting",
+      "seated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "There is a young man in a blue sweater sitting at a desk, and another young man in a black hoodie is seated at a table.",
+    "objects": [
+      "there",
+      "table",
+      "desk",
+      "black",
+      "blue",
+      "sweater",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "sitting",
+      "seated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "There is a young man in a blue sweater sitting at a desk, and another young man in a black hoodie is seated at a table.",
+    "objects": [
+      "there",
+      "table",
+      "desk",
+      "black",
+      "blue",
+      "sweater",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "sitting",
+      "seated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The room has white walls and a blackboard with chalk drawings on it.",
+    "objects": [
+      "white",
+      "blackboard",
+      "has",
+      "room",
+      "chalk"
+    ],
+    "actions": [
+      "walls",
+      "drawings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The room has white walls and a blackboard with chalk drawings on it.",
+    "objects": [
+      "white",
+      "blackboard",
+      "has",
+      "room",
+      "chalk"
+    ],
+    "actions": [
+      "walls",
+      "drawings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The room has white walls and a blackboard with chalk drawings on it.",
+    "objects": [
+      "white",
+      "blackboard",
+      "has",
+      "room",
+      "chalk"
+    ],
+    "actions": [
+      "walls",
+      "drawings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A young man in a red and black shirt is holding a blue book, and another boy in a green shirt is holding a trophy.",
+    "objects": [
+      "boy",
+      "black",
+      "blue",
+      "green",
+      "shirt",
+      "book",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A young man in a red and black shirt is holding a blue book, and another boy in a green shirt is holding a trophy.",
+    "objects": [
+      "boy",
+      "black",
+      "blue",
+      "green",
+      "shirt",
+      "book",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A young man in a red and black shirt is holding a blue book, and another boy in a green shirt is holding a trophy.",
+    "objects": [
+      "boy",
+      "black",
+      "blue",
+      "green",
+      "shirt",
+      "book",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A young man in a black hoodie is holding a book and a young man in a striped shirt is holding a trophy.",
+    "objects": [
+      "black",
+      "shirt",
+      "book",
+      "hoodie",
+      "young",
+      "man",
+      "trophy"
+    ],
+    "actions": [
+      "holding",
+      "striped"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A young man in a black hoodie is holding a book and a young man in a striped shirt is holding a trophy.",
+    "objects": [
+      "black",
+      "shirt",
+      "book",
+      "hoodie",
+      "young",
+      "man",
+      "trophy"
+    ],
+    "actions": [
+      "holding",
+      "striped"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A young man in a black hoodie is holding a book and a young man in a striped shirt is holding a trophy.",
+    "objects": [
+      "black",
+      "shirt",
+      "book",
+      "hoodie",
+      "young",
+      "man",
+      "trophy"
+    ],
+    "actions": [
+      "holding",
+      "striped"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "There is a young man in a black shirt sitting at a table, and a young man in a blue shirt is sitting at a desk.",
+    "objects": [
+      "there",
+      "table",
+      "desk",
+      "black",
+      "blue",
+      "shirt",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "There is a young man in a black shirt sitting at a table, and a young man in a blue shirt is sitting at a desk.",
+    "objects": [
+      "there",
+      "table",
+      "desk",
+      "black",
+      "blue",
+      "shirt",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "There is a young man in a black shirt sitting at a table, and a young man in a blue shirt is sitting at a desk.",
+    "objects": [
+      "there",
+      "table",
+      "desk",
+      "black",
+      "blue",
+      "shirt",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "A young man in a striped shirt is holding a box cutter.",
+    "objects": [
+      "box",
+      "shirt",
+      "cutter",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "striped"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "A young man in a striped shirt is holding a box cutter.",
+    "objects": [
+      "box",
+      "shirt",
+      "cutter",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "striped"
+    ],
+    "segment_id": 10
+  }
+]

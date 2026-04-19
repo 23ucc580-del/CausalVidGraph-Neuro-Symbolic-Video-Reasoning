@@ -1,0 +1,536 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is gathered outside a building, with one man standing on the sidewalk and another man inside the building.",
+    "objects": [
+      "one",
+      "people",
+      "outside",
+      "inside",
+      "sidewalk",
+      "man",
+      "group"
+    ],
+    "actions": [
+      "building",
+      "standing",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The man on the sidewalk is wearing a blue hoodie and blue jeans, while the man inside is wearing a blue shirt and blue jeans.",
+    "objects": [
+      "while",
+      "blue",
+      "shirt",
+      "inside",
+      "hoodie",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "A third man, who is wearing a blue hoodie and blue jeans, is standing next to the man inside the building.",
+    "objects": [
+      "blue",
+      "who",
+      "inside",
+      "third",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans",
+      "building"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "Two individuals are seen on the ground floor of the building, with one wearing a blue shirt and blue jeans and the other wearing a white shirt and blue jeans.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "two",
+      "blue",
+      "shirt",
+      "ground",
+      "floor"
+    ],
+    "actions": [
+      "building",
+      "wearing",
+      "jeans",
+      "individuals"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "They are all looking towards the building.",
+    "objects": [
+      "they",
+      "all"
+    ],
+    "actions": [
+      "towards",
+      "looking",
+      "building"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "A person in a car is seen driving down a road, with the driver wearing a black shirt and blue jeans, and the passenger wearing a white shirt and blue jeans.",
+    "objects": [
+      "white",
+      "black",
+      "passenger",
+      "blue",
+      "shirt",
+      "car",
+      "road",
+      "driver"
+    ],
+    "actions": [
+      "driving",
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "A man on the sidewalk is wearing a white shirt and blue jeans.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "He is talking to the driver, who is wearing a white shirt and blue jeans.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "who",
+      "driver"
+    ],
+    "actions": [
+      "wearing",
+      "talking",
+      "jeans"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "In the parking lot, a man is seen walking on the ground, wearing a white shirt and blue jeans.",
+    "objects": [
+      "white",
+      "lot",
+      "blue",
+      "shirt",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "walking",
+      "parking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "A car is parked nearby, and another man is wearing a white shirt and blue jeans.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "car",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "parked"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "He is looking at the car.",
+    "objects": [
+      "car"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "A man in a black shirt and blue jeans is seen walking on the sidewalk next to a building, and a person in a blue shirt and blue jeans is standing on the sidewalk.",
+    "objects": [
+      "black",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "building",
+      "standing",
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "They are both looking at the building.",
+    "objects": [
+      "they",
+      "both"
+    ],
+    "actions": [
+      "building",
+      "looking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "Two individuals are seen walking on the sidewalk, with one wearing a white shirt and blue jeans and the other wearing a blue shirt and blue jeans.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "two",
+      "blue",
+      "shirt",
+      "sidewalk"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "individuals",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "A man is also standing on the sidewalk, wearing a blue hoodie and blue jeans.",
+    "objects": [
+      "sidewalk",
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "He is talking to a man in a white shirt and blue jeans.",
+    "objects": [
+      "man",
+      "blue",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "talking",
+      "jeans"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "A car is parked nearby, and a man in a black shirt and blue jeans is standing by it.",
+    "objects": [
+      "black",
+      "blue",
+      "shirt",
+      "car",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "standing",
+      "jeans",
+      "parked"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "In the parking lot, a person is walking on the ground, wearing a blue shirt and blue jeans, and a man is standing on the sidewalk, wearing a white shirt and blue jeans.",
+    "objects": [
+      "white",
+      "lot",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "jeans",
+      "parking"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "They are both looking at the car.",
+    "objects": [
+      "they",
+      "car",
+      "both"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The man on the sidewalk is also wearing a white shirt and blue jeans.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "He is talking to the driver, who is wearing a white shirt and blue jeans.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "who",
+      "driver"
+    ],
+    "actions": [
+      "wearing",
+      "talking",
+      "jeans"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a blue shirt and blue jeans is seen standing next to the building, and a man in a white shirt and blue jeans is standing on the sidewalk.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "building",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "They are both looking at the building.",
+    "objects": [
+      "they",
+      "both"
+    ],
+    "actions": [
+      "building",
+      "looking"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a blue shirt and blue jeans is standing on the sidewalk and talking to a man in a white shirt and blue jeans.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "talking",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "They are both looking at the building.",
+    "objects": [
+      "they",
+      "both"
+    ],
+    "actions": [
+      "building",
+      "looking"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "A man is walking on the sidewalk, wearing a white shirt and blue jeans, and a man in a blue hoodie and blue jeans is standing on the sidewalk.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "hoodie",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "They are both looking at the building.",
+    "objects": [
+      "they",
+      "both"
+    ],
+    "actions": [
+      "building",
+      "looking"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "In the parking lot, a man in a white shirt and blue jeans is walking on the ground and a man in a blue shirt and blue jeans is standing on the sidewalk.",
+    "objects": [
+      "white",
+      "lot",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "jeans",
+      "walking",
+      "parking"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "They are both looking at the car.",
+    "objects": [
+      "they",
+      "car",
+      "both"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "A man is standing on the sidewalk, wearing a blue shirt and blue jeans, and he is talking to the driver.",
+    "objects": [
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man",
+      "driver"
+    ],
+    "actions": [
+      "wearing",
+      "talking",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The driver is wearing a white shirt and blue jeans.",
+    "objects": [
+      "blue",
+      "driver",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a black shirt and blue jeans is standing next to the building, and a man in a white shirt and blue jeans is standing on the sidewalk.",
+    "objects": [
+      "white",
+      "black",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "building",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 31
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man in a blue hoodie sitting in a lawn chair, playing a guitar with a white pick.",
+    "objects": [
+      "white",
+      "blue",
+      "guitar",
+      "man",
+      "pick",
+      "lawn",
+      "hoodie",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man in a blue hoodie sitting in a lawn chair, playing a guitar with a white pick.",
+    "objects": [
+      "white",
+      "blue",
+      "guitar",
+      "man",
+      "pick",
+      "lawn",
+      "hoodie",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man in a blue hoodie sitting in a lawn chair, playing a guitar with a white pick.",
+    "objects": [
+      "white",
+      "blue",
+      "guitar",
+      "man",
+      "pick",
+      "lawn",
+      "hoodie",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man in a blue hoodie sitting in a lawn chair, playing a guitar with a white pick.",
+    "objects": [
+      "white",
+      "blue",
+      "guitar",
+      "man",
+      "pick",
+      "lawn",
+      "hoodie",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is smiling at the camera while wearing a red cap and a blue jacket.",
+    "objects": [
+      "jacket",
+      "blue",
+      "while",
+      "cap"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is smiling at the camera while wearing a red cap and a blue jacket.",
+    "objects": [
+      "jacket",
+      "blue",
+      "while",
+      "cap"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is smiling at the camera while wearing a red cap and a blue jacket.",
+    "objects": [
+      "jacket",
+      "blue",
+      "while",
+      "cap"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is smiling at the camera while wearing a red cap and a blue jacket.",
+    "objects": [
+      "jacket",
+      "blue",
+      "while",
+      "cap"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A woman in a yellow jacket is sitting next to him, holding a cup, and looking away.",
+    "objects": [
+      "cup",
+      "away",
+      "him",
+      "jacket",
+      "yellow",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A woman in a yellow jacket is sitting next to him, holding a cup, and looking away.",
+    "objects": [
+      "cup",
+      "away",
+      "him",
+      "jacket",
+      "yellow",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A woman in a yellow jacket is sitting next to him, holding a cup, and looking away.",
+    "objects": [
+      "cup",
+      "away",
+      "him",
+      "jacket",
+      "yellow",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman in a yellow jacket is sitting next to him, holding a cup, and looking away.",
+    "objects": [
+      "cup",
+      "away",
+      "him",
+      "jacket",
+      "yellow",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "They are in a camping site, with a green tent in the background and a blue car nearby.",
+    "objects": [
+      "blue",
+      "car",
+      "green",
+      "site",
+      "tent",
+      "nearby",
+      "they"
+    ],
+    "actions": [
+      "camping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "They are in a camping site, with a green tent in the background and a blue car nearby.",
+    "objects": [
+      "blue",
+      "car",
+      "green",
+      "site",
+      "tent",
+      "nearby",
+      "they"
+    ],
+    "actions": [
+      "camping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "They are in a camping site, with a green tent in the background and a blue car nearby.",
+    "objects": [
+      "blue",
+      "car",
+      "green",
+      "site",
+      "tent",
+      "nearby",
+      "they"
+    ],
+    "actions": [
+      "camping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "They are in a camping site, with a green tent in the background and a blue car nearby.",
+    "objects": [
+      "blue",
+      "car",
+      "green",
+      "site",
+      "tent",
+      "nearby",
+      "they"
+    ],
+    "actions": [
+      "camping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is wearing blue jeans, and the woman is wearing black pants.",
+    "objects": [
+      "man",
+      "black",
+      "woman",
+      "blue"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is wearing blue jeans, and the woman is wearing black pants.",
+    "objects": [
+      "man",
+      "black",
+      "woman",
+      "blue"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is wearing blue jeans, and the woman is wearing black pants.",
+    "objects": [
+      "man",
+      "black",
+      "woman",
+      "blue"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is wearing blue jeans, and the woman is wearing black pants.",
+    "objects": [
+      "man",
+      "black",
+      "woman",
+      "blue"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a fire in the background, and a person is sitting on a chair, holding a beer.",
+    "objects": [
+      "beer",
+      "fire",
+      "there",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a fire in the background, and a person is sitting on a chair, holding a beer.",
+    "objects": [
+      "beer",
+      "fire",
+      "there",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "There is a fire in the background, and a person is sitting on a chair, holding a beer.",
+    "objects": [
+      "beer",
+      "fire",
+      "there",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "There is a fire in the background, and a person is sitting on a chair, holding a beer.",
+    "objects": [
+      "beer",
+      "fire",
+      "there",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "Another person in a yellow jacket is sitting on the ground, wearing a black hoodie and looking at the camera.",
+    "objects": [
+      "ground",
+      "jacket",
+      "yellow",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "Another person in a yellow jacket is sitting on the ground, wearing a black hoodie and looking at the camera.",
+    "objects": [
+      "ground",
+      "jacket",
+      "yellow",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "Another person in a yellow jacket is sitting on the ground, wearing a black hoodie and looking at the camera.",
+    "objects": [
+      "ground",
+      "jacket",
+      "yellow",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "Another person in a yellow jacket is sitting on the ground, wearing a black hoodie and looking at the camera.",
+    "objects": [
+      "ground",
+      "jacket",
+      "yellow",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "A person in a black hoodie is sitting on a chair, holding a beer and smiling.",
+    "objects": [
+      "beer",
+      "chair",
+      "black",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "A person in a black hoodie is sitting on a chair, holding a beer and smiling.",
+    "objects": [
+      "beer",
+      "chair",
+      "black",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "A person in a black hoodie is sitting on a chair, holding a beer and smiling.",
+    "objects": [
+      "beer",
+      "chair",
+      "black",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "A person in a black hoodie is sitting on a chair, holding a beer and smiling.",
+    "objects": [
+      "beer",
+      "chair",
+      "black",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

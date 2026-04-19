@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a man wearing a gray sweater, glasses, and a mustache, sitting at a table in a restaurant.",
+    "objects": [
+      "table",
+      "mustache",
+      "sweater",
+      "gray",
+      "restaurant",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "opens",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a man wearing a gray sweater, glasses, and a mustache, sitting at a table in a restaurant.",
+    "objects": [
+      "table",
+      "mustache",
+      "sweater",
+      "gray",
+      "restaurant",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "opens",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video opens with a man wearing a gray sweater, glasses, and a mustache, sitting at a table in a restaurant.",
+    "objects": [
+      "table",
+      "mustache",
+      "sweater",
+      "gray",
+      "restaurant",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "opens",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "He is holding a piece of food in his hand.",
+    "objects": [
+      "piece",
+      "his",
+      "food",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He is holding a piece of food in his hand.",
+    "objects": [
+      "piece",
+      "his",
+      "food",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is holding a piece of food in his hand.",
+    "objects": [
+      "piece",
+      "his",
+      "food",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then cuts to another man in a red shirt, sitting at a different table, also holding a piece of food in his hand.",
+    "objects": [
+      "piece",
+      "table",
+      "cuts",
+      "shirt",
+      "different",
+      "food",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then cuts to another man in a red shirt, sitting at a different table, also holding a piece of food in his hand.",
+    "objects": [
+      "piece",
+      "table",
+      "cuts",
+      "shirt",
+      "different",
+      "food",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then cuts to another man in a red shirt, sitting at a different table, also holding a piece of food in his hand.",
+    "objects": [
+      "piece",
+      "table",
+      "cuts",
+      "shirt",
+      "different",
+      "food",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The two men appear to be having a meal together.",
+    "objects": [
+      "appear",
+      "meal",
+      "two",
+      "men",
+      "together"
+    ],
+    "actions": [
+      "having"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The two men appear to be having a meal together.",
+    "objects": [
+      "appear",
+      "meal",
+      "two",
+      "men",
+      "together"
+    ],
+    "actions": [
+      "having"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The two men appear to be having a meal together.",
+    "objects": [
+      "appear",
+      "meal",
+      "two",
+      "men",
+      "together"
+    ],
+    "actions": [
+      "having"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The restaurant is dimly lit, with soft lighting and warm tones.",
+    "objects": [
+      "soft",
+      "warm",
+      "lit",
+      "restaurant",
+      "dimly"
+    ],
+    "actions": [
+      "lighting",
+      "tones"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The restaurant is dimly lit, with soft lighting and warm tones.",
+    "objects": [
+      "soft",
+      "warm",
+      "lit",
+      "restaurant",
+      "dimly"
+    ],
+    "actions": [
+      "lighting",
+      "tones"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The restaurant is dimly lit, with soft lighting and warm tones.",
+    "objects": [
+      "soft",
+      "warm",
+      "lit",
+      "restaurant",
+      "dimly"
+    ],
+    "actions": [
+      "lighting",
+      "tones"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, there is a woman wearing a blue shirt sitting at a table with a man, and another woman in a red shirt is standing.",
+    "objects": [
+      "table",
+      "there",
+      "woman",
+      "blue",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, there is a woman wearing a blue shirt sitting at a table with a man, and another woman in a red shirt is standing.",
+    "objects": [
+      "table",
+      "there",
+      "woman",
+      "blue",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, there is a woman wearing a blue shirt sitting at a table with a man, and another woman in a red shirt is standing.",
+    "objects": [
+      "table",
+      "there",
+      "woman",
+      "blue",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman in red shirt is holding a fork in her hand.",
+    "objects": [
+      "fork",
+      "woman",
+      "shirt",
+      "her",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman in red shirt is holding a fork in her hand.",
+    "objects": [
+      "fork",
+      "woman",
+      "shirt",
+      "her",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman in red shirt is holding a fork in her hand.",
+    "objects": [
+      "fork",
+      "woman",
+      "shirt",
+      "her",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then pans to a woman in a red shirt sitting at a table with a man, and another woman in a blue shirt holding a fork in her hand.",
+    "objects": [
+      "table",
+      "fork",
+      "woman",
+      "pans",
+      "blue",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then pans to a woman in a red shirt sitting at a table with a man, and another woman in a blue shirt holding a fork in her hand.",
+    "objects": [
+      "table",
+      "fork",
+      "woman",
+      "pans",
+      "blue",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then pans to a woman in a red shirt sitting at a table with a man, and another woman in a blue shirt holding a fork in her hand.",
+    "objects": [
+      "table",
+      "fork",
+      "woman",
+      "pans",
+      "blue",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene continues with the camera showing a man in a red shirt sitting at a table with a woman, and another man in a blue shirt standing in the background.",
+    "objects": [
+      "table",
+      "woman",
+      "blue",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "continues",
+      "standing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene continues with the camera showing a man in a red shirt sitting at a table with a woman, and another man in a blue shirt standing in the background.",
+    "objects": [
+      "table",
+      "woman",
+      "blue",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "continues",
+      "standing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene continues with the camera showing a man in a red shirt sitting at a table with a woman, and another man in a blue shirt standing in the background.",
+    "objects": [
+      "table",
+      "woman",
+      "blue",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "continues",
+      "standing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in red shirt is holding a fork in his hand, and the woman in blue shirt is holding a wine glass.",
+    "objects": [
+      "fork",
+      "woman",
+      "blue",
+      "shirt",
+      "his",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in red shirt is holding a fork in his hand, and the woman in blue shirt is holding a wine glass.",
+    "objects": [
+      "fork",
+      "woman",
+      "blue",
+      "shirt",
+      "his",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in red shirt is holding a fork in his hand, and the woman in blue shirt is holding a wine glass.",
+    "objects": [
+      "fork",
+      "woman",
+      "blue",
+      "shirt",
+      "his",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera then cuts to a woman in a red shirt sitting at a table with a man, and a woman in a blue shirt holding a fork in her hand.",
+    "objects": [
+      "table",
+      "cuts",
+      "fork",
+      "woman",
+      "blue",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera then cuts to a woman in a red shirt sitting at a table with a man, and a woman in a blue shirt holding a fork in her hand.",
+    "objects": [
+      "table",
+      "cuts",
+      "fork",
+      "woman",
+      "blue",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "red"
+    ],
+    "segment_id": 10
+  }
+]

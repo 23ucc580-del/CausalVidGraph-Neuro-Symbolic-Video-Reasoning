@@ -1,0 +1,588 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people gathered outside on a snowy day.",
+    "objects": [
+      "people",
+      "see",
+      "day",
+      "group",
+      "outside",
+      "snowy"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people gathered outside on a snowy day.",
+    "objects": [
+      "people",
+      "see",
+      "day",
+      "group",
+      "outside",
+      "snowy"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene is bustling with activity as they navigate the snowy terrain.",
+    "objects": [
+      "activity",
+      "terrain",
+      "they",
+      "navigate",
+      "snowy"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is bustling with activity as they navigate the snowy terrain.",
+    "objects": [
+      "activity",
+      "terrain",
+      "they",
+      "navigate",
+      "snowy"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The first person we see is a man dressed in a blue hoodie, walking away from the camera, possibly heading towards a nearby building.",
+    "objects": [
+      "first",
+      "man",
+      "away",
+      "hoodie",
+      "blue",
+      "see",
+      "nearby",
+      "from"
+    ],
+    "actions": [
+      "walking",
+      "building",
+      "towards",
+      "heading"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The first person we see is a man dressed in a blue hoodie, walking away from the camera, possibly heading towards a nearby building.",
+    "objects": [
+      "first",
+      "man",
+      "away",
+      "hoodie",
+      "blue",
+      "see",
+      "nearby",
+      "from"
+    ],
+    "actions": [
+      "walking",
+      "building",
+      "towards",
+      "heading"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The next individual is a woman dressed in a black coat, who is holding a blue water bottle in her hand, perhaps preparing to hydrate herself for the cold weather.",
+    "objects": [
+      "cold",
+      "water",
+      "woman",
+      "her",
+      "coat",
+      "weather",
+      "who",
+      "blue"
+    ],
+    "actions": [
+      "dressed",
+      "perhaps",
+      "preparing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The next individual is a woman dressed in a black coat, who is holding a blue water bottle in her hand, perhaps preparing to hydrate herself for the cold weather.",
+    "objects": [
+      "cold",
+      "water",
+      "woman",
+      "her",
+      "coat",
+      "weather",
+      "who",
+      "blue"
+    ],
+    "actions": [
+      "dressed",
+      "perhaps",
+      "preparing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "Following her is a man in a red jacket, wearing white boots, walking towards the camera.",
+    "objects": [
+      "jacket",
+      "white",
+      "man",
+      "her"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "towards",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "Following her is a man in a red jacket, wearing white boots, walking towards the camera.",
+    "objects": [
+      "jacket",
+      "white",
+      "man",
+      "her"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "towards",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "He appears to be engaged in a conversation with someone off-screen.",
+    "objects": [
+      "someone",
+      "conversation"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "He appears to be engaged in a conversation with someone off-screen.",
+    "objects": [
+      "someone",
+      "conversation"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then shifts to a man in a red jacket, wearing black pants and a black hat, who is holding a white water bottle and seems to be in motion, possibly running or walking with purpose.",
+    "objects": [
+      "water",
+      "man",
+      "white",
+      "who",
+      "motion",
+      "hat",
+      "then",
+      "jacket"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then shifts to a man in a red jacket, wearing black pants and a black hat, who is holding a white water bottle and seems to be in motion, possibly running or walking with purpose.",
+    "objects": [
+      "water",
+      "man",
+      "white",
+      "who",
+      "motion",
+      "hat",
+      "then",
+      "jacket"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then pans back to the first man in the blue hoodie, who is now walking away from the camera once again.",
+    "objects": [
+      "first",
+      "once",
+      "again",
+      "man",
+      "away",
+      "pans",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then pans back to the first man in the blue hoodie, who is now walking away from the camera once again.",
+    "objects": [
+      "first",
+      "once",
+      "again",
+      "man",
+      "away",
+      "pans",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, there are two other individuals: one is a woman in a black coat holding a blue water bottle, and the other is a man in a black jacket walking away from the camera.",
+    "objects": [
+      "water",
+      "woman",
+      "man",
+      "away",
+      "coat",
+      "two",
+      "other",
+      "blue"
+    ],
+    "actions": [
+      "walking",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, there are two other individuals: one is a woman in a black coat holding a blue water bottle, and the other is a man in a black jacket walking away from the camera.",
+    "objects": [
+      "water",
+      "woman",
+      "man",
+      "away",
+      "coat",
+      "two",
+      "other",
+      "blue"
+    ],
+    "actions": [
+      "walking",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the red jacket stops in his tracks, and the camera focuses on him as he smiles, possibly acknowledging the camera or engaging in a conversation with someone off-screen.",
+    "objects": [
+      "man",
+      "possibly",
+      "him",
+      "conversation",
+      "jacket",
+      "someone",
+      "his"
+    ],
+    "actions": [
+      "tracks",
+      "stops",
+      "smiles",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the red jacket stops in his tracks, and the camera focuses on him as he smiles, possibly acknowledging the camera or engaging in a conversation with someone off-screen.",
+    "objects": [
+      "man",
+      "possibly",
+      "him",
+      "conversation",
+      "jacket",
+      "someone",
+      "his"
+    ],
+    "actions": [
+      "tracks",
+      "stops",
+      "smiles",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then shifts to the woman in the black coat, who is also walking away from the camera.",
+    "objects": [
+      "woman",
+      "away",
+      "coat",
+      "who",
+      "then",
+      "from",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "shifts"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then shifts to the woman in the black coat, who is also walking away from the camera.",
+    "objects": [
+      "woman",
+      "away",
+      "coat",
+      "who",
+      "then",
+      "from",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "shifts"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then returns to the man in the red jacket, who is still in motion, continuing his walk.",
+    "objects": [
+      "still",
+      "man",
+      "who",
+      "motion",
+      "walk",
+      "then",
+      "jacket",
+      "his"
+    ],
+    "actions": [
+      "continuing",
+      "returns",
+      "red"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then returns to the man in the red jacket, who is still in motion, continuing his walk.",
+    "objects": [
+      "still",
+      "man",
+      "who",
+      "motion",
+      "walk",
+      "then",
+      "jacket",
+      "his"
+    ],
+    "actions": [
+      "continuing",
+      "returns",
+      "red"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then focuses on a man in a black coat, holding a blue water bottle, who seems to be walking away from the camera.",
+    "objects": [
+      "water",
+      "man",
+      "away",
+      "coat",
+      "who",
+      "blue",
+      "then",
+      "from"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "focuses",
+      "seems"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then focuses on a man in a black coat, holding a blue water bottle, who seems to be walking away from the camera.",
+    "objects": [
+      "water",
+      "man",
+      "away",
+      "coat",
+      "who",
+      "blue",
+      "then",
+      "from"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "focuses",
+      "seems"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "Following him is a woman in a black jacket, also walking away from the camera.",
+    "objects": [
+      "woman",
+      "away",
+      "from",
+      "jacket",
+      "him",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "following"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "Following him is a woman in a black jacket, also walking away from the camera.",
+    "objects": [
+      "woman",
+      "away",
+      "from",
+      "jacket",
+      "him",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "following"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then shifts back to the man in the red jacket, who is now walking towards the camera.",
+    "objects": [
+      "man",
+      "who",
+      "then",
+      "now",
+      "jacket"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "shifts",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then shifts back to the man in the red jacket, who is now walking towards the camera.",
+    "objects": [
+      "man",
+      "who",
+      "then",
+      "now",
+      "jacket"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "shifts",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene then switches to the man in the black jacket, who is walking away from the camera once again.",
+    "objects": [
+      "once",
+      "again",
+      "man",
+      "away",
+      "who",
+      "then",
+      "from",
+      "jacket"
+    ],
+    "actions": [
+      "walking",
+      "switches"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene then switches to the man in the black jacket, who is walking away from the camera once again.",
+    "objects": [
+      "once",
+      "again",
+      "man",
+      "away",
+      "who",
+      "then",
+      "from",
+      "jacket"
+    ],
+    "actions": [
+      "walking",
+      "switches"
+    ],
+    "segment_id": 15
+  }
+]

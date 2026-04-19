@@ -1,0 +1,540 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a man wearing a white t-shirt and glasses sitting at a desk with a laptop.",
+    "objects": [
+      "white",
+      "man",
+      "laptop",
+      "desk"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "sitting",
+      "opens"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a man wearing a white t-shirt and glasses sitting at a desk with a laptop.",
+    "objects": [
+      "white",
+      "man",
+      "laptop",
+      "desk"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "sitting",
+      "opens"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "He is smiling and appears to be typing or working on the computer.",
+    "objects": [
+      "computer"
+    ],
+    "actions": [
+      "smiling",
+      "working",
+      "typing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "He is smiling and appears to be typing or working on the computer.",
+    "objects": [
+      "computer"
+    ],
+    "actions": [
+      "smiling",
+      "working",
+      "typing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is dimly lit, with a red light illuminating the area in front of him, and another red light shining from the top right corner of the frame.",
+    "objects": [
+      "dimly",
+      "room",
+      "top",
+      "him",
+      "light",
+      "lit",
+      "from",
+      "area"
+    ],
+    "actions": [
+      "shining",
+      "red",
+      "illuminating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is dimly lit, with a red light illuminating the area in front of him, and another red light shining from the top right corner of the frame.",
+    "objects": [
+      "dimly",
+      "room",
+      "top",
+      "him",
+      "light",
+      "lit",
+      "from",
+      "area"
+    ],
+    "actions": [
+      "shining",
+      "red",
+      "illuminating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is wearing a blue hoodie and is holding a red cup.",
+    "objects": [
+      "cup",
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is wearing a blue hoodie and is holding a red cup.",
+    "objects": [
+      "cup",
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A person in a red shirt walks into the frame from the right, and the man smiles at them before returning to his work.",
+    "objects": [
+      "man",
+      "his",
+      "shirt",
+      "work",
+      "them",
+      "before",
+      "from",
+      "into"
+    ],
+    "actions": [
+      "walks",
+      "returning",
+      "red",
+      "smiles"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A person in a red shirt walks into the frame from the right, and the man smiles at them before returning to his work.",
+    "objects": [
+      "man",
+      "his",
+      "shirt",
+      "work",
+      "them",
+      "before",
+      "from",
+      "into"
+    ],
+    "actions": [
+      "walks",
+      "returning",
+      "red",
+      "smiles"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then shifts to the left, and we see a man in a white t-shirt and glasses sitting at a desk with a laptop.",
+    "objects": [
+      "white",
+      "desk",
+      "man",
+      "laptop",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "glasses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then shifts to the left, and we see a man in a white t-shirt and glasses sitting at a desk with a laptop.",
+    "objects": [
+      "white",
+      "desk",
+      "man",
+      "laptop",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "glasses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "He is also smiling and appears to be working on the computer.",
+    "objects": [
+      "computer"
+    ],
+    "actions": [
+      "smiling",
+      "working"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "He is also smiling and appears to be working on the computer.",
+    "objects": [
+      "computer"
+    ],
+    "actions": [
+      "smiling",
+      "working"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The room is dimly lit, with a red light illuminating the area in front of him, and another red light shining from the top right corner of the frame.",
+    "objects": [
+      "dimly",
+      "room",
+      "top",
+      "him",
+      "light",
+      "lit",
+      "from",
+      "area"
+    ],
+    "actions": [
+      "shining",
+      "red",
+      "illuminating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The room is dimly lit, with a red light illuminating the area in front of him, and another red light shining from the top right corner of the frame.",
+    "objects": [
+      "dimly",
+      "room",
+      "top",
+      "him",
+      "light",
+      "lit",
+      "from",
+      "area"
+    ],
+    "actions": [
+      "shining",
+      "red",
+      "illuminating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is wearing a red shirt and is holding a red cup.",
+    "objects": [
+      "cup",
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is wearing a red shirt and is holding a red cup.",
+    "objects": [
+      "cup",
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then shifts to the left again, and we see a man in a blue shirt sitting at a desk with a laptop.",
+    "objects": [
+      "blue",
+      "desk",
+      "man",
+      "again",
+      "shirt",
+      "laptop",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then shifts to the left again, and we see a man in a blue shirt sitting at a desk with a laptop.",
+    "objects": [
+      "blue",
+      "desk",
+      "man",
+      "again",
+      "shirt",
+      "laptop",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "He is also smiling and appears to be working on the computer.",
+    "objects": [
+      "computer"
+    ],
+    "actions": [
+      "smiling",
+      "working"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "He is also smiling and appears to be working on the computer.",
+    "objects": [
+      "computer"
+    ],
+    "actions": [
+      "smiling",
+      "working"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The room is dimly lit, with a red light illuminating the area in front of him, and another red light shining from the top right corner of the frame.",
+    "objects": [
+      "dimly",
+      "room",
+      "top",
+      "him",
+      "light",
+      "lit",
+      "from",
+      "area"
+    ],
+    "actions": [
+      "shining",
+      "red",
+      "illuminating"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The room is dimly lit, with a red light illuminating the area in front of him, and another red light shining from the top right corner of the frame.",
+    "objects": [
+      "dimly",
+      "room",
+      "top",
+      "him",
+      "light",
+      "lit",
+      "from",
+      "area"
+    ],
+    "actions": [
+      "shining",
+      "red",
+      "illuminating"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is wearing a blue shirt and is holding a red cup.",
+    "objects": [
+      "cup",
+      "man",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is wearing a blue shirt and is holding a red cup.",
+    "objects": [
+      "cup",
+      "man",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then shifts to the left, and we see a man in a white shirt sitting at a desk with a laptop.",
+    "objects": [
+      "white",
+      "desk",
+      "man",
+      "shirt",
+      "laptop",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "sitting"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then shifts to the left, and we see a man in a white shirt sitting at a desk with a laptop.",
+    "objects": [
+      "white",
+      "desk",
+      "man",
+      "shirt",
+      "laptop",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "sitting"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "He is smiling and appears to be working on the computer.",
+    "objects": [
+      "computer"
+    ],
+    "actions": [
+      "smiling",
+      "working"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "He is smiling and appears to be working on the computer.",
+    "objects": [
+      "computer"
+    ],
+    "actions": [
+      "smiling",
+      "working"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The room is dimly lit, with a red light illuminating the area in front of him, and another red light shining from the top right corner of the frame.",
+    "objects": [
+      "dimly",
+      "room",
+      "top",
+      "him",
+      "light",
+      "lit",
+      "from",
+      "area"
+    ],
+    "actions": [
+      "shining",
+      "red",
+      "illuminating"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The room is dimly lit, with a red light illuminating the area in front of him, and another red light shining from the top right corner of the frame.",
+    "objects": [
+      "dimly",
+      "room",
+      "top",
+      "him",
+      "light",
+      "lit",
+      "from",
+      "area"
+    ],
+    "actions": [
+      "shining",
+      "red",
+      "illuminating"
+    ],
+    "segment_id": 15
+  }
+]

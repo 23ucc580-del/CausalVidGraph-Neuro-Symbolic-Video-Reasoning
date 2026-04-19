@@ -1,0 +1,506 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man standing on a rocky cliff, overlooking a body of water.",
+    "objects": [
+      "body",
+      "cliff",
+      "man",
+      "water",
+      "see",
+      "rocky"
+    ],
+    "actions": [
+      "overlooking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man standing on a rocky cliff, overlooking a body of water.",
+    "objects": [
+      "body",
+      "cliff",
+      "man",
+      "water",
+      "see",
+      "rocky"
+    ],
+    "actions": [
+      "overlooking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man standing on a rocky cliff, overlooking a body of water.",
+    "objects": [
+      "body",
+      "cliff",
+      "man",
+      "water",
+      "see",
+      "rocky"
+    ],
+    "actions": [
+      "overlooking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man standing on a rocky cliff, overlooking a body of water.",
+    "objects": [
+      "body",
+      "cliff",
+      "man",
+      "water",
+      "see",
+      "rocky"
+    ],
+    "actions": [
+      "overlooking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a man standing on a rocky cliff, overlooking a body of water.",
+    "objects": [
+      "body",
+      "cliff",
+      "man",
+      "water",
+      "see",
+      "rocky"
+    ],
+    "actions": [
+      "overlooking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "He is shirtless, wearing shorts, and is barefoot.",
+    "objects": [
+      "barefoot"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "shirtless"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is shirtless, wearing shorts, and is barefoot.",
+    "objects": [
+      "barefoot"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "shirtless"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is shirtless, wearing shorts, and is barefoot.",
+    "objects": [
+      "barefoot"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "shirtless"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is shirtless, wearing shorts, and is barefoot.",
+    "objects": [
+      "barefoot"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "shirtless"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "He is shirtless, wearing shorts, and is barefoot.",
+    "objects": [
+      "barefoot"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "shirtless"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "He appears to be enjoying the view and possibly contemplating a jump into the water.",
+    "objects": [
+      "jump",
+      "into",
+      "water",
+      "possibly"
+    ],
+    "actions": [
+      "contemplating",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He appears to be enjoying the view and possibly contemplating a jump into the water.",
+    "objects": [
+      "jump",
+      "into",
+      "water",
+      "possibly"
+    ],
+    "actions": [
+      "contemplating",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "He appears to be enjoying the view and possibly contemplating a jump into the water.",
+    "objects": [
+      "jump",
+      "into",
+      "water",
+      "possibly"
+    ],
+    "actions": [
+      "contemplating",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "He appears to be enjoying the view and possibly contemplating a jump into the water.",
+    "objects": [
+      "jump",
+      "into",
+      "water",
+      "possibly"
+    ],
+    "actions": [
+      "contemplating",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "He appears to be enjoying the view and possibly contemplating a jump into the water.",
+    "objects": [
+      "jump",
+      "into",
+      "water",
+      "possibly"
+    ],
+    "actions": [
+      "contemplating",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "There is also another person, a woman, standing on the cliff, facing the opposite direction.",
+    "objects": [
+      "direction",
+      "cliff",
+      "opposite",
+      "there",
+      "woman"
+    ],
+    "actions": [
+      "facing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "There is also another person, a woman, standing on the cliff, facing the opposite direction.",
+    "objects": [
+      "direction",
+      "cliff",
+      "opposite",
+      "there",
+      "woman"
+    ],
+    "actions": [
+      "facing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "There is also another person, a woman, standing on the cliff, facing the opposite direction.",
+    "objects": [
+      "direction",
+      "cliff",
+      "opposite",
+      "there",
+      "woman"
+    ],
+    "actions": [
+      "facing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "There is also another person, a woman, standing on the cliff, facing the opposite direction.",
+    "objects": [
+      "direction",
+      "cliff",
+      "opposite",
+      "there",
+      "woman"
+    ],
+    "actions": [
+      "facing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "There is also another person, a woman, standing on the cliff, facing the opposite direction.",
+    "objects": [
+      "direction",
+      "cliff",
+      "opposite",
+      "there",
+      "woman"
+    ],
+    "actions": [
+      "facing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "She is wearing a black bikini and is holding a black bag.",
+    "objects": [
+      "bikini",
+      "black",
+      "bag",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "She is wearing a black bikini and is holding a black bag.",
+    "objects": [
+      "bikini",
+      "black",
+      "bag",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "She is wearing a black bikini and is holding a black bag.",
+    "objects": [
+      "bikini",
+      "black",
+      "bag",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "She is wearing a black bikini and is holding a black bag.",
+    "objects": [
+      "bikini",
+      "black",
+      "bag",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "She is wearing a black bikini and is holding a black bag.",
+    "objects": [
+      "bikini",
+      "black",
+      "bag",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The water in the foreground is blue and rippling, suggesting movement, and there are rocks visible near the water's edge.",
+    "objects": [
+      "blue",
+      "edge",
+      "water",
+      "there",
+      "movement"
+    ],
+    "actions": [
+      "rocks",
+      "rippling",
+      "water's",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The water in the foreground is blue and rippling, suggesting movement, and there are rocks visible near the water's edge.",
+    "objects": [
+      "blue",
+      "edge",
+      "water",
+      "there",
+      "movement"
+    ],
+    "actions": [
+      "rocks",
+      "rippling",
+      "water's",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The water in the foreground is blue and rippling, suggesting movement, and there are rocks visible near the water's edge.",
+    "objects": [
+      "blue",
+      "edge",
+      "water",
+      "there",
+      "movement"
+    ],
+    "actions": [
+      "rocks",
+      "rippling",
+      "water's",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The water in the foreground is blue and rippling, suggesting movement, and there are rocks visible near the water's edge.",
+    "objects": [
+      "blue",
+      "edge",
+      "water",
+      "there",
+      "movement"
+    ],
+    "actions": [
+      "rocks",
+      "rippling",
+      "water's",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The water in the foreground is blue and rippling, suggesting movement, and there are rocks visible near the water's edge.",
+    "objects": [
+      "blue",
+      "edge",
+      "water",
+      "there",
+      "movement"
+    ],
+    "actions": [
+      "rocks",
+      "rippling",
+      "water's",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is serene and natural, with the clear blue sky and sunlight illuminating the surroundings.",
+    "objects": [
+      "blue",
+      "natural",
+      "sunlight",
+      "serene",
+      "sky",
+      "clear"
+    ],
+    "actions": [
+      "surroundings",
+      "illuminating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is serene and natural, with the clear blue sky and sunlight illuminating the surroundings.",
+    "objects": [
+      "blue",
+      "natural",
+      "sunlight",
+      "serene",
+      "sky",
+      "clear"
+    ],
+    "actions": [
+      "surroundings",
+      "illuminating"
+    ],
+    "segment_id": 6
+  }
+]

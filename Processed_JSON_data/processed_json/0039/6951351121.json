@@ -1,0 +1,574 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are two people playing a game of American football on a grassy field.",
+    "objects": [
+      "two",
+      "there",
+      "field",
+      "people",
+      "game",
+      "american",
+      "grassy",
+      "football"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are two people playing a game of American football on a grassy field.",
+    "objects": [
+      "two",
+      "there",
+      "field",
+      "people",
+      "game",
+      "american",
+      "grassy",
+      "football"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are two people playing a game of American football on a grassy field.",
+    "objects": [
+      "two",
+      "there",
+      "field",
+      "people",
+      "game",
+      "american",
+      "grassy",
+      "football"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there are two people playing a game of American football on a grassy field.",
+    "objects": [
+      "two",
+      "there",
+      "field",
+      "people",
+      "game",
+      "american",
+      "grassy",
+      "football"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The first person, wearing a black jersey, is running towards the right side of the field.",
+    "objects": [
+      "side",
+      "jersey",
+      "black",
+      "first",
+      "field"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The first person, wearing a black jersey, is running towards the right side of the field.",
+    "objects": [
+      "side",
+      "jersey",
+      "black",
+      "first",
+      "field"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The first person, wearing a black jersey, is running towards the right side of the field.",
+    "objects": [
+      "side",
+      "jersey",
+      "black",
+      "first",
+      "field"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The first person, wearing a black jersey, is running towards the right side of the field.",
+    "objects": [
+      "side",
+      "jersey",
+      "black",
+      "first",
+      "field"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is holding a football in his right hand and appears to be preparing to throw it.",
+    "objects": [
+      "his",
+      "hand",
+      "throw",
+      "football"
+    ],
+    "actions": [
+      "holding",
+      "preparing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is holding a football in his right hand and appears to be preparing to throw it.",
+    "objects": [
+      "his",
+      "hand",
+      "throw",
+      "football"
+    ],
+    "actions": [
+      "holding",
+      "preparing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is holding a football in his right hand and appears to be preparing to throw it.",
+    "objects": [
+      "his",
+      "hand",
+      "throw",
+      "football"
+    ],
+    "actions": [
+      "holding",
+      "preparing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is holding a football in his right hand and appears to be preparing to throw it.",
+    "objects": [
+      "his",
+      "hand",
+      "throw",
+      "football"
+    ],
+    "actions": [
+      "holding",
+      "preparing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The second person, wearing a white jersey, is running towards the left side of the field, possibly chasing the first person.",
+    "objects": [
+      "side",
+      "white",
+      "jersey",
+      "field",
+      "first",
+      "second",
+      "possibly"
+    ],
+    "actions": [
+      "running",
+      "chasing",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The second person, wearing a white jersey, is running towards the left side of the field, possibly chasing the first person.",
+    "objects": [
+      "side",
+      "white",
+      "jersey",
+      "field",
+      "first",
+      "second",
+      "possibly"
+    ],
+    "actions": [
+      "running",
+      "chasing",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The second person, wearing a white jersey, is running towards the left side of the field, possibly chasing the first person.",
+    "objects": [
+      "side",
+      "white",
+      "jersey",
+      "field",
+      "first",
+      "second",
+      "possibly"
+    ],
+    "actions": [
+      "running",
+      "chasing",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The second person, wearing a white jersey, is running towards the left side of the field, possibly chasing the first person.",
+    "objects": [
+      "side",
+      "white",
+      "jersey",
+      "field",
+      "first",
+      "second",
+      "possibly"
+    ],
+    "actions": [
+      "running",
+      "chasing",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The field is surrounded by houses on two sides, with trees and a parking lot on the third side.",
+    "objects": [
+      "side",
+      "lot",
+      "third",
+      "field",
+      "two"
+    ],
+    "actions": [
+      "trees",
+      "houses",
+      "parking",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The field is surrounded by houses on two sides, with trees and a parking lot on the third side.",
+    "objects": [
+      "side",
+      "lot",
+      "third",
+      "field",
+      "two"
+    ],
+    "actions": [
+      "trees",
+      "houses",
+      "parking",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The field is surrounded by houses on two sides, with trees and a parking lot on the third side.",
+    "objects": [
+      "side",
+      "lot",
+      "third",
+      "field",
+      "two"
+    ],
+    "actions": [
+      "trees",
+      "houses",
+      "parking",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The field is surrounded by houses on two sides, with trees and a parking lot on the third side.",
+    "objects": [
+      "side",
+      "lot",
+      "third",
+      "field",
+      "two"
+    ],
+    "actions": [
+      "trees",
+      "houses",
+      "parking",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The sky is overcast, and it looks like it's either early morning or late afternoon.",
+    "objects": [
+      "like",
+      "overcast",
+      "afternoon",
+      "early",
+      "sky",
+      "either",
+      "late"
+    ],
+    "actions": [
+      "looks",
+      "morning"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The sky is overcast, and it looks like it's either early morning or late afternoon.",
+    "objects": [
+      "like",
+      "overcast",
+      "afternoon",
+      "early",
+      "sky",
+      "either",
+      "late"
+    ],
+    "actions": [
+      "looks",
+      "morning"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The sky is overcast, and it looks like it's either early morning or late afternoon.",
+    "objects": [
+      "like",
+      "overcast",
+      "afternoon",
+      "early",
+      "sky",
+      "either",
+      "late"
+    ],
+    "actions": [
+      "looks",
+      "morning"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The sky is overcast, and it looks like it's either early morning or late afternoon.",
+    "objects": [
+      "like",
+      "overcast",
+      "afternoon",
+      "early",
+      "sky",
+      "either",
+      "late"
+    ],
+    "actions": [
+      "looks",
+      "morning"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The first person has a black helmet on and is wearing a black jersey with the number 1 on it, while the second person is wearing a white jersey with the number 2 on it.",
+    "objects": [
+      "white",
+      "jersey",
+      "black",
+      "has",
+      "first",
+      "second",
+      "helmet",
+      "number"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The first person has a black helmet on and is wearing a black jersey with the number 1 on it, while the second person is wearing a white jersey with the number 2 on it.",
+    "objects": [
+      "white",
+      "jersey",
+      "black",
+      "has",
+      "first",
+      "second",
+      "helmet",
+      "number"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The first person has a black helmet on and is wearing a black jersey with the number 1 on it, while the second person is wearing a white jersey with the number 2 on it.",
+    "objects": [
+      "white",
+      "jersey",
+      "black",
+      "has",
+      "first",
+      "second",
+      "helmet",
+      "number"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The first person has a black helmet on and is wearing a black jersey with the number 1 on it, while the second person is wearing a white jersey with the number 2 on it.",
+    "objects": [
+      "white",
+      "jersey",
+      "black",
+      "has",
+      "first",
+      "second",
+      "helmet",
+      "number"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The first person is holding a blue ball, which is likely the football they are playing with, while the second person is not holding any visible object.",
+    "objects": [
+      "blue",
+      "object",
+      "they",
+      "not",
+      "likely",
+      "first",
+      "which",
+      "second"
+    ],
+    "actions": [
+      "holding",
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The first person is holding a blue ball, which is likely the football they are playing with, while the second person is not holding any visible object.",
+    "objects": [
+      "blue",
+      "object",
+      "they",
+      "not",
+      "likely",
+      "first",
+      "which",
+      "second"
+    ],
+    "actions": [
+      "holding",
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The first person is holding a blue ball, which is likely the football they are playing with, while the second person is not holding any visible object.",
+    "objects": [
+      "blue",
+      "object",
+      "they",
+      "not",
+      "likely",
+      "first",
+      "which",
+      "second"
+    ],
+    "actions": [
+      "holding",
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The first person is holding a blue ball, which is likely the football they are playing with, while the second person is not holding any visible object.",
+    "objects": [
+      "blue",
+      "object",
+      "they",
+      "not",
+      "likely",
+      "first",
+      "which",
+      "second"
+    ],
+    "actions": [
+      "holding",
+      "playing"
+    ],
+    "segment_id": 7
+  }
+]

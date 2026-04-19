@@ -1,0 +1,542 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a bustling city street at night, with a large double-decker bus traveling down the street.",
+    "objects": [
+      "large",
+      "street",
+      "bus",
+      "night",
+      "city"
+    ],
+    "actions": [
+      "bustling",
+      "traveling",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a bustling city street at night, with a large double-decker bus traveling down the street.",
+    "objects": [
+      "large",
+      "street",
+      "bus",
+      "night",
+      "city"
+    ],
+    "actions": [
+      "bustling",
+      "traveling",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a bustling city street at night, with a large double-decker bus traveling down the street.",
+    "objects": [
+      "large",
+      "street",
+      "bus",
+      "night",
+      "city"
+    ],
+    "actions": [
+      "bustling",
+      "traveling",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The bus is filled with passengers, and its lights are on, illuminating the dark surroundings.",
+    "objects": [
+      "bus",
+      "its",
+      "dark"
+    ],
+    "actions": [
+      "filled",
+      "illuminating",
+      "lights",
+      "passengers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The bus is filled with passengers, and its lights are on, illuminating the dark surroundings.",
+    "objects": [
+      "bus",
+      "its",
+      "dark"
+    ],
+    "actions": [
+      "filled",
+      "illuminating",
+      "lights",
+      "passengers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The bus is filled with passengers, and its lights are on, illuminating the dark surroundings.",
+    "objects": [
+      "bus",
+      "its",
+      "dark"
+    ],
+    "actions": [
+      "filled",
+      "illuminating",
+      "lights",
+      "passengers"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man and a woman are seen walking on the sidewalk, the man dressed in a black jacket and the woman in a black coat.",
+    "objects": [
+      "woman",
+      "jacket",
+      "black",
+      "coat",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A man and a woman are seen walking on the sidewalk, the man dressed in a black jacket and the woman in a black coat.",
+    "objects": [
+      "woman",
+      "jacket",
+      "black",
+      "coat",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A man and a woman are seen walking on the sidewalk, the man dressed in a black jacket and the woman in a black coat.",
+    "objects": [
+      "woman",
+      "jacket",
+      "black",
+      "coat",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They appear to be in casual conversation, possibly discussing their day or plans.",
+    "objects": [
+      "they",
+      "appear",
+      "their",
+      "casual",
+      "conversation",
+      "possibly",
+      "day"
+    ],
+    "actions": [
+      "discussing",
+      "plans"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They appear to be in casual conversation, possibly discussing their day or plans.",
+    "objects": [
+      "they",
+      "appear",
+      "their",
+      "casual",
+      "conversation",
+      "possibly",
+      "day"
+    ],
+    "actions": [
+      "discussing",
+      "plans"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They appear to be in casual conversation, possibly discussing their day or plans.",
+    "objects": [
+      "they",
+      "appear",
+      "their",
+      "casual",
+      "conversation",
+      "possibly",
+      "day"
+    ],
+    "actions": [
+      "discussing",
+      "plans"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A bus stop is visible, with a bus pulling up to it.",
+    "objects": [
+      "bus",
+      "stop"
+    ],
+    "actions": [
+      "pulling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A bus stop is visible, with a bus pulling up to it.",
+    "objects": [
+      "bus",
+      "stop"
+    ],
+    "actions": [
+      "pulling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A bus stop is visible, with a bus pulling up to it.",
+    "objects": [
+      "bus",
+      "stop"
+    ],
+    "actions": [
+      "pulling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "There is another smaller bus parked nearby.",
+    "objects": [
+      "bus",
+      "nearby",
+      "there",
+      "smaller"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "There is another smaller bus parked nearby.",
+    "objects": [
+      "bus",
+      "nearby",
+      "there",
+      "smaller"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "There is another smaller bus parked nearby.",
+    "objects": [
+      "bus",
+      "nearby",
+      "there",
+      "smaller"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A cyclist can be seen riding on the street, with a yellow light on the back of his bike, suggesting he is signaling to the bus.",
+    "objects": [
+      "cyclist",
+      "street",
+      "can",
+      "yellow",
+      "bus",
+      "light",
+      "his",
+      "bike"
+    ],
+    "actions": [
+      "signaling",
+      "suggesting",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A cyclist can be seen riding on the street, with a yellow light on the back of his bike, suggesting he is signaling to the bus.",
+    "objects": [
+      "cyclist",
+      "street",
+      "can",
+      "yellow",
+      "bus",
+      "light",
+      "his",
+      "bike"
+    ],
+    "actions": [
+      "signaling",
+      "suggesting",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A cyclist can be seen riding on the street, with a yellow light on the back of his bike, suggesting he is signaling to the bus.",
+    "objects": [
+      "cyclist",
+      "street",
+      "can",
+      "yellow",
+      "bus",
+      "light",
+      "his",
+      "bike"
+    ],
+    "actions": [
+      "signaling",
+      "suggesting",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Pedestrians are crossing the street, one of them carrying a blue bag and another with a black backpack.",
+    "objects": [
+      "one",
+      "street",
+      "black",
+      "blue",
+      "bag",
+      "them",
+      "backpack"
+    ],
+    "actions": [
+      "pedestrians",
+      "carrying",
+      "crossing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Pedestrians are crossing the street, one of them carrying a blue bag and another with a black backpack.",
+    "objects": [
+      "one",
+      "street",
+      "black",
+      "blue",
+      "bag",
+      "them",
+      "backpack"
+    ],
+    "actions": [
+      "pedestrians",
+      "carrying",
+      "crossing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Pedestrians are crossing the street, one of them carrying a blue bag and another with a black backpack.",
+    "objects": [
+      "one",
+      "street",
+      "black",
+      "blue",
+      "bag",
+      "them",
+      "backpack"
+    ],
+    "actions": [
+      "pedestrians",
+      "carrying",
+      "crossing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman is standing near the bus stop, possibly waiting for the bus or having just disembarked.",
+    "objects": [
+      "stop",
+      "woman",
+      "possibly",
+      "just",
+      "bus"
+    ],
+    "actions": [
+      "waiting",
+      "having",
+      "standing",
+      "disembarked"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman is standing near the bus stop, possibly waiting for the bus or having just disembarked.",
+    "objects": [
+      "stop",
+      "woman",
+      "possibly",
+      "just",
+      "bus"
+    ],
+    "actions": [
+      "waiting",
+      "having",
+      "standing",
+      "disembarked"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A woman is standing near the bus stop, possibly waiting for the bus or having just disembarked.",
+    "objects": [
+      "stop",
+      "woman",
+      "possibly",
+      "just",
+      "bus"
+    ],
+    "actions": [
+      "waiting",
+      "having",
+      "standing",
+      "disembarked"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "A man is standing near a bench, possibly waiting for the bus or just enjoying the view.",
+    "objects": [
+      "possibly",
+      "just",
+      "bus",
+      "man",
+      "bench"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "A man is standing near a bench, possibly waiting for the bus or just enjoying the view.",
+    "objects": [
+      "possibly",
+      "just",
+      "bus",
+      "man",
+      "bench"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "A man is standing near a bench, possibly waiting for the bus or just enjoying the view.",
+    "objects": [
+      "possibly",
+      "just",
+      "bus",
+      "man",
+      "bench"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The street is lined with shops, and the buildings are lit up, adding to the vibrant atmosphere of the city.",
+    "objects": [
+      "street",
+      "vibrant",
+      "lit",
+      "city",
+      "atmosphere"
+    ],
+    "actions": [
+      "shops",
+      "adding",
+      "buildings",
+      "lined"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The street is lined with shops, and the buildings are lit up, adding to the vibrant atmosphere of the city.",
+    "objects": [
+      "street",
+      "vibrant",
+      "lit",
+      "city",
+      "atmosphere"
+    ],
+    "actions": [
+      "shops",
+      "adding",
+      "buildings",
+      "lined"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a young girl sitting on a bus, her back to the camera.",
+    "objects": [
+      "bus",
+      "young",
+      "girl",
+      "her"
+    ],
+    "actions": [
+      "opens",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a young girl sitting on a bus, her back to the camera.",
+    "objects": [
+      "bus",
+      "young",
+      "girl",
+      "her"
+    ],
+    "actions": [
+      "opens",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "She is wearing a blue hoodie and is looking at a large box, which is on the floor next to her.",
+    "objects": [
+      "floor",
+      "box",
+      "which",
+      "she",
+      "hoodie",
+      "blue",
+      "her",
+      "large"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "She is wearing a blue hoodie and is looking at a large box, which is on the floor next to her.",
+    "objects": [
+      "floor",
+      "box",
+      "which",
+      "she",
+      "hoodie",
+      "blue",
+      "her",
+      "large"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "She appears to be in the process of opening it, with her hand touching the lid.",
+    "objects": [
+      "she",
+      "lid",
+      "hand",
+      "her"
+    ],
+    "actions": [
+      "touching",
+      "process",
+      "opening"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "She appears to be in the process of opening it, with her hand touching the lid.",
+    "objects": [
+      "she",
+      "lid",
+      "hand",
+      "her"
+    ],
+    "actions": [
+      "touching",
+      "process",
+      "opening"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "As she opens the box, a young boy sitting across from her on the other side of the bus looks up, his face illuminated by a smile.",
+    "objects": [
+      "box",
+      "her",
+      "she",
+      "across",
+      "bus",
+      "other",
+      "side",
+      "face"
+    ],
+    "actions": [
+      "looks",
+      "opens",
+      "illuminated",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "As she opens the box, a young boy sitting across from her on the other side of the bus looks up, his face illuminated by a smile.",
+    "objects": [
+      "box",
+      "her",
+      "she",
+      "across",
+      "bus",
+      "other",
+      "side",
+      "face"
+    ],
+    "actions": [
+      "looks",
+      "opens",
+      "illuminated",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "He's wearing a gray t-shirt and is holding a piece of paper, possibly a ticket or a note.",
+    "objects": [
+      "piece",
+      "ticket",
+      "gray",
+      "paper",
+      "possibly",
+      "note"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "He's wearing a gray t-shirt and is holding a piece of paper, possibly a ticket or a note.",
+    "objects": [
+      "piece",
+      "ticket",
+      "gray",
+      "paper",
+      "possibly",
+      "note"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene then shifts to a shot of a young girl wearing a gray t-shirt sitting on the bus.",
+    "objects": [
+      "bus",
+      "gray",
+      "then",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "shifts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene then shifts to a shot of a young girl wearing a gray t-shirt sitting on the bus.",
+    "objects": [
+      "bus",
+      "gray",
+      "then",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "shifts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "She's holding a small box, and she seems to be in the process of opening it.",
+    "objects": [
+      "she",
+      "box",
+      "small"
+    ],
+    "actions": [
+      "holding",
+      "process",
+      "seems",
+      "opening"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "She's holding a small box, and she seems to be in the process of opening it.",
+    "objects": [
+      "she",
+      "box",
+      "small"
+    ],
+    "actions": [
+      "holding",
+      "process",
+      "seems",
+      "opening"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera captures her from the side, and she looks towards the camera, her expression a mix of curiosity and anticipation.",
+    "objects": [
+      "curiosity",
+      "her",
+      "expression",
+      "she",
+      "anticipation",
+      "side",
+      "from",
+      "mix"
+    ],
+    "actions": [
+      "looks",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera captures her from the side, and she looks towards the camera, her expression a mix of curiosity and anticipation.",
+    "objects": [
+      "curiosity",
+      "her",
+      "expression",
+      "she",
+      "anticipation",
+      "side",
+      "from",
+      "mix"
+    ],
+    "actions": [
+      "looks",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "In the next scene, the camera switches to a young girl wearing a gray t-shirt and holding a large box.",
+    "objects": [
+      "box",
+      "gray",
+      "young",
+      "girl",
+      "large"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "switches"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "In the next scene, the camera switches to a young girl wearing a gray t-shirt and holding a large box.",
+    "objects": [
+      "box",
+      "gray",
+      "young",
+      "girl",
+      "large"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "switches"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "She is sitting on the bus, her back to the camera.",
+    "objects": [
+      "she",
+      "bus",
+      "her"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "She is sitting on the bus, her back to the camera.",
+    "objects": [
+      "she",
+      "bus",
+      "her"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "She appears to be in the middle of opening the box, her hand touching the lid.",
+    "objects": [
+      "box",
+      "she",
+      "hand",
+      "her",
+      "middle",
+      "lid"
+    ],
+    "actions": [
+      "touching",
+      "opening"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "She appears to be in the middle of opening the box, her hand touching the lid.",
+    "objects": [
+      "box",
+      "she",
+      "hand",
+      "her",
+      "middle",
+      "lid"
+    ],
+    "actions": [
+      "touching",
+      "opening"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "Finally, the camera shifts back to the young girl in the blue hoodie, who is sitting on the bus and opening the large box.",
+    "objects": [
+      "box",
+      "bus",
+      "who",
+      "hoodie",
+      "blue",
+      "finally",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "shifts",
+      "opening"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "Finally, the camera shifts back to the young girl in the blue hoodie, who is sitting on the bus and opening the large box.",
+    "objects": [
+      "box",
+      "bus",
+      "who",
+      "hoodie",
+      "blue",
+      "finally",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "shifts",
+      "opening"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "She looks towards the camera, her expression a mix of curiosity and anticipation.",
+    "objects": [
+      "curiosity",
+      "expression",
+      "she",
+      "anticipation",
+      "her",
+      "mix"
+    ],
+    "actions": [
+      "looks",
+      "towards"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "She looks towards the camera, her expression a mix of curiosity and anticipation.",
+    "objects": [
+      "curiosity",
+      "expression",
+      "she",
+      "anticipation",
+      "her",
+      "mix"
+    ],
+    "actions": [
+      "looks",
+      "towards"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "Throughout the video, the camera captures the bus interior, showing the backs of the seats and the window.",
+    "objects": [
+      "bus",
+      "interior",
+      "window",
+      "throughout"
+    ],
+    "actions": [
+      "seats",
+      "backs"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "Throughout the video, the camera captures the bus interior, showing the backs of the seats and the window.",
+    "objects": [
+      "bus",
+      "interior",
+      "window",
+      "throughout"
+    ],
+    "actions": [
+      "seats",
+      "backs"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The girls are dressed in casual attire and appear to be in a relaxed state of mind.",
+    "objects": [
+      "state",
+      "casual",
+      "appear",
+      "attire",
+      "mind"
+    ],
+    "actions": [
+      "girls",
+      "dressed",
+      "relaxed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The girls are dressed in casual attire and appear to be in a relaxed state of mind.",
+    "objects": [
+      "state",
+      "casual",
+      "appear",
+      "attire",
+      "mind"
+    ],
+    "actions": [
+      "girls",
+      "dressed",
+      "relaxed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is one of everyday life, a snapshot of people going about their daily routines.",
+    "objects": [
+      "their",
+      "people",
+      "life",
+      "about",
+      "snapshot",
+      "daily",
+      "everyday",
+      "one"
+    ],
+    "actions": [
+      "going",
+      "routines"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is one of everyday life, a snapshot of people going about their daily routines.",
+    "objects": [
+      "their",
+      "people",
+      "life",
+      "about",
+      "snapshot",
+      "daily",
+      "everyday",
+      "one"
+    ],
+    "actions": [
+      "going",
+      "routines"
+    ],
+    "segment_id": 15
+  }
+]

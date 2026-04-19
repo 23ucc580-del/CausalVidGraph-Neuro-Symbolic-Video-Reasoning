@@ -1,0 +1,525 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a baby is seen sitting in a high chair.",
+    "objects": [
+      "baby",
+      "chair",
+      "high"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a baby is seen sitting in a high chair.",
+    "objects": [
+      "baby",
+      "chair",
+      "high"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a baby is seen sitting in a high chair.",
+    "objects": [
+      "baby",
+      "chair",
+      "high"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a baby is seen sitting in a high chair.",
+    "objects": [
+      "baby",
+      "chair",
+      "high"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a baby is seen sitting in a high chair.",
+    "objects": [
+      "baby",
+      "chair",
+      "high"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby is wearing a green shirt and appears to be looking at the camera.",
+    "objects": [
+      "baby",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby is wearing a green shirt and appears to be looking at the camera.",
+    "objects": [
+      "baby",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby is wearing a green shirt and appears to be looking at the camera.",
+    "objects": [
+      "baby",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby is wearing a green shirt and appears to be looking at the camera.",
+    "objects": [
+      "baby",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby is wearing a green shirt and appears to be looking at the camera.",
+    "objects": [
+      "baby",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The baby's hand is in the air, and it seems like they are reaching for something out of reach.",
+    "objects": [
+      "they",
+      "air",
+      "reach",
+      "out",
+      "like",
+      "hand"
+    ],
+    "actions": [
+      "seems",
+      "something",
+      "reaching",
+      "baby's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The baby's hand is in the air, and it seems like they are reaching for something out of reach.",
+    "objects": [
+      "they",
+      "air",
+      "reach",
+      "out",
+      "like",
+      "hand"
+    ],
+    "actions": [
+      "seems",
+      "something",
+      "reaching",
+      "baby's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby's hand is in the air, and it seems like they are reaching for something out of reach.",
+    "objects": [
+      "they",
+      "air",
+      "reach",
+      "out",
+      "like",
+      "hand"
+    ],
+    "actions": [
+      "seems",
+      "something",
+      "reaching",
+      "baby's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby's hand is in the air, and it seems like they are reaching for something out of reach.",
+    "objects": [
+      "they",
+      "air",
+      "reach",
+      "out",
+      "like",
+      "hand"
+    ],
+    "actions": [
+      "seems",
+      "something",
+      "reaching",
+      "baby's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby's hand is in the air, and it seems like they are reaching for something out of reach.",
+    "objects": [
+      "they",
+      "air",
+      "reach",
+      "out",
+      "like",
+      "hand"
+    ],
+    "actions": [
+      "seems",
+      "something",
+      "reaching",
+      "baby's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, there's a person wearing a blue shirt standing in front of a white wall.",
+    "objects": [
+      "wall",
+      "blue",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, there's a person wearing a blue shirt standing in front of a white wall.",
+    "objects": [
+      "wall",
+      "blue",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, there's a person wearing a blue shirt standing in front of a white wall.",
+    "objects": [
+      "wall",
+      "blue",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, there's a person wearing a blue shirt standing in front of a white wall.",
+    "objects": [
+      "wall",
+      "blue",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, there's a person wearing a blue shirt standing in front of a white wall.",
+    "objects": [
+      "wall",
+      "blue",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The baby is also holding a green bottle and a black sippy cup.",
+    "objects": [
+      "black",
+      "green",
+      "bottle",
+      "cup",
+      "baby",
+      "sippy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The baby is also holding a green bottle and a black sippy cup.",
+    "objects": [
+      "black",
+      "green",
+      "bottle",
+      "cup",
+      "baby",
+      "sippy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The baby is also holding a green bottle and a black sippy cup.",
+    "objects": [
+      "black",
+      "green",
+      "bottle",
+      "cup",
+      "baby",
+      "sippy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby is also holding a green bottle and a black sippy cup.",
+    "objects": [
+      "black",
+      "green",
+      "bottle",
+      "cup",
+      "baby",
+      "sippy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The baby is also holding a green bottle and a black sippy cup.",
+    "objects": [
+      "black",
+      "green",
+      "bottle",
+      "cup",
+      "baby",
+      "sippy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "There's another person wearing a purple shirt standing near the baby, and they are holding a green bottle.",
+    "objects": [
+      "they",
+      "green",
+      "bottle",
+      "shirt",
+      "purple",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "There's another person wearing a purple shirt standing near the baby, and they are holding a green bottle.",
+    "objects": [
+      "they",
+      "green",
+      "bottle",
+      "shirt",
+      "purple",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "There's another person wearing a purple shirt standing near the baby, and they are holding a green bottle.",
+    "objects": [
+      "they",
+      "green",
+      "bottle",
+      "shirt",
+      "purple",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "There's another person wearing a purple shirt standing near the baby, and they are holding a green bottle.",
+    "objects": [
+      "they",
+      "green",
+      "bottle",
+      "shirt",
+      "purple",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "There's another person wearing a purple shirt standing near the baby, and they are holding a green bottle.",
+    "objects": [
+      "they",
+      "green",
+      "bottle",
+      "shirt",
+      "purple",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby is sitting in a high chair with a white cushion and there's a green bottle nearby.",
+    "objects": [
+      "white",
+      "high",
+      "green",
+      "bottle",
+      "cushion",
+      "nearby",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "there's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby is sitting in a high chair with a white cushion and there's a green bottle nearby.",
+    "objects": [
+      "white",
+      "high",
+      "green",
+      "bottle",
+      "cushion",
+      "nearby",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "there's"
+    ],
+    "segment_id": 6
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a young child is seen sitting in a field of tall grass, smiling and laughing.",
+    "objects": [
+      "child",
+      "tall",
+      "field",
+      "grass",
+      "young",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "laughing",
+      "smiling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a young child is seen sitting in a field of tall grass, smiling and laughing.",
+    "objects": [
+      "child",
+      "tall",
+      "field",
+      "grass",
+      "young",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "laughing",
+      "smiling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a young child is seen sitting in a field of tall grass, smiling and laughing.",
+    "objects": [
+      "child",
+      "tall",
+      "field",
+      "grass",
+      "young",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "laughing",
+      "smiling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A woman is standing behind him, holding a bag of snacks.",
+    "objects": [
+      "bag",
+      "him",
+      "behind",
+      "woman"
+    ],
+    "actions": [
+      "snacks",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman is standing behind him, holding a bag of snacks.",
+    "objects": [
+      "bag",
+      "him",
+      "behind",
+      "woman"
+    ],
+    "actions": [
+      "snacks",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A woman is standing behind him, holding a bag of snacks.",
+    "objects": [
+      "bag",
+      "him",
+      "behind",
+      "woman"
+    ],
+    "actions": [
+      "snacks",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A boy is standing in the field, wearing a blue shirt and holding a plastic container.",
+    "objects": [
+      "plastic",
+      "boy",
+      "blue",
+      "container",
+      "shirt",
+      "field"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A boy is standing in the field, wearing a blue shirt and holding a plastic container.",
+    "objects": [
+      "plastic",
+      "boy",
+      "blue",
+      "container",
+      "shirt",
+      "field"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A boy is standing in the field, wearing a blue shirt and holding a plastic container.",
+    "objects": [
+      "plastic",
+      "boy",
+      "blue",
+      "container",
+      "shirt",
+      "field"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another boy is lying on the ground, wearing a red shirt.",
+    "objects": [
+      "ground",
+      "boy",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "lying",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Another boy is lying on the ground, wearing a red shirt.",
+    "objects": [
+      "ground",
+      "boy",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "lying",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Another boy is lying on the ground, wearing a red shirt.",
+    "objects": [
+      "ground",
+      "boy",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "lying",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is holding a purple shirt and a plastic container.",
+    "objects": [
+      "plastic",
+      "woman",
+      "container",
+      "shirt",
+      "purple"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is holding a purple shirt and a plastic container.",
+    "objects": [
+      "plastic",
+      "woman",
+      "container",
+      "shirt",
+      "purple"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is holding a purple shirt and a plastic container.",
+    "objects": [
+      "plastic",
+      "woman",
+      "container",
+      "shirt",
+      "purple"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The child in the blue hoodie is seen running in the field, while another child in a white shirt is standing and smiling.",
+    "objects": [
+      "white",
+      "child",
+      "while",
+      "blue",
+      "shirt",
+      "field",
+      "hoodie"
+    ],
+    "actions": [
+      "running",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The child in the blue hoodie is seen running in the field, while another child in a white shirt is standing and smiling.",
+    "objects": [
+      "white",
+      "child",
+      "while",
+      "blue",
+      "shirt",
+      "field",
+      "hoodie"
+    ],
+    "actions": [
+      "running",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The child in the blue hoodie is seen running in the field, while another child in a white shirt is standing and smiling.",
+    "objects": [
+      "white",
+      "child",
+      "while",
+      "blue",
+      "shirt",
+      "field",
+      "hoodie"
+    ],
+    "actions": [
+      "running",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A young girl is playing with the boy in the red shirt.",
+    "objects": [
+      "girl",
+      "young",
+      "boy",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A young girl is playing with the boy in the red shirt.",
+    "objects": [
+      "girl",
+      "young",
+      "boy",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A young girl is playing with the boy in the red shirt.",
+    "objects": [
+      "girl",
+      "young",
+      "boy",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A man is walking through the field with a white bag and a plastic container, and another man is seen walking with a white bag and a child.",
+    "objects": [
+      "plastic",
+      "white",
+      "child",
+      "container",
+      "bag",
+      "field",
+      "through",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A man is walking through the field with a white bag and a plastic container, and another man is seen walking with a white bag and a child.",
+    "objects": [
+      "plastic",
+      "white",
+      "child",
+      "container",
+      "bag",
+      "field",
+      "through",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A man is walking through the field with a white bag and a plastic container, and another man is seen walking with a white bag and a child.",
+    "objects": [
+      "plastic",
+      "white",
+      "child",
+      "container",
+      "bag",
+      "field",
+      "through",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A young boy is sitting on the ground, wearing a purple shirt.",
+    "objects": [
+      "boy",
+      "purple",
+      "shirt",
+      "young",
+      "ground"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A young boy is sitting on the ground, wearing a purple shirt.",
+    "objects": [
+      "boy",
+      "purple",
+      "shirt",
+      "young",
+      "ground"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A young boy is sitting on the ground, wearing a purple shirt.",
+    "objects": [
+      "boy",
+      "purple",
+      "shirt",
+      "young",
+      "ground"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "A child in a purple shirt is standing and smiling, and a boy in a purple shirt is lying down.",
+    "objects": [
+      "purple",
+      "boy",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "lying",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "A child in a purple shirt is standing and smiling, and a boy in a purple shirt is lying down.",
+    "objects": [
+      "purple",
+      "boy",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "lying",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "A child in a purple shirt is standing and smiling, and a boy in a purple shirt is lying down.",
+    "objects": [
+      "purple",
+      "boy",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "lying",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Finally, a child in a blue shirt is standing and smiling.",
+    "objects": [
+      "finally",
+      "blue",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Finally, a child in a blue shirt is standing and smiling.",
+    "objects": [
+      "finally",
+      "blue",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 10
+  }
+]

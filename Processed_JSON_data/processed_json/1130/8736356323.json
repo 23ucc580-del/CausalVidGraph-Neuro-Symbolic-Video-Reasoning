@@ -1,0 +1,634 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This is a vibrant scene from a live performance by the Grand Ole Opry band, capturing the energy and camaraderie of the group as they play their instruments on stage.",
+    "objects": [
+      "their",
+      "band",
+      "stage",
+      "energy",
+      "performance",
+      "camaraderie",
+      "this",
+      "opry"
+    ],
+    "actions": [
+      "instruments",
+      "capturing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This is a vibrant scene from a live performance by the Grand Ole Opry band, capturing the energy and camaraderie of the group as they play their instruments on stage.",
+    "objects": [
+      "their",
+      "band",
+      "stage",
+      "energy",
+      "performance",
+      "camaraderie",
+      "this",
+      "opry"
+    ],
+    "actions": [
+      "instruments",
+      "capturing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This is a vibrant scene from a live performance by the Grand Ole Opry band, capturing the energy and camaraderie of the group as they play their instruments on stage.",
+    "objects": [
+      "their",
+      "band",
+      "stage",
+      "energy",
+      "performance",
+      "camaraderie",
+      "this",
+      "opry"
+    ],
+    "actions": [
+      "instruments",
+      "capturing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the foreground, there's a man wearing a white cowboy hat and a blue shirt, playing the accordion with enthusiasm.",
+    "objects": [
+      "white",
+      "blue",
+      "enthusiasm",
+      "man",
+      "shirt",
+      "accordion",
+      "cowboy",
+      "hat"
+    ],
+    "actions": [
+      "there's",
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "In the foreground, there's a man wearing a white cowboy hat and a blue shirt, playing the accordion with enthusiasm.",
+    "objects": [
+      "white",
+      "blue",
+      "enthusiasm",
+      "man",
+      "shirt",
+      "accordion",
+      "cowboy",
+      "hat"
+    ],
+    "actions": [
+      "there's",
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, there's a man wearing a white cowboy hat and a blue shirt, playing the accordion with enthusiasm.",
+    "objects": [
+      "white",
+      "blue",
+      "enthusiasm",
+      "man",
+      "shirt",
+      "accordion",
+      "cowboy",
+      "hat"
+    ],
+    "actions": [
+      "there's",
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is joined by a man in a white cowboy hat and a blue shirt, strumming a guitar with passion.",
+    "objects": [
+      "white",
+      "blue",
+      "guitar",
+      "passion",
+      "man",
+      "shirt",
+      "cowboy",
+      "hat"
+    ],
+    "actions": [
+      "joined",
+      "strumming"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He is joined by a man in a white cowboy hat and a blue shirt, strumming a guitar with passion.",
+    "objects": [
+      "white",
+      "blue",
+      "guitar",
+      "passion",
+      "man",
+      "shirt",
+      "cowboy",
+      "hat"
+    ],
+    "actions": [
+      "joined",
+      "strumming"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He is joined by a man in a white cowboy hat and a blue shirt, strumming a guitar with passion.",
+    "objects": [
+      "white",
+      "blue",
+      "guitar",
+      "passion",
+      "man",
+      "shirt",
+      "cowboy",
+      "hat"
+    ],
+    "actions": [
+      "joined",
+      "strumming"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "To their right, a man in a white cowboy hat and a red shirt is singing into the microphone, his voice full of emotion.",
+    "objects": [
+      "white",
+      "full",
+      "into",
+      "man",
+      "microphone",
+      "his",
+      "voice",
+      "shirt"
+    ],
+    "actions": [
+      "singing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "To their right, a man in a white cowboy hat and a red shirt is singing into the microphone, his voice full of emotion.",
+    "objects": [
+      "white",
+      "full",
+      "into",
+      "man",
+      "microphone",
+      "his",
+      "voice",
+      "shirt"
+    ],
+    "actions": [
+      "singing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "To their right, a man in a white cowboy hat and a red shirt is singing into the microphone, his voice full of emotion.",
+    "objects": [
+      "white",
+      "full",
+      "into",
+      "man",
+      "microphone",
+      "his",
+      "voice",
+      "shirt"
+    ],
+    "actions": [
+      "singing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a white cowboy hat and a black shirt is playing the drums, adding a rhythmic beat to the performance.",
+    "objects": [
+      "rhythmic",
+      "white",
+      "beat",
+      "man",
+      "performance",
+      "black",
+      "shirt",
+      "cowboy"
+    ],
+    "actions": [
+      "adding",
+      "drums",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a white cowboy hat and a black shirt is playing the drums, adding a rhythmic beat to the performance.",
+    "objects": [
+      "rhythmic",
+      "white",
+      "beat",
+      "man",
+      "performance",
+      "black",
+      "shirt",
+      "cowboy"
+    ],
+    "actions": [
+      "adding",
+      "drums",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a white cowboy hat and a black shirt is playing the drums, adding a rhythmic beat to the performance.",
+    "objects": [
+      "rhythmic",
+      "white",
+      "beat",
+      "man",
+      "performance",
+      "black",
+      "shirt",
+      "cowboy"
+    ],
+    "actions": [
+      "adding",
+      "drums",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The bass player, wearing a black shirt and a black hat, is holding a bass guitar, contributing to the low end of the sound.",
+    "objects": [
+      "guitar",
+      "player",
+      "sound",
+      "end",
+      "shirt",
+      "bass",
+      "low",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "contributing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The bass player, wearing a black shirt and a black hat, is holding a bass guitar, contributing to the low end of the sound.",
+    "objects": [
+      "guitar",
+      "player",
+      "sound",
+      "end",
+      "shirt",
+      "bass",
+      "low",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "contributing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The bass player, wearing a black shirt and a black hat, is holding a bass guitar, contributing to the low end of the sound.",
+    "objects": [
+      "guitar",
+      "player",
+      "sound",
+      "end",
+      "shirt",
+      "bass",
+      "low",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "contributing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a white cowboy hat and a yellow shirt is playing the saxophone, filling the air with soulful notes.",
+    "objects": [
+      "white",
+      "saxophone",
+      "man",
+      "soulful",
+      "shirt",
+      "yellow",
+      "air",
+      "cowboy"
+    ],
+    "actions": [
+      "filling",
+      "playing",
+      "notes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a white cowboy hat and a yellow shirt is playing the saxophone, filling the air with soulful notes.",
+    "objects": [
+      "white",
+      "saxophone",
+      "man",
+      "soulful",
+      "shirt",
+      "yellow",
+      "air",
+      "cowboy"
+    ],
+    "actions": [
+      "filling",
+      "playing",
+      "notes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a white cowboy hat and a yellow shirt is playing the saxophone, filling the air with soulful notes.",
+    "objects": [
+      "white",
+      "saxophone",
+      "man",
+      "soulful",
+      "shirt",
+      "yellow",
+      "air",
+      "cowboy"
+    ],
+    "actions": [
+      "filling",
+      "playing",
+      "notes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, a man in a white cowboy hat and a red shirt is singing into the microphone, his voice ringing out.",
+    "objects": [
+      "white",
+      "into",
+      "man",
+      "microphone",
+      "his",
+      "voice",
+      "shirt",
+      "out"
+    ],
+    "actions": [
+      "singing",
+      "red",
+      "ringing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, a man in a white cowboy hat and a red shirt is singing into the microphone, his voice ringing out.",
+    "objects": [
+      "white",
+      "into",
+      "man",
+      "microphone",
+      "his",
+      "voice",
+      "shirt",
+      "out"
+    ],
+    "actions": [
+      "singing",
+      "red",
+      "ringing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, a man in a white cowboy hat and a red shirt is singing into the microphone, his voice ringing out.",
+    "objects": [
+      "white",
+      "into",
+      "man",
+      "microphone",
+      "his",
+      "voice",
+      "shirt",
+      "out"
+    ],
+    "actions": [
+      "singing",
+      "red",
+      "ringing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The lead guitarist, wearing a white cowboy hat and a red shirt, is playing with skill and flair, his fingers dancing over the strings.",
+    "objects": [
+      "guitarist",
+      "white",
+      "over",
+      "his",
+      "shirt",
+      "lead",
+      "skill",
+      "flair"
+    ],
+    "actions": [
+      "fingers",
+      "strings",
+      "dancing",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The lead guitarist, wearing a white cowboy hat and a red shirt, is playing with skill and flair, his fingers dancing over the strings.",
+    "objects": [
+      "guitarist",
+      "white",
+      "over",
+      "his",
+      "shirt",
+      "lead",
+      "skill",
+      "flair"
+    ],
+    "actions": [
+      "fingers",
+      "strings",
+      "dancing",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The lead guitarist, wearing a white cowboy hat and a red shirt, is playing with skill and flair, his fingers dancing over the strings.",
+    "objects": [
+      "guitarist",
+      "white",
+      "over",
+      "his",
+      "shirt",
+      "lead",
+      "skill",
+      "flair"
+    ],
+    "actions": [
+      "fingers",
+      "strings",
+      "dancing",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "Another man in a white cowboy hat and a black shirt is playing the saxophone, his fingers moving swiftly over the keys.",
+    "objects": [
+      "white",
+      "saxophone",
+      "keys",
+      "over",
+      "man",
+      "his",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "fingers",
+      "playing",
+      "moving"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "Another man in a white cowboy hat and a black shirt is playing the saxophone, his fingers moving swiftly over the keys.",
+    "objects": [
+      "white",
+      "saxophone",
+      "keys",
+      "over",
+      "man",
+      "his",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "fingers",
+      "playing",
+      "moving"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "Another man in a white cowboy hat and a black shirt is playing the saxophone, his fingers moving swiftly over the keys.",
+    "objects": [
+      "white",
+      "saxophone",
+      "keys",
+      "over",
+      "man",
+      "his",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "fingers",
+      "playing",
+      "moving"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Lastly, a man in a white cowboy hat and a blue shirt is singing into the microphone, his voice soaring.",
+    "objects": [
+      "white",
+      "blue",
+      "into",
+      "man",
+      "lastly",
+      "microphone",
+      "his",
+      "shirt"
+    ],
+    "actions": [
+      "singing",
+      "soaring"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Lastly, a man in a white cowboy hat and a blue shirt is singing into the microphone, his voice soaring.",
+    "objects": [
+      "white",
+      "blue",
+      "into",
+      "man",
+      "lastly",
+      "microphone",
+      "his",
+      "shirt"
+    ],
+    "actions": [
+      "singing",
+      "soaring"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a man is seen standing on a stage with various musical instruments around him, including a guitar, a keyboard, and a microphone.",
+    "objects": [
+      "keyboard",
+      "musical",
+      "him",
+      "microphone",
+      "guitar",
+      "around",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "instruments"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a man is seen standing on a stage with various musical instruments around him, including a guitar, a keyboard, and a microphone.",
+    "objects": [
+      "keyboard",
+      "musical",
+      "him",
+      "microphone",
+      "guitar",
+      "around",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "instruments"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a man is seen standing on a stage with various musical instruments around him, including a guitar, a keyboard, and a microphone.",
+    "objects": [
+      "keyboard",
+      "musical",
+      "him",
+      "microphone",
+      "guitar",
+      "around",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "instruments"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, a man is seen standing on a stage with various musical instruments around him, including a guitar, a keyboard, and a microphone.",
+    "objects": [
+      "keyboard",
+      "musical",
+      "him",
+      "microphone",
+      "guitar",
+      "around",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "instruments"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is wearing a black shirt and pants and has a silver necklace around his neck.",
+    "objects": [
+      "black",
+      "has",
+      "shirt",
+      "silver",
+      "around",
+      "his",
+      "necklace",
+      "neck"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a black shirt and pants and has a silver necklace around his neck.",
+    "objects": [
+      "black",
+      "has",
+      "shirt",
+      "silver",
+      "around",
+      "his",
+      "necklace",
+      "neck"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is wearing a black shirt and pants and has a silver necklace around his neck.",
+    "objects": [
+      "black",
+      "has",
+      "shirt",
+      "silver",
+      "around",
+      "his",
+      "necklace",
+      "neck"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is wearing a black shirt and pants and has a silver necklace around his neck.",
+    "objects": [
+      "black",
+      "has",
+      "shirt",
+      "silver",
+      "around",
+      "his",
+      "necklace",
+      "neck"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The stage is well-lit with a spotlight focused on him, illuminating his figure.",
+    "objects": [
+      "him",
+      "spotlight",
+      "his",
+      "stage",
+      "figure"
+    ],
+    "actions": [
+      "focused",
+      "illuminating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The stage is well-lit with a spotlight focused on him, illuminating his figure.",
+    "objects": [
+      "him",
+      "spotlight",
+      "his",
+      "stage",
+      "figure"
+    ],
+    "actions": [
+      "focused",
+      "illuminating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The stage is well-lit with a spotlight focused on him, illuminating his figure.",
+    "objects": [
+      "him",
+      "spotlight",
+      "his",
+      "stage",
+      "figure"
+    ],
+    "actions": [
+      "focused",
+      "illuminating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The stage is well-lit with a spotlight focused on him, illuminating his figure.",
+    "objects": [
+      "him",
+      "spotlight",
+      "his",
+      "stage",
+      "figure"
+    ],
+    "actions": [
+      "focused",
+      "illuminating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is singing into the microphone while playing the guitar, his fingers deftly moving over the strings.",
+    "objects": [
+      "into",
+      "while",
+      "microphone",
+      "deftly",
+      "guitar",
+      "his",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "strings",
+      "fingers",
+      "singing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is singing into the microphone while playing the guitar, his fingers deftly moving over the strings.",
+    "objects": [
+      "into",
+      "while",
+      "microphone",
+      "deftly",
+      "guitar",
+      "his",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "strings",
+      "fingers",
+      "singing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man is singing into the microphone while playing the guitar, his fingers deftly moving over the strings.",
+    "objects": [
+      "into",
+      "while",
+      "microphone",
+      "deftly",
+      "guitar",
+      "his",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "strings",
+      "fingers",
+      "singing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is singing into the microphone while playing the guitar, his fingers deftly moving over the strings.",
+    "objects": [
+      "into",
+      "while",
+      "microphone",
+      "deftly",
+      "guitar",
+      "his",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "strings",
+      "fingers",
+      "singing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The stage is decorated with posters of other musicians and a red curtain serves as a backdrop.",
+    "objects": [
+      "stage",
+      "backdrop",
+      "other",
+      "curtain"
+    ],
+    "actions": [
+      "serves",
+      "red",
+      "musicians",
+      "posters"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The stage is decorated with posters of other musicians and a red curtain serves as a backdrop.",
+    "objects": [
+      "stage",
+      "backdrop",
+      "other",
+      "curtain"
+    ],
+    "actions": [
+      "serves",
+      "red",
+      "musicians",
+      "posters"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The stage is decorated with posters of other musicians and a red curtain serves as a backdrop.",
+    "objects": [
+      "stage",
+      "backdrop",
+      "other",
+      "curtain"
+    ],
+    "actions": [
+      "serves",
+      "red",
+      "musicians",
+      "posters"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The stage is decorated with posters of other musicians and a red curtain serves as a backdrop.",
+    "objects": [
+      "stage",
+      "backdrop",
+      "other",
+      "curtain"
+    ],
+    "actions": [
+      "serves",
+      "red",
+      "musicians",
+      "posters"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is performing a song, with the guitar in his right hand and the microphone in his left hand.",
+    "objects": [
+      "microphone",
+      "guitar",
+      "song",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is performing a song, with the guitar in his right hand and the microphone in his left hand.",
+    "objects": [
+      "microphone",
+      "guitar",
+      "song",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is performing a song, with the guitar in his right hand and the microphone in his left hand.",
+    "objects": [
+      "microphone",
+      "guitar",
+      "song",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is performing a song, with the guitar in his right hand and the microphone in his left hand.",
+    "objects": [
+      "microphone",
+      "guitar",
+      "song",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The sound of the music is clear and audible, filling the room.",
+    "objects": [
+      "audible",
+      "room",
+      "clear",
+      "music",
+      "sound"
+    ],
+    "actions": [
+      "filling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The sound of the music is clear and audible, filling the room.",
+    "objects": [
+      "audible",
+      "room",
+      "clear",
+      "music",
+      "sound"
+    ],
+    "actions": [
+      "filling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The sound of the music is clear and audible, filling the room.",
+    "objects": [
+      "audible",
+      "room",
+      "clear",
+      "music",
+      "sound"
+    ],
+    "actions": [
+      "filling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The sound of the music is clear and audible, filling the room.",
+    "objects": [
+      "audible",
+      "room",
+      "clear",
+      "music",
+      "sound"
+    ],
+    "actions": [
+      "filling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera captures the performance from different angles, allowing viewers to see the man's expressions and movements while he plays and sings.",
+    "objects": [
+      "while",
+      "see",
+      "from",
+      "performance",
+      "different"
+    ],
+    "actions": [
+      "man's",
+      "viewers",
+      "angles",
+      "sings"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera captures the performance from different angles, allowing viewers to see the man's expressions and movements while he plays and sings.",
+    "objects": [
+      "while",
+      "see",
+      "from",
+      "performance",
+      "different"
+    ],
+    "actions": [
+      "man's",
+      "viewers",
+      "angles",
+      "sings"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera captures the performance from different angles, allowing viewers to see the man's expressions and movements while he plays and sings.",
+    "objects": [
+      "while",
+      "see",
+      "from",
+      "performance",
+      "different"
+    ],
+    "actions": [
+      "man's",
+      "viewers",
+      "angles",
+      "sings"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera captures the performance from different angles, allowing viewers to see the man's expressions and movements while he plays and sings.",
+    "objects": [
+      "while",
+      "see",
+      "from",
+      "performance",
+      "different"
+    ],
+    "actions": [
+      "man's",
+      "viewers",
+      "angles",
+      "sings"
+    ],
+    "segment_id": 7
+  }
+]

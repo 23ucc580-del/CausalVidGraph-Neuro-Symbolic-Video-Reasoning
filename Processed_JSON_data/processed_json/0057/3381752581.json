@@ -1,0 +1,510 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a cat is seen walking on a counter in a kitchen.",
+    "objects": [
+      "counter",
+      "cat",
+      "kitchen"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a cat is seen walking on a counter in a kitchen.",
+    "objects": [
+      "counter",
+      "cat",
+      "kitchen"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a cat is seen walking on a counter in a kitchen.",
+    "objects": [
+      "counter",
+      "cat",
+      "kitchen"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a cat is seen walking on a counter in a kitchen.",
+    "objects": [
+      "counter",
+      "cat",
+      "kitchen"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The cat, which is black and white with blue patches, is walking from the left towards the right of the frame.",
+    "objects": [
+      "which",
+      "white",
+      "cat",
+      "blue",
+      "from",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "patches"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The cat, which is black and white with blue patches, is walking from the left towards the right of the frame.",
+    "objects": [
+      "which",
+      "white",
+      "cat",
+      "blue",
+      "from",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "patches"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The cat, which is black and white with blue patches, is walking from the left towards the right of the frame.",
+    "objects": [
+      "which",
+      "white",
+      "cat",
+      "blue",
+      "from",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "patches"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The cat, which is black and white with blue patches, is walking from the left towards the right of the frame.",
+    "objects": [
+      "which",
+      "white",
+      "cat",
+      "blue",
+      "from",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "patches"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The kitchen is well-lit with white cabinets and white walls.",
+    "objects": [
+      "white",
+      "kitchen"
+    ],
+    "actions": [
+      "cabinets",
+      "walls"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The kitchen is well-lit with white cabinets and white walls.",
+    "objects": [
+      "white",
+      "kitchen"
+    ],
+    "actions": [
+      "cabinets",
+      "walls"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The kitchen is well-lit with white cabinets and white walls.",
+    "objects": [
+      "white",
+      "kitchen"
+    ],
+    "actions": [
+      "cabinets",
+      "walls"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The kitchen is well-lit with white cabinets and white walls.",
+    "objects": [
+      "white",
+      "kitchen"
+    ],
+    "actions": [
+      "cabinets",
+      "walls"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "There are various kitchen items around the cat, including a knife block with several knives, a bowl, a white plate, a white pot with a lid, and a white kettle.",
+    "objects": [
+      "several",
+      "white",
+      "cat",
+      "kitchen",
+      "bowl",
+      "pot",
+      "knife",
+      "kettle"
+    ],
+    "actions": [
+      "knives",
+      "items"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "There are various kitchen items around the cat, including a knife block with several knives, a bowl, a white plate, a white pot with a lid, and a white kettle.",
+    "objects": [
+      "several",
+      "white",
+      "cat",
+      "kitchen",
+      "bowl",
+      "pot",
+      "knife",
+      "kettle"
+    ],
+    "actions": [
+      "knives",
+      "items"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "There are various kitchen items around the cat, including a knife block with several knives, a bowl, a white plate, a white pot with a lid, and a white kettle.",
+    "objects": [
+      "several",
+      "white",
+      "cat",
+      "kitchen",
+      "bowl",
+      "pot",
+      "knife",
+      "kettle"
+    ],
+    "actions": [
+      "knives",
+      "items"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "There are various kitchen items around the cat, including a knife block with several knives, a bowl, a white plate, a white pot with a lid, and a white kettle.",
+    "objects": [
+      "several",
+      "white",
+      "cat",
+      "kitchen",
+      "bowl",
+      "pot",
+      "knife",
+      "kettle"
+    ],
+    "actions": [
+      "knives",
+      "items"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A person is standing in the kitchen wearing a red hoodie and is holding a green bottle.",
+    "objects": [
+      "bottle",
+      "hoodie",
+      "green",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A person is standing in the kitchen wearing a red hoodie and is holding a green bottle.",
+    "objects": [
+      "bottle",
+      "hoodie",
+      "green",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A person is standing in the kitchen wearing a red hoodie and is holding a green bottle.",
+    "objects": [
+      "bottle",
+      "hoodie",
+      "green",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A person is standing in the kitchen wearing a red hoodie and is holding a green bottle.",
+    "objects": [
+      "bottle",
+      "hoodie",
+      "green",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "There is also a blue backpack placed on the counter next to the cat.",
+    "objects": [
+      "cat",
+      "backpack",
+      "blue",
+      "counter",
+      "there"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "There is also a blue backpack placed on the counter next to the cat.",
+    "objects": [
+      "cat",
+      "backpack",
+      "blue",
+      "counter",
+      "there"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "There is also a blue backpack placed on the counter next to the cat.",
+    "objects": [
+      "cat",
+      "backpack",
+      "blue",
+      "counter",
+      "there"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "There is also a blue backpack placed on the counter next to the cat.",
+    "objects": [
+      "cat",
+      "backpack",
+      "blue",
+      "counter",
+      "there"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The person appears to be observing the cat as it walks.",
+    "objects": [
+      "cat"
+    ],
+    "actions": [
+      "walks",
+      "observing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The person appears to be observing the cat as it walks.",
+    "objects": [
+      "cat"
+    ],
+    "actions": [
+      "walks",
+      "observing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The person appears to be observing the cat as it walks.",
+    "objects": [
+      "cat"
+    ],
+    "actions": [
+      "walks",
+      "observing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The person appears to be observing the cat as it walks.",
+    "objects": [
+      "cat"
+    ],
+    "actions": [
+      "walks",
+      "observing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is quite ordinary and everyday, depicting a common household setting where a cat is casually exploring its environment.",
+    "objects": [
+      "household",
+      "cat",
+      "quite",
+      "ordinary",
+      "everyday",
+      "common",
+      "where",
+      "environment"
+    ],
+    "actions": [
+      "setting",
+      "exploring",
+      "depicting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is quite ordinary and everyday, depicting a common household setting where a cat is casually exploring its environment.",
+    "objects": [
+      "household",
+      "cat",
+      "quite",
+      "ordinary",
+      "everyday",
+      "common",
+      "where",
+      "environment"
+    ],
+    "actions": [
+      "setting",
+      "exploring",
+      "depicting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is quite ordinary and everyday, depicting a common household setting where a cat is casually exploring its environment.",
+    "objects": [
+      "household",
+      "cat",
+      "quite",
+      "ordinary",
+      "everyday",
+      "common",
+      "where",
+      "environment"
+    ],
+    "actions": [
+      "setting",
+      "exploring",
+      "depicting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is quite ordinary and everyday, depicting a common household setting where a cat is casually exploring its environment.",
+    "objects": [
+      "household",
+      "cat",
+      "quite",
+      "ordinary",
+      "everyday",
+      "common",
+      "where",
+      "environment"
+    ],
+    "actions": [
+      "setting",
+      "exploring",
+      "depicting"
+    ],
+    "segment_id": 7
+  }
+]

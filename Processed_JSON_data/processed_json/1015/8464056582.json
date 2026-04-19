@@ -1,0 +1,526 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a baby is seen crawling on the floor of a room, dressed in a blue hoodie and brown pants.",
+    "objects": [
+      "baby",
+      "blue",
+      "hoodie",
+      "room",
+      "brown",
+      "floor"
+    ],
+    "actions": [
+      "dressed",
+      "pants",
+      "crawling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a baby is seen crawling on the floor of a room, dressed in a blue hoodie and brown pants.",
+    "objects": [
+      "baby",
+      "blue",
+      "hoodie",
+      "room",
+      "brown",
+      "floor"
+    ],
+    "actions": [
+      "dressed",
+      "pants",
+      "crawling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a baby is seen crawling on the floor of a room, dressed in a blue hoodie and brown pants.",
+    "objects": [
+      "baby",
+      "blue",
+      "hoodie",
+      "room",
+      "brown",
+      "floor"
+    ],
+    "actions": [
+      "dressed",
+      "pants",
+      "crawling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a baby is seen crawling on the floor of a room, dressed in a blue hoodie and brown pants.",
+    "objects": [
+      "baby",
+      "blue",
+      "hoodie",
+      "room",
+      "brown",
+      "floor"
+    ],
+    "actions": [
+      "dressed",
+      "pants",
+      "crawling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a baby is seen crawling on the floor of a room, dressed in a blue hoodie and brown pants.",
+    "objects": [
+      "baby",
+      "blue",
+      "hoodie",
+      "room",
+      "brown",
+      "floor"
+    ],
+    "actions": [
+      "dressed",
+      "pants",
+      "crawling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "A dog is standing on the other side of the room, looking at the baby.",
+    "objects": [
+      "other",
+      "dog",
+      "side",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A dog is standing on the other side of the room, looking at the baby.",
+    "objects": [
+      "other",
+      "dog",
+      "side",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A dog is standing on the other side of the room, looking at the baby.",
+    "objects": [
+      "other",
+      "dog",
+      "side",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A dog is standing on the other side of the room, looking at the baby.",
+    "objects": [
+      "other",
+      "dog",
+      "side",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "A dog is standing on the other side of the room, looking at the baby.",
+    "objects": [
+      "other",
+      "dog",
+      "side",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The dog is wearing a collar.",
+    "objects": [
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The dog is wearing a collar.",
+    "objects": [
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog is wearing a collar.",
+    "objects": [
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog is wearing a collar.",
+    "objects": [
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The dog is wearing a collar.",
+    "objects": [
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby reaches out with one hand towards the dog, and the dog moves closer to the baby.",
+    "objects": [
+      "one",
+      "closer",
+      "out",
+      "dog",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "moves",
+      "reaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby reaches out with one hand towards the dog, and the dog moves closer to the baby.",
+    "objects": [
+      "one",
+      "closer",
+      "out",
+      "dog",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "moves",
+      "reaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby reaches out with one hand towards the dog, and the dog moves closer to the baby.",
+    "objects": [
+      "one",
+      "closer",
+      "out",
+      "dog",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "moves",
+      "reaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The baby reaches out with one hand towards the dog, and the dog moves closer to the baby.",
+    "objects": [
+      "one",
+      "closer",
+      "out",
+      "dog",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "moves",
+      "reaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The baby reaches out with one hand towards the dog, and the dog moves closer to the baby.",
+    "objects": [
+      "one",
+      "closer",
+      "out",
+      "dog",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "moves",
+      "reaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The baby then moves his hand up towards the dog's nose, and the dog nuzzles the baby's hand.",
+    "objects": [
+      "nose",
+      "then",
+      "dog",
+      "his",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "baby's",
+      "nuzzles",
+      "dog's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The baby then moves his hand up towards the dog's nose, and the dog nuzzles the baby's hand.",
+    "objects": [
+      "nose",
+      "then",
+      "dog",
+      "his",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "baby's",
+      "nuzzles",
+      "dog's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The baby then moves his hand up towards the dog's nose, and the dog nuzzles the baby's hand.",
+    "objects": [
+      "nose",
+      "then",
+      "dog",
+      "his",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "baby's",
+      "nuzzles",
+      "dog's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby then moves his hand up towards the dog's nose, and the dog nuzzles the baby's hand.",
+    "objects": [
+      "nose",
+      "then",
+      "dog",
+      "his",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "baby's",
+      "nuzzles",
+      "dog's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The baby then moves his hand up towards the dog's nose, and the dog nuzzles the baby's hand.",
+    "objects": [
+      "nose",
+      "then",
+      "dog",
+      "his",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "baby's",
+      "nuzzles",
+      "dog's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The baby is smiling at the camera while the dog seems to be curious.",
+    "objects": [
+      "while",
+      "dog",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "curious",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The baby is smiling at the camera while the dog seems to be curious.",
+    "objects": [
+      "while",
+      "dog",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "curious",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The baby is smiling at the camera while the dog seems to be curious.",
+    "objects": [
+      "while",
+      "dog",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "curious",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The baby is smiling at the camera while the dog seems to be curious.",
+    "objects": [
+      "while",
+      "dog",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "curious",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The baby is smiling at the camera while the dog seems to be curious.",
+    "objects": [
+      "while",
+      "dog",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "curious",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby crawls closer to the dog and reaches out with his hand.",
+    "objects": [
+      "closer",
+      "out",
+      "dog",
+      "his",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "crawls",
+      "reaches"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby crawls closer to the dog and reaches out with his hand.",
+    "objects": [
+      "closer",
+      "out",
+      "dog",
+      "his",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "crawls",
+      "reaches"
+    ],
+    "segment_id": 6
+  }
+]

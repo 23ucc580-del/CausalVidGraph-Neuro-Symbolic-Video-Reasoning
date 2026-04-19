@@ -1,0 +1,632 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a close-up shot of a person's hand holding a piece of bread, which is then seen being held up to their face.",
+    "objects": [
+      "hand",
+      "which",
+      "held",
+      "bread",
+      "their",
+      "piece",
+      "face",
+      "then"
+    ],
+    "actions": [
+      "being",
+      "opens",
+      "holding",
+      "person's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a close-up shot of a person's hand holding a piece of bread, which is then seen being held up to their face.",
+    "objects": [
+      "hand",
+      "which",
+      "held",
+      "bread",
+      "their",
+      "piece",
+      "face",
+      "then"
+    ],
+    "actions": [
+      "being",
+      "opens",
+      "holding",
+      "person's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The camera then shifts to show a woman sitting at a dining table, seemingly engrossed in reading a book.",
+    "objects": [
+      "show",
+      "book",
+      "table",
+      "seemingly",
+      "woman",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "dining",
+      "sitting",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The camera then shifts to show a woman sitting at a dining table, seemingly engrossed in reading a book.",
+    "objects": [
+      "show",
+      "book",
+      "table",
+      "seemingly",
+      "woman",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "dining",
+      "sitting",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a red blouse and a skirt, and is holding a glass of wine in her hand.",
+    "objects": [
+      "hand",
+      "wine",
+      "her",
+      "skirt",
+      "blouse",
+      "glass",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a red blouse and a skirt, and is holding a glass of wine in her hand.",
+    "objects": [
+      "hand",
+      "wine",
+      "her",
+      "skirt",
+      "blouse",
+      "glass",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "Another woman, standing behind her, is wearing a red sweater and holding a bottle of wine.",
+    "objects": [
+      "sweater",
+      "wine",
+      "her",
+      "behind",
+      "woman",
+      "bottle"
+    ],
+    "actions": [
+      "holding",
+      "wearing",
+      "red",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "Another woman, standing behind her, is wearing a red sweater and holding a bottle of wine.",
+    "objects": [
+      "sweater",
+      "wine",
+      "her",
+      "behind",
+      "woman",
+      "bottle"
+    ],
+    "actions": [
+      "holding",
+      "wearing",
+      "red",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The first woman is holding a piece of bread to her face, and it appears as if she is eating or smelling it.",
+    "objects": [
+      "her",
+      "bread",
+      "piece",
+      "face",
+      "woman",
+      "first",
+      "she"
+    ],
+    "actions": [
+      "eating",
+      "smelling",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The first woman is holding a piece of bread to her face, and it appears as if she is eating or smelling it.",
+    "objects": [
+      "her",
+      "bread",
+      "piece",
+      "face",
+      "woman",
+      "first",
+      "she"
+    ],
+    "actions": [
+      "eating",
+      "smelling",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then pans to show the first woman sitting at the dining table, and she is reading a book.",
+    "objects": [
+      "pans",
+      "show",
+      "book",
+      "table",
+      "woman",
+      "first",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "dining",
+      "sitting",
+      "reading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then pans to show the first woman sitting at the dining table, and she is reading a book.",
+    "objects": [
+      "pans",
+      "show",
+      "book",
+      "table",
+      "woman",
+      "first",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "dining",
+      "sitting",
+      "reading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The second woman, who is standing, is holding a bottle of wine and a glass of wine, seemingly engaged in a conversation with the first woman who is sitting.",
+    "objects": [
+      "wine",
+      "conversation",
+      "first",
+      "glass",
+      "seemingly",
+      "second",
+      "woman",
+      "who"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The second woman, who is standing, is holding a bottle of wine and a glass of wine, seemingly engaged in a conversation with the first woman who is sitting.",
+    "objects": [
+      "wine",
+      "conversation",
+      "first",
+      "glass",
+      "seemingly",
+      "second",
+      "woman",
+      "who"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then pans to the first woman again, who is looking down at her book.",
+    "objects": [
+      "her",
+      "again",
+      "who",
+      "pans",
+      "book",
+      "woman",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then pans to the first woman again, who is looking down at her book.",
+    "objects": [
+      "her",
+      "again",
+      "who",
+      "pans",
+      "book",
+      "woman",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then shows the second woman, who is looking down at her phone, and the first woman is still sitting at the table, reading her book.",
+    "objects": [
+      "phone",
+      "her",
+      "book",
+      "first",
+      "table",
+      "still",
+      "second",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "reading",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then shows the second woman, who is looking down at her phone, and the first woman is still sitting at the table, reading her book.",
+    "objects": [
+      "phone",
+      "her",
+      "book",
+      "first",
+      "table",
+      "still",
+      "second",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "reading",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then pans back to the first woman, who is still reading her book, and the second woman, who is holding a glass of wine and a bottle of wine, seems to be in a conversation with the first woman.",
+    "objects": [
+      "wine",
+      "her",
+      "conversation",
+      "who",
+      "pans",
+      "book",
+      "glass",
+      "still"
+    ],
+    "actions": [
+      "reading",
+      "holding",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then pans back to the first woman, who is still reading her book, and the second woman, who is holding a glass of wine and a bottle of wine, seems to be in a conversation with the first woman.",
+    "objects": [
+      "wine",
+      "her",
+      "conversation",
+      "who",
+      "pans",
+      "book",
+      "glass",
+      "still"
+    ],
+    "actions": [
+      "reading",
+      "holding",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then pans back to the first woman, who is smiling and holding a piece of bread to her face.",
+    "objects": [
+      "her",
+      "who",
+      "pans",
+      "bread",
+      "piece",
+      "face",
+      "woman",
+      "first"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then pans back to the first woman, who is smiling and holding a piece of bread to her face.",
+    "objects": [
+      "her",
+      "who",
+      "pans",
+      "bread",
+      "piece",
+      "face",
+      "woman",
+      "first"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then changes to the first woman sitting at the dining table, holding a glass of wine and a piece of bread, and the second woman is holding a bottle of wine and a glass of wine, seemingly engaged in a conversation with the first woman.",
+    "objects": [
+      "wine",
+      "conversation",
+      "bread",
+      "glass",
+      "table",
+      "piece",
+      "seemingly",
+      "second"
+    ],
+    "actions": [
+      "changes",
+      "dining",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then changes to the first woman sitting at the dining table, holding a glass of wine and a piece of bread, and the second woman is holding a bottle of wine and a glass of wine, seemingly engaged in a conversation with the first woman.",
+    "objects": [
+      "wine",
+      "conversation",
+      "bread",
+      "glass",
+      "table",
+      "piece",
+      "seemingly",
+      "second"
+    ],
+    "actions": [
+      "changes",
+      "dining",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene then shifts back to the first woman, who is smiling and holding a piece of bread to her face.",
+    "objects": [
+      "her",
+      "bread",
+      "first",
+      "piece",
+      "face",
+      "woman",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "smiling",
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene then shifts back to the first woman, who is smiling and holding a piece of bread to her face.",
+    "objects": [
+      "her",
+      "bread",
+      "first",
+      "piece",
+      "face",
+      "woman",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "smiling",
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then pans back to the second woman, who is smiling and holding a glass of wine and a bottle of wine, engaged in a conversation with the first woman.",
+    "objects": [
+      "wine",
+      "conversation",
+      "pans",
+      "first",
+      "glass",
+      "second",
+      "woman",
+      "who"
+    ],
+    "actions": [
+      "smiling",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then pans back to the second woman, who is smiling and holding a glass of wine and a bottle of wine, engaged in a conversation with the first woman.",
+    "objects": [
+      "wine",
+      "conversation",
+      "pans",
+      "first",
+      "glass",
+      "second",
+      "woman",
+      "who"
+    ],
+    "actions": [
+      "smiling",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then pans back to the first woman, who is holding a piece of bread to her face and smiling.",
+    "objects": [
+      "her",
+      "who",
+      "pans",
+      "bread",
+      "piece",
+      "face",
+      "woman",
+      "first"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then pans back to the first woman, who is holding a piece of bread to her face and smiling.",
+    "objects": [
+      "her",
+      "who",
+      "pans",
+      "bread",
+      "piece",
+      "face",
+      "woman",
+      "first"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene then shifts to the second woman, who is holding a glass of wine and a bottle of wine, seemingly engaged in a conversation with the first woman.",
+    "objects": [
+      "wine",
+      "conversation",
+      "first",
+      "glass",
+      "seemingly",
+      "second",
+      "woman",
+      "who"
+    ],
+    "actions": [
+      "shifts",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene then shifts to the second woman, who is holding a glass of wine and a bottle of wine, seemingly engaged in a conversation with the first woman.",
+    "objects": [
+      "wine",
+      "conversation",
+      "first",
+      "glass",
+      "seemingly",
+      "second",
+      "woman",
+      "who"
+    ],
+    "actions": [
+      "shifts",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 15
+  }
+]

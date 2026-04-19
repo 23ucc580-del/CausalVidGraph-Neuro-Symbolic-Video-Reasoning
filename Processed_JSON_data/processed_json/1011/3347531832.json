@@ -1,0 +1,583 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of four artists immersed in their creative process, painting on canvas with brushes in hand.",
+    "objects": [
+      "their",
+      "creative",
+      "see",
+      "hand",
+      "four",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "painting",
+      "canvas",
+      "brushes",
+      "artists"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of four artists immersed in their creative process, painting on canvas with brushes in hand.",
+    "objects": [
+      "their",
+      "creative",
+      "see",
+      "hand",
+      "four",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "painting",
+      "canvas",
+      "brushes",
+      "artists"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of four artists immersed in their creative process, painting on canvas with brushes in hand.",
+    "objects": [
+      "their",
+      "creative",
+      "see",
+      "hand",
+      "four",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "painting",
+      "canvas",
+      "brushes",
+      "artists"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "Two of them are standing while the other two are seated on the floor, each engrossed in their own artwork.",
+    "objects": [
+      "their",
+      "other",
+      "each",
+      "own",
+      "two",
+      "while",
+      "them",
+      "floor"
+    ],
+    "actions": [
+      "standing",
+      "seated",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Two of them are standing while the other two are seated on the floor, each engrossed in their own artwork.",
+    "objects": [
+      "their",
+      "other",
+      "each",
+      "own",
+      "two",
+      "while",
+      "them",
+      "floor"
+    ],
+    "actions": [
+      "standing",
+      "seated",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two of them are standing while the other two are seated on the floor, each engrossed in their own artwork.",
+    "objects": [
+      "their",
+      "other",
+      "each",
+      "own",
+      "two",
+      "while",
+      "them",
+      "floor"
+    ],
+    "actions": [
+      "standing",
+      "seated",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The room they're in appears to be a studio or a workspace, filled with various art supplies scattered around.",
+    "objects": [
+      "workspace",
+      "around",
+      "room",
+      "art",
+      "studio"
+    ],
+    "actions": [
+      "filled",
+      "supplies",
+      "scattered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The room they're in appears to be a studio or a workspace, filled with various art supplies scattered around.",
+    "objects": [
+      "workspace",
+      "around",
+      "room",
+      "art",
+      "studio"
+    ],
+    "actions": [
+      "filled",
+      "supplies",
+      "scattered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The room they're in appears to be a studio or a workspace, filled with various art supplies scattered around.",
+    "objects": [
+      "workspace",
+      "around",
+      "room",
+      "art",
+      "studio"
+    ],
+    "actions": [
+      "filled",
+      "supplies",
+      "scattered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "On the left, a person in a white shirt is standing, holding a brush and working on a painting.",
+    "objects": [
+      "brush",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "painting",
+      "standing",
+      "holding",
+      "working"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "On the left, a person in a white shirt is standing, holding a brush and working on a painting.",
+    "objects": [
+      "brush",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "painting",
+      "standing",
+      "holding",
+      "working"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "On the left, a person in a white shirt is standing, holding a brush and working on a painting.",
+    "objects": [
+      "brush",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "painting",
+      "standing",
+      "holding",
+      "working"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "They are wearing a blue hat and seem to be concentrating on their artwork.",
+    "objects": [
+      "they",
+      "their",
+      "blue",
+      "hat",
+      "seem",
+      "artwork"
+    ],
+    "actions": [
+      "wearing",
+      "concentrating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "They are wearing a blue hat and seem to be concentrating on their artwork.",
+    "objects": [
+      "they",
+      "their",
+      "blue",
+      "hat",
+      "seem",
+      "artwork"
+    ],
+    "actions": [
+      "wearing",
+      "concentrating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "They are wearing a blue hat and seem to be concentrating on their artwork.",
+    "objects": [
+      "they",
+      "their",
+      "blue",
+      "hat",
+      "seem",
+      "artwork"
+    ],
+    "actions": [
+      "wearing",
+      "concentrating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Next to them, a person in a blue hoodie is also standing, brush in hand, adding to their creation.",
+    "objects": [
+      "their",
+      "creation",
+      "blue",
+      "them",
+      "hoodie",
+      "brush",
+      "hand"
+    ],
+    "actions": [
+      "adding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Next to them, a person in a blue hoodie is also standing, brush in hand, adding to their creation.",
+    "objects": [
+      "their",
+      "creation",
+      "blue",
+      "them",
+      "hoodie",
+      "brush",
+      "hand"
+    ],
+    "actions": [
+      "adding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Next to them, a person in a blue hoodie is also standing, brush in hand, adding to their creation.",
+    "objects": [
+      "their",
+      "creation",
+      "blue",
+      "them",
+      "hoodie",
+      "brush",
+      "hand"
+    ],
+    "actions": [
+      "adding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "On the right, a person in a white shirt is sitting on the floor, deeply focused on their artwork.",
+    "objects": [
+      "their",
+      "white",
+      "shirt",
+      "deeply",
+      "floor",
+      "artwork"
+    ],
+    "actions": [
+      "sitting",
+      "focused"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "On the right, a person in a white shirt is sitting on the floor, deeply focused on their artwork.",
+    "objects": [
+      "their",
+      "white",
+      "shirt",
+      "deeply",
+      "floor",
+      "artwork"
+    ],
+    "actions": [
+      "sitting",
+      "focused"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "On the right, a person in a white shirt is sitting on the floor, deeply focused on their artwork.",
+    "objects": [
+      "their",
+      "white",
+      "shirt",
+      "deeply",
+      "floor",
+      "artwork"
+    ],
+    "actions": [
+      "sitting",
+      "focused"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "They are wearing a black hat and appear to be engrossed in their painting.",
+    "objects": [
+      "they",
+      "their",
+      "appear",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "painting",
+      "engrossed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "They are wearing a black hat and appear to be engrossed in their painting.",
+    "objects": [
+      "they",
+      "their",
+      "appear",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "painting",
+      "engrossed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "They are wearing a black hat and appear to be engrossed in their painting.",
+    "objects": [
+      "they",
+      "their",
+      "appear",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "painting",
+      "engrossed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Adjacent to them, another person in a white shirt is also sitting on the floor, their brush poised to continue their work.",
+    "objects": [
+      "their",
+      "white",
+      "continue",
+      "shirt",
+      "adjacent",
+      "work",
+      "them",
+      "brush"
+    ],
+    "actions": [
+      "sitting",
+      "poised"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Adjacent to them, another person in a white shirt is also sitting on the floor, their brush poised to continue their work.",
+    "objects": [
+      "their",
+      "white",
+      "continue",
+      "shirt",
+      "adjacent",
+      "work",
+      "them",
+      "brush"
+    ],
+    "actions": [
+      "sitting",
+      "poised"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Adjacent to them, another person in a white shirt is also sitting on the floor, their brush poised to continue their work.",
+    "objects": [
+      "their",
+      "white",
+      "continue",
+      "shirt",
+      "adjacent",
+      "work",
+      "them",
+      "brush"
+    ],
+    "actions": [
+      "sitting",
+      "poised"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The artists are surrounded by a colorful array of paintings and drawings, some on the walls and others on the floor, creating a vibrant and dynamic atmosphere.",
+    "objects": [
+      "array",
+      "vibrant",
+      "some",
+      "atmosphere",
+      "colorful",
+      "floor",
+      "dynamic"
+    ],
+    "actions": [
+      "surrounded",
+      "others",
+      "walls",
+      "drawings"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The artists are surrounded by a colorful array of paintings and drawings, some on the walls and others on the floor, creating a vibrant and dynamic atmosphere.",
+    "objects": [
+      "array",
+      "vibrant",
+      "some",
+      "atmosphere",
+      "colorful",
+      "floor",
+      "dynamic"
+    ],
+    "actions": [
+      "surrounded",
+      "others",
+      "walls",
+      "drawings"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The artists are surrounded by a colorful array of paintings and drawings, some on the walls and others on the floor, creating a vibrant and dynamic atmosphere.",
+    "objects": [
+      "array",
+      "vibrant",
+      "some",
+      "atmosphere",
+      "colorful",
+      "floor",
+      "dynamic"
+    ],
+    "actions": [
+      "surrounded",
+      "others",
+      "walls",
+      "drawings"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is one of creation and focus, with each artist absorbed in their unique style and vision.",
+    "objects": [
+      "one",
+      "artist",
+      "their",
+      "each",
+      "creation",
+      "style",
+      "vision",
+      "unique"
+    ],
+    "actions": [
+      "absorbed",
+      "focus"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is one of creation and focus, with each artist absorbed in their unique style and vision.",
+    "objects": [
+      "one",
+      "artist",
+      "their",
+      "each",
+      "creation",
+      "style",
+      "vision",
+      "unique"
+    ],
+    "actions": [
+      "absorbed",
+      "focus"
+    ],
+    "segment_id": 10
+  }
+]

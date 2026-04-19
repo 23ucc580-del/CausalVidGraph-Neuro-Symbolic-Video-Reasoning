@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a young girl wearing a blue hoodie and white helmet, standing next to a brown horse.",
+    "objects": [
+      "white",
+      "blue",
+      "horse",
+      "helmet",
+      "brown",
+      "young",
+      "girl",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a young girl wearing a blue hoodie and white helmet, standing next to a brown horse.",
+    "objects": [
+      "white",
+      "blue",
+      "horse",
+      "helmet",
+      "brown",
+      "young",
+      "girl",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a young girl wearing a blue hoodie and white helmet, standing next to a brown horse.",
+    "objects": [
+      "white",
+      "blue",
+      "horse",
+      "helmet",
+      "brown",
+      "young",
+      "girl",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a young girl wearing a blue hoodie and white helmet, standing next to a brown horse.",
+    "objects": [
+      "white",
+      "blue",
+      "horse",
+      "helmet",
+      "brown",
+      "young",
+      "girl",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a young girl wearing a blue hoodie and white helmet, standing next to a brown horse.",
+    "objects": [
+      "white",
+      "blue",
+      "horse",
+      "helmet",
+      "brown",
+      "young",
+      "girl",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The girl is holding the reins of the horse and seems to be talking to it.",
+    "objects": [
+      "girl",
+      "horse"
+    ],
+    "actions": [
+      "talking",
+      "holding",
+      "reins",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The girl is holding the reins of the horse and seems to be talking to it.",
+    "objects": [
+      "girl",
+      "horse"
+    ],
+    "actions": [
+      "talking",
+      "holding",
+      "reins",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The girl is holding the reins of the horse and seems to be talking to it.",
+    "objects": [
+      "girl",
+      "horse"
+    ],
+    "actions": [
+      "talking",
+      "holding",
+      "reins",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The girl is holding the reins of the horse and seems to be talking to it.",
+    "objects": [
+      "girl",
+      "horse"
+    ],
+    "actions": [
+      "talking",
+      "holding",
+      "reins",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The girl is holding the reins of the horse and seems to be talking to it.",
+    "objects": [
+      "girl",
+      "horse"
+    ],
+    "actions": [
+      "talking",
+      "holding",
+      "reins",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The horse is standing in a fenced-in area, and both the girl and the horse are wearing saddles.",
+    "objects": [
+      "girl",
+      "area",
+      "horse",
+      "both"
+    ],
+    "actions": [
+      "saddles",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The horse is standing in a fenced-in area, and both the girl and the horse are wearing saddles.",
+    "objects": [
+      "girl",
+      "area",
+      "horse",
+      "both"
+    ],
+    "actions": [
+      "saddles",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The horse is standing in a fenced-in area, and both the girl and the horse are wearing saddles.",
+    "objects": [
+      "girl",
+      "area",
+      "horse",
+      "both"
+    ],
+    "actions": [
+      "saddles",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The horse is standing in a fenced-in area, and both the girl and the horse are wearing saddles.",
+    "objects": [
+      "girl",
+      "area",
+      "horse",
+      "both"
+    ],
+    "actions": [
+      "saddles",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The horse is standing in a fenced-in area, and both the girl and the horse are wearing saddles.",
+    "objects": [
+      "girl",
+      "area",
+      "horse",
+      "both"
+    ],
+    "actions": [
+      "saddles",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The girl is also wearing blue jeans and brown boots, while the horse is wearing a bridle and a saddle.",
+    "objects": [
+      "blue",
+      "saddle",
+      "horse",
+      "while",
+      "girl",
+      "bridle",
+      "brown"
+    ],
+    "actions": [
+      "jeans",
+      "boots",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The girl is also wearing blue jeans and brown boots, while the horse is wearing a bridle and a saddle.",
+    "objects": [
+      "blue",
+      "saddle",
+      "horse",
+      "while",
+      "girl",
+      "bridle",
+      "brown"
+    ],
+    "actions": [
+      "jeans",
+      "boots",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The girl is also wearing blue jeans and brown boots, while the horse is wearing a bridle and a saddle.",
+    "objects": [
+      "blue",
+      "saddle",
+      "horse",
+      "while",
+      "girl",
+      "bridle",
+      "brown"
+    ],
+    "actions": [
+      "jeans",
+      "boots",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The girl is also wearing blue jeans and brown boots, while the horse is wearing a bridle and a saddle.",
+    "objects": [
+      "blue",
+      "saddle",
+      "horse",
+      "while",
+      "girl",
+      "bridle",
+      "brown"
+    ],
+    "actions": [
+      "jeans",
+      "boots",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The girl is also wearing blue jeans and brown boots, while the horse is wearing a bridle and a saddle.",
+    "objects": [
+      "blue",
+      "saddle",
+      "horse",
+      "while",
+      "girl",
+      "bridle",
+      "brown"
+    ],
+    "actions": [
+      "jeans",
+      "boots",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The girl is petting the horse's neck, which seems to be a soothing gesture.",
+    "objects": [
+      "neck",
+      "girl",
+      "which",
+      "gesture"
+    ],
+    "actions": [
+      "horse's",
+      "soothing",
+      "petting",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The girl is petting the horse's neck, which seems to be a soothing gesture.",
+    "objects": [
+      "neck",
+      "girl",
+      "which",
+      "gesture"
+    ],
+    "actions": [
+      "horse's",
+      "soothing",
+      "petting",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The girl is petting the horse's neck, which seems to be a soothing gesture.",
+    "objects": [
+      "neck",
+      "girl",
+      "which",
+      "gesture"
+    ],
+    "actions": [
+      "horse's",
+      "soothing",
+      "petting",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The girl is petting the horse's neck, which seems to be a soothing gesture.",
+    "objects": [
+      "neck",
+      "girl",
+      "which",
+      "gesture"
+    ],
+    "actions": [
+      "horse's",
+      "soothing",
+      "petting",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The girl is petting the horse's neck, which seems to be a soothing gesture.",
+    "objects": [
+      "neck",
+      "girl",
+      "which",
+      "gesture"
+    ],
+    "actions": [
+      "horse's",
+      "soothing",
+      "petting",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The horse is standing calm and is looking at the girl.",
+    "objects": [
+      "girl",
+      "calm",
+      "horse"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The horse is standing calm and is looking at the girl.",
+    "objects": [
+      "girl",
+      "calm",
+      "horse"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The horse is standing calm and is looking at the girl.",
+    "objects": [
+      "girl",
+      "calm",
+      "horse"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The horse is standing calm and is looking at the girl.",
+    "objects": [
+      "girl",
+      "calm",
+      "horse"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The horse is standing calm and is looking at the girl.",
+    "objects": [
+      "girl",
+      "calm",
+      "horse"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The background of the video shows a fenced-in area with trees, suggesting that this might be a countryside or equestrian setting.",
+    "objects": [
+      "equestrian",
+      "countryside",
+      "this",
+      "that",
+      "might",
+      "area"
+    ],
+    "actions": [
+      "setting",
+      "trees",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The background of the video shows a fenced-in area with trees, suggesting that this might be a countryside or equestrian setting.",
+    "objects": [
+      "equestrian",
+      "countryside",
+      "this",
+      "that",
+      "might",
+      "area"
+    ],
+    "actions": [
+      "setting",
+      "trees",
+      "suggesting"
+    ],
+    "segment_id": 6
+  }
+]

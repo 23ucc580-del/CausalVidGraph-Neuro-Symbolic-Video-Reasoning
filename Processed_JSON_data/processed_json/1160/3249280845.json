@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively musical performance by a group of people on a stage.",
+    "objects": [
+      "musical",
+      "stage",
+      "performance",
+      "people",
+      "lively",
+      "group"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively musical performance by a group of people on a stage.",
+    "objects": [
+      "musical",
+      "stage",
+      "performance",
+      "people",
+      "lively",
+      "group"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively musical performance by a group of people on a stage.",
+    "objects": [
+      "musical",
+      "stage",
+      "performance",
+      "people",
+      "lively",
+      "group"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively musical performance by a group of people on a stage.",
+    "objects": [
+      "musical",
+      "stage",
+      "performance",
+      "people",
+      "lively",
+      "group"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The performers are dressed in a mix of casual and formal attire, with some wearing t-shirts and jeans, while others are in suits and ties.",
+    "objects": [
+      "while",
+      "casual",
+      "mix",
+      "formal",
+      "attire",
+      "some",
+      "ties"
+    ],
+    "actions": [
+      "others",
+      "dressed",
+      "suits",
+      "t-shirts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The performers are dressed in a mix of casual and formal attire, with some wearing t-shirts and jeans, while others are in suits and ties.",
+    "objects": [
+      "while",
+      "casual",
+      "mix",
+      "formal",
+      "attire",
+      "some",
+      "ties"
+    ],
+    "actions": [
+      "others",
+      "dressed",
+      "suits",
+      "t-shirts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The performers are dressed in a mix of casual and formal attire, with some wearing t-shirts and jeans, while others are in suits and ties.",
+    "objects": [
+      "while",
+      "casual",
+      "mix",
+      "formal",
+      "attire",
+      "some",
+      "ties"
+    ],
+    "actions": [
+      "others",
+      "dressed",
+      "suits",
+      "t-shirts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The performers are dressed in a mix of casual and formal attire, with some wearing t-shirts and jeans, while others are in suits and ties.",
+    "objects": [
+      "while",
+      "casual",
+      "mix",
+      "formal",
+      "attire",
+      "some",
+      "ties"
+    ],
+    "actions": [
+      "others",
+      "dressed",
+      "suits",
+      "t-shirts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The setting is dimly lit with stage lights, creating a moody and atmospheric ambiance.",
+    "objects": [
+      "dimly",
+      "atmospheric",
+      "moody",
+      "stage",
+      "ambiance",
+      "lit"
+    ],
+    "actions": [
+      "setting",
+      "lights",
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The setting is dimly lit with stage lights, creating a moody and atmospheric ambiance.",
+    "objects": [
+      "dimly",
+      "atmospheric",
+      "moody",
+      "stage",
+      "ambiance",
+      "lit"
+    ],
+    "actions": [
+      "setting",
+      "lights",
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The setting is dimly lit with stage lights, creating a moody and atmospheric ambiance.",
+    "objects": [
+      "dimly",
+      "atmospheric",
+      "moody",
+      "stage",
+      "ambiance",
+      "lit"
+    ],
+    "actions": [
+      "setting",
+      "lights",
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The setting is dimly lit with stage lights, creating a moody and atmospheric ambiance.",
+    "objects": [
+      "dimly",
+      "atmospheric",
+      "moody",
+      "stage",
+      "ambiance",
+      "lit"
+    ],
+    "actions": [
+      "setting",
+      "lights",
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The band is playing various instruments, including guitars, drums, and keyboards, with a microphone and a lighting stand visible in the background.",
+    "objects": [
+      "microphone",
+      "band",
+      "stand"
+    ],
+    "actions": [
+      "instruments",
+      "keyboards",
+      "drums",
+      "lighting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The band is playing various instruments, including guitars, drums, and keyboards, with a microphone and a lighting stand visible in the background.",
+    "objects": [
+      "microphone",
+      "band",
+      "stand"
+    ],
+    "actions": [
+      "instruments",
+      "keyboards",
+      "drums",
+      "lighting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The band is playing various instruments, including guitars, drums, and keyboards, with a microphone and a lighting stand visible in the background.",
+    "objects": [
+      "microphone",
+      "band",
+      "stand"
+    ],
+    "actions": [
+      "instruments",
+      "keyboards",
+      "drums",
+      "lighting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The band is playing various instruments, including guitars, drums, and keyboards, with a microphone and a lighting stand visible in the background.",
+    "objects": [
+      "microphone",
+      "band",
+      "stand"
+    ],
+    "actions": [
+      "instruments",
+      "keyboards",
+      "drums",
+      "lighting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a white dress is dancing, and a man in a suit is playing the drums.",
+    "objects": [
+      "white",
+      "suit",
+      "man",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "drums",
+      "dancing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a white dress is dancing, and a man in a suit is playing the drums.",
+    "objects": [
+      "white",
+      "suit",
+      "man",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "drums",
+      "dancing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman in a white dress is dancing, and a man in a suit is playing the drums.",
+    "objects": [
+      "white",
+      "suit",
+      "man",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "drums",
+      "dancing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman in a white dress is dancing, and a man in a suit is playing the drums.",
+    "objects": [
+      "white",
+      "suit",
+      "man",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "drums",
+      "dancing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Another man in a suit is playing the guitar, and a man in a blue hoodie is singing into the microphone.",
+    "objects": [
+      "blue",
+      "guitar",
+      "suit",
+      "man",
+      "microphone",
+      "hoodie",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Another man in a suit is playing the guitar, and a man in a blue hoodie is singing into the microphone.",
+    "objects": [
+      "blue",
+      "guitar",
+      "suit",
+      "man",
+      "microphone",
+      "hoodie",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Another man in a suit is playing the guitar, and a man in a blue hoodie is singing into the microphone.",
+    "objects": [
+      "blue",
+      "guitar",
+      "suit",
+      "man",
+      "microphone",
+      "hoodie",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Another man in a suit is playing the guitar, and a man in a blue hoodie is singing into the microphone.",
+    "objects": [
+      "blue",
+      "guitar",
+      "suit",
+      "man",
+      "microphone",
+      "hoodie",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman in a white dress is also dancing, and a woman in a black dress is playing the keyboard.",
+    "objects": [
+      "white",
+      "dress",
+      "keyboard",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "dancing",
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman in a white dress is also dancing, and a woman in a black dress is playing the keyboard.",
+    "objects": [
+      "white",
+      "dress",
+      "keyboard",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "dancing",
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A woman in a white dress is also dancing, and a woman in a black dress is playing the keyboard.",
+    "objects": [
+      "white",
+      "dress",
+      "keyboard",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "dancing",
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A woman in a white dress is also dancing, and a woman in a black dress is playing the keyboard.",
+    "objects": [
+      "white",
+      "dress",
+      "keyboard",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "dancing",
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The stage is adorned with large curtains, and the band is performing under a spotlight.",
+    "objects": [
+      "large",
+      "band",
+      "under",
+      "stage",
+      "spotlight"
+    ],
+    "actions": [
+      "adorned",
+      "curtains",
+      "performing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The stage is adorned with large curtains, and the band is performing under a spotlight.",
+    "objects": [
+      "large",
+      "band",
+      "under",
+      "stage",
+      "spotlight"
+    ],
+    "actions": [
+      "adorned",
+      "curtains",
+      "performing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The stage is adorned with large curtains, and the band is performing under a spotlight.",
+    "objects": [
+      "large",
+      "band",
+      "under",
+      "stage",
+      "spotlight"
+    ],
+    "actions": [
+      "adorned",
+      "curtains",
+      "performing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The stage is adorned with large curtains, and the band is performing under a spotlight.",
+    "objects": [
+      "large",
+      "band",
+      "under",
+      "stage",
+      "spotlight"
+    ],
+    "actions": [
+      "adorned",
+      "curtains",
+      "performing"
+    ],
+    "segment_id": 7
+  }
+]

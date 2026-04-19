@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a close-up shot of a brown dog's face, who appears to be a medium-sized breed with a black nose and white patches around its eyes and mouth.",
+    "objects": [
+      "white",
+      "mouth",
+      "around",
+      "its",
+      "black",
+      "eyes",
+      "face",
+      "brown"
+    ],
+    "actions": [
+      "medium-sized",
+      "begins",
+      "breed",
+      "patches"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a close-up shot of a brown dog's face, who appears to be a medium-sized breed with a black nose and white patches around its eyes and mouth.",
+    "objects": [
+      "white",
+      "mouth",
+      "around",
+      "its",
+      "black",
+      "eyes",
+      "face",
+      "brown"
+    ],
+    "actions": [
+      "medium-sized",
+      "begins",
+      "breed",
+      "patches"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The dog is wearing a collar with a red tag.",
+    "objects": [
+      "tag",
+      "collar",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The dog is wearing a collar with a red tag.",
+    "objects": [
+      "tag",
+      "collar",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "In the background, there's a small brown and black cat lying on the ground, facing away from the camera.",
+    "objects": [
+      "ground",
+      "small",
+      "away",
+      "cat",
+      "from",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "facing",
+      "there's",
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "In the background, there's a small brown and black cat lying on the ground, facing away from the camera.",
+    "objects": [
+      "ground",
+      "small",
+      "away",
+      "cat",
+      "from",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "facing",
+      "there's",
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene is set on a green lawn, and a white house with a white fence can be seen in the distance.",
+    "objects": [
+      "white",
+      "fence",
+      "green",
+      "can",
+      "set",
+      "lawn",
+      "house",
+      "distance"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene is set on a green lawn, and a white house with a white fence can be seen in the distance.",
+    "objects": [
+      "white",
+      "fence",
+      "green",
+      "can",
+      "set",
+      "lawn",
+      "house",
+      "distance"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then shifts to a view of the cat's face, and it's wearing a collar with a blue tag.",
+    "objects": [
+      "tag",
+      "collar",
+      "blue",
+      "face",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "cat's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then shifts to a view of the cat's face, and it's wearing a collar with a blue tag.",
+    "objects": [
+      "tag",
+      "collar",
+      "blue",
+      "face",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "cat's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The cat is lying on its back, paw raised in the air, as if in a playful or curious pose.",
+    "objects": [
+      "playful",
+      "pose",
+      "its",
+      "paw",
+      "air",
+      "cat"
+    ],
+    "actions": [
+      "curious",
+      "lying",
+      "raised"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The cat is lying on its back, paw raised in the air, as if in a playful or curious pose.",
+    "objects": [
+      "playful",
+      "pose",
+      "its",
+      "paw",
+      "air",
+      "cat"
+    ],
+    "actions": [
+      "curious",
+      "lying",
+      "raised"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog is now visible in the foreground, and it's standing up, attentively watching the cat, possibly showing curiosity or playfulness.",
+    "objects": [
+      "attentively",
+      "curiosity",
+      "now",
+      "dog",
+      "cat",
+      "possibly"
+    ],
+    "actions": [
+      "watching",
+      "playfulness",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog is now visible in the foreground, and it's standing up, attentively watching the cat, possibly showing curiosity or playfulness.",
+    "objects": [
+      "attentively",
+      "curiosity",
+      "now",
+      "dog",
+      "cat",
+      "possibly"
+    ],
+    "actions": [
+      "watching",
+      "playfulness",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then shifts to a side view of the dog, and it's wearing a blue collar.",
+    "objects": [
+      "collar",
+      "blue",
+      "side",
+      "dog",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then shifts to a side view of the dog, and it's wearing a blue collar.",
+    "objects": [
+      "collar",
+      "blue",
+      "side",
+      "dog",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The cat is still lying on its back, but is now facing the camera.",
+    "objects": [
+      "its",
+      "but",
+      "now",
+      "cat",
+      "still"
+    ],
+    "actions": [
+      "facing",
+      "lying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The cat is still lying on its back, but is now facing the camera.",
+    "objects": [
+      "its",
+      "but",
+      "now",
+      "cat",
+      "still"
+    ],
+    "actions": [
+      "facing",
+      "lying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The dog is standing up, looking at the cat with a curious or playful expression.",
+    "objects": [
+      "playful",
+      "expression",
+      "dog",
+      "cat"
+    ],
+    "actions": [
+      "curious",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The dog is standing up, looking at the cat with a curious or playful expression.",
+    "objects": [
+      "playful",
+      "expression",
+      "dog",
+      "cat"
+    ],
+    "actions": [
+      "curious",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The cat is now on its feet and facing the dog, possibly responding to the dog's actions.",
+    "objects": [
+      "feet",
+      "its",
+      "now",
+      "dog",
+      "cat",
+      "possibly"
+    ],
+    "actions": [
+      "dog's",
+      "facing",
+      "actions",
+      "responding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The cat is now on its feet and facing the dog, possibly responding to the dog's actions.",
+    "objects": [
+      "feet",
+      "its",
+      "now",
+      "dog",
+      "cat",
+      "possibly"
+    ],
+    "actions": [
+      "dog's",
+      "facing",
+      "actions",
+      "responding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The dog is wearing a red collar, and the cat is wearing a blue collar.",
+    "objects": [
+      "blue",
+      "collar",
+      "dog",
+      "cat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The dog is wearing a red collar, and the cat is wearing a blue collar.",
+    "objects": [
+      "blue",
+      "collar",
+      "dog",
+      "cat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera shifts back to a side view of the dog, and it's lying on its back with its paw raised, possibly in a playful pose or a reaction to the cat's actions.",
+    "objects": [
+      "playful",
+      "pose",
+      "its",
+      "side",
+      "paw",
+      "dog",
+      "reaction",
+      "possibly"
+    ],
+    "actions": [
+      "shifts",
+      "lying",
+      "cat's",
+      "raised"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera shifts back to a side view of the dog, and it's lying on its back with its paw raised, possibly in a playful pose or a reaction to the cat's actions.",
+    "objects": [
+      "playful",
+      "pose",
+      "its",
+      "side",
+      "paw",
+      "dog",
+      "reaction",
+      "possibly"
+    ],
+    "actions": [
+      "shifts",
+      "lying",
+      "cat's",
+      "raised"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The cat is standing up, facing the dog, and appears to be responding to the dog's actions.",
+    "objects": [
+      "dog",
+      "cat"
+    ],
+    "actions": [
+      "actions",
+      "standing",
+      "facing",
+      "dog's"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The cat is standing up, facing the dog, and appears to be responding to the dog's actions.",
+    "objects": [
+      "dog",
+      "cat"
+    ],
+    "actions": [
+      "actions",
+      "standing",
+      "facing",
+      "dog's"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera shifts back to the dog's face, who is standing up, and the cat is lying on its back.",
+    "objects": [
+      "face",
+      "its",
+      "who",
+      "cat"
+    ],
+    "actions": [
+      "dog's",
+      "shifts",
+      "lying",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera shifts back to the dog's face, who is standing up, and the cat is lying on its back.",
+    "objects": [
+      "face",
+      "its",
+      "who",
+      "cat"
+    ],
+    "actions": [
+      "dog's",
+      "shifts",
+      "lying",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The dog's expression is curious or playful, and the cat is looking at the dog.",
+    "objects": [
+      "playful",
+      "expression",
+      "dog",
+      "cat"
+    ],
+    "actions": [
+      "dog's",
+      "curious",
+      "looking"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The dog's expression is curious or playful, and the cat is looking at the dog.",
+    "objects": [
+      "playful",
+      "expression",
+      "dog",
+      "cat"
+    ],
+    "actions": [
+      "dog's",
+      "curious",
+      "looking"
+    ],
+    "segment_id": 15
+  }
+]

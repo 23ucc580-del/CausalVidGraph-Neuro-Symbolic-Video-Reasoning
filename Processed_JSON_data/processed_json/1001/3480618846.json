@@ -1,0 +1,577 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a group of people walking along a narrow pathway surrounded by lush greenery.",
+    "objects": [
+      "along",
+      "greenery",
+      "people",
+      "narrow",
+      "lush",
+      "pathway",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "depicts",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a group of people walking along a narrow pathway surrounded by lush greenery.",
+    "objects": [
+      "along",
+      "greenery",
+      "people",
+      "narrow",
+      "lush",
+      "pathway",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "depicts",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a group of people walking along a narrow pathway surrounded by lush greenery.",
+    "objects": [
+      "along",
+      "greenery",
+      "people",
+      "narrow",
+      "lush",
+      "pathway",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "depicts",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a man dressed in a blue hoodie and blue jeans walking to the left.",
+    "objects": [
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "jeans",
+      "opens",
+      "dressed",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with a man dressed in a blue hoodie and blue jeans walking to the left.",
+    "objects": [
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "jeans",
+      "opens",
+      "dressed",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with a man dressed in a blue hoodie and blue jeans walking to the left.",
+    "objects": [
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "jeans",
+      "opens",
+      "dressed",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is followed by another person in a green jacket walking in the same direction.",
+    "objects": [
+      "jacket",
+      "same",
+      "green",
+      "direction"
+    ],
+    "actions": [
+      "followed",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He is followed by another person in a green jacket walking in the same direction.",
+    "objects": [
+      "jacket",
+      "same",
+      "green",
+      "direction"
+    ],
+    "actions": [
+      "followed",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He is followed by another person in a green jacket walking in the same direction.",
+    "objects": [
+      "jacket",
+      "same",
+      "green",
+      "direction"
+    ],
+    "actions": [
+      "followed",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Then, a woman in a white jacket and black pants appears, also walking in the same direction.",
+    "objects": [
+      "white",
+      "woman",
+      "jacket",
+      "black",
+      "same",
+      "direction",
+      "then"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Then, a woman in a white jacket and black pants appears, also walking in the same direction.",
+    "objects": [
+      "white",
+      "woman",
+      "jacket",
+      "black",
+      "same",
+      "direction",
+      "then"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Then, a woman in a white jacket and black pants appears, also walking in the same direction.",
+    "objects": [
+      "white",
+      "woman",
+      "jacket",
+      "black",
+      "same",
+      "direction",
+      "then"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a white shirt and black pants follows her, followed by a person in a tan shirt and jeans.",
+    "objects": [
+      "white",
+      "tan",
+      "black",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "followed",
+      "jeans",
+      "follows",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a white shirt and black pants follows her, followed by a person in a tan shirt and jeans.",
+    "objects": [
+      "white",
+      "tan",
+      "black",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "followed",
+      "jeans",
+      "follows",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a white shirt and black pants follows her, followed by a person in a tan shirt and jeans.",
+    "objects": [
+      "white",
+      "tan",
+      "black",
+      "shirt",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "followed",
+      "jeans",
+      "follows",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then pans right to reveal a man in a black hoodie and jeans walking in the opposite direction.",
+    "objects": [
+      "reveal",
+      "pans",
+      "black",
+      "hoodie",
+      "direction",
+      "opposite",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then pans right to reveal a man in a black hoodie and jeans walking in the opposite direction.",
+    "objects": [
+      "reveal",
+      "pans",
+      "black",
+      "hoodie",
+      "direction",
+      "opposite",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then pans right to reveal a man in a black hoodie and jeans walking in the opposite direction.",
+    "objects": [
+      "reveal",
+      "pans",
+      "black",
+      "hoodie",
+      "direction",
+      "opposite",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman in a blue jacket and jeans appears and walks in the same direction as the man in blue jeans.",
+    "objects": [
+      "woman",
+      "jacket",
+      "blue",
+      "same",
+      "direction",
+      "man"
+    ],
+    "actions": [
+      "walks",
+      "jeans"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman in a blue jacket and jeans appears and walks in the same direction as the man in blue jeans.",
+    "objects": [
+      "woman",
+      "jacket",
+      "blue",
+      "same",
+      "direction",
+      "man"
+    ],
+    "actions": [
+      "walks",
+      "jeans"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a blue jacket and jeans appears and walks in the same direction as the man in blue jeans.",
+    "objects": [
+      "woman",
+      "jacket",
+      "blue",
+      "same",
+      "direction",
+      "man"
+    ],
+    "actions": [
+      "walks",
+      "jeans"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then pans to the left to show a man in a white shirt and black pants walking in the same direction as the man in the green jacket.",
+    "objects": [
+      "show",
+      "white",
+      "pans",
+      "black",
+      "jacket",
+      "same",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then pans to the left to show a man in a white shirt and black pants walking in the same direction as the man in the green jacket.",
+    "objects": [
+      "show",
+      "white",
+      "pans",
+      "black",
+      "jacket",
+      "same",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then pans to the left to show a man in a white shirt and black pants walking in the same direction as the man in the green jacket.",
+    "objects": [
+      "show",
+      "white",
+      "pans",
+      "black",
+      "jacket",
+      "same",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then pans back to the man in the blue hoodie, who is now walking in the same direction as the woman in the blue jacket.",
+    "objects": [
+      "woman",
+      "pans",
+      "jacket",
+      "blue",
+      "same",
+      "who",
+      "now",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then pans back to the man in the blue hoodie, who is now walking in the same direction as the woman in the blue jacket.",
+    "objects": [
+      "woman",
+      "pans",
+      "jacket",
+      "blue",
+      "same",
+      "who",
+      "now",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then pans back to the man in the blue hoodie, who is now walking in the same direction as the woman in the blue jacket.",
+    "objects": [
+      "woman",
+      "pans",
+      "jacket",
+      "blue",
+      "same",
+      "who",
+      "now",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then pans right to reveal a man in a black jacket and jeans walking in the opposite direction of the man in the white shirt.",
+    "objects": [
+      "white",
+      "reveal",
+      "pans",
+      "black",
+      "jacket",
+      "shirt",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then pans right to reveal a man in a black jacket and jeans walking in the opposite direction of the man in the white shirt.",
+    "objects": [
+      "white",
+      "reveal",
+      "pans",
+      "black",
+      "jacket",
+      "shirt",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then pans right to reveal a man in a black jacket and jeans walking in the opposite direction of the man in the white shirt.",
+    "objects": [
+      "white",
+      "reveal",
+      "pans",
+      "black",
+      "jacket",
+      "shirt",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera then pans back to the man in the white shirt and black pants, who is now walking in the same direction as the man in the black jacket.",
+    "objects": [
+      "white",
+      "pans",
+      "black",
+      "jacket",
+      "same",
+      "shirt",
+      "who",
+      "now"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera then pans back to the man in the white shirt and black pants, who is now walking in the same direction as the man in the black jacket.",
+    "objects": [
+      "white",
+      "pans",
+      "black",
+      "jacket",
+      "same",
+      "shirt",
+      "who",
+      "now"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 10
+  }
+]

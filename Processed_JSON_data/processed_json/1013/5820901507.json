@@ -1,0 +1,562 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a track with multiple lanes, one of which is marked with blue lines and numbers, suggesting it's a designated running track.",
+    "objects": [
+      "one",
+      "track",
+      "blue",
+      "multiple",
+      "which"
+    ],
+    "actions": [
+      "numbers",
+      "lanes",
+      "running",
+      "suggesting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a track with multiple lanes, one of which is marked with blue lines and numbers, suggesting it's a designated running track.",
+    "objects": [
+      "one",
+      "track",
+      "blue",
+      "multiple",
+      "which"
+    ],
+    "actions": [
+      "numbers",
+      "lanes",
+      "running",
+      "suggesting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a track with multiple lanes, one of which is marked with blue lines and numbers, suggesting it's a designated running track.",
+    "objects": [
+      "one",
+      "track",
+      "blue",
+      "multiple",
+      "which"
+    ],
+    "actions": [
+      "numbers",
+      "lanes",
+      "running",
+      "suggesting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video shows a track with multiple lanes, one of which is marked with blue lines and numbers, suggesting it's a designated running track.",
+    "objects": [
+      "one",
+      "track",
+      "blue",
+      "multiple",
+      "which"
+    ],
+    "actions": [
+      "numbers",
+      "lanes",
+      "running",
+      "suggesting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "On this track, two individuals are seen running.",
+    "objects": [
+      "this",
+      "two",
+      "track"
+    ],
+    "actions": [
+      "running",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "On this track, two individuals are seen running.",
+    "objects": [
+      "this",
+      "two",
+      "track"
+    ],
+    "actions": [
+      "running",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "On this track, two individuals are seen running.",
+    "objects": [
+      "this",
+      "two",
+      "track"
+    ],
+    "actions": [
+      "running",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "On this track, two individuals are seen running.",
+    "objects": [
+      "this",
+      "two",
+      "track"
+    ],
+    "actions": [
+      "running",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A young girl is in a red jacket, black shorts, and sneakers, and she is running towards the left side of the frame.",
+    "objects": [
+      "she",
+      "young",
+      "jacket",
+      "black",
+      "side",
+      "girl"
+    ],
+    "actions": [
+      "towards",
+      "running",
+      "red",
+      "sneakers"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A young girl is in a red jacket, black shorts, and sneakers, and she is running towards the left side of the frame.",
+    "objects": [
+      "she",
+      "young",
+      "jacket",
+      "black",
+      "side",
+      "girl"
+    ],
+    "actions": [
+      "towards",
+      "running",
+      "red",
+      "sneakers"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A young girl is in a red jacket, black shorts, and sneakers, and she is running towards the left side of the frame.",
+    "objects": [
+      "she",
+      "young",
+      "jacket",
+      "black",
+      "side",
+      "girl"
+    ],
+    "actions": [
+      "towards",
+      "running",
+      "red",
+      "sneakers"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A young girl is in a red jacket, black shorts, and sneakers, and she is running towards the left side of the frame.",
+    "objects": [
+      "she",
+      "young",
+      "jacket",
+      "black",
+      "side",
+      "girl"
+    ],
+    "actions": [
+      "towards",
+      "running",
+      "red",
+      "sneakers"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another person, wearing a black jacket and a red shirt, is running towards the right side of the frame.",
+    "objects": [
+      "side",
+      "black",
+      "jacket",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "running",
+      "towards",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another person, wearing a black jacket and a red shirt, is running towards the right side of the frame.",
+    "objects": [
+      "side",
+      "black",
+      "jacket",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "running",
+      "towards",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another person, wearing a black jacket and a red shirt, is running towards the right side of the frame.",
+    "objects": [
+      "side",
+      "black",
+      "jacket",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "running",
+      "towards",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another person, wearing a black jacket and a red shirt, is running towards the right side of the frame.",
+    "objects": [
+      "side",
+      "black",
+      "jacket",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "running",
+      "towards",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Both individuals appear to be in good physical shape and are in the middle of a workout, possibly jogging or practicing.",
+    "objects": [
+      "appear",
+      "good",
+      "both",
+      "middle",
+      "possibly",
+      "physical",
+      "shape",
+      "workout"
+    ],
+    "actions": [
+      "practicing",
+      "individuals",
+      "jogging"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Both individuals appear to be in good physical shape and are in the middle of a workout, possibly jogging or practicing.",
+    "objects": [
+      "appear",
+      "good",
+      "both",
+      "middle",
+      "possibly",
+      "physical",
+      "shape",
+      "workout"
+    ],
+    "actions": [
+      "practicing",
+      "individuals",
+      "jogging"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Both individuals appear to be in good physical shape and are in the middle of a workout, possibly jogging or practicing.",
+    "objects": [
+      "appear",
+      "good",
+      "both",
+      "middle",
+      "possibly",
+      "physical",
+      "shape",
+      "workout"
+    ],
+    "actions": [
+      "practicing",
+      "individuals",
+      "jogging"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Both individuals appear to be in good physical shape and are in the middle of a workout, possibly jogging or practicing.",
+    "objects": [
+      "appear",
+      "good",
+      "both",
+      "middle",
+      "possibly",
+      "physical",
+      "shape",
+      "workout"
+    ],
+    "actions": [
+      "practicing",
+      "individuals",
+      "jogging"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The girl in the red jacket is passing the person in the black jacket, who seems to be slightly behind.",
+    "objects": [
+      "behind",
+      "jacket",
+      "black",
+      "who",
+      "girl",
+      "slightly"
+    ],
+    "actions": [
+      "passing",
+      "seems",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The girl in the red jacket is passing the person in the black jacket, who seems to be slightly behind.",
+    "objects": [
+      "behind",
+      "jacket",
+      "black",
+      "who",
+      "girl",
+      "slightly"
+    ],
+    "actions": [
+      "passing",
+      "seems",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The girl in the red jacket is passing the person in the black jacket, who seems to be slightly behind.",
+    "objects": [
+      "behind",
+      "jacket",
+      "black",
+      "who",
+      "girl",
+      "slightly"
+    ],
+    "actions": [
+      "passing",
+      "seems",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The girl in the red jacket is passing the person in the black jacket, who seems to be slightly behind.",
+    "objects": [
+      "behind",
+      "jacket",
+      "black",
+      "who",
+      "girl",
+      "slightly"
+    ],
+    "actions": [
+      "passing",
+      "seems",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The track has stands on both sides, providing seating for spectators.",
+    "objects": [
+      "both",
+      "has",
+      "track"
+    ],
+    "actions": [
+      "sides",
+      "providing",
+      "stands",
+      "spectators"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The track has stands on both sides, providing seating for spectators.",
+    "objects": [
+      "both",
+      "has",
+      "track"
+    ],
+    "actions": [
+      "sides",
+      "providing",
+      "stands",
+      "spectators"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The track has stands on both sides, providing seating for spectators.",
+    "objects": [
+      "both",
+      "has",
+      "track"
+    ],
+    "actions": [
+      "sides",
+      "providing",
+      "stands",
+      "spectators"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The track has stands on both sides, providing seating for spectators.",
+    "objects": [
+      "both",
+      "has",
+      "track"
+    ],
+    "actions": [
+      "sides",
+      "providing",
+      "stands",
+      "spectators"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, there's a green grassy area and a building, possibly a stadium or sports facility.",
+    "objects": [
+      "facility",
+      "possibly",
+      "green",
+      "stadium",
+      "grassy",
+      "area"
+    ],
+    "actions": [
+      "building",
+      "there's",
+      "sports"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, there's a green grassy area and a building, possibly a stadium or sports facility.",
+    "objects": [
+      "facility",
+      "possibly",
+      "green",
+      "stadium",
+      "grassy",
+      "area"
+    ],
+    "actions": [
+      "building",
+      "there's",
+      "sports"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "In the background, there's a green grassy area and a building, possibly a stadium or sports facility.",
+    "objects": [
+      "facility",
+      "possibly",
+      "green",
+      "stadium",
+      "grassy",
+      "area"
+    ],
+    "actions": [
+      "building",
+      "there's",
+      "sports"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "In the background, there's a green grassy area and a building, possibly a stadium or sports facility.",
+    "objects": [
+      "facility",
+      "possibly",
+      "green",
+      "stadium",
+      "grassy",
+      "area"
+    ],
+    "actions": [
+      "building",
+      "there's",
+      "sports"
+    ],
+    "segment_id": 7
+  }
+]

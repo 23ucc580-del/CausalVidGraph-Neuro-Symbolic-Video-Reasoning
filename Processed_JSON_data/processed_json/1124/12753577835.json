@@ -1,0 +1,602 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a lively scene inside a room filled with children's furniture and toys.",
+    "objects": [
+      "room",
+      "toys",
+      "lively",
+      "furniture",
+      "inside",
+      "see"
+    ],
+    "actions": [
+      "filled",
+      "children's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a lively scene inside a room filled with children's furniture and toys.",
+    "objects": [
+      "room",
+      "toys",
+      "lively",
+      "furniture",
+      "inside",
+      "see"
+    ],
+    "actions": [
+      "filled",
+      "children's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a lively scene inside a room filled with children's furniture and toys.",
+    "objects": [
+      "room",
+      "toys",
+      "lively",
+      "furniture",
+      "inside",
+      "see"
+    ],
+    "actions": [
+      "filled",
+      "children's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a lively scene inside a room filled with children's furniture and toys.",
+    "objects": [
+      "room",
+      "toys",
+      "lively",
+      "furniture",
+      "inside",
+      "see"
+    ],
+    "actions": [
+      "filled",
+      "children's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A young boy in a blue hoodie is standing in front of a white door, holding a green balloon.",
+    "objects": [
+      "white",
+      "blue",
+      "green",
+      "door",
+      "young",
+      "balloon",
+      "boy",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A young boy in a blue hoodie is standing in front of a white door, holding a green balloon.",
+    "objects": [
+      "white",
+      "blue",
+      "green",
+      "door",
+      "young",
+      "balloon",
+      "boy",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A young boy in a blue hoodie is standing in front of a white door, holding a green balloon.",
+    "objects": [
+      "white",
+      "blue",
+      "green",
+      "door",
+      "young",
+      "balloon",
+      "boy",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A young boy in a blue hoodie is standing in front of a white door, holding a green balloon.",
+    "objects": [
+      "white",
+      "blue",
+      "green",
+      "door",
+      "young",
+      "balloon",
+      "boy",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He appears to be playing with it, but suddenly breaks away from his balloon-holding and runs towards a girl in a white shirt who is sitting on a chair.",
+    "objects": [
+      "white",
+      "suddenly",
+      "away",
+      "his",
+      "chair",
+      "but",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "balloon-holding",
+      "towards",
+      "sitting",
+      "breaks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He appears to be playing with it, but suddenly breaks away from his balloon-holding and runs towards a girl in a white shirt who is sitting on a chair.",
+    "objects": [
+      "white",
+      "suddenly",
+      "away",
+      "his",
+      "chair",
+      "but",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "balloon-holding",
+      "towards",
+      "sitting",
+      "breaks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He appears to be playing with it, but suddenly breaks away from his balloon-holding and runs towards a girl in a white shirt who is sitting on a chair.",
+    "objects": [
+      "white",
+      "suddenly",
+      "away",
+      "his",
+      "chair",
+      "but",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "balloon-holding",
+      "towards",
+      "sitting",
+      "breaks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He appears to be playing with it, but suddenly breaks away from his balloon-holding and runs towards a girl in a white shirt who is sitting on a chair.",
+    "objects": [
+      "white",
+      "suddenly",
+      "away",
+      "his",
+      "chair",
+      "but",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "balloon-holding",
+      "towards",
+      "sitting",
+      "breaks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The girl is holding a pink toy, possibly a doll or a toy car.",
+    "objects": [
+      "car",
+      "pink",
+      "toy",
+      "girl",
+      "doll",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The girl is holding a pink toy, possibly a doll or a toy car.",
+    "objects": [
+      "car",
+      "pink",
+      "toy",
+      "girl",
+      "doll",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The girl is holding a pink toy, possibly a doll or a toy car.",
+    "objects": [
+      "car",
+      "pink",
+      "toy",
+      "girl",
+      "doll",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The girl is holding a pink toy, possibly a doll or a toy car.",
+    "objects": [
+      "car",
+      "pink",
+      "toy",
+      "girl",
+      "doll",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy seems to be excited and runs past her towards a toy boat, possibly a part of the room's decor or a toy.",
+    "objects": [
+      "boat",
+      "part",
+      "toy",
+      "her",
+      "decor",
+      "past",
+      "boy",
+      "runs"
+    ],
+    "actions": [
+      "room's",
+      "towards",
+      "excited",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy seems to be excited and runs past her towards a toy boat, possibly a part of the room's decor or a toy.",
+    "objects": [
+      "boat",
+      "part",
+      "toy",
+      "her",
+      "decor",
+      "past",
+      "boy",
+      "runs"
+    ],
+    "actions": [
+      "room's",
+      "towards",
+      "excited",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy seems to be excited and runs past her towards a toy boat, possibly a part of the room's decor or a toy.",
+    "objects": [
+      "boat",
+      "part",
+      "toy",
+      "her",
+      "decor",
+      "past",
+      "boy",
+      "runs"
+    ],
+    "actions": [
+      "room's",
+      "towards",
+      "excited",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy seems to be excited and runs past her towards a toy boat, possibly a part of the room's decor or a toy.",
+    "objects": [
+      "boat",
+      "part",
+      "toy",
+      "her",
+      "decor",
+      "past",
+      "boy",
+      "runs"
+    ],
+    "actions": [
+      "room's",
+      "towards",
+      "excited",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, we can see another child sitting on a black couch, wearing a white shirt and holding a white ball.",
+    "objects": [
+      "couch",
+      "white",
+      "can",
+      "child",
+      "shirt",
+      "ball",
+      "black",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, we can see another child sitting on a black couch, wearing a white shirt and holding a white ball.",
+    "objects": [
+      "couch",
+      "white",
+      "can",
+      "child",
+      "shirt",
+      "ball",
+      "black",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, we can see another child sitting on a black couch, wearing a white shirt and holding a white ball.",
+    "objects": [
+      "couch",
+      "white",
+      "can",
+      "child",
+      "shirt",
+      "ball",
+      "black",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, we can see another child sitting on a black couch, wearing a white shirt and holding a white ball.",
+    "objects": [
+      "couch",
+      "white",
+      "can",
+      "child",
+      "shirt",
+      "ball",
+      "black",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The room is well-lit and colorful, with a pink and blue color scheme dominating the decor.",
+    "objects": [
+      "color",
+      "blue",
+      "pink",
+      "colorful",
+      "room",
+      "scheme",
+      "decor"
+    ],
+    "actions": [
+      "dominating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The room is well-lit and colorful, with a pink and blue color scheme dominating the decor.",
+    "objects": [
+      "color",
+      "blue",
+      "pink",
+      "colorful",
+      "room",
+      "scheme",
+      "decor"
+    ],
+    "actions": [
+      "dominating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The room is well-lit and colorful, with a pink and blue color scheme dominating the decor.",
+    "objects": [
+      "color",
+      "blue",
+      "pink",
+      "colorful",
+      "room",
+      "scheme",
+      "decor"
+    ],
+    "actions": [
+      "dominating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The room is well-lit and colorful, with a pink and blue color scheme dominating the decor.",
+    "objects": [
+      "color",
+      "blue",
+      "pink",
+      "colorful",
+      "room",
+      "scheme",
+      "decor"
+    ],
+    "actions": [
+      "dominating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The children seem to be having a great time, enjoying their playtime in this room.",
+    "objects": [
+      "seem",
+      "room",
+      "playtime",
+      "this",
+      "great",
+      "time",
+      "their",
+      "children"
+    ],
+    "actions": [
+      "having",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The children seem to be having a great time, enjoying their playtime in this room.",
+    "objects": [
+      "seem",
+      "room",
+      "playtime",
+      "this",
+      "great",
+      "time",
+      "their",
+      "children"
+    ],
+    "actions": [
+      "having",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The children seem to be having a great time, enjoying their playtime in this room.",
+    "objects": [
+      "seem",
+      "room",
+      "playtime",
+      "this",
+      "great",
+      "time",
+      "their",
+      "children"
+    ],
+    "actions": [
+      "having",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The children seem to be having a great time, enjoying their playtime in this room.",
+    "objects": [
+      "seem",
+      "room",
+      "playtime",
+      "this",
+      "great",
+      "time",
+      "their",
+      "children"
+    ],
+    "actions": [
+      "having",
+      "enjoying"
+    ],
+    "segment_id": 7
+  }
+]

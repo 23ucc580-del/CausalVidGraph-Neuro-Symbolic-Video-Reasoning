@@ -1,0 +1,547 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a white rabbit is seen walking on a wooden plank, while another rabbit is nearby on a wooden platform.",
+    "objects": [
+      "white",
+      "wooden",
+      "plank",
+      "platform",
+      "while",
+      "nearby",
+      "rabbit"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The rabbit on the plank is walking away from the camera, and the one on the platform is facing the camera.",
+    "objects": [
+      "away",
+      "plank",
+      "platform",
+      "one",
+      "from",
+      "rabbit"
+    ],
+    "actions": [
+      "walking",
+      "facing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "Both rabbits are in a backyard with a wooden fence and a tree in the background.",
+    "objects": [
+      "backyard",
+      "wooden",
+      "both",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The rabbit on the platform is wearing a blue hoodie and holding a blue object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The rabbit on the plank is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "plank",
+      "hoodie",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The rabbits are in a lush green backyard, with a small white fence and a tree to the right.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "lush",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The rabbit on the plank is wearing a red hoodie and holding a red object, while the rabbit on the platform is wearing a blue hoodie and holding a blue object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "while",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The rabbit on the plank is also wearing a red hoodie and holding a red object, and the rabbit on the platform is wearing a blue hoodie and holding a blue object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "platform",
+      "plank",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the left.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the left.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the right.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the right.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the left.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the right.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the left.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the right.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the left.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the right.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The rabbits are in a green backyard with a small white fence and a tree to the left.",
+    "objects": [
+      "small",
+      "white",
+      "backyard",
+      "green",
+      "fence",
+      "tree"
+    ],
+    "actions": [
+      "rabbits"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The rabbit on the plank is wearing a blue hoodie and holding a blue object, and the rabbit on the platform is wearing a red hoodie and holding a red object.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "plank",
+      "platform",
+      "object",
+      "rabbit"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 31
+  }
+]

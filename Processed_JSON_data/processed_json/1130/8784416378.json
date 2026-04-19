@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a person is seen riding a bicycle down a dirt trail.",
+    "objects": [
+      "trail",
+      "dirt",
+      "bicycle"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a person is seen riding a bicycle down a dirt trail.",
+    "objects": [
+      "trail",
+      "dirt",
+      "bicycle"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a person is seen riding a bicycle down a dirt trail.",
+    "objects": [
+      "trail",
+      "dirt",
+      "bicycle"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a person is seen riding a bicycle down a dirt trail.",
+    "objects": [
+      "trail",
+      "dirt",
+      "bicycle"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a person is seen riding a bicycle down a dirt trail.",
+    "objects": [
+      "trail",
+      "dirt",
+      "bicycle"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The trail is surrounded by lush greenery and trees.",
+    "objects": [
+      "trail",
+      "greenery",
+      "lush"
+    ],
+    "actions": [
+      "surrounded",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The trail is surrounded by lush greenery and trees.",
+    "objects": [
+      "trail",
+      "greenery",
+      "lush"
+    ],
+    "actions": [
+      "surrounded",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The trail is surrounded by lush greenery and trees.",
+    "objects": [
+      "trail",
+      "greenery",
+      "lush"
+    ],
+    "actions": [
+      "surrounded",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The trail is surrounded by lush greenery and trees.",
+    "objects": [
+      "trail",
+      "greenery",
+      "lush"
+    ],
+    "actions": [
+      "surrounded",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The trail is surrounded by lush greenery and trees.",
+    "objects": [
+      "trail",
+      "greenery",
+      "lush"
+    ],
+    "actions": [
+      "surrounded",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The rider is wearing a white t-shirt, black shorts, and a blue helmet.",
+    "objects": [
+      "white",
+      "rider",
+      "blue",
+      "helmet",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The rider is wearing a white t-shirt, black shorts, and a blue helmet.",
+    "objects": [
+      "white",
+      "rider",
+      "blue",
+      "helmet",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The rider is wearing a white t-shirt, black shorts, and a blue helmet.",
+    "objects": [
+      "white",
+      "rider",
+      "blue",
+      "helmet",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The rider is wearing a white t-shirt, black shorts, and a blue helmet.",
+    "objects": [
+      "white",
+      "rider",
+      "blue",
+      "helmet",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The rider is wearing a white t-shirt, black shorts, and a blue helmet.",
+    "objects": [
+      "white",
+      "rider",
+      "blue",
+      "helmet",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "Another person is seen walking alongside the trail, wearing a white t-shirt, black shorts, and a backpack.",
+    "objects": [
+      "white",
+      "alongside",
+      "trail",
+      "backpack",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another person is seen walking alongside the trail, wearing a white t-shirt, black shorts, and a backpack.",
+    "objects": [
+      "white",
+      "alongside",
+      "trail",
+      "backpack",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "Another person is seen walking alongside the trail, wearing a white t-shirt, black shorts, and a backpack.",
+    "objects": [
+      "white",
+      "alongside",
+      "trail",
+      "backpack",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "Another person is seen walking alongside the trail, wearing a white t-shirt, black shorts, and a backpack.",
+    "objects": [
+      "white",
+      "alongside",
+      "trail",
+      "backpack",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "Another person is seen walking alongside the trail, wearing a white t-shirt, black shorts, and a backpack.",
+    "objects": [
+      "white",
+      "alongside",
+      "trail",
+      "backpack",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera zooms in on the cyclist, who is pedaling with both hands on the handlebars and wearing a white t-shirt, black shorts, and a helmet.",
+    "objects": [
+      "white",
+      "cyclist",
+      "both",
+      "helmet",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "shorts",
+      "pedaling",
+      "hands",
+      "handlebars"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera zooms in on the cyclist, who is pedaling with both hands on the handlebars and wearing a white t-shirt, black shorts, and a helmet.",
+    "objects": [
+      "white",
+      "cyclist",
+      "both",
+      "helmet",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "shorts",
+      "pedaling",
+      "hands",
+      "handlebars"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera zooms in on the cyclist, who is pedaling with both hands on the handlebars and wearing a white t-shirt, black shorts, and a helmet.",
+    "objects": [
+      "white",
+      "cyclist",
+      "both",
+      "helmet",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "shorts",
+      "pedaling",
+      "hands",
+      "handlebars"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera zooms in on the cyclist, who is pedaling with both hands on the handlebars and wearing a white t-shirt, black shorts, and a helmet.",
+    "objects": [
+      "white",
+      "cyclist",
+      "both",
+      "helmet",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "shorts",
+      "pedaling",
+      "hands",
+      "handlebars"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera zooms in on the cyclist, who is pedaling with both hands on the handlebars and wearing a white t-shirt, black shorts, and a helmet.",
+    "objects": [
+      "white",
+      "cyclist",
+      "both",
+      "helmet",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "shorts",
+      "pedaling",
+      "hands",
+      "handlebars"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The rider passes the person walking on the trail, and the camera then focuses on the cyclist, who is smiling and wearing a white t-shirt, black shorts, and a helmet.",
+    "objects": [
+      "white",
+      "rider",
+      "cyclist",
+      "helmet",
+      "trail",
+      "black",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "shorts",
+      "smiling",
+      "passes",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The rider passes the person walking on the trail, and the camera then focuses on the cyclist, who is smiling and wearing a white t-shirt, black shorts, and a helmet.",
+    "objects": [
+      "white",
+      "rider",
+      "cyclist",
+      "helmet",
+      "trail",
+      "black",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "shorts",
+      "smiling",
+      "passes",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The rider passes the person walking on the trail, and the camera then focuses on the cyclist, who is smiling and wearing a white t-shirt, black shorts, and a helmet.",
+    "objects": [
+      "white",
+      "rider",
+      "cyclist",
+      "helmet",
+      "trail",
+      "black",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "shorts",
+      "smiling",
+      "passes",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The rider passes the person walking on the trail, and the camera then focuses on the cyclist, who is smiling and wearing a white t-shirt, black shorts, and a helmet.",
+    "objects": [
+      "white",
+      "rider",
+      "cyclist",
+      "helmet",
+      "trail",
+      "black",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "shorts",
+      "smiling",
+      "passes",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The rider passes the person walking on the trail, and the camera then focuses on the cyclist, who is smiling and wearing a white t-shirt, black shorts, and a helmet.",
+    "objects": [
+      "white",
+      "rider",
+      "cyclist",
+      "helmet",
+      "trail",
+      "black",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "shorts",
+      "smiling",
+      "passes",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The trail continues through the forest, with the cyclist pedaling steadily.",
+    "objects": [
+      "cyclist",
+      "steadily",
+      "trail",
+      "forest",
+      "through"
+    ],
+    "actions": [
+      "continues",
+      "pedaling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The trail continues through the forest, with the cyclist pedaling steadily.",
+    "objects": [
+      "cyclist",
+      "steadily",
+      "trail",
+      "forest",
+      "through"
+    ],
+    "actions": [
+      "continues",
+      "pedaling"
+    ],
+    "segment_id": 6
+  }
+]

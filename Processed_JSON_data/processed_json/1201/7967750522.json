@@ -1,0 +1,608 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video showcases a vibrant city plaza, bustling with life and activity.",
+    "objects": [
+      "city",
+      "life",
+      "activity",
+      "plaza",
+      "vibrant"
+    ],
+    "actions": [
+      "bustling",
+      "showcases"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video showcases a vibrant city plaza, bustling with life and activity.",
+    "objects": [
+      "city",
+      "life",
+      "activity",
+      "plaza",
+      "vibrant"
+    ],
+    "actions": [
+      "bustling",
+      "showcases"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video showcases a vibrant city plaza, bustling with life and activity.",
+    "objects": [
+      "city",
+      "life",
+      "activity",
+      "plaza",
+      "vibrant"
+    ],
+    "actions": [
+      "bustling",
+      "showcases"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A water fountain, the centerpiece of the scene, sprays water into the air, creating a playful atmosphere.",
+    "objects": [
+      "playful",
+      "water",
+      "air",
+      "atmosphere",
+      "into",
+      "centerpiece",
+      "fountain"
+    ],
+    "actions": [
+      "sprays",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A water fountain, the centerpiece of the scene, sprays water into the air, creating a playful atmosphere.",
+    "objects": [
+      "playful",
+      "water",
+      "air",
+      "atmosphere",
+      "into",
+      "centerpiece",
+      "fountain"
+    ],
+    "actions": [
+      "sprays",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A water fountain, the centerpiece of the scene, sprays water into the air, creating a playful atmosphere.",
+    "objects": [
+      "playful",
+      "water",
+      "air",
+      "atmosphere",
+      "into",
+      "centerpiece",
+      "fountain"
+    ],
+    "actions": [
+      "sprays",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "People are scattered around the area, some are walking, others are running, and one individual is dancing, their movements adding a sense of dynamism to the setting.",
+    "objects": [
+      "around",
+      "dynamism",
+      "people",
+      "sense",
+      "one",
+      "individual",
+      "their",
+      "area"
+    ],
+    "actions": [
+      "others",
+      "movements",
+      "adding",
+      "setting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "People are scattered around the area, some are walking, others are running, and one individual is dancing, their movements adding a sense of dynamism to the setting.",
+    "objects": [
+      "around",
+      "dynamism",
+      "people",
+      "sense",
+      "one",
+      "individual",
+      "their",
+      "area"
+    ],
+    "actions": [
+      "others",
+      "movements",
+      "adding",
+      "setting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "People are scattered around the area, some are walking, others are running, and one individual is dancing, their movements adding a sense of dynamism to the setting.",
+    "objects": [
+      "around",
+      "dynamism",
+      "people",
+      "sense",
+      "one",
+      "individual",
+      "their",
+      "area"
+    ],
+    "actions": [
+      "others",
+      "movements",
+      "adding",
+      "setting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A man is seen running with a pink umbrella, perhaps to shield himself from the sun, while another man is walking with a red umbrella, adding a splash of color to the scene.",
+    "objects": [
+      "color",
+      "pink",
+      "man",
+      "sun",
+      "while",
+      "shield",
+      "himself",
+      "umbrella"
+    ],
+    "actions": [
+      "adding",
+      "running",
+      "perhaps",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A man is seen running with a pink umbrella, perhaps to shield himself from the sun, while another man is walking with a red umbrella, adding a splash of color to the scene.",
+    "objects": [
+      "color",
+      "pink",
+      "man",
+      "sun",
+      "while",
+      "shield",
+      "himself",
+      "umbrella"
+    ],
+    "actions": [
+      "adding",
+      "running",
+      "perhaps",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A man is seen running with a pink umbrella, perhaps to shield himself from the sun, while another man is walking with a red umbrella, adding a splash of color to the scene.",
+    "objects": [
+      "color",
+      "pink",
+      "man",
+      "sun",
+      "while",
+      "shield",
+      "himself",
+      "umbrella"
+    ],
+    "actions": [
+      "adding",
+      "running",
+      "perhaps",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A person in a blue hoodie is seen running, while a person in a black shirt is walking, both engaged in their activities.",
+    "objects": [
+      "blue",
+      "both",
+      "while",
+      "shirt",
+      "hoodie",
+      "their",
+      "black"
+    ],
+    "actions": [
+      "engaged",
+      "activities",
+      "walking",
+      "running"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A person in a blue hoodie is seen running, while a person in a black shirt is walking, both engaged in their activities.",
+    "objects": [
+      "blue",
+      "both",
+      "while",
+      "shirt",
+      "hoodie",
+      "their",
+      "black"
+    ],
+    "actions": [
+      "engaged",
+      "activities",
+      "walking",
+      "running"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A person in a blue hoodie is seen running, while a person in a black shirt is walking, both engaged in their activities.",
+    "objects": [
+      "blue",
+      "both",
+      "while",
+      "shirt",
+      "hoodie",
+      "their",
+      "black"
+    ],
+    "actions": [
+      "engaged",
+      "activities",
+      "walking",
+      "running"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman is seen walking with a silver car, perhaps indicating the presence of a nearby parking area or a vehicle.",
+    "objects": [
+      "vehicle",
+      "car",
+      "silver",
+      "presence",
+      "nearby",
+      "area",
+      "woman"
+    ],
+    "actions": [
+      "parking",
+      "perhaps",
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman is seen walking with a silver car, perhaps indicating the presence of a nearby parking area or a vehicle.",
+    "objects": [
+      "vehicle",
+      "car",
+      "silver",
+      "presence",
+      "nearby",
+      "area",
+      "woman"
+    ],
+    "actions": [
+      "parking",
+      "perhaps",
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman is seen walking with a silver car, perhaps indicating the presence of a nearby parking area or a vehicle.",
+    "objects": [
+      "vehicle",
+      "car",
+      "silver",
+      "presence",
+      "nearby",
+      "area",
+      "woman"
+    ],
+    "actions": [
+      "parking",
+      "perhaps",
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The plaza is adorned with potted plants and flowers, adding a touch of nature to the urban landscape.",
+    "objects": [
+      "urban",
+      "touch",
+      "landscape",
+      "plaza",
+      "nature"
+    ],
+    "actions": [
+      "adorned",
+      "adding",
+      "plants",
+      "potted"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The plaza is adorned with potted plants and flowers, adding a touch of nature to the urban landscape.",
+    "objects": [
+      "urban",
+      "touch",
+      "landscape",
+      "plaza",
+      "nature"
+    ],
+    "actions": [
+      "adorned",
+      "adding",
+      "plants",
+      "potted"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The plaza is adorned with potted plants and flowers, adding a touch of nature to the urban landscape.",
+    "objects": [
+      "urban",
+      "touch",
+      "landscape",
+      "plaza",
+      "nature"
+    ],
+    "actions": [
+      "adorned",
+      "adding",
+      "plants",
+      "potted"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a white shirt is walking with a white umbrella, and another man is seen walking with a blue umbrella, perhaps indicating the possibility of rain or simply a preference for color coordination.",
+    "objects": [
+      "white",
+      "blue",
+      "color",
+      "simply",
+      "rain",
+      "man",
+      "shirt",
+      "umbrella"
+    ],
+    "actions": [
+      "perhaps",
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a white shirt is walking with a white umbrella, and another man is seen walking with a blue umbrella, perhaps indicating the possibility of rain or simply a preference for color coordination.",
+    "objects": [
+      "white",
+      "blue",
+      "color",
+      "simply",
+      "rain",
+      "man",
+      "shirt",
+      "umbrella"
+    ],
+    "actions": [
+      "perhaps",
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a white shirt is walking with a white umbrella, and another man is seen walking with a blue umbrella, perhaps indicating the possibility of rain or simply a preference for color coordination.",
+    "objects": [
+      "white",
+      "blue",
+      "color",
+      "simply",
+      "rain",
+      "man",
+      "shirt",
+      "umbrella"
+    ],
+    "actions": [
+      "perhaps",
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A person in a black shirt is walking with a red umbrella, contrasting with the red umbrella of another individual.",
+    "objects": [
+      "black",
+      "umbrella",
+      "individual",
+      "shirt"
+    ],
+    "actions": [
+      "contrasting",
+      "red",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A person in a black shirt is walking with a red umbrella, contrasting with the red umbrella of another individual.",
+    "objects": [
+      "black",
+      "umbrella",
+      "individual",
+      "shirt"
+    ],
+    "actions": [
+      "contrasting",
+      "red",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A person in a black shirt is walking with a red umbrella, contrasting with the red umbrella of another individual.",
+    "objects": [
+      "black",
+      "umbrella",
+      "individual",
+      "shirt"
+    ],
+    "actions": [
+      "contrasting",
+      "red",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "People are dressed in casual to semi-formal attire, reflecting the casual yet lively nature of the plaza.",
+    "objects": [
+      "casual",
+      "lively",
+      "people",
+      "attire",
+      "yet",
+      "plaza",
+      "nature"
+    ],
+    "actions": [
+      "reflecting",
+      "dressed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "People are dressed in casual to semi-formal attire, reflecting the casual yet lively nature of the plaza.",
+    "objects": [
+      "casual",
+      "lively",
+      "people",
+      "attire",
+      "yet",
+      "plaza",
+      "nature"
+    ],
+    "actions": [
+      "reflecting",
+      "dressed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "People are dressed in casual to semi-formal attire, reflecting the casual yet lively nature of the plaza.",
+    "objects": [
+      "casual",
+      "lively",
+      "people",
+      "attire",
+      "yet",
+      "plaza",
+      "nature"
+    ],
+    "actions": [
+      "reflecting",
+      "dressed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures the essence of city life, with its hustle and bustle, as people move about their day, some running, others walking, and a few dancing, all under the watchful gaze of the water fountain.",
+    "objects": [
+      "few",
+      "under",
+      "water",
+      "day",
+      "all",
+      "watchful",
+      "life",
+      "move"
+    ],
+    "actions": [
+      "others",
+      "dancing",
+      "walking",
+      "running"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures the essence of city life, with its hustle and bustle, as people move about their day, some running, others walking, and a few dancing, all under the watchful gaze of the water fountain.",
+    "objects": [
+      "few",
+      "under",
+      "water",
+      "day",
+      "all",
+      "watchful",
+      "life",
+      "move"
+    ],
+    "actions": [
+      "others",
+      "dancing",
+      "walking",
+      "running"
+    ],
+    "segment_id": 10
+  }
+]

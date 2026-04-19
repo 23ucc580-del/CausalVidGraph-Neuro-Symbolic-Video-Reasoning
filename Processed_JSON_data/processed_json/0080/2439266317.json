@@ -1,0 +1,494 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see two young girls sitting on a bench in a play area.",
+    "objects": [
+      "two",
+      "play",
+      "see",
+      "area",
+      "young",
+      "bench"
+    ],
+    "actions": [
+      "girls",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see two young girls sitting on a bench in a play area.",
+    "objects": [
+      "two",
+      "play",
+      "see",
+      "area",
+      "young",
+      "bench"
+    ],
+    "actions": [
+      "girls",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see two young girls sitting on a bench in a play area.",
+    "objects": [
+      "two",
+      "play",
+      "see",
+      "area",
+      "young",
+      "bench"
+    ],
+    "actions": [
+      "girls",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see two young girls sitting on a bench in a play area.",
+    "objects": [
+      "two",
+      "play",
+      "see",
+      "area",
+      "young",
+      "bench"
+    ],
+    "actions": [
+      "girls",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The girl on the left is wearing a pink shirt and a blue hat, while the girl on the right is wearing a yellow hat.",
+    "objects": [
+      "girl",
+      "blue",
+      "hat",
+      "while",
+      "yellow",
+      "shirt",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The girl on the left is wearing a pink shirt and a blue hat, while the girl on the right is wearing a yellow hat.",
+    "objects": [
+      "girl",
+      "blue",
+      "hat",
+      "while",
+      "yellow",
+      "shirt",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The girl on the left is wearing a pink shirt and a blue hat, while the girl on the right is wearing a yellow hat.",
+    "objects": [
+      "girl",
+      "blue",
+      "hat",
+      "while",
+      "yellow",
+      "shirt",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The girl on the left is wearing a pink shirt and a blue hat, while the girl on the right is wearing a yellow hat.",
+    "objects": [
+      "girl",
+      "blue",
+      "hat",
+      "while",
+      "yellow",
+      "shirt",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Both girls are holding teddy bears.",
+    "objects": [
+      "teddy",
+      "both"
+    ],
+    "actions": [
+      "bears",
+      "girls",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Both girls are holding teddy bears.",
+    "objects": [
+      "teddy",
+      "both"
+    ],
+    "actions": [
+      "bears",
+      "girls",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Both girls are holding teddy bears.",
+    "objects": [
+      "teddy",
+      "both"
+    ],
+    "actions": [
+      "bears",
+      "girls",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Both girls are holding teddy bears.",
+    "objects": [
+      "teddy",
+      "both"
+    ],
+    "actions": [
+      "bears",
+      "girls",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The girl on the left is holding a blue teddy bear, and the girl on the right is holding a white teddy bear.",
+    "objects": [
+      "white",
+      "blue",
+      "bear",
+      "teddy",
+      "girl"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The girl on the left is holding a blue teddy bear, and the girl on the right is holding a white teddy bear.",
+    "objects": [
+      "white",
+      "blue",
+      "bear",
+      "teddy",
+      "girl"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The girl on the left is holding a blue teddy bear, and the girl on the right is holding a white teddy bear.",
+    "objects": [
+      "white",
+      "blue",
+      "bear",
+      "teddy",
+      "girl"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The girl on the left is holding a blue teddy bear, and the girl on the right is holding a white teddy bear.",
+    "objects": [
+      "white",
+      "blue",
+      "bear",
+      "teddy",
+      "girl"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The girl on the left is also wearing a yellow safety vest, while the girl on the right is wearing a blue skirt.",
+    "objects": [
+      "skirt",
+      "safety",
+      "blue",
+      "while",
+      "yellow",
+      "girl",
+      "vest"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The girl on the left is also wearing a yellow safety vest, while the girl on the right is wearing a blue skirt.",
+    "objects": [
+      "skirt",
+      "safety",
+      "blue",
+      "while",
+      "yellow",
+      "girl",
+      "vest"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The girl on the left is also wearing a yellow safety vest, while the girl on the right is wearing a blue skirt.",
+    "objects": [
+      "skirt",
+      "safety",
+      "blue",
+      "while",
+      "yellow",
+      "girl",
+      "vest"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The girl on the left is also wearing a yellow safety vest, while the girl on the right is wearing a blue skirt.",
+    "objects": [
+      "skirt",
+      "safety",
+      "blue",
+      "while",
+      "yellow",
+      "girl",
+      "vest"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The girl on the left is holding a blue teddy bear, while the girl on the right is holding a white teddy bear.",
+    "objects": [
+      "white",
+      "blue",
+      "while",
+      "bear",
+      "teddy",
+      "girl"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The girl on the left is holding a blue teddy bear, while the girl on the right is holding a white teddy bear.",
+    "objects": [
+      "white",
+      "blue",
+      "while",
+      "bear",
+      "teddy",
+      "girl"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The girl on the left is holding a blue teddy bear, while the girl on the right is holding a white teddy bear.",
+    "objects": [
+      "white",
+      "blue",
+      "while",
+      "bear",
+      "teddy",
+      "girl"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The girl on the left is holding a blue teddy bear, while the girl on the right is holding a white teddy bear.",
+    "objects": [
+      "white",
+      "blue",
+      "while",
+      "bear",
+      "teddy",
+      "girl"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The girl on the left is smiling, and the girl on the right is laughing.",
+    "objects": [
+      "girl"
+    ],
+    "actions": [
+      "smiling",
+      "laughing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The girl on the left is smiling, and the girl on the right is laughing.",
+    "objects": [
+      "girl"
+    ],
+    "actions": [
+      "smiling",
+      "laughing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The girl on the left is smiling, and the girl on the right is laughing.",
+    "objects": [
+      "girl"
+    ],
+    "actions": [
+      "smiling",
+      "laughing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The girl on the left is smiling, and the girl on the right is laughing.",
+    "objects": [
+      "girl"
+    ],
+    "actions": [
+      "smiling",
+      "laughing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The girl on the left is pointing at something in the distance, and the girl on the right is looking at something in front of her.",
+    "objects": [
+      "distance",
+      "girl",
+      "her"
+    ],
+    "actions": [
+      "pointing",
+      "something",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The girl on the left is pointing at something in the distance, and the girl on the right is looking at something in front of her.",
+    "objects": [
+      "distance",
+      "girl",
+      "her"
+    ],
+    "actions": [
+      "pointing",
+      "something",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The girl on the left is pointing at something in the distance, and the girl on the right is looking at something in front of her.",
+    "objects": [
+      "distance",
+      "girl",
+      "her"
+    ],
+    "actions": [
+      "pointing",
+      "something",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The girl on the left is pointing at something in the distance, and the girl on the right is looking at something in front of her.",
+    "objects": [
+      "distance",
+      "girl",
+      "her"
+    ],
+    "actions": [
+      "pointing",
+      "something",
+      "looking"
+    ],
+    "segment_id": 7
+  }
+]

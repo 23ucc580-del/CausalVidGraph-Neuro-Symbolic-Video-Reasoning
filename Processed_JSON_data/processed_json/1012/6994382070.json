@@ -1,0 +1,562 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people enjoying an outdoor activity.",
+    "objects": [
+      "activity",
+      "people",
+      "see",
+      "outdoor",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people enjoying an outdoor activity.",
+    "objects": [
+      "activity",
+      "people",
+      "see",
+      "outdoor",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of people enjoying an outdoor activity.",
+    "objects": [
+      "activity",
+      "people",
+      "see",
+      "outdoor",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a group of people enjoying an outdoor activity.",
+    "objects": [
+      "activity",
+      "people",
+      "see",
+      "outdoor",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One person is lying on the ground, possibly resting or waiting, while another person is standing nearby.",
+    "objects": [
+      "one",
+      "while",
+      "possibly",
+      "ground",
+      "nearby"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "lying",
+      "resting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One person is lying on the ground, possibly resting or waiting, while another person is standing nearby.",
+    "objects": [
+      "one",
+      "while",
+      "possibly",
+      "ground",
+      "nearby"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "lying",
+      "resting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One person is lying on the ground, possibly resting or waiting, while another person is standing nearby.",
+    "objects": [
+      "one",
+      "while",
+      "possibly",
+      "ground",
+      "nearby"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "lying",
+      "resting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One person is lying on the ground, possibly resting or waiting, while another person is standing nearby.",
+    "objects": [
+      "one",
+      "while",
+      "possibly",
+      "ground",
+      "nearby"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "lying",
+      "resting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A woman is crawling through a roped-off area, holding onto a pole for support.",
+    "objects": [
+      "support",
+      "pole",
+      "woman",
+      "onto",
+      "through",
+      "area"
+    ],
+    "actions": [
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A woman is crawling through a roped-off area, holding onto a pole for support.",
+    "objects": [
+      "support",
+      "pole",
+      "woman",
+      "onto",
+      "through",
+      "area"
+    ],
+    "actions": [
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A woman is crawling through a roped-off area, holding onto a pole for support.",
+    "objects": [
+      "support",
+      "pole",
+      "woman",
+      "onto",
+      "through",
+      "area"
+    ],
+    "actions": [
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman is crawling through a roped-off area, holding onto a pole for support.",
+    "objects": [
+      "support",
+      "pole",
+      "woman",
+      "onto",
+      "through",
+      "area"
+    ],
+    "actions": [
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "She appears to be in the process of climbing over or under the rope barrier.",
+    "objects": [
+      "rope",
+      "she",
+      "barrier",
+      "over",
+      "under"
+    ],
+    "actions": [
+      "climbing",
+      "process"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "She appears to be in the process of climbing over or under the rope barrier.",
+    "objects": [
+      "rope",
+      "she",
+      "barrier",
+      "over",
+      "under"
+    ],
+    "actions": [
+      "climbing",
+      "process"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "She appears to be in the process of climbing over or under the rope barrier.",
+    "objects": [
+      "rope",
+      "she",
+      "barrier",
+      "over",
+      "under"
+    ],
+    "actions": [
+      "climbing",
+      "process"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "She appears to be in the process of climbing over or under the rope barrier.",
+    "objects": [
+      "rope",
+      "she",
+      "barrier",
+      "over",
+      "under"
+    ],
+    "actions": [
+      "climbing",
+      "process"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The rest of the group seems to be scattered around, some standing and some sitting, possibly watching the woman crawl.",
+    "objects": [
+      "crawl",
+      "woman",
+      "possibly",
+      "some",
+      "around",
+      "rest",
+      "group"
+    ],
+    "actions": [
+      "seems",
+      "standing",
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The rest of the group seems to be scattered around, some standing and some sitting, possibly watching the woman crawl.",
+    "objects": [
+      "crawl",
+      "woman",
+      "possibly",
+      "some",
+      "around",
+      "rest",
+      "group"
+    ],
+    "actions": [
+      "seems",
+      "standing",
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The rest of the group seems to be scattered around, some standing and some sitting, possibly watching the woman crawl.",
+    "objects": [
+      "crawl",
+      "woman",
+      "possibly",
+      "some",
+      "around",
+      "rest",
+      "group"
+    ],
+    "actions": [
+      "seems",
+      "standing",
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The rest of the group seems to be scattered around, some standing and some sitting, possibly watching the woman crawl.",
+    "objects": [
+      "crawl",
+      "woman",
+      "possibly",
+      "some",
+      "around",
+      "rest",
+      "group"
+    ],
+    "actions": [
+      "seems",
+      "standing",
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The weather is sunny, as indicated by the brightness of the day and the clear visibility of the surroundings.",
+    "objects": [
+      "weather",
+      "visibility",
+      "clear",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "indicated",
+      "brightness",
+      "surroundings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The weather is sunny, as indicated by the brightness of the day and the clear visibility of the surroundings.",
+    "objects": [
+      "weather",
+      "visibility",
+      "clear",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "indicated",
+      "brightness",
+      "surroundings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The weather is sunny, as indicated by the brightness of the day and the clear visibility of the surroundings.",
+    "objects": [
+      "weather",
+      "visibility",
+      "clear",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "indicated",
+      "brightness",
+      "surroundings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The weather is sunny, as indicated by the brightness of the day and the clear visibility of the surroundings.",
+    "objects": [
+      "weather",
+      "visibility",
+      "clear",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "indicated",
+      "brightness",
+      "surroundings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The people are dressed in casual attire, with one person wearing a blue hoodie and another holding a silver object, which could be a water bottle or some other item.",
+    "objects": [
+      "one",
+      "other",
+      "people",
+      "attire",
+      "casual",
+      "blue",
+      "bottle",
+      "item"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The people are dressed in casual attire, with one person wearing a blue hoodie and another holding a silver object, which could be a water bottle or some other item.",
+    "objects": [
+      "one",
+      "other",
+      "people",
+      "attire",
+      "casual",
+      "blue",
+      "bottle",
+      "item"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The people are dressed in casual attire, with one person wearing a blue hoodie and another holding a silver object, which could be a water bottle or some other item.",
+    "objects": [
+      "one",
+      "other",
+      "people",
+      "attire",
+      "casual",
+      "blue",
+      "bottle",
+      "item"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The people are dressed in casual attire, with one person wearing a blue hoodie and another holding a silver object, which could be a water bottle or some other item.",
+    "objects": [
+      "one",
+      "other",
+      "people",
+      "attire",
+      "casual",
+      "blue",
+      "bottle",
+      "item"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene suggests a sense of adventure and exploration, as they navigate their surroundings.",
+    "objects": [
+      "they",
+      "their",
+      "navigate",
+      "sense",
+      "adventure",
+      "exploration"
+    ],
+    "actions": [
+      "suggests",
+      "surroundings"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene suggests a sense of adventure and exploration, as they navigate their surroundings.",
+    "objects": [
+      "they",
+      "their",
+      "navigate",
+      "sense",
+      "adventure",
+      "exploration"
+    ],
+    "actions": [
+      "suggests",
+      "surroundings"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene suggests a sense of adventure and exploration, as they navigate their surroundings.",
+    "objects": [
+      "they",
+      "their",
+      "navigate",
+      "sense",
+      "adventure",
+      "exploration"
+    ],
+    "actions": [
+      "suggests",
+      "surroundings"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene suggests a sense of adventure and exploration, as they navigate their surroundings.",
+    "objects": [
+      "they",
+      "their",
+      "navigate",
+      "sense",
+      "adventure",
+      "exploration"
+    ],
+    "actions": [
+      "suggests",
+      "surroundings"
+    ],
+    "segment_id": 7
+  }
+]

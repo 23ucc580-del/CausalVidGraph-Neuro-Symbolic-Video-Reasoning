@@ -1,0 +1,530 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered outside a house, enjoying a social event.",
+    "objects": [
+      "people",
+      "social",
+      "outside",
+      "house",
+      "event",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered outside a house, enjoying a social event.",
+    "objects": [
+      "people",
+      "social",
+      "outside",
+      "house",
+      "event",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are gathered outside a house, enjoying a social event.",
+    "objects": [
+      "people",
+      "social",
+      "outside",
+      "house",
+      "event",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people are gathered outside a house, enjoying a social event.",
+    "objects": [
+      "people",
+      "social",
+      "outside",
+      "house",
+      "event",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is lively and filled with conversation.",
+    "objects": [
+      "conversation",
+      "lively"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is lively and filled with conversation.",
+    "objects": [
+      "conversation",
+      "lively"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene is lively and filled with conversation.",
+    "objects": [
+      "conversation",
+      "lively"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene is lively and filled with conversation.",
+    "objects": [
+      "conversation",
+      "lively"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A man wearing a blue shirt is seen holding a wine glass, while another man in a white shirt is holding a wine glass.",
+    "objects": [
+      "white",
+      "while",
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A man wearing a blue shirt is seen holding a wine glass, while another man in a white shirt is holding a wine glass.",
+    "objects": [
+      "white",
+      "while",
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A man wearing a blue shirt is seen holding a wine glass, while another man in a white shirt is holding a wine glass.",
+    "objects": [
+      "white",
+      "while",
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A man wearing a blue shirt is seen holding a wine glass, while another man in a white shirt is holding a wine glass.",
+    "objects": [
+      "white",
+      "while",
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A woman in a blue shirt is also holding a wine glass, and a man in a white shirt is holding a wine glass.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A woman in a blue shirt is also holding a wine glass, and a man in a white shirt is holding a wine glass.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A woman in a blue shirt is also holding a wine glass, and a man in a white shirt is holding a wine glass.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman in a blue shirt is also holding a wine glass, and a man in a white shirt is holding a wine glass.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a white shirt is holding a wine glass as well.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "well",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a white shirt is holding a wine glass as well.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "well",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman in a white shirt is holding a wine glass as well.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "well",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman in a white shirt is holding a wine glass as well.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "well",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a blue shirt is holding a drink.",
+    "objects": [
+      "drink",
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a blue shirt is holding a drink.",
+    "objects": [
+      "drink",
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman in a blue shirt is holding a drink.",
+    "objects": [
+      "drink",
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman in a blue shirt is holding a drink.",
+    "objects": [
+      "drink",
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The group is composed of men and women, all dressed in casual attire, with some wearing blue jeans and others wearing khakis.",
+    "objects": [
+      "attire",
+      "casual",
+      "men",
+      "blue",
+      "some",
+      "women",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "others",
+      "wearing",
+      "dressed",
+      "composed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The group is composed of men and women, all dressed in casual attire, with some wearing blue jeans and others wearing khakis.",
+    "objects": [
+      "attire",
+      "casual",
+      "men",
+      "blue",
+      "some",
+      "women",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "others",
+      "wearing",
+      "dressed",
+      "composed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The group is composed of men and women, all dressed in casual attire, with some wearing blue jeans and others wearing khakis.",
+    "objects": [
+      "attire",
+      "casual",
+      "men",
+      "blue",
+      "some",
+      "women",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "others",
+      "wearing",
+      "dressed",
+      "composed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The group is composed of men and women, all dressed in casual attire, with some wearing blue jeans and others wearing khakis.",
+    "objects": [
+      "attire",
+      "casual",
+      "men",
+      "blue",
+      "some",
+      "women",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "others",
+      "wearing",
+      "dressed",
+      "composed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "A man in a blue shirt is holding a cell phone, and a man in a white shirt is holding a glass.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "phone",
+      "cell",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "A man in a blue shirt is holding a cell phone, and a man in a white shirt is holding a glass.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "phone",
+      "cell",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a blue shirt is holding a cell phone, and a man in a white shirt is holding a glass.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "phone",
+      "cell",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a blue shirt is holding a cell phone, and a man in a white shirt is holding a glass.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "phone",
+      "cell",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

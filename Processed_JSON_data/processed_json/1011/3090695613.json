@@ -1,0 +1,573 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a group of children playing in a park.",
+    "objects": [
+      "children",
+      "park",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a group of children playing in a park.",
+    "objects": [
+      "children",
+      "park",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a group of children playing in a park.",
+    "objects": [
+      "children",
+      "park",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the first scene, a young boy wearing a blue hoodie is walking towards the camera while smiling.",
+    "objects": [
+      "boy",
+      "while",
+      "blue",
+      "hoodie",
+      "young",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "smiling",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "In the first scene, a young boy wearing a blue hoodie is walking towards the camera while smiling.",
+    "objects": [
+      "boy",
+      "while",
+      "blue",
+      "hoodie",
+      "young",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "smiling",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the first scene, a young boy wearing a blue hoodie is walking towards the camera while smiling.",
+    "objects": [
+      "boy",
+      "while",
+      "blue",
+      "hoodie",
+      "young",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "smiling",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the second scene, a girl with a pink hoodie is also walking towards the camera while smiling.",
+    "objects": [
+      "pink",
+      "while",
+      "second",
+      "hoodie",
+      "girl"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "In the second scene, a girl with a pink hoodie is also walking towards the camera while smiling.",
+    "objects": [
+      "pink",
+      "while",
+      "second",
+      "hoodie",
+      "girl"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "In the second scene, a girl with a pink hoodie is also walking towards the camera while smiling.",
+    "objects": [
+      "pink",
+      "while",
+      "second",
+      "hoodie",
+      "girl"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the third scene, a boy wearing a white shirt and blue hat is running towards the camera.",
+    "objects": [
+      "boy",
+      "white",
+      "blue",
+      "shirt",
+      "hat",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "running",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "In the third scene, a boy wearing a white shirt and blue hat is running towards the camera.",
+    "objects": [
+      "boy",
+      "white",
+      "blue",
+      "shirt",
+      "hat",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "running",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "In the third scene, a boy wearing a white shirt and blue hat is running towards the camera.",
+    "objects": [
+      "boy",
+      "white",
+      "blue",
+      "shirt",
+      "hat",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "running",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "In the fourth scene, two children are playing together on the grass; a girl wearing a white shirt and blue pants is sitting down, and a boy wearing a white shirt and red pants is also sitting down.",
+    "objects": [
+      "white",
+      "boy",
+      "two",
+      "fourth",
+      "children",
+      "blue",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "In the fourth scene, two children are playing together on the grass; a girl wearing a white shirt and blue pants is sitting down, and a boy wearing a white shirt and red pants is also sitting down.",
+    "objects": [
+      "white",
+      "boy",
+      "two",
+      "fourth",
+      "children",
+      "blue",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "In the fourth scene, two children are playing together on the grass; a girl wearing a white shirt and blue pants is sitting down, and a boy wearing a white shirt and red pants is also sitting down.",
+    "objects": [
+      "white",
+      "boy",
+      "two",
+      "fourth",
+      "children",
+      "blue",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "In the fifth scene, a boy with a blue hoodie is sitting on the grass while another boy with a white shirt and blue hat is sitting next to him.",
+    "objects": [
+      "boy",
+      "white",
+      "while",
+      "him",
+      "blue",
+      "shirt",
+      "fifth",
+      "hat"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "In the fifth scene, a boy with a blue hoodie is sitting on the grass while another boy with a white shirt and blue hat is sitting next to him.",
+    "objects": [
+      "boy",
+      "white",
+      "while",
+      "him",
+      "blue",
+      "shirt",
+      "fifth",
+      "hat"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "In the fifth scene, a boy with a blue hoodie is sitting on the grass while another boy with a white shirt and blue hat is sitting next to him.",
+    "objects": [
+      "boy",
+      "white",
+      "while",
+      "him",
+      "blue",
+      "shirt",
+      "fifth",
+      "hat"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "In the sixth scene, a girl wearing a white shirt and black pants is walking towards the camera.",
+    "objects": [
+      "sixth",
+      "white",
+      "black",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "In the sixth scene, a girl wearing a white shirt and black pants is walking towards the camera.",
+    "objects": [
+      "sixth",
+      "white",
+      "black",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "In the sixth scene, a girl wearing a white shirt and black pants is walking towards the camera.",
+    "objects": [
+      "sixth",
+      "white",
+      "black",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "In the seventh scene, a boy with a white shirt and red pants is walking away from the camera.",
+    "objects": [
+      "boy",
+      "white",
+      "away",
+      "shirt",
+      "from",
+      "seventh"
+    ],
+    "actions": [
+      "pants",
+      "walking",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "In the seventh scene, a boy with a white shirt and red pants is walking away from the camera.",
+    "objects": [
+      "boy",
+      "white",
+      "away",
+      "shirt",
+      "from",
+      "seventh"
+    ],
+    "actions": [
+      "pants",
+      "walking",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "In the seventh scene, a boy with a white shirt and red pants is walking away from the camera.",
+    "objects": [
+      "boy",
+      "white",
+      "away",
+      "shirt",
+      "from",
+      "seventh"
+    ],
+    "actions": [
+      "pants",
+      "walking",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "In the eighth scene, a girl with a white shirt and black pants is sitting on the grass, and a boy with a white shirt and red pants is also sitting down.",
+    "objects": [
+      "eighth",
+      "white",
+      "boy",
+      "black",
+      "shirt",
+      "grass",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "pants",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "In the eighth scene, a girl with a white shirt and black pants is sitting on the grass, and a boy with a white shirt and red pants is also sitting down.",
+    "objects": [
+      "eighth",
+      "white",
+      "boy",
+      "black",
+      "shirt",
+      "grass",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "pants",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "In the eighth scene, a girl with a white shirt and black pants is sitting on the grass, and a boy with a white shirt and red pants is also sitting down.",
+    "objects": [
+      "eighth",
+      "white",
+      "boy",
+      "black",
+      "shirt",
+      "grass",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "pants",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "In the ninth scene, a boy with a white shirt and blue hat is sitting on the grass.",
+    "objects": [
+      "white",
+      "boy",
+      "blue",
+      "shirt",
+      "ninth",
+      "hat",
+      "grass"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "In the ninth scene, a boy with a white shirt and blue hat is sitting on the grass.",
+    "objects": [
+      "white",
+      "boy",
+      "blue",
+      "shirt",
+      "ninth",
+      "hat",
+      "grass"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "In the ninth scene, a boy with a white shirt and blue hat is sitting on the grass.",
+    "objects": [
+      "white",
+      "boy",
+      "blue",
+      "shirt",
+      "ninth",
+      "hat",
+      "grass"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "In the tenth scene, a girl with a white shirt and red pants is walking towards the camera.",
+    "objects": [
+      "girl",
+      "tenth",
+      "shirt",
+      "white"
+    ],
+    "actions": [
+      "towards",
+      "pants",
+      "walking",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "In the tenth scene, a girl with a white shirt and red pants is walking towards the camera.",
+    "objects": [
+      "girl",
+      "tenth",
+      "shirt",
+      "white"
+    ],
+    "actions": [
+      "towards",
+      "pants",
+      "walking",
+      "red"
+    ],
+    "segment_id": 10
+  }
+]

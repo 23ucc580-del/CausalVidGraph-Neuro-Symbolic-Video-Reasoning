@@ -1,0 +1,528 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a lively band performance is taking place in a dimly lit restaurant.",
+    "objects": [
+      "band",
+      "place",
+      "performance",
+      "lively",
+      "lit",
+      "restaurant",
+      "dimly"
+    ],
+    "actions": [
+      "taking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a lively band performance is taking place in a dimly lit restaurant.",
+    "objects": [
+      "band",
+      "place",
+      "performance",
+      "lively",
+      "lit",
+      "restaurant",
+      "dimly"
+    ],
+    "actions": [
+      "taking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a lively band performance is taking place in a dimly lit restaurant.",
+    "objects": [
+      "band",
+      "place",
+      "performance",
+      "lively",
+      "lit",
+      "restaurant",
+      "dimly"
+    ],
+    "actions": [
+      "taking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The main focus is on two individuals, a man and a woman, each playing different musical instruments.",
+    "objects": [
+      "each",
+      "woman",
+      "two",
+      "main",
+      "musical",
+      "different",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "instruments",
+      "focus",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The main focus is on two individuals, a man and a woman, each playing different musical instruments.",
+    "objects": [
+      "each",
+      "woman",
+      "two",
+      "main",
+      "musical",
+      "different",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "instruments",
+      "focus",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The main focus is on two individuals, a man and a woman, each playing different musical instruments.",
+    "objects": [
+      "each",
+      "woman",
+      "two",
+      "main",
+      "musical",
+      "different",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "instruments",
+      "focus",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is playing a saxophone while the man is playing an accordion.",
+    "objects": [
+      "woman",
+      "while",
+      "saxophone",
+      "man",
+      "accordion"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is playing a saxophone while the man is playing an accordion.",
+    "objects": [
+      "woman",
+      "while",
+      "saxophone",
+      "man",
+      "accordion"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman is playing a saxophone while the man is playing an accordion.",
+    "objects": [
+      "woman",
+      "while",
+      "saxophone",
+      "man",
+      "accordion"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are both dressed casually, with the woman in a blue hoodie and the man in a white shirt.",
+    "objects": [
+      "they",
+      "casually",
+      "both",
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They are both dressed casually, with the woman in a blue hoodie and the man in a white shirt.",
+    "objects": [
+      "they",
+      "casually",
+      "both",
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They are both dressed casually, with the woman in a blue hoodie and the man in a white shirt.",
+    "objects": [
+      "they",
+      "casually",
+      "both",
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is also wearing glasses.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is also wearing glasses.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The man is also wearing glasses.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman has a smile on her face as she plays her saxophone.",
+    "objects": [
+      "she",
+      "woman",
+      "face",
+      "has",
+      "her",
+      "saxophone",
+      "smile"
+    ],
+    "actions": [
+      "plays"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The woman has a smile on her face as she plays her saxophone.",
+    "objects": [
+      "she",
+      "woman",
+      "face",
+      "has",
+      "her",
+      "saxophone",
+      "smile"
+    ],
+    "actions": [
+      "plays"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman has a smile on her face as she plays her saxophone.",
+    "objects": [
+      "she",
+      "woman",
+      "face",
+      "has",
+      "her",
+      "saxophone",
+      "smile"
+    ],
+    "actions": [
+      "plays"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The restaurant has Christmas decorations on the wall, and a yellow light is visible in the background.",
+    "objects": [
+      "wall",
+      "yellow",
+      "has",
+      "restaurant",
+      "light"
+    ],
+    "actions": [
+      "decorations",
+      "christmas"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The restaurant has Christmas decorations on the wall, and a yellow light is visible in the background.",
+    "objects": [
+      "wall",
+      "yellow",
+      "has",
+      "restaurant",
+      "light"
+    ],
+    "actions": [
+      "decorations",
+      "christmas"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The restaurant has Christmas decorations on the wall, and a yellow light is visible in the background.",
+    "objects": [
+      "wall",
+      "yellow",
+      "has",
+      "restaurant",
+      "light"
+    ],
+    "actions": [
+      "decorations",
+      "christmas"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The band is energetically performing, with the woman occasionally looking at the camera, and the man looking away.",
+    "objects": [
+      "band",
+      "occasionally",
+      "woman",
+      "away",
+      "energetically",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "performing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The band is energetically performing, with the woman occasionally looking at the camera, and the man looking away.",
+    "objects": [
+      "band",
+      "occasionally",
+      "woman",
+      "away",
+      "energetically",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "performing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The band is energetically performing, with the woman occasionally looking at the camera, and the man looking away.",
+    "objects": [
+      "band",
+      "occasionally",
+      "woman",
+      "away",
+      "energetically",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "performing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The crowd is seated around tables, and some are even standing, enjoying the performance.",
+    "objects": [
+      "crowd",
+      "even",
+      "performance",
+      "some",
+      "around"
+    ],
+    "actions": [
+      "tables",
+      "standing",
+      "seated",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The crowd is seated around tables, and some are even standing, enjoying the performance.",
+    "objects": [
+      "crowd",
+      "even",
+      "performance",
+      "some",
+      "around"
+    ],
+    "actions": [
+      "tables",
+      "standing",
+      "seated",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The crowd is seated around tables, and some are even standing, enjoying the performance.",
+    "objects": [
+      "crowd",
+      "even",
+      "performance",
+      "some",
+      "around"
+    ],
+    "actions": [
+      "tables",
+      "standing",
+      "seated",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The man on the accordion is wearing a black shirt.",
+    "objects": [
+      "shirt",
+      "man",
+      "black",
+      "accordion"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The man on the accordion is wearing a black shirt.",
+    "objects": [
+      "shirt",
+      "man",
+      "black",
+      "accordion"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The man on the accordion is wearing a black shirt.",
+    "objects": [
+      "shirt",
+      "man",
+      "black",
+      "accordion"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall scene is vibrant and filled with the sound of music, creating a festive atmosphere.",
+    "objects": [
+      "vibrant",
+      "atmosphere",
+      "overall",
+      "music",
+      "festive",
+      "sound"
+    ],
+    "actions": [
+      "filled",
+      "creating"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall scene is vibrant and filled with the sound of music, creating a festive atmosphere.",
+    "objects": [
+      "vibrant",
+      "atmosphere",
+      "overall",
+      "music",
+      "festive",
+      "sound"
+    ],
+    "actions": [
+      "filled",
+      "creating"
+    ],
+    "segment_id": 10
+  }
+]

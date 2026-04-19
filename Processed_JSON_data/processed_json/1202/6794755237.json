@@ -1,0 +1,594 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a cozy scene of a group of people gathered in a living room.",
+    "objects": [
+      "cozy",
+      "group",
+      "room",
+      "people"
+    ],
+    "actions": [
+      "depicts",
+      "living",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a cozy scene of a group of people gathered in a living room.",
+    "objects": [
+      "cozy",
+      "group",
+      "room",
+      "people"
+    ],
+    "actions": [
+      "depicts",
+      "living",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a cozy scene of a group of people gathered in a living room.",
+    "objects": [
+      "cozy",
+      "group",
+      "room",
+      "people"
+    ],
+    "actions": [
+      "depicts",
+      "living",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a cozy scene of a group of people gathered in a living room.",
+    "objects": [
+      "cozy",
+      "group",
+      "room",
+      "people"
+    ],
+    "actions": [
+      "depicts",
+      "living",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The group consists of two men, one wearing a blue hoodie and the other wearing a white shirt, sitting on a brown couch, engrossed in a laptop.",
+    "objects": [
+      "white",
+      "blue",
+      "couch",
+      "other",
+      "men",
+      "shirt",
+      "laptop",
+      "one"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "consists",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The group consists of two men, one wearing a blue hoodie and the other wearing a white shirt, sitting on a brown couch, engrossed in a laptop.",
+    "objects": [
+      "white",
+      "blue",
+      "couch",
+      "other",
+      "men",
+      "shirt",
+      "laptop",
+      "one"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "consists",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The group consists of two men, one wearing a blue hoodie and the other wearing a white shirt, sitting on a brown couch, engrossed in a laptop.",
+    "objects": [
+      "white",
+      "blue",
+      "couch",
+      "other",
+      "men",
+      "shirt",
+      "laptop",
+      "one"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "consists",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The group consists of two men, one wearing a blue hoodie and the other wearing a white shirt, sitting on a brown couch, engrossed in a laptop.",
+    "objects": [
+      "white",
+      "blue",
+      "couch",
+      "other",
+      "men",
+      "shirt",
+      "laptop",
+      "one"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "consists",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are surrounded by a coffee table scattered with various items, including a white laptop, a blue mug, a white bowl, a black cup, and a white plate.",
+    "objects": [
+      "white",
+      "blue",
+      "cup",
+      "coffee",
+      "laptop",
+      "bowl",
+      "table",
+      "mug"
+    ],
+    "actions": [
+      "surrounded",
+      "items",
+      "scattered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are surrounded by a coffee table scattered with various items, including a white laptop, a blue mug, a white bowl, a black cup, and a white plate.",
+    "objects": [
+      "white",
+      "blue",
+      "cup",
+      "coffee",
+      "laptop",
+      "bowl",
+      "table",
+      "mug"
+    ],
+    "actions": [
+      "surrounded",
+      "items",
+      "scattered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are surrounded by a coffee table scattered with various items, including a white laptop, a blue mug, a white bowl, a black cup, and a white plate.",
+    "objects": [
+      "white",
+      "blue",
+      "cup",
+      "coffee",
+      "laptop",
+      "bowl",
+      "table",
+      "mug"
+    ],
+    "actions": [
+      "surrounded",
+      "items",
+      "scattered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are surrounded by a coffee table scattered with various items, including a white laptop, a blue mug, a white bowl, a black cup, and a white plate.",
+    "objects": [
+      "white",
+      "blue",
+      "cup",
+      "coffee",
+      "laptop",
+      "bowl",
+      "table",
+      "mug"
+    ],
+    "actions": [
+      "surrounded",
+      "items",
+      "scattered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A potted plant sits on the table nearby.",
+    "objects": [
+      "nearby",
+      "sits",
+      "plant",
+      "table"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A potted plant sits on the table nearby.",
+    "objects": [
+      "nearby",
+      "sits",
+      "plant",
+      "table"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A potted plant sits on the table nearby.",
+    "objects": [
+      "nearby",
+      "sits",
+      "plant",
+      "table"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A potted plant sits on the table nearby.",
+    "objects": [
+      "nearby",
+      "sits",
+      "plant",
+      "table"
+    ],
+    "actions": [
+      "potted"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman is sitting on a couch nearby, wearing a black top and blue jeans.",
+    "objects": [
+      "couch",
+      "blue",
+      "top",
+      "nearby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "jeans",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman is sitting on a couch nearby, wearing a black top and blue jeans.",
+    "objects": [
+      "couch",
+      "blue",
+      "top",
+      "nearby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "jeans",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman is sitting on a couch nearby, wearing a black top and blue jeans.",
+    "objects": [
+      "couch",
+      "blue",
+      "top",
+      "nearby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "jeans",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman is sitting on a couch nearby, wearing a black top and blue jeans.",
+    "objects": [
+      "couch",
+      "blue",
+      "top",
+      "nearby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "jeans",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "She appears to be in deep thought, her gaze directed towards the laptop screen.",
+    "objects": [
+      "her",
+      "thought",
+      "deep",
+      "laptop",
+      "screen",
+      "gaze",
+      "she"
+    ],
+    "actions": [
+      "directed",
+      "towards"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "She appears to be in deep thought, her gaze directed towards the laptop screen.",
+    "objects": [
+      "her",
+      "thought",
+      "deep",
+      "laptop",
+      "screen",
+      "gaze",
+      "she"
+    ],
+    "actions": [
+      "directed",
+      "towards"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "She appears to be in deep thought, her gaze directed towards the laptop screen.",
+    "objects": [
+      "her",
+      "thought",
+      "deep",
+      "laptop",
+      "screen",
+      "gaze",
+      "she"
+    ],
+    "actions": [
+      "directed",
+      "towards"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "She appears to be in deep thought, her gaze directed towards the laptop screen.",
+    "objects": [
+      "her",
+      "thought",
+      "deep",
+      "laptop",
+      "screen",
+      "gaze",
+      "she"
+    ],
+    "actions": [
+      "directed",
+      "towards"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "In the background, a man in a blue sweater is seen walking away, while a young boy in a gray shirt is standing on the same couch, looking at the laptop screen.",
+    "objects": [
+      "couch",
+      "sweater",
+      "blue",
+      "gray",
+      "away",
+      "man",
+      "while",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, a man in a blue sweater is seen walking away, while a young boy in a gray shirt is standing on the same couch, looking at the laptop screen.",
+    "objects": [
+      "couch",
+      "sweater",
+      "blue",
+      "gray",
+      "away",
+      "man",
+      "while",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, a man in a blue sweater is seen walking away, while a young boy in a gray shirt is standing on the same couch, looking at the laptop screen.",
+    "objects": [
+      "couch",
+      "sweater",
+      "blue",
+      "gray",
+      "away",
+      "man",
+      "while",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "In the background, a man in a blue sweater is seen walking away, while a young boy in a gray shirt is standing on the same couch, looking at the laptop screen.",
+    "objects": [
+      "couch",
+      "sweater",
+      "blue",
+      "gray",
+      "away",
+      "man",
+      "while",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The room has a warm, inviting atmosphere, and the people seem to be immersed in their activities, creating a sense of camaraderie.",
+    "objects": [
+      "warm",
+      "seem",
+      "room",
+      "has",
+      "camaraderie",
+      "people",
+      "sense",
+      "their"
+    ],
+    "actions": [
+      "inviting",
+      "immersed",
+      "activities",
+      "creating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The room has a warm, inviting atmosphere, and the people seem to be immersed in their activities, creating a sense of camaraderie.",
+    "objects": [
+      "warm",
+      "seem",
+      "room",
+      "has",
+      "camaraderie",
+      "people",
+      "sense",
+      "their"
+    ],
+    "actions": [
+      "inviting",
+      "immersed",
+      "activities",
+      "creating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The room has a warm, inviting atmosphere, and the people seem to be immersed in their activities, creating a sense of camaraderie.",
+    "objects": [
+      "warm",
+      "seem",
+      "room",
+      "has",
+      "camaraderie",
+      "people",
+      "sense",
+      "their"
+    ],
+    "actions": [
+      "inviting",
+      "immersed",
+      "activities",
+      "creating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The room has a warm, inviting atmosphere, and the people seem to be immersed in their activities, creating a sense of camaraderie.",
+    "objects": [
+      "warm",
+      "seem",
+      "room",
+      "has",
+      "camaraderie",
+      "people",
+      "sense",
+      "their"
+    ],
+    "actions": [
+      "inviting",
+      "immersed",
+      "activities",
+      "creating"
+    ],
+    "segment_id": 7
+  }
+]

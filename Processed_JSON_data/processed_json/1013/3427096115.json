@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene in a bar.",
+    "objects": [
+      "bar",
+      "lively"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively scene in a bar.",
+    "objects": [
+      "bar",
+      "lively"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively scene in a bar.",
+    "objects": [
+      "bar",
+      "lively"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively scene in a bar.",
+    "objects": [
+      "bar",
+      "lively"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The main focus is on a group of people, with a man prominently holding a large beer mug and taking a drink.",
+    "objects": [
+      "large",
+      "people",
+      "prominently",
+      "main",
+      "beer",
+      "mug",
+      "man",
+      "drink"
+    ],
+    "actions": [
+      "taking",
+      "focus",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The main focus is on a group of people, with a man prominently holding a large beer mug and taking a drink.",
+    "objects": [
+      "large",
+      "people",
+      "prominently",
+      "main",
+      "beer",
+      "mug",
+      "man",
+      "drink"
+    ],
+    "actions": [
+      "taking",
+      "focus",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The main focus is on a group of people, with a man prominently holding a large beer mug and taking a drink.",
+    "objects": [
+      "large",
+      "people",
+      "prominently",
+      "main",
+      "beer",
+      "mug",
+      "man",
+      "drink"
+    ],
+    "actions": [
+      "taking",
+      "focus",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The main focus is on a group of people, with a man prominently holding a large beer mug and taking a drink.",
+    "objects": [
+      "large",
+      "people",
+      "prominently",
+      "main",
+      "beer",
+      "mug",
+      "man",
+      "drink"
+    ],
+    "actions": [
+      "taking",
+      "focus",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He appears to be in a cheerful mood, as he points at the camera while laughing.",
+    "objects": [
+      "while",
+      "cheerful",
+      "mood"
+    ],
+    "actions": [
+      "points",
+      "laughing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He appears to be in a cheerful mood, as he points at the camera while laughing.",
+    "objects": [
+      "while",
+      "cheerful",
+      "mood"
+    ],
+    "actions": [
+      "points",
+      "laughing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He appears to be in a cheerful mood, as he points at the camera while laughing.",
+    "objects": [
+      "while",
+      "cheerful",
+      "mood"
+    ],
+    "actions": [
+      "points",
+      "laughing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He appears to be in a cheerful mood, as he points at the camera while laughing.",
+    "objects": [
+      "while",
+      "cheerful",
+      "mood"
+    ],
+    "actions": [
+      "points",
+      "laughing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another person is seen holding a smaller beer mug, smiling, and also pointing at the camera.",
+    "objects": [
+      "beer",
+      "mug",
+      "smaller"
+    ],
+    "actions": [
+      "holding",
+      "pointing",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another person is seen holding a smaller beer mug, smiling, and also pointing at the camera.",
+    "objects": [
+      "beer",
+      "mug",
+      "smaller"
+    ],
+    "actions": [
+      "holding",
+      "pointing",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another person is seen holding a smaller beer mug, smiling, and also pointing at the camera.",
+    "objects": [
+      "beer",
+      "mug",
+      "smaller"
+    ],
+    "actions": [
+      "holding",
+      "pointing",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another person is seen holding a smaller beer mug, smiling, and also pointing at the camera.",
+    "objects": [
+      "beer",
+      "mug",
+      "smaller"
+    ],
+    "actions": [
+      "holding",
+      "pointing",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The bar is filled with people, some of whom are holding their beer mugs and laughing, while others are engaging in conversation.",
+    "objects": [
+      "their",
+      "bar",
+      "people",
+      "while",
+      "mugs",
+      "conversation",
+      "whom",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "filled",
+      "holding",
+      "engaging"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The bar is filled with people, some of whom are holding their beer mugs and laughing, while others are engaging in conversation.",
+    "objects": [
+      "their",
+      "bar",
+      "people",
+      "while",
+      "mugs",
+      "conversation",
+      "whom",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "filled",
+      "holding",
+      "engaging"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The bar is filled with people, some of whom are holding their beer mugs and laughing, while others are engaging in conversation.",
+    "objects": [
+      "their",
+      "bar",
+      "people",
+      "while",
+      "mugs",
+      "conversation",
+      "whom",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "filled",
+      "holding",
+      "engaging"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The bar is filled with people, some of whom are holding their beer mugs and laughing, while others are engaging in conversation.",
+    "objects": [
+      "their",
+      "bar",
+      "people",
+      "while",
+      "mugs",
+      "conversation",
+      "whom",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "filled",
+      "holding",
+      "engaging"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene is bustling with activity, with people standing and sitting around tables, some drinking, and others chatting.",
+    "objects": [
+      "some",
+      "around",
+      "activity",
+      "people"
+    ],
+    "actions": [
+      "standing",
+      "others",
+      "sitting",
+      "chatting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene is bustling with activity, with people standing and sitting around tables, some drinking, and others chatting.",
+    "objects": [
+      "some",
+      "around",
+      "activity",
+      "people"
+    ],
+    "actions": [
+      "standing",
+      "others",
+      "sitting",
+      "chatting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene is bustling with activity, with people standing and sitting around tables, some drinking, and others chatting.",
+    "objects": [
+      "some",
+      "around",
+      "activity",
+      "people"
+    ],
+    "actions": [
+      "standing",
+      "others",
+      "sitting",
+      "chatting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene is bustling with activity, with people standing and sitting around tables, some drinking, and others chatting.",
+    "objects": [
+      "some",
+      "around",
+      "activity",
+      "people"
+    ],
+    "actions": [
+      "standing",
+      "others",
+      "sitting",
+      "chatting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The bar is filled with a variety of people, some wearing casual clothes and others in more formal attire, all engaging in social interactions.",
+    "objects": [
+      "bar",
+      "people",
+      "attire",
+      "variety",
+      "casual",
+      "social",
+      "some",
+      "more"
+    ],
+    "actions": [
+      "others",
+      "interactions",
+      "wearing",
+      "filled"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The bar is filled with a variety of people, some wearing casual clothes and others in more formal attire, all engaging in social interactions.",
+    "objects": [
+      "bar",
+      "people",
+      "attire",
+      "variety",
+      "casual",
+      "social",
+      "some",
+      "more"
+    ],
+    "actions": [
+      "others",
+      "interactions",
+      "wearing",
+      "filled"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The bar is filled with a variety of people, some wearing casual clothes and others in more formal attire, all engaging in social interactions.",
+    "objects": [
+      "bar",
+      "people",
+      "attire",
+      "variety",
+      "casual",
+      "social",
+      "some",
+      "more"
+    ],
+    "actions": [
+      "others",
+      "interactions",
+      "wearing",
+      "filled"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The bar is filled with a variety of people, some wearing casual clothes and others in more formal attire, all engaging in social interactions.",
+    "objects": [
+      "bar",
+      "people",
+      "attire",
+      "variety",
+      "casual",
+      "social",
+      "some",
+      "more"
+    ],
+    "actions": [
+      "others",
+      "interactions",
+      "wearing",
+      "filled"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The setting is a typical bar atmosphere, with the ambient noise of chatter and the clinking of glasses.",
+    "objects": [
+      "bar",
+      "chatter",
+      "ambient",
+      "typical",
+      "noise",
+      "atmosphere"
+    ],
+    "actions": [
+      "glasses",
+      "clinking",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The setting is a typical bar atmosphere, with the ambient noise of chatter and the clinking of glasses.",
+    "objects": [
+      "bar",
+      "chatter",
+      "ambient",
+      "typical",
+      "noise",
+      "atmosphere"
+    ],
+    "actions": [
+      "glasses",
+      "clinking",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The setting is a typical bar atmosphere, with the ambient noise of chatter and the clinking of glasses.",
+    "objects": [
+      "bar",
+      "chatter",
+      "ambient",
+      "typical",
+      "noise",
+      "atmosphere"
+    ],
+    "actions": [
+      "glasses",
+      "clinking",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The setting is a typical bar atmosphere, with the ambient noise of chatter and the clinking of glasses.",
+    "objects": [
+      "bar",
+      "chatter",
+      "ambient",
+      "typical",
+      "noise",
+      "atmosphere"
+    ],
+    "actions": [
+      "glasses",
+      "clinking",
+      "setting"
+    ],
+    "segment_id": 7
+  }
+]

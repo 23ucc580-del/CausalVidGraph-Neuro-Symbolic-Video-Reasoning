@@ -1,0 +1,602 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a young girl dressed in a white dress playing the violin while a woman in a black dress plays the piano.",
+    "objects": [
+      "white",
+      "violin",
+      "while",
+      "dress",
+      "young",
+      "girl",
+      "woman",
+      "black"
+    ],
+    "actions": [
+      "plays",
+      "playing",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a young girl dressed in a white dress playing the violin while a woman in a black dress plays the piano.",
+    "objects": [
+      "white",
+      "violin",
+      "while",
+      "dress",
+      "young",
+      "girl",
+      "woman",
+      "black"
+    ],
+    "actions": [
+      "plays",
+      "playing",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a young girl dressed in a white dress playing the violin while a woman in a black dress plays the piano.",
+    "objects": [
+      "white",
+      "violin",
+      "while",
+      "dress",
+      "young",
+      "girl",
+      "woman",
+      "black"
+    ],
+    "actions": [
+      "plays",
+      "playing",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a young girl dressed in a white dress playing the violin while a woman in a black dress plays the piano.",
+    "objects": [
+      "white",
+      "violin",
+      "while",
+      "dress",
+      "young",
+      "girl",
+      "woman",
+      "black"
+    ],
+    "actions": [
+      "plays",
+      "playing",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "They are both seated on a stage, facing towards the front.",
+    "objects": [
+      "stage",
+      "they",
+      "both"
+    ],
+    "actions": [
+      "seated",
+      "towards",
+      "facing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "They are both seated on a stage, facing towards the front.",
+    "objects": [
+      "stage",
+      "they",
+      "both"
+    ],
+    "actions": [
+      "seated",
+      "towards",
+      "facing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are both seated on a stage, facing towards the front.",
+    "objects": [
+      "stage",
+      "they",
+      "both"
+    ],
+    "actions": [
+      "seated",
+      "towards",
+      "facing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "They are both seated on a stage, facing towards the front.",
+    "objects": [
+      "stage",
+      "they",
+      "both"
+    ],
+    "actions": [
+      "seated",
+      "towards",
+      "facing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The girl's violin is positioned horizontally, and she is holding the instrument with her right hand, while her left hand is on the strings.",
+    "objects": [
+      "instrument",
+      "horizontally",
+      "violin",
+      "hand",
+      "her",
+      "while",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "girl's",
+      "positioned",
+      "strings"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The girl's violin is positioned horizontally, and she is holding the instrument with her right hand, while her left hand is on the strings.",
+    "objects": [
+      "instrument",
+      "horizontally",
+      "violin",
+      "hand",
+      "her",
+      "while",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "girl's",
+      "positioned",
+      "strings"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The girl's violin is positioned horizontally, and she is holding the instrument with her right hand, while her left hand is on the strings.",
+    "objects": [
+      "instrument",
+      "horizontally",
+      "violin",
+      "hand",
+      "her",
+      "while",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "girl's",
+      "positioned",
+      "strings"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The girl's violin is positioned horizontally, and she is holding the instrument with her right hand, while her left hand is on the strings.",
+    "objects": [
+      "instrument",
+      "horizontally",
+      "violin",
+      "hand",
+      "her",
+      "while",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "girl's",
+      "positioned",
+      "strings"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman's piano is also positioned horizontally, and she is wearing a pearl necklace.",
+    "objects": [
+      "horizontally",
+      "necklace",
+      "pearl",
+      "piano",
+      "she"
+    ],
+    "actions": [
+      "woman's",
+      "wearing",
+      "positioned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman's piano is also positioned horizontally, and she is wearing a pearl necklace.",
+    "objects": [
+      "horizontally",
+      "necklace",
+      "pearl",
+      "piano",
+      "she"
+    ],
+    "actions": [
+      "woman's",
+      "wearing",
+      "positioned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman's piano is also positioned horizontally, and she is wearing a pearl necklace.",
+    "objects": [
+      "horizontally",
+      "necklace",
+      "pearl",
+      "piano",
+      "she"
+    ],
+    "actions": [
+      "woman's",
+      "wearing",
+      "positioned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman's piano is also positioned horizontally, and she is wearing a pearl necklace.",
+    "objects": [
+      "horizontally",
+      "necklace",
+      "pearl",
+      "piano",
+      "she"
+    ],
+    "actions": [
+      "woman's",
+      "wearing",
+      "positioned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The girl's hair is tied in a ponytail and she is wearing a white shirt and a blue skirt.",
+    "objects": [
+      "white",
+      "blue",
+      "ponytail",
+      "skirt",
+      "shirt",
+      "hair",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "tied",
+      "girl's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The girl's hair is tied in a ponytail and she is wearing a white shirt and a blue skirt.",
+    "objects": [
+      "white",
+      "blue",
+      "ponytail",
+      "skirt",
+      "shirt",
+      "hair",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "tied",
+      "girl's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The girl's hair is tied in a ponytail and she is wearing a white shirt and a blue skirt.",
+    "objects": [
+      "white",
+      "blue",
+      "ponytail",
+      "skirt",
+      "shirt",
+      "hair",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "tied",
+      "girl's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The girl's hair is tied in a ponytail and she is wearing a white shirt and a blue skirt.",
+    "objects": [
+      "white",
+      "blue",
+      "ponytail",
+      "skirt",
+      "shirt",
+      "hair",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "tied",
+      "girl's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "They seem to be playing a song together, with the girl's hand moving up and down the violin's strings in rhythm with the woman's hand movements on the piano.",
+    "objects": [
+      "hand",
+      "seem",
+      "rhythm",
+      "together",
+      "song",
+      "piano",
+      "they"
+    ],
+    "actions": [
+      "movements",
+      "girl's",
+      "moving",
+      "strings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "They seem to be playing a song together, with the girl's hand moving up and down the violin's strings in rhythm with the woman's hand movements on the piano.",
+    "objects": [
+      "hand",
+      "seem",
+      "rhythm",
+      "together",
+      "song",
+      "piano",
+      "they"
+    ],
+    "actions": [
+      "movements",
+      "girl's",
+      "moving",
+      "strings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "They seem to be playing a song together, with the girl's hand moving up and down the violin's strings in rhythm with the woman's hand movements on the piano.",
+    "objects": [
+      "hand",
+      "seem",
+      "rhythm",
+      "together",
+      "song",
+      "piano",
+      "they"
+    ],
+    "actions": [
+      "movements",
+      "girl's",
+      "moving",
+      "strings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "They seem to be playing a song together, with the girl's hand moving up and down the violin's strings in rhythm with the woman's hand movements on the piano.",
+    "objects": [
+      "hand",
+      "seem",
+      "rhythm",
+      "together",
+      "song",
+      "piano",
+      "they"
+    ],
+    "actions": [
+      "movements",
+      "girl's",
+      "moving",
+      "strings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman's movements are precise and calculated, while the girl's are more expressive and free-flowing, indicating that they might be improvising.",
+    "objects": [
+      "more",
+      "expressive",
+      "while",
+      "that",
+      "might",
+      "precise",
+      "they"
+    ],
+    "actions": [
+      "movements",
+      "free-flowing",
+      "girl's",
+      "woman's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman's movements are precise and calculated, while the girl's are more expressive and free-flowing, indicating that they might be improvising.",
+    "objects": [
+      "more",
+      "expressive",
+      "while",
+      "that",
+      "might",
+      "precise",
+      "they"
+    ],
+    "actions": [
+      "movements",
+      "free-flowing",
+      "girl's",
+      "woman's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman's movements are precise and calculated, while the girl's are more expressive and free-flowing, indicating that they might be improvising.",
+    "objects": [
+      "more",
+      "expressive",
+      "while",
+      "that",
+      "might",
+      "precise",
+      "they"
+    ],
+    "actions": [
+      "movements",
+      "free-flowing",
+      "girl's",
+      "woman's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman's movements are precise and calculated, while the girl's are more expressive and free-flowing, indicating that they might be improvising.",
+    "objects": [
+      "more",
+      "expressive",
+      "while",
+      "that",
+      "might",
+      "precise",
+      "they"
+    ],
+    "actions": [
+      "movements",
+      "free-flowing",
+      "girl's",
+      "woman's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The audience is out of frame, but the atmosphere is intimate and focused, suggesting a small, private performance.",
+    "objects": [
+      "audience",
+      "small",
+      "performance",
+      "but",
+      "intimate",
+      "out",
+      "private",
+      "atmosphere"
+    ],
+    "actions": [
+      "focused",
+      "suggesting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The audience is out of frame, but the atmosphere is intimate and focused, suggesting a small, private performance.",
+    "objects": [
+      "audience",
+      "small",
+      "performance",
+      "but",
+      "intimate",
+      "out",
+      "private",
+      "atmosphere"
+    ],
+    "actions": [
+      "focused",
+      "suggesting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The audience is out of frame, but the atmosphere is intimate and focused, suggesting a small, private performance.",
+    "objects": [
+      "audience",
+      "small",
+      "performance",
+      "but",
+      "intimate",
+      "out",
+      "private",
+      "atmosphere"
+    ],
+    "actions": [
+      "focused",
+      "suggesting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The audience is out of frame, but the atmosphere is intimate and focused, suggesting a small, private performance.",
+    "objects": [
+      "audience",
+      "small",
+      "performance",
+      "but",
+      "intimate",
+      "out",
+      "private",
+      "atmosphere"
+    ],
+    "actions": [
+      "focused",
+      "suggesting"
+    ],
+    "segment_id": 7
+  }
+]

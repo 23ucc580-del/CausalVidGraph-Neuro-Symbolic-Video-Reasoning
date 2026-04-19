@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man wearing a blue baseball cap is sitting on a patio, holding a glass of beer.",
+    "objects": [
+      "blue",
+      "baseball",
+      "patio",
+      "beer",
+      "man",
+      "cap",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man wearing a blue baseball cap is sitting on a patio, holding a glass of beer.",
+    "objects": [
+      "blue",
+      "baseball",
+      "patio",
+      "beer",
+      "man",
+      "cap",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man wearing a blue baseball cap is sitting on a patio, holding a glass of beer.",
+    "objects": [
+      "blue",
+      "baseball",
+      "patio",
+      "beer",
+      "man",
+      "cap",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man wearing a blue baseball cap is sitting on a patio, holding a glass of beer.",
+    "objects": [
+      "blue",
+      "baseball",
+      "patio",
+      "beer",
+      "man",
+      "cap",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He appears to be enjoying a leisurely moment, taking a sip of his drink.",
+    "objects": [
+      "leisurely",
+      "his",
+      "sip",
+      "moment",
+      "drink"
+    ],
+    "actions": [
+      "taking",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He appears to be enjoying a leisurely moment, taking a sip of his drink.",
+    "objects": [
+      "leisurely",
+      "his",
+      "sip",
+      "moment",
+      "drink"
+    ],
+    "actions": [
+      "taking",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He appears to be enjoying a leisurely moment, taking a sip of his drink.",
+    "objects": [
+      "leisurely",
+      "his",
+      "sip",
+      "moment",
+      "drink"
+    ],
+    "actions": [
+      "taking",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He appears to be enjoying a leisurely moment, taking a sip of his drink.",
+    "objects": [
+      "leisurely",
+      "his",
+      "sip",
+      "moment",
+      "drink"
+    ],
+    "actions": [
+      "taking",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The patio is surrounded by a brick wall, and there are windows on either side, allowing natural light to fill the space.",
+    "objects": [
+      "wall",
+      "natural",
+      "either",
+      "there",
+      "fill",
+      "space",
+      "patio",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "surrounded",
+      "allowing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The patio is surrounded by a brick wall, and there are windows on either side, allowing natural light to fill the space.",
+    "objects": [
+      "wall",
+      "natural",
+      "either",
+      "there",
+      "fill",
+      "space",
+      "patio",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "surrounded",
+      "allowing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The patio is surrounded by a brick wall, and there are windows on either side, allowing natural light to fill the space.",
+    "objects": [
+      "wall",
+      "natural",
+      "either",
+      "there",
+      "fill",
+      "space",
+      "patio",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "surrounded",
+      "allowing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The patio is surrounded by a brick wall, and there are windows on either side, allowing natural light to fill the space.",
+    "objects": [
+      "wall",
+      "natural",
+      "either",
+      "there",
+      "fill",
+      "space",
+      "patio",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "surrounded",
+      "allowing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man's gaze is directed towards the camera, and he seems to be in a relaxed state, possibly engaged in a conversation or just taking in the view.",
+    "objects": [
+      "state",
+      "gaze",
+      "possibly",
+      "conversation",
+      "just"
+    ],
+    "actions": [
+      "towards",
+      "seems",
+      "man's",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man's gaze is directed towards the camera, and he seems to be in a relaxed state, possibly engaged in a conversation or just taking in the view.",
+    "objects": [
+      "state",
+      "gaze",
+      "possibly",
+      "conversation",
+      "just"
+    ],
+    "actions": [
+      "towards",
+      "seems",
+      "man's",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man's gaze is directed towards the camera, and he seems to be in a relaxed state, possibly engaged in a conversation or just taking in the view.",
+    "objects": [
+      "state",
+      "gaze",
+      "possibly",
+      "conversation",
+      "just"
+    ],
+    "actions": [
+      "towards",
+      "seems",
+      "man's",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man's gaze is directed towards the camera, and he seems to be in a relaxed state, possibly engaged in a conversation or just taking in the view.",
+    "objects": [
+      "state",
+      "gaze",
+      "possibly",
+      "conversation",
+      "just"
+    ],
+    "actions": [
+      "towards",
+      "seems",
+      "man's",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The atmosphere is casual and laid-back.",
+    "objects": [
+      "casual",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The atmosphere is casual and laid-back.",
+    "objects": [
+      "casual",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The atmosphere is casual and laid-back.",
+    "objects": [
+      "casual",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The atmosphere is casual and laid-back.",
+    "objects": [
+      "casual",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is dressed in casual attire, suggesting a relaxed or informal setting.",
+    "objects": [
+      "casual",
+      "man",
+      "attire",
+      "informal"
+    ],
+    "actions": [
+      "dressed",
+      "relaxed",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is dressed in casual attire, suggesting a relaxed or informal setting.",
+    "objects": [
+      "casual",
+      "man",
+      "attire",
+      "informal"
+    ],
+    "actions": [
+      "dressed",
+      "relaxed",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is dressed in casual attire, suggesting a relaxed or informal setting.",
+    "objects": [
+      "casual",
+      "man",
+      "attire",
+      "informal"
+    ],
+    "actions": [
+      "dressed",
+      "relaxed",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is dressed in casual attire, suggesting a relaxed or informal setting.",
+    "objects": [
+      "casual",
+      "man",
+      "attire",
+      "informal"
+    ],
+    "actions": [
+      "dressed",
+      "relaxed",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The beer glass is clear and appears to be half full, with a pale yellowish liquid inside, indicating the beer's color.",
+    "objects": [
+      "full",
+      "yellowish",
+      "liquid",
+      "half",
+      "beer",
+      "clear",
+      "inside",
+      "color"
+    ],
+    "actions": [
+      "beer's",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The beer glass is clear and appears to be half full, with a pale yellowish liquid inside, indicating the beer's color.",
+    "objects": [
+      "full",
+      "yellowish",
+      "liquid",
+      "half",
+      "beer",
+      "clear",
+      "inside",
+      "color"
+    ],
+    "actions": [
+      "beer's",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The beer glass is clear and appears to be half full, with a pale yellowish liquid inside, indicating the beer's color.",
+    "objects": [
+      "full",
+      "yellowish",
+      "liquid",
+      "half",
+      "beer",
+      "clear",
+      "inside",
+      "color"
+    ],
+    "actions": [
+      "beer's",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The beer glass is clear and appears to be half full, with a pale yellowish liquid inside, indicating the beer's color.",
+    "objects": [
+      "full",
+      "yellowish",
+      "liquid",
+      "half",
+      "beer",
+      "clear",
+      "inside",
+      "color"
+    ],
+    "actions": [
+      "beer's",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man's expression is one of contentment and relaxation, suggesting he is enjoying his time.",
+    "objects": [
+      "one",
+      "relaxation",
+      "contentment",
+      "his",
+      "expression",
+      "time"
+    ],
+    "actions": [
+      "man's",
+      "suggesting",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man's expression is one of contentment and relaxation, suggesting he is enjoying his time.",
+    "objects": [
+      "one",
+      "relaxation",
+      "contentment",
+      "his",
+      "expression",
+      "time"
+    ],
+    "actions": [
+      "man's",
+      "suggesting",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man's expression is one of contentment and relaxation, suggesting he is enjoying his time.",
+    "objects": [
+      "one",
+      "relaxation",
+      "contentment",
+      "his",
+      "expression",
+      "time"
+    ],
+    "actions": [
+      "man's",
+      "suggesting",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man's expression is one of contentment and relaxation, suggesting he is enjoying his time.",
+    "objects": [
+      "one",
+      "relaxation",
+      "contentment",
+      "his",
+      "expression",
+      "time"
+    ],
+    "actions": [
+      "man's",
+      "suggesting",
+      "enjoying"
+    ],
+    "segment_id": 7
+  }
+]

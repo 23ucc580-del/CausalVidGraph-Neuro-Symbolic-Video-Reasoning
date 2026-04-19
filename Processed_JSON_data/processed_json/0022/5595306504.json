@@ -1,0 +1,524 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This is a detailed description of the video scene by scene, including the actions of the people, their attire, and any objects they are holding:\n\n\nScene 1:\n- A person is seen walking down the street with a blue hoodie on, a white shirt, and blue jeans.",
+    "objects": [
+      "shirt",
+      "blue",
+      "description",
+      "their",
+      "street",
+      "white",
+      "attire",
+      "hoodie"
+    ],
+    "actions": [
+      "detailed",
+      "jeans",
+      "objects",
+      "actions"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "They are carrying a backpack.",
+    "objects": [
+      "they",
+      "backpack"
+    ],
+    "actions": [
+      "carrying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "- The camera then shifts to a person who is wearing a black hoodie and a black hat, holding a red umbrella.",
+    "objects": [
+      "then",
+      "black",
+      "umbrella",
+      "hat",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "shifts",
+      "red",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "- A third person, wearing a green hoodie, is walking in the opposite direction of the first two.",
+    "objects": [
+      "third",
+      "first",
+      "direction",
+      "opposite",
+      "green",
+      "hoodie",
+      "two"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "- The camera pans to a person who is walking on the street, wearing a gray jacket and a white shirt.",
+    "objects": [
+      "shirt",
+      "jacket",
+      "white",
+      "street",
+      "gray",
+      "who",
+      "pans"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "- The scene then shifts to a man in a black shirt, blue jeans, and a black hat, walking down the street.",
+    "objects": [
+      "shirt",
+      "blue",
+      "then",
+      "street",
+      "black",
+      "man",
+      "hat"
+    ],
+    "actions": [
+      "jeans",
+      "shifts",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "- A person in a blue hoodie and a white shirt is walking in the same direction as the first two, carrying a red umbrella.",
+    "objects": [
+      "shirt",
+      "blue",
+      "white",
+      "same",
+      "first",
+      "direction",
+      "umbrella",
+      "hoodie"
+    ],
+    "actions": [
+      "carrying",
+      "red",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "Scene 2:\n- A person wearing a black hoodie, black hat, and black shirt is walking on the street.",
+    "objects": [
+      "shirt",
+      "street",
+      "black",
+      "hat",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "- A woman in a black shirt and jeans is walking in the opposite direction.",
+    "objects": [
+      "shirt",
+      "black",
+      "direction",
+      "opposite",
+      "woman"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "- A person in a black shirt and white hat is walking on the street.",
+    "objects": [
+      "shirt",
+      "white",
+      "street",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "- A person wearing a gray shirt and blue jeans is walking in the same direction as the first two.",
+    "objects": [
+      "shirt",
+      "blue",
+      "same",
+      "gray",
+      "first",
+      "direction",
+      "two"
+    ],
+    "actions": [
+      "jeans",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "- A person wearing a black shirt, blue jeans, and black hat is walking in the opposite direction.",
+    "objects": [
+      "shirt",
+      "blue",
+      "black",
+      "direction",
+      "opposite",
+      "hat"
+    ],
+    "actions": [
+      "jeans",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "Scene 3:\n- A person wearing a black hoodie and black hat is walking on the street.",
+    "objects": [
+      "hat",
+      "street",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "- A person in a black shirt and jeans is walking in the same direction.",
+    "objects": [
+      "shirt",
+      "same",
+      "direction",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "- A person wearing a gray shirt and black hat is walking on the street.",
+    "objects": [
+      "shirt",
+      "street",
+      "gray",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "- A person in a black shirt and blue jeans is walking in the opposite direction.",
+    "objects": [
+      "shirt",
+      "blue",
+      "black",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "- A person wearing a black shirt and black hat is walking in the opposite direction.",
+    "objects": [
+      "shirt",
+      "black",
+      "direction",
+      "opposite",
+      "hat"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "Scene 4:\n- A person wearing a black hoodie, black hat, and black shirt is walking on the street.",
+    "objects": [
+      "shirt",
+      "street",
+      "black",
+      "hat",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "- A person in a black shirt and jeans is walking in the same direction.",
+    "objects": [
+      "shirt",
+      "same",
+      "direction",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "- A person wearing a gray shirt and black hat is walking on the street.",
+    "objects": [
+      "shirt",
+      "street",
+      "gray",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "- A person in a black shirt and black hat is walking in the opposite direction.",
+    "objects": [
+      "shirt",
+      "black",
+      "direction",
+      "opposite",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "- A person wearing a black shirt and jeans is walking in the same direction.",
+    "objects": [
+      "shirt",
+      "same",
+      "direction",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "Scene 5:\n- A person wearing a black hoodie, black hat, and black shirt is walking on the street.",
+    "objects": [
+      "shirt",
+      "street",
+      "black",
+      "hat",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "- A person in a black shirt and jeans is walking in the opposite direction.",
+    "objects": [
+      "shirt",
+      "direction",
+      "opposite",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "- A person wearing a gray shirt and black hat is walking on the street.",
+    "objects": [
+      "shirt",
+      "street",
+      "gray",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "- A person in a black shirt and black hat is walking in the opposite direction.",
+    "objects": [
+      "shirt",
+      "black",
+      "direction",
+      "opposite",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "Scene 6:\n- A person wearing a black hoodie, black hat, and black shirt is walking on the street.",
+    "objects": [
+      "shirt",
+      "street",
+      "black",
+      "hat",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "- A person in a black shirt and jeans is walking in the same direction.",
+    "objects": [
+      "shirt",
+      "same",
+      "direction",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "- A person wearing a gray shirt and black hat is walking on the street.",
+    "objects": [
+      "shirt",
+      "street",
+      "gray",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "- A person in a black shirt and black hat is walking in the opposite direction.",
+    "objects": [
+      "shirt",
+      "black",
+      "direction",
+      "opposite",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "Scene 7:\n- A person wearing a black hoodie, black hat, and black shirt is walking on the street.",
+    "objects": [
+      "shirt",
+      "street",
+      "black",
+      "hat",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "- A person in a black shirt and jeans is walking in the same direction.",
+    "objects": [
+      "shirt",
+      "same",
+      "direction",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 31
+  }
+]

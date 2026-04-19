@@ -1,0 +1,486 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a person riding a horse in a snowy field, with a barn in the background.",
+    "objects": [
+      "field",
+      "snowy",
+      "see",
+      "horse",
+      "barn"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a person riding a horse in a snowy field, with a barn in the background.",
+    "objects": [
+      "field",
+      "snowy",
+      "see",
+      "horse",
+      "barn"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a person riding a horse in a snowy field, with a barn in the background.",
+    "objects": [
+      "field",
+      "snowy",
+      "see",
+      "horse",
+      "barn"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a person riding a horse in a snowy field, with a barn in the background.",
+    "objects": [
+      "field",
+      "snowy",
+      "see",
+      "horse",
+      "barn"
+    ],
+    "actions": [
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The rider is wearing a black jacket, a black helmet, and has a black hat on.",
+    "objects": [
+      "rider",
+      "black",
+      "jacket",
+      "has",
+      "hat",
+      "helmet"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The rider is wearing a black jacket, a black helmet, and has a black hat on.",
+    "objects": [
+      "rider",
+      "black",
+      "jacket",
+      "has",
+      "hat",
+      "helmet"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The rider is wearing a black jacket, a black helmet, and has a black hat on.",
+    "objects": [
+      "rider",
+      "black",
+      "jacket",
+      "has",
+      "hat",
+      "helmet"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The rider is wearing a black jacket, a black helmet, and has a black hat on.",
+    "objects": [
+      "rider",
+      "black",
+      "jacket",
+      "has",
+      "hat",
+      "helmet"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The horse is brown with a black mane and tail.",
+    "objects": [
+      "black",
+      "tail",
+      "horse",
+      "brown",
+      "mane"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The horse is brown with a black mane and tail.",
+    "objects": [
+      "black",
+      "tail",
+      "horse",
+      "brown",
+      "mane"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The horse is brown with a black mane and tail.",
+    "objects": [
+      "black",
+      "tail",
+      "horse",
+      "brown",
+      "mane"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The horse is brown with a black mane and tail.",
+    "objects": [
+      "black",
+      "tail",
+      "horse",
+      "brown",
+      "mane"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The rider is also holding a whip in their right hand and a rope in their left hand.",
+    "objects": [
+      "their",
+      "rope",
+      "rider",
+      "whip",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The rider is also holding a whip in their right hand and a rope in their left hand.",
+    "objects": [
+      "their",
+      "rope",
+      "rider",
+      "whip",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The rider is also holding a whip in their right hand and a rope in their left hand.",
+    "objects": [
+      "their",
+      "rope",
+      "rider",
+      "whip",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The rider is also holding a whip in their right hand and a rope in their left hand.",
+    "objects": [
+      "their",
+      "rope",
+      "rider",
+      "whip",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The field is covered with snow, and there are hay bales scattered around.",
+    "objects": [
+      "hay",
+      "snow",
+      "there",
+      "field",
+      "around"
+    ],
+    "actions": [
+      "bales",
+      "covered",
+      "scattered"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The field is covered with snow, and there are hay bales scattered around.",
+    "objects": [
+      "hay",
+      "snow",
+      "there",
+      "field",
+      "around"
+    ],
+    "actions": [
+      "bales",
+      "covered",
+      "scattered"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The field is covered with snow, and there are hay bales scattered around.",
+    "objects": [
+      "hay",
+      "snow",
+      "there",
+      "field",
+      "around"
+    ],
+    "actions": [
+      "bales",
+      "covered",
+      "scattered"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The field is covered with snow, and there are hay bales scattered around.",
+    "objects": [
+      "hay",
+      "snow",
+      "there",
+      "field",
+      "around"
+    ],
+    "actions": [
+      "bales",
+      "covered",
+      "scattered"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, there is a road with a sign on it.",
+    "objects": [
+      "road",
+      "there",
+      "sign"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, there is a road with a sign on it.",
+    "objects": [
+      "road",
+      "there",
+      "sign"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, there is a road with a sign on it.",
+    "objects": [
+      "road",
+      "there",
+      "sign"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, there is a road with a sign on it.",
+    "objects": [
+      "road",
+      "there",
+      "sign"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The sky is clear and blue, and the sun is shining.",
+    "objects": [
+      "sky",
+      "blue",
+      "clear",
+      "sun"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The sky is clear and blue, and the sun is shining.",
+    "objects": [
+      "sky",
+      "blue",
+      "clear",
+      "sun"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The sky is clear and blue, and the sun is shining.",
+    "objects": [
+      "sky",
+      "blue",
+      "clear",
+      "sun"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The sky is clear and blue, and the sun is shining.",
+    "objects": [
+      "sky",
+      "blue",
+      "clear",
+      "sun"
+    ],
+    "actions": [
+      "shining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The rider is walking the horse along the road, and the horse is trotting in the field.",
+    "objects": [
+      "along",
+      "rider",
+      "field",
+      "horse",
+      "road"
+    ],
+    "actions": [
+      "trotting",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The rider is walking the horse along the road, and the horse is trotting in the field.",
+    "objects": [
+      "along",
+      "rider",
+      "field",
+      "horse",
+      "road"
+    ],
+    "actions": [
+      "trotting",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The rider is walking the horse along the road, and the horse is trotting in the field.",
+    "objects": [
+      "along",
+      "rider",
+      "field",
+      "horse",
+      "road"
+    ],
+    "actions": [
+      "trotting",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The rider is walking the horse along the road, and the horse is trotting in the field.",
+    "objects": [
+      "along",
+      "rider",
+      "field",
+      "horse",
+      "road"
+    ],
+    "actions": [
+      "trotting",
+      "walking"
+    ],
+    "segment_id": 7
+  }
+]

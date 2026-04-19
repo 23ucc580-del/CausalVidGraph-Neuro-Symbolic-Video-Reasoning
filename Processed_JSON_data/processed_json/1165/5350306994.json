@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young child is seen sitting in a high chair, engaged in playtime with a toy.",
+    "objects": [
+      "toy",
+      "high",
+      "playtime",
+      "young",
+      "child",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young child is seen sitting in a high chair, engaged in playtime with a toy.",
+    "objects": [
+      "toy",
+      "high",
+      "playtime",
+      "young",
+      "child",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young child is seen sitting in a high chair, engaged in playtime with a toy.",
+    "objects": [
+      "toy",
+      "high",
+      "playtime",
+      "young",
+      "child",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a young child is seen sitting in a high chair, engaged in playtime with a toy.",
+    "objects": [
+      "toy",
+      "high",
+      "playtime",
+      "young",
+      "child",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is wearing a blue hoodie and holding a blue toy in their hands.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "their"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is wearing a blue hoodie and holding a blue toy in their hands.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "their"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child is wearing a blue hoodie and holding a blue toy in their hands.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "their"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child is wearing a blue hoodie and holding a blue toy in their hands.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "their"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The toy appears to be a plastic cup with a straw in it.",
+    "objects": [
+      "cup",
+      "toy",
+      "plastic",
+      "straw"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The toy appears to be a plastic cup with a straw in it.",
+    "objects": [
+      "cup",
+      "toy",
+      "plastic",
+      "straw"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The toy appears to be a plastic cup with a straw in it.",
+    "objects": [
+      "cup",
+      "toy",
+      "plastic",
+      "straw"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The toy appears to be a plastic cup with a straw in it.",
+    "objects": [
+      "cup",
+      "toy",
+      "plastic",
+      "straw"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The child's expression is one of concentration and enjoyment as they interact with the toy.",
+    "objects": [
+      "concentration",
+      "toy",
+      "enjoyment",
+      "expression",
+      "one",
+      "interact",
+      "they"
+    ],
+    "actions": [
+      "child's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The child's expression is one of concentration and enjoyment as they interact with the toy.",
+    "objects": [
+      "concentration",
+      "toy",
+      "enjoyment",
+      "expression",
+      "one",
+      "interact",
+      "they"
+    ],
+    "actions": [
+      "child's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The child's expression is one of concentration and enjoyment as they interact with the toy.",
+    "objects": [
+      "concentration",
+      "toy",
+      "enjoyment",
+      "expression",
+      "one",
+      "interact",
+      "they"
+    ],
+    "actions": [
+      "child's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The child's expression is one of concentration and enjoyment as they interact with the toy.",
+    "objects": [
+      "concentration",
+      "toy",
+      "enjoyment",
+      "expression",
+      "one",
+      "interact",
+      "they"
+    ],
+    "actions": [
+      "child's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene is a bright and colorful one, with the child's blue hoodie contrasting against the vibrant colors of the toy.",
+    "objects": [
+      "blue",
+      "colorful",
+      "toy",
+      "bright",
+      "one",
+      "hoodie",
+      "against",
+      "vibrant"
+    ],
+    "actions": [
+      "colors",
+      "contrasting",
+      "child's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene is a bright and colorful one, with the child's blue hoodie contrasting against the vibrant colors of the toy.",
+    "objects": [
+      "blue",
+      "colorful",
+      "toy",
+      "bright",
+      "one",
+      "hoodie",
+      "against",
+      "vibrant"
+    ],
+    "actions": [
+      "colors",
+      "contrasting",
+      "child's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene is a bright and colorful one, with the child's blue hoodie contrasting against the vibrant colors of the toy.",
+    "objects": [
+      "blue",
+      "colorful",
+      "toy",
+      "bright",
+      "one",
+      "hoodie",
+      "against",
+      "vibrant"
+    ],
+    "actions": [
+      "colors",
+      "contrasting",
+      "child's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene is a bright and colorful one, with the child's blue hoodie contrasting against the vibrant colors of the toy.",
+    "objects": [
+      "blue",
+      "colorful",
+      "toy",
+      "bright",
+      "one",
+      "hoodie",
+      "against",
+      "vibrant"
+    ],
+    "actions": [
+      "colors",
+      "contrasting",
+      "child's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The background is indistinct, but it seems to be a domestic setting, with various items scattered around.",
+    "objects": [
+      "around",
+      "domestic",
+      "indistinct",
+      "but"
+    ],
+    "actions": [
+      "scattered",
+      "setting",
+      "items",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The background is indistinct, but it seems to be a domestic setting, with various items scattered around.",
+    "objects": [
+      "around",
+      "domestic",
+      "indistinct",
+      "but"
+    ],
+    "actions": [
+      "scattered",
+      "setting",
+      "items",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The background is indistinct, but it seems to be a domestic setting, with various items scattered around.",
+    "objects": [
+      "around",
+      "domestic",
+      "indistinct",
+      "but"
+    ],
+    "actions": [
+      "scattered",
+      "setting",
+      "items",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The background is indistinct, but it seems to be a domestic setting, with various items scattered around.",
+    "objects": [
+      "around",
+      "domestic",
+      "indistinct",
+      "but"
+    ],
+    "actions": [
+      "scattered",
+      "setting",
+      "items",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The child's focus is solely on the toy, indicating their interest in the playtime.",
+    "objects": [
+      "toy",
+      "solely",
+      "playtime",
+      "their",
+      "interest"
+    ],
+    "actions": [
+      "indicating",
+      "child's",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The child's focus is solely on the toy, indicating their interest in the playtime.",
+    "objects": [
+      "toy",
+      "solely",
+      "playtime",
+      "their",
+      "interest"
+    ],
+    "actions": [
+      "indicating",
+      "child's",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The child's focus is solely on the toy, indicating their interest in the playtime.",
+    "objects": [
+      "toy",
+      "solely",
+      "playtime",
+      "their",
+      "interest"
+    ],
+    "actions": [
+      "indicating",
+      "child's",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The child's focus is solely on the toy, indicating their interest in the playtime.",
+    "objects": [
+      "toy",
+      "solely",
+      "playtime",
+      "their",
+      "interest"
+    ],
+    "actions": [
+      "indicating",
+      "child's",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene captures a moment of simple joy and childhood play, with the child's actions indicating a sense of discovery and exploration with the toy.",
+    "objects": [
+      "toy",
+      "discovery",
+      "exploration",
+      "sense",
+      "joy",
+      "moment",
+      "play",
+      "childhood"
+    ],
+    "actions": [
+      "indicating",
+      "child's",
+      "actions"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene captures a moment of simple joy and childhood play, with the child's actions indicating a sense of discovery and exploration with the toy.",
+    "objects": [
+      "toy",
+      "discovery",
+      "exploration",
+      "sense",
+      "joy",
+      "moment",
+      "play",
+      "childhood"
+    ],
+    "actions": [
+      "indicating",
+      "child's",
+      "actions"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene captures a moment of simple joy and childhood play, with the child's actions indicating a sense of discovery and exploration with the toy.",
+    "objects": [
+      "toy",
+      "discovery",
+      "exploration",
+      "sense",
+      "joy",
+      "moment",
+      "play",
+      "childhood"
+    ],
+    "actions": [
+      "indicating",
+      "child's",
+      "actions"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene captures a moment of simple joy and childhood play, with the child's actions indicating a sense of discovery and exploration with the toy.",
+    "objects": [
+      "toy",
+      "discovery",
+      "exploration",
+      "sense",
+      "joy",
+      "moment",
+      "play",
+      "childhood"
+    ],
+    "actions": [
+      "indicating",
+      "child's",
+      "actions"
+    ],
+    "segment_id": 7
+  }
+]

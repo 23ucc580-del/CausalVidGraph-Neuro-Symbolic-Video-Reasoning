@@ -1,0 +1,574 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are three people engaged in a conversation.",
+    "objects": [
+      "three",
+      "people",
+      "there",
+      "conversation"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are three people engaged in a conversation.",
+    "objects": [
+      "three",
+      "people",
+      "there",
+      "conversation"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are three people engaged in a conversation.",
+    "objects": [
+      "three",
+      "people",
+      "there",
+      "conversation"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there are three people engaged in a conversation.",
+    "objects": [
+      "three",
+      "people",
+      "there",
+      "conversation"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "Two of them are standing and one is seated.",
+    "objects": [
+      "them",
+      "two",
+      "one"
+    ],
+    "actions": [
+      "standing",
+      "seated"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two of them are standing and one is seated.",
+    "objects": [
+      "them",
+      "two",
+      "one"
+    ],
+    "actions": [
+      "standing",
+      "seated"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Two of them are standing and one is seated.",
+    "objects": [
+      "them",
+      "two",
+      "one"
+    ],
+    "actions": [
+      "standing",
+      "seated"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "Two of them are standing and one is seated.",
+    "objects": [
+      "them",
+      "two",
+      "one"
+    ],
+    "actions": [
+      "standing",
+      "seated"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The two standing individuals are dressed in blue jackets, one wearing a blue hoodie and the other in a blue jacket with a black shirt underneath.",
+    "objects": [
+      "two",
+      "hoodie",
+      "other",
+      "blue",
+      "one",
+      "underneath",
+      "shirt",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "standing",
+      "jackets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The two standing individuals are dressed in blue jackets, one wearing a blue hoodie and the other in a blue jacket with a black shirt underneath.",
+    "objects": [
+      "two",
+      "hoodie",
+      "other",
+      "blue",
+      "one",
+      "underneath",
+      "shirt",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "standing",
+      "jackets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The two standing individuals are dressed in blue jackets, one wearing a blue hoodie and the other in a blue jacket with a black shirt underneath.",
+    "objects": [
+      "two",
+      "hoodie",
+      "other",
+      "blue",
+      "one",
+      "underneath",
+      "shirt",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "standing",
+      "jackets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The two standing individuals are dressed in blue jackets, one wearing a blue hoodie and the other in a blue jacket with a black shirt underneath.",
+    "objects": [
+      "two",
+      "hoodie",
+      "other",
+      "blue",
+      "one",
+      "underneath",
+      "shirt",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "standing",
+      "jackets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The seated person is wearing a blue jacket with a black shirt.",
+    "objects": [
+      "jacket",
+      "shirt",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "seated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The seated person is wearing a blue jacket with a black shirt.",
+    "objects": [
+      "jacket",
+      "shirt",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "seated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The seated person is wearing a blue jacket with a black shirt.",
+    "objects": [
+      "jacket",
+      "shirt",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "seated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The seated person is wearing a blue jacket with a black shirt.",
+    "objects": [
+      "jacket",
+      "shirt",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "seated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They are using tablets, which are primarily white and black in color, with a few having blue accents.",
+    "objects": [
+      "which",
+      "white",
+      "color",
+      "blue",
+      "they",
+      "primarily",
+      "few",
+      "black"
+    ],
+    "actions": [
+      "accents",
+      "having",
+      "tablets",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "They are using tablets, which are primarily white and black in color, with a few having blue accents.",
+    "objects": [
+      "which",
+      "white",
+      "color",
+      "blue",
+      "they",
+      "primarily",
+      "few",
+      "black"
+    ],
+    "actions": [
+      "accents",
+      "having",
+      "tablets",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "They are using tablets, which are primarily white and black in color, with a few having blue accents.",
+    "objects": [
+      "which",
+      "white",
+      "color",
+      "blue",
+      "they",
+      "primarily",
+      "few",
+      "black"
+    ],
+    "actions": [
+      "accents",
+      "having",
+      "tablets",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "They are using tablets, which are primarily white and black in color, with a few having blue accents.",
+    "objects": [
+      "which",
+      "white",
+      "color",
+      "blue",
+      "they",
+      "primarily",
+      "few",
+      "black"
+    ],
+    "actions": [
+      "accents",
+      "having",
+      "tablets",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The person in the blue hoodie is writing on a white tablet, while the person in the blue jacket with the black shirt is holding a white tablet.",
+    "objects": [
+      "white",
+      "tablet",
+      "hoodie",
+      "blue",
+      "while",
+      "shirt",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "writing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The person in the blue hoodie is writing on a white tablet, while the person in the blue jacket with the black shirt is holding a white tablet.",
+    "objects": [
+      "white",
+      "tablet",
+      "hoodie",
+      "blue",
+      "while",
+      "shirt",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "writing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The person in the blue hoodie is writing on a white tablet, while the person in the blue jacket with the black shirt is holding a white tablet.",
+    "objects": [
+      "white",
+      "tablet",
+      "hoodie",
+      "blue",
+      "while",
+      "shirt",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "writing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The person in the blue hoodie is writing on a white tablet, while the person in the blue jacket with the black shirt is holding a white tablet.",
+    "objects": [
+      "white",
+      "tablet",
+      "hoodie",
+      "blue",
+      "while",
+      "shirt",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "writing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "They all appear to be young adults, possibly students or professionals, discussing something in a casual yet focused manner.",
+    "objects": [
+      "yet",
+      "casual",
+      "all",
+      "appear",
+      "they",
+      "young",
+      "manner",
+      "possibly"
+    ],
+    "actions": [
+      "focused",
+      "something",
+      "adults",
+      "professionals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "They all appear to be young adults, possibly students or professionals, discussing something in a casual yet focused manner.",
+    "objects": [
+      "yet",
+      "casual",
+      "all",
+      "appear",
+      "they",
+      "young",
+      "manner",
+      "possibly"
+    ],
+    "actions": [
+      "focused",
+      "something",
+      "adults",
+      "professionals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "They all appear to be young adults, possibly students or professionals, discussing something in a casual yet focused manner.",
+    "objects": [
+      "yet",
+      "casual",
+      "all",
+      "appear",
+      "they",
+      "young",
+      "manner",
+      "possibly"
+    ],
+    "actions": [
+      "focused",
+      "something",
+      "adults",
+      "professionals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "They all appear to be young adults, possibly students or professionals, discussing something in a casual yet focused manner.",
+    "objects": [
+      "yet",
+      "casual",
+      "all",
+      "appear",
+      "they",
+      "young",
+      "manner",
+      "possibly"
+    ],
+    "actions": [
+      "focused",
+      "something",
+      "adults",
+      "professionals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The setting seems to be an informal or relaxed environment, possibly an outdoor market or a park.",
+    "objects": [
+      "market",
+      "park",
+      "informal",
+      "environment",
+      "possibly",
+      "outdoor"
+    ],
+    "actions": [
+      "relaxed",
+      "setting",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The setting seems to be an informal or relaxed environment, possibly an outdoor market or a park.",
+    "objects": [
+      "market",
+      "park",
+      "informal",
+      "environment",
+      "possibly",
+      "outdoor"
+    ],
+    "actions": [
+      "relaxed",
+      "setting",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The setting seems to be an informal or relaxed environment, possibly an outdoor market or a park.",
+    "objects": [
+      "market",
+      "park",
+      "informal",
+      "environment",
+      "possibly",
+      "outdoor"
+    ],
+    "actions": [
+      "relaxed",
+      "setting",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The setting seems to be an informal or relaxed environment, possibly an outdoor market or a park.",
+    "objects": [
+      "market",
+      "park",
+      "informal",
+      "environment",
+      "possibly",
+      "outdoor"
+    ],
+    "actions": [
+      "relaxed",
+      "setting",
+      "seems"
+    ],
+    "segment_id": 7
+  }
+]

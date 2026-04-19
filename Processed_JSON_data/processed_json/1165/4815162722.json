@@ -1,0 +1,524 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people gathered around a dining table, celebrating what appears to be a birthday or a special occasion.",
+    "objects": [
+      "around",
+      "what",
+      "special",
+      "this",
+      "occasion",
+      "birthday",
+      "people",
+      "table"
+    ],
+    "actions": [
+      "gathered",
+      "dining",
+      "celebrating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people gathered around a dining table, celebrating what appears to be a birthday or a special occasion.",
+    "objects": [
+      "around",
+      "what",
+      "special",
+      "this",
+      "occasion",
+      "birthday",
+      "people",
+      "table"
+    ],
+    "actions": [
+      "gathered",
+      "dining",
+      "celebrating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people gathered around a dining table, celebrating what appears to be a birthday or a special occasion.",
+    "objects": [
+      "around",
+      "what",
+      "special",
+      "this",
+      "occasion",
+      "birthday",
+      "people",
+      "table"
+    ],
+    "actions": [
+      "gathered",
+      "dining",
+      "celebrating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A woman is seen standing and holding a child, while another woman is holding a baby.",
+    "objects": [
+      "baby",
+      "while",
+      "woman",
+      "child"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman is seen standing and holding a child, while another woman is holding a baby.",
+    "objects": [
+      "baby",
+      "while",
+      "woman",
+      "child"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A woman is seen standing and holding a child, while another woman is holding a baby.",
+    "objects": [
+      "baby",
+      "while",
+      "woman",
+      "child"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man is standing, and another man is sitting at the table, with a young girl sitting next to him.",
+    "objects": [
+      "man",
+      "him",
+      "young",
+      "girl",
+      "table"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A man is standing, and another man is sitting at the table, with a young girl sitting next to him.",
+    "objects": [
+      "man",
+      "him",
+      "young",
+      "girl",
+      "table"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A man is standing, and another man is sitting at the table, with a young girl sitting next to him.",
+    "objects": [
+      "man",
+      "him",
+      "young",
+      "girl",
+      "table"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are all dressed casually and are smiling and laughing.",
+    "objects": [
+      "all",
+      "casually",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "laughing",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They are all dressed casually and are smiling and laughing.",
+    "objects": [
+      "all",
+      "casually",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "laughing",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They are all dressed casually and are smiling and laughing.",
+    "objects": [
+      "all",
+      "casually",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "laughing",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The table is covered with various items, including a cake with a single lit candle on top, indicating it's likely a birthday celebration.",
+    "objects": [
+      "top",
+      "table",
+      "single",
+      "celebration",
+      "birthday",
+      "likely",
+      "lit",
+      "cake"
+    ],
+    "actions": [
+      "covered",
+      "indicating",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The table is covered with various items, including a cake with a single lit candle on top, indicating it's likely a birthday celebration.",
+    "objects": [
+      "top",
+      "table",
+      "single",
+      "celebration",
+      "birthday",
+      "likely",
+      "lit",
+      "cake"
+    ],
+    "actions": [
+      "covered",
+      "indicating",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The table is covered with various items, including a cake with a single lit candle on top, indicating it's likely a birthday celebration.",
+    "objects": [
+      "top",
+      "table",
+      "single",
+      "celebration",
+      "birthday",
+      "likely",
+      "lit",
+      "cake"
+    ],
+    "actions": [
+      "covered",
+      "indicating",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "There is a baby crib and a baby seat in the background.",
+    "objects": [
+      "crib",
+      "there",
+      "seat",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "There is a baby crib and a baby seat in the background.",
+    "objects": [
+      "crib",
+      "there",
+      "seat",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "There is a baby crib and a baby seat in the background.",
+    "objects": [
+      "crib",
+      "there",
+      "seat",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A young girl is also holding a birthday cake with a single lit candle.",
+    "objects": [
+      "single",
+      "birthday",
+      "young",
+      "girl",
+      "lit",
+      "cake",
+      "candle"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A young girl is also holding a birthday cake with a single lit candle.",
+    "objects": [
+      "single",
+      "birthday",
+      "young",
+      "girl",
+      "lit",
+      "cake",
+      "candle"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A young girl is also holding a birthday cake with a single lit candle.",
+    "objects": [
+      "single",
+      "birthday",
+      "young",
+      "girl",
+      "lit",
+      "cake",
+      "candle"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman is wearing a pink hoodie and is holding a child.",
+    "objects": [
+      "child",
+      "pink",
+      "woman",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman is wearing a pink hoodie and is holding a child.",
+    "objects": [
+      "child",
+      "pink",
+      "woman",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman is wearing a pink hoodie and is holding a child.",
+    "objects": [
+      "child",
+      "pink",
+      "woman",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A man is wearing a blue hoodie, and another man is wearing a black hat.",
+    "objects": [
+      "blue",
+      "man",
+      "hoodie",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A man is wearing a blue hoodie, and another man is wearing a black hat.",
+    "objects": [
+      "blue",
+      "man",
+      "hoodie",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A man is wearing a blue hoodie, and another man is wearing a black hat.",
+    "objects": [
+      "blue",
+      "man",
+      "hoodie",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman holding the baby is wearing a pink shirt and a black jacket.",
+    "objects": [
+      "pink",
+      "shirt",
+      "jacket",
+      "baby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman holding the baby is wearing a pink shirt and a black jacket.",
+    "objects": [
+      "pink",
+      "shirt",
+      "jacket",
+      "baby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman holding the baby is wearing a pink shirt and a black jacket.",
+    "objects": [
+      "pink",
+      "shirt",
+      "jacket",
+      "baby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "A woman is wearing a red shirt and a black hat.",
+    "objects": [
+      "black",
+      "woman",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "A woman is wearing a red shirt and a black hat.",
+    "objects": [
+      "black",
+      "woman",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 10
+  }
+]

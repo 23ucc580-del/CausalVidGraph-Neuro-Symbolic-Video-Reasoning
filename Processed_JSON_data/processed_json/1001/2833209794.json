@@ -1,0 +1,574 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a scene at a subway station.",
+    "objects": [
+      "station",
+      "subway"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a scene at a subway station.",
+    "objects": [
+      "station",
+      "subway"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a scene at a subway station.",
+    "objects": [
+      "station",
+      "subway"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A man wearing a blue hoodie is standing on the platform, holding a black bag in his hand.",
+    "objects": [
+      "platform",
+      "black",
+      "blue",
+      "bag",
+      "hoodie",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A man wearing a blue hoodie is standing on the platform, holding a black bag in his hand.",
+    "objects": [
+      "platform",
+      "black",
+      "blue",
+      "bag",
+      "hoodie",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A man wearing a blue hoodie is standing on the platform, holding a black bag in his hand.",
+    "objects": [
+      "platform",
+      "black",
+      "blue",
+      "bag",
+      "hoodie",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Another man, wearing a brown shirt, is also present on the platform, carrying a black bag.",
+    "objects": [
+      "platform",
+      "black",
+      "shirt",
+      "bag",
+      "man",
+      "brown",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "Another man, wearing a brown shirt, is also present on the platform, carrying a black bag.",
+    "objects": [
+      "platform",
+      "black",
+      "shirt",
+      "bag",
+      "man",
+      "brown",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "Another man, wearing a brown shirt, is also present on the platform, carrying a black bag.",
+    "objects": [
+      "platform",
+      "black",
+      "shirt",
+      "bag",
+      "man",
+      "brown",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A third man, dressed in a yellow shirt, is descending the escalator with a silver bag in his hand.",
+    "objects": [
+      "yellow",
+      "shirt",
+      "bag",
+      "silver",
+      "escalator",
+      "third",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "descending"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A third man, dressed in a yellow shirt, is descending the escalator with a silver bag in his hand.",
+    "objects": [
+      "yellow",
+      "shirt",
+      "bag",
+      "silver",
+      "escalator",
+      "third",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "descending"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A third man, dressed in a yellow shirt, is descending the escalator with a silver bag in his hand.",
+    "objects": [
+      "yellow",
+      "shirt",
+      "bag",
+      "silver",
+      "escalator",
+      "third",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "descending"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The station itself is adorned with red walls, and a white-tiled ceiling.",
+    "objects": [
+      "station",
+      "itself"
+    ],
+    "actions": [
+      "ceiling",
+      "red",
+      "walls",
+      "white-tiled"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The station itself is adorned with red walls, and a white-tiled ceiling.",
+    "objects": [
+      "station",
+      "itself"
+    ],
+    "actions": [
+      "ceiling",
+      "red",
+      "walls",
+      "white-tiled"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The station itself is adorned with red walls, and a white-tiled ceiling.",
+    "objects": [
+      "station",
+      "itself"
+    ],
+    "actions": [
+      "ceiling",
+      "red",
+      "walls",
+      "white-tiled"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The escalator is in motion, with the man in the blue hoodie ascending it while the other man in the brown shirt is descending, carrying a black bag.",
+    "objects": [
+      "motion",
+      "other",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "bag",
+      "escalator"
+    ],
+    "actions": [
+      "ascending",
+      "carrying",
+      "descending"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The escalator is in motion, with the man in the blue hoodie ascending it while the other man in the brown shirt is descending, carrying a black bag.",
+    "objects": [
+      "motion",
+      "other",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "bag",
+      "escalator"
+    ],
+    "actions": [
+      "ascending",
+      "carrying",
+      "descending"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The escalator is in motion, with the man in the blue hoodie ascending it while the other man in the brown shirt is descending, carrying a black bag.",
+    "objects": [
+      "motion",
+      "other",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "bag",
+      "escalator"
+    ],
+    "actions": [
+      "ascending",
+      "carrying",
+      "descending"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The silver-colored bag in the man's hand seems to be in motion, perhaps due to the escalator's movement.",
+    "objects": [
+      "motion",
+      "due",
+      "bag",
+      "movement",
+      "hand"
+    ],
+    "actions": [
+      "seems",
+      "man's",
+      "silver-colored",
+      "escalator's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The silver-colored bag in the man's hand seems to be in motion, perhaps due to the escalator's movement.",
+    "objects": [
+      "motion",
+      "due",
+      "bag",
+      "movement",
+      "hand"
+    ],
+    "actions": [
+      "seems",
+      "man's",
+      "silver-colored",
+      "escalator's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The silver-colored bag in the man's hand seems to be in motion, perhaps due to the escalator's movement.",
+    "objects": [
+      "motion",
+      "due",
+      "bag",
+      "movement",
+      "hand"
+    ],
+    "actions": [
+      "seems",
+      "man's",
+      "silver-colored",
+      "escalator's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The man in the yellow shirt is in the process of stepping off the escalator, and it is clear that he is also carrying a black bag.",
+    "objects": [
+      "black",
+      "yellow",
+      "off",
+      "shirt",
+      "bag",
+      "escalator",
+      "clear",
+      "that"
+    ],
+    "actions": [
+      "stepping",
+      "carrying",
+      "process"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The man in the yellow shirt is in the process of stepping off the escalator, and it is clear that he is also carrying a black bag.",
+    "objects": [
+      "black",
+      "yellow",
+      "off",
+      "shirt",
+      "bag",
+      "escalator",
+      "clear",
+      "that"
+    ],
+    "actions": [
+      "stepping",
+      "carrying",
+      "process"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The man in the yellow shirt is in the process of stepping off the escalator, and it is clear that he is also carrying a black bag.",
+    "objects": [
+      "black",
+      "yellow",
+      "off",
+      "shirt",
+      "bag",
+      "escalator",
+      "clear",
+      "that"
+    ],
+    "actions": [
+      "stepping",
+      "carrying",
+      "process"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is bustling with activity, and each individual is engaged in their own task.",
+    "objects": [
+      "their",
+      "activity",
+      "each",
+      "own",
+      "task",
+      "individual"
+    ],
+    "actions": [
+      "bustling",
+      "engaged"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is bustling with activity, and each individual is engaged in their own task.",
+    "objects": [
+      "their",
+      "activity",
+      "each",
+      "own",
+      "task",
+      "individual"
+    ],
+    "actions": [
+      "bustling",
+      "engaged"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is bustling with activity, and each individual is engaged in their own task.",
+    "objects": [
+      "their",
+      "activity",
+      "each",
+      "own",
+      "task",
+      "individual"
+    ],
+    "actions": [
+      "bustling",
+      "engaged"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the blue hoodie appears to be waiting, the man in the brown shirt seems to be in motion, and the man in the yellow shirt is about to step off.",
+    "objects": [
+      "motion",
+      "blue",
+      "yellow",
+      "off",
+      "shirt",
+      "about",
+      "step",
+      "hoodie"
+    ],
+    "actions": [
+      "waiting",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the blue hoodie appears to be waiting, the man in the brown shirt seems to be in motion, and the man in the yellow shirt is about to step off.",
+    "objects": [
+      "motion",
+      "blue",
+      "yellow",
+      "off",
+      "shirt",
+      "about",
+      "step",
+      "hoodie"
+    ],
+    "actions": [
+      "waiting",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the blue hoodie appears to be waiting, the man in the brown shirt seems to be in motion, and the man in the yellow shirt is about to step off.",
+    "objects": [
+      "motion",
+      "blue",
+      "yellow",
+      "off",
+      "shirt",
+      "about",
+      "step",
+      "hoodie"
+    ],
+    "actions": [
+      "waiting",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere of the scene is that of a typical day in the city with people going about their daily routines.",
+    "objects": [
+      "their",
+      "people",
+      "typical",
+      "about",
+      "that",
+      "daily",
+      "city",
+      "day"
+    ],
+    "actions": [
+      "going",
+      "routines"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere of the scene is that of a typical day in the city with people going about their daily routines.",
+    "objects": [
+      "their",
+      "people",
+      "typical",
+      "about",
+      "that",
+      "daily",
+      "city",
+      "day"
+    ],
+    "actions": [
+      "going",
+      "routines"
+    ],
+    "segment_id": 10
+  }
+]

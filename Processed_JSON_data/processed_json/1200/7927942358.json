@@ -1,0 +1,590 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this heartwarming video, a family of five is captured enjoying a day at a water park.",
+    "objects": [
+      "family",
+      "park",
+      "water",
+      "five",
+      "this",
+      "day"
+    ],
+    "actions": [
+      "captured",
+      "heartwarming",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this heartwarming video, a family of five is captured enjoying a day at a water park.",
+    "objects": [
+      "family",
+      "park",
+      "water",
+      "five",
+      "this",
+      "day"
+    ],
+    "actions": [
+      "captured",
+      "heartwarming",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this heartwarming video, a family of five is captured enjoying a day at a water park.",
+    "objects": [
+      "family",
+      "park",
+      "water",
+      "five",
+      "this",
+      "day"
+    ],
+    "actions": [
+      "captured",
+      "heartwarming",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this heartwarming video, a family of five is captured enjoying a day at a water park.",
+    "objects": [
+      "family",
+      "park",
+      "water",
+      "five",
+      "this",
+      "day"
+    ],
+    "actions": [
+      "captured",
+      "heartwarming",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The father, wearing a brown shirt, holds his baby in his arms while the mother, dressed in a white shirt, is seen with their older son.",
+    "objects": [
+      "white",
+      "older",
+      "while",
+      "his",
+      "shirt",
+      "son",
+      "arms",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holds",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The father, wearing a brown shirt, holds his baby in his arms while the mother, dressed in a white shirt, is seen with their older son.",
+    "objects": [
+      "white",
+      "older",
+      "while",
+      "his",
+      "shirt",
+      "son",
+      "arms",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holds",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The father, wearing a brown shirt, holds his baby in his arms while the mother, dressed in a white shirt, is seen with their older son.",
+    "objects": [
+      "white",
+      "older",
+      "while",
+      "his",
+      "shirt",
+      "son",
+      "arms",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holds",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The father, wearing a brown shirt, holds his baby in his arms while the mother, dressed in a white shirt, is seen with their older son.",
+    "objects": [
+      "white",
+      "older",
+      "while",
+      "his",
+      "shirt",
+      "son",
+      "arms",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holds",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The older son is wearing a red hoodie, while the younger son is in a blue hoodie.",
+    "objects": [
+      "blue",
+      "older",
+      "younger",
+      "while",
+      "son",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The older son is wearing a red hoodie, while the younger son is in a blue hoodie.",
+    "objects": [
+      "blue",
+      "older",
+      "younger",
+      "while",
+      "son",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The older son is wearing a red hoodie, while the younger son is in a blue hoodie.",
+    "objects": [
+      "blue",
+      "older",
+      "younger",
+      "while",
+      "son",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The older son is wearing a red hoodie, while the younger son is in a blue hoodie.",
+    "objects": [
+      "blue",
+      "older",
+      "younger",
+      "while",
+      "son",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "All of them are seated on a bench, with the father holding a blue umbrella and the mother holding a pink umbrella.",
+    "objects": [
+      "blue",
+      "pink",
+      "all",
+      "them",
+      "umbrella",
+      "mother",
+      "bench",
+      "father"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "All of them are seated on a bench, with the father holding a blue umbrella and the mother holding a pink umbrella.",
+    "objects": [
+      "blue",
+      "pink",
+      "all",
+      "them",
+      "umbrella",
+      "mother",
+      "bench",
+      "father"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "All of them are seated on a bench, with the father holding a blue umbrella and the mother holding a pink umbrella.",
+    "objects": [
+      "blue",
+      "pink",
+      "all",
+      "them",
+      "umbrella",
+      "mother",
+      "bench",
+      "father"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "All of them are seated on a bench, with the father holding a blue umbrella and the mother holding a pink umbrella.",
+    "objects": [
+      "blue",
+      "pink",
+      "all",
+      "them",
+      "umbrella",
+      "mother",
+      "bench",
+      "father"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They are all smiling and looking towards the camera, creating a joyful and fun atmosphere.",
+    "objects": [
+      "joyful",
+      "all",
+      "fun",
+      "atmosphere",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "towards",
+      "creating",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "They are all smiling and looking towards the camera, creating a joyful and fun atmosphere.",
+    "objects": [
+      "joyful",
+      "all",
+      "fun",
+      "atmosphere",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "towards",
+      "creating",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "They are all smiling and looking towards the camera, creating a joyful and fun atmosphere.",
+    "objects": [
+      "joyful",
+      "all",
+      "fun",
+      "atmosphere",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "towards",
+      "creating",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "They are all smiling and looking towards the camera, creating a joyful and fun atmosphere.",
+    "objects": [
+      "joyful",
+      "all",
+      "fun",
+      "atmosphere",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "towards",
+      "creating",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The father is also seen holding a baby in his arms and looking down at the water, possibly admiring the splashing waves.",
+    "objects": [
+      "possibly",
+      "water",
+      "his",
+      "arms",
+      "baby",
+      "father"
+    ],
+    "actions": [
+      "looking",
+      "holding",
+      "splashing",
+      "waves"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The father is also seen holding a baby in his arms and looking down at the water, possibly admiring the splashing waves.",
+    "objects": [
+      "possibly",
+      "water",
+      "his",
+      "arms",
+      "baby",
+      "father"
+    ],
+    "actions": [
+      "looking",
+      "holding",
+      "splashing",
+      "waves"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The father is also seen holding a baby in his arms and looking down at the water, possibly admiring the splashing waves.",
+    "objects": [
+      "possibly",
+      "water",
+      "his",
+      "arms",
+      "baby",
+      "father"
+    ],
+    "actions": [
+      "looking",
+      "holding",
+      "splashing",
+      "waves"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The father is also seen holding a baby in his arms and looking down at the water, possibly admiring the splashing waves.",
+    "objects": [
+      "possibly",
+      "water",
+      "his",
+      "arms",
+      "baby",
+      "father"
+    ],
+    "actions": [
+      "looking",
+      "holding",
+      "splashing",
+      "waves"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The mother is holding her hand up to her face, perhaps shielding her eyes from the sun.",
+    "objects": [
+      "hand",
+      "her",
+      "sun",
+      "eyes",
+      "mother",
+      "from",
+      "face"
+    ],
+    "actions": [
+      "shielding",
+      "perhaps",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The mother is holding her hand up to her face, perhaps shielding her eyes from the sun.",
+    "objects": [
+      "hand",
+      "her",
+      "sun",
+      "eyes",
+      "mother",
+      "from",
+      "face"
+    ],
+    "actions": [
+      "shielding",
+      "perhaps",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The mother is holding her hand up to her face, perhaps shielding her eyes from the sun.",
+    "objects": [
+      "hand",
+      "her",
+      "sun",
+      "eyes",
+      "mother",
+      "from",
+      "face"
+    ],
+    "actions": [
+      "shielding",
+      "perhaps",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The mother is holding her hand up to her face, perhaps shielding her eyes from the sun.",
+    "objects": [
+      "hand",
+      "her",
+      "sun",
+      "eyes",
+      "mother",
+      "from",
+      "face"
+    ],
+    "actions": [
+      "shielding",
+      "perhaps",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is full of laughter and togetherness as they enjoy their time at the park.",
+    "objects": [
+      "full",
+      "park",
+      "enjoy",
+      "laughter",
+      "time",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "togetherness"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is full of laughter and togetherness as they enjoy their time at the park.",
+    "objects": [
+      "full",
+      "park",
+      "enjoy",
+      "laughter",
+      "time",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "togetherness"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is full of laughter and togetherness as they enjoy their time at the park.",
+    "objects": [
+      "full",
+      "park",
+      "enjoy",
+      "laughter",
+      "time",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "togetherness"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is full of laughter and togetherness as they enjoy their time at the park.",
+    "objects": [
+      "full",
+      "park",
+      "enjoy",
+      "laughter",
+      "time",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "togetherness"
+    ],
+    "segment_id": 7
+  }
+]

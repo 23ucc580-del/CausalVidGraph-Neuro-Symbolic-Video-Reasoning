@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a baby boy is seen sitting on a wooden floor in a living room, wearing a brown onesie and playing with a small, blue toy car.",
+    "objects": [
+      "wooden",
+      "small",
+      "boy",
+      "floor",
+      "blue",
+      "brown",
+      "onesie",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "sitting",
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a baby boy is seen sitting on a wooden floor in a living room, wearing a brown onesie and playing with a small, blue toy car.",
+    "objects": [
+      "wooden",
+      "small",
+      "boy",
+      "floor",
+      "blue",
+      "brown",
+      "onesie",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "sitting",
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a baby boy is seen sitting on a wooden floor in a living room, wearing a brown onesie and playing with a small, blue toy car.",
+    "objects": [
+      "wooden",
+      "small",
+      "boy",
+      "floor",
+      "blue",
+      "brown",
+      "onesie",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "sitting",
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, a baby boy is seen sitting on a wooden floor in a living room, wearing a brown onesie and playing with a small, blue toy car.",
+    "objects": [
+      "wooden",
+      "small",
+      "boy",
+      "floor",
+      "blue",
+      "brown",
+      "onesie",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "sitting",
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is smiling and holding the car.",
+    "objects": [
+      "car"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is smiling and holding the car.",
+    "objects": [
+      "car"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is smiling and holding the car.",
+    "objects": [
+      "car"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is smiling and holding the car.",
+    "objects": [
+      "car"
+    ],
+    "actions": [
+      "smiling",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Nearby, a dog is lying down, wearing a brown harness and looking up at the baby.",
+    "objects": [
+      "dog",
+      "baby",
+      "nearby",
+      "brown"
+    ],
+    "actions": [
+      "looking",
+      "harness",
+      "lying",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Nearby, a dog is lying down, wearing a brown harness and looking up at the baby.",
+    "objects": [
+      "dog",
+      "baby",
+      "nearby",
+      "brown"
+    ],
+    "actions": [
+      "looking",
+      "harness",
+      "lying",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Nearby, a dog is lying down, wearing a brown harness and looking up at the baby.",
+    "objects": [
+      "dog",
+      "baby",
+      "nearby",
+      "brown"
+    ],
+    "actions": [
+      "looking",
+      "harness",
+      "lying",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Nearby, a dog is lying down, wearing a brown harness and looking up at the baby.",
+    "objects": [
+      "dog",
+      "baby",
+      "nearby",
+      "brown"
+    ],
+    "actions": [
+      "looking",
+      "harness",
+      "lying",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The boy reaches out to pet the dog, which appears to be a friendly and playful interaction.",
+    "objects": [
+      "boy",
+      "interaction",
+      "pet",
+      "friendly",
+      "out",
+      "dog",
+      "which",
+      "playful"
+    ],
+    "actions": [
+      "reaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The boy reaches out to pet the dog, which appears to be a friendly and playful interaction.",
+    "objects": [
+      "boy",
+      "interaction",
+      "pet",
+      "friendly",
+      "out",
+      "dog",
+      "which",
+      "playful"
+    ],
+    "actions": [
+      "reaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The boy reaches out to pet the dog, which appears to be a friendly and playful interaction.",
+    "objects": [
+      "boy",
+      "interaction",
+      "pet",
+      "friendly",
+      "out",
+      "dog",
+      "which",
+      "playful"
+    ],
+    "actions": [
+      "reaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The boy reaches out to pet the dog, which appears to be a friendly and playful interaction.",
+    "objects": [
+      "boy",
+      "interaction",
+      "pet",
+      "friendly",
+      "out",
+      "dog",
+      "which",
+      "playful"
+    ],
+    "actions": [
+      "reaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, there is a stainless steel oven, a white door, and a window with a green curtain.",
+    "objects": [
+      "door",
+      "window",
+      "white",
+      "oven",
+      "there",
+      "steel",
+      "green",
+      "curtain"
+    ],
+    "actions": [
+      "stainless"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, there is a stainless steel oven, a white door, and a window with a green curtain.",
+    "objects": [
+      "door",
+      "window",
+      "white",
+      "oven",
+      "there",
+      "steel",
+      "green",
+      "curtain"
+    ],
+    "actions": [
+      "stainless"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, there is a stainless steel oven, a white door, and a window with a green curtain.",
+    "objects": [
+      "door",
+      "window",
+      "white",
+      "oven",
+      "there",
+      "steel",
+      "green",
+      "curtain"
+    ],
+    "actions": [
+      "stainless"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, there is a stainless steel oven, a white door, and a window with a green curtain.",
+    "objects": [
+      "door",
+      "window",
+      "white",
+      "oven",
+      "there",
+      "steel",
+      "green",
+      "curtain"
+    ],
+    "actions": [
+      "stainless"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A white wall clock is also visible, and the room has a wooden floor.",
+    "objects": [
+      "wooden",
+      "floor",
+      "white",
+      "wall",
+      "room",
+      "clock",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A white wall clock is also visible, and the room has a wooden floor.",
+    "objects": [
+      "wooden",
+      "floor",
+      "white",
+      "wall",
+      "room",
+      "clock",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A white wall clock is also visible, and the room has a wooden floor.",
+    "objects": [
+      "wooden",
+      "floor",
+      "white",
+      "wall",
+      "room",
+      "clock",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A white wall clock is also visible, and the room has a wooden floor.",
+    "objects": [
+      "wooden",
+      "floor",
+      "white",
+      "wall",
+      "room",
+      "clock",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The baby is holding a red toy car and is engaged in a playful interaction with the dog.",
+    "objects": [
+      "interaction",
+      "dog",
+      "toy",
+      "playful",
+      "baby",
+      "car"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The baby is holding a red toy car and is engaged in a playful interaction with the dog.",
+    "objects": [
+      "interaction",
+      "dog",
+      "toy",
+      "playful",
+      "baby",
+      "car"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The baby is holding a red toy car and is engaged in a playful interaction with the dog.",
+    "objects": [
+      "interaction",
+      "dog",
+      "toy",
+      "playful",
+      "baby",
+      "car"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The baby is holding a red toy car and is engaged in a playful interaction with the dog.",
+    "objects": [
+      "interaction",
+      "dog",
+      "toy",
+      "playful",
+      "baby",
+      "car"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is warm and cozy, showcasing a typical family home environment where pets and children interact.",
+    "objects": [
+      "where",
+      "family",
+      "home",
+      "interact",
+      "warm",
+      "typical",
+      "pets",
+      "children"
+    ],
+    "actions": [
+      "showcasing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is warm and cozy, showcasing a typical family home environment where pets and children interact.",
+    "objects": [
+      "where",
+      "family",
+      "home",
+      "interact",
+      "warm",
+      "typical",
+      "pets",
+      "children"
+    ],
+    "actions": [
+      "showcasing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is warm and cozy, showcasing a typical family home environment where pets and children interact.",
+    "objects": [
+      "where",
+      "family",
+      "home",
+      "interact",
+      "warm",
+      "typical",
+      "pets",
+      "children"
+    ],
+    "actions": [
+      "showcasing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is warm and cozy, showcasing a typical family home environment where pets and children interact.",
+    "objects": [
+      "where",
+      "family",
+      "home",
+      "interact",
+      "warm",
+      "typical",
+      "pets",
+      "children"
+    ],
+    "actions": [
+      "showcasing"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man standing in a room, wearing a blue hoodie and holding a frisbee.",
+    "objects": [
+      "blue",
+      "room",
+      "frisbee",
+      "man",
+      "hoodie",
+      "see"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man standing in a room, wearing a blue hoodie and holding a frisbee.",
+    "objects": [
+      "blue",
+      "room",
+      "frisbee",
+      "man",
+      "hoodie",
+      "see"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man standing in a room, wearing a blue hoodie and holding a frisbee.",
+    "objects": [
+      "blue",
+      "room",
+      "frisbee",
+      "man",
+      "hoodie",
+      "see"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man standing in a room, wearing a blue hoodie and holding a frisbee.",
+    "objects": [
+      "blue",
+      "room",
+      "frisbee",
+      "man",
+      "hoodie",
+      "see"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "Another man is also present, dressed in a black shirt and holding a frisbee.",
+    "objects": [
+      "present",
+      "frisbee",
+      "man",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Another man is also present, dressed in a black shirt and holding a frisbee.",
+    "objects": [
+      "present",
+      "frisbee",
+      "man",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Another man is also present, dressed in a black shirt and holding a frisbee.",
+    "objects": [
+      "present",
+      "frisbee",
+      "man",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "Another man is also present, dressed in a black shirt and holding a frisbee.",
+    "objects": [
+      "present",
+      "frisbee",
+      "man",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They seem to be engaged in a friendly game of frisbee.",
+    "objects": [
+      "game",
+      "seem",
+      "frisbee",
+      "friendly",
+      "they"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They seem to be engaged in a friendly game of frisbee.",
+    "objects": [
+      "game",
+      "seem",
+      "frisbee",
+      "friendly",
+      "they"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They seem to be engaged in a friendly game of frisbee.",
+    "objects": [
+      "game",
+      "seem",
+      "frisbee",
+      "friendly",
+      "they"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They seem to be engaged in a friendly game of frisbee.",
+    "objects": [
+      "game",
+      "seem",
+      "frisbee",
+      "friendly",
+      "they"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The room is furnished with wooden furniture and a large potted plant, giving it a warm and inviting atmosphere.",
+    "objects": [
+      "large",
+      "warm",
+      "room",
+      "wooden",
+      "plant",
+      "furniture",
+      "atmosphere"
+    ],
+    "actions": [
+      "potted",
+      "inviting",
+      "furnished",
+      "giving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The room is furnished with wooden furniture and a large potted plant, giving it a warm and inviting atmosphere.",
+    "objects": [
+      "large",
+      "warm",
+      "room",
+      "wooden",
+      "plant",
+      "furniture",
+      "atmosphere"
+    ],
+    "actions": [
+      "potted",
+      "inviting",
+      "furnished",
+      "giving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The room is furnished with wooden furniture and a large potted plant, giving it a warm and inviting atmosphere.",
+    "objects": [
+      "large",
+      "warm",
+      "room",
+      "wooden",
+      "plant",
+      "furniture",
+      "atmosphere"
+    ],
+    "actions": [
+      "potted",
+      "inviting",
+      "furnished",
+      "giving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The room is furnished with wooden furniture and a large potted plant, giving it a warm and inviting atmosphere.",
+    "objects": [
+      "large",
+      "warm",
+      "room",
+      "wooden",
+      "plant",
+      "furniture",
+      "atmosphere"
+    ],
+    "actions": [
+      "potted",
+      "inviting",
+      "furnished",
+      "giving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the blue hoodie is positioned in the center of the frame, while the man in the black shirt is to his right.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "his",
+      "shirt",
+      "hoodie",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the blue hoodie is positioned in the center of the frame, while the man in the black shirt is to his right.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "his",
+      "shirt",
+      "hoodie",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the blue hoodie is positioned in the center of the frame, while the man in the black shirt is to his right.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "his",
+      "shirt",
+      "hoodie",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the blue hoodie is positioned in the center of the frame, while the man in the black shirt is to his right.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "his",
+      "shirt",
+      "hoodie",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Both men are smiling, suggesting they are enjoying their game.",
+    "objects": [
+      "game",
+      "both",
+      "men",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Both men are smiling, suggesting they are enjoying their game.",
+    "objects": [
+      "game",
+      "both",
+      "men",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Both men are smiling, suggesting they are enjoying their game.",
+    "objects": [
+      "game",
+      "both",
+      "men",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Both men are smiling, suggesting they are enjoying their game.",
+    "objects": [
+      "game",
+      "both",
+      "men",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the blue hoodie is looking towards the camera, while the man in the black shirt is facing the other way.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "other",
+      "way",
+      "shirt",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "facing",
+      "towards",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the blue hoodie is looking towards the camera, while the man in the black shirt is facing the other way.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "other",
+      "way",
+      "shirt",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "facing",
+      "towards",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the blue hoodie is looking towards the camera, while the man in the black shirt is facing the other way.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "other",
+      "way",
+      "shirt",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "facing",
+      "towards",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the blue hoodie is looking towards the camera, while the man in the black shirt is facing the other way.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "other",
+      "way",
+      "shirt",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "facing",
+      "towards",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The room appears to be a comfortable space for leisure and recreation, with a door on the right side of the frame.",
+    "objects": [
+      "recreation",
+      "room",
+      "door",
+      "space",
+      "side",
+      "comfortable",
+      "leisure"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The room appears to be a comfortable space for leisure and recreation, with a door on the right side of the frame.",
+    "objects": [
+      "recreation",
+      "room",
+      "door",
+      "space",
+      "side",
+      "comfortable",
+      "leisure"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The room appears to be a comfortable space for leisure and recreation, with a door on the right side of the frame.",
+    "objects": [
+      "recreation",
+      "room",
+      "door",
+      "space",
+      "side",
+      "comfortable",
+      "leisure"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The room appears to be a comfortable space for leisure and recreation, with a door on the right side of the frame.",
+    "objects": [
+      "recreation",
+      "room",
+      "door",
+      "space",
+      "side",
+      "comfortable",
+      "leisure"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,588 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people interacting with an aquarium.",
+    "objects": [
+      "group",
+      "aquarium",
+      "people",
+      "see"
+    ],
+    "actions": [
+      "interacting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people interacting with an aquarium.",
+    "objects": [
+      "group",
+      "aquarium",
+      "people",
+      "see"
+    ],
+    "actions": [
+      "interacting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of people interacting with an aquarium.",
+    "objects": [
+      "group",
+      "aquarium",
+      "people",
+      "see"
+    ],
+    "actions": [
+      "interacting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "At the beginning of the scene, a man is seen in a scuba suit, holding a green plant in his right hand, presumably for feeding the fish.",
+    "objects": [
+      "fish",
+      "scuba",
+      "suit",
+      "presumably",
+      "plant",
+      "green",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "feeding",
+      "holding",
+      "beginning"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "At the beginning of the scene, a man is seen in a scuba suit, holding a green plant in his right hand, presumably for feeding the fish.",
+    "objects": [
+      "fish",
+      "scuba",
+      "suit",
+      "presumably",
+      "plant",
+      "green",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "feeding",
+      "holding",
+      "beginning"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "At the beginning of the scene, a man is seen in a scuba suit, holding a green plant in his right hand, presumably for feeding the fish.",
+    "objects": [
+      "fish",
+      "scuba",
+      "suit",
+      "presumably",
+      "plant",
+      "green",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "feeding",
+      "holding",
+      "beginning"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He appears to be feeding the fish, as the fish can be seen swimming around him, presumably attracted by the plant he's holding.",
+    "objects": [
+      "presumably",
+      "can",
+      "plant",
+      "him",
+      "around",
+      "fish"
+    ],
+    "actions": [
+      "attracted",
+      "swimming",
+      "feeding",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He appears to be feeding the fish, as the fish can be seen swimming around him, presumably attracted by the plant he's holding.",
+    "objects": [
+      "presumably",
+      "can",
+      "plant",
+      "him",
+      "around",
+      "fish"
+    ],
+    "actions": [
+      "attracted",
+      "swimming",
+      "feeding",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He appears to be feeding the fish, as the fish can be seen swimming around him, presumably attracted by the plant he's holding.",
+    "objects": [
+      "presumably",
+      "can",
+      "plant",
+      "him",
+      "around",
+      "fish"
+    ],
+    "actions": [
+      "attracted",
+      "swimming",
+      "feeding",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "As the man continues to feed the fish, the camera pans around to show us a woman sitting on a platform, also holding a green plant.",
+    "objects": [
+      "show",
+      "woman",
+      "pans",
+      "platform",
+      "plant",
+      "green",
+      "around",
+      "man"
+    ],
+    "actions": [
+      "continues",
+      "feed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "As the man continues to feed the fish, the camera pans around to show us a woman sitting on a platform, also holding a green plant.",
+    "objects": [
+      "show",
+      "woman",
+      "pans",
+      "platform",
+      "plant",
+      "green",
+      "around",
+      "man"
+    ],
+    "actions": [
+      "continues",
+      "feed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "As the man continues to feed the fish, the camera pans around to show us a woman sitting on a platform, also holding a green plant.",
+    "objects": [
+      "show",
+      "woman",
+      "pans",
+      "platform",
+      "plant",
+      "green",
+      "around",
+      "man"
+    ],
+    "actions": [
+      "continues",
+      "feed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "She seems to be feeding the fish as well, as they swim around her.",
+    "objects": [
+      "they",
+      "swim",
+      "she",
+      "well",
+      "around",
+      "her",
+      "fish"
+    ],
+    "actions": [
+      "seems",
+      "feeding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "She seems to be feeding the fish as well, as they swim around her.",
+    "objects": [
+      "they",
+      "swim",
+      "she",
+      "well",
+      "around",
+      "her",
+      "fish"
+    ],
+    "actions": [
+      "seems",
+      "feeding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "She seems to be feeding the fish as well, as they swim around her.",
+    "objects": [
+      "they",
+      "swim",
+      "she",
+      "well",
+      "around",
+      "her",
+      "fish"
+    ],
+    "actions": [
+      "seems",
+      "feeding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The aquarium has a variety of fish species, including one that is large and has a blue and green color pattern.",
+    "objects": [
+      "one",
+      "large",
+      "variety",
+      "blue",
+      "green",
+      "has",
+      "color",
+      "that"
+    ],
+    "actions": [
+      "species"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The aquarium has a variety of fish species, including one that is large and has a blue and green color pattern.",
+    "objects": [
+      "one",
+      "large",
+      "variety",
+      "blue",
+      "green",
+      "has",
+      "color",
+      "that"
+    ],
+    "actions": [
+      "species"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The aquarium has a variety of fish species, including one that is large and has a blue and green color pattern.",
+    "objects": [
+      "one",
+      "large",
+      "variety",
+      "blue",
+      "green",
+      "has",
+      "color",
+      "that"
+    ],
+    "actions": [
+      "species"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The people are dressed in scuba gear, indicating they might be scuba divers or are in a scuba diving simulation.",
+    "objects": [
+      "they",
+      "might",
+      "scuba",
+      "people",
+      "gear",
+      "simulation"
+    ],
+    "actions": [
+      "diving",
+      "dressed",
+      "divers",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The people are dressed in scuba gear, indicating they might be scuba divers or are in a scuba diving simulation.",
+    "objects": [
+      "they",
+      "might",
+      "scuba",
+      "people",
+      "gear",
+      "simulation"
+    ],
+    "actions": [
+      "diving",
+      "dressed",
+      "divers",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The people are dressed in scuba gear, indicating they might be scuba divers or are in a scuba diving simulation.",
+    "objects": [
+      "they",
+      "might",
+      "scuba",
+      "people",
+      "gear",
+      "simulation"
+    ],
+    "actions": [
+      "diving",
+      "dressed",
+      "divers",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The aquarium is well-lit, with the lighting giving a clear view of the fish and plants.",
+    "objects": [
+      "aquarium",
+      "clear",
+      "fish"
+    ],
+    "actions": [
+      "plants",
+      "giving",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The aquarium is well-lit, with the lighting giving a clear view of the fish and plants.",
+    "objects": [
+      "aquarium",
+      "clear",
+      "fish"
+    ],
+    "actions": [
+      "plants",
+      "giving",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The aquarium is well-lit, with the lighting giving a clear view of the fish and plants.",
+    "objects": [
+      "aquarium",
+      "clear",
+      "fish"
+    ],
+    "actions": [
+      "plants",
+      "giving",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The fish are colorful and swimming around the people, indicating that they are comfortable in the environment.",
+    "objects": [
+      "they",
+      "people",
+      "environment",
+      "comfortable",
+      "around",
+      "that",
+      "colorful",
+      "fish"
+    ],
+    "actions": [
+      "swimming",
+      "indicating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The fish are colorful and swimming around the people, indicating that they are comfortable in the environment.",
+    "objects": [
+      "they",
+      "people",
+      "environment",
+      "comfortable",
+      "around",
+      "that",
+      "colorful",
+      "fish"
+    ],
+    "actions": [
+      "swimming",
+      "indicating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The fish are colorful and swimming around the people, indicating that they are comfortable in the environment.",
+    "objects": [
+      "they",
+      "people",
+      "environment",
+      "comfortable",
+      "around",
+      "that",
+      "colorful",
+      "fish"
+    ],
+    "actions": [
+      "swimming",
+      "indicating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The plants are lush and green, and the man and woman are holding them with care, suggesting that they are familiar with feeding fish.",
+    "objects": [
+      "they",
+      "woman",
+      "green",
+      "lush",
+      "familiar",
+      "care",
+      "them",
+      "that"
+    ],
+    "actions": [
+      "plants",
+      "feeding",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The plants are lush and green, and the man and woman are holding them with care, suggesting that they are familiar with feeding fish.",
+    "objects": [
+      "they",
+      "woman",
+      "green",
+      "lush",
+      "familiar",
+      "care",
+      "them",
+      "that"
+    ],
+    "actions": [
+      "plants",
+      "feeding",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The plants are lush and green, and the man and woman are holding them with care, suggesting that they are familiar with feeding fish.",
+    "objects": [
+      "they",
+      "woman",
+      "green",
+      "lush",
+      "familiar",
+      "care",
+      "them",
+      "that"
+    ],
+    "actions": [
+      "plants",
+      "feeding",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures a peaceful and serene atmosphere, with the fish and people coexisting in a controlled environment.",
+    "objects": [
+      "people",
+      "environment",
+      "serene",
+      "peaceful",
+      "atmosphere",
+      "fish"
+    ],
+    "actions": [
+      "controlled",
+      "coexisting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures a peaceful and serene atmosphere, with the fish and people coexisting in a controlled environment.",
+    "objects": [
+      "people",
+      "environment",
+      "serene",
+      "peaceful",
+      "atmosphere",
+      "fish"
+    ],
+    "actions": [
+      "controlled",
+      "coexisting"
+    ],
+    "segment_id": 10
+  }
+]

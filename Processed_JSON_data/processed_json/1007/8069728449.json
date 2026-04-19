@@ -1,0 +1,557 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is sitting in his living room, wearing a black jacket, with his legs crossed and playing a guitar.",
+    "objects": [
+      "room",
+      "jacket",
+      "black",
+      "guitar",
+      "his",
+      "man",
+      "legs"
+    ],
+    "actions": [
+      "living",
+      "wearing",
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is sitting in his living room, wearing a black jacket, with his legs crossed and playing a guitar.",
+    "objects": [
+      "room",
+      "jacket",
+      "black",
+      "guitar",
+      "his",
+      "man",
+      "legs"
+    ],
+    "actions": [
+      "living",
+      "wearing",
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man is sitting in his living room, wearing a black jacket, with his legs crossed and playing a guitar.",
+    "objects": [
+      "room",
+      "jacket",
+      "black",
+      "guitar",
+      "his",
+      "man",
+      "legs"
+    ],
+    "actions": [
+      "living",
+      "wearing",
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "He is using his left hand to strum the guitar, while his right hand is pressing the chords.",
+    "objects": [
+      "while",
+      "guitar",
+      "strum",
+      "his",
+      "hand"
+    ],
+    "actions": [
+      "pressing",
+      "using",
+      "chords"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He is using his left hand to strum the guitar, while his right hand is pressing the chords.",
+    "objects": [
+      "while",
+      "guitar",
+      "strum",
+      "his",
+      "hand"
+    ],
+    "actions": [
+      "pressing",
+      "using",
+      "chords"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is using his left hand to strum the guitar, while his right hand is pressing the chords.",
+    "objects": [
+      "while",
+      "guitar",
+      "strum",
+      "his",
+      "hand"
+    ],
+    "actions": [
+      "pressing",
+      "using",
+      "chords"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is focused on the guitar, appearing to be in a state of concentration.",
+    "objects": [
+      "concentration",
+      "guitar",
+      "state"
+    ],
+    "actions": [
+      "appearing",
+      "focused"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He is focused on the guitar, appearing to be in a state of concentration.",
+    "objects": [
+      "concentration",
+      "guitar",
+      "state"
+    ],
+    "actions": [
+      "appearing",
+      "focused"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He is focused on the guitar, appearing to be in a state of concentration.",
+    "objects": [
+      "concentration",
+      "guitar",
+      "state"
+    ],
+    "actions": [
+      "appearing",
+      "focused"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The room has a white wall behind him, and a white rug on the floor.",
+    "objects": [
+      "wall",
+      "behind",
+      "white",
+      "him",
+      "has",
+      "room",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The room has a white wall behind him, and a white rug on the floor.",
+    "objects": [
+      "wall",
+      "behind",
+      "white",
+      "him",
+      "has",
+      "room",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The room has a white wall behind him, and a white rug on the floor.",
+    "objects": [
+      "wall",
+      "behind",
+      "white",
+      "him",
+      "has",
+      "room",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The man seems to be in his mid-twenties, with a light beard and short hair.",
+    "objects": [
+      "hair",
+      "beard",
+      "light",
+      "his",
+      "man",
+      "short"
+    ],
+    "actions": [
+      "seems",
+      "mid-twenties"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The man seems to be in his mid-twenties, with a light beard and short hair.",
+    "objects": [
+      "hair",
+      "beard",
+      "light",
+      "his",
+      "man",
+      "short"
+    ],
+    "actions": [
+      "seems",
+      "mid-twenties"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The man seems to be in his mid-twenties, with a light beard and short hair.",
+    "objects": [
+      "hair",
+      "beard",
+      "light",
+      "his",
+      "man",
+      "short"
+    ],
+    "actions": [
+      "seems",
+      "mid-twenties"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "He appears to be playing a Spanish-style guitar, which is a type of acoustic guitar known for its deep, rich, bass-heavy sound.",
+    "objects": [
+      "its",
+      "known",
+      "guitar",
+      "rich",
+      "which",
+      "deep",
+      "type",
+      "sound"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "He appears to be playing a Spanish-style guitar, which is a type of acoustic guitar known for its deep, rich, bass-heavy sound.",
+    "objects": [
+      "its",
+      "known",
+      "guitar",
+      "rich",
+      "which",
+      "deep",
+      "type",
+      "sound"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "He appears to be playing a Spanish-style guitar, which is a type of acoustic guitar known for its deep, rich, bass-heavy sound.",
+    "objects": [
+      "its",
+      "known",
+      "guitar",
+      "rich",
+      "which",
+      "deep",
+      "type",
+      "sound"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The guitar has a brown body with a sunburst pattern on the top and a darker brown neck, and it has a white pickguard.",
+    "objects": [
+      "body",
+      "white",
+      "has",
+      "guitar",
+      "sunburst",
+      "top",
+      "darker",
+      "pattern"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The guitar has a brown body with a sunburst pattern on the top and a darker brown neck, and it has a white pickguard.",
+    "objects": [
+      "body",
+      "white",
+      "has",
+      "guitar",
+      "sunburst",
+      "top",
+      "darker",
+      "pattern"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The guitar has a brown body with a sunburst pattern on the top and a darker brown neck, and it has a white pickguard.",
+    "objects": [
+      "body",
+      "white",
+      "has",
+      "guitar",
+      "sunburst",
+      "top",
+      "darker",
+      "pattern"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The man's left hand is on the neck of the guitar, and his right hand is on the fretboard, pressing the chords with his fingertips.",
+    "objects": [
+      "guitar",
+      "fretboard",
+      "hand",
+      "his",
+      "neck"
+    ],
+    "actions": [
+      "fingertips",
+      "pressing",
+      "chords",
+      "man's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The man's left hand is on the neck of the guitar, and his right hand is on the fretboard, pressing the chords with his fingertips.",
+    "objects": [
+      "guitar",
+      "fretboard",
+      "hand",
+      "his",
+      "neck"
+    ],
+    "actions": [
+      "fingertips",
+      "pressing",
+      "chords",
+      "man's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The man's left hand is on the neck of the guitar, and his right hand is on the fretboard, pressing the chords with his fingertips.",
+    "objects": [
+      "guitar",
+      "fretboard",
+      "hand",
+      "his",
+      "neck"
+    ],
+    "actions": [
+      "fingertips",
+      "pressing",
+      "chords",
+      "man's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The guitar has six strings, and he is playing a song with a rhythmic pattern.",
+    "objects": [
+      "rhythmic",
+      "has",
+      "guitar",
+      "six",
+      "song",
+      "pattern"
+    ],
+    "actions": [
+      "playing",
+      "strings"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The guitar has six strings, and he is playing a song with a rhythmic pattern.",
+    "objects": [
+      "rhythmic",
+      "has",
+      "guitar",
+      "six",
+      "song",
+      "pattern"
+    ],
+    "actions": [
+      "playing",
+      "strings"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The guitar has six strings, and he is playing a song with a rhythmic pattern.",
+    "objects": [
+      "rhythmic",
+      "has",
+      "guitar",
+      "six",
+      "song",
+      "pattern"
+    ],
+    "actions": [
+      "playing",
+      "strings"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The man's posture is relaxed, and he seems to be enjoying himself as he plays the guitar.",
+    "objects": [
+      "himself",
+      "guitar",
+      "posture"
+    ],
+    "actions": [
+      "seems",
+      "man's",
+      "relaxed",
+      "plays"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The man's posture is relaxed, and he seems to be enjoying himself as he plays the guitar.",
+    "objects": [
+      "himself",
+      "guitar",
+      "posture"
+    ],
+    "actions": [
+      "seems",
+      "man's",
+      "relaxed",
+      "plays"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The man's posture is relaxed, and he seems to be enjoying himself as he plays the guitar.",
+    "objects": [
+      "himself",
+      "guitar",
+      "posture"
+    ],
+    "actions": [
+      "seems",
+      "man's",
+      "relaxed",
+      "plays"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The lighting in the room is warm, with a yellowish tone, and there is a window in the background that lets in natural light.",
+    "objects": [
+      "natural",
+      "there",
+      "yellowish",
+      "tone",
+      "warm",
+      "window",
+      "that",
+      "light"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The lighting in the room is warm, with a yellowish tone, and there is a window in the background that lets in natural light.",
+    "objects": [
+      "natural",
+      "there",
+      "yellowish",
+      "tone",
+      "warm",
+      "window",
+      "that",
+      "light"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 10
+  }
+]

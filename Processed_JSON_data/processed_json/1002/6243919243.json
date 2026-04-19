@@ -1,0 +1,564 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a bustling city scene, with a focus on an intersection teeming with life.",
+    "objects": [
+      "life",
+      "intersection",
+      "city"
+    ],
+    "actions": [
+      "teeming",
+      "bustling",
+      "focus"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The camera angle is from the perspective of a pedestrian, providing an immersive view of the surroundings.",
+    "objects": [
+      "from",
+      "pedestrian",
+      "perspective",
+      "immersive"
+    ],
+    "actions": [
+      "providing",
+      "surroundings"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "A silver car, presumably a taxi given its size and color, is parked near the curb.",
+    "objects": [
+      "given",
+      "its",
+      "size",
+      "presumably",
+      "taxi",
+      "curb",
+      "silver",
+      "color"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "A person is seen walking on the sidewalk, wearing a blue hoodie and carrying a black shoulder bag.",
+    "objects": [
+      "black",
+      "blue",
+      "bag",
+      "hoodie",
+      "shoulder",
+      "sidewalk"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The camera captures them from behind, moving away from the viewer, suggesting they are in motion.",
+    "objects": [
+      "they",
+      "motion",
+      "behind",
+      "viewer",
+      "away",
+      "from",
+      "them"
+    ],
+    "actions": [
+      "moving",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The crosswalk is bustling with activity, with a person in a white shirt crossing in front of the silver car, their back facing the camera, and another individual in a white shirt crossing in the opposite direction, also moving away from the viewer.",
+    "objects": [
+      "their",
+      "activity",
+      "white",
+      "away",
+      "viewer",
+      "shirt",
+      "silver",
+      "from"
+    ],
+    "actions": [
+      "crossing",
+      "moving",
+      "facing",
+      "bustling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then shifts to the opposite sidewalk, where a person in a white shirt is walking away from the viewer, while a man in a red shirt stands on the corner of the crosswalk, seemingly waiting for the light to change.",
+    "objects": [
+      "white",
+      "where",
+      "away",
+      "viewer",
+      "while",
+      "shirt",
+      "from",
+      "seemingly"
+    ],
+    "actions": [
+      "red",
+      "stands",
+      "waiting",
+      "shifts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera angle changes to the front of the silver car, with a person in a white shirt waiting for it to change.",
+    "objects": [
+      "white",
+      "shirt",
+      "silver",
+      "car",
+      "change"
+    ],
+    "actions": [
+      "waiting",
+      "changes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The car is parked in front of a store, which appears to be a restaurant or cafe given the signage.",
+    "objects": [
+      "cafe",
+      "given",
+      "store",
+      "restaurant",
+      "which",
+      "car",
+      "signage"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then moves to the crosswalk, where a person in a white shirt is crossing, while a man in a red shirt stands near the corner of the crosswalk, and a person in a white shirt is crossing in the opposite direction.",
+    "objects": [
+      "white",
+      "where",
+      "while",
+      "shirt",
+      "corner",
+      "direction",
+      "opposite",
+      "man"
+    ],
+    "actions": [
+      "crossing",
+      "stands",
+      "red",
+      "moves"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene continues to unfold with a person in a white shirt crossing in front of the silver car, and a man in a red shirt waiting on the corner of the crosswalk.",
+    "objects": [
+      "white",
+      "shirt",
+      "silver",
+      "corner",
+      "car",
+      "unfold",
+      "man",
+      "crosswalk"
+    ],
+    "actions": [
+      "waiting",
+      "continues",
+      "crossing",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera angle changes to the front of the silver car again, with a person in a white shirt crossing in front of it.",
+    "objects": [
+      "white",
+      "shirt",
+      "silver",
+      "car",
+      "again"
+    ],
+    "actions": [
+      "crossing",
+      "changes"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The person in the red shirt is seen walking away from the viewer, and another person in a white shirt is crossing in the opposite direction.",
+    "objects": [
+      "white",
+      "away",
+      "viewer",
+      "shirt",
+      "from",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "crossing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The scene continues with a person in a white shirt crossing in front of the silver car, and a man in a red shirt waiting on the corner of the crosswalk.",
+    "objects": [
+      "white",
+      "shirt",
+      "silver",
+      "corner",
+      "car",
+      "man",
+      "crosswalk"
+    ],
+    "actions": [
+      "waiting",
+      "continues",
+      "crossing",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera moves back to the opposite sidewalk, with a person in a white shirt walking away from the viewer and a man in a red shirt waiting on the corner of the crosswalk.",
+    "objects": [
+      "white",
+      "away",
+      "viewer",
+      "shirt",
+      "from",
+      "corner",
+      "opposite",
+      "sidewalk"
+    ],
+    "actions": [
+      "waiting",
+      "walking",
+      "red",
+      "moves"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then shifts to the front of the silver car, with a person in a white shirt crossing in front of it.",
+    "objects": [
+      "white",
+      "shirt",
+      "silver",
+      "car",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "crossing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The person in the red shirt is seen walking away from the viewer.",
+    "objects": [
+      "away",
+      "viewer",
+      "from",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera angle changes to the corner of the crosswalk, where a man in a red shirt is waiting for the light to change.",
+    "objects": [
+      "where",
+      "shirt",
+      "light",
+      "corner",
+      "change",
+      "man",
+      "crosswalk"
+    ],
+    "actions": [
+      "waiting",
+      "changes",
+      "red"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene then shifts to the front of the silver car, with a person in a white shirt crossing in front of it.",
+    "objects": [
+      "white",
+      "shirt",
+      "silver",
+      "car",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "crossing"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in a red shirt is seen walking away from the viewer.",
+    "objects": [
+      "away",
+      "viewer",
+      "shirt",
+      "from",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then moves to the opposite sidewalk, with a person in a white shirt waiting for the light to change.",
+    "objects": [
+      "white",
+      "shirt",
+      "change",
+      "light",
+      "opposite",
+      "sidewalk",
+      "then"
+    ],
+    "actions": [
+      "waiting",
+      "moves"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera shifts to the corner of the crosswalk, where a man in a red shirt is waiting for the light to change.",
+    "objects": [
+      "where",
+      "shirt",
+      "light",
+      "corner",
+      "change",
+      "man",
+      "crosswalk"
+    ],
+    "actions": [
+      "shifts",
+      "waiting",
+      "red"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then returns to the front of the silver car, with a person in a white shirt crossing in front of it.",
+    "objects": [
+      "white",
+      "shirt",
+      "silver",
+      "car",
+      "then"
+    ],
+    "actions": [
+      "crossing",
+      "returns"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera angle changes to the corner of the crosswalk, where a man in a red shirt is waiting for it to change.",
+    "objects": [
+      "where",
+      "shirt",
+      "corner",
+      "change",
+      "man",
+      "crosswalk"
+    ],
+    "actions": [
+      "waiting",
+      "changes",
+      "red"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera shifts to the front of the silver car, with a person in a white shirt crossing in front of it.",
+    "objects": [
+      "silver",
+      "car",
+      "shirt",
+      "white"
+    ],
+    "actions": [
+      "shifts",
+      "crossing"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the red shirt is seen walking away from the viewer.",
+    "objects": [
+      "away",
+      "viewer",
+      "shirt",
+      "from",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene then moves to the opposite sidewalk, where a person in a white shirt is waiting for the light to change.",
+    "objects": [
+      "white",
+      "where",
+      "shirt",
+      "change",
+      "light",
+      "opposite",
+      "sidewalk",
+      "then"
+    ],
+    "actions": [
+      "waiting",
+      "moves"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera angle changes to the front of the silver car, with a person in a white shirt crossing in front of it.",
+    "objects": [
+      "silver",
+      "car",
+      "shirt",
+      "white"
+    ],
+    "actions": [
+      "crossing",
+      "changes"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in a red shirt is seen walking away from the viewer.",
+    "objects": [
+      "away",
+      "viewer",
+      "shirt",
+      "from",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then moves to the corner of the crosswalk, where a person in a white shirt is waiting for it to change.",
+    "objects": [
+      "white",
+      "where",
+      "shirt",
+      "corner",
+      "change",
+      "then",
+      "crosswalk"
+    ],
+    "actions": [
+      "waiting",
+      "moves"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera shifts to the opposite sidewalk, with a person in a white shirt crossing in front of the silver car.",
+    "objects": [
+      "white",
+      "shirt",
+      "silver",
+      "car",
+      "opposite",
+      "sidewalk"
+    ],
+    "actions": [
+      "shifts",
+      "crossing"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in a red shirt is seen walking away from the viewer.",
+    "objects": [
+      "away",
+      "viewer",
+      "shirt",
+      "from",
+      "man"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 31
+  }
+]

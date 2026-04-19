@@ -1,0 +1,515 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a close-up shot of a young boy's face, looking directly at the camera.",
+    "objects": [
+      "face",
+      "young",
+      "directly"
+    ],
+    "actions": [
+      "boy's",
+      "opens",
+      "looking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a close-up shot of a young boy's face, looking directly at the camera.",
+    "objects": [
+      "face",
+      "young",
+      "directly"
+    ],
+    "actions": [
+      "boy's",
+      "opens",
+      "looking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video opens with a close-up shot of a young boy's face, looking directly at the camera.",
+    "objects": [
+      "face",
+      "young",
+      "directly"
+    ],
+    "actions": [
+      "boy's",
+      "opens",
+      "looking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "He is wearing a blue shirt and appears to be sitting in a room with a wooden floor.",
+    "objects": [
+      "blue",
+      "room",
+      "wooden",
+      "shirt",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He is wearing a blue shirt and appears to be sitting in a room with a wooden floor.",
+    "objects": [
+      "blue",
+      "room",
+      "wooden",
+      "shirt",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a blue shirt and appears to be sitting in a room with a wooden floor.",
+    "objects": [
+      "blue",
+      "room",
+      "wooden",
+      "shirt",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The room is well-lit, and there are various pieces of furniture visible in the background.",
+    "objects": [
+      "there",
+      "furniture",
+      "room"
+    ],
+    "actions": [
+      "pieces"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The room is well-lit, and there are various pieces of furniture visible in the background.",
+    "objects": [
+      "there",
+      "furniture",
+      "room"
+    ],
+    "actions": [
+      "pieces"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The room is well-lit, and there are various pieces of furniture visible in the background.",
+    "objects": [
+      "there",
+      "furniture",
+      "room"
+    ],
+    "actions": [
+      "pieces"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the next scene, the boy is sitting on a blue toy car, which is on wheels.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "which",
+      "boy"
+    ],
+    "actions": [
+      "sitting",
+      "wheels"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "In the next scene, the boy is sitting on a blue toy car, which is on wheels.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "which",
+      "boy"
+    ],
+    "actions": [
+      "sitting",
+      "wheels"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "In the next scene, the boy is sitting on a blue toy car, which is on wheels.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "which",
+      "boy"
+    ],
+    "actions": [
+      "sitting",
+      "wheels"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "He seems to be in a playful mood, as he is wearing a blue hoodie and a silver car is parked nearby.",
+    "objects": [
+      "playful",
+      "blue",
+      "car",
+      "silver",
+      "nearby",
+      "hoodie",
+      "mood"
+    ],
+    "actions": [
+      "wearing",
+      "parked",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "He seems to be in a playful mood, as he is wearing a blue hoodie and a silver car is parked nearby.",
+    "objects": [
+      "playful",
+      "blue",
+      "car",
+      "silver",
+      "nearby",
+      "hoodie",
+      "mood"
+    ],
+    "actions": [
+      "wearing",
+      "parked",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "He seems to be in a playful mood, as he is wearing a blue hoodie and a silver car is parked nearby.",
+    "objects": [
+      "playful",
+      "blue",
+      "car",
+      "silver",
+      "nearby",
+      "hoodie",
+      "mood"
+    ],
+    "actions": [
+      "wearing",
+      "parked",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The car's wheels are moving, and the boy is looking out of the window.",
+    "objects": [
+      "window",
+      "out",
+      "boy"
+    ],
+    "actions": [
+      "moving",
+      "car's",
+      "wheels",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The car's wheels are moving, and the boy is looking out of the window.",
+    "objects": [
+      "window",
+      "out",
+      "boy"
+    ],
+    "actions": [
+      "moving",
+      "car's",
+      "wheels",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The car's wheels are moving, and the boy is looking out of the window.",
+    "objects": [
+      "window",
+      "out",
+      "boy"
+    ],
+    "actions": [
+      "moving",
+      "car's",
+      "wheels",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "In the following scene, the boy is still on the blue toy car, this time with a red rug underneath it.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "this",
+      "time",
+      "boy",
+      "still",
+      "underneath"
+    ],
+    "actions": [
+      "red",
+      "following"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "In the following scene, the boy is still on the blue toy car, this time with a red rug underneath it.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "this",
+      "time",
+      "boy",
+      "still",
+      "underneath"
+    ],
+    "actions": [
+      "red",
+      "following"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "In the following scene, the boy is still on the blue toy car, this time with a red rug underneath it.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "this",
+      "time",
+      "boy",
+      "still",
+      "underneath"
+    ],
+    "actions": [
+      "red",
+      "following"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "He is wearing a blue shirt and is sitting on the floor, and there is a lamp in the background.",
+    "objects": [
+      "blue",
+      "shirt",
+      "there",
+      "lamp",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "He is wearing a blue shirt and is sitting on the floor, and there is a lamp in the background.",
+    "objects": [
+      "blue",
+      "shirt",
+      "there",
+      "lamp",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "He is wearing a blue shirt and is sitting on the floor, and there is a lamp in the background.",
+    "objects": [
+      "blue",
+      "shirt",
+      "there",
+      "lamp",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "In the final scene, the boy is back on the blue toy car, and he is wearing a blue shirt.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "final",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "In the final scene, the boy is back on the blue toy car, and he is wearing a blue shirt.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "final",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "In the final scene, the boy is back on the blue toy car, and he is wearing a blue shirt.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "final",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "This time, the car is on a black rug.",
+    "objects": [
+      "car",
+      "this",
+      "time",
+      "black",
+      "rug"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "This time, the car is on a black rug.",
+    "objects": [
+      "car",
+      "this",
+      "time",
+      "black",
+      "rug"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "This time, the car is on a black rug.",
+    "objects": [
+      "car",
+      "this",
+      "time",
+      "black",
+      "rug"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The room is brightly lit, and a blue chair is also visible in the background.",
+    "objects": [
+      "blue",
+      "room",
+      "brightly",
+      "lit",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The room is brightly lit, and a blue chair is also visible in the background.",
+    "objects": [
+      "blue",
+      "room",
+      "brightly",
+      "lit",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  }
+]

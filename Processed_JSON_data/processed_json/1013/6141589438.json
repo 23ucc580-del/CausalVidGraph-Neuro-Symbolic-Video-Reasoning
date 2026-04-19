@@ -1,0 +1,612 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are seen enjoying a sunny day at a lake, some of them standing on a wooden pier and others swimming in the water.",
+    "objects": [
+      "people",
+      "pier",
+      "lake",
+      "some",
+      "them",
+      "wooden",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "swimming",
+      "standing",
+      "enjoying",
+      "others"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are seen enjoying a sunny day at a lake, some of them standing on a wooden pier and others swimming in the water.",
+    "objects": [
+      "people",
+      "pier",
+      "lake",
+      "some",
+      "them",
+      "wooden",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "swimming",
+      "standing",
+      "enjoying",
+      "others"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are seen enjoying a sunny day at a lake, some of them standing on a wooden pier and others swimming in the water.",
+    "objects": [
+      "people",
+      "pier",
+      "lake",
+      "some",
+      "them",
+      "wooden",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "swimming",
+      "standing",
+      "enjoying",
+      "others"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people are seen enjoying a sunny day at a lake, some of them standing on a wooden pier and others swimming in the water.",
+    "objects": [
+      "people",
+      "pier",
+      "lake",
+      "some",
+      "them",
+      "wooden",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "swimming",
+      "standing",
+      "enjoying",
+      "others"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a group of people are seen enjoying a sunny day at a lake, some of them standing on a wooden pier and others swimming in the water.",
+    "objects": [
+      "people",
+      "pier",
+      "lake",
+      "some",
+      "them",
+      "wooden",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "swimming",
+      "standing",
+      "enjoying",
+      "others"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "In the video, a group of people are seen enjoying a sunny day at a lake, some of them standing on a wooden pier and others swimming in the water.",
+    "objects": [
+      "people",
+      "pier",
+      "lake",
+      "some",
+      "them",
+      "wooden",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "swimming",
+      "standing",
+      "enjoying",
+      "others"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 6,
+    "description": "There are three individuals in the foreground, with one on the left wearing a blue hoodie, one in the middle wearing a blue swimsuit, and the third on the right wearing a blue tank top.",
+    "objects": [
+      "three",
+      "one",
+      "tank",
+      "there",
+      "middle",
+      "blue",
+      "swimsuit",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "There are three individuals in the foreground, with one on the left wearing a blue hoodie, one in the middle wearing a blue swimsuit, and the third on the right wearing a blue tank top.",
+    "objects": [
+      "three",
+      "one",
+      "tank",
+      "there",
+      "middle",
+      "blue",
+      "swimsuit",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "There are three individuals in the foreground, with one on the left wearing a blue hoodie, one in the middle wearing a blue swimsuit, and the third on the right wearing a blue tank top.",
+    "objects": [
+      "three",
+      "one",
+      "tank",
+      "there",
+      "middle",
+      "blue",
+      "swimsuit",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "There are three individuals in the foreground, with one on the left wearing a blue hoodie, one in the middle wearing a blue swimsuit, and the third on the right wearing a blue tank top.",
+    "objects": [
+      "three",
+      "one",
+      "tank",
+      "there",
+      "middle",
+      "blue",
+      "swimsuit",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "There are three individuals in the foreground, with one on the left wearing a blue hoodie, one in the middle wearing a blue swimsuit, and the third on the right wearing a blue tank top.",
+    "objects": [
+      "three",
+      "one",
+      "tank",
+      "there",
+      "middle",
+      "blue",
+      "swimsuit",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 11,
+    "description": "There are three individuals in the foreground, with one on the left wearing a blue hoodie, one in the middle wearing a blue swimsuit, and the third on the right wearing a blue tank top.",
+    "objects": [
+      "three",
+      "one",
+      "tank",
+      "there",
+      "middle",
+      "blue",
+      "swimsuit",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 12,
+    "description": "A child is being held by the person in the middle, who is also holding a blue bucket.",
+    "objects": [
+      "child",
+      "middle",
+      "blue",
+      "who",
+      "held",
+      "bucket"
+    ],
+    "actions": [
+      "holding",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "A child is being held by the person in the middle, who is also holding a blue bucket.",
+    "objects": [
+      "child",
+      "middle",
+      "blue",
+      "who",
+      "held",
+      "bucket"
+    ],
+    "actions": [
+      "holding",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "A child is being held by the person in the middle, who is also holding a blue bucket.",
+    "objects": [
+      "child",
+      "middle",
+      "blue",
+      "who",
+      "held",
+      "bucket"
+    ],
+    "actions": [
+      "holding",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "A child is being held by the person in the middle, who is also holding a blue bucket.",
+    "objects": [
+      "child",
+      "middle",
+      "blue",
+      "who",
+      "held",
+      "bucket"
+    ],
+    "actions": [
+      "holding",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 16,
+    "description": "A child is being held by the person in the middle, who is also holding a blue bucket.",
+    "objects": [
+      "child",
+      "middle",
+      "blue",
+      "who",
+      "held",
+      "bucket"
+    ],
+    "actions": [
+      "holding",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 17,
+    "description": "A child is being held by the person in the middle, who is also holding a blue bucket.",
+    "objects": [
+      "child",
+      "middle",
+      "blue",
+      "who",
+      "held",
+      "bucket"
+    ],
+    "actions": [
+      "holding",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 18,
+    "description": "To the left, a person wearing a black swimsuit is standing on the pier, while a person in a pink hoodie is seen swimming in the water.",
+    "objects": [
+      "pink",
+      "while",
+      "black",
+      "pier",
+      "swimsuit",
+      "hoodie",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "To the left, a person wearing a black swimsuit is standing on the pier, while a person in a pink hoodie is seen swimming in the water.",
+    "objects": [
+      "pink",
+      "while",
+      "black",
+      "pier",
+      "swimsuit",
+      "hoodie",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "To the left, a person wearing a black swimsuit is standing on the pier, while a person in a pink hoodie is seen swimming in the water.",
+    "objects": [
+      "pink",
+      "while",
+      "black",
+      "pier",
+      "swimsuit",
+      "hoodie",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 21,
+    "description": "To the left, a person wearing a black swimsuit is standing on the pier, while a person in a pink hoodie is seen swimming in the water.",
+    "objects": [
+      "pink",
+      "while",
+      "black",
+      "pier",
+      "swimsuit",
+      "hoodie",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 22,
+    "description": "To the left, a person wearing a black swimsuit is standing on the pier, while a person in a pink hoodie is seen swimming in the water.",
+    "objects": [
+      "pink",
+      "while",
+      "black",
+      "pier",
+      "swimsuit",
+      "hoodie",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 23,
+    "description": "To the left, a person wearing a black swimsuit is standing on the pier, while a person in a pink hoodie is seen swimming in the water.",
+    "objects": [
+      "pink",
+      "while",
+      "black",
+      "pier",
+      "swimsuit",
+      "hoodie",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 24,
+    "description": "In the background, there is a man in a silver shirt standing on the pier, a person in a black swimsuit swimming in the water, and a child in a blue swimsuit is also swimming.",
+    "objects": [
+      "there",
+      "child",
+      "black",
+      "pier",
+      "blue",
+      "swimsuit",
+      "shirt",
+      "silver"
+    ],
+    "actions": [
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, there is a man in a silver shirt standing on the pier, a person in a black swimsuit swimming in the water, and a child in a blue swimsuit is also swimming.",
+    "objects": [
+      "there",
+      "child",
+      "black",
+      "pier",
+      "blue",
+      "swimsuit",
+      "shirt",
+      "silver"
+    ],
+    "actions": [
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, there is a man in a silver shirt standing on the pier, a person in a black swimsuit swimming in the water, and a child in a blue swimsuit is also swimming.",
+    "objects": [
+      "there",
+      "child",
+      "black",
+      "pier",
+      "blue",
+      "swimsuit",
+      "shirt",
+      "silver"
+    ],
+    "actions": [
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 27,
+    "description": "In the background, there is a man in a silver shirt standing on the pier, a person in a black swimsuit swimming in the water, and a child in a blue swimsuit is also swimming.",
+    "objects": [
+      "there",
+      "child",
+      "black",
+      "pier",
+      "blue",
+      "swimsuit",
+      "shirt",
+      "silver"
+    ],
+    "actions": [
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, there is a man in a silver shirt standing on the pier, a person in a black swimsuit swimming in the water, and a child in a blue swimsuit is also swimming.",
+    "objects": [
+      "there",
+      "child",
+      "black",
+      "pier",
+      "blue",
+      "swimsuit",
+      "shirt",
+      "silver"
+    ],
+    "actions": [
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, there is a man in a silver shirt standing on the pier, a person in a black swimsuit swimming in the water, and a child in a blue swimsuit is also swimming.",
+    "objects": [
+      "there",
+      "child",
+      "black",
+      "pier",
+      "blue",
+      "swimsuit",
+      "shirt",
+      "silver"
+    ],
+    "actions": [
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is lively and full of fun activities, with the group spending time together in the beautiful outdoor setting.",
+    "objects": [
+      "full",
+      "together",
+      "fun",
+      "lively",
+      "outdoor",
+      "beautiful",
+      "time",
+      "group"
+    ],
+    "actions": [
+      "activities",
+      "spending",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is lively and full of fun activities, with the group spending time together in the beautiful outdoor setting.",
+    "objects": [
+      "full",
+      "together",
+      "fun",
+      "lively",
+      "outdoor",
+      "beautiful",
+      "time",
+      "group"
+    ],
+    "actions": [
+      "activities",
+      "spending",
+      "setting"
+    ],
+    "segment_id": 5
+  }
+]

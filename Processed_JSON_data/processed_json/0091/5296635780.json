@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features a newlywed couple, a man and a woman, who are dressed in their wedding attire.",
+    "objects": [
+      "couple",
+      "woman",
+      "man",
+      "their",
+      "who",
+      "attire"
+    ],
+    "actions": [
+      "features",
+      "wedding",
+      "newlywed",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features a newlywed couple, a man and a woman, who are dressed in their wedding attire.",
+    "objects": [
+      "couple",
+      "woman",
+      "man",
+      "their",
+      "who",
+      "attire"
+    ],
+    "actions": [
+      "features",
+      "wedding",
+      "newlywed",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video features a newlywed couple, a man and a woman, who are dressed in their wedding attire.",
+    "objects": [
+      "couple",
+      "woman",
+      "man",
+      "their",
+      "who",
+      "attire"
+    ],
+    "actions": [
+      "features",
+      "wedding",
+      "newlywed",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video features a newlywed couple, a man and a woman, who are dressed in their wedding attire.",
+    "objects": [
+      "couple",
+      "woman",
+      "man",
+      "their",
+      "who",
+      "attire"
+    ],
+    "actions": [
+      "features",
+      "wedding",
+      "newlywed",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is wearing a white strapless dress with a beaded bodice and the man is wearing a formal white tuxedo.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "dress",
+      "bodice",
+      "formal",
+      "tuxedo"
+    ],
+    "actions": [
+      "wearing",
+      "strapless",
+      "beaded"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is wearing a white strapless dress with a beaded bodice and the man is wearing a formal white tuxedo.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "dress",
+      "bodice",
+      "formal",
+      "tuxedo"
+    ],
+    "actions": [
+      "wearing",
+      "strapless",
+      "beaded"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is wearing a white strapless dress with a beaded bodice and the man is wearing a formal white tuxedo.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "dress",
+      "bodice",
+      "formal",
+      "tuxedo"
+    ],
+    "actions": [
+      "wearing",
+      "strapless",
+      "beaded"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is wearing a white strapless dress with a beaded bodice and the man is wearing a formal white tuxedo.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "dress",
+      "bodice",
+      "formal",
+      "tuxedo"
+    ],
+    "actions": [
+      "wearing",
+      "strapless",
+      "beaded"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are standing in front of a large, arched window, which has a dark curtain and a plant in the background.",
+    "objects": [
+      "which",
+      "has",
+      "window",
+      "plant",
+      "they",
+      "dark",
+      "curtain",
+      "large"
+    ],
+    "actions": [
+      "arched",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are standing in front of a large, arched window, which has a dark curtain and a plant in the background.",
+    "objects": [
+      "which",
+      "has",
+      "window",
+      "plant",
+      "they",
+      "dark",
+      "curtain",
+      "large"
+    ],
+    "actions": [
+      "arched",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are standing in front of a large, arched window, which has a dark curtain and a plant in the background.",
+    "objects": [
+      "which",
+      "has",
+      "window",
+      "plant",
+      "they",
+      "dark",
+      "curtain",
+      "large"
+    ],
+    "actions": [
+      "arched",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are standing in front of a large, arched window, which has a dark curtain and a plant in the background.",
+    "objects": [
+      "which",
+      "has",
+      "window",
+      "plant",
+      "they",
+      "dark",
+      "curtain",
+      "large"
+    ],
+    "actions": [
+      "arched",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is holding a bouquet of flowers, and the man is wearing a corsage.",
+    "objects": [
+      "corsage",
+      "woman",
+      "man",
+      "bouquet"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "flowers"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is holding a bouquet of flowers, and the man is wearing a corsage.",
+    "objects": [
+      "corsage",
+      "woman",
+      "man",
+      "bouquet"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "flowers"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is holding a bouquet of flowers, and the man is wearing a corsage.",
+    "objects": [
+      "corsage",
+      "woman",
+      "man",
+      "bouquet"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "flowers"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is holding a bouquet of flowers, and the man is wearing a corsage.",
+    "objects": [
+      "corsage",
+      "woman",
+      "man",
+      "bouquet"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "flowers"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is seen bending down to the woman and placing a white rose on her wrist, while she laughs and playfully puts the rose on his lapel.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "puts",
+      "she",
+      "lapel",
+      "while",
+      "rose"
+    ],
+    "actions": [
+      "bending",
+      "laughs",
+      "placing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is seen bending down to the woman and placing a white rose on her wrist, while she laughs and playfully puts the rose on his lapel.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "puts",
+      "she",
+      "lapel",
+      "while",
+      "rose"
+    ],
+    "actions": [
+      "bending",
+      "laughs",
+      "placing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is seen bending down to the woman and placing a white rose on her wrist, while she laughs and playfully puts the rose on his lapel.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "puts",
+      "she",
+      "lapel",
+      "while",
+      "rose"
+    ],
+    "actions": [
+      "bending",
+      "laughs",
+      "placing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is seen bending down to the woman and placing a white rose on her wrist, while she laughs and playfully puts the rose on his lapel.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "puts",
+      "she",
+      "lapel",
+      "while",
+      "rose"
+    ],
+    "actions": [
+      "bending",
+      "laughs",
+      "placing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "She then puts the rose on his lapel, and they exchange a laugh.",
+    "objects": [
+      "puts",
+      "she",
+      "lapel",
+      "exchange",
+      "then",
+      "rose",
+      "they",
+      "his"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "She then puts the rose on his lapel, and they exchange a laugh.",
+    "objects": [
+      "puts",
+      "she",
+      "lapel",
+      "exchange",
+      "then",
+      "rose",
+      "they",
+      "his"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "She then puts the rose on his lapel, and they exchange a laugh.",
+    "objects": [
+      "puts",
+      "she",
+      "lapel",
+      "exchange",
+      "then",
+      "rose",
+      "they",
+      "his"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "She then puts the rose on his lapel, and they exchange a laugh.",
+    "objects": [
+      "puts",
+      "she",
+      "lapel",
+      "exchange",
+      "then",
+      "rose",
+      "they",
+      "his"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman then puts on a white glove, and the man smiles at her.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "puts",
+      "glove",
+      "then",
+      "her"
+    ],
+    "actions": [
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman then puts on a white glove, and the man smiles at her.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "puts",
+      "glove",
+      "then",
+      "her"
+    ],
+    "actions": [
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman then puts on a white glove, and the man smiles at her.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "puts",
+      "glove",
+      "then",
+      "her"
+    ],
+    "actions": [
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman then puts on a white glove, and the man smiles at her.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "puts",
+      "glove",
+      "then",
+      "her"
+    ],
+    "actions": [
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman puts on a white glove, and the man takes her hand, they share a kiss, and then the man takes her hand.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "kiss",
+      "puts",
+      "glove",
+      "hand",
+      "they"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman puts on a white glove, and the man takes her hand, they share a kiss, and then the man takes her hand.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "kiss",
+      "puts",
+      "glove",
+      "hand",
+      "they"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman puts on a white glove, and the man takes her hand, they share a kiss, and then the man takes her hand.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "kiss",
+      "puts",
+      "glove",
+      "hand",
+      "they"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman puts on a white glove, and the man takes her hand, they share a kiss, and then the man takes her hand.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "kiss",
+      "puts",
+      "glove",
+      "hand",
+      "they"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 7
+  }
+]

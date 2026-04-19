@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is seen holding a baby in a crib.",
+    "objects": [
+      "man",
+      "baby",
+      "crib"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is seen holding a baby in a crib.",
+    "objects": [
+      "man",
+      "baby",
+      "crib"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man is seen holding a baby in a crib.",
+    "objects": [
+      "man",
+      "baby",
+      "crib"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man is seen holding a baby in a crib.",
+    "objects": [
+      "man",
+      "baby",
+      "crib"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a red shirt and glasses.",
+    "objects": [
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a red shirt and glasses.",
+    "objects": [
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is wearing a red shirt and glasses.",
+    "objects": [
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is wearing a red shirt and glasses.",
+    "objects": [
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is smiling as he looks down at the baby who is dressed in a white onesie.",
+    "objects": [
+      "who",
+      "baby",
+      "white",
+      "onesie"
+    ],
+    "actions": [
+      "dressed",
+      "looks",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is smiling as he looks down at the baby who is dressed in a white onesie.",
+    "objects": [
+      "who",
+      "baby",
+      "white",
+      "onesie"
+    ],
+    "actions": [
+      "dressed",
+      "looks",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is smiling as he looks down at the baby who is dressed in a white onesie.",
+    "objects": [
+      "who",
+      "baby",
+      "white",
+      "onesie"
+    ],
+    "actions": [
+      "dressed",
+      "looks",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is smiling as he looks down at the baby who is dressed in a white onesie.",
+    "objects": [
+      "who",
+      "baby",
+      "white",
+      "onesie"
+    ],
+    "actions": [
+      "dressed",
+      "looks",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby is lying down and seems to be awake, with their arms and legs moving.",
+    "objects": [
+      "their",
+      "arms",
+      "awake",
+      "baby",
+      "legs"
+    ],
+    "actions": [
+      "seems",
+      "moving",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby is lying down and seems to be awake, with their arms and legs moving.",
+    "objects": [
+      "their",
+      "arms",
+      "awake",
+      "baby",
+      "legs"
+    ],
+    "actions": [
+      "seems",
+      "moving",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby is lying down and seems to be awake, with their arms and legs moving.",
+    "objects": [
+      "their",
+      "arms",
+      "awake",
+      "baby",
+      "legs"
+    ],
+    "actions": [
+      "seems",
+      "moving",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby is lying down and seems to be awake, with their arms and legs moving.",
+    "objects": [
+      "their",
+      "arms",
+      "awake",
+      "baby",
+      "legs"
+    ],
+    "actions": [
+      "seems",
+      "moving",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The crib has a white mattress and a patterned blanket.",
+    "objects": [
+      "blanket",
+      "crib",
+      "has",
+      "white"
+    ],
+    "actions": [
+      "patterned",
+      "mattress"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The crib has a white mattress and a patterned blanket.",
+    "objects": [
+      "blanket",
+      "crib",
+      "has",
+      "white"
+    ],
+    "actions": [
+      "patterned",
+      "mattress"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The crib has a white mattress and a patterned blanket.",
+    "objects": [
+      "blanket",
+      "crib",
+      "has",
+      "white"
+    ],
+    "actions": [
+      "patterned",
+      "mattress"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The crib has a white mattress and a patterned blanket.",
+    "objects": [
+      "blanket",
+      "crib",
+      "has",
+      "white"
+    ],
+    "actions": [
+      "patterned",
+      "mattress"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The room has a blue wall and a door with a window, and a blue rug is visible in the background.",
+    "objects": [
+      "room",
+      "wall",
+      "blue",
+      "has",
+      "window",
+      "door",
+      "rug"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The room has a blue wall and a door with a window, and a blue rug is visible in the background.",
+    "objects": [
+      "room",
+      "wall",
+      "blue",
+      "has",
+      "window",
+      "door",
+      "rug"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The room has a blue wall and a door with a window, and a blue rug is visible in the background.",
+    "objects": [
+      "room",
+      "wall",
+      "blue",
+      "has",
+      "window",
+      "door",
+      "rug"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The room has a blue wall and a door with a window, and a blue rug is visible in the background.",
+    "objects": [
+      "room",
+      "wall",
+      "blue",
+      "has",
+      "window",
+      "door",
+      "rug"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man gently rocks the baby to a soft melody playing in the background, which seems to be a soothing lullaby.",
+    "objects": [
+      "soft",
+      "melody",
+      "lullaby",
+      "gently",
+      "which",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "playing",
+      "rocks",
+      "soothing",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man gently rocks the baby to a soft melody playing in the background, which seems to be a soothing lullaby.",
+    "objects": [
+      "soft",
+      "melody",
+      "lullaby",
+      "gently",
+      "which",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "playing",
+      "rocks",
+      "soothing",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man gently rocks the baby to a soft melody playing in the background, which seems to be a soothing lullaby.",
+    "objects": [
+      "soft",
+      "melody",
+      "lullaby",
+      "gently",
+      "which",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "playing",
+      "rocks",
+      "soothing",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man gently rocks the baby to a soft melody playing in the background, which seems to be a soothing lullaby.",
+    "objects": [
+      "soft",
+      "melody",
+      "lullaby",
+      "gently",
+      "which",
+      "man",
+      "baby"
+    ],
+    "actions": [
+      "playing",
+      "rocks",
+      "soothing",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The baby's eyes are open, and they appear to be calmly observing their surroundings while the man smiles and sways to the rhythm of the music.",
+    "objects": [
+      "they",
+      "appear",
+      "their",
+      "open",
+      "while",
+      "rhythm",
+      "calmly",
+      "man"
+    ],
+    "actions": [
+      "sways",
+      "smiles",
+      "baby's",
+      "observing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The baby's eyes are open, and they appear to be calmly observing their surroundings while the man smiles and sways to the rhythm of the music.",
+    "objects": [
+      "they",
+      "appear",
+      "their",
+      "open",
+      "while",
+      "rhythm",
+      "calmly",
+      "man"
+    ],
+    "actions": [
+      "sways",
+      "smiles",
+      "baby's",
+      "observing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby's eyes are open, and they appear to be calmly observing their surroundings while the man smiles and sways to the rhythm of the music.",
+    "objects": [
+      "they",
+      "appear",
+      "their",
+      "open",
+      "while",
+      "rhythm",
+      "calmly",
+      "man"
+    ],
+    "actions": [
+      "sways",
+      "smiles",
+      "baby's",
+      "observing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby's eyes are open, and they appear to be calmly observing their surroundings while the man smiles and sways to the rhythm of the music.",
+    "objects": [
+      "they",
+      "appear",
+      "their",
+      "open",
+      "while",
+      "rhythm",
+      "calmly",
+      "man"
+    ],
+    "actions": [
+      "sways",
+      "smiles",
+      "baby's",
+      "observing"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a cozy family scene taking place in a living room.",
+    "objects": [
+      "place",
+      "see",
+      "family",
+      "cozy",
+      "room"
+    ],
+    "actions": [
+      "taking",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The setting is warm and inviting, with a comfortable couch where the family members are seated.",
+    "objects": [
+      "where",
+      "warm",
+      "comfortable",
+      "family",
+      "couch"
+    ],
+    "actions": [
+      "inviting",
+      "members",
+      "seated",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The room is decorated with a festive Christmas tree, adding a holiday cheer to the atmosphere.",
+    "objects": [
+      "holiday",
+      "cheer",
+      "tree",
+      "room",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "adding",
+      "christmas",
+      "decorated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "A man is wearing a red shirt, and a woman is wearing a blue hoodie, both are holding wine glasses, possibly indicating a relaxed gathering or celebration.",
+    "objects": [
+      "both",
+      "woman",
+      "possibly",
+      "blue",
+      "shirt",
+      "celebration",
+      "hoodie",
+      "wine"
+    ],
+    "actions": [
+      "glasses",
+      "red",
+      "wearing",
+      "relaxed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman is wearing a pink top and holding a wine glass, while another woman is wearing a red shirt and holding a beer glass.",
+    "objects": [
+      "pink",
+      "woman",
+      "while",
+      "shirt",
+      "top",
+      "beer",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "A man and a woman are sitting on the couch, both holding wine glasses and looking at each other.",
+    "objects": [
+      "each",
+      "both",
+      "other",
+      "woman",
+      "wine",
+      "couch",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "holding",
+      "glasses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman in a blue shirt is holding a beer glass and smiling.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "beer",
+      "glass"
+    ],
+    "actions": [
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman in a pink top is wearing glasses and holding a wine glass.",
+    "objects": [
+      "pink",
+      "woman",
+      "top",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "A man in a red shirt is holding a beer glass.",
+    "objects": [
+      "man",
+      "beer",
+      "glass",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "A man in a blue shirt is holding a wine glass.",
+    "objects": [
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "A woman in a red top is wearing glasses and holding a beer glass.",
+    "objects": [
+      "beer",
+      "glass",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "A man in a blue shirt is holding a wine glass.",
+    "objects": [
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "A woman in a red shirt is holding a wine glass.",
+    "objects": [
+      "wine",
+      "glass",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a red shirt is holding a wine glass.",
+    "objects": [
+      "man",
+      "glass",
+      "wine",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "A woman in a red top is holding a beer glass.",
+    "objects": [
+      "beer",
+      "glass",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a blue shirt is holding a wine glass.",
+    "objects": [
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a red shirt is wearing glasses and holding a beer glass.",
+    "objects": [
+      "beer",
+      "glass",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding",
+      "red"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a red top is holding a wine glass.",
+    "objects": [
+      "wine",
+      "glass",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a red shirt is holding a beer glass.",
+    "objects": [
+      "man",
+      "beer",
+      "glass",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a blue shirt is holding a beer glass.",
+    "objects": [
+      "blue",
+      "shirt",
+      "beer",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a red top is wearing glasses and holding a beer glass.",
+    "objects": [
+      "beer",
+      "glass",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding",
+      "red"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a blue shirt is holding a wine glass.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman in a red top is holding a beer glass.",
+    "objects": [
+      "beer",
+      "glass",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a red shirt is holding a wine glass.",
+    "objects": [
+      "man",
+      "glass",
+      "wine",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman in a blue shirt is holding a beer glass.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "beer",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman in a red top is holding a wine glass.",
+    "objects": [
+      "wine",
+      "glass",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a red shirt is holding a beer glass.",
+    "objects": [
+      "man",
+      "beer",
+      "glass",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "A woman in a red top is wearing glasses and holding a beer glass.",
+    "objects": [
+      "beer",
+      "glass",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding",
+      "red"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "A man in a blue shirt is holding a wine glass.",
+    "objects": [
+      "blue",
+      "shirt",
+      "wine",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "A woman in a red top is holding a wine glass.",
+    "objects": [
+      "wine",
+      "glass",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a red shirt is holding a beer glass.",
+    "objects": [
+      "man",
+      "beer",
+      "glass",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "A woman in a red top is wearing glasses and holding a beer glass.",
+    "objects": [
+      "beer",
+      "glass",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding",
+      "red"
+    ],
+    "segment_id": 31
+  }
+]

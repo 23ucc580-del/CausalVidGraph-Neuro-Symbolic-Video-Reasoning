@@ -1,0 +1,560 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a group of people, primarily adults and children, engaging in a playful activity involving sports balls and cones.",
+    "objects": [
+      "playful",
+      "people",
+      "group",
+      "activity",
+      "children",
+      "primarily"
+    ],
+    "actions": [
+      "cones",
+      "balls",
+      "sports",
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a group of people, primarily adults and children, engaging in a playful activity involving sports balls and cones.",
+    "objects": [
+      "playful",
+      "people",
+      "group",
+      "activity",
+      "children",
+      "primarily"
+    ],
+    "actions": [
+      "cones",
+      "balls",
+      "sports",
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a group of people, primarily adults and children, engaging in a playful activity involving sports balls and cones.",
+    "objects": [
+      "playful",
+      "people",
+      "group",
+      "activity",
+      "children",
+      "primarily"
+    ],
+    "actions": [
+      "cones",
+      "balls",
+      "sports",
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The setting appears to be an indoor facility, possibly a gymnasium or a recreational area.",
+    "objects": [
+      "recreational",
+      "facility",
+      "gymnasium",
+      "indoor",
+      "area",
+      "possibly"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The setting appears to be an indoor facility, possibly a gymnasium or a recreational area.",
+    "objects": [
+      "recreational",
+      "facility",
+      "gymnasium",
+      "indoor",
+      "area",
+      "possibly"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The setting appears to be an indoor facility, possibly a gymnasium or a recreational area.",
+    "objects": [
+      "recreational",
+      "facility",
+      "gymnasium",
+      "indoor",
+      "area",
+      "possibly"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, a woman is seen holding a ball and bending over slightly, while another woman is squatting down, holding a ball and looking upwards.",
+    "objects": [
+      "over",
+      "while",
+      "ball",
+      "slightly",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "holding",
+      "bending",
+      "squatting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, a woman is seen holding a ball and bending over slightly, while another woman is squatting down, holding a ball and looking upwards.",
+    "objects": [
+      "over",
+      "while",
+      "ball",
+      "slightly",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "holding",
+      "bending",
+      "squatting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "In the foreground, a woman is seen holding a ball and bending over slightly, while another woman is squatting down, holding a ball and looking upwards.",
+    "objects": [
+      "over",
+      "while",
+      "ball",
+      "slightly",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "holding",
+      "bending",
+      "squatting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They seem to be in the process of throwing or picking up the balls.",
+    "objects": [
+      "seem",
+      "they"
+    ],
+    "actions": [
+      "balls",
+      "process",
+      "throwing",
+      "picking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They seem to be in the process of throwing or picking up the balls.",
+    "objects": [
+      "seem",
+      "they"
+    ],
+    "actions": [
+      "balls",
+      "process",
+      "throwing",
+      "picking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They seem to be in the process of throwing or picking up the balls.",
+    "objects": [
+      "seem",
+      "they"
+    ],
+    "actions": [
+      "balls",
+      "process",
+      "throwing",
+      "picking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A man and a young boy are also present, with the man wearing a blue shirt and holding a ball, and the boy wearing a blue hoodie and holding a ball as well.",
+    "objects": [
+      "blue",
+      "present",
+      "man",
+      "young",
+      "shirt",
+      "hoodie",
+      "ball",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A man and a young boy are also present, with the man wearing a blue shirt and holding a ball, and the boy wearing a blue hoodie and holding a ball as well.",
+    "objects": [
+      "blue",
+      "present",
+      "man",
+      "young",
+      "shirt",
+      "hoodie",
+      "ball",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A man and a young boy are also present, with the man wearing a blue shirt and holding a ball, and the boy wearing a blue hoodie and holding a ball as well.",
+    "objects": [
+      "blue",
+      "present",
+      "man",
+      "young",
+      "shirt",
+      "hoodie",
+      "ball",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Further back, two women are standing behind the squatting woman, one of them holding a ball and the other holding a cone.",
+    "objects": [
+      "women",
+      "cone",
+      "other",
+      "further",
+      "one",
+      "them",
+      "behind",
+      "ball"
+    ],
+    "actions": [
+      "holding",
+      "squatting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Further back, two women are standing behind the squatting woman, one of them holding a ball and the other holding a cone.",
+    "objects": [
+      "women",
+      "cone",
+      "other",
+      "further",
+      "one",
+      "them",
+      "behind",
+      "ball"
+    ],
+    "actions": [
+      "holding",
+      "squatting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Further back, two women are standing behind the squatting woman, one of them holding a ball and the other holding a cone.",
+    "objects": [
+      "women",
+      "cone",
+      "other",
+      "further",
+      "one",
+      "them",
+      "behind",
+      "ball"
+    ],
+    "actions": [
+      "holding",
+      "squatting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a blue shirt is standing, and another woman in a floral shirt is bending over next to him, also holding a ball.",
+    "objects": [
+      "blue",
+      "floral",
+      "over",
+      "man",
+      "him",
+      "shirt",
+      "ball",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "bending"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a blue shirt is standing, and another woman in a floral shirt is bending over next to him, also holding a ball.",
+    "objects": [
+      "blue",
+      "floral",
+      "over",
+      "man",
+      "him",
+      "shirt",
+      "ball",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "bending"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a blue shirt is standing, and another woman in a floral shirt is bending over next to him, also holding a ball.",
+    "objects": [
+      "blue",
+      "floral",
+      "over",
+      "man",
+      "him",
+      "shirt",
+      "ball",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "bending"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A child is in the background, sitting on the floor, wearing a red shirt and holding a ball.",
+    "objects": [
+      "ball",
+      "floor",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "holding",
+      "sitting",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A child is in the background, sitting on the floor, wearing a red shirt and holding a ball.",
+    "objects": [
+      "ball",
+      "floor",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "holding",
+      "sitting",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A child is in the background, sitting on the floor, wearing a red shirt and holding a ball.",
+    "objects": [
+      "ball",
+      "floor",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "holding",
+      "sitting",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman in a blue shirt is standing nearby, holding a cone.",
+    "objects": [
+      "blue",
+      "cone",
+      "shirt",
+      "nearby",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman in a blue shirt is standing nearby, holding a cone.",
+    "objects": [
+      "blue",
+      "cone",
+      "shirt",
+      "nearby",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A woman in a blue shirt is standing nearby, holding a cone.",
+    "objects": [
+      "blue",
+      "cone",
+      "shirt",
+      "nearby",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The child is smiling and seems to be enjoying the activity.",
+    "objects": [
+      "activity",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The child is smiling and seems to be enjoying the activity.",
+    "objects": [
+      "activity",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The child is smiling and seems to be enjoying the activity.",
+    "objects": [
+      "activity",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is lively, with everyone seemingly having a good time, and the atmosphere is casual and fun.",
+    "objects": [
+      "everyone",
+      "casual",
+      "lively",
+      "fun",
+      "time",
+      "atmosphere",
+      "seemingly",
+      "good"
+    ],
+    "actions": [
+      "having"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is lively, with everyone seemingly having a good time, and the atmosphere is casual and fun.",
+    "objects": [
+      "everyone",
+      "casual",
+      "lively",
+      "fun",
+      "time",
+      "atmosphere",
+      "seemingly",
+      "good"
+    ],
+    "actions": [
+      "having"
+    ],
+    "segment_id": 10
+  }
+]

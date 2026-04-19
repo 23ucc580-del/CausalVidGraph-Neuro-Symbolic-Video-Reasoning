@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a baby girl sitting on the floor, dressed in a blue hoodie and pink pants, playing with a toy.",
+    "objects": [
+      "blue",
+      "pink",
+      "toy",
+      "girl",
+      "hoodie",
+      "baby",
+      "floor",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "playing",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a baby girl sitting on the floor, dressed in a blue hoodie and pink pants, playing with a toy.",
+    "objects": [
+      "blue",
+      "pink",
+      "toy",
+      "girl",
+      "hoodie",
+      "baby",
+      "floor",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "playing",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a baby girl sitting on the floor, dressed in a blue hoodie and pink pants, playing with a toy.",
+    "objects": [
+      "blue",
+      "pink",
+      "toy",
+      "girl",
+      "hoodie",
+      "baby",
+      "floor",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "playing",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a baby girl sitting on the floor, dressed in a blue hoodie and pink pants, playing with a toy.",
+    "objects": [
+      "blue",
+      "pink",
+      "toy",
+      "girl",
+      "hoodie",
+      "baby",
+      "floor",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "playing",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a baby girl sitting on the floor, dressed in a blue hoodie and pink pants, playing with a toy.",
+    "objects": [
+      "blue",
+      "pink",
+      "toy",
+      "girl",
+      "hoodie",
+      "baby",
+      "floor",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "playing",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "In the video, we see a baby girl sitting on the floor, dressed in a blue hoodie and pink pants, playing with a toy.",
+    "objects": [
+      "blue",
+      "pink",
+      "toy",
+      "girl",
+      "hoodie",
+      "baby",
+      "floor",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "playing",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby's hand is being held by an adult, who is wearing a black shirt and pants.",
+    "objects": [
+      "held",
+      "hand",
+      "adult",
+      "shirt",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "pants",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby's hand is being held by an adult, who is wearing a black shirt and pants.",
+    "objects": [
+      "held",
+      "hand",
+      "adult",
+      "shirt",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "pants",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby's hand is being held by an adult, who is wearing a black shirt and pants.",
+    "objects": [
+      "held",
+      "hand",
+      "adult",
+      "shirt",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "pants",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby's hand is being held by an adult, who is wearing a black shirt and pants.",
+    "objects": [
+      "held",
+      "hand",
+      "adult",
+      "shirt",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "pants",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The baby's hand is being held by an adult, who is wearing a black shirt and pants.",
+    "objects": [
+      "held",
+      "hand",
+      "adult",
+      "shirt",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "pants",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 11,
+    "description": "The baby's hand is being held by an adult, who is wearing a black shirt and pants.",
+    "objects": [
+      "held",
+      "hand",
+      "adult",
+      "shirt",
+      "black",
+      "who"
+    ],
+    "actions": [
+      "baby's",
+      "wearing",
+      "pants",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby is smiling and looking up at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby is smiling and looking up at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby is smiling and looking up at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby is smiling and looking up at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby is smiling and looking up at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby is smiling and looking up at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 18,
+    "description": "The floor is covered with a colorful rug, and there is a green and yellow toy in the background.",
+    "objects": [
+      "colorful",
+      "toy",
+      "green",
+      "there",
+      "yellow",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The floor is covered with a colorful rug, and there is a green and yellow toy in the background.",
+    "objects": [
+      "colorful",
+      "toy",
+      "green",
+      "there",
+      "yellow",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The floor is covered with a colorful rug, and there is a green and yellow toy in the background.",
+    "objects": [
+      "colorful",
+      "toy",
+      "green",
+      "there",
+      "yellow",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 21,
+    "description": "The floor is covered with a colorful rug, and there is a green and yellow toy in the background.",
+    "objects": [
+      "colorful",
+      "toy",
+      "green",
+      "there",
+      "yellow",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 22,
+    "description": "The floor is covered with a colorful rug, and there is a green and yellow toy in the background.",
+    "objects": [
+      "colorful",
+      "toy",
+      "green",
+      "there",
+      "yellow",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 23,
+    "description": "The floor is covered with a colorful rug, and there is a green and yellow toy in the background.",
+    "objects": [
+      "colorful",
+      "toy",
+      "green",
+      "there",
+      "yellow",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 24,
+    "description": "The adult is standing next to the baby, holding the baby's hand, while the baby is playing with a yellow toy.",
+    "objects": [
+      "toy",
+      "hand",
+      "adult",
+      "while",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "playing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The adult is standing next to the baby, holding the baby's hand, while the baby is playing with a yellow toy.",
+    "objects": [
+      "toy",
+      "hand",
+      "adult",
+      "while",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "playing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 26,
+    "description": "The adult is standing next to the baby, holding the baby's hand, while the baby is playing with a yellow toy.",
+    "objects": [
+      "toy",
+      "hand",
+      "adult",
+      "while",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "playing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 27,
+    "description": "The adult is standing next to the baby, holding the baby's hand, while the baby is playing with a yellow toy.",
+    "objects": [
+      "toy",
+      "hand",
+      "adult",
+      "while",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "playing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 28,
+    "description": "The adult is standing next to the baby, holding the baby's hand, while the baby is playing with a yellow toy.",
+    "objects": [
+      "toy",
+      "hand",
+      "adult",
+      "while",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "playing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 29,
+    "description": "The adult is standing next to the baby, holding the baby's hand, while the baby is playing with a yellow toy.",
+    "objects": [
+      "toy",
+      "hand",
+      "adult",
+      "while",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "baby's",
+      "playing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is indoors, and the lighting is bright.",
+    "objects": [
+      "bright"
+    ],
+    "actions": [
+      "indoors",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is indoors, and the lighting is bright.",
+    "objects": [
+      "bright"
+    ],
+    "actions": [
+      "indoors",
+      "lighting"
+    ],
+    "segment_id": 5
+  }
+]

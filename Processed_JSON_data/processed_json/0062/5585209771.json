@@ -1,0 +1,539 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively scene of a group of people gathered in a living room for a festive occasion.",
+    "objects": [
+      "lively",
+      "festive",
+      "people",
+      "occasion",
+      "group",
+      "room"
+    ],
+    "actions": [
+      "gathered",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively scene of a group of people gathered in a living room for a festive occasion.",
+    "objects": [
+      "lively",
+      "festive",
+      "people",
+      "occasion",
+      "group",
+      "room"
+    ],
+    "actions": [
+      "gathered",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively scene of a group of people gathered in a living room for a festive occasion.",
+    "objects": [
+      "lively",
+      "festive",
+      "people",
+      "occasion",
+      "group",
+      "room"
+    ],
+    "actions": [
+      "gathered",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The room is warmly lit, and a large Christmas tree is in the background, indicating the season.",
+    "objects": [
+      "lit",
+      "warmly",
+      "room",
+      "season",
+      "tree",
+      "large"
+    ],
+    "actions": [
+      "christmas",
+      "indicating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is warmly lit, and a large Christmas tree is in the background, indicating the season.",
+    "objects": [
+      "lit",
+      "warmly",
+      "room",
+      "season",
+      "tree",
+      "large"
+    ],
+    "actions": [
+      "christmas",
+      "indicating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is warmly lit, and a large Christmas tree is in the background, indicating the season.",
+    "objects": [
+      "lit",
+      "warmly",
+      "room",
+      "season",
+      "tree",
+      "large"
+    ],
+    "actions": [
+      "christmas",
+      "indicating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "There are four people in the room, each engrossed in their own activities.",
+    "objects": [
+      "each",
+      "their",
+      "own",
+      "people",
+      "four",
+      "there",
+      "room"
+    ],
+    "actions": [
+      "activities",
+      "engrossed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "There are four people in the room, each engrossed in their own activities.",
+    "objects": [
+      "each",
+      "their",
+      "own",
+      "people",
+      "four",
+      "there",
+      "room"
+    ],
+    "actions": [
+      "activities",
+      "engrossed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "There are four people in the room, each engrossed in their own activities.",
+    "objects": [
+      "each",
+      "their",
+      "own",
+      "people",
+      "four",
+      "there",
+      "room"
+    ],
+    "actions": [
+      "activities",
+      "engrossed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One man is sitting on a couch, holding a bottle of wine, his attention seemingly drawn to the camera.",
+    "objects": [
+      "couch",
+      "man",
+      "attention",
+      "seemingly",
+      "wine",
+      "one",
+      "drawn",
+      "bottle"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "One man is sitting on a couch, holding a bottle of wine, his attention seemingly drawn to the camera.",
+    "objects": [
+      "couch",
+      "man",
+      "attention",
+      "seemingly",
+      "wine",
+      "one",
+      "drawn",
+      "bottle"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "One man is sitting on a couch, holding a bottle of wine, his attention seemingly drawn to the camera.",
+    "objects": [
+      "couch",
+      "man",
+      "attention",
+      "seemingly",
+      "wine",
+      "one",
+      "drawn",
+      "bottle"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "He is wearing a blue shirt and appears to be in his mid-twenties.",
+    "objects": [
+      "his",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "mid-twenties"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "He is wearing a blue shirt and appears to be in his mid-twenties.",
+    "objects": [
+      "his",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "mid-twenties"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "He is wearing a blue shirt and appears to be in his mid-twenties.",
+    "objects": [
+      "his",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "mid-twenties"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Another man is standing, also holding a bottle of wine, and is wearing a gray shirt.",
+    "objects": [
+      "man",
+      "wine",
+      "gray",
+      "shirt",
+      "bottle"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Another man is standing, also holding a bottle of wine, and is wearing a gray shirt.",
+    "objects": [
+      "man",
+      "wine",
+      "gray",
+      "shirt",
+      "bottle"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Another man is standing, also holding a bottle of wine, and is wearing a gray shirt.",
+    "objects": [
+      "man",
+      "wine",
+      "gray",
+      "shirt",
+      "bottle"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "He is engaged in a conversation with a woman, who is seated on the couch and is wearing a red shirt.",
+    "objects": [
+      "couch",
+      "woman",
+      "who",
+      "conversation",
+      "shirt"
+    ],
+    "actions": [
+      "engaged",
+      "wearing",
+      "seated",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "He is engaged in a conversation with a woman, who is seated on the couch and is wearing a red shirt.",
+    "objects": [
+      "couch",
+      "woman",
+      "who",
+      "conversation",
+      "shirt"
+    ],
+    "actions": [
+      "engaged",
+      "wearing",
+      "seated",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "He is engaged in a conversation with a woman, who is seated on the couch and is wearing a red shirt.",
+    "objects": [
+      "couch",
+      "woman",
+      "who",
+      "conversation",
+      "shirt"
+    ],
+    "actions": [
+      "engaged",
+      "wearing",
+      "seated",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "She seems to be in her twenties as well.",
+    "objects": [
+      "she",
+      "well",
+      "her"
+    ],
+    "actions": [
+      "twenties",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "She seems to be in her twenties as well.",
+    "objects": [
+      "she",
+      "well",
+      "her"
+    ],
+    "actions": [
+      "twenties",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "She seems to be in her twenties as well.",
+    "objects": [
+      "she",
+      "well",
+      "her"
+    ],
+    "actions": [
+      "twenties",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The third person, a woman, is standing, holding a glass of wine, and is wearing a pink shirt.",
+    "objects": [
+      "woman",
+      "wine",
+      "glass",
+      "shirt",
+      "pink",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The third person, a woman, is standing, holding a glass of wine, and is wearing a pink shirt.",
+    "objects": [
+      "woman",
+      "wine",
+      "glass",
+      "shirt",
+      "pink",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The third person, a woman, is standing, holding a glass of wine, and is wearing a pink shirt.",
+    "objects": [
+      "woman",
+      "wine",
+      "glass",
+      "shirt",
+      "pink",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "She is in the middle of a conversation with the second man, who is seated on the couch.",
+    "objects": [
+      "couch",
+      "man",
+      "she",
+      "who",
+      "conversation",
+      "second",
+      "middle"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "She is in the middle of a conversation with the second man, who is seated on the couch.",
+    "objects": [
+      "couch",
+      "man",
+      "she",
+      "who",
+      "conversation",
+      "second",
+      "middle"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "She is in the middle of a conversation with the second man, who is seated on the couch.",
+    "objects": [
+      "couch",
+      "man",
+      "she",
+      "who",
+      "conversation",
+      "second",
+      "middle"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The fourth person, also a woman, is standing and holding a glass of wine.",
+    "objects": [
+      "glass",
+      "woman",
+      "fourth",
+      "wine"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The fourth person, also a woman, is standing and holding a glass of wine.",
+    "objects": [
+      "glass",
+      "woman",
+      "fourth",
+      "wine"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

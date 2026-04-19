@@ -1,0 +1,576 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a festive scene of gift-giving and celebration.",
+    "objects": [
+      "festive",
+      "celebration"
+    ],
+    "actions": [
+      "gift-giving",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a festive scene of gift-giving and celebration.",
+    "objects": [
+      "festive",
+      "celebration"
+    ],
+    "actions": [
+      "gift-giving",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the first scene, a boy is opening a present, dressed in a blue hoodie, sitting on a couch.",
+    "objects": [
+      "boy",
+      "blue",
+      "hoodie",
+      "couch",
+      "first",
+      "present"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "opening"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "In the first scene, a boy is opening a present, dressed in a blue hoodie, sitting on a couch.",
+    "objects": [
+      "boy",
+      "blue",
+      "hoodie",
+      "couch",
+      "first",
+      "present"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "opening"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The camera then pans to the left, revealing a young man standing at a table, holding a gift-wrapped box.",
+    "objects": [
+      "table",
+      "box",
+      "pans",
+      "young",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "gift-wrapped",
+      "revealing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera then pans to the left, revealing a young man standing at a table, holding a gift-wrapped box.",
+    "objects": [
+      "table",
+      "box",
+      "pans",
+      "young",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "gift-wrapped",
+      "revealing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "He is wearing a white shirt.",
+    "objects": [
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "He is wearing a white shirt.",
+    "objects": [
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "In the second scene, the boy is still seated on the couch, now holding a green gift bag.",
+    "objects": [
+      "boy",
+      "gift",
+      "green",
+      "bag",
+      "now",
+      "couch",
+      "second",
+      "still"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "In the second scene, the boy is still seated on the couch, now holding a green gift bag.",
+    "objects": [
+      "boy",
+      "gift",
+      "green",
+      "bag",
+      "now",
+      "couch",
+      "second",
+      "still"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then pans back to the left, revealing the young man at the table, now dressed in a blue shirt, holding a green gift bag.",
+    "objects": [
+      "table",
+      "pans",
+      "blue",
+      "green",
+      "shirt",
+      "bag",
+      "now",
+      "young"
+    ],
+    "actions": [
+      "revealing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then pans back to the left, revealing the young man at the table, now dressed in a blue shirt, holding a green gift bag.",
+    "objects": [
+      "table",
+      "pans",
+      "blue",
+      "green",
+      "shirt",
+      "bag",
+      "now",
+      "young"
+    ],
+    "actions": [
+      "revealing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "In the third scene, the boy is back on the couch, holding a blue gift bag.",
+    "objects": [
+      "boy",
+      "blue",
+      "bag",
+      "third",
+      "couch",
+      "gift"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "In the third scene, the boy is back on the couch, holding a blue gift bag.",
+    "objects": [
+      "boy",
+      "blue",
+      "bag",
+      "third",
+      "couch",
+      "gift"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then pans to the right, showing the young man at the table, now dressed in a white shirt, holding a blue gift bag.",
+    "objects": [
+      "table",
+      "white",
+      "pans",
+      "blue",
+      "shirt",
+      "bag",
+      "now",
+      "young"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then pans to the right, showing the young man at the table, now dressed in a white shirt, holding a blue gift bag.",
+    "objects": [
+      "table",
+      "white",
+      "pans",
+      "blue",
+      "shirt",
+      "bag",
+      "now",
+      "young"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "In the fourth scene, the young man is at the table, holding a blue gift bag.",
+    "objects": [
+      "table",
+      "fourth",
+      "blue",
+      "bag",
+      "young",
+      "man",
+      "gift"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "In the fourth scene, the young man is at the table, holding a blue gift bag.",
+    "objects": [
+      "table",
+      "fourth",
+      "blue",
+      "bag",
+      "young",
+      "man",
+      "gift"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then pans back to the left, showing the boy on the couch, now dressed in a blue shirt, holding a green gift bag.",
+    "objects": [
+      "boy",
+      "pans",
+      "blue",
+      "green",
+      "shirt",
+      "bag",
+      "now",
+      "couch"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then pans back to the left, showing the boy on the couch, now dressed in a blue shirt, holding a green gift bag.",
+    "objects": [
+      "boy",
+      "pans",
+      "blue",
+      "green",
+      "shirt",
+      "bag",
+      "now",
+      "couch"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "In the fifth scene, the young man is standing at the table, dressed in a white shirt, holding a green gift bag.",
+    "objects": [
+      "table",
+      "white",
+      "green",
+      "shirt",
+      "fifth",
+      "bag",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "In the fifth scene, the young man is standing at the table, dressed in a white shirt, holding a green gift bag.",
+    "objects": [
+      "table",
+      "white",
+      "green",
+      "shirt",
+      "fifth",
+      "bag",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then pans back to the left, showing the boy on the couch, now wearing a blue shirt, holding a blue gift bag.",
+    "objects": [
+      "boy",
+      "pans",
+      "blue",
+      "shirt",
+      "bag",
+      "now",
+      "couch",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then pans back to the left, showing the boy on the couch, now wearing a blue shirt, holding a blue gift bag.",
+    "objects": [
+      "boy",
+      "pans",
+      "blue",
+      "shirt",
+      "bag",
+      "now",
+      "couch",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "In the sixth scene, the young man is at the table, dressed in a white shirt, holding a green gift bag.",
+    "objects": [
+      "sixth",
+      "table",
+      "white",
+      "green",
+      "shirt",
+      "bag",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "In the sixth scene, the young man is at the table, dressed in a white shirt, holding a green gift bag.",
+    "objects": [
+      "sixth",
+      "table",
+      "white",
+      "green",
+      "shirt",
+      "bag",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then pans back to the left, showing the boy on the couch, now wearing a blue shirt, holding a blue gift bag.",
+    "objects": [
+      "boy",
+      "pans",
+      "blue",
+      "shirt",
+      "bag",
+      "now",
+      "couch",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then pans back to the left, showing the boy on the couch, now wearing a blue shirt, holding a blue gift bag.",
+    "objects": [
+      "boy",
+      "pans",
+      "blue",
+      "shirt",
+      "bag",
+      "now",
+      "couch",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "In the seventh scene, the young man is at the table, wearing a white shirt, holding a green gift bag.",
+    "objects": [
+      "table",
+      "white",
+      "green",
+      "shirt",
+      "bag",
+      "seventh",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "In the seventh scene, the young man is at the table, wearing a white shirt, holding a green gift bag.",
+    "objects": [
+      "table",
+      "white",
+      "green",
+      "shirt",
+      "bag",
+      "seventh",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera then pans back to the left, showing the boy on the couch, now dressed in a blue shirt, holding a green gift bag.",
+    "objects": [
+      "boy",
+      "pans",
+      "blue",
+      "green",
+      "shirt",
+      "bag",
+      "now",
+      "couch"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera then pans back to the left, showing the boy on the couch, now dressed in a blue shirt, holding a green gift bag.",
+    "objects": [
+      "boy",
+      "pans",
+      "blue",
+      "green",
+      "shirt",
+      "bag",
+      "now",
+      "couch"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

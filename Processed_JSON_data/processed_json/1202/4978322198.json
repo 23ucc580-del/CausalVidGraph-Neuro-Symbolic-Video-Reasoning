@@ -1,0 +1,530 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a city street scene at night, with two white buses parked side by side.",
+    "objects": [
+      "white",
+      "night",
+      "side",
+      "city",
+      "two",
+      "see",
+      "street"
+    ],
+    "actions": [
+      "buses",
+      "parked"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a city street scene at night, with two white buses parked side by side.",
+    "objects": [
+      "white",
+      "night",
+      "side",
+      "city",
+      "two",
+      "see",
+      "street"
+    ],
+    "actions": [
+      "buses",
+      "parked"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a city street scene at night, with two white buses parked side by side.",
+    "objects": [
+      "white",
+      "night",
+      "side",
+      "city",
+      "two",
+      "see",
+      "street"
+    ],
+    "actions": [
+      "buses",
+      "parked"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The first bus is a regular passenger bus with its doors open, and the second bus is a tour bus with its doors closed.",
+    "objects": [
+      "passenger",
+      "regular",
+      "open",
+      "its",
+      "bus",
+      "second",
+      "first",
+      "tour"
+    ],
+    "actions": [
+      "doors",
+      "closed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The first bus is a regular passenger bus with its doors open, and the second bus is a tour bus with its doors closed.",
+    "objects": [
+      "passenger",
+      "regular",
+      "open",
+      "its",
+      "bus",
+      "second",
+      "first",
+      "tour"
+    ],
+    "actions": [
+      "doors",
+      "closed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The first bus is a regular passenger bus with its doors open, and the second bus is a tour bus with its doors closed.",
+    "objects": [
+      "passenger",
+      "regular",
+      "open",
+      "its",
+      "bus",
+      "second",
+      "first",
+      "tour"
+    ],
+    "actions": [
+      "doors",
+      "closed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "There are people walking on the sidewalk near the buses.",
+    "objects": [
+      "sidewalk",
+      "there",
+      "people"
+    ],
+    "actions": [
+      "buses",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "There are people walking on the sidewalk near the buses.",
+    "objects": [
+      "sidewalk",
+      "there",
+      "people"
+    ],
+    "actions": [
+      "buses",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "There are people walking on the sidewalk near the buses.",
+    "objects": [
+      "sidewalk",
+      "there",
+      "people"
+    ],
+    "actions": [
+      "buses",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One person is wearing a blue hoodie and is walking on the sidewalk, while another person is standing on the sidewalk wearing a red jacket.",
+    "objects": [
+      "blue",
+      "while",
+      "jacket",
+      "sidewalk",
+      "one",
+      "hoodie"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "standing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "One person is wearing a blue hoodie and is walking on the sidewalk, while another person is standing on the sidewalk wearing a red jacket.",
+    "objects": [
+      "blue",
+      "while",
+      "jacket",
+      "sidewalk",
+      "one",
+      "hoodie"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "standing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "One person is wearing a blue hoodie and is walking on the sidewalk, while another person is standing on the sidewalk wearing a red jacket.",
+    "objects": [
+      "blue",
+      "while",
+      "jacket",
+      "sidewalk",
+      "one",
+      "hoodie"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "standing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Both individuals are walking towards the buses.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "buses",
+      "individuals",
+      "towards",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Both individuals are walking towards the buses.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "buses",
+      "individuals",
+      "towards",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Both individuals are walking towards the buses.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "buses",
+      "individuals",
+      "towards",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A third person is seen walking on the sidewalk, and they are wearing a black jacket.",
+    "objects": [
+      "jacket",
+      "sidewalk",
+      "black",
+      "they",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A third person is seen walking on the sidewalk, and they are wearing a black jacket.",
+    "objects": [
+      "jacket",
+      "sidewalk",
+      "black",
+      "they",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A third person is seen walking on the sidewalk, and they are wearing a black jacket.",
+    "objects": [
+      "jacket",
+      "sidewalk",
+      "black",
+      "they",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "Near the buses, there are also two more people.",
+    "objects": [
+      "more",
+      "there",
+      "two",
+      "people"
+    ],
+    "actions": [
+      "buses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "Near the buses, there are also two more people.",
+    "objects": [
+      "more",
+      "there",
+      "two",
+      "people"
+    ],
+    "actions": [
+      "buses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "Near the buses, there are also two more people.",
+    "objects": [
+      "more",
+      "there",
+      "two",
+      "people"
+    ],
+    "actions": [
+      "buses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "One person is standing on the sidewalk wearing a white jacket, and the other person is standing near the buses wearing a white shirt.",
+    "objects": [
+      "white",
+      "other",
+      "shirt",
+      "jacket",
+      "sidewalk",
+      "one"
+    ],
+    "actions": [
+      "buses",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "One person is standing on the sidewalk wearing a white jacket, and the other person is standing near the buses wearing a white shirt.",
+    "objects": [
+      "white",
+      "other",
+      "shirt",
+      "jacket",
+      "sidewalk",
+      "one"
+    ],
+    "actions": [
+      "buses",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "One person is standing on the sidewalk wearing a white jacket, and the other person is standing near the buses wearing a white shirt.",
+    "objects": [
+      "white",
+      "other",
+      "shirt",
+      "jacket",
+      "sidewalk",
+      "one"
+    ],
+    "actions": [
+      "buses",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is well-lit, with streetlights illuminating the area and the buses.",
+    "objects": [
+      "area"
+    ],
+    "actions": [
+      "buses",
+      "streetlights",
+      "illuminating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is well-lit, with streetlights illuminating the area and the buses.",
+    "objects": [
+      "area"
+    ],
+    "actions": [
+      "buses",
+      "streetlights",
+      "illuminating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is well-lit, with streetlights illuminating the area and the buses.",
+    "objects": [
+      "area"
+    ],
+    "actions": [
+      "buses",
+      "streetlights",
+      "illuminating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The buses are parked on the side of the street, adjacent to a building, and there are no visible traffic lights or other vehicles.",
+    "objects": [
+      "side",
+      "other",
+      "adjacent",
+      "there",
+      "traffic",
+      "street"
+    ],
+    "actions": [
+      "buses",
+      "lights",
+      "building",
+      "parked"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The buses are parked on the side of the street, adjacent to a building, and there are no visible traffic lights or other vehicles.",
+    "objects": [
+      "side",
+      "other",
+      "adjacent",
+      "there",
+      "traffic",
+      "street"
+    ],
+    "actions": [
+      "buses",
+      "lights",
+      "building",
+      "parked"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The buses are parked on the side of the street, adjacent to a building, and there are no visible traffic lights or other vehicles.",
+    "objects": [
+      "side",
+      "other",
+      "adjacent",
+      "there",
+      "traffic",
+      "street"
+    ],
+    "actions": [
+      "buses",
+      "lights",
+      "building",
+      "parked"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The people are casually dressed, with the exception of the person in the blue hoodie, who is more formally dressed.",
+    "objects": [
+      "blue",
+      "more",
+      "who",
+      "formally",
+      "people",
+      "exception",
+      "hoodie",
+      "casually"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The people are casually dressed, with the exception of the person in the blue hoodie, who is more formally dressed.",
+    "objects": [
+      "blue",
+      "more",
+      "who",
+      "formally",
+      "people",
+      "exception",
+      "hoodie",
+      "casually"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 10
+  }
+]

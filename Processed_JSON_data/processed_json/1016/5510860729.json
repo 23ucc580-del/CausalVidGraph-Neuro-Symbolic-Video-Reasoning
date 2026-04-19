@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This is a video of a live musical performance.",
+    "objects": [
+      "musical",
+      "this",
+      "performance",
+      "live"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This is a video of a live musical performance.",
+    "objects": [
+      "musical",
+      "this",
+      "performance",
+      "live"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This is a video of a live musical performance.",
+    "objects": [
+      "musical",
+      "this",
+      "performance",
+      "live"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "This is a video of a live musical performance.",
+    "objects": [
+      "musical",
+      "this",
+      "performance",
+      "live"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The stage is dimly lit with blue lighting, creating a moody atmosphere.",
+    "objects": [
+      "blue",
+      "lit",
+      "moody",
+      "dimly",
+      "stage",
+      "atmosphere"
+    ],
+    "actions": [
+      "lighting",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The stage is dimly lit with blue lighting, creating a moody atmosphere.",
+    "objects": [
+      "blue",
+      "lit",
+      "moody",
+      "dimly",
+      "stage",
+      "atmosphere"
+    ],
+    "actions": [
+      "lighting",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The stage is dimly lit with blue lighting, creating a moody atmosphere.",
+    "objects": [
+      "blue",
+      "lit",
+      "moody",
+      "dimly",
+      "stage",
+      "atmosphere"
+    ],
+    "actions": [
+      "lighting",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The stage is dimly lit with blue lighting, creating a moody atmosphere.",
+    "objects": [
+      "blue",
+      "lit",
+      "moody",
+      "dimly",
+      "stage",
+      "atmosphere"
+    ],
+    "actions": [
+      "lighting",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A man in a blue hoodie is singing into a microphone while playing guitar.",
+    "objects": [
+      "into",
+      "while",
+      "microphone",
+      "blue",
+      "guitar",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A man in a blue hoodie is singing into a microphone while playing guitar.",
+    "objects": [
+      "into",
+      "while",
+      "microphone",
+      "blue",
+      "guitar",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A man in a blue hoodie is singing into a microphone while playing guitar.",
+    "objects": [
+      "into",
+      "while",
+      "microphone",
+      "blue",
+      "guitar",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A man in a blue hoodie is singing into a microphone while playing guitar.",
+    "objects": [
+      "into",
+      "while",
+      "microphone",
+      "blue",
+      "guitar",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in the blue shirt is wearing glasses and has his head down, as if lost in his performance.",
+    "objects": [
+      "lost",
+      "blue",
+      "has",
+      "shirt",
+      "performance",
+      "his",
+      "man",
+      "head"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in the blue shirt is wearing glasses and has his head down, as if lost in his performance.",
+    "objects": [
+      "lost",
+      "blue",
+      "has",
+      "shirt",
+      "performance",
+      "his",
+      "man",
+      "head"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the blue shirt is wearing glasses and has his head down, as if lost in his performance.",
+    "objects": [
+      "lost",
+      "blue",
+      "has",
+      "shirt",
+      "performance",
+      "his",
+      "man",
+      "head"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the blue shirt is wearing glasses and has his head down, as if lost in his performance.",
+    "objects": [
+      "lost",
+      "blue",
+      "has",
+      "shirt",
+      "performance",
+      "his",
+      "man",
+      "head"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another man, wearing a red shirt, is playing the drums with his head down, engrossed in the rhythm.",
+    "objects": [
+      "shirt",
+      "rhythm",
+      "his",
+      "man",
+      "head"
+    ],
+    "actions": [
+      "red",
+      "drums",
+      "wearing",
+      "engrossed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Another man, wearing a red shirt, is playing the drums with his head down, engrossed in the rhythm.",
+    "objects": [
+      "shirt",
+      "rhythm",
+      "his",
+      "man",
+      "head"
+    ],
+    "actions": [
+      "red",
+      "drums",
+      "wearing",
+      "engrossed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Another man, wearing a red shirt, is playing the drums with his head down, engrossed in the rhythm.",
+    "objects": [
+      "shirt",
+      "rhythm",
+      "his",
+      "man",
+      "head"
+    ],
+    "actions": [
+      "red",
+      "drums",
+      "wearing",
+      "engrossed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Another man, wearing a red shirt, is playing the drums with his head down, engrossed in the rhythm.",
+    "objects": [
+      "shirt",
+      "rhythm",
+      "his",
+      "man",
+      "head"
+    ],
+    "actions": [
+      "red",
+      "drums",
+      "wearing",
+      "engrossed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The third man, wearing a red shirt, is playing the guitar behind the drummer.",
+    "objects": [
+      "behind",
+      "drummer",
+      "guitar",
+      "shirt",
+      "third",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The third man, wearing a red shirt, is playing the guitar behind the drummer.",
+    "objects": [
+      "behind",
+      "drummer",
+      "guitar",
+      "shirt",
+      "third",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The third man, wearing a red shirt, is playing the guitar behind the drummer.",
+    "objects": [
+      "behind",
+      "drummer",
+      "guitar",
+      "shirt",
+      "third",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The third man, wearing a red shirt, is playing the guitar behind the drummer.",
+    "objects": [
+      "behind",
+      "drummer",
+      "guitar",
+      "shirt",
+      "third",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "He's holding a guitar in his hands, strumming along with the music.",
+    "objects": [
+      "his",
+      "music",
+      "along",
+      "guitar"
+    ],
+    "actions": [
+      "hands",
+      "strumming",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "He's holding a guitar in his hands, strumming along with the music.",
+    "objects": [
+      "his",
+      "music",
+      "along",
+      "guitar"
+    ],
+    "actions": [
+      "hands",
+      "strumming",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "He's holding a guitar in his hands, strumming along with the music.",
+    "objects": [
+      "his",
+      "music",
+      "along",
+      "guitar"
+    ],
+    "actions": [
+      "hands",
+      "strumming",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "He's holding a guitar in his hands, strumming along with the music.",
+    "objects": [
+      "his",
+      "music",
+      "along",
+      "guitar"
+    ],
+    "actions": [
+      "hands",
+      "strumming",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The fourth man, wearing a black shirt, is playing the saxophone, his fingers dancing over the instrument.",
+    "objects": [
+      "black",
+      "fourth",
+      "shirt",
+      "instrument",
+      "saxophone",
+      "his",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The fourth man, wearing a black shirt, is playing the saxophone, his fingers dancing over the instrument.",
+    "objects": [
+      "black",
+      "fourth",
+      "shirt",
+      "instrument",
+      "saxophone",
+      "his",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The fourth man, wearing a black shirt, is playing the saxophone, his fingers dancing over the instrument.",
+    "objects": [
+      "black",
+      "fourth",
+      "shirt",
+      "instrument",
+      "saxophone",
+      "his",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The fourth man, wearing a black shirt, is playing the saxophone, his fingers dancing over the instrument.",
+    "objects": [
+      "black",
+      "fourth",
+      "shirt",
+      "instrument",
+      "saxophone",
+      "his",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a group of musicians is seen performing on stage, each dressed in casual attire with some wearing hats and others sporting headphones.",
+    "objects": [
+      "each",
+      "attire",
+      "casual",
+      "hats",
+      "some",
+      "stage",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "others",
+      "wearing",
+      "dressed",
+      "headphones"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a group of musicians is seen performing on stage, each dressed in casual attire with some wearing hats and others sporting headphones.",
+    "objects": [
+      "each",
+      "attire",
+      "casual",
+      "hats",
+      "some",
+      "stage",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "others",
+      "wearing",
+      "dressed",
+      "headphones"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The stage is set up with multiple microphones and speakers, indicating a live performance setting.",
+    "objects": [
+      "performance",
+      "multiple",
+      "set",
+      "live",
+      "stage"
+    ],
+    "actions": [
+      "speakers",
+      "microphones",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The stage is set up with multiple microphones and speakers, indicating a live performance setting.",
+    "objects": [
+      "performance",
+      "multiple",
+      "set",
+      "live",
+      "stage"
+    ],
+    "actions": [
+      "speakers",
+      "microphones",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "At the start of the video, a man with a black hat is seen walking towards the stage, carrying a guitar.",
+    "objects": [
+      "black",
+      "guitar",
+      "start",
+      "hat",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "towards",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "At the start of the video, a man with a black hat is seen walking towards the stage, carrying a guitar.",
+    "objects": [
+      "black",
+      "guitar",
+      "start",
+      "hat",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "towards",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "He approaches the microphone and stands ready to play.",
+    "objects": [
+      "ready",
+      "play",
+      "microphone"
+    ],
+    "actions": [
+      "stands",
+      "approaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "He approaches the microphone and stands ready to play.",
+    "objects": [
+      "ready",
+      "play",
+      "microphone"
+    ],
+    "actions": [
+      "stands",
+      "approaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The other musicians are already seated, with one wearing a blue shirt and another in a red shirt.",
+    "objects": [
+      "one",
+      "other",
+      "already",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "musicians",
+      "seated",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The other musicians are already seated, with one wearing a blue shirt and another in a red shirt.",
+    "objects": [
+      "one",
+      "other",
+      "already",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "musicians",
+      "seated",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The man with the black hat strums his guitar, and the performance begins.",
+    "objects": [
+      "black",
+      "guitar",
+      "performance",
+      "hat",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "begins",
+      "strums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The man with the black hat strums his guitar, and the performance begins.",
+    "objects": [
+      "black",
+      "guitar",
+      "performance",
+      "hat",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "begins",
+      "strums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "As the video progresses, the band starts playing their instruments, creating a lively atmosphere.",
+    "objects": [
+      "band",
+      "their",
+      "atmosphere",
+      "lively"
+    ],
+    "actions": [
+      "progresses",
+      "instruments",
+      "starts",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "As the video progresses, the band starts playing their instruments, creating a lively atmosphere.",
+    "objects": [
+      "band",
+      "their",
+      "atmosphere",
+      "lively"
+    ],
+    "actions": [
+      "progresses",
+      "instruments",
+      "starts",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The guitarist in the red shirt is playing the guitar, while the man in the blue shirt is playing the drums.",
+    "objects": [
+      "while",
+      "blue",
+      "guitar",
+      "shirt",
+      "guitarist",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "red",
+      "drums"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The guitarist in the red shirt is playing the guitar, while the man in the blue shirt is playing the drums.",
+    "objects": [
+      "while",
+      "blue",
+      "guitar",
+      "shirt",
+      "guitarist",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "red",
+      "drums"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The man with the black hat is singing into his microphone.",
+    "objects": [
+      "into",
+      "black",
+      "microphone",
+      "hat",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The man with the black hat is singing into his microphone.",
+    "objects": [
+      "into",
+      "black",
+      "microphone",
+      "hat",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The other musicians are also playing their respective instruments, and the performance continues.",
+    "objects": [
+      "their",
+      "other",
+      "respective",
+      "performance"
+    ],
+    "actions": [
+      "playing",
+      "continues",
+      "musicians",
+      "instruments"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The other musicians are also playing their respective instruments, and the performance continues.",
+    "objects": [
+      "their",
+      "other",
+      "respective",
+      "performance"
+    ],
+    "actions": [
+      "playing",
+      "continues",
+      "musicians",
+      "instruments"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera captures the lively and energetic performance, showcasing the passion and skill of the musicians as they play.",
+    "objects": [
+      "they",
+      "passion",
+      "play",
+      "energetic",
+      "performance",
+      "lively",
+      "skill"
+    ],
+    "actions": [
+      "showcasing",
+      "musicians"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera captures the lively and energetic performance, showcasing the passion and skill of the musicians as they play.",
+    "objects": [
+      "they",
+      "passion",
+      "play",
+      "energetic",
+      "performance",
+      "lively",
+      "skill"
+    ],
+    "actions": [
+      "showcasing",
+      "musicians"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "Throughout the video, the musicians are dressed casually with some wearing hats and others with headphones, suggesting they may be using them to monitor their sound during the performance.",
+    "objects": [
+      "they",
+      "casually",
+      "their",
+      "monitor",
+      "throughout",
+      "hats",
+      "may",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "wearing",
+      "dressed",
+      "using"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "Throughout the video, the musicians are dressed casually with some wearing hats and others with headphones, suggesting they may be using them to monitor their sound during the performance.",
+    "objects": [
+      "they",
+      "casually",
+      "their",
+      "monitor",
+      "throughout",
+      "hats",
+      "may",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "wearing",
+      "dressed",
+      "using"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The stage is set up with multiple microphones and speakers, indicating a live performance setting.",
+    "objects": [
+      "performance",
+      "multiple",
+      "set",
+      "live",
+      "stage"
+    ],
+    "actions": [
+      "speakers",
+      "microphones",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The stage is set up with multiple microphones and speakers, indicating a live performance setting.",
+    "objects": [
+      "performance",
+      "multiple",
+      "set",
+      "live",
+      "stage"
+    ],
+    "actions": [
+      "speakers",
+      "microphones",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The focus is on the musicians and their performance, with the camera capturing their energy and skill.",
+    "objects": [
+      "their",
+      "skill",
+      "energy",
+      "performance"
+    ],
+    "actions": [
+      "capturing",
+      "musicians",
+      "focus"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The focus is on the musicians and their performance, with the camera capturing their energy and skill.",
+    "objects": [
+      "their",
+      "skill",
+      "energy",
+      "performance"
+    ],
+    "actions": [
+      "capturing",
+      "musicians",
+      "focus"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the blue shirt is seen wearing headphones, perhaps to monitor his sound, while the other musicians continue to play their instruments, creating a dynamic and engaging scene.",
+    "objects": [
+      "their",
+      "other",
+      "while",
+      "monitor",
+      "continue",
+      "blue",
+      "shirt",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "instruments",
+      "engaging",
+      "headphones"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the blue shirt is seen wearing headphones, perhaps to monitor his sound, while the other musicians continue to play their instruments, creating a dynamic and engaging scene.",
+    "objects": [
+      "their",
+      "other",
+      "while",
+      "monitor",
+      "continue",
+      "blue",
+      "shirt",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "instruments",
+      "engaging",
+      "headphones"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "In summary, the video captures a live music performance with a group of musicians dressed casually, showcasing their passion and talent as they play their instruments.",
+    "objects": [
+      "their",
+      "casually",
+      "they",
+      "passion",
+      "performance",
+      "summary",
+      "talent",
+      "live"
+    ],
+    "actions": [
+      "showcasing",
+      "dressed",
+      "musicians",
+      "instruments"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "In summary, the video captures a live music performance with a group of musicians dressed casually, showcasing their passion and talent as they play their instruments.",
+    "objects": [
+      "their",
+      "casually",
+      "they",
+      "passion",
+      "performance",
+      "summary",
+      "talent",
+      "live"
+    ],
+    "actions": [
+      "showcasing",
+      "dressed",
+      "musicians",
+      "instruments"
+    ],
+    "segment_id": 15
+  }
+]

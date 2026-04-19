@@ -1,0 +1,604 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively scene at a park where children are enjoying a playground ride.",
+    "objects": [
+      "ride",
+      "where",
+      "children",
+      "lively",
+      "park",
+      "playground"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively scene at a park where children are enjoying a playground ride.",
+    "objects": [
+      "ride",
+      "where",
+      "children",
+      "lively",
+      "park",
+      "playground"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively scene at a park where children are enjoying a playground ride.",
+    "objects": [
+      "ride",
+      "where",
+      "children",
+      "lively",
+      "park",
+      "playground"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a lively scene at a park where children are enjoying a playground ride.",
+    "objects": [
+      "ride",
+      "where",
+      "children",
+      "lively",
+      "park",
+      "playground"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video captures a lively scene at a park where children are enjoying a playground ride.",
+    "objects": [
+      "ride",
+      "where",
+      "children",
+      "lively",
+      "park",
+      "playground"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, a girl with blonde hair is sitting on a bench, wearing a blue hoodie and holding a white bag.",
+    "objects": [
+      "hair",
+      "blonde",
+      "white",
+      "blue",
+      "bag",
+      "hoodie",
+      "girl",
+      "bench"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, a girl with blonde hair is sitting on a bench, wearing a blue hoodie and holding a white bag.",
+    "objects": [
+      "hair",
+      "blonde",
+      "white",
+      "blue",
+      "bag",
+      "hoodie",
+      "girl",
+      "bench"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, a girl with blonde hair is sitting on a bench, wearing a blue hoodie and holding a white bag.",
+    "objects": [
+      "hair",
+      "blonde",
+      "white",
+      "blue",
+      "bag",
+      "hoodie",
+      "girl",
+      "bench"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "In the foreground, a girl with blonde hair is sitting on a bench, wearing a blue hoodie and holding a white bag.",
+    "objects": [
+      "hair",
+      "blonde",
+      "white",
+      "blue",
+      "bag",
+      "hoodie",
+      "girl",
+      "bench"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "In the foreground, a girl with blonde hair is sitting on a bench, wearing a blue hoodie and holding a white bag.",
+    "objects": [
+      "hair",
+      "blonde",
+      "white",
+      "blue",
+      "bag",
+      "hoodie",
+      "girl",
+      "bench"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "She appears to be observing the activity on the playground or waiting for her turn.",
+    "objects": [
+      "activity",
+      "she",
+      "turn",
+      "her",
+      "playground"
+    ],
+    "actions": [
+      "waiting",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "She appears to be observing the activity on the playground or waiting for her turn.",
+    "objects": [
+      "activity",
+      "she",
+      "turn",
+      "her",
+      "playground"
+    ],
+    "actions": [
+      "waiting",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "She appears to be observing the activity on the playground or waiting for her turn.",
+    "objects": [
+      "activity",
+      "she",
+      "turn",
+      "her",
+      "playground"
+    ],
+    "actions": [
+      "waiting",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "She appears to be observing the activity on the playground or waiting for her turn.",
+    "objects": [
+      "activity",
+      "she",
+      "turn",
+      "her",
+      "playground"
+    ],
+    "actions": [
+      "waiting",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "She appears to be observing the activity on the playground or waiting for her turn.",
+    "objects": [
+      "activity",
+      "she",
+      "turn",
+      "her",
+      "playground"
+    ],
+    "actions": [
+      "waiting",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, there are two girls on a ride that resembles a seesaw, with one girl in an orange shirt and the other in a red shirt, both wearing helmets for safety.",
+    "objects": [
+      "one",
+      "there",
+      "ride",
+      "orange",
+      "two",
+      "other",
+      "both",
+      "shirt"
+    ],
+    "actions": [
+      "girls",
+      "red",
+      "wearing",
+      "helmets"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, there are two girls on a ride that resembles a seesaw, with one girl in an orange shirt and the other in a red shirt, both wearing helmets for safety.",
+    "objects": [
+      "one",
+      "there",
+      "ride",
+      "orange",
+      "two",
+      "other",
+      "both",
+      "shirt"
+    ],
+    "actions": [
+      "girls",
+      "red",
+      "wearing",
+      "helmets"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, there are two girls on a ride that resembles a seesaw, with one girl in an orange shirt and the other in a red shirt, both wearing helmets for safety.",
+    "objects": [
+      "one",
+      "there",
+      "ride",
+      "orange",
+      "two",
+      "other",
+      "both",
+      "shirt"
+    ],
+    "actions": [
+      "girls",
+      "red",
+      "wearing",
+      "helmets"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, there are two girls on a ride that resembles a seesaw, with one girl in an orange shirt and the other in a red shirt, both wearing helmets for safety.",
+    "objects": [
+      "one",
+      "there",
+      "ride",
+      "orange",
+      "two",
+      "other",
+      "both",
+      "shirt"
+    ],
+    "actions": [
+      "girls",
+      "red",
+      "wearing",
+      "helmets"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, there are two girls on a ride that resembles a seesaw, with one girl in an orange shirt and the other in a red shirt, both wearing helmets for safety.",
+    "objects": [
+      "one",
+      "there",
+      "ride",
+      "orange",
+      "two",
+      "other",
+      "both",
+      "shirt"
+    ],
+    "actions": [
+      "girls",
+      "red",
+      "wearing",
+      "helmets"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The girl in the orange shirt is actively hanging off the edge of the ride, while the girl in the red shirt is holding onto the bars, seemingly trying to balance herself.",
+    "objects": [
+      "edge",
+      "herself",
+      "ride",
+      "orange",
+      "while",
+      "balance",
+      "actively",
+      "off"
+    ],
+    "actions": [
+      "hanging",
+      "holding",
+      "trying",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The girl in the orange shirt is actively hanging off the edge of the ride, while the girl in the red shirt is holding onto the bars, seemingly trying to balance herself.",
+    "objects": [
+      "edge",
+      "herself",
+      "ride",
+      "orange",
+      "while",
+      "balance",
+      "actively",
+      "off"
+    ],
+    "actions": [
+      "hanging",
+      "holding",
+      "trying",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The girl in the orange shirt is actively hanging off the edge of the ride, while the girl in the red shirt is holding onto the bars, seemingly trying to balance herself.",
+    "objects": [
+      "edge",
+      "herself",
+      "ride",
+      "orange",
+      "while",
+      "balance",
+      "actively",
+      "off"
+    ],
+    "actions": [
+      "hanging",
+      "holding",
+      "trying",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The girl in the orange shirt is actively hanging off the edge of the ride, while the girl in the red shirt is holding onto the bars, seemingly trying to balance herself.",
+    "objects": [
+      "edge",
+      "herself",
+      "ride",
+      "orange",
+      "while",
+      "balance",
+      "actively",
+      "off"
+    ],
+    "actions": [
+      "hanging",
+      "holding",
+      "trying",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The girl in the orange shirt is actively hanging off the edge of the ride, while the girl in the red shirt is holding onto the bars, seemingly trying to balance herself.",
+    "objects": [
+      "edge",
+      "herself",
+      "ride",
+      "orange",
+      "while",
+      "balance",
+      "actively",
+      "off"
+    ],
+    "actions": [
+      "hanging",
+      "holding",
+      "trying",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "Behind them, a boy in a blue shirt is riding a small yellow ride, and another boy in a red shirt is walking on the ground.",
+    "objects": [
+      "behind",
+      "boy",
+      "small",
+      "ride",
+      "blue",
+      "yellow",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "walking",
+      "red",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "Behind them, a boy in a blue shirt is riding a small yellow ride, and another boy in a red shirt is walking on the ground.",
+    "objects": [
+      "behind",
+      "boy",
+      "small",
+      "ride",
+      "blue",
+      "yellow",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "walking",
+      "red",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "Behind them, a boy in a blue shirt is riding a small yellow ride, and another boy in a red shirt is walking on the ground.",
+    "objects": [
+      "behind",
+      "boy",
+      "small",
+      "ride",
+      "blue",
+      "yellow",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "walking",
+      "red",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "Behind them, a boy in a blue shirt is riding a small yellow ride, and another boy in a red shirt is walking on the ground.",
+    "objects": [
+      "behind",
+      "boy",
+      "small",
+      "ride",
+      "blue",
+      "yellow",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "walking",
+      "red",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "Behind them, a boy in a blue shirt is riding a small yellow ride, and another boy in a red shirt is walking on the ground.",
+    "objects": [
+      "behind",
+      "boy",
+      "small",
+      "ride",
+      "blue",
+      "yellow",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "walking",
+      "red",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The park is surrounded by trees, and it's a bright day with clear skies.",
+    "objects": [
+      "bright",
+      "clear",
+      "park",
+      "day"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "skies"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The park is surrounded by trees, and it's a bright day with clear skies.",
+    "objects": [
+      "bright",
+      "clear",
+      "park",
+      "day"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "skies"
+    ],
+    "segment_id": 6
+  }
+]

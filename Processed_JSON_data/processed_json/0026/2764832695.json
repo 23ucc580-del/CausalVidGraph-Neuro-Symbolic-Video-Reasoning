@@ -1,0 +1,581 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a lively scene at a children's playground.",
+    "objects": [
+      "lively",
+      "playground"
+    ],
+    "actions": [
+      "children's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a lively scene at a children's playground.",
+    "objects": [
+      "lively",
+      "playground"
+    ],
+    "actions": [
+      "children's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a lively scene at a children's playground.",
+    "objects": [
+      "lively",
+      "playground"
+    ],
+    "actions": [
+      "children's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A group of adults and children are enjoying the playground, with a mix of adults and children engaging in playful activities.",
+    "objects": [
+      "mix",
+      "group",
+      "children",
+      "playful",
+      "playground"
+    ],
+    "actions": [
+      "engaging",
+      "activities",
+      "enjoying",
+      "adults"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A group of adults and children are enjoying the playground, with a mix of adults and children engaging in playful activities.",
+    "objects": [
+      "mix",
+      "group",
+      "children",
+      "playful",
+      "playground"
+    ],
+    "actions": [
+      "engaging",
+      "activities",
+      "enjoying",
+      "adults"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A group of adults and children are enjoying the playground, with a mix of adults and children engaging in playful activities.",
+    "objects": [
+      "mix",
+      "group",
+      "children",
+      "playful",
+      "playground"
+    ],
+    "actions": [
+      "engaging",
+      "activities",
+      "enjoying",
+      "adults"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A child wearing a blue hoodie is standing next to a large blue ball, which is the centerpiece of the playground.",
+    "objects": [
+      "blue",
+      "child",
+      "centerpiece",
+      "which",
+      "ball",
+      "hoodie",
+      "large",
+      "playground"
+    ],
+    "actions": [
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A child wearing a blue hoodie is standing next to a large blue ball, which is the centerpiece of the playground.",
+    "objects": [
+      "blue",
+      "child",
+      "centerpiece",
+      "which",
+      "ball",
+      "hoodie",
+      "large",
+      "playground"
+    ],
+    "actions": [
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A child wearing a blue hoodie is standing next to a large blue ball, which is the centerpiece of the playground.",
+    "objects": [
+      "blue",
+      "child",
+      "centerpiece",
+      "which",
+      "ball",
+      "hoodie",
+      "large",
+      "playground"
+    ],
+    "actions": [
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A child wearing red pants is seen crawling under the ball, while another child in a red hoodie is playing with a smaller blue ball nearby.",
+    "objects": [
+      "blue",
+      "child",
+      "nearby",
+      "smaller",
+      "ball",
+      "hoodie",
+      "while",
+      "under"
+    ],
+    "actions": [
+      "red",
+      "pants",
+      "crawling",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A child wearing red pants is seen crawling under the ball, while another child in a red hoodie is playing with a smaller blue ball nearby.",
+    "objects": [
+      "blue",
+      "child",
+      "nearby",
+      "smaller",
+      "ball",
+      "hoodie",
+      "while",
+      "under"
+    ],
+    "actions": [
+      "red",
+      "pants",
+      "crawling",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A child wearing red pants is seen crawling under the ball, while another child in a red hoodie is playing with a smaller blue ball nearby.",
+    "objects": [
+      "blue",
+      "child",
+      "nearby",
+      "smaller",
+      "ball",
+      "hoodie",
+      "while",
+      "under"
+    ],
+    "actions": [
+      "red",
+      "pants",
+      "crawling",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A child in a yellow shirt is playing on a swing, while a child in a white hat and blue hoodie is also on the swing.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "blue",
+      "child",
+      "white",
+      "hat",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "swing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A child in a yellow shirt is playing on a swing, while a child in a white hat and blue hoodie is also on the swing.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "blue",
+      "child",
+      "white",
+      "hat",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "swing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A child in a yellow shirt is playing on a swing, while a child in a white hat and blue hoodie is also on the swing.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "blue",
+      "child",
+      "white",
+      "hat",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "swing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Additionally, a child in a yellow shirt is playing on a slide, and another child in a white hat is on a swing.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "child",
+      "white",
+      "slide",
+      "additionally",
+      "hat"
+    ],
+    "actions": [
+      "swing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Additionally, a child in a yellow shirt is playing on a slide, and another child in a white hat is on a swing.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "child",
+      "white",
+      "slide",
+      "additionally",
+      "hat"
+    ],
+    "actions": [
+      "swing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Additionally, a child in a yellow shirt is playing on a slide, and another child in a white hat is on a swing.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "child",
+      "white",
+      "slide",
+      "additionally",
+      "hat"
+    ],
+    "actions": [
+      "swing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A child in a black hoodie and blue pants is standing next to a yellow ball.",
+    "objects": [
+      "yellow",
+      "blue",
+      "child",
+      "black",
+      "ball",
+      "hoodie"
+    ],
+    "actions": [
+      "pants",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A child in a black hoodie and blue pants is standing next to a yellow ball.",
+    "objects": [
+      "yellow",
+      "blue",
+      "child",
+      "black",
+      "ball",
+      "hoodie"
+    ],
+    "actions": [
+      "pants",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A child in a black hoodie and blue pants is standing next to a yellow ball.",
+    "objects": [
+      "yellow",
+      "blue",
+      "child",
+      "black",
+      "ball",
+      "hoodie"
+    ],
+    "actions": [
+      "pants",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "One child is standing on a playground structure, and a child in a red hoodie is crawling on the ground.",
+    "objects": [
+      "one",
+      "child",
+      "structure",
+      "hoodie",
+      "ground",
+      "playground"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "crawling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "One child is standing on a playground structure, and a child in a red hoodie is crawling on the ground.",
+    "objects": [
+      "one",
+      "child",
+      "structure",
+      "hoodie",
+      "ground",
+      "playground"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "crawling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "One child is standing on a playground structure, and a child in a red hoodie is crawling on the ground.",
+    "objects": [
+      "one",
+      "child",
+      "structure",
+      "hoodie",
+      "ground",
+      "playground"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "crawling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Another child in a red shirt is standing on the ground with a ball, and a child in a white shirt is also crawling on the ground.",
+    "objects": [
+      "shirt",
+      "child",
+      "white",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "crawling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Another child in a red shirt is standing on the ground with a ball, and a child in a white shirt is also crawling on the ground.",
+    "objects": [
+      "shirt",
+      "child",
+      "white",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "crawling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Another child in a red shirt is standing on the ground with a ball, and a child in a white shirt is also crawling on the ground.",
+    "objects": [
+      "shirt",
+      "child",
+      "white",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "crawling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The adults are actively involved in the activities, with one adult standing behind a child on a swing, another adult holding a child on a swing, and a third adult standing behind a child playing on a slide.",
+    "objects": [
+      "one",
+      "child",
+      "adult",
+      "behind",
+      "slide",
+      "third",
+      "actively"
+    ],
+    "actions": [
+      "standing",
+      "swing",
+      "activities",
+      "involved"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The adults are actively involved in the activities, with one adult standing behind a child on a swing, another adult holding a child on a swing, and a third adult standing behind a child playing on a slide.",
+    "objects": [
+      "one",
+      "child",
+      "adult",
+      "behind",
+      "slide",
+      "third",
+      "actively"
+    ],
+    "actions": [
+      "standing",
+      "swing",
+      "activities",
+      "involved"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The adults are actively involved in the activities, with one adult standing behind a child on a swing, another adult holding a child on a swing, and a third adult standing behind a child playing on a slide.",
+    "objects": [
+      "one",
+      "child",
+      "adult",
+      "behind",
+      "slide",
+      "third",
+      "actively"
+    ],
+    "actions": [
+      "standing",
+      "swing",
+      "activities",
+      "involved"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is filled with colorful playground equipment, and the adults and children are dressed in casual, comfortable clothing suitable for outdoor play.",
+    "objects": [
+      "outdoor",
+      "play",
+      "suitable",
+      "comfortable",
+      "equipment",
+      "children",
+      "colorful",
+      "casual"
+    ],
+    "actions": [
+      "filled",
+      "clothing",
+      "dressed",
+      "adults"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is filled with colorful playground equipment, and the adults and children are dressed in casual, comfortable clothing suitable for outdoor play.",
+    "objects": [
+      "outdoor",
+      "play",
+      "suitable",
+      "comfortable",
+      "equipment",
+      "children",
+      "colorful",
+      "casual"
+    ],
+    "actions": [
+      "filled",
+      "clothing",
+      "dressed",
+      "adults"
+    ],
+    "segment_id": 10
+  }
+]

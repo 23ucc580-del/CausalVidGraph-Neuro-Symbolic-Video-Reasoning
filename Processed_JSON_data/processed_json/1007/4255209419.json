@@ -1,0 +1,574 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video depicts a winter scene where a person is enjoying sledding down a snowy hill.",
+    "objects": [
+      "where",
+      "snowy",
+      "winter",
+      "hill",
+      "this"
+    ],
+    "actions": [
+      "depicts",
+      "sledding",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video depicts a winter scene where a person is enjoying sledding down a snowy hill.",
+    "objects": [
+      "where",
+      "snowy",
+      "winter",
+      "hill",
+      "this"
+    ],
+    "actions": [
+      "depicts",
+      "sledding",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video depicts a winter scene where a person is enjoying sledding down a snowy hill.",
+    "objects": [
+      "where",
+      "snowy",
+      "winter",
+      "hill",
+      "this"
+    ],
+    "actions": [
+      "depicts",
+      "sledding",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "This video depicts a winter scene where a person is enjoying sledding down a snowy hill.",
+    "objects": [
+      "where",
+      "snowy",
+      "winter",
+      "hill",
+      "this"
+    ],
+    "actions": [
+      "depicts",
+      "sledding",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is set on a sunny day with a clear blue sky and the ground is covered in fresh snow.",
+    "objects": [
+      "snow",
+      "blue",
+      "fresh",
+      "ground",
+      "clear",
+      "set",
+      "day",
+      "sky"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is set on a sunny day with a clear blue sky and the ground is covered in fresh snow.",
+    "objects": [
+      "snow",
+      "blue",
+      "fresh",
+      "ground",
+      "clear",
+      "set",
+      "day",
+      "sky"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene is set on a sunny day with a clear blue sky and the ground is covered in fresh snow.",
+    "objects": [
+      "snow",
+      "blue",
+      "fresh",
+      "ground",
+      "clear",
+      "set",
+      "day",
+      "sky"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene is set on a sunny day with a clear blue sky and the ground is covered in fresh snow.",
+    "objects": [
+      "snow",
+      "blue",
+      "fresh",
+      "ground",
+      "clear",
+      "set",
+      "day",
+      "sky"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "In the foreground, a person wearing a white jacket, blue pants, and black helmet is sledding down the hill with a red sled.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "blue",
+      "helmet",
+      "hill"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "sledding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the foreground, a person wearing a white jacket, blue pants, and black helmet is sledding down the hill with a red sled.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "blue",
+      "helmet",
+      "hill"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "sledding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "In the foreground, a person wearing a white jacket, blue pants, and black helmet is sledding down the hill with a red sled.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "blue",
+      "helmet",
+      "hill"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "sledding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "In the foreground, a person wearing a white jacket, blue pants, and black helmet is sledding down the hill with a red sled.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "blue",
+      "helmet",
+      "hill"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "sledding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The person is holding onto the sled with their left hand and their right hand is in the air, possibly to maintain balance or for fun.",
+    "objects": [
+      "their",
+      "air",
+      "balance",
+      "possibly",
+      "onto",
+      "fun",
+      "maintain",
+      "hand"
+    ],
+    "actions": [
+      "sled",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The person is holding onto the sled with their left hand and their right hand is in the air, possibly to maintain balance or for fun.",
+    "objects": [
+      "their",
+      "air",
+      "balance",
+      "possibly",
+      "onto",
+      "fun",
+      "maintain",
+      "hand"
+    ],
+    "actions": [
+      "sled",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The person is holding onto the sled with their left hand and their right hand is in the air, possibly to maintain balance or for fun.",
+    "objects": [
+      "their",
+      "air",
+      "balance",
+      "possibly",
+      "onto",
+      "fun",
+      "maintain",
+      "hand"
+    ],
+    "actions": [
+      "sled",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The person is holding onto the sled with their left hand and their right hand is in the air, possibly to maintain balance or for fun.",
+    "objects": [
+      "their",
+      "air",
+      "balance",
+      "possibly",
+      "onto",
+      "fun",
+      "maintain",
+      "hand"
+    ],
+    "actions": [
+      "sled",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, there is a tree with no leaves and a building with a balcony.",
+    "objects": [
+      "tree",
+      "balcony",
+      "there"
+    ],
+    "actions": [
+      "building",
+      "leaves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, there is a tree with no leaves and a building with a balcony.",
+    "objects": [
+      "tree",
+      "balcony",
+      "there"
+    ],
+    "actions": [
+      "building",
+      "leaves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, there is a tree with no leaves and a building with a balcony.",
+    "objects": [
+      "tree",
+      "balcony",
+      "there"
+    ],
+    "actions": [
+      "building",
+      "leaves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, there is a tree with no leaves and a building with a balcony.",
+    "objects": [
+      "tree",
+      "balcony",
+      "there"
+    ],
+    "actions": [
+      "building",
+      "leaves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A person in a white jacket, blue jeans, and black helmet is standing on the snow, seemingly watching the sledder.",
+    "objects": [
+      "snow",
+      "white",
+      "sledder",
+      "jacket",
+      "black",
+      "blue",
+      "seemingly",
+      "helmet"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A person in a white jacket, blue jeans, and black helmet is standing on the snow, seemingly watching the sledder.",
+    "objects": [
+      "snow",
+      "white",
+      "sledder",
+      "jacket",
+      "black",
+      "blue",
+      "seemingly",
+      "helmet"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A person in a white jacket, blue jeans, and black helmet is standing on the snow, seemingly watching the sledder.",
+    "objects": [
+      "snow",
+      "white",
+      "sledder",
+      "jacket",
+      "black",
+      "blue",
+      "seemingly",
+      "helmet"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A person in a white jacket, blue jeans, and black helmet is standing on the snow, seemingly watching the sledder.",
+    "objects": [
+      "snow",
+      "white",
+      "sledder",
+      "jacket",
+      "black",
+      "blue",
+      "seemingly",
+      "helmet"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There is also another person in a blue jacket and black helmet standing on the same snowy hill, possibly waiting for their turn to sled or watching the activity.",
+    "objects": [
+      "their",
+      "activity",
+      "there",
+      "jacket",
+      "black",
+      "blue",
+      "same",
+      "possibly"
+    ],
+    "actions": [
+      "waiting",
+      "sled",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There is also another person in a blue jacket and black helmet standing on the same snowy hill, possibly waiting for their turn to sled or watching the activity.",
+    "objects": [
+      "their",
+      "activity",
+      "there",
+      "jacket",
+      "black",
+      "blue",
+      "same",
+      "possibly"
+    ],
+    "actions": [
+      "waiting",
+      "sled",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There is also another person in a blue jacket and black helmet standing on the same snowy hill, possibly waiting for their turn to sled or watching the activity.",
+    "objects": [
+      "their",
+      "activity",
+      "there",
+      "jacket",
+      "black",
+      "blue",
+      "same",
+      "possibly"
+    ],
+    "actions": [
+      "waiting",
+      "sled",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There is also another person in a blue jacket and black helmet standing on the same snowy hill, possibly waiting for their turn to sled or watching the activity.",
+    "objects": [
+      "their",
+      "activity",
+      "there",
+      "jacket",
+      "black",
+      "blue",
+      "same",
+      "possibly"
+    ],
+    "actions": [
+      "waiting",
+      "sled",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The video captures the joy and thrill of winter sports and leisure activities.",
+    "objects": [
+      "winter",
+      "leisure",
+      "joy",
+      "thrill"
+    ],
+    "actions": [
+      "activities",
+      "sports"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The video captures the joy and thrill of winter sports and leisure activities.",
+    "objects": [
+      "winter",
+      "leisure",
+      "joy",
+      "thrill"
+    ],
+    "actions": [
+      "activities",
+      "sports"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures the joy and thrill of winter sports and leisure activities.",
+    "objects": [
+      "winter",
+      "leisure",
+      "joy",
+      "thrill"
+    ],
+    "actions": [
+      "activities",
+      "sports"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures the joy and thrill of winter sports and leisure activities.",
+    "objects": [
+      "winter",
+      "leisure",
+      "joy",
+      "thrill"
+    ],
+    "actions": [
+      "activities",
+      "sports"
+    ],
+    "segment_id": 7
+  }
+]

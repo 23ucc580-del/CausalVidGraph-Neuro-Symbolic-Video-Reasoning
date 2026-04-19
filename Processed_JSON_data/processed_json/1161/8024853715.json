@@ -1,0 +1,573 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of young children playing outside in a backyard.",
+    "objects": [
+      "outside",
+      "backyard",
+      "this",
+      "young",
+      "group",
+      "see",
+      "children"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of young children playing outside in a backyard.",
+    "objects": [
+      "outside",
+      "backyard",
+      "this",
+      "young",
+      "group",
+      "see",
+      "children"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of young children playing outside in a backyard.",
+    "objects": [
+      "outside",
+      "backyard",
+      "this",
+      "young",
+      "group",
+      "see",
+      "children"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The setting is vibrant and full of energy, with trees in the background.",
+    "objects": [
+      "energy",
+      "vibrant",
+      "full"
+    ],
+    "actions": [
+      "setting",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The setting is vibrant and full of energy, with trees in the background.",
+    "objects": [
+      "energy",
+      "vibrant",
+      "full"
+    ],
+    "actions": [
+      "setting",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The setting is vibrant and full of energy, with trees in the background.",
+    "objects": [
+      "energy",
+      "vibrant",
+      "full"
+    ],
+    "actions": [
+      "setting",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The children are engaged in various activities, creating a lively atmosphere.",
+    "objects": [
+      "atmosphere",
+      "children",
+      "lively"
+    ],
+    "actions": [
+      "creating",
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The children are engaged in various activities, creating a lively atmosphere.",
+    "objects": [
+      "atmosphere",
+      "children",
+      "lively"
+    ],
+    "actions": [
+      "creating",
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The children are engaged in various activities, creating a lively atmosphere.",
+    "objects": [
+      "atmosphere",
+      "children",
+      "lively"
+    ],
+    "actions": [
+      "creating",
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One girl is sitting on the ground, dressed in a blue hoodie, and is holding a red ball.",
+    "objects": [
+      "ground",
+      "blue",
+      "girl",
+      "one",
+      "ball",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "One girl is sitting on the ground, dressed in a blue hoodie, and is holding a red ball.",
+    "objects": [
+      "ground",
+      "blue",
+      "girl",
+      "one",
+      "ball",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "One girl is sitting on the ground, dressed in a blue hoodie, and is holding a red ball.",
+    "objects": [
+      "ground",
+      "blue",
+      "girl",
+      "one",
+      "ball",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "She appears to be observing the others or waiting her turn to play.",
+    "objects": [
+      "play",
+      "her",
+      "turn",
+      "she"
+    ],
+    "actions": [
+      "others",
+      "observing",
+      "waiting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "She appears to be observing the others or waiting her turn to play.",
+    "objects": [
+      "play",
+      "her",
+      "turn",
+      "she"
+    ],
+    "actions": [
+      "others",
+      "observing",
+      "waiting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "She appears to be observing the others or waiting her turn to play.",
+    "objects": [
+      "play",
+      "her",
+      "turn",
+      "she"
+    ],
+    "actions": [
+      "others",
+      "observing",
+      "waiting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Another girl is standing on the ground, wearing a blue hoodie and a red dress, holding a blue ball and seems to be interacting with the other children.",
+    "objects": [
+      "ground",
+      "blue",
+      "other",
+      "dress",
+      "girl",
+      "ball",
+      "hoodie",
+      "children"
+    ],
+    "actions": [
+      "interacting",
+      "holding",
+      "red",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Another girl is standing on the ground, wearing a blue hoodie and a red dress, holding a blue ball and seems to be interacting with the other children.",
+    "objects": [
+      "ground",
+      "blue",
+      "other",
+      "dress",
+      "girl",
+      "ball",
+      "hoodie",
+      "children"
+    ],
+    "actions": [
+      "interacting",
+      "holding",
+      "red",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Another girl is standing on the ground, wearing a blue hoodie and a red dress, holding a blue ball and seems to be interacting with the other children.",
+    "objects": [
+      "ground",
+      "blue",
+      "other",
+      "dress",
+      "girl",
+      "ball",
+      "hoodie",
+      "children"
+    ],
+    "actions": [
+      "interacting",
+      "holding",
+      "red",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A third girl is standing in the middle of the frame, wearing a blue hoodie and a silver dress, holding a red ball and also seems to be engaged in the game.",
+    "objects": [
+      "game",
+      "blue",
+      "middle",
+      "silver",
+      "dress",
+      "girl",
+      "ball",
+      "hoodie"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "standing",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A third girl is standing in the middle of the frame, wearing a blue hoodie and a silver dress, holding a red ball and also seems to be engaged in the game.",
+    "objects": [
+      "game",
+      "blue",
+      "middle",
+      "silver",
+      "dress",
+      "girl",
+      "ball",
+      "hoodie"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "standing",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A third girl is standing in the middle of the frame, wearing a blue hoodie and a silver dress, holding a red ball and also seems to be engaged in the game.",
+    "objects": [
+      "game",
+      "blue",
+      "middle",
+      "silver",
+      "dress",
+      "girl",
+      "ball",
+      "hoodie"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "standing",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A fourth girl is standing in the foreground, wearing a green dress and holding a blue ball.",
+    "objects": [
+      "blue",
+      "green",
+      "dress",
+      "girl",
+      "ball",
+      "fourth"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A fourth girl is standing in the foreground, wearing a green dress and holding a blue ball.",
+    "objects": [
+      "blue",
+      "green",
+      "dress",
+      "girl",
+      "ball",
+      "fourth"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A fourth girl is standing in the foreground, wearing a green dress and holding a blue ball.",
+    "objects": [
+      "blue",
+      "green",
+      "dress",
+      "girl",
+      "ball",
+      "fourth"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "She seems to be actively participating in the game or possibly waiting for her turn.",
+    "objects": [
+      "game",
+      "her",
+      "turn",
+      "actively",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "participating",
+      "waiting",
+      "seems"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "She seems to be actively participating in the game or possibly waiting for her turn.",
+    "objects": [
+      "game",
+      "her",
+      "turn",
+      "actively",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "participating",
+      "waiting",
+      "seems"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "She seems to be actively participating in the game or possibly waiting for her turn.",
+    "objects": [
+      "game",
+      "her",
+      "turn",
+      "actively",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "participating",
+      "waiting",
+      "seems"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "Two girls are standing close to each other, both wearing green dresses and holding blue balls.",
+    "objects": [
+      "blue",
+      "both",
+      "each",
+      "green",
+      "other",
+      "close",
+      "two"
+    ],
+    "actions": [
+      "dresses",
+      "balls",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "Two girls are standing close to each other, both wearing green dresses and holding blue balls.",
+    "objects": [
+      "blue",
+      "both",
+      "each",
+      "green",
+      "other",
+      "close",
+      "two"
+    ],
+    "actions": [
+      "dresses",
+      "balls",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "Two girls are standing close to each other, both wearing green dresses and holding blue balls.",
+    "objects": [
+      "blue",
+      "both",
+      "each",
+      "green",
+      "other",
+      "close",
+      "two"
+    ],
+    "actions": [
+      "dresses",
+      "balls",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "They appear to be interacting with each other or waiting for their turn.",
+    "objects": [
+      "each",
+      "other",
+      "appear",
+      "turn",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "waiting",
+      "interacting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "They appear to be interacting with each other or waiting for their turn.",
+    "objects": [
+      "each",
+      "other",
+      "appear",
+      "turn",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "waiting",
+      "interacting"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,555 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of young men gathered in a room, sitting on a wooden bench that spans across the width of the room.",
+    "objects": [
+      "room",
+      "width",
+      "men",
+      "across",
+      "see",
+      "that",
+      "wooden",
+      "young"
+    ],
+    "actions": [
+      "spans",
+      "sitting",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of young men gathered in a room, sitting on a wooden bench that spans across the width of the room.",
+    "objects": [
+      "room",
+      "width",
+      "men",
+      "across",
+      "see",
+      "that",
+      "wooden",
+      "young"
+    ],
+    "actions": [
+      "spans",
+      "sitting",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of young men gathered in a room, sitting on a wooden bench that spans across the width of the room.",
+    "objects": [
+      "room",
+      "width",
+      "men",
+      "across",
+      "see",
+      "that",
+      "wooden",
+      "young"
+    ],
+    "actions": [
+      "spans",
+      "sitting",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "They are engrossed in playing music on a wooden piano.",
+    "objects": [
+      "they",
+      "music",
+      "wooden",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "They are engrossed in playing music on a wooden piano.",
+    "objects": [
+      "they",
+      "music",
+      "wooden",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "They are engrossed in playing music on a wooden piano.",
+    "objects": [
+      "they",
+      "music",
+      "wooden",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One man, dressed in a blue hoodie, is actively playing the piano, while another man in a white shirt is holding a guitar.",
+    "objects": [
+      "one",
+      "white",
+      "while",
+      "actively",
+      "blue",
+      "guitar",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "One man, dressed in a blue hoodie, is actively playing the piano, while another man in a white shirt is holding a guitar.",
+    "objects": [
+      "one",
+      "white",
+      "while",
+      "actively",
+      "blue",
+      "guitar",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "One man, dressed in a blue hoodie, is actively playing the piano, while another man in a white shirt is holding a guitar.",
+    "objects": [
+      "one",
+      "white",
+      "while",
+      "actively",
+      "blue",
+      "guitar",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man in the blue hoodie is also wearing glasses.",
+    "objects": [
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The man in the blue hoodie is also wearing glasses.",
+    "objects": [
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The man in the blue hoodie is also wearing glasses.",
+    "objects": [
+      "man",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The room appears to be a small, intimate space with a low ceiling, and the walls are painted in a light color.",
+    "objects": [
+      "small",
+      "intimate",
+      "space",
+      "color",
+      "light",
+      "room",
+      "low"
+    ],
+    "actions": [
+      "painted",
+      "walls",
+      "ceiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The room appears to be a small, intimate space with a low ceiling, and the walls are painted in a light color.",
+    "objects": [
+      "small",
+      "intimate",
+      "space",
+      "color",
+      "light",
+      "room",
+      "low"
+    ],
+    "actions": [
+      "painted",
+      "walls",
+      "ceiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The room appears to be a small, intimate space with a low ceiling, and the walls are painted in a light color.",
+    "objects": [
+      "small",
+      "intimate",
+      "space",
+      "color",
+      "light",
+      "room",
+      "low"
+    ],
+    "actions": [
+      "painted",
+      "walls",
+      "ceiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "On one of the walls, there is a picture of a cat.",
+    "objects": [
+      "one",
+      "cat",
+      "there",
+      "picture"
+    ],
+    "actions": [
+      "walls"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "On one of the walls, there is a picture of a cat.",
+    "objects": [
+      "one",
+      "cat",
+      "there",
+      "picture"
+    ],
+    "actions": [
+      "walls"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "On one of the walls, there is a picture of a cat.",
+    "objects": [
+      "one",
+      "cat",
+      "there",
+      "picture"
+    ],
+    "actions": [
+      "walls"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene is lively and full of energy, as the men seem to be enjoying their music.",
+    "objects": [
+      "full",
+      "their",
+      "men",
+      "lively",
+      "seem",
+      "music",
+      "energy"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene is lively and full of energy, as the men seem to be enjoying their music.",
+    "objects": [
+      "full",
+      "their",
+      "men",
+      "lively",
+      "seem",
+      "music",
+      "energy"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene is lively and full of energy, as the men seem to be enjoying their music.",
+    "objects": [
+      "full",
+      "their",
+      "men",
+      "lively",
+      "seem",
+      "music",
+      "energy"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The piano player's fingers are moving swiftly across the keys, and the guitarist's fingers are strumming the strings, creating a harmonious melody.",
+    "objects": [
+      "swiftly",
+      "melody",
+      "across",
+      "keys",
+      "piano"
+    ],
+    "actions": [
+      "strings",
+      "player's",
+      "guitarist's",
+      "harmonious"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The piano player's fingers are moving swiftly across the keys, and the guitarist's fingers are strumming the strings, creating a harmonious melody.",
+    "objects": [
+      "swiftly",
+      "melody",
+      "across",
+      "keys",
+      "piano"
+    ],
+    "actions": [
+      "strings",
+      "player's",
+      "guitarist's",
+      "harmonious"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The piano player's fingers are moving swiftly across the keys, and the guitarist's fingers are strumming the strings, creating a harmonious melody.",
+    "objects": [
+      "swiftly",
+      "melody",
+      "across",
+      "keys",
+      "piano"
+    ],
+    "actions": [
+      "strings",
+      "player's",
+      "guitarist's",
+      "harmonious"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The atmosphere is one of camaraderie and shared passion for music.",
+    "objects": [
+      "one",
+      "passion",
+      "camaraderie",
+      "music",
+      "atmosphere"
+    ],
+    "actions": [
+      "shared"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The atmosphere is one of camaraderie and shared passion for music.",
+    "objects": [
+      "one",
+      "passion",
+      "camaraderie",
+      "music",
+      "atmosphere"
+    ],
+    "actions": [
+      "shared"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The atmosphere is one of camaraderie and shared passion for music.",
+    "objects": [
+      "one",
+      "passion",
+      "camaraderie",
+      "music",
+      "atmosphere"
+    ],
+    "actions": [
+      "shared"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The men seem to be in a state of concentration, focused on their performance, while the rest of the room is relatively quiet, allowing the music to be the center of attention.",
+    "objects": [
+      "their",
+      "room",
+      "attention",
+      "state",
+      "while",
+      "men",
+      "quiet",
+      "performance"
+    ],
+    "actions": [
+      "focused",
+      "allowing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The men seem to be in a state of concentration, focused on their performance, while the rest of the room is relatively quiet, allowing the music to be the center of attention.",
+    "objects": [
+      "their",
+      "room",
+      "attention",
+      "state",
+      "while",
+      "men",
+      "quiet",
+      "performance"
+    ],
+    "actions": [
+      "focused",
+      "allowing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The men seem to be in a state of concentration, focused on their performance, while the rest of the room is relatively quiet, allowing the music to be the center of attention.",
+    "objects": [
+      "their",
+      "room",
+      "attention",
+      "state",
+      "while",
+      "men",
+      "quiet",
+      "performance"
+    ],
+    "actions": [
+      "focused",
+      "allowing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Overall, it's a casual setting where the group of young men are immersed in their shared interest in music.",
+    "objects": [
+      "their",
+      "where",
+      "casual",
+      "music",
+      "men",
+      "overall",
+      "young",
+      "interest"
+    ],
+    "actions": [
+      "shared",
+      "immersed",
+      "setting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Overall, it's a casual setting where the group of young men are immersed in their shared interest in music.",
+    "objects": [
+      "their",
+      "where",
+      "casual",
+      "music",
+      "men",
+      "overall",
+      "young",
+      "interest"
+    ],
+    "actions": [
+      "shared",
+      "immersed",
+      "setting"
+    ],
+    "segment_id": 10
+  }
+]

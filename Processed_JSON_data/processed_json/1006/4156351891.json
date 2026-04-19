@@ -1,0 +1,518 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features two cats and a cardboard box on a wooden floor.",
+    "objects": [
+      "box",
+      "cardboard",
+      "two",
+      "cats",
+      "wooden",
+      "floor"
+    ],
+    "actions": [
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features two cats and a cardboard box on a wooden floor.",
+    "objects": [
+      "box",
+      "cardboard",
+      "two",
+      "cats",
+      "wooden",
+      "floor"
+    ],
+    "actions": [
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video features two cats and a cardboard box on a wooden floor.",
+    "objects": [
+      "box",
+      "cardboard",
+      "two",
+      "cats",
+      "wooden",
+      "floor"
+    ],
+    "actions": [
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video features two cats and a cardboard box on a wooden floor.",
+    "objects": [
+      "box",
+      "cardboard",
+      "two",
+      "cats",
+      "wooden",
+      "floor"
+    ],
+    "actions": [
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the first scene, a white cat is lying in the box, while a black cat is lying in a cardboard box next to it.",
+    "objects": [
+      "box",
+      "white",
+      "cardboard",
+      "while",
+      "black",
+      "cat",
+      "first"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the first scene, a white cat is lying in the box, while a black cat is lying in a cardboard box next to it.",
+    "objects": [
+      "box",
+      "white",
+      "cardboard",
+      "while",
+      "black",
+      "cat",
+      "first"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the first scene, a white cat is lying in the box, while a black cat is lying in a cardboard box next to it.",
+    "objects": [
+      "box",
+      "white",
+      "cardboard",
+      "while",
+      "black",
+      "cat",
+      "first"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the first scene, a white cat is lying in the box, while a black cat is lying in a cardboard box next to it.",
+    "objects": [
+      "box",
+      "white",
+      "cardboard",
+      "while",
+      "black",
+      "cat",
+      "first"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "In the second scene, a white cat is seen playing with a black cat inside a cardboard box.",
+    "objects": [
+      "white",
+      "cardboard",
+      "box",
+      "black",
+      "cat",
+      "inside",
+      "second"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the second scene, a white cat is seen playing with a black cat inside a cardboard box.",
+    "objects": [
+      "white",
+      "cardboard",
+      "box",
+      "black",
+      "cat",
+      "inside",
+      "second"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "In the second scene, a white cat is seen playing with a black cat inside a cardboard box.",
+    "objects": [
+      "white",
+      "cardboard",
+      "box",
+      "black",
+      "cat",
+      "inside",
+      "second"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "In the second scene, a white cat is seen playing with a black cat inside a cardboard box.",
+    "objects": [
+      "white",
+      "cardboard",
+      "box",
+      "black",
+      "cat",
+      "inside",
+      "second"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The black cat is also playing with a white box.",
+    "objects": [
+      "box",
+      "black",
+      "cat",
+      "white"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The black cat is also playing with a white box.",
+    "objects": [
+      "box",
+      "black",
+      "cat",
+      "white"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The black cat is also playing with a white box.",
+    "objects": [
+      "box",
+      "black",
+      "cat",
+      "white"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The black cat is also playing with a white box.",
+    "objects": [
+      "box",
+      "black",
+      "cat",
+      "white"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The white cat jumps out of the box and looks at the camera, while the black cat is sitting in the box.",
+    "objects": [
+      "box",
+      "white",
+      "while",
+      "black",
+      "out",
+      "cat"
+    ],
+    "actions": [
+      "sitting",
+      "jumps",
+      "looks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The white cat jumps out of the box and looks at the camera, while the black cat is sitting in the box.",
+    "objects": [
+      "box",
+      "white",
+      "while",
+      "black",
+      "out",
+      "cat"
+    ],
+    "actions": [
+      "sitting",
+      "jumps",
+      "looks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The white cat jumps out of the box and looks at the camera, while the black cat is sitting in the box.",
+    "objects": [
+      "box",
+      "white",
+      "while",
+      "black",
+      "out",
+      "cat"
+    ],
+    "actions": [
+      "sitting",
+      "jumps",
+      "looks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The white cat jumps out of the box and looks at the camera, while the black cat is sitting in the box.",
+    "objects": [
+      "box",
+      "white",
+      "while",
+      "black",
+      "out",
+      "cat"
+    ],
+    "actions": [
+      "sitting",
+      "jumps",
+      "looks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The white cat then goes back inside the box.",
+    "objects": [
+      "white",
+      "box",
+      "goes",
+      "cat",
+      "inside",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The white cat then goes back inside the box.",
+    "objects": [
+      "white",
+      "box",
+      "goes",
+      "cat",
+      "inside",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The white cat then goes back inside the box.",
+    "objects": [
+      "white",
+      "box",
+      "goes",
+      "cat",
+      "inside",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The white cat then goes back inside the box.",
+    "objects": [
+      "white",
+      "box",
+      "goes",
+      "cat",
+      "inside",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "In the final scene, the black cat is seen in the box, while the white cat stands next to it.",
+    "objects": [
+      "box",
+      "white",
+      "while",
+      "black",
+      "final",
+      "cat"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "In the final scene, the black cat is seen in the box, while the white cat stands next to it.",
+    "objects": [
+      "box",
+      "white",
+      "while",
+      "black",
+      "final",
+      "cat"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "In the final scene, the black cat is seen in the box, while the white cat stands next to it.",
+    "objects": [
+      "box",
+      "white",
+      "while",
+      "black",
+      "final",
+      "cat"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "In the final scene, the black cat is seen in the box, while the white cat stands next to it.",
+    "objects": [
+      "box",
+      "white",
+      "while",
+      "black",
+      "final",
+      "cat"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The cats are wearing no clothes or holding any objects.",
+    "objects": [
+      "cats",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "objects",
+      "holding",
+      "clothes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The cats are wearing no clothes or holding any objects.",
+    "objects": [
+      "cats",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "objects",
+      "holding",
+      "clothes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The cats are wearing no clothes or holding any objects.",
+    "objects": [
+      "cats",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "objects",
+      "holding",
+      "clothes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The cats are wearing no clothes or holding any objects.",
+    "objects": [
+      "cats",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "objects",
+      "holding",
+      "clothes"
+    ],
+    "segment_id": 7
+  }
+]

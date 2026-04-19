@@ -1,0 +1,610 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a snowy landscape where two skiers are navigating a downhill slope.",
+    "objects": [
+      "snowy",
+      "downhill",
+      "landscape",
+      "where",
+      "two",
+      "slope"
+    ],
+    "actions": [
+      "navigating",
+      "skiers"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a snowy landscape where two skiers are navigating a downhill slope.",
+    "objects": [
+      "snowy",
+      "downhill",
+      "landscape",
+      "where",
+      "two",
+      "slope"
+    ],
+    "actions": [
+      "navigating",
+      "skiers"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a snowy landscape where two skiers are navigating a downhill slope.",
+    "objects": [
+      "snowy",
+      "downhill",
+      "landscape",
+      "where",
+      "two",
+      "slope"
+    ],
+    "actions": [
+      "navigating",
+      "skiers"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a snowy landscape where two skiers are navigating a downhill slope.",
+    "objects": [
+      "snowy",
+      "downhill",
+      "landscape",
+      "where",
+      "two",
+      "slope"
+    ],
+    "actions": [
+      "navigating",
+      "skiers"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is bustling with activity, and it's a bright, sunny day.",
+    "objects": [
+      "bright",
+      "activity",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is bustling with activity, and it's a bright, sunny day.",
+    "objects": [
+      "bright",
+      "activity",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene is bustling with activity, and it's a bright, sunny day.",
+    "objects": [
+      "bright",
+      "activity",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene is bustling with activity, and it's a bright, sunny day.",
+    "objects": [
+      "bright",
+      "activity",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The first skier, wearing a blue hoodie, is skiing down the slope, their body angled towards the right side of the frame, creating a sense of movement.",
+    "objects": [
+      "blue",
+      "body",
+      "skier",
+      "side",
+      "sense",
+      "movement",
+      "hoodie",
+      "their"
+    ],
+    "actions": [
+      "skiing",
+      "towards",
+      "creating",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The first skier, wearing a blue hoodie, is skiing down the slope, their body angled towards the right side of the frame, creating a sense of movement.",
+    "objects": [
+      "blue",
+      "body",
+      "skier",
+      "side",
+      "sense",
+      "movement",
+      "hoodie",
+      "their"
+    ],
+    "actions": [
+      "skiing",
+      "towards",
+      "creating",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The first skier, wearing a blue hoodie, is skiing down the slope, their body angled towards the right side of the frame, creating a sense of movement.",
+    "objects": [
+      "blue",
+      "body",
+      "skier",
+      "side",
+      "sense",
+      "movement",
+      "hoodie",
+      "their"
+    ],
+    "actions": [
+      "skiing",
+      "towards",
+      "creating",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The first skier, wearing a blue hoodie, is skiing down the slope, their body angled towards the right side of the frame, creating a sense of movement.",
+    "objects": [
+      "blue",
+      "body",
+      "skier",
+      "side",
+      "sense",
+      "movement",
+      "hoodie",
+      "their"
+    ],
+    "actions": [
+      "skiing",
+      "towards",
+      "creating",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The second skier, wearing a red helmet and a green jacket, is skiing down the slope in the opposite direction, their body angled towards the left side of the frame, also suggesting motion.",
+    "objects": [
+      "direction",
+      "body",
+      "skier",
+      "helmet",
+      "green",
+      "side",
+      "motion",
+      "jacket"
+    ],
+    "actions": [
+      "skiing",
+      "towards",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The second skier, wearing a red helmet and a green jacket, is skiing down the slope in the opposite direction, their body angled towards the left side of the frame, also suggesting motion.",
+    "objects": [
+      "direction",
+      "body",
+      "skier",
+      "helmet",
+      "green",
+      "side",
+      "motion",
+      "jacket"
+    ],
+    "actions": [
+      "skiing",
+      "towards",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The second skier, wearing a red helmet and a green jacket, is skiing down the slope in the opposite direction, their body angled towards the left side of the frame, also suggesting motion.",
+    "objects": [
+      "direction",
+      "body",
+      "skier",
+      "helmet",
+      "green",
+      "side",
+      "motion",
+      "jacket"
+    ],
+    "actions": [
+      "skiing",
+      "towards",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The second skier, wearing a red helmet and a green jacket, is skiing down the slope in the opposite direction, their body angled towards the left side of the frame, also suggesting motion.",
+    "objects": [
+      "direction",
+      "body",
+      "skier",
+      "helmet",
+      "green",
+      "side",
+      "motion",
+      "jacket"
+    ],
+    "actions": [
+      "skiing",
+      "towards",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Both skiers are wearing goggles for eye protection, and their skis are clearly visible, gliding on the snow.",
+    "objects": [
+      "snow",
+      "both",
+      "eye",
+      "skis",
+      "protection",
+      "their",
+      "clearly"
+    ],
+    "actions": [
+      "gliding",
+      "wearing",
+      "goggles",
+      "skiers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Both skiers are wearing goggles for eye protection, and their skis are clearly visible, gliding on the snow.",
+    "objects": [
+      "snow",
+      "both",
+      "eye",
+      "skis",
+      "protection",
+      "their",
+      "clearly"
+    ],
+    "actions": [
+      "gliding",
+      "wearing",
+      "goggles",
+      "skiers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Both skiers are wearing goggles for eye protection, and their skis are clearly visible, gliding on the snow.",
+    "objects": [
+      "snow",
+      "both",
+      "eye",
+      "skis",
+      "protection",
+      "their",
+      "clearly"
+    ],
+    "actions": [
+      "gliding",
+      "wearing",
+      "goggles",
+      "skiers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Both skiers are wearing goggles for eye protection, and their skis are clearly visible, gliding on the snow.",
+    "objects": [
+      "snow",
+      "both",
+      "eye",
+      "skis",
+      "protection",
+      "their",
+      "clearly"
+    ],
+    "actions": [
+      "gliding",
+      "wearing",
+      "goggles",
+      "skiers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The slope is dotted with trees, adding a touch of greenery to the otherwise white landscape.",
+    "objects": [
+      "white",
+      "touch",
+      "landscape",
+      "otherwise",
+      "greenery",
+      "slope"
+    ],
+    "actions": [
+      "adding",
+      "trees",
+      "dotted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The slope is dotted with trees, adding a touch of greenery to the otherwise white landscape.",
+    "objects": [
+      "white",
+      "touch",
+      "landscape",
+      "otherwise",
+      "greenery",
+      "slope"
+    ],
+    "actions": [
+      "adding",
+      "trees",
+      "dotted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The slope is dotted with trees, adding a touch of greenery to the otherwise white landscape.",
+    "objects": [
+      "white",
+      "touch",
+      "landscape",
+      "otherwise",
+      "greenery",
+      "slope"
+    ],
+    "actions": [
+      "adding",
+      "trees",
+      "dotted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The slope is dotted with trees, adding a touch of greenery to the otherwise white landscape.",
+    "objects": [
+      "white",
+      "touch",
+      "landscape",
+      "otherwise",
+      "greenery",
+      "slope"
+    ],
+    "actions": [
+      "adding",
+      "trees",
+      "dotted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "In the background, there are multiple cars parked, indicating that the slope is likely near a parking area or a populated area.",
+    "objects": [
+      "multiple",
+      "area",
+      "that",
+      "there",
+      "likely",
+      "cars",
+      "slope"
+    ],
+    "actions": [
+      "populated",
+      "parking",
+      "indicating",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, there are multiple cars parked, indicating that the slope is likely near a parking area or a populated area.",
+    "objects": [
+      "multiple",
+      "area",
+      "that",
+      "there",
+      "likely",
+      "cars",
+      "slope"
+    ],
+    "actions": [
+      "populated",
+      "parking",
+      "indicating",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, there are multiple cars parked, indicating that the slope is likely near a parking area or a populated area.",
+    "objects": [
+      "multiple",
+      "area",
+      "that",
+      "there",
+      "likely",
+      "cars",
+      "slope"
+    ],
+    "actions": [
+      "populated",
+      "parking",
+      "indicating",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "In the background, there are multiple cars parked, indicating that the slope is likely near a parking area or a populated area.",
+    "objects": [
+      "multiple",
+      "area",
+      "that",
+      "there",
+      "likely",
+      "cars",
+      "slope"
+    ],
+    "actions": [
+      "populated",
+      "parking",
+      "indicating",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The sky is a clear blue with a few scattered clouds, casting a bright light over the scene, enhancing the colors of the landscape.",
+    "objects": [
+      "blue",
+      "few",
+      "bright",
+      "over",
+      "light",
+      "landscape",
+      "sky",
+      "clear"
+    ],
+    "actions": [
+      "colors",
+      "clouds",
+      "scattered",
+      "enhancing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The sky is a clear blue with a few scattered clouds, casting a bright light over the scene, enhancing the colors of the landscape.",
+    "objects": [
+      "blue",
+      "few",
+      "bright",
+      "over",
+      "light",
+      "landscape",
+      "sky",
+      "clear"
+    ],
+    "actions": [
+      "colors",
+      "clouds",
+      "scattered",
+      "enhancing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The sky is a clear blue with a few scattered clouds, casting a bright light over the scene, enhancing the colors of the landscape.",
+    "objects": [
+      "blue",
+      "few",
+      "bright",
+      "over",
+      "light",
+      "landscape",
+      "sky",
+      "clear"
+    ],
+    "actions": [
+      "colors",
+      "clouds",
+      "scattered",
+      "enhancing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The sky is a clear blue with a few scattered clouds, casting a bright light over the scene, enhancing the colors of the landscape.",
+    "objects": [
+      "blue",
+      "few",
+      "bright",
+      "over",
+      "light",
+      "landscape",
+      "sky",
+      "clear"
+    ],
+    "actions": [
+      "colors",
+      "clouds",
+      "scattered",
+      "enhancing"
+    ],
+    "segment_id": 7
+  }
+]

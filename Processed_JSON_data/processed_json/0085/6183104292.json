@@ -1,0 +1,526 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a scene at a zoo where a person is standing in front of a fenced enclosure, observing a tiger that is lying on the ground.",
+    "objects": [
+      "enclosure",
+      "where",
+      "ground",
+      "zoo",
+      "that",
+      "tiger"
+    ],
+    "actions": [
+      "observing",
+      "fenced",
+      "lying",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a scene at a zoo where a person is standing in front of a fenced enclosure, observing a tiger that is lying on the ground.",
+    "objects": [
+      "enclosure",
+      "where",
+      "ground",
+      "zoo",
+      "that",
+      "tiger"
+    ],
+    "actions": [
+      "observing",
+      "fenced",
+      "lying",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a scene at a zoo where a person is standing in front of a fenced enclosure, observing a tiger that is lying on the ground.",
+    "objects": [
+      "enclosure",
+      "where",
+      "ground",
+      "zoo",
+      "that",
+      "tiger"
+    ],
+    "actions": [
+      "observing",
+      "fenced",
+      "lying",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a scene at a zoo where a person is standing in front of a fenced enclosure, observing a tiger that is lying on the ground.",
+    "objects": [
+      "enclosure",
+      "where",
+      "ground",
+      "zoo",
+      "that",
+      "tiger"
+    ],
+    "actions": [
+      "observing",
+      "fenced",
+      "lying",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The person is holding a metal pole and wearing a blue hoodie.",
+    "objects": [
+      "pole",
+      "blue",
+      "metal",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The person is holding a metal pole and wearing a blue hoodie.",
+    "objects": [
+      "pole",
+      "blue",
+      "metal",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The person is holding a metal pole and wearing a blue hoodie.",
+    "objects": [
+      "pole",
+      "blue",
+      "metal",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The person is holding a metal pole and wearing a blue hoodie.",
+    "objects": [
+      "pole",
+      "blue",
+      "metal",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The tiger is lying down, with its back facing the viewer, and it appears to be resting.",
+    "objects": [
+      "viewer",
+      "its",
+      "tiger"
+    ],
+    "actions": [
+      "resting",
+      "lying",
+      "facing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The tiger is lying down, with its back facing the viewer, and it appears to be resting.",
+    "objects": [
+      "viewer",
+      "its",
+      "tiger"
+    ],
+    "actions": [
+      "resting",
+      "lying",
+      "facing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The tiger is lying down, with its back facing the viewer, and it appears to be resting.",
+    "objects": [
+      "viewer",
+      "its",
+      "tiger"
+    ],
+    "actions": [
+      "resting",
+      "lying",
+      "facing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The tiger is lying down, with its back facing the viewer, and it appears to be resting.",
+    "objects": [
+      "viewer",
+      "its",
+      "tiger"
+    ],
+    "actions": [
+      "resting",
+      "lying",
+      "facing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The individual is facing away from the camera, and there is a metal fence separating the person from the tiger.",
+    "objects": [
+      "metal",
+      "away",
+      "tiger",
+      "individual",
+      "fence",
+      "from",
+      "there"
+    ],
+    "actions": [
+      "separating",
+      "facing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The individual is facing away from the camera, and there is a metal fence separating the person from the tiger.",
+    "objects": [
+      "metal",
+      "away",
+      "tiger",
+      "individual",
+      "fence",
+      "from",
+      "there"
+    ],
+    "actions": [
+      "separating",
+      "facing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The individual is facing away from the camera, and there is a metal fence separating the person from the tiger.",
+    "objects": [
+      "metal",
+      "away",
+      "tiger",
+      "individual",
+      "fence",
+      "from",
+      "there"
+    ],
+    "actions": [
+      "separating",
+      "facing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The individual is facing away from the camera, and there is a metal fence separating the person from the tiger.",
+    "objects": [
+      "metal",
+      "away",
+      "tiger",
+      "individual",
+      "fence",
+      "from",
+      "there"
+    ],
+    "actions": [
+      "separating",
+      "facing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The tiger's position suggests it is relaxed and not in a hurry.",
+    "objects": [
+      "hurry",
+      "position",
+      "not"
+    ],
+    "actions": [
+      "relaxed",
+      "tiger's",
+      "suggests"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The tiger's position suggests it is relaxed and not in a hurry.",
+    "objects": [
+      "hurry",
+      "position",
+      "not"
+    ],
+    "actions": [
+      "relaxed",
+      "tiger's",
+      "suggests"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The tiger's position suggests it is relaxed and not in a hurry.",
+    "objects": [
+      "hurry",
+      "position",
+      "not"
+    ],
+    "actions": [
+      "relaxed",
+      "tiger's",
+      "suggests"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The tiger's position suggests it is relaxed and not in a hurry.",
+    "objects": [
+      "hurry",
+      "position",
+      "not"
+    ],
+    "actions": [
+      "relaxed",
+      "tiger's",
+      "suggests"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The person seems to be observing the tiger from a safe distance, possibly a zookeeper or visitor, and there is no interaction between the two.",
+    "objects": [
+      "between",
+      "there",
+      "two",
+      "distance",
+      "zookeeper",
+      "visitor",
+      "from",
+      "interaction"
+    ],
+    "actions": [
+      "observing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The person seems to be observing the tiger from a safe distance, possibly a zookeeper or visitor, and there is no interaction between the two.",
+    "objects": [
+      "between",
+      "there",
+      "two",
+      "distance",
+      "zookeeper",
+      "visitor",
+      "from",
+      "interaction"
+    ],
+    "actions": [
+      "observing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The person seems to be observing the tiger from a safe distance, possibly a zookeeper or visitor, and there is no interaction between the two.",
+    "objects": [
+      "between",
+      "there",
+      "two",
+      "distance",
+      "zookeeper",
+      "visitor",
+      "from",
+      "interaction"
+    ],
+    "actions": [
+      "observing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The person seems to be observing the tiger from a safe distance, possibly a zookeeper or visitor, and there is no interaction between the two.",
+    "objects": [
+      "between",
+      "there",
+      "two",
+      "distance",
+      "zookeeper",
+      "visitor",
+      "from",
+      "interaction"
+    ],
+    "actions": [
+      "observing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The tiger appears to be in a calm state and not showing any signs of agitation.",
+    "objects": [
+      "state",
+      "any",
+      "not",
+      "agitation",
+      "calm",
+      "tiger"
+    ],
+    "actions": [
+      "signs"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The tiger appears to be in a calm state and not showing any signs of agitation.",
+    "objects": [
+      "state",
+      "any",
+      "not",
+      "agitation",
+      "calm",
+      "tiger"
+    ],
+    "actions": [
+      "signs"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The tiger appears to be in a calm state and not showing any signs of agitation.",
+    "objects": [
+      "state",
+      "any",
+      "not",
+      "agitation",
+      "calm",
+      "tiger"
+    ],
+    "actions": [
+      "signs"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The tiger appears to be in a calm state and not showing any signs of agitation.",
+    "objects": [
+      "state",
+      "any",
+      "not",
+      "agitation",
+      "calm",
+      "tiger"
+    ],
+    "actions": [
+      "signs"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is peaceful with no immediate threats or actions to report.",
+    "objects": [
+      "peaceful",
+      "immediate",
+      "report"
+    ],
+    "actions": [
+      "actions",
+      "threats"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is peaceful with no immediate threats or actions to report.",
+    "objects": [
+      "peaceful",
+      "immediate",
+      "report"
+    ],
+    "actions": [
+      "actions",
+      "threats"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is peaceful with no immediate threats or actions to report.",
+    "objects": [
+      "peaceful",
+      "immediate",
+      "report"
+    ],
+    "actions": [
+      "actions",
+      "threats"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is peaceful with no immediate threats or actions to report.",
+    "objects": [
+      "peaceful",
+      "immediate",
+      "report"
+    ],
+    "actions": [
+      "actions",
+      "threats"
+    ],
+    "segment_id": 7
+  }
+]

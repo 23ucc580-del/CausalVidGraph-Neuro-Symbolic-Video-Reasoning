@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a group of people enjoying a day out on the water on a boat.",
+    "objects": [
+      "out",
+      "water",
+      "people",
+      "day",
+      "group",
+      "boat"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a group of people enjoying a day out on the water on a boat.",
+    "objects": [
+      "out",
+      "water",
+      "people",
+      "day",
+      "group",
+      "boat"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a group of people enjoying a day out on the water on a boat.",
+    "objects": [
+      "out",
+      "water",
+      "people",
+      "day",
+      "group",
+      "boat"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a group of people enjoying a day out on the water on a boat.",
+    "objects": [
+      "out",
+      "water",
+      "people",
+      "day",
+      "group",
+      "boat"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "At the beginning of the video, a man in a white shirt is holding a fishing rod, while a woman in a bikini is seen wearing sunglasses and smiling.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "while",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "beginning",
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "At the beginning of the video, a man in a white shirt is holding a fishing rod, while a woman in a bikini is seen wearing sunglasses and smiling.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "while",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "beginning",
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "At the beginning of the video, a man in a white shirt is holding a fishing rod, while a woman in a bikini is seen wearing sunglasses and smiling.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "while",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "beginning",
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "At the beginning of the video, a man in a white shirt is holding a fishing rod, while a woman in a bikini is seen wearing sunglasses and smiling.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "while",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "beginning",
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "In the background, a woman in a black shirt is wearing a hat, and a man in a blue shirt is wearing sunglasses.",
+    "objects": [
+      "woman",
+      "man",
+      "blue",
+      "hat",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sunglasses"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the background, a woman in a black shirt is wearing a hat, and a man in a blue shirt is wearing sunglasses.",
+    "objects": [
+      "woman",
+      "man",
+      "blue",
+      "hat",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sunglasses"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "In the background, a woman in a black shirt is wearing a hat, and a man in a blue shirt is wearing sunglasses.",
+    "objects": [
+      "woman",
+      "man",
+      "blue",
+      "hat",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sunglasses"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "In the background, a woman in a black shirt is wearing a hat, and a man in a blue shirt is wearing sunglasses.",
+    "objects": [
+      "woman",
+      "man",
+      "blue",
+      "hat",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sunglasses"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a white shirt is standing next to a woman in a bikini, holding a beer.",
+    "objects": [
+      "beer",
+      "woman",
+      "white",
+      "man",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a white shirt is standing next to a woman in a bikini, holding a beer.",
+    "objects": [
+      "beer",
+      "woman",
+      "white",
+      "man",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a white shirt is standing next to a woman in a bikini, holding a beer.",
+    "objects": [
+      "beer",
+      "woman",
+      "white",
+      "man",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a white shirt is standing next to a woman in a bikini, holding a beer.",
+    "objects": [
+      "beer",
+      "woman",
+      "white",
+      "man",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a hat is holding a fishing rod, and a man in a white shirt is holding a fish.",
+    "objects": [
+      "white",
+      "man",
+      "fish",
+      "rod",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a hat is holding a fishing rod, and a man in a white shirt is holding a fish.",
+    "objects": [
+      "white",
+      "man",
+      "fish",
+      "rod",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a hat is holding a fishing rod, and a man in a white shirt is holding a fish.",
+    "objects": [
+      "white",
+      "man",
+      "fish",
+      "rod",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a hat is holding a fishing rod, and a man in a white shirt is holding a fish.",
+    "objects": [
+      "white",
+      "man",
+      "fish",
+      "rod",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "As the video progresses, we see a woman in a white shirt wearing a hat and a man in a white shirt holding a fishing rod.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "see",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "progresses",
+      "fishing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "As the video progresses, we see a woman in a white shirt wearing a hat and a man in a white shirt holding a fishing rod.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "see",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "progresses",
+      "fishing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "As the video progresses, we see a woman in a white shirt wearing a hat and a man in a white shirt holding a fishing rod.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "see",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "progresses",
+      "fishing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "As the video progresses, we see a woman in a white shirt wearing a hat and a man in a white shirt holding a fishing rod.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "see",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "progresses",
+      "fishing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman in a bikini is holding a fishing rod, while a man in a hat and sunglasses is standing next to her.",
+    "objects": [
+      "woman",
+      "man",
+      "rod",
+      "hat",
+      "while",
+      "her",
+      "bikini"
+    ],
+    "actions": [
+      "sunglasses",
+      "holding",
+      "standing",
+      "fishing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman in a bikini is holding a fishing rod, while a man in a hat and sunglasses is standing next to her.",
+    "objects": [
+      "woman",
+      "man",
+      "rod",
+      "hat",
+      "while",
+      "her",
+      "bikini"
+    ],
+    "actions": [
+      "sunglasses",
+      "holding",
+      "standing",
+      "fishing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman in a bikini is holding a fishing rod, while a man in a hat and sunglasses is standing next to her.",
+    "objects": [
+      "woman",
+      "man",
+      "rod",
+      "hat",
+      "while",
+      "her",
+      "bikini"
+    ],
+    "actions": [
+      "sunglasses",
+      "holding",
+      "standing",
+      "fishing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman in a bikini is holding a fishing rod, while a man in a hat and sunglasses is standing next to her.",
+    "objects": [
+      "woman",
+      "man",
+      "rod",
+      "hat",
+      "while",
+      "her",
+      "bikini"
+    ],
+    "actions": [
+      "sunglasses",
+      "holding",
+      "standing",
+      "fishing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "A woman in a bikini is holding a fishing rod and a man in a white shirt is wearing sunglasses.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "sunglasses",
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "A woman in a bikini is holding a fishing rod and a man in a white shirt is wearing sunglasses.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "sunglasses",
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "A woman in a bikini is holding a fishing rod and a man in a white shirt is wearing sunglasses.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "sunglasses",
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "A woman in a bikini is holding a fishing rod and a man in a white shirt is wearing sunglasses.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "rod",
+      "shirt",
+      "bikini"
+    ],
+    "actions": [
+      "sunglasses",
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 7
+  }
+]

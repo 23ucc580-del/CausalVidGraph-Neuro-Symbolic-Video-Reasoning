@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man wearing a gray shirt and a black hat, sitting in a chair and holding a baby.",
+    "objects": [
+      "gray",
+      "man",
+      "shirt",
+      "baby",
+      "chair",
+      "black",
+      "see",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man wearing a gray shirt and a black hat, sitting in a chair and holding a baby.",
+    "objects": [
+      "gray",
+      "man",
+      "shirt",
+      "baby",
+      "chair",
+      "black",
+      "see",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man wearing a gray shirt and a black hat, sitting in a chair and holding a baby.",
+    "objects": [
+      "gray",
+      "man",
+      "shirt",
+      "baby",
+      "chair",
+      "black",
+      "see",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man wearing a gray shirt and a black hat, sitting in a chair and holding a baby.",
+    "objects": [
+      "gray",
+      "man",
+      "shirt",
+      "baby",
+      "chair",
+      "black",
+      "see",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The baby is wearing a bib with green, yellow, and blue designs.",
+    "objects": [
+      "blue",
+      "bib",
+      "green",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "designs"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby is wearing a bib with green, yellow, and blue designs.",
+    "objects": [
+      "blue",
+      "bib",
+      "green",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "designs"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby is wearing a bib with green, yellow, and blue designs.",
+    "objects": [
+      "blue",
+      "bib",
+      "green",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "designs"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby is wearing a bib with green, yellow, and blue designs.",
+    "objects": [
+      "blue",
+      "bib",
+      "green",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "designs"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby is eating something and seems to be happy, as it is smiling and laughing.",
+    "objects": [
+      "happy",
+      "baby"
+    ],
+    "actions": [
+      "something",
+      "laughing",
+      "smiling",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby is eating something and seems to be happy, as it is smiling and laughing.",
+    "objects": [
+      "happy",
+      "baby"
+    ],
+    "actions": [
+      "something",
+      "laughing",
+      "smiling",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The baby is eating something and seems to be happy, as it is smiling and laughing.",
+    "objects": [
+      "happy",
+      "baby"
+    ],
+    "actions": [
+      "something",
+      "laughing",
+      "smiling",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The baby is eating something and seems to be happy, as it is smiling and laughing.",
+    "objects": [
+      "happy",
+      "baby"
+    ],
+    "actions": [
+      "something",
+      "laughing",
+      "smiling",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is also laughing and is holding the baby's hand.",
+    "objects": [
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "baby's",
+      "laughing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is also laughing and is holding the baby's hand.",
+    "objects": [
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "baby's",
+      "laughing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man is also laughing and is holding the baby's hand.",
+    "objects": [
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "baby's",
+      "laughing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is also laughing and is holding the baby's hand.",
+    "objects": [
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "baby's",
+      "laughing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby is sitting in a high chair and appears to be enjoying the food.",
+    "objects": [
+      "chair",
+      "food",
+      "high",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby is sitting in a high chair and appears to be enjoying the food.",
+    "objects": [
+      "chair",
+      "food",
+      "high",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The baby is sitting in a high chair and appears to be enjoying the food.",
+    "objects": [
+      "chair",
+      "food",
+      "high",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The baby is sitting in a high chair and appears to be enjoying the food.",
+    "objects": [
+      "chair",
+      "food",
+      "high",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is leaning over the baby, and the baby is reaching out towards the man's face.",
+    "objects": [
+      "over",
+      "man",
+      "out",
+      "baby",
+      "face"
+    ],
+    "actions": [
+      "man's",
+      "leaning",
+      "towards",
+      "reaching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is leaning over the baby, and the baby is reaching out towards the man's face.",
+    "objects": [
+      "over",
+      "man",
+      "out",
+      "baby",
+      "face"
+    ],
+    "actions": [
+      "man's",
+      "leaning",
+      "towards",
+      "reaching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is leaning over the baby, and the baby is reaching out towards the man's face.",
+    "objects": [
+      "over",
+      "man",
+      "out",
+      "baby",
+      "face"
+    ],
+    "actions": [
+      "man's",
+      "leaning",
+      "towards",
+      "reaching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is leaning over the baby, and the baby is reaching out towards the man's face.",
+    "objects": [
+      "over",
+      "man",
+      "out",
+      "baby",
+      "face"
+    ],
+    "actions": [
+      "man's",
+      "leaning",
+      "towards",
+      "reaching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man and the baby are in a cozy and intimate interaction, with the man's face very close to the baby's.",
+    "objects": [
+      "cozy",
+      "interaction",
+      "very",
+      "man",
+      "intimate",
+      "baby",
+      "close",
+      "face"
+    ],
+    "actions": [
+      "baby's",
+      "man's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man and the baby are in a cozy and intimate interaction, with the man's face very close to the baby's.",
+    "objects": [
+      "cozy",
+      "interaction",
+      "very",
+      "man",
+      "intimate",
+      "baby",
+      "close",
+      "face"
+    ],
+    "actions": [
+      "baby's",
+      "man's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man and the baby are in a cozy and intimate interaction, with the man's face very close to the baby's.",
+    "objects": [
+      "cozy",
+      "interaction",
+      "very",
+      "man",
+      "intimate",
+      "baby",
+      "close",
+      "face"
+    ],
+    "actions": [
+      "baby's",
+      "man's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man and the baby are in a cozy and intimate interaction, with the man's face very close to the baby's.",
+    "objects": [
+      "cozy",
+      "interaction",
+      "very",
+      "man",
+      "intimate",
+      "baby",
+      "close",
+      "face"
+    ],
+    "actions": [
+      "baby's",
+      "man's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The baby seems to be feeding the man a bite of its food, and the man is smiling at the baby.",
+    "objects": [
+      "man",
+      "its",
+      "food",
+      "baby",
+      "bite"
+    ],
+    "actions": [
+      "smiling",
+      "feeding",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The baby seems to be feeding the man a bite of its food, and the man is smiling at the baby.",
+    "objects": [
+      "man",
+      "its",
+      "food",
+      "baby",
+      "bite"
+    ],
+    "actions": [
+      "smiling",
+      "feeding",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby seems to be feeding the man a bite of its food, and the man is smiling at the baby.",
+    "objects": [
+      "man",
+      "its",
+      "food",
+      "baby",
+      "bite"
+    ],
+    "actions": [
+      "smiling",
+      "feeding",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby seems to be feeding the man a bite of its food, and the man is smiling at the baby.",
+    "objects": [
+      "man",
+      "its",
+      "food",
+      "baby",
+      "bite"
+    ],
+    "actions": [
+      "smiling",
+      "feeding",
+      "seems"
+    ],
+    "segment_id": 7
+  }
+]

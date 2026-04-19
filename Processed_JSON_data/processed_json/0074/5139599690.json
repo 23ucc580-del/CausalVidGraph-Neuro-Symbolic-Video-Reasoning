@@ -1,0 +1,604 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a group of young people engaged in a woodworking project, with various tools and materials laid out on a large wooden table.",
+    "objects": [
+      "out",
+      "people",
+      "wooden",
+      "project",
+      "group",
+      "young",
+      "table",
+      "laid"
+    ],
+    "actions": [
+      "woodworking",
+      "materials",
+      "tools",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a group of young people engaged in a woodworking project, with various tools and materials laid out on a large wooden table.",
+    "objects": [
+      "out",
+      "people",
+      "wooden",
+      "project",
+      "group",
+      "young",
+      "table",
+      "laid"
+    ],
+    "actions": [
+      "woodworking",
+      "materials",
+      "tools",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a group of young people engaged in a woodworking project, with various tools and materials laid out on a large wooden table.",
+    "objects": [
+      "out",
+      "people",
+      "wooden",
+      "project",
+      "group",
+      "young",
+      "table",
+      "laid"
+    ],
+    "actions": [
+      "woodworking",
+      "materials",
+      "tools",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a close-up shot of the table, showing a variety of tools and materials, including a power drill, a saw, a hammer, and a metal bar.",
+    "objects": [
+      "drill",
+      "metal",
+      "hammer",
+      "saw",
+      "bar",
+      "power",
+      "table",
+      "variety"
+    ],
+    "actions": [
+      "tools",
+      "opens",
+      "materials"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with a close-up shot of the table, showing a variety of tools and materials, including a power drill, a saw, a hammer, and a metal bar.",
+    "objects": [
+      "drill",
+      "metal",
+      "hammer",
+      "saw",
+      "bar",
+      "power",
+      "table",
+      "variety"
+    ],
+    "actions": [
+      "tools",
+      "opens",
+      "materials"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with a close-up shot of the table, showing a variety of tools and materials, including a power drill, a saw, a hammer, and a metal bar.",
+    "objects": [
+      "drill",
+      "metal",
+      "hammer",
+      "saw",
+      "bar",
+      "power",
+      "table",
+      "variety"
+    ],
+    "actions": [
+      "tools",
+      "opens",
+      "materials"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans out to reveal several individuals, including a boy in a blue hoodie and a boy in a purple shirt, who are actively working on the project.",
+    "objects": [
+      "out",
+      "several",
+      "pans",
+      "purple",
+      "who",
+      "hoodie",
+      "reveal",
+      "blue"
+    ],
+    "actions": [
+      "working",
+      "individuals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then pans out to reveal several individuals, including a boy in a blue hoodie and a boy in a purple shirt, who are actively working on the project.",
+    "objects": [
+      "out",
+      "several",
+      "pans",
+      "purple",
+      "who",
+      "hoodie",
+      "reveal",
+      "blue"
+    ],
+    "actions": [
+      "working",
+      "individuals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then pans out to reveal several individuals, including a boy in a blue hoodie and a boy in a purple shirt, who are actively working on the project.",
+    "objects": [
+      "out",
+      "several",
+      "pans",
+      "purple",
+      "who",
+      "hoodie",
+      "reveal",
+      "blue"
+    ],
+    "actions": [
+      "working",
+      "individuals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The boy in the blue hoodie is holding a tool, while the boy in the purple shirt is holding a metal bar.",
+    "objects": [
+      "metal",
+      "tool",
+      "purple",
+      "hoodie",
+      "blue",
+      "bar",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The boy in the blue hoodie is holding a tool, while the boy in the purple shirt is holding a metal bar.",
+    "objects": [
+      "metal",
+      "tool",
+      "purple",
+      "hoodie",
+      "blue",
+      "bar",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The boy in the blue hoodie is holding a tool, while the boy in the purple shirt is holding a metal bar.",
+    "objects": [
+      "metal",
+      "tool",
+      "purple",
+      "hoodie",
+      "blue",
+      "bar",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then zooms in on the boy in the purple shirt, who is using a power drill to work on the project.",
+    "objects": [
+      "drill",
+      "work",
+      "purple",
+      "who",
+      "project",
+      "then",
+      "power",
+      "shirt"
+    ],
+    "actions": [
+      "zooms",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then zooms in on the boy in the purple shirt, who is using a power drill to work on the project.",
+    "objects": [
+      "drill",
+      "work",
+      "purple",
+      "who",
+      "project",
+      "then",
+      "power",
+      "shirt"
+    ],
+    "actions": [
+      "zooms",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then zooms in on the boy in the purple shirt, who is using a power drill to work on the project.",
+    "objects": [
+      "drill",
+      "work",
+      "purple",
+      "who",
+      "project",
+      "then",
+      "power",
+      "shirt"
+    ],
+    "actions": [
+      "zooms",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The boy in the blue hoodie is seen holding a metal bar, and the boy in the purple shirt is also holding a metal bar.",
+    "objects": [
+      "metal",
+      "purple",
+      "hoodie",
+      "blue",
+      "bar",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy in the blue hoodie is seen holding a metal bar, and the boy in the purple shirt is also holding a metal bar.",
+    "objects": [
+      "metal",
+      "purple",
+      "hoodie",
+      "blue",
+      "bar",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy in the blue hoodie is seen holding a metal bar, and the boy in the purple shirt is also holding a metal bar.",
+    "objects": [
+      "metal",
+      "purple",
+      "hoodie",
+      "blue",
+      "bar",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then focuses on the boy in the blue hoodie, who is using a saw to cut a piece of wood.",
+    "objects": [
+      "wood",
+      "piece",
+      "cut",
+      "who",
+      "hoodie",
+      "blue",
+      "saw",
+      "then"
+    ],
+    "actions": [
+      "focuses",
+      "using"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then focuses on the boy in the blue hoodie, who is using a saw to cut a piece of wood.",
+    "objects": [
+      "wood",
+      "piece",
+      "cut",
+      "who",
+      "hoodie",
+      "blue",
+      "saw",
+      "then"
+    ],
+    "actions": [
+      "focuses",
+      "using"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then focuses on the boy in the blue hoodie, who is using a saw to cut a piece of wood.",
+    "objects": [
+      "wood",
+      "piece",
+      "cut",
+      "who",
+      "hoodie",
+      "blue",
+      "saw",
+      "then"
+    ],
+    "actions": [
+      "focuses",
+      "using"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The boy in the purple shirt is also using a saw to cut a piece of wood.",
+    "objects": [
+      "wood",
+      "piece",
+      "cut",
+      "purple",
+      "saw",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The boy in the purple shirt is also using a saw to cut a piece of wood.",
+    "objects": [
+      "wood",
+      "piece",
+      "cut",
+      "purple",
+      "saw",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The boy in the purple shirt is also using a saw to cut a piece of wood.",
+    "objects": [
+      "wood",
+      "piece",
+      "cut",
+      "purple",
+      "saw",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Throughout the video, the boys are seen working diligently, using tools such as a power drill and a saw to cut wood, with a metal bar held by one of them.",
+    "objects": [
+      "drill",
+      "wood",
+      "such",
+      "metal",
+      "cut",
+      "held",
+      "them",
+      "boys"
+    ],
+    "actions": [
+      "tools",
+      "working",
+      "using"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Throughout the video, the boys are seen working diligently, using tools such as a power drill and a saw to cut wood, with a metal bar held by one of them.",
+    "objects": [
+      "drill",
+      "wood",
+      "such",
+      "metal",
+      "cut",
+      "held",
+      "them",
+      "boys"
+    ],
+    "actions": [
+      "tools",
+      "working",
+      "using"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Throughout the video, the boys are seen working diligently, using tools such as a power drill and a saw to cut wood, with a metal bar held by one of them.",
+    "objects": [
+      "drill",
+      "wood",
+      "such",
+      "metal",
+      "cut",
+      "held",
+      "them",
+      "boys"
+    ],
+    "actions": [
+      "tools",
+      "working",
+      "using"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera captures the boys in various positions, with some standing and others sitting, and they are all focused on their tasks.",
+    "objects": [
+      "some",
+      "their",
+      "all",
+      "boys",
+      "they"
+    ],
+    "actions": [
+      "focused",
+      "tasks",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera captures the boys in various positions, with some standing and others sitting, and they are all focused on their tasks.",
+    "objects": [
+      "some",
+      "their",
+      "all",
+      "boys",
+      "they"
+    ],
+    "actions": [
+      "focused",
+      "tasks",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera captures the boys in various positions, with some standing and others sitting, and they are all focused on their tasks.",
+    "objects": [
+      "some",
+      "their",
+      "all",
+      "boys",
+      "they"
+    ],
+    "actions": [
+      "focused",
+      "tasks",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The video provides a detailed view of the tools and materials being used, as well as the actions of the boys, painting a vivid picture of a collaborative woodworking project.",
+    "objects": [
+      "collaborative",
+      "vivid",
+      "boys",
+      "project",
+      "picture",
+      "well"
+    ],
+    "actions": [
+      "detailed",
+      "actions",
+      "woodworking",
+      "materials"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The video provides a detailed view of the tools and materials being used, as well as the actions of the boys, painting a vivid picture of a collaborative woodworking project.",
+    "objects": [
+      "collaborative",
+      "vivid",
+      "boys",
+      "project",
+      "picture",
+      "well"
+    ],
+    "actions": [
+      "detailed",
+      "actions",
+      "woodworking",
+      "materials"
+    ],
+    "segment_id": 10
+  }
+]

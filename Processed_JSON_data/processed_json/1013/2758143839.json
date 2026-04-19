@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman is seen performing on stage while a group of men surrounds her.",
+    "objects": [
+      "woman",
+      "while",
+      "men",
+      "her",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "surrounds",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman is seen performing on stage while a group of men surrounds her.",
+    "objects": [
+      "woman",
+      "while",
+      "men",
+      "her",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "surrounds",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman is seen performing on stage while a group of men surrounds her.",
+    "objects": [
+      "woman",
+      "while",
+      "men",
+      "her",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "surrounds",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman is seen performing on stage while a group of men surrounds her.",
+    "objects": [
+      "woman",
+      "while",
+      "men",
+      "her",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "surrounds",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is holding a large snake that is being held by another woman.",
+    "objects": [
+      "large",
+      "she",
+      "woman",
+      "snake",
+      "that",
+      "held"
+    ],
+    "actions": [
+      "holding",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is holding a large snake that is being held by another woman.",
+    "objects": [
+      "large",
+      "she",
+      "woman",
+      "snake",
+      "that",
+      "held"
+    ],
+    "actions": [
+      "holding",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is holding a large snake that is being held by another woman.",
+    "objects": [
+      "large",
+      "she",
+      "woman",
+      "snake",
+      "that",
+      "held"
+    ],
+    "actions": [
+      "holding",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is holding a large snake that is being held by another woman.",
+    "objects": [
+      "large",
+      "she",
+      "woman",
+      "snake",
+      "that",
+      "held"
+    ],
+    "actions": [
+      "holding",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The snake is wrapped around her arm and is biting her arm.",
+    "objects": [
+      "snake",
+      "around",
+      "her",
+      "arm"
+    ],
+    "actions": [
+      "biting",
+      "wrapped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The snake is wrapped around her arm and is biting her arm.",
+    "objects": [
+      "snake",
+      "around",
+      "her",
+      "arm"
+    ],
+    "actions": [
+      "biting",
+      "wrapped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The snake is wrapped around her arm and is biting her arm.",
+    "objects": [
+      "snake",
+      "around",
+      "her",
+      "arm"
+    ],
+    "actions": [
+      "biting",
+      "wrapped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The snake is wrapped around her arm and is biting her arm.",
+    "objects": [
+      "snake",
+      "around",
+      "her",
+      "arm"
+    ],
+    "actions": [
+      "biting",
+      "wrapped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is wearing a blue hoodie and appears to be screaming in pain as the snake bites her.",
+    "objects": [
+      "woman",
+      "blue",
+      "snake",
+      "her",
+      "hoodie",
+      "pain"
+    ],
+    "actions": [
+      "wearing",
+      "screaming",
+      "bites"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is wearing a blue hoodie and appears to be screaming in pain as the snake bites her.",
+    "objects": [
+      "woman",
+      "blue",
+      "snake",
+      "her",
+      "hoodie",
+      "pain"
+    ],
+    "actions": [
+      "wearing",
+      "screaming",
+      "bites"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is wearing a blue hoodie and appears to be screaming in pain as the snake bites her.",
+    "objects": [
+      "woman",
+      "blue",
+      "snake",
+      "her",
+      "hoodie",
+      "pain"
+    ],
+    "actions": [
+      "wearing",
+      "screaming",
+      "bites"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is wearing a blue hoodie and appears to be screaming in pain as the snake bites her.",
+    "objects": [
+      "woman",
+      "blue",
+      "snake",
+      "her",
+      "hoodie",
+      "pain"
+    ],
+    "actions": [
+      "wearing",
+      "screaming",
+      "bites"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The other woman is wearing a black shirt and holding the snake.",
+    "objects": [
+      "other",
+      "woman",
+      "black",
+      "shirt",
+      "snake"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The other woman is wearing a black shirt and holding the snake.",
+    "objects": [
+      "other",
+      "woman",
+      "black",
+      "shirt",
+      "snake"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The other woman is wearing a black shirt and holding the snake.",
+    "objects": [
+      "other",
+      "woman",
+      "black",
+      "shirt",
+      "snake"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The other woman is wearing a black shirt and holding the snake.",
+    "objects": [
+      "other",
+      "woman",
+      "black",
+      "shirt",
+      "snake"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The men surrounding her are dressed in black and appear to be shocked and concerned by the situation.",
+    "objects": [
+      "appear",
+      "situation",
+      "black",
+      "men",
+      "her"
+    ],
+    "actions": [
+      "dressed",
+      "shocked",
+      "surrounding",
+      "concerned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The men surrounding her are dressed in black and appear to be shocked and concerned by the situation.",
+    "objects": [
+      "appear",
+      "situation",
+      "black",
+      "men",
+      "her"
+    ],
+    "actions": [
+      "dressed",
+      "shocked",
+      "surrounding",
+      "concerned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The men surrounding her are dressed in black and appear to be shocked and concerned by the situation.",
+    "objects": [
+      "appear",
+      "situation",
+      "black",
+      "men",
+      "her"
+    ],
+    "actions": [
+      "dressed",
+      "shocked",
+      "surrounding",
+      "concerned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The men surrounding her are dressed in black and appear to be shocked and concerned by the situation.",
+    "objects": [
+      "appear",
+      "situation",
+      "black",
+      "men",
+      "her"
+    ],
+    "actions": [
+      "dressed",
+      "shocked",
+      "surrounding",
+      "concerned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman holding the snake is also wearing a black shirt and has a surprised expression on her face.",
+    "objects": [
+      "woman",
+      "black",
+      "face",
+      "has",
+      "shirt",
+      "snake",
+      "her",
+      "expression"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "surprised"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman holding the snake is also wearing a black shirt and has a surprised expression on her face.",
+    "objects": [
+      "woman",
+      "black",
+      "face",
+      "has",
+      "shirt",
+      "snake",
+      "her",
+      "expression"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "surprised"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman holding the snake is also wearing a black shirt and has a surprised expression on her face.",
+    "objects": [
+      "woman",
+      "black",
+      "face",
+      "has",
+      "shirt",
+      "snake",
+      "her",
+      "expression"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "surprised"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman holding the snake is also wearing a black shirt and has a surprised expression on her face.",
+    "objects": [
+      "woman",
+      "black",
+      "face",
+      "has",
+      "shirt",
+      "snake",
+      "her",
+      "expression"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "surprised"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene takes place in a dark room with only a spotlight shining on the woman and the snake.",
+    "objects": [
+      "place",
+      "woman",
+      "spotlight",
+      "dark",
+      "snake",
+      "only",
+      "room"
+    ],
+    "actions": [
+      "shining",
+      "takes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene takes place in a dark room with only a spotlight shining on the woman and the snake.",
+    "objects": [
+      "place",
+      "woman",
+      "spotlight",
+      "dark",
+      "snake",
+      "only",
+      "room"
+    ],
+    "actions": [
+      "shining",
+      "takes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene takes place in a dark room with only a spotlight shining on the woman and the snake.",
+    "objects": [
+      "place",
+      "woman",
+      "spotlight",
+      "dark",
+      "snake",
+      "only",
+      "room"
+    ],
+    "actions": [
+      "shining",
+      "takes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene takes place in a dark room with only a spotlight shining on the woman and the snake.",
+    "objects": [
+      "place",
+      "woman",
+      "spotlight",
+      "dark",
+      "snake",
+      "only",
+      "room"
+    ],
+    "actions": [
+      "shining",
+      "takes"
+    ],
+    "segment_id": 7
+  }
+]

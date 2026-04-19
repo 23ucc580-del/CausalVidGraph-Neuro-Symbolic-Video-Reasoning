@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a peaceful rural scene with a curvy road and a small car driving down it, surrounded by lush greenery.",
+    "objects": [
+      "curvy",
+      "small",
+      "greenery",
+      "lush",
+      "peaceful",
+      "see",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a peaceful rural scene with a curvy road and a small car driving down it, surrounded by lush greenery.",
+    "objects": [
+      "curvy",
+      "small",
+      "greenery",
+      "lush",
+      "peaceful",
+      "see",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a peaceful rural scene with a curvy road and a small car driving down it, surrounded by lush greenery.",
+    "objects": [
+      "curvy",
+      "small",
+      "greenery",
+      "lush",
+      "peaceful",
+      "see",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a peaceful rural scene with a curvy road and a small car driving down it, surrounded by lush greenery.",
+    "objects": [
+      "curvy",
+      "small",
+      "greenery",
+      "lush",
+      "peaceful",
+      "see",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The car is blue and is moving swiftly, following the curve of the road as it heads towards the right side of the frame.",
+    "objects": [
+      "blue",
+      "curve",
+      "car",
+      "side",
+      "road",
+      "swiftly"
+    ],
+    "actions": [
+      "towards",
+      "moving",
+      "following",
+      "heads"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The car is blue and is moving swiftly, following the curve of the road as it heads towards the right side of the frame.",
+    "objects": [
+      "blue",
+      "curve",
+      "car",
+      "side",
+      "road",
+      "swiftly"
+    ],
+    "actions": [
+      "towards",
+      "moving",
+      "following",
+      "heads"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The car is blue and is moving swiftly, following the curve of the road as it heads towards the right side of the frame.",
+    "objects": [
+      "blue",
+      "curve",
+      "car",
+      "side",
+      "road",
+      "swiftly"
+    ],
+    "actions": [
+      "towards",
+      "moving",
+      "following",
+      "heads"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The car is blue and is moving swiftly, following the curve of the road as it heads towards the right side of the frame.",
+    "objects": [
+      "blue",
+      "curve",
+      "car",
+      "side",
+      "road",
+      "swiftly"
+    ],
+    "actions": [
+      "towards",
+      "moving",
+      "following",
+      "heads"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The road is bordered by a lush green hillside and a grassy area, with some bushes on the left side.",
+    "objects": [
+      "green",
+      "lush",
+      "some",
+      "grassy",
+      "hillside",
+      "side",
+      "road",
+      "area"
+    ],
+    "actions": [
+      "bushes",
+      "bordered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The road is bordered by a lush green hillside and a grassy area, with some bushes on the left side.",
+    "objects": [
+      "green",
+      "lush",
+      "some",
+      "grassy",
+      "hillside",
+      "side",
+      "road",
+      "area"
+    ],
+    "actions": [
+      "bushes",
+      "bordered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The road is bordered by a lush green hillside and a grassy area, with some bushes on the left side.",
+    "objects": [
+      "green",
+      "lush",
+      "some",
+      "grassy",
+      "hillside",
+      "side",
+      "road",
+      "area"
+    ],
+    "actions": [
+      "bushes",
+      "bordered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The road is bordered by a lush green hillside and a grassy area, with some bushes on the left side.",
+    "objects": [
+      "green",
+      "lush",
+      "some",
+      "grassy",
+      "hillside",
+      "side",
+      "road",
+      "area"
+    ],
+    "actions": [
+      "bushes",
+      "bordered"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "In the foreground, we see a small white car in the left lane, which is moving in the opposite direction.",
+    "objects": [
+      "white",
+      "small",
+      "lane",
+      "see",
+      "which",
+      "car",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "moving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "In the foreground, we see a small white car in the left lane, which is moving in the opposite direction.",
+    "objects": [
+      "white",
+      "small",
+      "lane",
+      "see",
+      "which",
+      "car",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "moving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "In the foreground, we see a small white car in the left lane, which is moving in the opposite direction.",
+    "objects": [
+      "white",
+      "small",
+      "lane",
+      "see",
+      "which",
+      "car",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "moving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "In the foreground, we see a small white car in the left lane, which is moving in the opposite direction.",
+    "objects": [
+      "white",
+      "small",
+      "lane",
+      "see",
+      "which",
+      "car",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "moving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "It is driving towards the left side of the frame.",
+    "objects": [
+      "side"
+    ],
+    "actions": [
+      "driving",
+      "towards"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "It is driving towards the left side of the frame.",
+    "objects": [
+      "side"
+    ],
+    "actions": [
+      "driving",
+      "towards"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "It is driving towards the left side of the frame.",
+    "objects": [
+      "side"
+    ],
+    "actions": [
+      "driving",
+      "towards"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "It is driving towards the left side of the frame.",
+    "objects": [
+      "side"
+    ],
+    "actions": [
+      "driving",
+      "towards"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The car's driver is wearing a black jacket and a white shirt.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "driver"
+    ],
+    "actions": [
+      "wearing",
+      "car's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The car's driver is wearing a black jacket and a white shirt.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "driver"
+    ],
+    "actions": [
+      "wearing",
+      "car's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The car's driver is wearing a black jacket and a white shirt.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "driver"
+    ],
+    "actions": [
+      "wearing",
+      "car's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The car's driver is wearing a black jacket and a white shirt.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "driver"
+    ],
+    "actions": [
+      "wearing",
+      "car's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The road appears to be empty except for these two cars, which are the only objects in motion.",
+    "objects": [
+      "motion",
+      "two",
+      "cars",
+      "except",
+      "only",
+      "which",
+      "road",
+      "these"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The road appears to be empty except for these two cars, which are the only objects in motion.",
+    "objects": [
+      "motion",
+      "two",
+      "cars",
+      "except",
+      "only",
+      "which",
+      "road",
+      "these"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The road appears to be empty except for these two cars, which are the only objects in motion.",
+    "objects": [
+      "motion",
+      "two",
+      "cars",
+      "except",
+      "only",
+      "which",
+      "road",
+      "these"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The road appears to be empty except for these two cars, which are the only objects in motion.",
+    "objects": [
+      "motion",
+      "two",
+      "cars",
+      "except",
+      "only",
+      "which",
+      "road",
+      "these"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The video captures the essence of a serene rural drive, with the blue car taking the lead.",
+    "objects": [
+      "drive",
+      "serene",
+      "blue",
+      "car",
+      "lead",
+      "essence",
+      "rural"
+    ],
+    "actions": [
+      "taking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The video captures the essence of a serene rural drive, with the blue car taking the lead.",
+    "objects": [
+      "drive",
+      "serene",
+      "blue",
+      "car",
+      "lead",
+      "essence",
+      "rural"
+    ],
+    "actions": [
+      "taking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures the essence of a serene rural drive, with the blue car taking the lead.",
+    "objects": [
+      "drive",
+      "serene",
+      "blue",
+      "car",
+      "lead",
+      "essence",
+      "rural"
+    ],
+    "actions": [
+      "taking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures the essence of a serene rural drive, with the blue car taking the lead.",
+    "objects": [
+      "drive",
+      "serene",
+      "blue",
+      "car",
+      "lead",
+      "essence",
+      "rural"
+    ],
+    "actions": [
+      "taking"
+    ],
+    "segment_id": 7
+  }
+]

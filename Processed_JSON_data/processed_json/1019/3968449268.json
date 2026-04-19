@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a man in a ceramics workshop working on a pottery wheel, shaping a clay pot.",
+    "objects": [
+      "pot",
+      "workshop",
+      "wheel",
+      "pottery",
+      "clay",
+      "man"
+    ],
+    "actions": [
+      "shaping",
+      "working",
+      "ceramics"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a man in a ceramics workshop working on a pottery wheel, shaping a clay pot.",
+    "objects": [
+      "pot",
+      "workshop",
+      "wheel",
+      "pottery",
+      "clay",
+      "man"
+    ],
+    "actions": [
+      "shaping",
+      "working",
+      "ceramics"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a man in a ceramics workshop working on a pottery wheel, shaping a clay pot.",
+    "objects": [
+      "pot",
+      "workshop",
+      "wheel",
+      "pottery",
+      "clay",
+      "man"
+    ],
+    "actions": [
+      "shaping",
+      "working",
+      "ceramics"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video shows a man in a ceramics workshop working on a pottery wheel, shaping a clay pot.",
+    "objects": [
+      "pot",
+      "workshop",
+      "wheel",
+      "pottery",
+      "clay",
+      "man"
+    ],
+    "actions": [
+      "shaping",
+      "working",
+      "ceramics"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is wearing a blue shirt and a white apron.",
+    "objects": [
+      "blue",
+      "white",
+      "shirt",
+      "apron"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a blue shirt and a white apron.",
+    "objects": [
+      "blue",
+      "white",
+      "shirt",
+      "apron"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is wearing a blue shirt and a white apron.",
+    "objects": [
+      "blue",
+      "white",
+      "shirt",
+      "apron"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is wearing a blue shirt and a white apron.",
+    "objects": [
+      "blue",
+      "white",
+      "shirt",
+      "apron"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another man is seen working on a pot nearby, wearing a blue shirt and a white hat.",
+    "objects": [
+      "white",
+      "pot",
+      "blue",
+      "shirt",
+      "hat",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "working"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another man is seen working on a pot nearby, wearing a blue shirt and a white hat.",
+    "objects": [
+      "white",
+      "pot",
+      "blue",
+      "shirt",
+      "hat",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "working"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another man is seen working on a pot nearby, wearing a blue shirt and a white hat.",
+    "objects": [
+      "white",
+      "pot",
+      "blue",
+      "shirt",
+      "hat",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "working"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another man is seen working on a pot nearby, wearing a blue shirt and a white hat.",
+    "objects": [
+      "white",
+      "pot",
+      "blue",
+      "shirt",
+      "hat",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "working"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The video also shows a person in a white apron wearing a black hat and a white shirt, standing next to the man shaping the pottery.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "apron",
+      "hat",
+      "pottery",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shaping",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The video also shows a person in a white apron wearing a black hat and a white shirt, standing next to the man shaping the pottery.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "apron",
+      "hat",
+      "pottery",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shaping",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The video also shows a person in a white apron wearing a black hat and a white shirt, standing next to the man shaping the pottery.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "apron",
+      "hat",
+      "pottery",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shaping",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The video also shows a person in a white apron wearing a black hat and a white shirt, standing next to the man shaping the pottery.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "apron",
+      "hat",
+      "pottery",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shaping",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman is seen wearing a black dress and a white apron, standing next to a shelf of pottery.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "apron",
+      "shelf",
+      "pottery",
+      "dress"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman is seen wearing a black dress and a white apron, standing next to a shelf of pottery.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "apron",
+      "shelf",
+      "pottery",
+      "dress"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman is seen wearing a black dress and a white apron, standing next to a shelf of pottery.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "apron",
+      "shelf",
+      "pottery",
+      "dress"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman is seen wearing a black dress and a white apron, standing next to a shelf of pottery.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "apron",
+      "shelf",
+      "pottery",
+      "dress"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Additionally, there is a man in a blue shirt and a white hat, who is standing in front of a pottery shelf.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "shelf",
+      "who",
+      "hat",
+      "pottery"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Additionally, there is a man in a blue shirt and a white hat, who is standing in front of a pottery shelf.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "shelf",
+      "who",
+      "hat",
+      "pottery"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Additionally, there is a man in a blue shirt and a white hat, who is standing in front of a pottery shelf.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "shelf",
+      "who",
+      "hat",
+      "pottery"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Additionally, there is a man in a blue shirt and a white hat, who is standing in front of a pottery shelf.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "shelf",
+      "who",
+      "hat",
+      "pottery"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The workshop is filled with pottery shelves displaying various art pieces, and a man in a black hat and a white shirt is sitting on a stool.",
+    "objects": [
+      "white",
+      "stool",
+      "black",
+      "shirt",
+      "workshop",
+      "hat",
+      "pottery",
+      "man"
+    ],
+    "actions": [
+      "displaying",
+      "sitting",
+      "filled",
+      "shelves"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The workshop is filled with pottery shelves displaying various art pieces, and a man in a black hat and a white shirt is sitting on a stool.",
+    "objects": [
+      "white",
+      "stool",
+      "black",
+      "shirt",
+      "workshop",
+      "hat",
+      "pottery",
+      "man"
+    ],
+    "actions": [
+      "displaying",
+      "sitting",
+      "filled",
+      "shelves"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The workshop is filled with pottery shelves displaying various art pieces, and a man in a black hat and a white shirt is sitting on a stool.",
+    "objects": [
+      "white",
+      "stool",
+      "black",
+      "shirt",
+      "workshop",
+      "hat",
+      "pottery",
+      "man"
+    ],
+    "actions": [
+      "displaying",
+      "sitting",
+      "filled",
+      "shelves"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The workshop is filled with pottery shelves displaying various art pieces, and a man in a black hat and a white shirt is sitting on a stool.",
+    "objects": [
+      "white",
+      "stool",
+      "black",
+      "shirt",
+      "workshop",
+      "hat",
+      "pottery",
+      "man"
+    ],
+    "actions": [
+      "displaying",
+      "sitting",
+      "filled",
+      "shelves"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man shaping the pottery is wearing a blue shirt and a white apron, and there is a man in a blue shirt and a white hat standing next to a shelf.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "apron",
+      "shelf",
+      "hat",
+      "pottery"
+    ],
+    "actions": [
+      "wearing",
+      "shaping",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man shaping the pottery is wearing a blue shirt and a white apron, and there is a man in a blue shirt and a white hat standing next to a shelf.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "apron",
+      "shelf",
+      "hat",
+      "pottery"
+    ],
+    "actions": [
+      "wearing",
+      "shaping",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man shaping the pottery is wearing a blue shirt and a white apron, and there is a man in a blue shirt and a white hat standing next to a shelf.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "apron",
+      "shelf",
+      "hat",
+      "pottery"
+    ],
+    "actions": [
+      "wearing",
+      "shaping",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man shaping the pottery is wearing a blue shirt and a white apron, and there is a man in a blue shirt and a white hat standing next to a shelf.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "apron",
+      "shelf",
+      "hat",
+      "pottery"
+    ],
+    "actions": [
+      "wearing",
+      "shaping",
+      "standing"
+    ],
+    "segment_id": 7
+  }
+]

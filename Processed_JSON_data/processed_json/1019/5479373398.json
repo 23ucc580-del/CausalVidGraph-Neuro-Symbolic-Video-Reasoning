@@ -1,0 +1,614 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are seen walking on a red, sturdy bridge that spans across a scenic river.",
+    "objects": [
+      "people",
+      "river",
+      "across",
+      "bridge",
+      "scenic",
+      "that",
+      "sturdy",
+      "group"
+    ],
+    "actions": [
+      "spans",
+      "walking",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are seen walking on a red, sturdy bridge that spans across a scenic river.",
+    "objects": [
+      "people",
+      "river",
+      "across",
+      "bridge",
+      "scenic",
+      "that",
+      "sturdy",
+      "group"
+    ],
+    "actions": [
+      "spans",
+      "walking",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are seen walking on a red, sturdy bridge that spans across a scenic river.",
+    "objects": [
+      "people",
+      "river",
+      "across",
+      "bridge",
+      "scenic",
+      "that",
+      "sturdy",
+      "group"
+    ],
+    "actions": [
+      "spans",
+      "walking",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people are seen walking on a red, sturdy bridge that spans across a scenic river.",
+    "objects": [
+      "people",
+      "river",
+      "across",
+      "bridge",
+      "scenic",
+      "that",
+      "sturdy",
+      "group"
+    ],
+    "actions": [
+      "spans",
+      "walking",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The bridge is adorned with a railing on its right side, and the river beneath it is filled with lush greenery.",
+    "objects": [
+      "its",
+      "greenery",
+      "river",
+      "lush",
+      "bridge",
+      "beneath",
+      "side"
+    ],
+    "actions": [
+      "adorned",
+      "filled",
+      "railing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The bridge is adorned with a railing on its right side, and the river beneath it is filled with lush greenery.",
+    "objects": [
+      "its",
+      "greenery",
+      "river",
+      "lush",
+      "bridge",
+      "beneath",
+      "side"
+    ],
+    "actions": [
+      "adorned",
+      "filled",
+      "railing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The bridge is adorned with a railing on its right side, and the river beneath it is filled with lush greenery.",
+    "objects": [
+      "its",
+      "greenery",
+      "river",
+      "lush",
+      "bridge",
+      "beneath",
+      "side"
+    ],
+    "actions": [
+      "adorned",
+      "filled",
+      "railing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The bridge is adorned with a railing on its right side, and the river beneath it is filled with lush greenery.",
+    "objects": [
+      "its",
+      "greenery",
+      "river",
+      "lush",
+      "bridge",
+      "beneath",
+      "side"
+    ],
+    "actions": [
+      "adorned",
+      "filled",
+      "railing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "One woman, wearing a blue hoodie, is walking alone, carrying a blue bag over her shoulder.",
+    "objects": [
+      "one",
+      "woman",
+      "blue",
+      "bag",
+      "her",
+      "hoodie",
+      "shoulder",
+      "alone"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One woman, wearing a blue hoodie, is walking alone, carrying a blue bag over her shoulder.",
+    "objects": [
+      "one",
+      "woman",
+      "blue",
+      "bag",
+      "her",
+      "hoodie",
+      "shoulder",
+      "alone"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "One woman, wearing a blue hoodie, is walking alone, carrying a blue bag over her shoulder.",
+    "objects": [
+      "one",
+      "woman",
+      "blue",
+      "bag",
+      "her",
+      "hoodie",
+      "shoulder",
+      "alone"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "One woman, wearing a blue hoodie, is walking alone, carrying a blue bag over her shoulder.",
+    "objects": [
+      "one",
+      "woman",
+      "blue",
+      "bag",
+      "her",
+      "hoodie",
+      "shoulder",
+      "alone"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another woman, wearing a white shirt, is accompanied by a boy in a black jacket and blue jeans, both of whom are walking in the opposite direction.",
+    "objects": [
+      "boy",
+      "white",
+      "woman",
+      "both",
+      "black",
+      "jacket",
+      "blue",
+      "whom"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "walking",
+      "accompanied"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another woman, wearing a white shirt, is accompanied by a boy in a black jacket and blue jeans, both of whom are walking in the opposite direction.",
+    "objects": [
+      "boy",
+      "white",
+      "woman",
+      "both",
+      "black",
+      "jacket",
+      "blue",
+      "whom"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "walking",
+      "accompanied"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another woman, wearing a white shirt, is accompanied by a boy in a black jacket and blue jeans, both of whom are walking in the opposite direction.",
+    "objects": [
+      "boy",
+      "white",
+      "woman",
+      "both",
+      "black",
+      "jacket",
+      "blue",
+      "whom"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "walking",
+      "accompanied"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another woman, wearing a white shirt, is accompanied by a boy in a black jacket and blue jeans, both of whom are walking in the opposite direction.",
+    "objects": [
+      "boy",
+      "white",
+      "woman",
+      "both",
+      "black",
+      "jacket",
+      "blue",
+      "whom"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "walking",
+      "accompanied"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy is holding a red bag.",
+    "objects": [
+      "boy",
+      "bag"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy is holding a red bag.",
+    "objects": [
+      "boy",
+      "bag"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy is holding a red bag.",
+    "objects": [
+      "boy",
+      "bag"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy is holding a red bag.",
+    "objects": [
+      "boy",
+      "bag"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "As they walk, a man in a black jacket and blue jeans, wearing a white shirt, passes by them.",
+    "objects": [
+      "they",
+      "walk",
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "passes",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "As they walk, a man in a black jacket and blue jeans, wearing a white shirt, passes by them.",
+    "objects": [
+      "they",
+      "walk",
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "passes",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "As they walk, a man in a black jacket and blue jeans, wearing a white shirt, passes by them.",
+    "objects": [
+      "they",
+      "walk",
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "passes",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "As they walk, a man in a black jacket and blue jeans, wearing a white shirt, passes by them.",
+    "objects": [
+      "they",
+      "walk",
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "passes",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "On the left side of the bridge, a woman in a white jacket is seen walking in the opposite direction, carrying a black bag.",
+    "objects": [
+      "white",
+      "woman",
+      "jacket",
+      "black",
+      "bridge",
+      "bag",
+      "direction",
+      "side"
+    ],
+    "actions": [
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "On the left side of the bridge, a woman in a white jacket is seen walking in the opposite direction, carrying a black bag.",
+    "objects": [
+      "white",
+      "woman",
+      "jacket",
+      "black",
+      "bridge",
+      "bag",
+      "direction",
+      "side"
+    ],
+    "actions": [
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "On the left side of the bridge, a woman in a white jacket is seen walking in the opposite direction, carrying a black bag.",
+    "objects": [
+      "white",
+      "woman",
+      "jacket",
+      "black",
+      "bridge",
+      "bag",
+      "direction",
+      "side"
+    ],
+    "actions": [
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "On the left side of the bridge, a woman in a white jacket is seen walking in the opposite direction, carrying a black bag.",
+    "objects": [
+      "white",
+      "woman",
+      "jacket",
+      "black",
+      "bridge",
+      "bag",
+      "direction",
+      "side"
+    ],
+    "actions": [
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The bridge serves as a picturesque setting for the interaction of the individuals, each engrossed in their own world amidst the serene surroundings.",
+    "objects": [
+      "their",
+      "world",
+      "each",
+      "own",
+      "amidst",
+      "serene",
+      "bridge",
+      "picturesque"
+    ],
+    "actions": [
+      "serves",
+      "individuals",
+      "engrossed",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The bridge serves as a picturesque setting for the interaction of the individuals, each engrossed in their own world amidst the serene surroundings.",
+    "objects": [
+      "their",
+      "world",
+      "each",
+      "own",
+      "amidst",
+      "serene",
+      "bridge",
+      "picturesque"
+    ],
+    "actions": [
+      "serves",
+      "individuals",
+      "engrossed",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The bridge serves as a picturesque setting for the interaction of the individuals, each engrossed in their own world amidst the serene surroundings.",
+    "objects": [
+      "their",
+      "world",
+      "each",
+      "own",
+      "amidst",
+      "serene",
+      "bridge",
+      "picturesque"
+    ],
+    "actions": [
+      "serves",
+      "individuals",
+      "engrossed",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The bridge serves as a picturesque setting for the interaction of the individuals, each engrossed in their own world amidst the serene surroundings.",
+    "objects": [
+      "their",
+      "world",
+      "each",
+      "own",
+      "amidst",
+      "serene",
+      "bridge",
+      "picturesque"
+    ],
+    "actions": [
+      "serves",
+      "individuals",
+      "engrossed",
+      "setting"
+    ],
+    "segment_id": 7
+  }
+]

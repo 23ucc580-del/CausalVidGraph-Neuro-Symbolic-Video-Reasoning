@@ -1,0 +1,587 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a lively performance of a band, specifically a group of musicians playing the drums and keyboard.",
+    "objects": [
+      "band",
+      "performance",
+      "this",
+      "lively",
+      "keyboard",
+      "specifically",
+      "group"
+    ],
+    "actions": [
+      "drums",
+      "musicians",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a lively performance of a band, specifically a group of musicians playing the drums and keyboard.",
+    "objects": [
+      "band",
+      "performance",
+      "this",
+      "lively",
+      "keyboard",
+      "specifically",
+      "group"
+    ],
+    "actions": [
+      "drums",
+      "musicians",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a lively performance of a band, specifically a group of musicians playing the drums and keyboard.",
+    "objects": [
+      "band",
+      "performance",
+      "this",
+      "lively",
+      "keyboard",
+      "specifically",
+      "group"
+    ],
+    "actions": [
+      "drums",
+      "musicians",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is set on a stage, with the band members actively engaged in their performance.",
+    "objects": [
+      "band",
+      "stage",
+      "performance",
+      "set",
+      "their",
+      "actively"
+    ],
+    "actions": [
+      "members",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is set on a stage, with the band members actively engaged in their performance.",
+    "objects": [
+      "band",
+      "stage",
+      "performance",
+      "set",
+      "their",
+      "actively"
+    ],
+    "actions": [
+      "members",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is set on a stage, with the band members actively engaged in their performance.",
+    "objects": [
+      "band",
+      "stage",
+      "performance",
+      "set",
+      "their",
+      "actively"
+    ],
+    "actions": [
+      "members",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The drummer, dressed in a black shirt and black pants, is playing the drums with a focused intensity.",
+    "objects": [
+      "intensity",
+      "black",
+      "drummer",
+      "shirt"
+    ],
+    "actions": [
+      "drums",
+      "dressed",
+      "focused",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The drummer, dressed in a black shirt and black pants, is playing the drums with a focused intensity.",
+    "objects": [
+      "intensity",
+      "black",
+      "drummer",
+      "shirt"
+    ],
+    "actions": [
+      "drums",
+      "dressed",
+      "focused",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The drummer, dressed in a black shirt and black pants, is playing the drums with a focused intensity.",
+    "objects": [
+      "intensity",
+      "black",
+      "drummer",
+      "shirt"
+    ],
+    "actions": [
+      "drums",
+      "dressed",
+      "focused",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The keyboardist, wearing a white shirt and black pants, is deeply immersed in his performance, his fingers dancing over the keys.",
+    "objects": [
+      "white",
+      "keys",
+      "over",
+      "performance",
+      "keyboardist",
+      "his",
+      "shirt",
+      "deeply"
+    ],
+    "actions": [
+      "fingers",
+      "dancing",
+      "pants",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The keyboardist, wearing a white shirt and black pants, is deeply immersed in his performance, his fingers dancing over the keys.",
+    "objects": [
+      "white",
+      "keys",
+      "over",
+      "performance",
+      "keyboardist",
+      "his",
+      "shirt",
+      "deeply"
+    ],
+    "actions": [
+      "fingers",
+      "dancing",
+      "pants",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The keyboardist, wearing a white shirt and black pants, is deeply immersed in his performance, his fingers dancing over the keys.",
+    "objects": [
+      "white",
+      "keys",
+      "over",
+      "performance",
+      "keyboardist",
+      "his",
+      "shirt",
+      "deeply"
+    ],
+    "actions": [
+      "fingers",
+      "dancing",
+      "pants",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The bassist, clad in a purple shirt, is vigorously strumming his bass, while the guitarist, donned in a blue shirt, is immersed in his melody.",
+    "objects": [
+      "guitarist",
+      "blue",
+      "melody",
+      "clad",
+      "his",
+      "while",
+      "shirt",
+      "purple"
+    ],
+    "actions": [
+      "immersed",
+      "strumming",
+      "donned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The bassist, clad in a purple shirt, is vigorously strumming his bass, while the guitarist, donned in a blue shirt, is immersed in his melody.",
+    "objects": [
+      "guitarist",
+      "blue",
+      "melody",
+      "clad",
+      "his",
+      "while",
+      "shirt",
+      "purple"
+    ],
+    "actions": [
+      "immersed",
+      "strumming",
+      "donned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The bassist, clad in a purple shirt, is vigorously strumming his bass, while the guitarist, donned in a blue shirt, is immersed in his melody.",
+    "objects": [
+      "guitarist",
+      "blue",
+      "melody",
+      "clad",
+      "his",
+      "while",
+      "shirt",
+      "purple"
+    ],
+    "actions": [
+      "immersed",
+      "strumming",
+      "donned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "In the foreground, a microphone is set up, ready for the vocalist to take the stage.",
+    "objects": [
+      "ready",
+      "stage",
+      "microphone",
+      "take",
+      "set",
+      "vocalist"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "In the foreground, a microphone is set up, ready for the vocalist to take the stage.",
+    "objects": [
+      "ready",
+      "stage",
+      "microphone",
+      "take",
+      "set",
+      "vocalist"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "In the foreground, a microphone is set up, ready for the vocalist to take the stage.",
+    "objects": [
+      "ready",
+      "stage",
+      "microphone",
+      "take",
+      "set",
+      "vocalist"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The band members are scattered around the stage, each in their own space, yet all contributing to the harmonious symphony.",
+    "objects": [
+      "band",
+      "around",
+      "stage",
+      "each",
+      "space",
+      "symphony",
+      "all",
+      "own"
+    ],
+    "actions": [
+      "harmonious",
+      "members",
+      "contributing",
+      "scattered"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The band members are scattered around the stage, each in their own space, yet all contributing to the harmonious symphony.",
+    "objects": [
+      "band",
+      "around",
+      "stage",
+      "each",
+      "space",
+      "symphony",
+      "all",
+      "own"
+    ],
+    "actions": [
+      "harmonious",
+      "members",
+      "contributing",
+      "scattered"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The band members are scattered around the stage, each in their own space, yet all contributing to the harmonious symphony.",
+    "objects": [
+      "band",
+      "around",
+      "stage",
+      "each",
+      "space",
+      "symphony",
+      "all",
+      "own"
+    ],
+    "actions": [
+      "harmonious",
+      "members",
+      "contributing",
+      "scattered"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The background features a large screen, perhaps displaying lyrics or visuals to accompany the music.",
+    "objects": [
+      "large",
+      "accompany",
+      "screen",
+      "music"
+    ],
+    "actions": [
+      "lyrics",
+      "visuals",
+      "displaying",
+      "perhaps"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The background features a large screen, perhaps displaying lyrics or visuals to accompany the music.",
+    "objects": [
+      "large",
+      "accompany",
+      "screen",
+      "music"
+    ],
+    "actions": [
+      "lyrics",
+      "visuals",
+      "displaying",
+      "perhaps"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The background features a large screen, perhaps displaying lyrics or visuals to accompany the music.",
+    "objects": [
+      "large",
+      "accompany",
+      "screen",
+      "music"
+    ],
+    "actions": [
+      "lyrics",
+      "visuals",
+      "displaying",
+      "perhaps"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The stage is well-lit, with colorful lights illuminating the performers, casting an array of hues that accentuate the atmosphere of the performance.",
+    "objects": [
+      "colorful",
+      "stage",
+      "performance",
+      "array",
+      "that",
+      "accentuate",
+      "hues",
+      "atmosphere"
+    ],
+    "actions": [
+      "casting",
+      "performers",
+      "lights",
+      "illuminating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The stage is well-lit, with colorful lights illuminating the performers, casting an array of hues that accentuate the atmosphere of the performance.",
+    "objects": [
+      "colorful",
+      "stage",
+      "performance",
+      "array",
+      "that",
+      "accentuate",
+      "hues",
+      "atmosphere"
+    ],
+    "actions": [
+      "casting",
+      "performers",
+      "lights",
+      "illuminating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The stage is well-lit, with colorful lights illuminating the performers, casting an array of hues that accentuate the atmosphere of the performance.",
+    "objects": [
+      "colorful",
+      "stage",
+      "performance",
+      "array",
+      "that",
+      "accentuate",
+      "hues",
+      "atmosphere"
+    ],
+    "actions": [
+      "casting",
+      "performers",
+      "lights",
+      "illuminating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The musicians are in sync with their instruments, creating a harmonious melody.",
+    "objects": [
+      "their",
+      "melody",
+      "sync"
+    ],
+    "actions": [
+      "instruments",
+      "harmonious",
+      "musicians",
+      "creating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The musicians are in sync with their instruments, creating a harmonious melody.",
+    "objects": [
+      "their",
+      "melody",
+      "sync"
+    ],
+    "actions": [
+      "instruments",
+      "harmonious",
+      "musicians",
+      "creating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The musicians are in sync with their instruments, creating a harmonious melody.",
+    "objects": [
+      "their",
+      "melody",
+      "sync"
+    ],
+    "actions": [
+      "instruments",
+      "harmonious",
+      "musicians",
+      "creating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera captures the performance from various angles, providing different perspectives of the performance.",
+    "objects": [
+      "performance",
+      "from",
+      "different"
+    ],
+    "actions": [
+      "providing",
+      "angles",
+      "perspectives"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera captures the performance from various angles, providing different perspectives of the performance.",
+    "objects": [
+      "performance",
+      "from",
+      "different"
+    ],
+    "actions": [
+      "providing",
+      "angles",
+      "perspectives"
+    ],
+    "segment_id": 10
+  }
+]

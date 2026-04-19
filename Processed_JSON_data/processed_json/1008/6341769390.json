@@ -1,0 +1,520 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young man is seen crouching down and petting a puppy, which is brown and white in color.",
+    "objects": [
+      "white",
+      "color",
+      "which",
+      "young",
+      "man",
+      "brown",
+      "puppy"
+    ],
+    "actions": [
+      "petting",
+      "crouching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young man is seen crouching down and petting a puppy, which is brown and white in color.",
+    "objects": [
+      "white",
+      "color",
+      "which",
+      "young",
+      "man",
+      "brown",
+      "puppy"
+    ],
+    "actions": [
+      "petting",
+      "crouching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The puppy is lying down, and the man is wearing a blue hoodie.",
+    "objects": [
+      "man",
+      "blue",
+      "hoodie",
+      "puppy"
+    ],
+    "actions": [
+      "wearing",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The puppy is lying down, and the man is wearing a blue hoodie.",
+    "objects": [
+      "man",
+      "blue",
+      "hoodie",
+      "puppy"
+    ],
+    "actions": [
+      "wearing",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene then cuts to a person holding a black and white puppy, which is standing on its hind legs.",
+    "objects": [
+      "its",
+      "hind",
+      "cuts",
+      "white",
+      "black",
+      "which",
+      "then",
+      "legs"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene then cuts to a person holding a black and white puppy, which is standing on its hind legs.",
+    "objects": [
+      "its",
+      "hind",
+      "cuts",
+      "white",
+      "black",
+      "which",
+      "then",
+      "legs"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The puppy seems to be looking up at the person.",
+    "objects": [
+      "puppy"
+    ],
+    "actions": [
+      "seems",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The puppy seems to be looking up at the person.",
+    "objects": [
+      "puppy"
+    ],
+    "actions": [
+      "seems",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "Next, a black and white puppy is seen laying on the ground, while the man is holding a brown and white puppy.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "man",
+      "ground",
+      "brown",
+      "puppy"
+    ],
+    "actions": [
+      "laying",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "Next, a black and white puppy is seen laying on the ground, while the man is holding a brown and white puppy.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "man",
+      "ground",
+      "brown",
+      "puppy"
+    ],
+    "actions": [
+      "laying",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The man is wearing a black shirt and is sitting down.",
+    "objects": [
+      "shirt",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The man is wearing a black shirt and is sitting down.",
+    "objects": [
+      "shirt",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The video then shows a brown and white puppy, which is standing up and looking at the camera.",
+    "objects": [
+      "white",
+      "which",
+      "brown",
+      "then",
+      "puppy"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The video then shows a brown and white puppy, which is standing up and looking at the camera.",
+    "objects": [
+      "white",
+      "which",
+      "brown",
+      "then",
+      "puppy"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A black and white puppy is then seen lying on the ground, with the man wearing a black shirt and holding it.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "man",
+      "ground",
+      "then",
+      "puppy"
+    ],
+    "actions": [
+      "wearing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A black and white puppy is then seen lying on the ground, with the man wearing a black shirt and holding it.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "man",
+      "ground",
+      "then",
+      "puppy"
+    ],
+    "actions": [
+      "wearing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The puppy is looking up at the camera.",
+    "objects": [
+      "puppy"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The puppy is looking up at the camera.",
+    "objects": [
+      "puppy"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene then cuts to a black and white puppy standing on its hind legs, looking up at the camera.",
+    "objects": [
+      "its",
+      "hind",
+      "cuts",
+      "white",
+      "black",
+      "then",
+      "legs",
+      "puppy"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene then cuts to a black and white puppy standing on its hind legs, looking up at the camera.",
+    "objects": [
+      "its",
+      "hind",
+      "cuts",
+      "white",
+      "black",
+      "then",
+      "legs",
+      "puppy"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is wearing a blue hoodie and holding a black and white puppy.",
+    "objects": [
+      "white",
+      "black",
+      "blue",
+      "hoodie",
+      "man",
+      "puppy"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is wearing a blue hoodie and holding a black and white puppy.",
+    "objects": [
+      "white",
+      "black",
+      "blue",
+      "hoodie",
+      "man",
+      "puppy"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The video also shows a brown and white puppy standing on its hind legs and looking up at the camera.",
+    "objects": [
+      "its",
+      "hind",
+      "white",
+      "brown",
+      "legs",
+      "puppy"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The video also shows a brown and white puppy standing on its hind legs and looking up at the camera.",
+    "objects": [
+      "its",
+      "hind",
+      "white",
+      "brown",
+      "legs",
+      "puppy"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is wearing a blue hoodie and holding a brown and white puppy.",
+    "objects": [
+      "white",
+      "blue",
+      "hoodie",
+      "man",
+      "brown",
+      "puppy"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is wearing a blue hoodie and holding a brown and white puppy.",
+    "objects": [
+      "white",
+      "blue",
+      "hoodie",
+      "man",
+      "brown",
+      "puppy"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "Next, a black and white puppy is seen lying on the ground, with the man wearing a black shirt and holding a brown and white puppy.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "man",
+      "ground",
+      "brown",
+      "puppy"
+    ],
+    "actions": [
+      "wearing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "Next, a black and white puppy is seen lying on the ground, with the man wearing a black shirt and holding a brown and white puppy.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "man",
+      "ground",
+      "brown",
+      "puppy"
+    ],
+    "actions": [
+      "wearing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The man is sitting down.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The man is sitting down.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The video shows a black and white puppy standing on its hind legs and looking up at the camera.",
+    "objects": [
+      "its",
+      "hind",
+      "white",
+      "black",
+      "legs",
+      "puppy"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The video shows a black and white puppy standing on its hind legs and looking up at the camera.",
+    "objects": [
+      "its",
+      "hind",
+      "white",
+      "black",
+      "legs",
+      "puppy"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 15
+  }
+]

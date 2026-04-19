@@ -1,0 +1,610 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a group of men standing on a deck of a boat, with a scenic view of a river and cityscape in the background.",
+    "objects": [
+      "river",
+      "deck",
+      "men",
+      "boat",
+      "scenic",
+      "cityscape",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a group of men standing on a deck of a boat, with a scenic view of a river and cityscape in the background.",
+    "objects": [
+      "river",
+      "deck",
+      "men",
+      "boat",
+      "scenic",
+      "cityscape",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a group of men standing on a deck of a boat, with a scenic view of a river and cityscape in the background.",
+    "objects": [
+      "river",
+      "deck",
+      "men",
+      "boat",
+      "scenic",
+      "cityscape",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a group of men standing on a deck of a boat, with a scenic view of a river and cityscape in the background.",
+    "objects": [
+      "river",
+      "deck",
+      "men",
+      "boat",
+      "scenic",
+      "cityscape",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One man, dressed in a blue hoodie, is holding a bottle of beer, while another man in a black suit and red shirt is holding a glass of beer.",
+    "objects": [
+      "one",
+      "suit",
+      "while",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "beer"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One man, dressed in a blue hoodie, is holding a bottle of beer, while another man in a black suit and red shirt is holding a glass of beer.",
+    "objects": [
+      "one",
+      "suit",
+      "while",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "beer"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One man, dressed in a blue hoodie, is holding a bottle of beer, while another man in a black suit and red shirt is holding a glass of beer.",
+    "objects": [
+      "one",
+      "suit",
+      "while",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "beer"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One man, dressed in a blue hoodie, is holding a bottle of beer, while another man in a black suit and red shirt is holding a glass of beer.",
+    "objects": [
+      "one",
+      "suit",
+      "while",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "beer"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Two other men are wearing ties and standing on the same deck, one holding a beer bottle and the other holding a beer glass.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "deck",
+      "men",
+      "same",
+      "bottle",
+      "ties"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Two other men are wearing ties and standing on the same deck, one holding a beer bottle and the other holding a beer glass.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "deck",
+      "men",
+      "same",
+      "bottle",
+      "ties"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Two other men are wearing ties and standing on the same deck, one holding a beer bottle and the other holding a beer glass.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "deck",
+      "men",
+      "same",
+      "bottle",
+      "ties"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Two other men are wearing ties and standing on the same deck, one holding a beer bottle and the other holding a beer glass.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "deck",
+      "men",
+      "same",
+      "bottle",
+      "ties"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man in a red shirt is seated and wearing a blue hat.",
+    "objects": [
+      "man",
+      "blue",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "seated",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man in a red shirt is seated and wearing a blue hat.",
+    "objects": [
+      "man",
+      "blue",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "seated",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another man in a red shirt is seated and wearing a blue hat.",
+    "objects": [
+      "man",
+      "blue",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "seated",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another man in a red shirt is seated and wearing a blue hat.",
+    "objects": [
+      "man",
+      "blue",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "seated",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a red jacket is standing on the same deck, holding a beer bottle.",
+    "objects": [
+      "jacket",
+      "deck",
+      "same",
+      "bottle",
+      "beer",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a red jacket is standing on the same deck, holding a beer bottle.",
+    "objects": [
+      "jacket",
+      "deck",
+      "same",
+      "bottle",
+      "beer",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a red jacket is standing on the same deck, holding a beer bottle.",
+    "objects": [
+      "jacket",
+      "deck",
+      "same",
+      "bottle",
+      "beer",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a red jacket is standing on the same deck, holding a beer bottle.",
+    "objects": [
+      "jacket",
+      "deck",
+      "same",
+      "bottle",
+      "beer",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a red shirt is seated and wearing a blue hat, and another man in a blue jacket is standing on the same deck, holding a beer bottle.",
+    "objects": [
+      "jacket",
+      "deck",
+      "blue",
+      "same",
+      "bottle",
+      "shirt",
+      "beer",
+      "hat"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a red shirt is seated and wearing a blue hat, and another man in a blue jacket is standing on the same deck, holding a beer bottle.",
+    "objects": [
+      "jacket",
+      "deck",
+      "blue",
+      "same",
+      "bottle",
+      "shirt",
+      "beer",
+      "hat"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a red shirt is seated and wearing a blue hat, and another man in a blue jacket is standing on the same deck, holding a beer bottle.",
+    "objects": [
+      "jacket",
+      "deck",
+      "blue",
+      "same",
+      "bottle",
+      "shirt",
+      "beer",
+      "hat"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a red shirt is seated and wearing a blue hat, and another man in a blue jacket is standing on the same deck, holding a beer bottle.",
+    "objects": [
+      "jacket",
+      "deck",
+      "blue",
+      "same",
+      "bottle",
+      "shirt",
+      "beer",
+      "hat"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There are two men seated on a bench, one wearing a blue shirt and the other in a black jacket.",
+    "objects": [
+      "one",
+      "there",
+      "other",
+      "two",
+      "black",
+      "men",
+      "blue",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There are two men seated on a bench, one wearing a blue shirt and the other in a black jacket.",
+    "objects": [
+      "one",
+      "there",
+      "other",
+      "two",
+      "black",
+      "men",
+      "blue",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There are two men seated on a bench, one wearing a blue shirt and the other in a black jacket.",
+    "objects": [
+      "one",
+      "there",
+      "other",
+      "two",
+      "black",
+      "men",
+      "blue",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There are two men seated on a bench, one wearing a blue shirt and the other in a black jacket.",
+    "objects": [
+      "one",
+      "there",
+      "other",
+      "two",
+      "black",
+      "men",
+      "blue",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is bustling with social interaction, and the men appear to be enjoying the outdoor setting and each other's company.",
+    "objects": [
+      "appear",
+      "each",
+      "men",
+      "social",
+      "company",
+      "interaction",
+      "outdoor"
+    ],
+    "actions": [
+      "bustling",
+      "other's",
+      "enjoying",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is bustling with social interaction, and the men appear to be enjoying the outdoor setting and each other's company.",
+    "objects": [
+      "appear",
+      "each",
+      "men",
+      "social",
+      "company",
+      "interaction",
+      "outdoor"
+    ],
+    "actions": [
+      "bustling",
+      "other's",
+      "enjoying",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is bustling with social interaction, and the men appear to be enjoying the outdoor setting and each other's company.",
+    "objects": [
+      "appear",
+      "each",
+      "men",
+      "social",
+      "company",
+      "interaction",
+      "outdoor"
+    ],
+    "actions": [
+      "bustling",
+      "other's",
+      "enjoying",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is bustling with social interaction, and the men appear to be enjoying the outdoor setting and each other's company.",
+    "objects": [
+      "appear",
+      "each",
+      "men",
+      "social",
+      "company",
+      "interaction",
+      "outdoor"
+    ],
+    "actions": [
+      "bustling",
+      "other's",
+      "enjoying",
+      "setting"
+    ],
+    "segment_id": 7
+  }
+]

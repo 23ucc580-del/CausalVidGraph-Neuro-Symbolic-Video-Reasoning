@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features a young girl standing in front of a classroom, wearing a blue polo shirt.",
+    "objects": [
+      "young",
+      "blue",
+      "shirt",
+      "classroom",
+      "girl",
+      "polo"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features a young girl standing in front of a classroom, wearing a blue polo shirt.",
+    "objects": [
+      "young",
+      "blue",
+      "shirt",
+      "classroom",
+      "girl",
+      "polo"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video features a young girl standing in front of a classroom, wearing a blue polo shirt.",
+    "objects": [
+      "young",
+      "blue",
+      "shirt",
+      "classroom",
+      "girl",
+      "polo"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video features a young girl standing in front of a classroom, wearing a blue polo shirt.",
+    "objects": [
+      "young",
+      "blue",
+      "shirt",
+      "classroom",
+      "girl",
+      "polo"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is holding a drawing of a horse and smiling.",
+    "objects": [
+      "horse",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "smiling",
+      "drawing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is holding a drawing of a horse and smiling.",
+    "objects": [
+      "horse",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "smiling",
+      "drawing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is holding a drawing of a horse and smiling.",
+    "objects": [
+      "horse",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "smiling",
+      "drawing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is holding a drawing of a horse and smiling.",
+    "objects": [
+      "horse",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "smiling",
+      "drawing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The classroom is adorned with various posters and papers, giving it a vibrant and educational atmosphere.",
+    "objects": [
+      "vibrant",
+      "educational",
+      "atmosphere",
+      "classroom"
+    ],
+    "actions": [
+      "posters",
+      "adorned",
+      "papers",
+      "giving"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The classroom is adorned with various posters and papers, giving it a vibrant and educational atmosphere.",
+    "objects": [
+      "vibrant",
+      "educational",
+      "atmosphere",
+      "classroom"
+    ],
+    "actions": [
+      "posters",
+      "adorned",
+      "papers",
+      "giving"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The classroom is adorned with various posters and papers, giving it a vibrant and educational atmosphere.",
+    "objects": [
+      "vibrant",
+      "educational",
+      "atmosphere",
+      "classroom"
+    ],
+    "actions": [
+      "posters",
+      "adorned",
+      "papers",
+      "giving"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The classroom is adorned with various posters and papers, giving it a vibrant and educational atmosphere.",
+    "objects": [
+      "vibrant",
+      "educational",
+      "atmosphere",
+      "classroom"
+    ],
+    "actions": [
+      "posters",
+      "adorned",
+      "papers",
+      "giving"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The girl is engaged in a conversation with an adult, who is sitting at a desk in front of her.",
+    "objects": [
+      "desk",
+      "conversation",
+      "adult",
+      "who",
+      "her",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The girl is engaged in a conversation with an adult, who is sitting at a desk in front of her.",
+    "objects": [
+      "desk",
+      "conversation",
+      "adult",
+      "who",
+      "her",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The girl is engaged in a conversation with an adult, who is sitting at a desk in front of her.",
+    "objects": [
+      "desk",
+      "conversation",
+      "adult",
+      "who",
+      "her",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The girl is engaged in a conversation with an adult, who is sitting at a desk in front of her.",
+    "objects": [
+      "desk",
+      "conversation",
+      "adult",
+      "who",
+      "her",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The adult appears to be listening attentively, possibly giving instructions or feedback to the girl.",
+    "objects": [
+      "attentively",
+      "feedback",
+      "possibly",
+      "adult",
+      "girl"
+    ],
+    "actions": [
+      "giving",
+      "listening",
+      "instructions"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The adult appears to be listening attentively, possibly giving instructions or feedback to the girl.",
+    "objects": [
+      "attentively",
+      "feedback",
+      "possibly",
+      "adult",
+      "girl"
+    ],
+    "actions": [
+      "giving",
+      "listening",
+      "instructions"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The adult appears to be listening attentively, possibly giving instructions or feedback to the girl.",
+    "objects": [
+      "attentively",
+      "feedback",
+      "possibly",
+      "adult",
+      "girl"
+    ],
+    "actions": [
+      "giving",
+      "listening",
+      "instructions"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The adult appears to be listening attentively, possibly giving instructions or feedback to the girl.",
+    "objects": [
+      "attentively",
+      "feedback",
+      "possibly",
+      "adult",
+      "girl"
+    ],
+    "actions": [
+      "giving",
+      "listening",
+      "instructions"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene seems to be a part of a learning or educational setting, possibly a classroom or an art studio.",
+    "objects": [
+      "possibly",
+      "part",
+      "classroom",
+      "educational",
+      "art",
+      "studio"
+    ],
+    "actions": [
+      "seems",
+      "learning",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene seems to be a part of a learning or educational setting, possibly a classroom or an art studio.",
+    "objects": [
+      "possibly",
+      "part",
+      "classroom",
+      "educational",
+      "art",
+      "studio"
+    ],
+    "actions": [
+      "seems",
+      "learning",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene seems to be a part of a learning or educational setting, possibly a classroom or an art studio.",
+    "objects": [
+      "possibly",
+      "part",
+      "classroom",
+      "educational",
+      "art",
+      "studio"
+    ],
+    "actions": [
+      "seems",
+      "learning",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene seems to be a part of a learning or educational setting, possibly a classroom or an art studio.",
+    "objects": [
+      "possibly",
+      "part",
+      "classroom",
+      "educational",
+      "art",
+      "studio"
+    ],
+    "actions": [
+      "seems",
+      "learning",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The girl's demeanor is cheerful, as evidenced by her smile, and her body language suggests she is comfortable and at ease in this environment.",
+    "objects": [
+      "body",
+      "she",
+      "environment",
+      "language",
+      "comfortable",
+      "ease",
+      "her",
+      "demeanor"
+    ],
+    "actions": [
+      "evidenced",
+      "suggests",
+      "girl's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The girl's demeanor is cheerful, as evidenced by her smile, and her body language suggests she is comfortable and at ease in this environment.",
+    "objects": [
+      "body",
+      "she",
+      "environment",
+      "language",
+      "comfortable",
+      "ease",
+      "her",
+      "demeanor"
+    ],
+    "actions": [
+      "evidenced",
+      "suggests",
+      "girl's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The girl's demeanor is cheerful, as evidenced by her smile, and her body language suggests she is comfortable and at ease in this environment.",
+    "objects": [
+      "body",
+      "she",
+      "environment",
+      "language",
+      "comfortable",
+      "ease",
+      "her",
+      "demeanor"
+    ],
+    "actions": [
+      "evidenced",
+      "suggests",
+      "girl's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The girl's demeanor is cheerful, as evidenced by her smile, and her body language suggests she is comfortable and at ease in this environment.",
+    "objects": [
+      "body",
+      "she",
+      "environment",
+      "language",
+      "comfortable",
+      "ease",
+      "her",
+      "demeanor"
+    ],
+    "actions": [
+      "evidenced",
+      "suggests",
+      "girl's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The drawing of the horse she holds is likely a piece of artwork, possibly a representation of an assignment or project she has completed, given its prominence in her hands.",
+    "objects": [
+      "given",
+      "its",
+      "prominence",
+      "she",
+      "assignment",
+      "possibly",
+      "representation",
+      "has"
+    ],
+    "actions": [
+      "completed",
+      "hands",
+      "holds",
+      "drawing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The drawing of the horse she holds is likely a piece of artwork, possibly a representation of an assignment or project she has completed, given its prominence in her hands.",
+    "objects": [
+      "given",
+      "its",
+      "prominence",
+      "she",
+      "assignment",
+      "possibly",
+      "representation",
+      "has"
+    ],
+    "actions": [
+      "completed",
+      "hands",
+      "holds",
+      "drawing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The drawing of the horse she holds is likely a piece of artwork, possibly a representation of an assignment or project she has completed, given its prominence in her hands.",
+    "objects": [
+      "given",
+      "its",
+      "prominence",
+      "she",
+      "assignment",
+      "possibly",
+      "representation",
+      "has"
+    ],
+    "actions": [
+      "completed",
+      "hands",
+      "holds",
+      "drawing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The drawing of the horse she holds is likely a piece of artwork, possibly a representation of an assignment or project she has completed, given its prominence in her hands.",
+    "objects": [
+      "given",
+      "its",
+      "prominence",
+      "she",
+      "assignment",
+      "possibly",
+      "representation",
+      "has"
+    ],
+    "actions": [
+      "completed",
+      "hands",
+      "holds",
+      "drawing"
+    ],
+    "segment_id": 7
+  }
+]

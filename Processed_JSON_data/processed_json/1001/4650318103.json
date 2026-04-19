@@ -1,0 +1,602 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively city street scene on a rainy day.",
+    "objects": [
+      "street",
+      "lively",
+      "city",
+      "day",
+      "rainy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively city street scene on a rainy day.",
+    "objects": [
+      "street",
+      "lively",
+      "city",
+      "day",
+      "rainy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively city street scene on a rainy day.",
+    "objects": [
+      "street",
+      "lively",
+      "city",
+      "day",
+      "rainy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a lively city street scene on a rainy day.",
+    "objects": [
+      "street",
+      "lively",
+      "city",
+      "day",
+      "rainy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video captures a lively city street scene on a rainy day.",
+    "objects": [
+      "street",
+      "lively",
+      "city",
+      "day",
+      "rainy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The video captures a lively city street scene on a rainy day.",
+    "objects": [
+      "street",
+      "lively",
+      "city",
+      "day",
+      "rainy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 6,
+    "description": "The video captures a lively city street scene on a rainy day.",
+    "objects": [
+      "street",
+      "lively",
+      "city",
+      "day",
+      "rainy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 7,
+    "description": "A man in a blue hoodie is walking down the sidewalk, holding an umbrella, as he passes by a silver car parked on the side of the road.",
+    "objects": [
+      "blue",
+      "road",
+      "silver",
+      "hoodie",
+      "car",
+      "side",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "holding",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A man in a blue hoodie is walking down the sidewalk, holding an umbrella, as he passes by a silver car parked on the side of the road.",
+    "objects": [
+      "blue",
+      "road",
+      "silver",
+      "hoodie",
+      "car",
+      "side",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "holding",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "A man in a blue hoodie is walking down the sidewalk, holding an umbrella, as he passes by a silver car parked on the side of the road.",
+    "objects": [
+      "blue",
+      "road",
+      "silver",
+      "hoodie",
+      "car",
+      "side",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "holding",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "A man in a blue hoodie is walking down the sidewalk, holding an umbrella, as he passes by a silver car parked on the side of the road.",
+    "objects": [
+      "blue",
+      "road",
+      "silver",
+      "hoodie",
+      "car",
+      "side",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "holding",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 11,
+    "description": "A man in a blue hoodie is walking down the sidewalk, holding an umbrella, as he passes by a silver car parked on the side of the road.",
+    "objects": [
+      "blue",
+      "road",
+      "silver",
+      "hoodie",
+      "car",
+      "side",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "holding",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a blue hoodie is walking down the sidewalk, holding an umbrella, as he passes by a silver car parked on the side of the road.",
+    "objects": [
+      "blue",
+      "road",
+      "silver",
+      "hoodie",
+      "car",
+      "side",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "holding",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a blue hoodie is walking down the sidewalk, holding an umbrella, as he passes by a silver car parked on the side of the road.",
+    "objects": [
+      "blue",
+      "road",
+      "silver",
+      "hoodie",
+      "car",
+      "side",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "holding",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 14,
+    "description": "Another person, wearing a white hoodie, is also walking down the sidewalk, holding a black umbrella, as they pass by a red car parked nearby.",
+    "objects": [
+      "they",
+      "white",
+      "pass",
+      "black",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "umbrella"
+    ],
+    "actions": [
+      "red",
+      "parked",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "Another person, wearing a white hoodie, is also walking down the sidewalk, holding a black umbrella, as they pass by a red car parked nearby.",
+    "objects": [
+      "they",
+      "white",
+      "pass",
+      "black",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "umbrella"
+    ],
+    "actions": [
+      "red",
+      "parked",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 16,
+    "description": "Another person, wearing a white hoodie, is also walking down the sidewalk, holding a black umbrella, as they pass by a red car parked nearby.",
+    "objects": [
+      "they",
+      "white",
+      "pass",
+      "black",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "umbrella"
+    ],
+    "actions": [
+      "red",
+      "parked",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 17,
+    "description": "Another person, wearing a white hoodie, is also walking down the sidewalk, holding a black umbrella, as they pass by a red car parked nearby.",
+    "objects": [
+      "they",
+      "white",
+      "pass",
+      "black",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "umbrella"
+    ],
+    "actions": [
+      "red",
+      "parked",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 18,
+    "description": "Another person, wearing a white hoodie, is also walking down the sidewalk, holding a black umbrella, as they pass by a red car parked nearby.",
+    "objects": [
+      "they",
+      "white",
+      "pass",
+      "black",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "umbrella"
+    ],
+    "actions": [
+      "red",
+      "parked",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 19,
+    "description": "Another person, wearing a white hoodie, is also walking down the sidewalk, holding a black umbrella, as they pass by a red car parked nearby.",
+    "objects": [
+      "they",
+      "white",
+      "pass",
+      "black",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "umbrella"
+    ],
+    "actions": [
+      "red",
+      "parked",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 20,
+    "description": "Another person, wearing a white hoodie, is also walking down the sidewalk, holding a black umbrella, as they pass by a red car parked nearby.",
+    "objects": [
+      "they",
+      "white",
+      "pass",
+      "black",
+      "hoodie",
+      "car",
+      "sidewalk",
+      "umbrella"
+    ],
+    "actions": [
+      "red",
+      "parked",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, a car with its hazard lights on is driving down the road, and a tree stands tall in the middle of the scene.",
+    "objects": [
+      "its",
+      "middle",
+      "tall",
+      "tree",
+      "hazard",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "lights",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, a car with its hazard lights on is driving down the road, and a tree stands tall in the middle of the scene.",
+    "objects": [
+      "its",
+      "middle",
+      "tall",
+      "tree",
+      "hazard",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "lights",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, a car with its hazard lights on is driving down the road, and a tree stands tall in the middle of the scene.",
+    "objects": [
+      "its",
+      "middle",
+      "tall",
+      "tree",
+      "hazard",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "lights",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 24,
+    "description": "In the background, a car with its hazard lights on is driving down the road, and a tree stands tall in the middle of the scene.",
+    "objects": [
+      "its",
+      "middle",
+      "tall",
+      "tree",
+      "hazard",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "lights",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, a car with its hazard lights on is driving down the road, and a tree stands tall in the middle of the scene.",
+    "objects": [
+      "its",
+      "middle",
+      "tall",
+      "tree",
+      "hazard",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "lights",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, a car with its hazard lights on is driving down the road, and a tree stands tall in the middle of the scene.",
+    "objects": [
+      "its",
+      "middle",
+      "tall",
+      "tree",
+      "hazard",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "lights",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 27,
+    "description": "In the background, a car with its hazard lights on is driving down the road, and a tree stands tall in the middle of the scene.",
+    "objects": [
+      "its",
+      "middle",
+      "tall",
+      "tree",
+      "hazard",
+      "car",
+      "road"
+    ],
+    "actions": [
+      "driving",
+      "lights",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is bustling with activity as people go about their day despite the rain.",
+    "objects": [
+      "their",
+      "activity",
+      "people",
+      "rain",
+      "about",
+      "despite",
+      "day"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is bustling with activity as people go about their day despite the rain.",
+    "objects": [
+      "their",
+      "activity",
+      "people",
+      "rain",
+      "about",
+      "despite",
+      "day"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is bustling with activity as people go about their day despite the rain.",
+    "objects": [
+      "their",
+      "activity",
+      "people",
+      "rain",
+      "about",
+      "despite",
+      "day"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is bustling with activity as people go about their day despite the rain.",
+    "objects": [
+      "their",
+      "activity",
+      "people",
+      "rain",
+      "about",
+      "despite",
+      "day"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 4
+  }
+]

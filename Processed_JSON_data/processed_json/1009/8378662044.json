@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman and a child are sitting on a sandy beach.",
+    "objects": [
+      "beach",
+      "child",
+      "sandy",
+      "woman"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman and a child are sitting on a sandy beach.",
+    "objects": [
+      "beach",
+      "child",
+      "sandy",
+      "woman"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman and a child are sitting on a sandy beach.",
+    "objects": [
+      "beach",
+      "child",
+      "sandy",
+      "woman"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman and a child are sitting on a sandy beach.",
+    "objects": [
+      "beach",
+      "child",
+      "sandy",
+      "woman"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is wearing a black and white patterned dress, and the child is wearing an orange shirt and a yellow hat.",
+    "objects": [
+      "white",
+      "orange",
+      "child",
+      "woman",
+      "black",
+      "yellow",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "patterned"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is wearing a black and white patterned dress, and the child is wearing an orange shirt and a yellow hat.",
+    "objects": [
+      "white",
+      "orange",
+      "child",
+      "woman",
+      "black",
+      "yellow",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "patterned"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is wearing a black and white patterned dress, and the child is wearing an orange shirt and a yellow hat.",
+    "objects": [
+      "white",
+      "orange",
+      "child",
+      "woman",
+      "black",
+      "yellow",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "patterned"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is wearing a black and white patterned dress, and the child is wearing an orange shirt and a yellow hat.",
+    "objects": [
+      "white",
+      "orange",
+      "child",
+      "woman",
+      "black",
+      "yellow",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "patterned"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The child is holding a blue bucket filled with sand.",
+    "objects": [
+      "bucket",
+      "blue",
+      "sand",
+      "child"
+    ],
+    "actions": [
+      "filled",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The child is holding a blue bucket filled with sand.",
+    "objects": [
+      "bucket",
+      "blue",
+      "sand",
+      "child"
+    ],
+    "actions": [
+      "filled",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The child is holding a blue bucket filled with sand.",
+    "objects": [
+      "bucket",
+      "blue",
+      "sand",
+      "child"
+    ],
+    "actions": [
+      "filled",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The child is holding a blue bucket filled with sand.",
+    "objects": [
+      "bucket",
+      "blue",
+      "sand",
+      "child"
+    ],
+    "actions": [
+      "filled",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is holding a blue bowl and is wearing a blue top.",
+    "objects": [
+      "top",
+      "blue",
+      "bowl",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is holding a blue bowl and is wearing a blue top.",
+    "objects": [
+      "top",
+      "blue",
+      "bowl",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is holding a blue bowl and is wearing a blue top.",
+    "objects": [
+      "top",
+      "blue",
+      "bowl",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is holding a blue bowl and is wearing a blue top.",
+    "objects": [
+      "top",
+      "blue",
+      "bowl",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "There is a man in the background wearing a white shirt and blue shorts, sitting on a chair.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "man",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "shorts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "There is a man in the background wearing a white shirt and blue shorts, sitting on a chair.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "man",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "shorts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "There is a man in the background wearing a white shirt and blue shorts, sitting on a chair.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "man",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "shorts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "There is a man in the background wearing a white shirt and blue shorts, sitting on a chair.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "shirt",
+      "man",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "shorts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a blue bikini is also present, wearing a blue dress and a blue hat.",
+    "objects": [
+      "woman",
+      "blue",
+      "hat",
+      "dress",
+      "bikini",
+      "present"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a blue bikini is also present, wearing a blue dress and a blue hat.",
+    "objects": [
+      "woman",
+      "blue",
+      "hat",
+      "dress",
+      "bikini",
+      "present"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman in a blue bikini is also present, wearing a blue dress and a blue hat.",
+    "objects": [
+      "woman",
+      "blue",
+      "hat",
+      "dress",
+      "bikini",
+      "present"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman in a blue bikini is also present, wearing a blue dress and a blue hat.",
+    "objects": [
+      "woman",
+      "blue",
+      "hat",
+      "dress",
+      "bikini",
+      "present"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "Additionally, a man in a blue shirt is sitting on a beach chair, and another man is standing on the beach, wearing a blue shirt and shorts.",
+    "objects": [
+      "beach",
+      "blue",
+      "shirt",
+      "man",
+      "additionally",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "Additionally, a man in a blue shirt is sitting on a beach chair, and another man is standing on the beach, wearing a blue shirt and shorts.",
+    "objects": [
+      "beach",
+      "blue",
+      "shirt",
+      "man",
+      "additionally",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "Additionally, a man in a blue shirt is sitting on a beach chair, and another man is standing on the beach, wearing a blue shirt and shorts.",
+    "objects": [
+      "beach",
+      "blue",
+      "shirt",
+      "man",
+      "additionally",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "Additionally, a man in a blue shirt is sitting on a beach chair, and another man is standing on the beach, wearing a blue shirt and shorts.",
+    "objects": [
+      "beach",
+      "blue",
+      "shirt",
+      "man",
+      "additionally",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The child is seen playing with the sand while the woman is holding the blue bucket and the man in the background is lying on a chair.",
+    "objects": [
+      "woman",
+      "while",
+      "child",
+      "blue",
+      "bucket",
+      "man",
+      "sand",
+      "chair"
+    ],
+    "actions": [
+      "playing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The child is seen playing with the sand while the woman is holding the blue bucket and the man in the background is lying on a chair.",
+    "objects": [
+      "woman",
+      "while",
+      "child",
+      "blue",
+      "bucket",
+      "man",
+      "sand",
+      "chair"
+    ],
+    "actions": [
+      "playing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The child is seen playing with the sand while the woman is holding the blue bucket and the man in the background is lying on a chair.",
+    "objects": [
+      "woman",
+      "while",
+      "child",
+      "blue",
+      "bucket",
+      "man",
+      "sand",
+      "chair"
+    ],
+    "actions": [
+      "playing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The child is seen playing with the sand while the woman is holding the blue bucket and the man in the background is lying on a chair.",
+    "objects": [
+      "woman",
+      "while",
+      "child",
+      "blue",
+      "bucket",
+      "man",
+      "sand",
+      "chair"
+    ],
+    "actions": [
+      "playing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

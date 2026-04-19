@@ -1,0 +1,486 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young child is seated on the floor, surrounded by a variety of toys and items.",
+    "objects": [
+      "toys",
+      "variety",
+      "young",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "surrounded",
+      "seated",
+      "items"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young child is seated on the floor, surrounded by a variety of toys and items.",
+    "objects": [
+      "toys",
+      "variety",
+      "young",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "surrounded",
+      "seated",
+      "items"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "He is wearing a white shirt and shorts.",
+    "objects": [
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "He is wearing a white shirt and shorts.",
+    "objects": [
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is holding a red and blue car toy, and also has a red and blue toy car nearby.",
+    "objects": [
+      "blue",
+      "car",
+      "toy",
+      "has",
+      "child",
+      "nearby"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is holding a red and blue car toy, and also has a red and blue toy car nearby.",
+    "objects": [
+      "blue",
+      "car",
+      "toy",
+      "has",
+      "child",
+      "nearby"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "He is sitting on a blue mat and a toy train is also present in the scene.",
+    "objects": [
+      "blue",
+      "mat",
+      "train",
+      "toy",
+      "present"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "He is sitting on a blue mat and a toy train is also present in the scene.",
+    "objects": [
+      "blue",
+      "mat",
+      "train",
+      "toy",
+      "present"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A blue and white toy train is also visible, along with a white and blue toy train.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "train",
+      "along"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A blue and white toy train is also visible, along with a white and blue toy train.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "train",
+      "along"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "A white and blue toy car is also present.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "car",
+      "present"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "A white and blue toy car is also present.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "car",
+      "present"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Additionally, there is a white basket and a white toy car.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "additionally",
+      "basket",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Additionally, there is a white basket and a white toy car.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "additionally",
+      "basket",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A blue and white toy car is also in the scene, and the child is holding a blue car.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "car",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A blue and white toy car is also in the scene, and the child is holding a blue car.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "car",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A red and blue toy car is also visible.",
+    "objects": [
+      "blue",
+      "toy",
+      "car"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A red and blue toy car is also visible.",
+    "objects": [
+      "blue",
+      "toy",
+      "car"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The child is also holding a red and blue toy car.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "child"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The child is also holding a red and blue toy car.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "child"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a red and white toy car present in the scene.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "present",
+      "there"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a red and white toy car present in the scene.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "present",
+      "there"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "A white toy car is also visible.",
+    "objects": [
+      "white",
+      "car",
+      "toy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "A white toy car is also visible.",
+    "objects": [
+      "white",
+      "car",
+      "toy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The child is sitting on a blue mat, and there is a red and white toy car.",
+    "objects": [
+      "white",
+      "blue",
+      "mat",
+      "toy",
+      "car",
+      "child",
+      "there"
+    ],
+    "actions": [
+      "sitting",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The child is sitting on a blue mat, and there is a red and white toy car.",
+    "objects": [
+      "white",
+      "blue",
+      "mat",
+      "toy",
+      "car",
+      "child",
+      "there"
+    ],
+    "actions": [
+      "sitting",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A blue and white toy car is also in the scene.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "car"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A blue and white toy car is also in the scene.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "car"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A white toy car is present, and the child is holding a red and blue toy.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "blue",
+      "present",
+      "child"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A white toy car is present, and the child is holding a red and blue toy.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "blue",
+      "present",
+      "child"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "A blue and white toy car is also visible.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "car"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "A blue and white toy car is also visible.",
+    "objects": [
+      "white",
+      "blue",
+      "toy",
+      "car"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  }
+]

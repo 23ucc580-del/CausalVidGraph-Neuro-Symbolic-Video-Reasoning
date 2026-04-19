@@ -1,0 +1,571 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a person wearing a black shoe, black sock, and black pants standing on the floor in front of a robotics course.",
+    "objects": [
+      "course",
+      "shoe",
+      "black",
+      "see",
+      "sock",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants",
+      "robotics"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a person wearing a black shoe, black sock, and black pants standing on the floor in front of a robotics course.",
+    "objects": [
+      "course",
+      "shoe",
+      "black",
+      "see",
+      "sock",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants",
+      "robotics"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a person wearing a black shoe, black sock, and black pants standing on the floor in front of a robotics course.",
+    "objects": [
+      "course",
+      "shoe",
+      "black",
+      "see",
+      "sock",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants",
+      "robotics"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a person wearing a black shoe, black sock, and black pants standing on the floor in front of a robotics course.",
+    "objects": [
+      "course",
+      "shoe",
+      "black",
+      "see",
+      "sock",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants",
+      "robotics"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a person wearing a black shoe, black sock, and black pants standing on the floor in front of a robotics course.",
+    "objects": [
+      "course",
+      "shoe",
+      "black",
+      "see",
+      "sock",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants",
+      "robotics"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The person is holding a small robotic arm with a black base and a gray handle, which they are moving around to make it follow a path on a mat.",
+    "objects": [
+      "arm",
+      "they",
+      "handle",
+      "small",
+      "black",
+      "path",
+      "mat",
+      "make"
+    ],
+    "actions": [
+      "moving",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The person is holding a small robotic arm with a black base and a gray handle, which they are moving around to make it follow a path on a mat.",
+    "objects": [
+      "arm",
+      "they",
+      "handle",
+      "small",
+      "black",
+      "path",
+      "mat",
+      "make"
+    ],
+    "actions": [
+      "moving",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The person is holding a small robotic arm with a black base and a gray handle, which they are moving around to make it follow a path on a mat.",
+    "objects": [
+      "arm",
+      "they",
+      "handle",
+      "small",
+      "black",
+      "path",
+      "mat",
+      "make"
+    ],
+    "actions": [
+      "moving",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The person is holding a small robotic arm with a black base and a gray handle, which they are moving around to make it follow a path on a mat.",
+    "objects": [
+      "arm",
+      "they",
+      "handle",
+      "small",
+      "black",
+      "path",
+      "mat",
+      "make"
+    ],
+    "actions": [
+      "moving",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The person is holding a small robotic arm with a black base and a gray handle, which they are moving around to make it follow a path on a mat.",
+    "objects": [
+      "arm",
+      "they",
+      "handle",
+      "small",
+      "black",
+      "path",
+      "mat",
+      "make"
+    ],
+    "actions": [
+      "moving",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The course is set up on a blue mat, and there is a robotic arm on the right side of the person.",
+    "objects": [
+      "arm",
+      "course",
+      "there",
+      "blue",
+      "mat",
+      "robotic",
+      "set",
+      "side"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The course is set up on a blue mat, and there is a robotic arm on the right side of the person.",
+    "objects": [
+      "arm",
+      "course",
+      "there",
+      "blue",
+      "mat",
+      "robotic",
+      "set",
+      "side"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The course is set up on a blue mat, and there is a robotic arm on the right side of the person.",
+    "objects": [
+      "arm",
+      "course",
+      "there",
+      "blue",
+      "mat",
+      "robotic",
+      "set",
+      "side"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The course is set up on a blue mat, and there is a robotic arm on the right side of the person.",
+    "objects": [
+      "arm",
+      "course",
+      "there",
+      "blue",
+      "mat",
+      "robotic",
+      "set",
+      "side"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The course is set up on a blue mat, and there is a robotic arm on the right side of the person.",
+    "objects": [
+      "arm",
+      "course",
+      "there",
+      "blue",
+      "mat",
+      "robotic",
+      "set",
+      "side"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The robotic arm is a silver color and has a gray base with a black handle, which is also being moved around by the person.",
+    "objects": [
+      "arm",
+      "handle",
+      "black",
+      "has",
+      "gray",
+      "base",
+      "silver",
+      "color"
+    ],
+    "actions": [
+      "moved",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The robotic arm is a silver color and has a gray base with a black handle, which is also being moved around by the person.",
+    "objects": [
+      "arm",
+      "handle",
+      "black",
+      "has",
+      "gray",
+      "base",
+      "silver",
+      "color"
+    ],
+    "actions": [
+      "moved",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The robotic arm is a silver color and has a gray base with a black handle, which is also being moved around by the person.",
+    "objects": [
+      "arm",
+      "handle",
+      "black",
+      "has",
+      "gray",
+      "base",
+      "silver",
+      "color"
+    ],
+    "actions": [
+      "moved",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The robotic arm is a silver color and has a gray base with a black handle, which is also being moved around by the person.",
+    "objects": [
+      "arm",
+      "handle",
+      "black",
+      "has",
+      "gray",
+      "base",
+      "silver",
+      "color"
+    ],
+    "actions": [
+      "moved",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The robotic arm is a silver color and has a gray base with a black handle, which is also being moved around by the person.",
+    "objects": [
+      "arm",
+      "handle",
+      "black",
+      "has",
+      "gray",
+      "base",
+      "silver",
+      "color"
+    ],
+    "actions": [
+      "moved",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The floor has a carpeted surface, and there is a robotic arm on the left side of the person that is black in color with a black base and a gray handle.",
+    "objects": [
+      "surface",
+      "arm",
+      "there",
+      "handle",
+      "black",
+      "has",
+      "gray",
+      "base"
+    ],
+    "actions": [
+      "carpeted"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The floor has a carpeted surface, and there is a robotic arm on the left side of the person that is black in color with a black base and a gray handle.",
+    "objects": [
+      "surface",
+      "arm",
+      "there",
+      "handle",
+      "black",
+      "has",
+      "gray",
+      "base"
+    ],
+    "actions": [
+      "carpeted"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The floor has a carpeted surface, and there is a robotic arm on the left side of the person that is black in color with a black base and a gray handle.",
+    "objects": [
+      "surface",
+      "arm",
+      "there",
+      "handle",
+      "black",
+      "has",
+      "gray",
+      "base"
+    ],
+    "actions": [
+      "carpeted"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The floor has a carpeted surface, and there is a robotic arm on the left side of the person that is black in color with a black base and a gray handle.",
+    "objects": [
+      "surface",
+      "arm",
+      "there",
+      "handle",
+      "black",
+      "has",
+      "gray",
+      "base"
+    ],
+    "actions": [
+      "carpeted"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The floor has a carpeted surface, and there is a robotic arm on the left side of the person that is black in color with a black base and a gray handle.",
+    "objects": [
+      "surface",
+      "arm",
+      "there",
+      "handle",
+      "black",
+      "has",
+      "gray",
+      "base"
+    ],
+    "actions": [
+      "carpeted"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "This arm is also being moved around by the person.",
+    "objects": [
+      "arm",
+      "around",
+      "this"
+    ],
+    "actions": [
+      "moved",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "This arm is also being moved around by the person.",
+    "objects": [
+      "arm",
+      "around",
+      "this"
+    ],
+    "actions": [
+      "moved",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "This arm is also being moved around by the person.",
+    "objects": [
+      "arm",
+      "around",
+      "this"
+    ],
+    "actions": [
+      "moved",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "This arm is also being moved around by the person.",
+    "objects": [
+      "arm",
+      "around",
+      "this"
+    ],
+    "actions": [
+      "moved",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "This arm is also being moved around by the person.",
+    "objects": [
+      "arm",
+      "around",
+      "this"
+    ],
+    "actions": [
+      "moved",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The background consists of a gray wall with a blackboard and a whiteboard, and the person is wearing a blue hoodie.",
+    "objects": [
+      "whiteboard",
+      "wall",
+      "blackboard",
+      "blue",
+      "gray",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "consists"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The background consists of a gray wall with a blackboard and a whiteboard, and the person is wearing a blue hoodie.",
+    "objects": [
+      "whiteboard",
+      "wall",
+      "blackboard",
+      "blue",
+      "gray",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "consists"
+    ],
+    "segment_id": 6
+  }
+]

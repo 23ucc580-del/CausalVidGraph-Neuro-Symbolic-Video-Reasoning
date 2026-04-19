@@ -1,0 +1,569 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a young man sitting in a room, engrossed in playing a video game on his television.",
+    "objects": [
+      "man",
+      "television",
+      "young",
+      "game",
+      "his",
+      "room"
+    ],
+    "actions": [
+      "engrossed",
+      "opens",
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a young man sitting in a room, engrossed in playing a video game on his television.",
+    "objects": [
+      "man",
+      "television",
+      "young",
+      "game",
+      "his",
+      "room"
+    ],
+    "actions": [
+      "engrossed",
+      "opens",
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video opens with a young man sitting in a room, engrossed in playing a video game on his television.",
+    "objects": [
+      "man",
+      "television",
+      "young",
+      "game",
+      "his",
+      "room"
+    ],
+    "actions": [
+      "engrossed",
+      "opens",
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "He's holding a guitar, which he strums while the game continues to play on the screen.",
+    "objects": [
+      "which",
+      "play",
+      "game",
+      "while",
+      "screen",
+      "guitar"
+    ],
+    "actions": [
+      "strums",
+      "holding",
+      "continues"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He's holding a guitar, which he strums while the game continues to play on the screen.",
+    "objects": [
+      "which",
+      "play",
+      "game",
+      "while",
+      "screen",
+      "guitar"
+    ],
+    "actions": [
+      "strums",
+      "holding",
+      "continues"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He's holding a guitar, which he strums while the game continues to play on the screen.",
+    "objects": [
+      "which",
+      "play",
+      "game",
+      "while",
+      "screen",
+      "guitar"
+    ],
+    "actions": [
+      "strums",
+      "holding",
+      "continues"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The game seems to be a rhythm-based one, with the man's fingers dancing along the frets as the music on the screen crescendos.",
+    "objects": [
+      "along",
+      "music",
+      "one",
+      "screen",
+      "game"
+    ],
+    "actions": [
+      "crescendos",
+      "frets",
+      "seems",
+      "man's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The game seems to be a rhythm-based one, with the man's fingers dancing along the frets as the music on the screen crescendos.",
+    "objects": [
+      "along",
+      "music",
+      "one",
+      "screen",
+      "game"
+    ],
+    "actions": [
+      "crescendos",
+      "frets",
+      "seems",
+      "man's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The game seems to be a rhythm-based one, with the man's fingers dancing along the frets as the music on the screen crescendos.",
+    "objects": [
+      "along",
+      "music",
+      "one",
+      "screen",
+      "game"
+    ],
+    "actions": [
+      "crescendos",
+      "frets",
+      "seems",
+      "man's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The room is casual, with a bed and a window in the background, and the man's focus is entirely on the game.",
+    "objects": [
+      "casual",
+      "window",
+      "entirely",
+      "game",
+      "room"
+    ],
+    "actions": [
+      "focus",
+      "man's",
+      "bed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The room is casual, with a bed and a window in the background, and the man's focus is entirely on the game.",
+    "objects": [
+      "casual",
+      "window",
+      "entirely",
+      "game",
+      "room"
+    ],
+    "actions": [
+      "focus",
+      "man's",
+      "bed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The room is casual, with a bed and a window in the background, and the man's focus is entirely on the game.",
+    "objects": [
+      "casual",
+      "window",
+      "entirely",
+      "game",
+      "room"
+    ],
+    "actions": [
+      "focus",
+      "man's",
+      "bed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "He's wearing a blue shirt and appears to be enjoying himself, his attention completely absorbed by the game.",
+    "objects": [
+      "himself",
+      "attention",
+      "blue",
+      "shirt",
+      "game",
+      "completely",
+      "his"
+    ],
+    "actions": [
+      "enjoying",
+      "wearing",
+      "absorbed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "He's wearing a blue shirt and appears to be enjoying himself, his attention completely absorbed by the game.",
+    "objects": [
+      "himself",
+      "attention",
+      "blue",
+      "shirt",
+      "game",
+      "completely",
+      "his"
+    ],
+    "actions": [
+      "enjoying",
+      "wearing",
+      "absorbed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "He's wearing a blue shirt and appears to be enjoying himself, his attention completely absorbed by the game.",
+    "objects": [
+      "himself",
+      "attention",
+      "blue",
+      "shirt",
+      "game",
+      "completely",
+      "his"
+    ],
+    "actions": [
+      "enjoying",
+      "wearing",
+      "absorbed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "In another scene, a woman is also in a room, holding a guitar.",
+    "objects": [
+      "guitar",
+      "woman",
+      "room"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "In another scene, a woman is also in a room, holding a guitar.",
+    "objects": [
+      "guitar",
+      "woman",
+      "room"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "In another scene, a woman is also in a room, holding a guitar.",
+    "objects": [
+      "guitar",
+      "woman",
+      "room"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "She's standing up, and her fingers are moving along the strings, perhaps practicing a melody or a new riff.",
+    "objects": [
+      "along",
+      "riff",
+      "new",
+      "her",
+      "melody"
+    ],
+    "actions": [
+      "fingers",
+      "perhaps",
+      "practicing",
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "She's standing up, and her fingers are moving along the strings, perhaps practicing a melody or a new riff.",
+    "objects": [
+      "along",
+      "riff",
+      "new",
+      "her",
+      "melody"
+    ],
+    "actions": [
+      "fingers",
+      "perhaps",
+      "practicing",
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "She's standing up, and her fingers are moving along the strings, perhaps practicing a melody or a new riff.",
+    "objects": [
+      "along",
+      "riff",
+      "new",
+      "her",
+      "melody"
+    ],
+    "actions": [
+      "fingers",
+      "perhaps",
+      "practicing",
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The room is cozy, with a window and a bed in the background, and she seems to be in a moment of relaxation and creativity, lost in her music.",
+    "objects": [
+      "lost",
+      "she",
+      "relaxation",
+      "window",
+      "music",
+      "room",
+      "creativity",
+      "her"
+    ],
+    "actions": [
+      "bed",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The room is cozy, with a window and a bed in the background, and she seems to be in a moment of relaxation and creativity, lost in her music.",
+    "objects": [
+      "lost",
+      "she",
+      "relaxation",
+      "window",
+      "music",
+      "room",
+      "creativity",
+      "her"
+    ],
+    "actions": [
+      "bed",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The room is cozy, with a window and a bed in the background, and she seems to be in a moment of relaxation and creativity, lost in her music.",
+    "objects": [
+      "lost",
+      "she",
+      "relaxation",
+      "window",
+      "music",
+      "room",
+      "creativity",
+      "her"
+    ],
+    "actions": [
+      "bed",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The final scene shows the man and woman together in the same room, both holding guitars.",
+    "objects": [
+      "woman",
+      "man",
+      "same",
+      "final",
+      "together",
+      "both",
+      "room"
+    ],
+    "actions": [
+      "guitars",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The final scene shows the man and woman together in the same room, both holding guitars.",
+    "objects": [
+      "woman",
+      "man",
+      "same",
+      "final",
+      "together",
+      "both",
+      "room"
+    ],
+    "actions": [
+      "guitars",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The final scene shows the man and woman together in the same room, both holding guitars.",
+    "objects": [
+      "woman",
+      "man",
+      "same",
+      "final",
+      "together",
+      "both",
+      "room"
+    ],
+    "actions": [
+      "guitars",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "They're smiling, suggesting a moment of camaraderie and shared interest in music.",
+    "objects": [
+      "moment",
+      "music",
+      "interest",
+      "camaraderie"
+    ],
+    "actions": [
+      "smiling",
+      "suggesting",
+      "shared"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "They're smiling, suggesting a moment of camaraderie and shared interest in music.",
+    "objects": [
+      "moment",
+      "music",
+      "interest",
+      "camaraderie"
+    ],
+    "actions": [
+      "smiling",
+      "suggesting",
+      "shared"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "They're smiling, suggesting a moment of camaraderie and shared interest in music.",
+    "objects": [
+      "moment",
+      "music",
+      "interest",
+      "camaraderie"
+    ],
+    "actions": [
+      "smiling",
+      "suggesting",
+      "shared"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The man is wearing a blue shirt and the woman a white top, and their guitars are in their hands, indicating a shared passion for music.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "their",
+      "passion",
+      "blue",
+      "music",
+      "shirt"
+    ],
+    "actions": [
+      "guitars",
+      "wearing",
+      "indicating",
+      "hands"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The man is wearing a blue shirt and the woman a white top, and their guitars are in their hands, indicating a shared passion for music.",
+    "objects": [
+      "woman",
+      "white",
+      "man",
+      "their",
+      "passion",
+      "blue",
+      "music",
+      "shirt"
+    ],
+    "actions": [
+      "guitars",
+      "wearing",
+      "indicating",
+      "hands"
+    ],
+    "segment_id": 10
+  }
+]

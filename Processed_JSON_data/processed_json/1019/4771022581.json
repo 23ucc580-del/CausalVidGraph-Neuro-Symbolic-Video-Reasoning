@@ -1,0 +1,537 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young child is standing in a room filled with toys, including a pink piano.",
+    "objects": [
+      "room",
+      "pink",
+      "child",
+      "toys",
+      "young",
+      "piano"
+    ],
+    "actions": [
+      "standing",
+      "filled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young child is standing in a room filled with toys, including a pink piano.",
+    "objects": [
+      "room",
+      "pink",
+      "child",
+      "toys",
+      "young",
+      "piano"
+    ],
+    "actions": [
+      "standing",
+      "filled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young child is standing in a room filled with toys, including a pink piano.",
+    "objects": [
+      "room",
+      "pink",
+      "child",
+      "toys",
+      "young",
+      "piano"
+    ],
+    "actions": [
+      "standing",
+      "filled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The child is wearing a purple shirt and is smiling while holding a toy, presumably a stuffed animal or a toy car.",
+    "objects": [
+      "animal",
+      "child",
+      "while",
+      "presumably",
+      "shirt",
+      "car",
+      "purple",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "stuffed",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is wearing a purple shirt and is smiling while holding a toy, presumably a stuffed animal or a toy car.",
+    "objects": [
+      "animal",
+      "child",
+      "while",
+      "presumably",
+      "shirt",
+      "car",
+      "purple",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "stuffed",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is wearing a purple shirt and is smiling while holding a toy, presumably a stuffed animal or a toy car.",
+    "objects": [
+      "animal",
+      "child",
+      "while",
+      "presumably",
+      "shirt",
+      "car",
+      "purple",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "stuffed",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The room is well-lit, and the child seems to be enjoying their time.",
+    "objects": [
+      "their",
+      "room",
+      "time",
+      "child"
+    ],
+    "actions": [
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The room is well-lit, and the child seems to be enjoying their time.",
+    "objects": [
+      "their",
+      "room",
+      "time",
+      "child"
+    ],
+    "actions": [
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The room is well-lit, and the child seems to be enjoying their time.",
+    "objects": [
+      "their",
+      "room",
+      "time",
+      "child"
+    ],
+    "actions": [
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A woman is standing nearby, wearing a blue shirt, and holding a makeup brush.",
+    "objects": [
+      "woman",
+      "makeup",
+      "blue",
+      "shirt",
+      "brush",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A woman is standing nearby, wearing a blue shirt, and holding a makeup brush.",
+    "objects": [
+      "woman",
+      "makeup",
+      "blue",
+      "shirt",
+      "brush",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman is standing nearby, wearing a blue shirt, and holding a makeup brush.",
+    "objects": [
+      "woman",
+      "makeup",
+      "blue",
+      "shirt",
+      "brush",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The child is also wearing a cat-themed shirt and is wearing a cat-themed makeup.",
+    "objects": [
+      "makeup",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "cat-themed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The child is also wearing a cat-themed shirt and is wearing a cat-themed makeup.",
+    "objects": [
+      "makeup",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "cat-themed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The child is also wearing a cat-themed shirt and is wearing a cat-themed makeup.",
+    "objects": [
+      "makeup",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "cat-themed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is standing near a window with a green plant.",
+    "objects": [
+      "plant",
+      "window",
+      "green",
+      "woman"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The woman is standing near a window with a green plant.",
+    "objects": [
+      "plant",
+      "window",
+      "green",
+      "woman"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman is standing near a window with a green plant.",
+    "objects": [
+      "plant",
+      "window",
+      "green",
+      "woman"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The room is well-lit, and there's a glimpse of a silver car outside the window.",
+    "objects": [
+      "glimpse",
+      "outside",
+      "silver",
+      "window",
+      "car",
+      "room"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The room is well-lit, and there's a glimpse of a silver car outside the window.",
+    "objects": [
+      "glimpse",
+      "outside",
+      "silver",
+      "window",
+      "car",
+      "room"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The room is well-lit, and there's a glimpse of a silver car outside the window.",
+    "objects": [
+      "glimpse",
+      "outside",
+      "silver",
+      "window",
+      "car",
+      "room"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The child is standing in front of the window, and there's a toy car in the background.",
+    "objects": [
+      "window",
+      "toy",
+      "car",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The child is standing in front of the window, and there's a toy car in the background.",
+    "objects": [
+      "window",
+      "toy",
+      "car",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The child is standing in front of the window, and there's a toy car in the background.",
+    "objects": [
+      "window",
+      "toy",
+      "car",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The child is wearing a pink hoodie and appears to be walking towards the woman while holding a stuffed animal or a toy car.",
+    "objects": [
+      "animal",
+      "pink",
+      "while",
+      "woman",
+      "child",
+      "hoodie",
+      "car",
+      "toy"
+    ],
+    "actions": [
+      "towards",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The child is wearing a pink hoodie and appears to be walking towards the woman while holding a stuffed animal or a toy car.",
+    "objects": [
+      "animal",
+      "pink",
+      "while",
+      "woman",
+      "child",
+      "hoodie",
+      "car",
+      "toy"
+    ],
+    "actions": [
+      "towards",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The child is wearing a pink hoodie and appears to be walking towards the woman while holding a stuffed animal or a toy car.",
+    "objects": [
+      "animal",
+      "pink",
+      "while",
+      "woman",
+      "child",
+      "hoodie",
+      "car",
+      "toy"
+    ],
+    "actions": [
+      "towards",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The room is filled with toys, and the child is wearing a blue shirt and holding a toy.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "toys",
+      "room",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "filled",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The room is filled with toys, and the child is wearing a blue shirt and holding a toy.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "toys",
+      "room",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "filled",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The room is filled with toys, and the child is wearing a blue shirt and holding a toy.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "toys",
+      "room",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "filled",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The child is wearing a cat-themed shirt and a cat-themed makeup.",
+    "objects": [
+      "makeup",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "cat-themed"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The child is wearing a cat-themed shirt and a cat-themed makeup.",
+    "objects": [
+      "makeup",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "cat-themed"
+    ],
+    "segment_id": 10
+  }
+]

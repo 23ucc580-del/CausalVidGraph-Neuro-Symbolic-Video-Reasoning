@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with two people standing on a rocky outcropping, their backs to the camera, facing away.",
+    "objects": [
+      "their",
+      "people",
+      "two",
+      "away",
+      "rocky"
+    ],
+    "actions": [
+      "standing",
+      "facing",
+      "backs",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with two people standing on a rocky outcropping, their backs to the camera, facing away.",
+    "objects": [
+      "their",
+      "people",
+      "two",
+      "away",
+      "rocky"
+    ],
+    "actions": [
+      "standing",
+      "facing",
+      "backs",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The man is wearing a blue hoodie, and the woman is in a green shirt.",
+    "objects": [
+      "woman",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The man is wearing a blue hoodie, and the woman is in a green shirt.",
+    "objects": [
+      "woman",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "They both appear to be wearing swimsuits, suggesting they are about to go for a swim.",
+    "objects": [
+      "they",
+      "appear",
+      "swim",
+      "both",
+      "about"
+    ],
+    "actions": [
+      "wearing",
+      "swimsuits",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "They both appear to be wearing swimsuits, suggesting they are about to go for a swim.",
+    "objects": [
+      "they",
+      "appear",
+      "swim",
+      "both",
+      "about"
+    ],
+    "actions": [
+      "wearing",
+      "swimsuits",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is holding a red object, which could be a floating device or a swim accessory.",
+    "objects": [
+      "device",
+      "accessory",
+      "swim",
+      "woman",
+      "which",
+      "object",
+      "could"
+    ],
+    "actions": [
+      "holding",
+      "floating",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is holding a red object, which could be a floating device or a swim accessory.",
+    "objects": [
+      "device",
+      "accessory",
+      "swim",
+      "woman",
+      "which",
+      "object",
+      "could"
+    ],
+    "actions": [
+      "holding",
+      "floating",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is holding the woman's right hand, indicating a supportive or assistive gesture.",
+    "objects": [
+      "supportive",
+      "man",
+      "assistive",
+      "gesture",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "holding",
+      "indicating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is holding the woman's right hand, indicating a supportive or assistive gesture.",
+    "objects": [
+      "supportive",
+      "man",
+      "assistive",
+      "gesture",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "holding",
+      "indicating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The man then bends over and leans in, and the woman leans on him, creating a supportive or reassuring moment.",
+    "objects": [
+      "moment",
+      "woman",
+      "him",
+      "supportive",
+      "man",
+      "then",
+      "over"
+    ],
+    "actions": [
+      "leans",
+      "reassuring",
+      "creating",
+      "bends"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The man then bends over and leans in, and the woman leans on him, creating a supportive or reassuring moment.",
+    "objects": [
+      "moment",
+      "woman",
+      "him",
+      "supportive",
+      "man",
+      "then",
+      "over"
+    ],
+    "actions": [
+      "leans",
+      "reassuring",
+      "creating",
+      "bends"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The man turns to face the camera and smiles, indicating a sense of enjoyment or contentment.",
+    "objects": [
+      "contentment",
+      "face",
+      "sense",
+      "man",
+      "enjoyment"
+    ],
+    "actions": [
+      "smiles",
+      "turns",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The man turns to face the camera and smiles, indicating a sense of enjoyment or contentment.",
+    "objects": [
+      "contentment",
+      "face",
+      "sense",
+      "man",
+      "enjoyment"
+    ],
+    "actions": [
+      "smiles",
+      "turns",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The scene shifts to the two individuals in the water.",
+    "objects": [
+      "water",
+      "two"
+    ],
+    "actions": [
+      "shifts",
+      "individuals"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The scene shifts to the two individuals in the water.",
+    "objects": [
+      "water",
+      "two"
+    ],
+    "actions": [
+      "shifts",
+      "individuals"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The woman is wearing a green shirt and is standing, while the man is in a blue shirt and is swimming.",
+    "objects": [
+      "woman",
+      "while",
+      "blue",
+      "green",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman is wearing a green shirt and is standing, while the man is in a blue shirt and is swimming.",
+    "objects": [
+      "woman",
+      "while",
+      "blue",
+      "green",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman seems to be holding onto the man's arm, providing support or assistance.",
+    "objects": [
+      "arm",
+      "support",
+      "woman",
+      "onto",
+      "assistance"
+    ],
+    "actions": [
+      "seems",
+      "providing",
+      "holding",
+      "man's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman seems to be holding onto the man's arm, providing support or assistance.",
+    "objects": [
+      "arm",
+      "support",
+      "woman",
+      "onto",
+      "assistance"
+    ],
+    "actions": [
+      "seems",
+      "providing",
+      "holding",
+      "man's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is seen floating on his back, indicating a moment of relaxation or leisure.",
+    "objects": [
+      "moment",
+      "relaxation",
+      "his",
+      "man",
+      "leisure"
+    ],
+    "actions": [
+      "floating",
+      "indicating"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is seen floating on his back, indicating a moment of relaxation or leisure.",
+    "objects": [
+      "moment",
+      "relaxation",
+      "his",
+      "man",
+      "leisure"
+    ],
+    "actions": [
+      "floating",
+      "indicating"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then shows the man and the woman in the water, with the man still swimming and the woman standing.",
+    "objects": [
+      "woman",
+      "man",
+      "then",
+      "water",
+      "still"
+    ],
+    "actions": [
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then shows the man and the woman in the water, with the man still swimming and the woman standing.",
+    "objects": [
+      "woman",
+      "man",
+      "then",
+      "water",
+      "still"
+    ],
+    "actions": [
+      "swimming",
+      "standing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman is holding onto the man's arm, providing support or assistance.",
+    "objects": [
+      "arm",
+      "support",
+      "woman",
+      "onto",
+      "assistance"
+    ],
+    "actions": [
+      "providing",
+      "holding",
+      "man's"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman is holding onto the man's arm, providing support or assistance.",
+    "objects": [
+      "arm",
+      "support",
+      "woman",
+      "onto",
+      "assistance"
+    ],
+    "actions": [
+      "providing",
+      "holding",
+      "man's"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is wearing a blue shirt and is seen floating on his back, indicating a moment of relaxation or leisure.",
+    "objects": [
+      "moment",
+      "relaxation",
+      "blue",
+      "shirt",
+      "his",
+      "man",
+      "leisure"
+    ],
+    "actions": [
+      "wearing",
+      "floating",
+      "indicating"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is wearing a blue shirt and is seen floating on his back, indicating a moment of relaxation or leisure.",
+    "objects": [
+      "moment",
+      "relaxation",
+      "blue",
+      "shirt",
+      "his",
+      "man",
+      "leisure"
+    ],
+    "actions": [
+      "wearing",
+      "floating",
+      "indicating"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene concludes with the man and woman in the water, with the woman standing and the man in a blue shirt.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "concludes",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene concludes with the man and woman in the water, with the woman standing and the man in a blue shirt.",
+    "objects": [
+      "woman",
+      "blue",
+      "shirt",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "concludes",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman is holding onto the man's arm, providing support or assistance.",
+    "objects": [
+      "arm",
+      "support",
+      "woman",
+      "onto",
+      "assistance"
+    ],
+    "actions": [
+      "providing",
+      "holding",
+      "man's"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman is holding onto the man's arm, providing support or assistance.",
+    "objects": [
+      "arm",
+      "support",
+      "woman",
+      "onto",
+      "assistance"
+    ],
+    "actions": [
+      "providing",
+      "holding",
+      "man's"
+    ],
+    "segment_id": 15
+  }
+]

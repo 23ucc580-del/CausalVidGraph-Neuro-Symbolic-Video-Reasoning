@@ -1,0 +1,549 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is gathered around a dining table, enjoying a meal together.",
+    "objects": [
+      "around",
+      "meal",
+      "people",
+      "together",
+      "table",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "dining",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is gathered around a dining table, enjoying a meal together.",
+    "objects": [
+      "around",
+      "meal",
+      "people",
+      "together",
+      "table",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "dining",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people is gathered around a dining table, enjoying a meal together.",
+    "objects": [
+      "around",
+      "meal",
+      "people",
+      "together",
+      "table",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "dining",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The table is adorned with a blue tablecloth and features a plaid table runner.",
+    "objects": [
+      "blue",
+      "runner",
+      "plaid",
+      "tablecloth",
+      "table"
+    ],
+    "actions": [
+      "adorned",
+      "features"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The table is adorned with a blue tablecloth and features a plaid table runner.",
+    "objects": [
+      "blue",
+      "runner",
+      "plaid",
+      "tablecloth",
+      "table"
+    ],
+    "actions": [
+      "adorned",
+      "features"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The table is adorned with a blue tablecloth and features a plaid table runner.",
+    "objects": [
+      "blue",
+      "runner",
+      "plaid",
+      "tablecloth",
+      "table"
+    ],
+    "actions": [
+      "adorned",
+      "features"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "On it, there are plates of food, silverware, and cups.",
+    "objects": [
+      "cups",
+      "there",
+      "silverware",
+      "food"
+    ],
+    "actions": [
+      "plates"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "On it, there are plates of food, silverware, and cups.",
+    "objects": [
+      "cups",
+      "there",
+      "silverware",
+      "food"
+    ],
+    "actions": [
+      "plates"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "On it, there are plates of food, silverware, and cups.",
+    "objects": [
+      "cups",
+      "there",
+      "silverware",
+      "food"
+    ],
+    "actions": [
+      "plates"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A woman wearing a black shirt is seated on the left side of the table, while a man wearing a blue hoodie is on the right side.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "side",
+      "shirt",
+      "hoodie",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A woman wearing a black shirt is seated on the left side of the table, while a man wearing a blue hoodie is on the right side.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "side",
+      "shirt",
+      "hoodie",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman wearing a black shirt is seated on the left side of the table, while a man wearing a blue hoodie is on the right side.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "side",
+      "shirt",
+      "hoodie",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Both are engaged in conversation.",
+    "objects": [
+      "conversation",
+      "both"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Both are engaged in conversation.",
+    "objects": [
+      "conversation",
+      "both"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Both are engaged in conversation.",
+    "objects": [
+      "conversation",
+      "both"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman wearing a black shirt is sitting at the far end of the table, and another woman, dressed in a white shirt, is seated across from her.",
+    "objects": [
+      "far",
+      "white",
+      "across",
+      "her",
+      "end",
+      "shirt",
+      "table",
+      "from"
+    ],
+    "actions": [
+      "seated",
+      "sitting",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman wearing a black shirt is sitting at the far end of the table, and another woman, dressed in a white shirt, is seated across from her.",
+    "objects": [
+      "far",
+      "white",
+      "across",
+      "her",
+      "end",
+      "shirt",
+      "table",
+      "from"
+    ],
+    "actions": [
+      "seated",
+      "sitting",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman wearing a black shirt is sitting at the far end of the table, and another woman, dressed in a white shirt, is seated across from her.",
+    "objects": [
+      "far",
+      "white",
+      "across",
+      "her",
+      "end",
+      "shirt",
+      "table",
+      "from"
+    ],
+    "actions": [
+      "seated",
+      "sitting",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman in the black shirt is holding a white plate with a piece of food on it, and a fork.",
+    "objects": [
+      "white",
+      "fork",
+      "shirt",
+      "food",
+      "piece",
+      "black",
+      "woman",
+      "plate"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman in the black shirt is holding a white plate with a piece of food on it, and a fork.",
+    "objects": [
+      "white",
+      "fork",
+      "shirt",
+      "food",
+      "piece",
+      "black",
+      "woman",
+      "plate"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman in the black shirt is holding a white plate with a piece of food on it, and a fork.",
+    "objects": [
+      "white",
+      "fork",
+      "shirt",
+      "food",
+      "piece",
+      "black",
+      "woman",
+      "plate"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman in the white shirt has a cup in her hand.",
+    "objects": [
+      "white",
+      "hand",
+      "has",
+      "cup",
+      "her",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman in the white shirt has a cup in her hand.",
+    "objects": [
+      "white",
+      "hand",
+      "has",
+      "cup",
+      "her",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman in the white shirt has a cup in her hand.",
+    "objects": [
+      "white",
+      "hand",
+      "has",
+      "cup",
+      "her",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "There are two women on the far end of the table who are eating and talking, one is wearing a blue shirt and the other a white shirt.",
+    "objects": [
+      "far",
+      "white",
+      "blue",
+      "women",
+      "end",
+      "other",
+      "shirt",
+      "there"
+    ],
+    "actions": [
+      "eating",
+      "wearing",
+      "talking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "There are two women on the far end of the table who are eating and talking, one is wearing a blue shirt and the other a white shirt.",
+    "objects": [
+      "far",
+      "white",
+      "blue",
+      "women",
+      "end",
+      "other",
+      "shirt",
+      "there"
+    ],
+    "actions": [
+      "eating",
+      "wearing",
+      "talking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "There are two women on the far end of the table who are eating and talking, one is wearing a blue shirt and the other a white shirt.",
+    "objects": [
+      "far",
+      "white",
+      "blue",
+      "women",
+      "end",
+      "other",
+      "shirt",
+      "there"
+    ],
+    "actions": [
+      "eating",
+      "wearing",
+      "talking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman in the blue shirt has a plate of food in front of her and a napkin in her lap, while the woman in the white shirt is holding a plate.",
+    "objects": [
+      "white",
+      "blue",
+      "lap",
+      "has",
+      "her",
+      "napkin",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman in the blue shirt has a plate of food in front of her and a napkin in her lap, while the woman in the white shirt is holding a plate.",
+    "objects": [
+      "white",
+      "blue",
+      "lap",
+      "has",
+      "her",
+      "napkin",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman in the blue shirt has a plate of food in front of her and a napkin in her lap, while the woman in the white shirt is holding a plate.",
+    "objects": [
+      "white",
+      "blue",
+      "lap",
+      "has",
+      "her",
+      "napkin",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman in the blue shirt is also holding a fork.",
+    "objects": [
+      "blue",
+      "fork",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman in the blue shirt is also holding a fork.",
+    "objects": [
+      "blue",
+      "fork",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

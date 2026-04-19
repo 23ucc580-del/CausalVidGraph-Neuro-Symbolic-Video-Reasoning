@@ -1,0 +1,598 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a man is seated at a grand piano, playing a tune with a joyful smile on his face.",
+    "objects": [
+      "tune",
+      "piano",
+      "face",
+      "smile",
+      "grand",
+      "joyful",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "seated",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a man is seated at a grand piano, playing a tune with a joyful smile on his face.",
+    "objects": [
+      "tune",
+      "piano",
+      "face",
+      "smile",
+      "grand",
+      "joyful",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "seated",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a man is seated at a grand piano, playing a tune with a joyful smile on his face.",
+    "objects": [
+      "tune",
+      "piano",
+      "face",
+      "smile",
+      "grand",
+      "joyful",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "seated",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The room is filled with people dressed in festive attire, engaged in conversation and enjoying the festive atmosphere.",
+    "objects": [
+      "festive",
+      "room",
+      "attire",
+      "conversation",
+      "atmosphere",
+      "people"
+    ],
+    "actions": [
+      "filled",
+      "enjoying",
+      "engaged",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is filled with people dressed in festive attire, engaged in conversation and enjoying the festive atmosphere.",
+    "objects": [
+      "festive",
+      "room",
+      "attire",
+      "conversation",
+      "atmosphere",
+      "people"
+    ],
+    "actions": [
+      "filled",
+      "enjoying",
+      "engaged",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is filled with people dressed in festive attire, engaged in conversation and enjoying the festive atmosphere.",
+    "objects": [
+      "festive",
+      "room",
+      "attire",
+      "conversation",
+      "atmosphere",
+      "people"
+    ],
+    "actions": [
+      "filled",
+      "enjoying",
+      "engaged",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A brown and white dog stands close by, seemingly enjoying the music and the company.",
+    "objects": [
+      "white",
+      "brown",
+      "close",
+      "dog",
+      "company",
+      "music",
+      "seemingly"
+    ],
+    "actions": [
+      "enjoying",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A brown and white dog stands close by, seemingly enjoying the music and the company.",
+    "objects": [
+      "white",
+      "brown",
+      "close",
+      "dog",
+      "company",
+      "music",
+      "seemingly"
+    ],
+    "actions": [
+      "enjoying",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A brown and white dog stands close by, seemingly enjoying the music and the company.",
+    "objects": [
+      "white",
+      "brown",
+      "close",
+      "dog",
+      "company",
+      "music",
+      "seemingly"
+    ],
+    "actions": [
+      "enjoying",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "As the man plays, a woman stands nearby, her attention captured by the melody.",
+    "objects": [
+      "her",
+      "nearby",
+      "man",
+      "melody",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "captured",
+      "plays",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "As the man plays, a woman stands nearby, her attention captured by the melody.",
+    "objects": [
+      "her",
+      "nearby",
+      "man",
+      "melody",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "captured",
+      "plays",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "As the man plays, a woman stands nearby, her attention captured by the melody.",
+    "objects": [
+      "her",
+      "nearby",
+      "man",
+      "melody",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "captured",
+      "plays",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A woman in a red dress stands nearby, her gaze fixed on the man's fingers dancing across the keys.",
+    "objects": [
+      "her",
+      "nearby",
+      "dress",
+      "across",
+      "keys",
+      "woman",
+      "gaze"
+    ],
+    "actions": [
+      "red",
+      "fixed",
+      "dancing",
+      "man's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A woman in a red dress stands nearby, her gaze fixed on the man's fingers dancing across the keys.",
+    "objects": [
+      "her",
+      "nearby",
+      "dress",
+      "across",
+      "keys",
+      "woman",
+      "gaze"
+    ],
+    "actions": [
+      "red",
+      "fixed",
+      "dancing",
+      "man's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A woman in a red dress stands nearby, her gaze fixed on the man's fingers dancing across the keys.",
+    "objects": [
+      "her",
+      "nearby",
+      "dress",
+      "across",
+      "keys",
+      "woman",
+      "gaze"
+    ],
+    "actions": [
+      "red",
+      "fixed",
+      "dancing",
+      "man's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman in a black dress watches the scene unfold, her attention captivated by the man's performance.",
+    "objects": [
+      "her",
+      "unfold",
+      "dress",
+      "black",
+      "woman",
+      "attention",
+      "performance"
+    ],
+    "actions": [
+      "man's",
+      "watches",
+      "captivated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a black dress watches the scene unfold, her attention captivated by the man's performance.",
+    "objects": [
+      "her",
+      "unfold",
+      "dress",
+      "black",
+      "woman",
+      "attention",
+      "performance"
+    ],
+    "actions": [
+      "man's",
+      "watches",
+      "captivated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a black dress watches the scene unfold, her attention captivated by the man's performance.",
+    "objects": [
+      "her",
+      "unfold",
+      "dress",
+      "black",
+      "woman",
+      "attention",
+      "performance"
+    ],
+    "actions": [
+      "man's",
+      "watches",
+      "captivated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a blue hoodie stands nearby, his attention drawn to the music.",
+    "objects": [
+      "blue",
+      "nearby",
+      "music",
+      "man",
+      "drawn",
+      "attention",
+      "hoodie",
+      "his"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a blue hoodie stands nearby, his attention drawn to the music.",
+    "objects": [
+      "blue",
+      "nearby",
+      "music",
+      "man",
+      "drawn",
+      "attention",
+      "hoodie",
+      "his"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a blue hoodie stands nearby, his attention drawn to the music.",
+    "objects": [
+      "blue",
+      "nearby",
+      "music",
+      "man",
+      "drawn",
+      "attention",
+      "hoodie",
+      "his"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Another man in a black shirt is seen in the background, holding a phone to his ear, perhaps capturing the moment.",
+    "objects": [
+      "shirt",
+      "ear",
+      "phone",
+      "black",
+      "man",
+      "moment",
+      "his"
+    ],
+    "actions": [
+      "capturing",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Another man in a black shirt is seen in the background, holding a phone to his ear, perhaps capturing the moment.",
+    "objects": [
+      "shirt",
+      "ear",
+      "phone",
+      "black",
+      "man",
+      "moment",
+      "his"
+    ],
+    "actions": [
+      "capturing",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Another man in a black shirt is seen in the background, holding a phone to his ear, perhaps capturing the moment.",
+    "objects": [
+      "shirt",
+      "ear",
+      "phone",
+      "black",
+      "man",
+      "moment",
+      "his"
+    ],
+    "actions": [
+      "capturing",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman in a black dress stands near a door, her eyes locked onto the scene.",
+    "objects": [
+      "her",
+      "door",
+      "onto",
+      "eyes",
+      "dress",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "locked",
+      "stands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman in a black dress stands near a door, her eyes locked onto the scene.",
+    "objects": [
+      "her",
+      "door",
+      "onto",
+      "eyes",
+      "dress",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "locked",
+      "stands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A woman in a black dress stands near a door, her eyes locked onto the scene.",
+    "objects": [
+      "her",
+      "door",
+      "onto",
+      "eyes",
+      "dress",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "locked",
+      "stands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "A woman in a black dress walks past the room, her attention momentarily caught by the performance.",
+    "objects": [
+      "her",
+      "momentarily",
+      "dress",
+      "room",
+      "black",
+      "past",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "walks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "A woman in a black dress walks past the room, her attention momentarily caught by the performance.",
+    "objects": [
+      "her",
+      "momentarily",
+      "dress",
+      "room",
+      "black",
+      "past",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "walks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "A woman in a black dress walks past the room, her attention momentarily caught by the performance.",
+    "objects": [
+      "her",
+      "momentarily",
+      "dress",
+      "room",
+      "black",
+      "past",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "walks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a red jacket stands near the door, his attention focused on the piano player.",
+    "objects": [
+      "door",
+      "jacket",
+      "piano",
+      "player",
+      "man",
+      "attention",
+      "his"
+    ],
+    "actions": [
+      "red",
+      "focused",
+      "stands"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a red jacket stands near the door, his attention focused on the piano player.",
+    "objects": [
+      "door",
+      "jacket",
+      "piano",
+      "player",
+      "man",
+      "attention",
+      "his"
+    ],
+    "actions": [
+      "red",
+      "focused",
+      "stands"
+    ],
+    "segment_id": 10
+  }
+]

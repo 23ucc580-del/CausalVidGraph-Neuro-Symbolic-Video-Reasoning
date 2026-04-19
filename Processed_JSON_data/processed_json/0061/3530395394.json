@@ -1,0 +1,518 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a view of a golf course with a hole.",
+    "objects": [
+      "hole",
+      "golf",
+      "course"
+    ],
+    "actions": [
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "A few people are standing in the background, watching the course.",
+    "objects": [
+      "course",
+      "people",
+      "few"
+    ],
+    "actions": [
+      "standing",
+      "watching"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "Suddenly, a wild boar appears from the right side and walks towards the camera.",
+    "objects": [
+      "suddenly",
+      "boar",
+      "wild",
+      "side",
+      "from"
+    ],
+    "actions": [
+      "walks",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The boar is small and brown and seems to be walking along the side of the golf course.",
+    "objects": [
+      "along",
+      "boar",
+      "small",
+      "golf",
+      "side",
+      "brown",
+      "course"
+    ],
+    "actions": [
+      "walking",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The people in the background are startled and some of them begin to run away, with one person wearing a blue shirt and another holding a camera.",
+    "objects": [
+      "some",
+      "people",
+      "away",
+      "them",
+      "blue",
+      "one",
+      "run",
+      "begin"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "startled"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The boar continues to walk towards the camera, sniffing the ground as it goes.",
+    "objects": [
+      "boar",
+      "goes",
+      "ground",
+      "walk"
+    ],
+    "actions": [
+      "continues",
+      "towards",
+      "sniffing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "There is a large rock behind the boar, and it seems to be curiously looking around as it walks.",
+    "objects": [
+      "behind",
+      "boar",
+      "curiously",
+      "around",
+      "rock",
+      "there",
+      "large"
+    ],
+    "actions": [
+      "walks",
+      "looking",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The people in the background continue to run away, and one person is wearing a black shirt.",
+    "objects": [
+      "people",
+      "away",
+      "one",
+      "run",
+      "shirt",
+      "continue",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The boar is captured by the camera and continues walking towards it, with the camera person holding it steady.",
+    "objects": [
+      "boar",
+      "steady"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "towards",
+      "continues"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The boar is sniffing the ground as it walks and seems to be exploring its surroundings.",
+    "objects": [
+      "boar",
+      "its",
+      "ground"
+    ],
+    "actions": [
+      "seems",
+      "walks",
+      "surroundings",
+      "sniffing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The people in the background are still running away, with one person wearing a white shirt and another holding a green umbrella.",
+    "objects": [
+      "still",
+      "umbrella",
+      "white",
+      "people",
+      "away",
+      "green",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "running",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The boar is walking towards the camera, and it seems to be exploring its surroundings.",
+    "objects": [
+      "boar",
+      "its"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "seems",
+      "surroundings"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera person continues to follow the boar as it walks.",
+    "objects": [
+      "boar",
+      "follow"
+    ],
+    "actions": [
+      "continues",
+      "walks"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The boar is captured by the camera and walks towards it, with the camera person holding it steady.",
+    "objects": [
+      "boar",
+      "steady"
+    ],
+    "actions": [
+      "captured",
+      "holding",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The boar is sniffing the ground as it walks and seems to be curiously looking around.",
+    "objects": [
+      "boar",
+      "around",
+      "ground",
+      "curiously"
+    ],
+    "actions": [
+      "walks",
+      "looking",
+      "seems",
+      "sniffing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The people in the background are still running away, with one person wearing a gray shirt and another holding a black umbrella.",
+    "objects": [
+      "still",
+      "umbrella",
+      "people",
+      "away",
+      "gray",
+      "one",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "running",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The boar is captured by the camera and walks towards it, with the camera person holding it steady.",
+    "objects": [
+      "boar",
+      "steady"
+    ],
+    "actions": [
+      "captured",
+      "holding",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The boar is sniffing the ground as it walks and seems to be curiously looking around.",
+    "objects": [
+      "boar",
+      "around",
+      "ground",
+      "curiously"
+    ],
+    "actions": [
+      "walks",
+      "looking",
+      "seems",
+      "sniffing"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera person continues to follow the boar as it walks.",
+    "objects": [
+      "boar",
+      "follow"
+    ],
+    "actions": [
+      "continues",
+      "walks"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The boar is captured by the camera and walks towards it, with the camera person holding it steady.",
+    "objects": [
+      "boar",
+      "steady"
+    ],
+    "actions": [
+      "captured",
+      "holding",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The boar is sniffing the ground as it walks and seems to be exploring its surroundings.",
+    "objects": [
+      "boar",
+      "its",
+      "ground"
+    ],
+    "actions": [
+      "seems",
+      "walks",
+      "surroundings",
+      "sniffing"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The people in the background are still running away, with one person wearing a red shirt and another holding a white umbrella.",
+    "objects": [
+      "still",
+      "umbrella",
+      "white",
+      "people",
+      "away",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "running",
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The boar is captured by the camera and walks towards it, with the camera person holding it steady.",
+    "objects": [
+      "boar",
+      "steady"
+    ],
+    "actions": [
+      "captured",
+      "holding",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The boar is sniffing the ground as it walks and seems to be curiously looking around.",
+    "objects": [
+      "boar",
+      "around",
+      "ground",
+      "curiously"
+    ],
+    "actions": [
+      "walks",
+      "looking",
+      "seems",
+      "sniffing"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera person continues to follow the boar as it walks.",
+    "objects": [
+      "boar",
+      "follow"
+    ],
+    "actions": [
+      "continues",
+      "walks"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The boar is captured by the camera and walks towards it, with the camera person holding it steady.",
+    "objects": [
+      "boar",
+      "steady"
+    ],
+    "actions": [
+      "captured",
+      "holding",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The boar is sniffing the ground as it walks and seems to be exploring its surroundings.",
+    "objects": [
+      "boar",
+      "its",
+      "ground"
+    ],
+    "actions": [
+      "seems",
+      "walks",
+      "surroundings",
+      "sniffing"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The people in the background are still running away, with one person wearing a blue shirt and another holding a black umbrella.",
+    "objects": [
+      "still",
+      "umbrella",
+      "people",
+      "away",
+      "blue",
+      "one",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "running",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The boar is captured by the camera and walks towards it, with the camera person holding it steady.",
+    "objects": [
+      "boar",
+      "steady"
+    ],
+    "actions": [
+      "captured",
+      "holding",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The boar is sniffing the ground as it walks and seems to be curiously looking around.",
+    "objects": [
+      "boar",
+      "around",
+      "ground",
+      "curiously"
+    ],
+    "actions": [
+      "walks",
+      "looking",
+      "seems",
+      "sniffing"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera person continues to follow the boar as it walks.",
+    "objects": [
+      "boar",
+      "follow"
+    ],
+    "actions": [
+      "continues",
+      "walks"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The boar is captured by the camera and walks towards it, with the camera person holding it steady.",
+    "objects": [
+      "boar",
+      "steady"
+    ],
+    "actions": [
+      "captured",
+      "holding",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 31
+  }
+]

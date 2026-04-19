@@ -1,0 +1,584 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features a group of people gathered on a stage, engaged in what appears to be a musical performance.",
+    "objects": [
+      "people",
+      "what",
+      "musical",
+      "performance",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features a group of people gathered on a stage, engaged in what appears to be a musical performance.",
+    "objects": [
+      "people",
+      "what",
+      "musical",
+      "performance",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The stage is set up with microphones, and there are several chairs scattered about, suggesting a casual and relaxed atmosphere.",
+    "objects": [
+      "there",
+      "casual",
+      "several",
+      "about",
+      "set",
+      "stage",
+      "atmosphere"
+    ],
+    "actions": [
+      "chairs",
+      "microphones",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The stage is set up with microphones, and there are several chairs scattered about, suggesting a casual and relaxed atmosphere.",
+    "objects": [
+      "there",
+      "casual",
+      "several",
+      "about",
+      "set",
+      "stage",
+      "atmosphere"
+    ],
+    "actions": [
+      "chairs",
+      "microphones",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The performers are dressed in a variety of styles, with some wearing casual clothes and others in more formal attire, such as a man in a red shirt and tie.",
+    "objects": [
+      "attire",
+      "variety",
+      "casual",
+      "shirt",
+      "some",
+      "tie",
+      "more",
+      "man"
+    ],
+    "actions": [
+      "performers",
+      "others",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The performers are dressed in a variety of styles, with some wearing casual clothes and others in more formal attire, such as a man in a red shirt and tie.",
+    "objects": [
+      "attire",
+      "variety",
+      "casual",
+      "shirt",
+      "some",
+      "tie",
+      "more",
+      "man"
+    ],
+    "actions": [
+      "performers",
+      "others",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, a man wearing a blue hoodie is singing into a microphone, his voice resonating through the venue.",
+    "objects": [
+      "into",
+      "voice",
+      "microphone",
+      "blue",
+      "venue",
+      "through",
+      "hoodie",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "singing",
+      "resonating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, a man wearing a blue hoodie is singing into a microphone, his voice resonating through the venue.",
+    "objects": [
+      "into",
+      "voice",
+      "microphone",
+      "blue",
+      "venue",
+      "through",
+      "hoodie",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "singing",
+      "resonating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "He stands confidently, his hands raised as if he's in the middle of a passionate performance.",
+    "objects": [
+      "middle",
+      "performance",
+      "confidently",
+      "his",
+      "passionate"
+    ],
+    "actions": [
+      "hands",
+      "stands",
+      "raised"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "He stands confidently, his hands raised as if he's in the middle of a passionate performance.",
+    "objects": [
+      "middle",
+      "performance",
+      "confidently",
+      "his",
+      "passionate"
+    ],
+    "actions": [
+      "hands",
+      "stands",
+      "raised"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "Next to him, a woman in a red dress is also singing, her voice blending with his in the background.",
+    "objects": [
+      "woman",
+      "voice",
+      "him",
+      "her",
+      "his",
+      "dress"
+    ],
+    "actions": [
+      "singing",
+      "blending",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "Next to him, a woman in a red dress is also singing, her voice blending with his in the background.",
+    "objects": [
+      "woman",
+      "voice",
+      "him",
+      "her",
+      "his",
+      "dress"
+    ],
+    "actions": [
+      "singing",
+      "blending",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "She holds a microphone in her hand, her body language expressing the rhythm of the song.",
+    "objects": [
+      "body",
+      "she",
+      "microphone",
+      "rhythm",
+      "her",
+      "song",
+      "language",
+      "hand"
+    ],
+    "actions": [
+      "expressing",
+      "holds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "She holds a microphone in her hand, her body language expressing the rhythm of the song.",
+    "objects": [
+      "body",
+      "she",
+      "microphone",
+      "rhythm",
+      "her",
+      "song",
+      "language",
+      "hand"
+    ],
+    "actions": [
+      "expressing",
+      "holds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "Further back, a man in a red shirt is seated at a piano, his fingers dancing across the keys as he accompanies the singers.",
+    "objects": [
+      "further",
+      "across",
+      "shirt",
+      "his",
+      "keys",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "red",
+      "dancing",
+      "accompanies",
+      "fingers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "Further back, a man in a red shirt is seated at a piano, his fingers dancing across the keys as he accompanies the singers.",
+    "objects": [
+      "further",
+      "across",
+      "shirt",
+      "his",
+      "keys",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "red",
+      "dancing",
+      "accompanies",
+      "fingers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "He seems lost in his music, his eyes closed in concentration.",
+    "objects": [
+      "lost",
+      "his",
+      "music",
+      "concentration",
+      "eyes"
+    ],
+    "actions": [
+      "seems",
+      "closed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "He seems lost in his music, his eyes closed in concentration.",
+    "objects": [
+      "lost",
+      "his",
+      "music",
+      "concentration",
+      "eyes"
+    ],
+    "actions": [
+      "seems",
+      "closed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "Beside him, another man in a gray shirt is also playing a keyboard, his fingers moving over the keys with precision.",
+    "objects": [
+      "keyboard",
+      "him",
+      "shirt",
+      "gray",
+      "beside",
+      "his",
+      "keys",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "moving",
+      "fingers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "Beside him, another man in a gray shirt is also playing a keyboard, his fingers moving over the keys with precision.",
+    "objects": [
+      "keyboard",
+      "him",
+      "shirt",
+      "gray",
+      "beside",
+      "his",
+      "keys",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "moving",
+      "fingers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "He's wearing a blue hoodie, adding to the colorful array of clothing.",
+    "objects": [
+      "blue",
+      "colorful",
+      "hoodie",
+      "array"
+    ],
+    "actions": [
+      "wearing",
+      "adding",
+      "clothing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "He's wearing a blue hoodie, adding to the colorful array of clothing.",
+    "objects": [
+      "blue",
+      "colorful",
+      "hoodie",
+      "array"
+    ],
+    "actions": [
+      "wearing",
+      "adding",
+      "clothing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, another man in a red shirt is playing the drums, his body swaying to the beat of the music.",
+    "objects": [
+      "body",
+      "beat",
+      "shirt",
+      "his",
+      "man",
+      "music"
+    ],
+    "actions": [
+      "playing",
+      "swaying",
+      "red",
+      "drums"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, another man in a red shirt is playing the drums, his body swaying to the beat of the music.",
+    "objects": [
+      "body",
+      "beat",
+      "shirt",
+      "his",
+      "man",
+      "music"
+    ],
+    "actions": [
+      "playing",
+      "swaying",
+      "red",
+      "drums"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "He's wearing a black hat, adding a touch of contrast to his outfit.",
+    "objects": [
+      "outfit",
+      "black",
+      "contrast",
+      "touch",
+      "hat",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "adding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "He's wearing a black hat, adding a touch of contrast to his outfit.",
+    "objects": [
+      "outfit",
+      "black",
+      "contrast",
+      "touch",
+      "hat",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "adding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is filled with the energy of the performance, the performers immersed in their roles.",
+    "objects": [
+      "their",
+      "energy",
+      "performance"
+    ],
+    "actions": [
+      "roles",
+      "filled",
+      "performers",
+      "immersed"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is filled with the energy of the performance, the performers immersed in their roles.",
+    "objects": [
+      "their",
+      "energy",
+      "performance"
+    ],
+    "actions": [
+      "roles",
+      "filled",
+      "performers",
+      "immersed"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The crowd watches intently, their faces illuminated by the stage lights, their attention riveted on the show.",
+    "objects": [
+      "their",
+      "crowd",
+      "show",
+      "attention",
+      "stage",
+      "intently"
+    ],
+    "actions": [
+      "riveted",
+      "illuminated",
+      "watches",
+      "faces"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The crowd watches intently, their faces illuminated by the stage lights, their attention riveted on the show.",
+    "objects": [
+      "their",
+      "crowd",
+      "show",
+      "attention",
+      "stage",
+      "intently"
+    ],
+    "actions": [
+      "riveted",
+      "illuminated",
+      "watches",
+      "faces"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere is one of enjoyment and entertainment.",
+    "objects": [
+      "one",
+      "entertainment",
+      "overall",
+      "enjoyment",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere is one of enjoyment and entertainment.",
+    "objects": [
+      "one",
+      "entertainment",
+      "overall",
+      "enjoyment",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  }
+]

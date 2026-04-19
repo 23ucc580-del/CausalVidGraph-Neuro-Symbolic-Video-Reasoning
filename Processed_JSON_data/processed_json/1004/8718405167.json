@@ -1,0 +1,497 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a group of people in a room, sitting on couches and chairs, engaged in various activities.",
+    "objects": [
+      "room",
+      "this",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "engaged",
+      "chairs",
+      "sitting",
+      "activities"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a group of people in a room, sitting on couches and chairs, engaged in various activities.",
+    "objects": [
+      "room",
+      "this",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "engaged",
+      "chairs",
+      "sitting",
+      "activities"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a group of people in a room, sitting on couches and chairs, engaged in various activities.",
+    "objects": [
+      "room",
+      "this",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "engaged",
+      "chairs",
+      "sitting",
+      "activities"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "This video captures a group of people in a room, sitting on couches and chairs, engaged in various activities.",
+    "objects": [
+      "room",
+      "this",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "engaged",
+      "chairs",
+      "sitting",
+      "activities"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "This video captures a group of people in a room, sitting on couches and chairs, engaged in various activities.",
+    "objects": [
+      "room",
+      "this",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "engaged",
+      "chairs",
+      "sitting",
+      "activities"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "One woman is reading a book, another is holding a notebook and appears to be writing, and another is using a laptop.",
+    "objects": [
+      "one",
+      "notebook",
+      "woman",
+      "book",
+      "laptop"
+    ],
+    "actions": [
+      "reading",
+      "using",
+      "holding",
+      "writing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One woman is reading a book, another is holding a notebook and appears to be writing, and another is using a laptop.",
+    "objects": [
+      "one",
+      "notebook",
+      "woman",
+      "book",
+      "laptop"
+    ],
+    "actions": [
+      "reading",
+      "using",
+      "holding",
+      "writing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One woman is reading a book, another is holding a notebook and appears to be writing, and another is using a laptop.",
+    "objects": [
+      "one",
+      "notebook",
+      "woman",
+      "book",
+      "laptop"
+    ],
+    "actions": [
+      "reading",
+      "using",
+      "holding",
+      "writing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "One woman is reading a book, another is holding a notebook and appears to be writing, and another is using a laptop.",
+    "objects": [
+      "one",
+      "notebook",
+      "woman",
+      "book",
+      "laptop"
+    ],
+    "actions": [
+      "reading",
+      "using",
+      "holding",
+      "writing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "One woman is reading a book, another is holding a notebook and appears to be writing, and another is using a laptop.",
+    "objects": [
+      "one",
+      "notebook",
+      "woman",
+      "book",
+      "laptop"
+    ],
+    "actions": [
+      "reading",
+      "using",
+      "holding",
+      "writing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "A man is holding a remote control.",
+    "objects": [
+      "man",
+      "remote",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A man is holding a remote control.",
+    "objects": [
+      "man",
+      "remote",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A man is holding a remote control.",
+    "objects": [
+      "man",
+      "remote",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "A man is holding a remote control.",
+    "objects": [
+      "man",
+      "remote",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "A man is holding a remote control.",
+    "objects": [
+      "man",
+      "remote",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "There's a group of people playing a board game, and one person is laughing.",
+    "objects": [
+      "one",
+      "people",
+      "board",
+      "game",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "there's",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "There's a group of people playing a board game, and one person is laughing.",
+    "objects": [
+      "one",
+      "people",
+      "board",
+      "game",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "there's",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "There's a group of people playing a board game, and one person is laughing.",
+    "objects": [
+      "one",
+      "people",
+      "board",
+      "game",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "there's",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "There's a group of people playing a board game, and one person is laughing.",
+    "objects": [
+      "one",
+      "people",
+      "board",
+      "game",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "there's",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "There's a group of people playing a board game, and one person is laughing.",
+    "objects": [
+      "one",
+      "people",
+      "board",
+      "game",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "there's",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "A man is holding a beer, while another is holding a book.",
+    "objects": [
+      "while",
+      "man",
+      "beer",
+      "book"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "A man is holding a beer, while another is holding a book.",
+    "objects": [
+      "while",
+      "man",
+      "beer",
+      "book"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "A man is holding a beer, while another is holding a book.",
+    "objects": [
+      "while",
+      "man",
+      "beer",
+      "book"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "A man is holding a beer, while another is holding a book.",
+    "objects": [
+      "while",
+      "man",
+      "beer",
+      "book"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "A man is holding a beer, while another is holding a book.",
+    "objects": [
+      "while",
+      "man",
+      "beer",
+      "book"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman is smiling, and a person is wearing a blue shirt.",
+    "objects": [
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "A woman is smiling, and a person is wearing a blue shirt.",
+    "objects": [
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "A woman is smiling, and a person is wearing a blue shirt.",
+    "objects": [
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "A woman is smiling, and a person is wearing a blue shirt.",
+    "objects": [
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "A woman is smiling, and a person is wearing a blue shirt.",
+    "objects": [
+      "blue",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "There's also a blue hoodie, a silver car, and a person walking.",
+    "objects": [
+      "silver",
+      "car",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "there's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "There's also a blue hoodie, a silver car, and a person walking.",
+    "objects": [
+      "silver",
+      "car",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "walking",
+      "there's"
+    ],
+    "segment_id": 6
+  }
+]

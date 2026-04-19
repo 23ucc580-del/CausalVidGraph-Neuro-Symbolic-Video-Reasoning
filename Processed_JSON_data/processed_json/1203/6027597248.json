@@ -1,0 +1,576 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a young child playing on a playmat on the floor.",
+    "objects": [
+      "floor",
+      "playmat",
+      "young",
+      "child"
+    ],
+    "actions": [
+      "starts",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a young child playing on a playmat on the floor.",
+    "objects": [
+      "floor",
+      "playmat",
+      "young",
+      "child"
+    ],
+    "actions": [
+      "starts",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The child is wearing a blue outfit and is holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "outfit",
+      "child"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The child is wearing a blue outfit and is holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "outfit",
+      "child"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "In the background, an adult woman in a black shirt is standing and watching the child play, while another adult in a white shirt and blue shorts is holding a baby in a blue outfit.",
+    "objects": [
+      "white",
+      "blue",
+      "adult",
+      "while",
+      "outfit",
+      "child",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "watching",
+      "holding",
+      "shorts",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "In the background, an adult woman in a black shirt is standing and watching the child play, while another adult in a white shirt and blue shorts is holding a baby in a blue outfit.",
+    "objects": [
+      "white",
+      "blue",
+      "adult",
+      "while",
+      "outfit",
+      "child",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "watching",
+      "holding",
+      "shorts",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby is sitting on the floor and is holding a red toy.",
+    "objects": [
+      "floor",
+      "toy",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby is sitting on the floor and is holding a red toy.",
+    "objects": [
+      "floor",
+      "toy",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The adult in the white shirt is leaning down to assist the baby with the toy.",
+    "objects": [
+      "white",
+      "toy",
+      "assist",
+      "adult",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "leaning"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The adult in the white shirt is leaning down to assist the baby with the toy.",
+    "objects": [
+      "white",
+      "toy",
+      "assist",
+      "adult",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "leaning"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then pans to the left, revealing a young girl in a green outfit playing on a walker.",
+    "objects": [
+      "green",
+      "outfit",
+      "pans",
+      "young",
+      "girl",
+      "walker",
+      "then"
+    ],
+    "actions": [
+      "revealing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then pans to the left, revealing a young girl in a green outfit playing on a walker.",
+    "objects": [
+      "green",
+      "outfit",
+      "pans",
+      "young",
+      "girl",
+      "walker",
+      "then"
+    ],
+    "actions": [
+      "revealing",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "She is holding a red toy.",
+    "objects": [
+      "toy",
+      "she"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "She is holding a red toy.",
+    "objects": [
+      "toy",
+      "she"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then pans to the right, where another adult in a blue shirt is standing and observing the child play, while another adult in a white shirt is holding a baby in a yellow outfit.",
+    "objects": [
+      "white",
+      "blue",
+      "adult",
+      "while",
+      "outfit",
+      "pans",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then pans to the right, where another adult in a blue shirt is standing and observing the child play, while another adult in a white shirt is holding a baby in a yellow outfit.",
+    "objects": [
+      "white",
+      "blue",
+      "adult",
+      "while",
+      "outfit",
+      "pans",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby is sitting on the floor and is holding a red toy.",
+    "objects": [
+      "floor",
+      "toy",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby is sitting on the floor and is holding a red toy.",
+    "objects": [
+      "floor",
+      "toy",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then pans to the left again, and we see the young girl in the green outfit playing on the walker, still holding the red toy.",
+    "objects": [
+      "toy",
+      "again",
+      "green",
+      "outfit",
+      "pans",
+      "young",
+      "girl",
+      "walker"
+    ],
+    "actions": [
+      "red",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then pans to the left again, and we see the young girl in the green outfit playing on the walker, still holding the red toy.",
+    "objects": [
+      "toy",
+      "again",
+      "green",
+      "outfit",
+      "pans",
+      "young",
+      "girl",
+      "walker"
+    ],
+    "actions": [
+      "red",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then pans to the right, and we see the adult in the blue shirt and the baby in the yellow outfit, who is standing and observing the child play.",
+    "objects": [
+      "blue",
+      "adult",
+      "outfit",
+      "pans",
+      "shirt",
+      "child",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then pans to the right, and we see the adult in the blue shirt and the baby in the yellow outfit, who is standing and observing the child play.",
+    "objects": [
+      "blue",
+      "adult",
+      "outfit",
+      "pans",
+      "shirt",
+      "child",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then pans to the left once more, showing the young girl in the green outfit playing on the walker, still holding the red toy.",
+    "objects": [
+      "more",
+      "toy",
+      "green",
+      "outfit",
+      "pans",
+      "young",
+      "girl",
+      "walker"
+    ],
+    "actions": [
+      "red",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then pans to the left once more, showing the young girl in the green outfit playing on the walker, still holding the red toy.",
+    "objects": [
+      "more",
+      "toy",
+      "green",
+      "outfit",
+      "pans",
+      "young",
+      "girl",
+      "walker"
+    ],
+    "actions": [
+      "red",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then pans to the right, showing the adult in the white shirt and the baby in the yellow outfit, who are standing and observing the child play.",
+    "objects": [
+      "white",
+      "adult",
+      "outfit",
+      "pans",
+      "shirt",
+      "child",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then pans to the right, showing the adult in the white shirt and the baby in the yellow outfit, who are standing and observing the child play.",
+    "objects": [
+      "white",
+      "adult",
+      "outfit",
+      "pans",
+      "shirt",
+      "child",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then pans to the left, and we see the young girl in the green outfit playing on the walker, holding the red toy.",
+    "objects": [
+      "toy",
+      "green",
+      "outfit",
+      "pans",
+      "young",
+      "girl",
+      "walker",
+      "see"
+    ],
+    "actions": [
+      "red",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then pans to the left, and we see the young girl in the green outfit playing on the walker, holding the red toy.",
+    "objects": [
+      "toy",
+      "green",
+      "outfit",
+      "pans",
+      "young",
+      "girl",
+      "walker",
+      "see"
+    ],
+    "actions": [
+      "red",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then pans to the right, revealing the adult in the blue shirt and the baby in the yellow outfit, who are standing and observing the child play.",
+    "objects": [
+      "blue",
+      "adult",
+      "outfit",
+      "pans",
+      "shirt",
+      "child",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "observing",
+      "revealing",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then pans to the right, revealing the adult in the blue shirt and the baby in the yellow outfit, who are standing and observing the child play.",
+    "objects": [
+      "blue",
+      "adult",
+      "outfit",
+      "pans",
+      "shirt",
+      "child",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "observing",
+      "revealing",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera then pans to the left, showing the young girl in the green outfit playing on the walker, still holding the red toy.",
+    "objects": [
+      "toy",
+      "green",
+      "outfit",
+      "pans",
+      "young",
+      "girl",
+      "walker",
+      "still"
+    ],
+    "actions": [
+      "red",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera then pans to the left, showing the young girl in the green outfit playing on the walker, still holding the red toy.",
+    "objects": [
+      "toy",
+      "green",
+      "outfit",
+      "pans",
+      "young",
+      "girl",
+      "walker",
+      "still"
+    ],
+    "actions": [
+      "red",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

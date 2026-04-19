@@ -1,0 +1,502 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a woman seated at a desk, typing on a computer keyboard.",
+    "objects": [
+      "desk",
+      "woman",
+      "keyboard",
+      "see",
+      "computer",
+      "this"
+    ],
+    "actions": [
+      "seated",
+      "typing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a woman seated at a desk, typing on a computer keyboard.",
+    "objects": [
+      "desk",
+      "woman",
+      "keyboard",
+      "see",
+      "computer",
+      "this"
+    ],
+    "actions": [
+      "seated",
+      "typing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a woman seated at a desk, typing on a computer keyboard.",
+    "objects": [
+      "desk",
+      "woman",
+      "keyboard",
+      "see",
+      "computer",
+      "this"
+    ],
+    "actions": [
+      "seated",
+      "typing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a woman seated at a desk, typing on a computer keyboard.",
+    "objects": [
+      "desk",
+      "woman",
+      "keyboard",
+      "see",
+      "computer",
+      "this"
+    ],
+    "actions": [
+      "seated",
+      "typing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a blue hoodie and is smiling.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a blue hoodie and is smiling.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is wearing a blue hoodie and is smiling.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is wearing a blue hoodie and is smiling.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Behind her, a large screen displays information, presumably related to the work she's doing.",
+    "objects": [
+      "large",
+      "information",
+      "behind",
+      "screen",
+      "presumably",
+      "work",
+      "her"
+    ],
+    "actions": [
+      "she's",
+      "doing",
+      "displays",
+      "related"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Behind her, a large screen displays information, presumably related to the work she's doing.",
+    "objects": [
+      "large",
+      "information",
+      "behind",
+      "screen",
+      "presumably",
+      "work",
+      "her"
+    ],
+    "actions": [
+      "she's",
+      "doing",
+      "displays",
+      "related"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Behind her, a large screen displays information, presumably related to the work she's doing.",
+    "objects": [
+      "large",
+      "information",
+      "behind",
+      "screen",
+      "presumably",
+      "work",
+      "her"
+    ],
+    "actions": [
+      "she's",
+      "doing",
+      "displays",
+      "related"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Behind her, a large screen displays information, presumably related to the work she's doing.",
+    "objects": [
+      "large",
+      "information",
+      "behind",
+      "screen",
+      "presumably",
+      "work",
+      "her"
+    ],
+    "actions": [
+      "she's",
+      "doing",
+      "displays",
+      "related"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "To her left, there is a window with curtains and a desk lamp.",
+    "objects": [
+      "there",
+      "desk",
+      "lamp",
+      "her",
+      "window"
+    ],
+    "actions": [
+      "curtains"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "To her left, there is a window with curtains and a desk lamp.",
+    "objects": [
+      "there",
+      "desk",
+      "lamp",
+      "her",
+      "window"
+    ],
+    "actions": [
+      "curtains"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "To her left, there is a window with curtains and a desk lamp.",
+    "objects": [
+      "there",
+      "desk",
+      "lamp",
+      "her",
+      "window"
+    ],
+    "actions": [
+      "curtains"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "To her left, there is a window with curtains and a desk lamp.",
+    "objects": [
+      "there",
+      "desk",
+      "lamp",
+      "her",
+      "window"
+    ],
+    "actions": [
+      "curtains"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "On the desk, there's a white printer and a computer mouse.",
+    "objects": [
+      "printer",
+      "white",
+      "desk",
+      "mouse",
+      "computer"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "On the desk, there's a white printer and a computer mouse.",
+    "objects": [
+      "printer",
+      "white",
+      "desk",
+      "mouse",
+      "computer"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "On the desk, there's a white printer and a computer mouse.",
+    "objects": [
+      "printer",
+      "white",
+      "desk",
+      "mouse",
+      "computer"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "On the desk, there's a white printer and a computer mouse.",
+    "objects": [
+      "printer",
+      "white",
+      "desk",
+      "mouse",
+      "computer"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "On the right side of the desk, there's a wooden shelf with a white lamp.",
+    "objects": [
+      "white",
+      "desk",
+      "lamp",
+      "shelf",
+      "wooden",
+      "side"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "On the right side of the desk, there's a wooden shelf with a white lamp.",
+    "objects": [
+      "white",
+      "desk",
+      "lamp",
+      "shelf",
+      "wooden",
+      "side"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "On the right side of the desk, there's a wooden shelf with a white lamp.",
+    "objects": [
+      "white",
+      "desk",
+      "lamp",
+      "shelf",
+      "wooden",
+      "side"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "On the right side of the desk, there's a wooden shelf with a white lamp.",
+    "objects": [
+      "white",
+      "desk",
+      "lamp",
+      "shelf",
+      "wooden",
+      "side"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A black couch with a dog on it is visible behind her.",
+    "objects": [
+      "behind",
+      "black",
+      "her",
+      "dog",
+      "couch"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A black couch with a dog on it is visible behind her.",
+    "objects": [
+      "behind",
+      "black",
+      "her",
+      "dog",
+      "couch"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A black couch with a dog on it is visible behind her.",
+    "objects": [
+      "behind",
+      "black",
+      "her",
+      "dog",
+      "couch"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A black couch with a dog on it is visible behind her.",
+    "objects": [
+      "behind",
+      "black",
+      "her",
+      "dog",
+      "couch"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog is wearing a red bandana.",
+    "objects": [
+      "dog",
+      "bandana"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog is wearing a red bandana.",
+    "objects": [
+      "dog",
+      "bandana"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The dog is wearing a red bandana.",
+    "objects": [
+      "dog",
+      "bandana"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The dog is wearing a red bandana.",
+    "objects": [
+      "dog",
+      "bandana"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  }
+]

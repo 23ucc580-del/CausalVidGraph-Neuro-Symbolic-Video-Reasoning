@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we can see a person wearing a blue hoodie standing at the edge of a pool, watching a large, light-colored whale swimming underwater.",
+    "objects": [
+      "edge",
+      "hoodie",
+      "pool",
+      "blue",
+      "see",
+      "underwater",
+      "whale",
+      "can"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing",
+      "watching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we can see a person wearing a blue hoodie standing at the edge of a pool, watching a large, light-colored whale swimming underwater.",
+    "objects": [
+      "edge",
+      "hoodie",
+      "pool",
+      "blue",
+      "see",
+      "underwater",
+      "whale",
+      "can"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing",
+      "watching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we can see a person wearing a blue hoodie standing at the edge of a pool, watching a large, light-colored whale swimming underwater.",
+    "objects": [
+      "edge",
+      "hoodie",
+      "pool",
+      "blue",
+      "see",
+      "underwater",
+      "whale",
+      "can"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing",
+      "watching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we can see a person wearing a blue hoodie standing at the edge of a pool, watching a large, light-colored whale swimming underwater.",
+    "objects": [
+      "edge",
+      "hoodie",
+      "pool",
+      "blue",
+      "see",
+      "underwater",
+      "whale",
+      "can"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "standing",
+      "watching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The whale is in motion, creating a wave-like pattern in the water, and is moving from the left to the right side of the pool.",
+    "objects": [
+      "water",
+      "pattern",
+      "motion",
+      "pool",
+      "side",
+      "from",
+      "whale"
+    ],
+    "actions": [
+      "moving",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The whale is in motion, creating a wave-like pattern in the water, and is moving from the left to the right side of the pool.",
+    "objects": [
+      "water",
+      "pattern",
+      "motion",
+      "pool",
+      "side",
+      "from",
+      "whale"
+    ],
+    "actions": [
+      "moving",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The whale is in motion, creating a wave-like pattern in the water, and is moving from the left to the right side of the pool.",
+    "objects": [
+      "water",
+      "pattern",
+      "motion",
+      "pool",
+      "side",
+      "from",
+      "whale"
+    ],
+    "actions": [
+      "moving",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The whale is in motion, creating a wave-like pattern in the water, and is moving from the left to the right side of the pool.",
+    "objects": [
+      "water",
+      "pattern",
+      "motion",
+      "pool",
+      "side",
+      "from",
+      "whale"
+    ],
+    "actions": [
+      "moving",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The person seems to be observing the whale with interest, possibly even taking photos or videos of the spectacle.",
+    "objects": [
+      "even",
+      "spectacle",
+      "whale",
+      "interest",
+      "possibly"
+    ],
+    "actions": [
+      "taking",
+      "observing",
+      "seems",
+      "photos"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The person seems to be observing the whale with interest, possibly even taking photos or videos of the spectacle.",
+    "objects": [
+      "even",
+      "spectacle",
+      "whale",
+      "interest",
+      "possibly"
+    ],
+    "actions": [
+      "taking",
+      "observing",
+      "seems",
+      "photos"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The person seems to be observing the whale with interest, possibly even taking photos or videos of the spectacle.",
+    "objects": [
+      "even",
+      "spectacle",
+      "whale",
+      "interest",
+      "possibly"
+    ],
+    "actions": [
+      "taking",
+      "observing",
+      "seems",
+      "photos"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The person seems to be observing the whale with interest, possibly even taking photos or videos of the spectacle.",
+    "objects": [
+      "even",
+      "spectacle",
+      "whale",
+      "interest",
+      "possibly"
+    ],
+    "actions": [
+      "taking",
+      "observing",
+      "seems",
+      "photos"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The water in the pool is a deep blue, and the surface is calm, with only small ripples indicating the whale's movement.",
+    "objects": [
+      "water",
+      "only",
+      "surface",
+      "calm",
+      "small",
+      "movement",
+      "pool",
+      "blue"
+    ],
+    "actions": [
+      "indicating",
+      "whale's",
+      "ripples"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The water in the pool is a deep blue, and the surface is calm, with only small ripples indicating the whale's movement.",
+    "objects": [
+      "water",
+      "only",
+      "surface",
+      "calm",
+      "small",
+      "movement",
+      "pool",
+      "blue"
+    ],
+    "actions": [
+      "indicating",
+      "whale's",
+      "ripples"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The water in the pool is a deep blue, and the surface is calm, with only small ripples indicating the whale's movement.",
+    "objects": [
+      "water",
+      "only",
+      "surface",
+      "calm",
+      "small",
+      "movement",
+      "pool",
+      "blue"
+    ],
+    "actions": [
+      "indicating",
+      "whale's",
+      "ripples"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The water in the pool is a deep blue, and the surface is calm, with only small ripples indicating the whale's movement.",
+    "objects": [
+      "water",
+      "only",
+      "surface",
+      "calm",
+      "small",
+      "movement",
+      "pool",
+      "blue"
+    ],
+    "actions": [
+      "indicating",
+      "whale's",
+      "ripples"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The person's attention is focused on the whale, and they appear to be enjoying the sight.",
+    "objects": [
+      "whale",
+      "attention",
+      "appear",
+      "they",
+      "sight"
+    ],
+    "actions": [
+      "focused",
+      "enjoying",
+      "person's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The person's attention is focused on the whale, and they appear to be enjoying the sight.",
+    "objects": [
+      "whale",
+      "attention",
+      "appear",
+      "they",
+      "sight"
+    ],
+    "actions": [
+      "focused",
+      "enjoying",
+      "person's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The person's attention is focused on the whale, and they appear to be enjoying the sight.",
+    "objects": [
+      "whale",
+      "attention",
+      "appear",
+      "they",
+      "sight"
+    ],
+    "actions": [
+      "focused",
+      "enjoying",
+      "person's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The person's attention is focused on the whale, and they appear to be enjoying the sight.",
+    "objects": [
+      "whale",
+      "attention",
+      "appear",
+      "they",
+      "sight"
+    ],
+    "actions": [
+      "focused",
+      "enjoying",
+      "person's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The pool itself is large and well-lit, with clear visibility under the water.",
+    "objects": [
+      "visibility",
+      "clear",
+      "water",
+      "itself",
+      "pool",
+      "under",
+      "large"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The pool itself is large and well-lit, with clear visibility under the water.",
+    "objects": [
+      "visibility",
+      "clear",
+      "water",
+      "itself",
+      "pool",
+      "under",
+      "large"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The pool itself is large and well-lit, with clear visibility under the water.",
+    "objects": [
+      "visibility",
+      "clear",
+      "water",
+      "itself",
+      "pool",
+      "under",
+      "large"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The pool itself is large and well-lit, with clear visibility under the water.",
+    "objects": [
+      "visibility",
+      "clear",
+      "water",
+      "itself",
+      "pool",
+      "under",
+      "large"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There are no other people or objects in the frame, and the lighting suggests it might be daytime.",
+    "objects": [
+      "people",
+      "might",
+      "other",
+      "daytime",
+      "there"
+    ],
+    "actions": [
+      "objects",
+      "lighting",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There are no other people or objects in the frame, and the lighting suggests it might be daytime.",
+    "objects": [
+      "people",
+      "might",
+      "other",
+      "daytime",
+      "there"
+    ],
+    "actions": [
+      "objects",
+      "lighting",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There are no other people or objects in the frame, and the lighting suggests it might be daytime.",
+    "objects": [
+      "people",
+      "might",
+      "other",
+      "daytime",
+      "there"
+    ],
+    "actions": [
+      "objects",
+      "lighting",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There are no other people or objects in the frame, and the lighting suggests it might be daytime.",
+    "objects": [
+      "people",
+      "might",
+      "other",
+      "daytime",
+      "there"
+    ],
+    "actions": [
+      "objects",
+      "lighting",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The person's posture and focus indicate that they are engaged and relaxed, enjoying the moment.",
+    "objects": [
+      "indicate",
+      "posture",
+      "they",
+      "moment",
+      "that"
+    ],
+    "actions": [
+      "person's",
+      "focus",
+      "enjoying",
+      "engaged"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The person's posture and focus indicate that they are engaged and relaxed, enjoying the moment.",
+    "objects": [
+      "indicate",
+      "posture",
+      "they",
+      "moment",
+      "that"
+    ],
+    "actions": [
+      "person's",
+      "focus",
+      "enjoying",
+      "engaged"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The person's posture and focus indicate that they are engaged and relaxed, enjoying the moment.",
+    "objects": [
+      "indicate",
+      "posture",
+      "they",
+      "moment",
+      "that"
+    ],
+    "actions": [
+      "person's",
+      "focus",
+      "enjoying",
+      "engaged"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The person's posture and focus indicate that they are engaged and relaxed, enjoying the moment.",
+    "objects": [
+      "indicate",
+      "posture",
+      "they",
+      "moment",
+      "that"
+    ],
+    "actions": [
+      "person's",
+      "focus",
+      "enjoying",
+      "engaged"
+    ],
+    "segment_id": 7
+  }
+]

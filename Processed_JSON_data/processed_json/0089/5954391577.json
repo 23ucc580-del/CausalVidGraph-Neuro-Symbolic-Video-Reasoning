@@ -1,0 +1,555 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a man in a black shirt and shorts, holding a football, walking down a field.",
+    "objects": [
+      "man",
+      "football",
+      "shirt",
+      "field",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "begins",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a man in a black shirt and shorts, holding a football, walking down a field.",
+    "objects": [
+      "man",
+      "football",
+      "shirt",
+      "field",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "begins",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video begins with a man in a black shirt and shorts, holding a football, walking down a field.",
+    "objects": [
+      "man",
+      "football",
+      "shirt",
+      "field",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "begins",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video begins with a man in a black shirt and shorts, holding a football, walking down a field.",
+    "objects": [
+      "man",
+      "football",
+      "shirt",
+      "field",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "begins",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video begins with a man in a black shirt and shorts, holding a football, walking down a field.",
+    "objects": [
+      "man",
+      "football",
+      "shirt",
+      "field",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "begins",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "He runs towards the left side of the frame, where he throws the ball.",
+    "objects": [
+      "ball",
+      "runs",
+      "side",
+      "where"
+    ],
+    "actions": [
+      "throws",
+      "towards"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He runs towards the left side of the frame, where he throws the ball.",
+    "objects": [
+      "ball",
+      "runs",
+      "side",
+      "where"
+    ],
+    "actions": [
+      "throws",
+      "towards"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He runs towards the left side of the frame, where he throws the ball.",
+    "objects": [
+      "ball",
+      "runs",
+      "side",
+      "where"
+    ],
+    "actions": [
+      "throws",
+      "towards"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He runs towards the left side of the frame, where he throws the ball.",
+    "objects": [
+      "ball",
+      "runs",
+      "side",
+      "where"
+    ],
+    "actions": [
+      "throws",
+      "towards"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "He runs towards the left side of the frame, where he throws the ball.",
+    "objects": [
+      "ball",
+      "runs",
+      "side",
+      "where"
+    ],
+    "actions": [
+      "throws",
+      "towards"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "As he walks away, another man in a black shirt and shorts, holding a frisbee, appears on the right side of the frame.",
+    "objects": [
+      "man",
+      "away",
+      "side",
+      "frisbee",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "walks",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "As he walks away, another man in a black shirt and shorts, holding a frisbee, appears on the right side of the frame.",
+    "objects": [
+      "man",
+      "away",
+      "side",
+      "frisbee",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "walks",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "As he walks away, another man in a black shirt and shorts, holding a frisbee, appears on the right side of the frame.",
+    "objects": [
+      "man",
+      "away",
+      "side",
+      "frisbee",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "walks",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "As he walks away, another man in a black shirt and shorts, holding a frisbee, appears on the right side of the frame.",
+    "objects": [
+      "man",
+      "away",
+      "side",
+      "frisbee",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "walks",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "As he walks away, another man in a black shirt and shorts, holding a frisbee, appears on the right side of the frame.",
+    "objects": [
+      "man",
+      "away",
+      "side",
+      "frisbee",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "walks",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "He runs towards the left side of the field, throws the frisbee, and then walks away.",
+    "objects": [
+      "away",
+      "runs",
+      "side",
+      "then",
+      "frisbee",
+      "field"
+    ],
+    "actions": [
+      "throws",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "He runs towards the left side of the field, throws the frisbee, and then walks away.",
+    "objects": [
+      "away",
+      "runs",
+      "side",
+      "then",
+      "frisbee",
+      "field"
+    ],
+    "actions": [
+      "throws",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "He runs towards the left side of the field, throws the frisbee, and then walks away.",
+    "objects": [
+      "away",
+      "runs",
+      "side",
+      "then",
+      "frisbee",
+      "field"
+    ],
+    "actions": [
+      "throws",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "He runs towards the left side of the field, throws the frisbee, and then walks away.",
+    "objects": [
+      "away",
+      "runs",
+      "side",
+      "then",
+      "frisbee",
+      "field"
+    ],
+    "actions": [
+      "throws",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "He runs towards the left side of the field, throws the frisbee, and then walks away.",
+    "objects": [
+      "away",
+      "runs",
+      "side",
+      "then",
+      "frisbee",
+      "field"
+    ],
+    "actions": [
+      "throws",
+      "walks",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The first man returns to the left side of the frame, running, and throws the ball again.",
+    "objects": [
+      "first",
+      "again",
+      "man",
+      "side",
+      "ball"
+    ],
+    "actions": [
+      "running",
+      "throws",
+      "returns"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The first man returns to the left side of the frame, running, and throws the ball again.",
+    "objects": [
+      "first",
+      "again",
+      "man",
+      "side",
+      "ball"
+    ],
+    "actions": [
+      "running",
+      "throws",
+      "returns"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The first man returns to the left side of the frame, running, and throws the ball again.",
+    "objects": [
+      "first",
+      "again",
+      "man",
+      "side",
+      "ball"
+    ],
+    "actions": [
+      "running",
+      "throws",
+      "returns"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The first man returns to the left side of the frame, running, and throws the ball again.",
+    "objects": [
+      "first",
+      "again",
+      "man",
+      "side",
+      "ball"
+    ],
+    "actions": [
+      "running",
+      "throws",
+      "returns"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The first man returns to the left side of the frame, running, and throws the ball again.",
+    "objects": [
+      "first",
+      "again",
+      "man",
+      "side",
+      "ball"
+    ],
+    "actions": [
+      "running",
+      "throws",
+      "returns"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "He throws it towards the right side of the field, and the second man repeats the process on the right side of the field.",
+    "objects": [
+      "second",
+      "man",
+      "field",
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "process",
+      "throws",
+      "repeats"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "He throws it towards the right side of the field, and the second man repeats the process on the right side of the field.",
+    "objects": [
+      "second",
+      "man",
+      "field",
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "process",
+      "throws",
+      "repeats"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "He throws it towards the right side of the field, and the second man repeats the process on the right side of the field.",
+    "objects": [
+      "second",
+      "man",
+      "field",
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "process",
+      "throws",
+      "repeats"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "He throws it towards the right side of the field, and the second man repeats the process on the right side of the field.",
+    "objects": [
+      "second",
+      "man",
+      "field",
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "process",
+      "throws",
+      "repeats"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "He throws it towards the right side of the field, and the second man repeats the process on the right side of the field.",
+    "objects": [
+      "second",
+      "man",
+      "field",
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "process",
+      "throws",
+      "repeats"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The first man throws the ball one last time, running towards the left side of the frame.",
+    "objects": [
+      "first",
+      "man",
+      "side",
+      "one",
+      "last",
+      "time",
+      "ball"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "throws"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The first man throws the ball one last time, running towards the left side of the frame.",
+    "objects": [
+      "first",
+      "man",
+      "side",
+      "one",
+      "last",
+      "time",
+      "ball"
+    ],
+    "actions": [
+      "running",
+      "towards",
+      "throws"
+    ],
+    "segment_id": 6
+  }
+]

@@ -1,0 +1,594 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a lively scene at a bar.",
+    "objects": [
+      "see",
+      "bar",
+      "this",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a lively scene at a bar.",
+    "objects": [
+      "see",
+      "bar",
+      "this",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a lively scene at a bar.",
+    "objects": [
+      "see",
+      "bar",
+      "this",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a lively scene at a bar.",
+    "objects": [
+      "see",
+      "bar",
+      "this",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The bar is well-lit with a warm glow, and the patrons are engrossed in conversation and drinks.",
+    "objects": [
+      "glow",
+      "bar",
+      "conversation",
+      "warm"
+    ],
+    "actions": [
+      "drinks",
+      "engrossed",
+      "patrons"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The bar is well-lit with a warm glow, and the patrons are engrossed in conversation and drinks.",
+    "objects": [
+      "glow",
+      "bar",
+      "conversation",
+      "warm"
+    ],
+    "actions": [
+      "drinks",
+      "engrossed",
+      "patrons"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The bar is well-lit with a warm glow, and the patrons are engrossed in conversation and drinks.",
+    "objects": [
+      "glow",
+      "bar",
+      "conversation",
+      "warm"
+    ],
+    "actions": [
+      "drinks",
+      "engrossed",
+      "patrons"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The bar is well-lit with a warm glow, and the patrons are engrossed in conversation and drinks.",
+    "objects": [
+      "glow",
+      "bar",
+      "conversation",
+      "warm"
+    ],
+    "actions": [
+      "drinks",
+      "engrossed",
+      "patrons"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "On the right side of the bar, a woman in a black shirt and a green hoodie is seated, holding a beer bottle, her attention seemingly captured by the camera.",
+    "objects": [
+      "shirt",
+      "her",
+      "side",
+      "attention",
+      "bottle",
+      "bar",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "holding",
+      "captured"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "On the right side of the bar, a woman in a black shirt and a green hoodie is seated, holding a beer bottle, her attention seemingly captured by the camera.",
+    "objects": [
+      "shirt",
+      "her",
+      "side",
+      "attention",
+      "bottle",
+      "bar",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "holding",
+      "captured"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "On the right side of the bar, a woman in a black shirt and a green hoodie is seated, holding a beer bottle, her attention seemingly captured by the camera.",
+    "objects": [
+      "shirt",
+      "her",
+      "side",
+      "attention",
+      "bottle",
+      "bar",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "holding",
+      "captured"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "On the right side of the bar, a woman in a black shirt and a green hoodie is seated, holding a beer bottle, her attention seemingly captured by the camera.",
+    "objects": [
+      "shirt",
+      "her",
+      "side",
+      "attention",
+      "bottle",
+      "bar",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "holding",
+      "captured"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "To her left, a man in a blue shirt is standing, holding a beer mug and looking away from the camera.",
+    "objects": [
+      "her",
+      "shirt",
+      "blue",
+      "from",
+      "away",
+      "man",
+      "mug",
+      "beer"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "To her left, a man in a blue shirt is standing, holding a beer mug and looking away from the camera.",
+    "objects": [
+      "her",
+      "shirt",
+      "blue",
+      "from",
+      "away",
+      "man",
+      "mug",
+      "beer"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "To her left, a man in a blue shirt is standing, holding a beer mug and looking away from the camera.",
+    "objects": [
+      "her",
+      "shirt",
+      "blue",
+      "from",
+      "away",
+      "man",
+      "mug",
+      "beer"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "To her left, a man in a blue shirt is standing, holding a beer mug and looking away from the camera.",
+    "objects": [
+      "her",
+      "shirt",
+      "blue",
+      "from",
+      "away",
+      "man",
+      "mug",
+      "beer"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The bar is a hive of activity, with people sitting and standing around the tables, engaged in conversation.",
+    "objects": [
+      "activity",
+      "bar",
+      "conversation",
+      "people",
+      "hive",
+      "around"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "tables",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The bar is a hive of activity, with people sitting and standing around the tables, engaged in conversation.",
+    "objects": [
+      "activity",
+      "bar",
+      "conversation",
+      "people",
+      "hive",
+      "around"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "tables",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The bar is a hive of activity, with people sitting and standing around the tables, engaged in conversation.",
+    "objects": [
+      "activity",
+      "bar",
+      "conversation",
+      "people",
+      "hive",
+      "around"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "tables",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The bar is a hive of activity, with people sitting and standing around the tables, engaged in conversation.",
+    "objects": [
+      "activity",
+      "bar",
+      "conversation",
+      "people",
+      "hive",
+      "around"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "tables",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A black and white dog, the main character of the video, stands out prominently on the left side of the bar.",
+    "objects": [
+      "side",
+      "white",
+      "bar",
+      "out",
+      "black",
+      "dog",
+      "character",
+      "main"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A black and white dog, the main character of the video, stands out prominently on the left side of the bar.",
+    "objects": [
+      "side",
+      "white",
+      "bar",
+      "out",
+      "black",
+      "dog",
+      "character",
+      "main"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A black and white dog, the main character of the video, stands out prominently on the left side of the bar.",
+    "objects": [
+      "side",
+      "white",
+      "bar",
+      "out",
+      "black",
+      "dog",
+      "character",
+      "main"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A black and white dog, the main character of the video, stands out prominently on the left side of the bar.",
+    "objects": [
+      "side",
+      "white",
+      "bar",
+      "out",
+      "black",
+      "dog",
+      "character",
+      "main"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "It is wearing a blue hoodie, its attention also focused on the camera, and it seems to be enjoying the lively atmosphere of the bar.",
+    "objects": [
+      "blue",
+      "lively",
+      "its",
+      "bar",
+      "atmosphere",
+      "attention",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "seems",
+      "enjoying",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "It is wearing a blue hoodie, its attention also focused on the camera, and it seems to be enjoying the lively atmosphere of the bar.",
+    "objects": [
+      "blue",
+      "lively",
+      "its",
+      "bar",
+      "atmosphere",
+      "attention",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "seems",
+      "enjoying",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "It is wearing a blue hoodie, its attention also focused on the camera, and it seems to be enjoying the lively atmosphere of the bar.",
+    "objects": [
+      "blue",
+      "lively",
+      "its",
+      "bar",
+      "atmosphere",
+      "attention",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "seems",
+      "enjoying",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "It is wearing a blue hoodie, its attention also focused on the camera, and it seems to be enjoying the lively atmosphere of the bar.",
+    "objects": [
+      "blue",
+      "lively",
+      "its",
+      "bar",
+      "atmosphere",
+      "attention",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "seems",
+      "enjoying",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "On the right side of the bar, a woman in a gray sweater is standing, holding a beer glass, her gaze directed towards the camera.",
+    "objects": [
+      "her",
+      "side",
+      "sweater",
+      "gray",
+      "bar",
+      "glass",
+      "woman",
+      "beer"
+    ],
+    "actions": [
+      "directed",
+      "standing",
+      "holding",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "On the right side of the bar, a woman in a gray sweater is standing, holding a beer glass, her gaze directed towards the camera.",
+    "objects": [
+      "her",
+      "side",
+      "sweater",
+      "gray",
+      "bar",
+      "glass",
+      "woman",
+      "beer"
+    ],
+    "actions": [
+      "directed",
+      "standing",
+      "holding",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "On the right side of the bar, a woman in a gray sweater is standing, holding a beer glass, her gaze directed towards the camera.",
+    "objects": [
+      "her",
+      "side",
+      "sweater",
+      "gray",
+      "bar",
+      "glass",
+      "woman",
+      "beer"
+    ],
+    "actions": [
+      "directed",
+      "standing",
+      "holding",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "On the right side of the bar, a woman in a gray sweater is standing, holding a beer glass, her gaze directed towards the camera.",
+    "objects": [
+      "her",
+      "side",
+      "sweater",
+      "gray",
+      "bar",
+      "glass",
+      "woman",
+      "beer"
+    ],
+    "actions": [
+      "directed",
+      "standing",
+      "holding",
+      "towards"
+    ],
+    "segment_id": 7
+  }
+]

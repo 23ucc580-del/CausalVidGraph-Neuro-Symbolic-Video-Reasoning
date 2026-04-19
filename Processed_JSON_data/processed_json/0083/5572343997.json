@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of four scuba divers swimming underwater, each wearing black wetsuits and goggles.",
+    "objects": [
+      "each",
+      "scuba",
+      "four",
+      "see",
+      "group",
+      "underwater",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "goggles",
+      "divers",
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of four scuba divers swimming underwater, each wearing black wetsuits and goggles.",
+    "objects": [
+      "each",
+      "scuba",
+      "four",
+      "see",
+      "group",
+      "underwater",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "goggles",
+      "divers",
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of four scuba divers swimming underwater, each wearing black wetsuits and goggles.",
+    "objects": [
+      "each",
+      "scuba",
+      "four",
+      "see",
+      "group",
+      "underwater",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "goggles",
+      "divers",
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a group of four scuba divers swimming underwater, each wearing black wetsuits and goggles.",
+    "objects": [
+      "each",
+      "scuba",
+      "four",
+      "see",
+      "group",
+      "underwater",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "goggles",
+      "divers",
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The first diver is holding a camera, capturing the underwater view.",
+    "objects": [
+      "first",
+      "diver",
+      "underwater"
+    ],
+    "actions": [
+      "holding",
+      "capturing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The first diver is holding a camera, capturing the underwater view.",
+    "objects": [
+      "first",
+      "diver",
+      "underwater"
+    ],
+    "actions": [
+      "holding",
+      "capturing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The first diver is holding a camera, capturing the underwater view.",
+    "objects": [
+      "first",
+      "diver",
+      "underwater"
+    ],
+    "actions": [
+      "holding",
+      "capturing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The first diver is holding a camera, capturing the underwater view.",
+    "objects": [
+      "first",
+      "diver",
+      "underwater"
+    ],
+    "actions": [
+      "holding",
+      "capturing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The second diver is holding a flashlight, illuminating the underwater scene.",
+    "objects": [
+      "underwater",
+      "flashlight",
+      "diver",
+      "second"
+    ],
+    "actions": [
+      "holding",
+      "illuminating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The second diver is holding a flashlight, illuminating the underwater scene.",
+    "objects": [
+      "underwater",
+      "flashlight",
+      "diver",
+      "second"
+    ],
+    "actions": [
+      "holding",
+      "illuminating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The second diver is holding a flashlight, illuminating the underwater scene.",
+    "objects": [
+      "underwater",
+      "flashlight",
+      "diver",
+      "second"
+    ],
+    "actions": [
+      "holding",
+      "illuminating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The second diver is holding a flashlight, illuminating the underwater scene.",
+    "objects": [
+      "underwater",
+      "flashlight",
+      "diver",
+      "second"
+    ],
+    "actions": [
+      "holding",
+      "illuminating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The third diver is holding a red buoy, possibly for navigation or safety.",
+    "objects": [
+      "navigation",
+      "buoy",
+      "safety",
+      "diver",
+      "possibly",
+      "third"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The third diver is holding a red buoy, possibly for navigation or safety.",
+    "objects": [
+      "navigation",
+      "buoy",
+      "safety",
+      "diver",
+      "possibly",
+      "third"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The third diver is holding a red buoy, possibly for navigation or safety.",
+    "objects": [
+      "navigation",
+      "buoy",
+      "safety",
+      "diver",
+      "possibly",
+      "third"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The third diver is holding a red buoy, possibly for navigation or safety.",
+    "objects": [
+      "navigation",
+      "buoy",
+      "safety",
+      "diver",
+      "possibly",
+      "third"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The fourth diver is holding a green flashlight, possibly to enhance visibility.",
+    "objects": [
+      "visibility",
+      "fourth",
+      "enhance",
+      "flashlight",
+      "green",
+      "diver",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The fourth diver is holding a green flashlight, possibly to enhance visibility.",
+    "objects": [
+      "visibility",
+      "fourth",
+      "enhance",
+      "flashlight",
+      "green",
+      "diver",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The fourth diver is holding a green flashlight, possibly to enhance visibility.",
+    "objects": [
+      "visibility",
+      "fourth",
+      "enhance",
+      "flashlight",
+      "green",
+      "diver",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The fourth diver is holding a green flashlight, possibly to enhance visibility.",
+    "objects": [
+      "visibility",
+      "fourth",
+      "enhance",
+      "flashlight",
+      "green",
+      "diver",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The divers are exploring a coral reef, with rocks and small fishes in the foreground.",
+    "objects": [
+      "coral",
+      "reef",
+      "small"
+    ],
+    "actions": [
+      "rocks",
+      "fishes",
+      "divers",
+      "exploring"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The divers are exploring a coral reef, with rocks and small fishes in the foreground.",
+    "objects": [
+      "coral",
+      "reef",
+      "small"
+    ],
+    "actions": [
+      "rocks",
+      "fishes",
+      "divers",
+      "exploring"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The divers are exploring a coral reef, with rocks and small fishes in the foreground.",
+    "objects": [
+      "coral",
+      "reef",
+      "small"
+    ],
+    "actions": [
+      "rocks",
+      "fishes",
+      "divers",
+      "exploring"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The divers are exploring a coral reef, with rocks and small fishes in the foreground.",
+    "objects": [
+      "coral",
+      "reef",
+      "small"
+    ],
+    "actions": [
+      "rocks",
+      "fishes",
+      "divers",
+      "exploring"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "One of the divers is holding a rope, possibly for navigation or to hold onto.",
+    "objects": [
+      "navigation",
+      "onto",
+      "one",
+      "rope",
+      "hold",
+      "possibly"
+    ],
+    "actions": [
+      "holding",
+      "divers"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "One of the divers is holding a rope, possibly for navigation or to hold onto.",
+    "objects": [
+      "navigation",
+      "onto",
+      "one",
+      "rope",
+      "hold",
+      "possibly"
+    ],
+    "actions": [
+      "holding",
+      "divers"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "One of the divers is holding a rope, possibly for navigation or to hold onto.",
+    "objects": [
+      "navigation",
+      "onto",
+      "one",
+      "rope",
+      "hold",
+      "possibly"
+    ],
+    "actions": [
+      "holding",
+      "divers"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "One of the divers is holding a rope, possibly for navigation or to hold onto.",
+    "objects": [
+      "navigation",
+      "onto",
+      "one",
+      "rope",
+      "hold",
+      "possibly"
+    ],
+    "actions": [
+      "holding",
+      "divers"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The divers seem to be enjoying their time, smiling and laughing while underwater.",
+    "objects": [
+      "their",
+      "while",
+      "underwater",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "smiling",
+      "divers",
+      "laughing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The divers seem to be enjoying their time, smiling and laughing while underwater.",
+    "objects": [
+      "their",
+      "while",
+      "underwater",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "smiling",
+      "divers",
+      "laughing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The divers seem to be enjoying their time, smiling and laughing while underwater.",
+    "objects": [
+      "their",
+      "while",
+      "underwater",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "smiling",
+      "divers",
+      "laughing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The divers seem to be enjoying their time, smiling and laughing while underwater.",
+    "objects": [
+      "their",
+      "while",
+      "underwater",
+      "seem",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "smiling",
+      "divers",
+      "laughing"
+    ],
+    "segment_id": 7
+  }
+]

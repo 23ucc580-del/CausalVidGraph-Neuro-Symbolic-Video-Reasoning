@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a group of men riding horses in a stadium.",
+    "objects": [
+      "stadium",
+      "men",
+      "group"
+    ],
+    "actions": [
+      "horses",
+      "depicts",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a group of men riding horses in a stadium.",
+    "objects": [
+      "stadium",
+      "men",
+      "group"
+    ],
+    "actions": [
+      "horses",
+      "depicts",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a group of men riding horses in a stadium.",
+    "objects": [
+      "stadium",
+      "men",
+      "group"
+    ],
+    "actions": [
+      "horses",
+      "depicts",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a group of men riding horses in a stadium.",
+    "objects": [
+      "stadium",
+      "men",
+      "group"
+    ],
+    "actions": [
+      "horses",
+      "depicts",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is dominated by the presence of a crowd, and the horses appear to be well-trained and well-behaved, standing still and waiting for their riders.",
+    "objects": [
+      "appear",
+      "their",
+      "crowd",
+      "presence",
+      "still"
+    ],
+    "actions": [
+      "standing",
+      "well-trained",
+      "riders",
+      "waiting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is dominated by the presence of a crowd, and the horses appear to be well-trained and well-behaved, standing still and waiting for their riders.",
+    "objects": [
+      "appear",
+      "their",
+      "crowd",
+      "presence",
+      "still"
+    ],
+    "actions": [
+      "standing",
+      "well-trained",
+      "riders",
+      "waiting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene is dominated by the presence of a crowd, and the horses appear to be well-trained and well-behaved, standing still and waiting for their riders.",
+    "objects": [
+      "appear",
+      "their",
+      "crowd",
+      "presence",
+      "still"
+    ],
+    "actions": [
+      "standing",
+      "well-trained",
+      "riders",
+      "waiting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene is dominated by the presence of a crowd, and the horses appear to be well-trained and well-behaved, standing still and waiting for their riders.",
+    "objects": [
+      "appear",
+      "their",
+      "crowd",
+      "presence",
+      "still"
+    ],
+    "actions": [
+      "standing",
+      "well-trained",
+      "riders",
+      "waiting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The men are dressed in uniforms, some of which include jackets, ties, and hats.",
+    "objects": [
+      "men",
+      "ties",
+      "hats",
+      "some",
+      "include",
+      "which"
+    ],
+    "actions": [
+      "dressed",
+      "uniforms",
+      "jackets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The men are dressed in uniforms, some of which include jackets, ties, and hats.",
+    "objects": [
+      "men",
+      "ties",
+      "hats",
+      "some",
+      "include",
+      "which"
+    ],
+    "actions": [
+      "dressed",
+      "uniforms",
+      "jackets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The men are dressed in uniforms, some of which include jackets, ties, and hats.",
+    "objects": [
+      "men",
+      "ties",
+      "hats",
+      "some",
+      "include",
+      "which"
+    ],
+    "actions": [
+      "dressed",
+      "uniforms",
+      "jackets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The men are dressed in uniforms, some of which include jackets, ties, and hats.",
+    "objects": [
+      "men",
+      "ties",
+      "hats",
+      "some",
+      "include",
+      "which"
+    ],
+    "actions": [
+      "dressed",
+      "uniforms",
+      "jackets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "They are holding reins and directing their horses.",
+    "objects": [
+      "they",
+      "their"
+    ],
+    "actions": [
+      "directing",
+      "reins",
+      "holding",
+      "horses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "They are holding reins and directing their horses.",
+    "objects": [
+      "they",
+      "their"
+    ],
+    "actions": [
+      "directing",
+      "reins",
+      "holding",
+      "horses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "They are holding reins and directing their horses.",
+    "objects": [
+      "they",
+      "their"
+    ],
+    "actions": [
+      "directing",
+      "reins",
+      "holding",
+      "horses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "They are holding reins and directing their horses.",
+    "objects": [
+      "they",
+      "their"
+    ],
+    "actions": [
+      "directing",
+      "reins",
+      "holding",
+      "horses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The horses are white, and one rider stands out with a purple cape.",
+    "objects": [
+      "one",
+      "white",
+      "rider",
+      "out",
+      "cape",
+      "purple"
+    ],
+    "actions": [
+      "horses",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The horses are white, and one rider stands out with a purple cape.",
+    "objects": [
+      "one",
+      "white",
+      "rider",
+      "out",
+      "cape",
+      "purple"
+    ],
+    "actions": [
+      "horses",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The horses are white, and one rider stands out with a purple cape.",
+    "objects": [
+      "one",
+      "white",
+      "rider",
+      "out",
+      "cape",
+      "purple"
+    ],
+    "actions": [
+      "horses",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The horses are white, and one rider stands out with a purple cape.",
+    "objects": [
+      "one",
+      "white",
+      "rider",
+      "out",
+      "cape",
+      "purple"
+    ],
+    "actions": [
+      "horses",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The audience is seated in the stands, with some standing, watching the riders.",
+    "objects": [
+      "some",
+      "audience"
+    ],
+    "actions": [
+      "standing",
+      "riders",
+      "stands",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The audience is seated in the stands, with some standing, watching the riders.",
+    "objects": [
+      "some",
+      "audience"
+    ],
+    "actions": [
+      "standing",
+      "riders",
+      "stands",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The audience is seated in the stands, with some standing, watching the riders.",
+    "objects": [
+      "some",
+      "audience"
+    ],
+    "actions": [
+      "standing",
+      "riders",
+      "stands",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The audience is seated in the stands, with some standing, watching the riders.",
+    "objects": [
+      "some",
+      "audience"
+    ],
+    "actions": [
+      "standing",
+      "riders",
+      "stands",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The horses are walking and standing around the arena, and the men are guiding them, seemingly in a show or competition setting.",
+    "objects": [
+      "show",
+      "competition",
+      "men",
+      "seemingly",
+      "arena",
+      "around",
+      "them"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "setting",
+      "horses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The horses are walking and standing around the arena, and the men are guiding them, seemingly in a show or competition setting.",
+    "objects": [
+      "show",
+      "competition",
+      "men",
+      "seemingly",
+      "arena",
+      "around",
+      "them"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "setting",
+      "horses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The horses are walking and standing around the arena, and the men are guiding them, seemingly in a show or competition setting.",
+    "objects": [
+      "show",
+      "competition",
+      "men",
+      "seemingly",
+      "arena",
+      "around",
+      "them"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "setting",
+      "horses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The horses are walking and standing around the arena, and the men are guiding them, seemingly in a show or competition setting.",
+    "objects": [
+      "show",
+      "competition",
+      "men",
+      "seemingly",
+      "arena",
+      "around",
+      "them"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "setting",
+      "horses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The atmosphere is lively and exciting, with the crowd cheering and the riders focused on their performance.",
+    "objects": [
+      "their",
+      "crowd",
+      "performance",
+      "lively",
+      "atmosphere"
+    ],
+    "actions": [
+      "cheering",
+      "focused",
+      "riders",
+      "exciting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The atmosphere is lively and exciting, with the crowd cheering and the riders focused on their performance.",
+    "objects": [
+      "their",
+      "crowd",
+      "performance",
+      "lively",
+      "atmosphere"
+    ],
+    "actions": [
+      "cheering",
+      "focused",
+      "riders",
+      "exciting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The atmosphere is lively and exciting, with the crowd cheering and the riders focused on their performance.",
+    "objects": [
+      "their",
+      "crowd",
+      "performance",
+      "lively",
+      "atmosphere"
+    ],
+    "actions": [
+      "cheering",
+      "focused",
+      "riders",
+      "exciting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The atmosphere is lively and exciting, with the crowd cheering and the riders focused on their performance.",
+    "objects": [
+      "their",
+      "crowd",
+      "performance",
+      "lively",
+      "atmosphere"
+    ],
+    "actions": [
+      "cheering",
+      "focused",
+      "riders",
+      "exciting"
+    ],
+    "segment_id": 7
+  }
+]

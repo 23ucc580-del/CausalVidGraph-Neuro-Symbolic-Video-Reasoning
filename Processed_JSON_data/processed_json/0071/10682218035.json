@@ -1,0 +1,533 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a black dog is seen wandering around a living room, with a white and brown dog lying on the floor near the door.",
+    "objects": [
+      "black",
+      "floor",
+      "white",
+      "door",
+      "brown",
+      "room",
+      "around",
+      "dog"
+    ],
+    "actions": [
+      "living",
+      "lying",
+      "wandering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a black dog is seen wandering around a living room, with a white and brown dog lying on the floor near the door.",
+    "objects": [
+      "black",
+      "floor",
+      "white",
+      "door",
+      "brown",
+      "room",
+      "around",
+      "dog"
+    ],
+    "actions": [
+      "living",
+      "lying",
+      "wandering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a black dog is seen wandering around a living room, with a white and brown dog lying on the floor near the door.",
+    "objects": [
+      "black",
+      "floor",
+      "white",
+      "door",
+      "brown",
+      "room",
+      "around",
+      "dog"
+    ],
+    "actions": [
+      "living",
+      "lying",
+      "wandering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The black dog is sniffing the floor, and the white and brown dog is lying on its back, looking up at the ceiling.",
+    "objects": [
+      "floor",
+      "black",
+      "white",
+      "brown",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "ceiling",
+      "looking",
+      "lying",
+      "sniffing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The black dog is sniffing the floor, and the white and brown dog is lying on its back, looking up at the ceiling.",
+    "objects": [
+      "floor",
+      "black",
+      "white",
+      "brown",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "ceiling",
+      "looking",
+      "lying",
+      "sniffing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The black dog is sniffing the floor, and the white and brown dog is lying on its back, looking up at the ceiling.",
+    "objects": [
+      "floor",
+      "black",
+      "white",
+      "brown",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "ceiling",
+      "looking",
+      "lying",
+      "sniffing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The black dog's fur is shiny, and it has a collar around its neck.",
+    "objects": [
+      "has",
+      "neck",
+      "shiny",
+      "its",
+      "collar",
+      "around",
+      "fur",
+      "black"
+    ],
+    "actions": [
+      "dog's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The black dog's fur is shiny, and it has a collar around its neck.",
+    "objects": [
+      "has",
+      "neck",
+      "shiny",
+      "its",
+      "collar",
+      "around",
+      "fur",
+      "black"
+    ],
+    "actions": [
+      "dog's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The black dog's fur is shiny, and it has a collar around its neck.",
+    "objects": [
+      "has",
+      "neck",
+      "shiny",
+      "its",
+      "collar",
+      "around",
+      "fur",
+      "black"
+    ],
+    "actions": [
+      "dog's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The white and brown dog is wearing a blue hoodie, and it appears to be watching the black dog.",
+    "objects": [
+      "black",
+      "white",
+      "hoodie",
+      "blue",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "watching"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The white and brown dog is wearing a blue hoodie, and it appears to be watching the black dog.",
+    "objects": [
+      "black",
+      "white",
+      "hoodie",
+      "blue",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "watching"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The white and brown dog is wearing a blue hoodie, and it appears to be watching the black dog.",
+    "objects": [
+      "black",
+      "white",
+      "hoodie",
+      "blue",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "watching"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The living room is filled with various objects, including a blue box and a white bowl on the floor.",
+    "objects": [
+      "floor",
+      "box",
+      "white",
+      "bowl",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "objects",
+      "filled"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The living room is filled with various objects, including a blue box and a white bowl on the floor.",
+    "objects": [
+      "floor",
+      "box",
+      "white",
+      "bowl",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "objects",
+      "filled"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The living room is filled with various objects, including a blue box and a white bowl on the floor.",
+    "objects": [
+      "floor",
+      "box",
+      "white",
+      "bowl",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "objects",
+      "filled"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "There's a blue couch with a white and brown dog lying on it, and a brown couch with a white and brown dog lying on it.",
+    "objects": [
+      "couch",
+      "white",
+      "blue",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "there's",
+      "lying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "There's a blue couch with a white and brown dog lying on it, and a brown couch with a white and brown dog lying on it.",
+    "objects": [
+      "couch",
+      "white",
+      "blue",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "there's",
+      "lying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "There's a blue couch with a white and brown dog lying on it, and a brown couch with a white and brown dog lying on it.",
+    "objects": [
+      "couch",
+      "white",
+      "blue",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "there's",
+      "lying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A white and brown dog is holding a silver car, and a white and brown dog is holding a bowl.",
+    "objects": [
+      "white",
+      "silver",
+      "bowl",
+      "car",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A white and brown dog is holding a silver car, and a white and brown dog is holding a bowl.",
+    "objects": [
+      "white",
+      "silver",
+      "bowl",
+      "car",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A white and brown dog is holding a silver car, and a white and brown dog is holding a bowl.",
+    "objects": [
+      "white",
+      "silver",
+      "bowl",
+      "car",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A white and brown dog is seen in the background, and there's a brown and white dog in the foreground.",
+    "objects": [
+      "brown",
+      "white",
+      "dog"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A white and brown dog is seen in the background, and there's a brown and white dog in the foreground.",
+    "objects": [
+      "brown",
+      "white",
+      "dog"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A white and brown dog is seen in the background, and there's a brown and white dog in the foreground.",
+    "objects": [
+      "brown",
+      "white",
+      "dog"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A black dog is also in the foreground, and a white and brown dog is in the background.",
+    "objects": [
+      "dog",
+      "white",
+      "brown",
+      "black"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A black dog is also in the foreground, and a white and brown dog is in the background.",
+    "objects": [
+      "dog",
+      "white",
+      "brown",
+      "black"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A black dog is also in the foreground, and a white and brown dog is in the background.",
+    "objects": [
+      "dog",
+      "white",
+      "brown",
+      "black"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The dogs are wearing different colors of hoodies.",
+    "objects": [
+      "dogs",
+      "different"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "colors"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The dogs are wearing different colors of hoodies.",
+    "objects": [
+      "dogs",
+      "different"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "colors"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The dogs are wearing different colors of hoodies.",
+    "objects": [
+      "dogs",
+      "different"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "colors"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "A white and brown dog is sitting on the floor with a blue bowl, and a black dog is sitting on the floor with a silver bowl.",
+    "objects": [
+      "floor",
+      "black",
+      "white",
+      "silver",
+      "bowl",
+      "blue",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "A white and brown dog is sitting on the floor with a blue bowl, and a black dog is sitting on the floor with a silver bowl.",
+    "objects": [
+      "floor",
+      "black",
+      "white",
+      "silver",
+      "bowl",
+      "blue",
+      "brown",
+      "dog"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 10
+  }
+]

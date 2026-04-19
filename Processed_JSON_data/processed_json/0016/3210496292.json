@@ -1,0 +1,514 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman in a black shirt is standing in a kitchen, preparing food.",
+    "objects": [
+      "shirt",
+      "kitchen",
+      "black",
+      "food",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman in a black shirt is standing in a kitchen, preparing food.",
+    "objects": [
+      "shirt",
+      "kitchen",
+      "black",
+      "food",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman in a black shirt is standing in a kitchen, preparing food.",
+    "objects": [
+      "shirt",
+      "kitchen",
+      "black",
+      "food",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman in a black shirt is standing in a kitchen, preparing food.",
+    "objects": [
+      "shirt",
+      "kitchen",
+      "black",
+      "food",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a ring on her left hand and a bracelet on her right wrist.",
+    "objects": [
+      "her",
+      "bracelet",
+      "wrist",
+      "she",
+      "hand"
+    ],
+    "actions": [
+      "ring",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a ring on her left hand and a bracelet on her right wrist.",
+    "objects": [
+      "her",
+      "bracelet",
+      "wrist",
+      "she",
+      "hand"
+    ],
+    "actions": [
+      "ring",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is wearing a ring on her left hand and a bracelet on her right wrist.",
+    "objects": [
+      "her",
+      "bracelet",
+      "wrist",
+      "she",
+      "hand"
+    ],
+    "actions": [
+      "ring",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is wearing a ring on her left hand and a bracelet on her right wrist.",
+    "objects": [
+      "her",
+      "bracelet",
+      "wrist",
+      "she",
+      "hand"
+    ],
+    "actions": [
+      "ring",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "She is holding a wooden spoon and a knife in her hands.",
+    "objects": [
+      "wooden",
+      "her",
+      "knife",
+      "spoon",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "She is holding a wooden spoon and a knife in her hands.",
+    "objects": [
+      "wooden",
+      "her",
+      "knife",
+      "spoon",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "She is holding a wooden spoon and a knife in her hands.",
+    "objects": [
+      "wooden",
+      "her",
+      "knife",
+      "spoon",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "She is holding a wooden spoon and a knife in her hands.",
+    "objects": [
+      "wooden",
+      "her",
+      "knife",
+      "spoon",
+      "she"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "She is cutting a cake into pieces, which is placed on a cutting board.",
+    "objects": [
+      "cake",
+      "board",
+      "which",
+      "she",
+      "into"
+    ],
+    "actions": [
+      "pieces",
+      "placed",
+      "cutting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "She is cutting a cake into pieces, which is placed on a cutting board.",
+    "objects": [
+      "cake",
+      "board",
+      "which",
+      "she",
+      "into"
+    ],
+    "actions": [
+      "pieces",
+      "placed",
+      "cutting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "She is cutting a cake into pieces, which is placed on a cutting board.",
+    "objects": [
+      "cake",
+      "board",
+      "which",
+      "she",
+      "into"
+    ],
+    "actions": [
+      "pieces",
+      "placed",
+      "cutting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "She is cutting a cake into pieces, which is placed on a cutting board.",
+    "objects": [
+      "cake",
+      "board",
+      "which",
+      "she",
+      "into"
+    ],
+    "actions": [
+      "pieces",
+      "placed",
+      "cutting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Next to her, a man in a white shirt is also preparing food.",
+    "objects": [
+      "her",
+      "shirt",
+      "white",
+      "man",
+      "food"
+    ],
+    "actions": [
+      "preparing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Next to her, a man in a white shirt is also preparing food.",
+    "objects": [
+      "her",
+      "shirt",
+      "white",
+      "man",
+      "food"
+    ],
+    "actions": [
+      "preparing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Next to her, a man in a white shirt is also preparing food.",
+    "objects": [
+      "her",
+      "shirt",
+      "white",
+      "man",
+      "food"
+    ],
+    "actions": [
+      "preparing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Next to her, a man in a white shirt is also preparing food.",
+    "objects": [
+      "her",
+      "shirt",
+      "white",
+      "man",
+      "food"
+    ],
+    "actions": [
+      "preparing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "He is wearing a ring on his left hand and holding a spoon.",
+    "objects": [
+      "hand",
+      "spoon",
+      "his"
+    ],
+    "actions": [
+      "ring",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "He is wearing a ring on his left hand and holding a spoon.",
+    "objects": [
+      "hand",
+      "spoon",
+      "his"
+    ],
+    "actions": [
+      "ring",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "He is wearing a ring on his left hand and holding a spoon.",
+    "objects": [
+      "hand",
+      "spoon",
+      "his"
+    ],
+    "actions": [
+      "ring",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "He is wearing a ring on his left hand and holding a spoon.",
+    "objects": [
+      "hand",
+      "spoon",
+      "his"
+    ],
+    "actions": [
+      "ring",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman is using the spoon to cut the cake while the man is holding a knife.",
+    "objects": [
+      "cut",
+      "knife",
+      "cake",
+      "man",
+      "spoon",
+      "woman",
+      "while"
+    ],
+    "actions": [
+      "using",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman is using the spoon to cut the cake while the man is holding a knife.",
+    "objects": [
+      "cut",
+      "knife",
+      "cake",
+      "man",
+      "spoon",
+      "woman",
+      "while"
+    ],
+    "actions": [
+      "using",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman is using the spoon to cut the cake while the man is holding a knife.",
+    "objects": [
+      "cut",
+      "knife",
+      "cake",
+      "man",
+      "spoon",
+      "woman",
+      "while"
+    ],
+    "actions": [
+      "using",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman is using the spoon to cut the cake while the man is holding a knife.",
+    "objects": [
+      "cut",
+      "knife",
+      "cake",
+      "man",
+      "spoon",
+      "woman",
+      "while"
+    ],
+    "actions": [
+      "using",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, there are several pots and bowls filled with food.",
+    "objects": [
+      "pots",
+      "several",
+      "food",
+      "there"
+    ],
+    "actions": [
+      "bowls",
+      "filled"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, there are several pots and bowls filled with food.",
+    "objects": [
+      "pots",
+      "several",
+      "food",
+      "there"
+    ],
+    "actions": [
+      "bowls",
+      "filled"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "In the background, there are several pots and bowls filled with food.",
+    "objects": [
+      "pots",
+      "several",
+      "food",
+      "there"
+    ],
+    "actions": [
+      "bowls",
+      "filled"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "In the background, there are several pots and bowls filled with food.",
+    "objects": [
+      "pots",
+      "several",
+      "food",
+      "there"
+    ],
+    "actions": [
+      "bowls",
+      "filled"
+    ],
+    "segment_id": 7
+  }
+]

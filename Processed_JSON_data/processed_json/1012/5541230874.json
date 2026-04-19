@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a little girl is seen sitting on the floor, surrounded by a messy room.",
+    "objects": [
+      "room",
+      "messy",
+      "little",
+      "girl",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a little girl is seen sitting on the floor, surrounded by a messy room.",
+    "objects": [
+      "room",
+      "messy",
+      "little",
+      "girl",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a little girl is seen sitting on the floor, surrounded by a messy room.",
+    "objects": [
+      "room",
+      "messy",
+      "little",
+      "girl",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a little girl is seen sitting on the floor, surrounded by a messy room.",
+    "objects": [
+      "room",
+      "messy",
+      "little",
+      "girl",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a blue hoodie and holding a doll in her hands.",
+    "objects": [
+      "she",
+      "blue",
+      "her",
+      "hoodie",
+      "doll"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a blue hoodie and holding a doll in her hands.",
+    "objects": [
+      "she",
+      "blue",
+      "her",
+      "hoodie",
+      "doll"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is wearing a blue hoodie and holding a doll in her hands.",
+    "objects": [
+      "she",
+      "blue",
+      "her",
+      "hoodie",
+      "doll"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is wearing a blue hoodie and holding a doll in her hands.",
+    "objects": [
+      "she",
+      "blue",
+      "her",
+      "hoodie",
+      "doll"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The girl seems to be in a playful mood, as she's smiling and looking up at the camera.",
+    "objects": [
+      "girl",
+      "playful",
+      "mood"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "she's",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The girl seems to be in a playful mood, as she's smiling and looking up at the camera.",
+    "objects": [
+      "girl",
+      "playful",
+      "mood"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "she's",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The girl seems to be in a playful mood, as she's smiling and looking up at the camera.",
+    "objects": [
+      "girl",
+      "playful",
+      "mood"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "she's",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The girl seems to be in a playful mood, as she's smiling and looking up at the camera.",
+    "objects": [
+      "girl",
+      "playful",
+      "mood"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "she's",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "In the background, there's a fireplace and a Christmas tree, which suggests that it's probably during the holiday season.",
+    "objects": [
+      "probably",
+      "holiday",
+      "season",
+      "that",
+      "which",
+      "tree",
+      "fireplace"
+    ],
+    "actions": [
+      "during",
+      "suggests",
+      "christmas",
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "In the background, there's a fireplace and a Christmas tree, which suggests that it's probably during the holiday season.",
+    "objects": [
+      "probably",
+      "holiday",
+      "season",
+      "that",
+      "which",
+      "tree",
+      "fireplace"
+    ],
+    "actions": [
+      "during",
+      "suggests",
+      "christmas",
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "In the background, there's a fireplace and a Christmas tree, which suggests that it's probably during the holiday season.",
+    "objects": [
+      "probably",
+      "holiday",
+      "season",
+      "that",
+      "which",
+      "tree",
+      "fireplace"
+    ],
+    "actions": [
+      "during",
+      "suggests",
+      "christmas",
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, there's a fireplace and a Christmas tree, which suggests that it's probably during the holiday season.",
+    "objects": [
+      "probably",
+      "holiday",
+      "season",
+      "that",
+      "which",
+      "tree",
+      "fireplace"
+    ],
+    "actions": [
+      "during",
+      "suggests",
+      "christmas",
+      "there's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "She then picks up a toy car and starts playing with it.",
+    "objects": [
+      "then",
+      "car",
+      "she",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "picks",
+      "starts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "She then picks up a toy car and starts playing with it.",
+    "objects": [
+      "then",
+      "car",
+      "she",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "picks",
+      "starts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "She then picks up a toy car and starts playing with it.",
+    "objects": [
+      "then",
+      "car",
+      "she",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "picks",
+      "starts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "She then picks up a toy car and starts playing with it.",
+    "objects": [
+      "then",
+      "car",
+      "she",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "picks",
+      "starts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "As she continues to play, she sets the doll down and picks up a different toy, a blue car.",
+    "objects": [
+      "she",
+      "blue",
+      "sets",
+      "different",
+      "car",
+      "play",
+      "toy",
+      "doll"
+    ],
+    "actions": [
+      "continues",
+      "picks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "As she continues to play, she sets the doll down and picks up a different toy, a blue car.",
+    "objects": [
+      "she",
+      "blue",
+      "sets",
+      "different",
+      "car",
+      "play",
+      "toy",
+      "doll"
+    ],
+    "actions": [
+      "continues",
+      "picks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "As she continues to play, she sets the doll down and picks up a different toy, a blue car.",
+    "objects": [
+      "she",
+      "blue",
+      "sets",
+      "different",
+      "car",
+      "play",
+      "toy",
+      "doll"
+    ],
+    "actions": [
+      "continues",
+      "picks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "As she continues to play, she sets the doll down and picks up a different toy, a blue car.",
+    "objects": [
+      "she",
+      "blue",
+      "sets",
+      "different",
+      "car",
+      "play",
+      "toy",
+      "doll"
+    ],
+    "actions": [
+      "continues",
+      "picks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "She then proceeds to play with the blue car, moving it around and looking at it with interest.",
+    "objects": [
+      "she",
+      "blue",
+      "around",
+      "car",
+      "play",
+      "then",
+      "interest"
+    ],
+    "actions": [
+      "moving",
+      "looking",
+      "proceeds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "She then proceeds to play with the blue car, moving it around and looking at it with interest.",
+    "objects": [
+      "she",
+      "blue",
+      "around",
+      "car",
+      "play",
+      "then",
+      "interest"
+    ],
+    "actions": [
+      "moving",
+      "looking",
+      "proceeds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "She then proceeds to play with the blue car, moving it around and looking at it with interest.",
+    "objects": [
+      "she",
+      "blue",
+      "around",
+      "car",
+      "play",
+      "then",
+      "interest"
+    ],
+    "actions": [
+      "moving",
+      "looking",
+      "proceeds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "She then proceeds to play with the blue car, moving it around and looking at it with interest.",
+    "objects": [
+      "she",
+      "blue",
+      "around",
+      "car",
+      "play",
+      "then",
+      "interest"
+    ],
+    "actions": [
+      "moving",
+      "looking",
+      "proceeds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "Overall, the scene is one of a child's playtime in a festive setting.",
+    "objects": [
+      "overall",
+      "festive",
+      "playtime",
+      "one"
+    ],
+    "actions": [
+      "child's",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "Overall, the scene is one of a child's playtime in a festive setting.",
+    "objects": [
+      "overall",
+      "festive",
+      "playtime",
+      "one"
+    ],
+    "actions": [
+      "child's",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "Overall, the scene is one of a child's playtime in a festive setting.",
+    "objects": [
+      "overall",
+      "festive",
+      "playtime",
+      "one"
+    ],
+    "actions": [
+      "child's",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "Overall, the scene is one of a child's playtime in a festive setting.",
+    "objects": [
+      "overall",
+      "festive",
+      "playtime",
+      "one"
+    ],
+    "actions": [
+      "child's",
+      "setting"
+    ],
+    "segment_id": 7
+  }
+]

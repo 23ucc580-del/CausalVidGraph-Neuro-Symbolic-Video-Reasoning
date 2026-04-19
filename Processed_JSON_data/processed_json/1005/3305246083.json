@@ -1,0 +1,588 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered in a room, with some of them playing guitars and others singing along.",
+    "objects": [
+      "along",
+      "people",
+      "some",
+      "them",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "guitars",
+      "others",
+      "singing",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered in a room, with some of them playing guitars and others singing along.",
+    "objects": [
+      "along",
+      "people",
+      "some",
+      "them",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "guitars",
+      "others",
+      "singing",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene opens with a man in a blue hoodie sitting at a table, holding a guitar and looking off into the distance.",
+    "objects": [
+      "distance",
+      "table",
+      "into",
+      "blue",
+      "off",
+      "guitar",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "opens",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a man in a blue hoodie sitting at a table, holding a guitar and looking off into the distance.",
+    "objects": [
+      "distance",
+      "table",
+      "into",
+      "blue",
+      "off",
+      "guitar",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "opens",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He is smiling at the camera.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "He is smiling at the camera.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman wearing a white hoodie is standing next to him, singing along with him.",
+    "objects": [
+      "along",
+      "white",
+      "woman",
+      "him",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman wearing a white hoodie is standing next to him, singing along with him.",
+    "objects": [
+      "along",
+      "white",
+      "woman",
+      "him",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "As the camera pans to the right, we see a group of people singing together, with one of them playing the guitar.",
+    "objects": [
+      "one",
+      "people",
+      "pans",
+      "guitar",
+      "see",
+      "them",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "As the camera pans to the right, we see a group of people singing together, with one of them playing the guitar.",
+    "objects": [
+      "one",
+      "people",
+      "pans",
+      "guitar",
+      "see",
+      "them",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then moves to the left, where we see a woman in a pink shirt and black cap sitting at a table, singing along.",
+    "objects": [
+      "along",
+      "table",
+      "pink",
+      "woman",
+      "where",
+      "black",
+      "shirt",
+      "see"
+    ],
+    "actions": [
+      "singing",
+      "sitting",
+      "moves"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then moves to the left, where we see a woman in a pink shirt and black cap sitting at a table, singing along.",
+    "objects": [
+      "along",
+      "table",
+      "pink",
+      "woman",
+      "where",
+      "black",
+      "shirt",
+      "see"
+    ],
+    "actions": [
+      "singing",
+      "sitting",
+      "moves"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera continues to pan around the room, showing us various people singing along.",
+    "objects": [
+      "along",
+      "people",
+      "pan",
+      "around",
+      "room"
+    ],
+    "actions": [
+      "singing",
+      "continues"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera continues to pan around the room, showing us various people singing along.",
+    "objects": [
+      "along",
+      "people",
+      "pan",
+      "around",
+      "room"
+    ],
+    "actions": [
+      "singing",
+      "continues"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a purple sweater is seen playing guitar, with a woman in a white shirt standing next to him, also singing.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "guitar",
+      "sweater",
+      "shirt",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "playing",
+      "standing",
+      "singing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a purple sweater is seen playing guitar, with a woman in a white shirt standing next to him, also singing.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "guitar",
+      "sweater",
+      "shirt",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "playing",
+      "standing",
+      "singing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "We then see a man in a red shirt playing guitar, with a woman in a white shirt singing next to him.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "guitar",
+      "shirt",
+      "see",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "playing",
+      "singing",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "We then see a man in a red shirt playing guitar, with a woman in a white shirt singing next to him.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "guitar",
+      "shirt",
+      "see",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "playing",
+      "singing",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then goes back to the man in the blue hoodie, who is now smiling at the camera.",
+    "objects": [
+      "blue",
+      "goes",
+      "who",
+      "now",
+      "hoodie",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then goes back to the man in the blue hoodie, who is now smiling at the camera.",
+    "objects": [
+      "blue",
+      "goes",
+      "who",
+      "now",
+      "hoodie",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene then pans to the right again, where we see a woman in a white hoodie singing, and we can see the man in the blue hoodie playing guitar next to her.",
+    "objects": [
+      "white",
+      "where",
+      "pans",
+      "woman",
+      "can",
+      "blue",
+      "guitar",
+      "see"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene then pans to the right again, where we see a woman in a white hoodie singing, and we can see the man in the blue hoodie playing guitar next to her.",
+    "objects": [
+      "white",
+      "where",
+      "pans",
+      "woman",
+      "can",
+      "blue",
+      "guitar",
+      "see"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then moves to the left, where a woman in a pink shirt is seen singing.",
+    "objects": [
+      "pink",
+      "woman",
+      "where",
+      "shirt",
+      "then"
+    ],
+    "actions": [
+      "singing",
+      "moves"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then moves to the left, where a woman in a pink shirt is seen singing.",
+    "objects": [
+      "pink",
+      "woman",
+      "where",
+      "shirt",
+      "then"
+    ],
+    "actions": [
+      "singing",
+      "moves"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "We then see a man in a red sweater playing guitar, with a woman in a white hoodie standing next to him, singing.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "guitar",
+      "sweater",
+      "see",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "standing",
+      "singing",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "We then see a man in a red sweater playing guitar, with a woman in a white hoodie standing next to him, singing.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "guitar",
+      "sweater",
+      "see",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "standing",
+      "singing",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera continues to pan around the room, showing us various people singing along.",
+    "objects": [
+      "along",
+      "people",
+      "pan",
+      "around",
+      "room"
+    ],
+    "actions": [
+      "singing",
+      "continues"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera continues to pan around the room, showing us various people singing along.",
+    "objects": [
+      "along",
+      "people",
+      "pan",
+      "around",
+      "room"
+    ],
+    "actions": [
+      "singing",
+      "continues"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A man in a purple sweater is playing guitar, with a woman in a black hat standing next to him, singing.",
+    "objects": [
+      "woman",
+      "black",
+      "him",
+      "guitar",
+      "sweater",
+      "hat",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "playing",
+      "standing",
+      "singing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A man in a purple sweater is playing guitar, with a woman in a black hat standing next to him, singing.",
+    "objects": [
+      "woman",
+      "black",
+      "him",
+      "guitar",
+      "sweater",
+      "hat",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "playing",
+      "standing",
+      "singing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "We then see a man in a red shirt playing guitar, with a woman in a white hoodie standing next to him, singing.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "guitar",
+      "shirt",
+      "see",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "standing",
+      "singing",
+      "red"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "We then see a man in a red shirt playing guitar, with a woman in a white hoodie standing next to him, singing.",
+    "objects": [
+      "white",
+      "woman",
+      "him",
+      "guitar",
+      "shirt",
+      "see",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "standing",
+      "singing",
+      "red"
+    ],
+    "segment_id": 15
+  }
+]

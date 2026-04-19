@@ -1,0 +1,598 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people gathered around a table, preparing a roast pig.",
+    "objects": [
+      "roast",
+      "around",
+      "this",
+      "people",
+      "pig",
+      "table",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people gathered around a table, preparing a roast pig.",
+    "objects": [
+      "roast",
+      "around",
+      "this",
+      "people",
+      "pig",
+      "table",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people gathered around a table, preparing a roast pig.",
+    "objects": [
+      "roast",
+      "around",
+      "this",
+      "people",
+      "pig",
+      "table",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a group of people gathered around a table, preparing a roast pig.",
+    "objects": [
+      "roast",
+      "around",
+      "this",
+      "people",
+      "pig",
+      "table",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The first person in the frame is a man wearing a green shirt who is slicing the pig, while another man wearing a blue shirt is standing next to him, holding a knife.",
+    "objects": [
+      "blue",
+      "knife",
+      "man",
+      "green",
+      "while",
+      "him",
+      "shirt",
+      "first"
+    ],
+    "actions": [
+      "slicing",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The first person in the frame is a man wearing a green shirt who is slicing the pig, while another man wearing a blue shirt is standing next to him, holding a knife.",
+    "objects": [
+      "blue",
+      "knife",
+      "man",
+      "green",
+      "while",
+      "him",
+      "shirt",
+      "first"
+    ],
+    "actions": [
+      "slicing",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The first person in the frame is a man wearing a green shirt who is slicing the pig, while another man wearing a blue shirt is standing next to him, holding a knife.",
+    "objects": [
+      "blue",
+      "knife",
+      "man",
+      "green",
+      "while",
+      "him",
+      "shirt",
+      "first"
+    ],
+    "actions": [
+      "slicing",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The first person in the frame is a man wearing a green shirt who is slicing the pig, while another man wearing a blue shirt is standing next to him, holding a knife.",
+    "objects": [
+      "blue",
+      "knife",
+      "man",
+      "green",
+      "while",
+      "him",
+      "shirt",
+      "first"
+    ],
+    "actions": [
+      "slicing",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A woman wearing a yellow shirt is standing to the right of the man in the green shirt, also holding a knife.",
+    "objects": [
+      "knife",
+      "man",
+      "green",
+      "shirt",
+      "yellow",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A woman wearing a yellow shirt is standing to the right of the man in the green shirt, also holding a knife.",
+    "objects": [
+      "knife",
+      "man",
+      "green",
+      "shirt",
+      "yellow",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A woman wearing a yellow shirt is standing to the right of the man in the green shirt, also holding a knife.",
+    "objects": [
+      "knife",
+      "man",
+      "green",
+      "shirt",
+      "yellow",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman wearing a yellow shirt is standing to the right of the man in the green shirt, also holding a knife.",
+    "objects": [
+      "knife",
+      "man",
+      "green",
+      "shirt",
+      "yellow",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Behind them, a woman in a white shirt is cutting the pig with a knife, while a man in a grey shirt is also standing next to the green-shirt man, holding a knife.",
+    "objects": [
+      "white",
+      "knife",
+      "man",
+      "while",
+      "shirt",
+      "pig",
+      "them",
+      "behind"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "cutting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Behind them, a woman in a white shirt is cutting the pig with a knife, while a man in a grey shirt is also standing next to the green-shirt man, holding a knife.",
+    "objects": [
+      "white",
+      "knife",
+      "man",
+      "while",
+      "shirt",
+      "pig",
+      "them",
+      "behind"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "cutting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Behind them, a woman in a white shirt is cutting the pig with a knife, while a man in a grey shirt is also standing next to the green-shirt man, holding a knife.",
+    "objects": [
+      "white",
+      "knife",
+      "man",
+      "while",
+      "shirt",
+      "pig",
+      "them",
+      "behind"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "cutting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Behind them, a woman in a white shirt is cutting the pig with a knife, while a man in a grey shirt is also standing next to the green-shirt man, holding a knife.",
+    "objects": [
+      "white",
+      "knife",
+      "man",
+      "while",
+      "shirt",
+      "pig",
+      "them",
+      "behind"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "cutting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a blue shirt is wearing gloves and is cutting the pig, while a woman in a yellow shirt is standing behind him, also wearing gloves.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "him",
+      "shirt",
+      "woman",
+      "yellow",
+      "behind"
+    ],
+    "actions": [
+      "cutting",
+      "wearing",
+      "standing",
+      "gloves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a blue shirt is wearing gloves and is cutting the pig, while a woman in a yellow shirt is standing behind him, also wearing gloves.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "him",
+      "shirt",
+      "woman",
+      "yellow",
+      "behind"
+    ],
+    "actions": [
+      "cutting",
+      "wearing",
+      "standing",
+      "gloves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a blue shirt is wearing gloves and is cutting the pig, while a woman in a yellow shirt is standing behind him, also wearing gloves.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "him",
+      "shirt",
+      "woman",
+      "yellow",
+      "behind"
+    ],
+    "actions": [
+      "cutting",
+      "wearing",
+      "standing",
+      "gloves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a blue shirt is wearing gloves and is cutting the pig, while a woman in a yellow shirt is standing behind him, also wearing gloves.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "him",
+      "shirt",
+      "woman",
+      "yellow",
+      "behind"
+    ],
+    "actions": [
+      "cutting",
+      "wearing",
+      "standing",
+      "gloves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a white shirt is standing behind the man in the blue shirt, also cutting the pig.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "shirt",
+      "pig",
+      "behind",
+      "woman"
+    ],
+    "actions": [
+      "cutting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a white shirt is standing behind the man in the blue shirt, also cutting the pig.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "shirt",
+      "pig",
+      "behind",
+      "woman"
+    ],
+    "actions": [
+      "cutting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman in a white shirt is standing behind the man in the blue shirt, also cutting the pig.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "shirt",
+      "pig",
+      "behind",
+      "woman"
+    ],
+    "actions": [
+      "cutting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman in a white shirt is standing behind the man in the blue shirt, also cutting the pig.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "shirt",
+      "pig",
+      "behind",
+      "woman"
+    ],
+    "actions": [
+      "cutting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is filled with people engaging in the process of roasting the pig.",
+    "objects": [
+      "pig",
+      "people"
+    ],
+    "actions": [
+      "engaging",
+      "filled",
+      "process",
+      "roasting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is filled with people engaging in the process of roasting the pig.",
+    "objects": [
+      "pig",
+      "people"
+    ],
+    "actions": [
+      "engaging",
+      "filled",
+      "process",
+      "roasting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is filled with people engaging in the process of roasting the pig.",
+    "objects": [
+      "pig",
+      "people"
+    ],
+    "actions": [
+      "engaging",
+      "filled",
+      "process",
+      "roasting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is filled with people engaging in the process of roasting the pig.",
+    "objects": [
+      "pig",
+      "people"
+    ],
+    "actions": [
+      "engaging",
+      "filled",
+      "process",
+      "roasting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the green shirt is holding a knife, while the man in the blue shirt is holding a spatula.",
+    "objects": [
+      "blue",
+      "spatula",
+      "knife",
+      "man",
+      "while",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the green shirt is holding a knife, while the man in the blue shirt is holding a spatula.",
+    "objects": [
+      "blue",
+      "spatula",
+      "knife",
+      "man",
+      "while",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the green shirt is holding a knife, while the man in the blue shirt is holding a spatula.",
+    "objects": [
+      "blue",
+      "spatula",
+      "knife",
+      "man",
+      "while",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the green shirt is holding a knife, while the man in the blue shirt is holding a spatula.",
+    "objects": [
+      "blue",
+      "spatula",
+      "knife",
+      "man",
+      "while",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,545 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a man and a woman standing on a deck, embracing each other while holding hands.",
+    "objects": [
+      "each",
+      "woman",
+      "man",
+      "deck",
+      "other",
+      "while"
+    ],
+    "actions": [
+      "holding",
+      "hands",
+      "embracing",
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The man is wearing a black t-shirt and jeans, while the woman is dressed in a purple jacket and jeans.",
+    "objects": [
+      "woman",
+      "man",
+      "purple",
+      "while",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The woman is smiling and the man has his arms around her.",
+    "objects": [
+      "has",
+      "woman",
+      "man",
+      "arms",
+      "her",
+      "around",
+      "his"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "They are both standing close to each other and appear to be in a loving embrace.",
+    "objects": [
+      "each",
+      "appear",
+      "other",
+      "both",
+      "embrace",
+      "they",
+      "close"
+    ],
+    "actions": [
+      "standing",
+      "loving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman then proceeds to walk towards the left side of the frame, and the man follows her, both of them moving in a synchronized manner.",
+    "objects": [
+      "woman",
+      "man",
+      "them",
+      "side",
+      "walk",
+      "both",
+      "then",
+      "her"
+    ],
+    "actions": [
+      "towards",
+      "proceeds",
+      "moving",
+      "synchronized"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera then shifts to the left, showing the woman walking alone, and she turns to the right.",
+    "objects": [
+      "she",
+      "alone",
+      "then",
+      "woman"
+    ],
+    "actions": [
+      "walking",
+      "turns",
+      "shifts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "As she walks, she carries a bottle of water in her left hand.",
+    "objects": [
+      "water",
+      "she",
+      "hand",
+      "her",
+      "bottle"
+    ],
+    "actions": [
+      "walks",
+      "carries"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "She is dressed in a black shirt and jeans.",
+    "objects": [
+      "she",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene then shifts back to the man and woman, who are now standing on the deck.",
+    "objects": [
+      "woman",
+      "man",
+      "deck",
+      "who",
+      "then",
+      "now"
+    ],
+    "actions": [
+      "standing",
+      "shifts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is wearing a black t-shirt and jeans, and the woman is dressed in a blue jacket and jeans.",
+    "objects": [
+      "woman",
+      "man",
+      "blue",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "They are still holding hands, and the man's arms are around her.",
+    "objects": [
+      "still",
+      "arms",
+      "they",
+      "her",
+      "around"
+    ],
+    "actions": [
+      "holding",
+      "man's",
+      "hands"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman then walks towards the left side of the frame, and the man follows her.",
+    "objects": [
+      "woman",
+      "man",
+      "side",
+      "then",
+      "her"
+    ],
+    "actions": [
+      "walks",
+      "towards",
+      "follows"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera angle remains fixed on the woman, and she turns to the right.",
+    "objects": [
+      "she",
+      "woman"
+    ],
+    "actions": [
+      "fixed",
+      "turns",
+      "remains"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "She is now walking alone, and she is wearing a black shirt and jeans.",
+    "objects": [
+      "she",
+      "alone",
+      "now",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then shifts to the left, showing the woman walking alone again, and she turns to the right.",
+    "objects": [
+      "woman",
+      "again",
+      "she",
+      "then",
+      "alone"
+    ],
+    "actions": [
+      "walking",
+      "turns",
+      "shifts"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then shifts back to the man and woman, who are still holding hands and standing on the deck.",
+    "objects": [
+      "still",
+      "woman",
+      "man",
+      "deck",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "hands",
+      "shifts"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is wearing a black t-shirt and jeans, and the woman is dressed in a blue jacket and jeans.",
+    "objects": [
+      "woman",
+      "man",
+      "blue",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman turns to the right, and the man follows her.",
+    "objects": [
+      "woman",
+      "man",
+      "her"
+    ],
+    "actions": [
+      "turns",
+      "follows"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera remains fixed on the woman, and she is now walking alone, dressed in a black shirt and jeans.",
+    "objects": [
+      "woman",
+      "she",
+      "alone",
+      "now",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "fixed",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "She turns to the left, and the camera angle remains fixed on her.",
+    "objects": [
+      "she",
+      "her"
+    ],
+    "actions": [
+      "fixed",
+      "turns",
+      "remains"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "She is now walking alone, dressed in a black shirt and jeans, and carries a bottle of water in her left hand.",
+    "objects": [
+      "water",
+      "her",
+      "she",
+      "hand",
+      "alone",
+      "now",
+      "shirt",
+      "bottle"
+    ],
+    "actions": [
+      "walking",
+      "dressed",
+      "jeans",
+      "carries"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "She turns to the right, and the camera shifts to the man, who is wearing a black t-shirt and jeans, and he follows her.",
+    "objects": [
+      "man",
+      "she",
+      "who",
+      "her",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "turns",
+      "jeans",
+      "shifts"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman turns to the left, and the camera remains fixed on the man, who is wearing a black shirt and jeans.",
+    "objects": [
+      "woman",
+      "man",
+      "who",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "fixed",
+      "turns",
+      "jeans"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "He turns to the right, and the camera angle remains fixed on him.",
+    "objects": [
+      "him"
+    ],
+    "actions": [
+      "fixed",
+      "turns",
+      "remains"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then shifts to the man and woman, who are still holding hands and standing on the deck.",
+    "objects": [
+      "still",
+      "woman",
+      "man",
+      "deck",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "hands",
+      "shifts"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is wearing a black t-shirt and jeans, and the woman is dressed in a blue jacket and jeans.",
+    "objects": [
+      "woman",
+      "man",
+      "blue",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman turns to the left, and the man follows her.",
+    "objects": [
+      "woman",
+      "man",
+      "her"
+    ],
+    "actions": [
+      "turns",
+      "follows"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera angle remains fixed on the woman, and she is walking alone, dressed in a black shirt and jeans.",
+    "objects": [
+      "woman",
+      "she",
+      "alone",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "fixed",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "She turns to the left, and the camera angle remains fixed on her.",
+    "objects": [
+      "she",
+      "her"
+    ],
+    "actions": [
+      "fixed",
+      "turns",
+      "remains"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "She is walking alone, wearing a black shirt and jeans, and carries a bottle of water in her left hand.",
+    "objects": [
+      "water",
+      "her",
+      "she",
+      "hand",
+      "alone",
+      "shirt",
+      "bottle",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "jeans",
+      "carries"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "She turns to the left, and the camera shifts to the man, who is wearing a black t-shirt and jeans, and he follows her.",
+    "objects": [
+      "man",
+      "she",
+      "who",
+      "her",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "turns",
+      "jeans",
+      "shifts"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman turns to the left, and the camera angle remains fixed on her.",
+    "objects": [
+      "woman",
+      "her"
+    ],
+    "actions": [
+      "fixed",
+      "turns",
+      "remains"
+    ],
+    "segment_id": 31
+  }
+]

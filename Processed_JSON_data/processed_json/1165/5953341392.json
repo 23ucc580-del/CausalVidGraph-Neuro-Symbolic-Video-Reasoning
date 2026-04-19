@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This is a heartwarming video featuring a baby girl and a woman.",
+    "objects": [
+      "girl",
+      "woman",
+      "this",
+      "baby"
+    ],
+    "actions": [
+      "heartwarming",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This is a heartwarming video featuring a baby girl and a woman.",
+    "objects": [
+      "girl",
+      "woman",
+      "this",
+      "baby"
+    ],
+    "actions": [
+      "heartwarming",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This is a heartwarming video featuring a baby girl and a woman.",
+    "objects": [
+      "girl",
+      "woman",
+      "this",
+      "baby"
+    ],
+    "actions": [
+      "heartwarming",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "This is a heartwarming video featuring a baby girl and a woman.",
+    "objects": [
+      "girl",
+      "woman",
+      "this",
+      "baby"
+    ],
+    "actions": [
+      "heartwarming",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The baby girl, wearing a pink hoodie and white socks, is sitting in a stroller.",
+    "objects": [
+      "white",
+      "pink",
+      "stroller",
+      "girl",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "socks",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby girl, wearing a pink hoodie and white socks, is sitting in a stroller.",
+    "objects": [
+      "white",
+      "pink",
+      "stroller",
+      "girl",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "socks",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby girl, wearing a pink hoodie and white socks, is sitting in a stroller.",
+    "objects": [
+      "white",
+      "pink",
+      "stroller",
+      "girl",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "socks",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby girl, wearing a pink hoodie and white socks, is sitting in a stroller.",
+    "objects": [
+      "white",
+      "pink",
+      "stroller",
+      "girl",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "socks",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "She is smiling and looking towards the camera, possibly at someone taking her photo.",
+    "objects": [
+      "someone",
+      "her",
+      "photo",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "smiling",
+      "taking",
+      "towards",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "She is smiling and looking towards the camera, possibly at someone taking her photo.",
+    "objects": [
+      "someone",
+      "her",
+      "photo",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "smiling",
+      "taking",
+      "towards",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "She is smiling and looking towards the camera, possibly at someone taking her photo.",
+    "objects": [
+      "someone",
+      "her",
+      "photo",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "smiling",
+      "taking",
+      "towards",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "She is smiling and looking towards the camera, possibly at someone taking her photo.",
+    "objects": [
+      "someone",
+      "her",
+      "photo",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "smiling",
+      "taking",
+      "towards",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman, wearing a blue top, is standing beside the stroller, holding a blue ball in her hand.",
+    "objects": [
+      "blue",
+      "beside",
+      "hand",
+      "top",
+      "her",
+      "stroller",
+      "ball",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman, wearing a blue top, is standing beside the stroller, holding a blue ball in her hand.",
+    "objects": [
+      "blue",
+      "beside",
+      "hand",
+      "top",
+      "her",
+      "stroller",
+      "ball",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman, wearing a blue top, is standing beside the stroller, holding a blue ball in her hand.",
+    "objects": [
+      "blue",
+      "beside",
+      "hand",
+      "top",
+      "her",
+      "stroller",
+      "ball",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman, wearing a blue top, is standing beside the stroller, holding a blue ball in her hand.",
+    "objects": [
+      "blue",
+      "beside",
+      "hand",
+      "top",
+      "her",
+      "stroller",
+      "ball",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "She is interacting with the baby, possibly engaging her in play or showing her something.",
+    "objects": [
+      "her",
+      "baby",
+      "play",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "engaging",
+      "something",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "She is interacting with the baby, possibly engaging her in play or showing her something.",
+    "objects": [
+      "her",
+      "baby",
+      "play",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "engaging",
+      "something",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "She is interacting with the baby, possibly engaging her in play or showing her something.",
+    "objects": [
+      "her",
+      "baby",
+      "play",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "engaging",
+      "something",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "She is interacting with the baby, possibly engaging her in play or showing her something.",
+    "objects": [
+      "her",
+      "baby",
+      "play",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "engaging",
+      "something",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene appears to be indoors, with a wooden floor and a rug visible in the background.",
+    "objects": [
+      "floor",
+      "rug",
+      "wooden"
+    ],
+    "actions": [
+      "indoors"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene appears to be indoors, with a wooden floor and a rug visible in the background.",
+    "objects": [
+      "floor",
+      "rug",
+      "wooden"
+    ],
+    "actions": [
+      "indoors"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene appears to be indoors, with a wooden floor and a rug visible in the background.",
+    "objects": [
+      "floor",
+      "rug",
+      "wooden"
+    ],
+    "actions": [
+      "indoors"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene appears to be indoors, with a wooden floor and a rug visible in the background.",
+    "objects": [
+      "floor",
+      "rug",
+      "wooden"
+    ],
+    "actions": [
+      "indoors"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman seems to be enjoying her time with the baby and is likely her mother or caregiver.",
+    "objects": [
+      "her",
+      "likely",
+      "time",
+      "caregiver",
+      "baby",
+      "mother",
+      "woman"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman seems to be enjoying her time with the baby and is likely her mother or caregiver.",
+    "objects": [
+      "her",
+      "likely",
+      "time",
+      "caregiver",
+      "baby",
+      "mother",
+      "woman"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman seems to be enjoying her time with the baby and is likely her mother or caregiver.",
+    "objects": [
+      "her",
+      "likely",
+      "time",
+      "caregiver",
+      "baby",
+      "mother",
+      "woman"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman seems to be enjoying her time with the baby and is likely her mother or caregiver.",
+    "objects": [
+      "her",
+      "likely",
+      "time",
+      "caregiver",
+      "baby",
+      "mother",
+      "woman"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The overall atmosphere is cheerful and playful.",
+    "objects": [
+      "overall",
+      "playful",
+      "cheerful",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The overall atmosphere is cheerful and playful.",
+    "objects": [
+      "overall",
+      "playful",
+      "cheerful",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere is cheerful and playful.",
+    "objects": [
+      "overall",
+      "playful",
+      "cheerful",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere is cheerful and playful.",
+    "objects": [
+      "overall",
+      "playful",
+      "cheerful",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

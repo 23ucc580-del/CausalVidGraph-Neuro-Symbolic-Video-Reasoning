@@ -1,0 +1,512 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is gathered outdoors on a wooden porch, enjoying a relaxed and casual atmosphere.",
+    "objects": [
+      "people",
+      "casual",
+      "porch",
+      "wooden",
+      "atmosphere",
+      "group"
+    ],
+    "actions": [
+      "relaxed",
+      "gathered",
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is gathered outdoors on a wooden porch, enjoying a relaxed and casual atmosphere.",
+    "objects": [
+      "people",
+      "casual",
+      "porch",
+      "wooden",
+      "atmosphere",
+      "group"
+    ],
+    "actions": [
+      "relaxed",
+      "gathered",
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "A woman wearing a black dress is holding a child who is wearing a blue hoodie and a pacifier.",
+    "objects": [
+      "child",
+      "woman",
+      "black",
+      "pacifier",
+      "blue",
+      "who",
+      "hoodie",
+      "dress"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "A woman wearing a black dress is holding a child who is wearing a blue hoodie and a pacifier.",
+    "objects": [
+      "child",
+      "woman",
+      "black",
+      "pacifier",
+      "blue",
+      "who",
+      "hoodie",
+      "dress"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is smiling and seems to be comfortable and happy.",
+    "objects": [
+      "comfortable",
+      "happy",
+      "child"
+    ],
+    "actions": [
+      "seems",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is smiling and seems to be comfortable and happy.",
+    "objects": [
+      "comfortable",
+      "happy",
+      "child"
+    ],
+    "actions": [
+      "seems",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "Another woman in a red dress is holding a baby who is wearing a blue bib and is also smiling.",
+    "objects": [
+      "woman",
+      "bib",
+      "blue",
+      "who",
+      "dress",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "Another woman in a red dress is holding a baby who is wearing a blue bib and is also smiling.",
+    "objects": [
+      "woman",
+      "bib",
+      "blue",
+      "who",
+      "dress",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby is sitting on the woman's lap, looking around and looking at the camera.",
+    "objects": [
+      "around",
+      "baby",
+      "lap"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "woman's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby is sitting on the woman's lap, looking around and looking at the camera.",
+    "objects": [
+      "around",
+      "baby",
+      "lap"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "woman's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman in the red dress is holding a little girl who is wearing a black dress and a pacifier.",
+    "objects": [
+      "woman",
+      "black",
+      "pacifier",
+      "little",
+      "dress",
+      "who",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman in the red dress is holding a little girl who is wearing a black dress and a pacifier.",
+    "objects": [
+      "woman",
+      "black",
+      "pacifier",
+      "little",
+      "dress",
+      "who",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "She is also smiling and seems to be content.",
+    "objects": [
+      "content",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "She is also smiling and seems to be content.",
+    "objects": [
+      "content",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A young boy in a striped shirt is holding a little girl's hand and looking at the camera.",
+    "objects": [
+      "boy",
+      "little",
+      "shirt",
+      "young",
+      "hand"
+    ],
+    "actions": [
+      "looking",
+      "girl's",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A young boy in a striped shirt is holding a little girl's hand and looking at the camera.",
+    "objects": [
+      "boy",
+      "little",
+      "shirt",
+      "young",
+      "hand"
+    ],
+    "actions": [
+      "looking",
+      "girl's",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The little girl is wearing a white dress and also smiling.",
+    "objects": [
+      "girl",
+      "dress",
+      "little",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The little girl is wearing a white dress and also smiling.",
+    "objects": [
+      "girl",
+      "dress",
+      "little",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy is holding a girl's hand who is wearing a black dress and is looking at the camera.",
+    "objects": [
+      "boy",
+      "black",
+      "who",
+      "dress",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "girl's",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy is holding a girl's hand who is wearing a black dress and is looking at the camera.",
+    "objects": [
+      "boy",
+      "black",
+      "who",
+      "dress",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "girl's",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "She is also smiling.",
+    "objects": [
+      "she"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "She is also smiling.",
+    "objects": [
+      "she"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The boy's hand is on the girl's arm, and he appears to be enjoying the moment.",
+    "objects": [
+      "arm",
+      "moment",
+      "hand"
+    ],
+    "actions": [
+      "boy's",
+      "girl's",
+      "enjoying"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The boy's hand is on the girl's arm, and he appears to be enjoying the moment.",
+    "objects": [
+      "arm",
+      "moment",
+      "hand"
+    ],
+    "actions": [
+      "boy's",
+      "girl's",
+      "enjoying"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A young girl in a black dress is holding a baby's hand who is wearing a blue bib and is smiling.",
+    "objects": [
+      "young",
+      "black",
+      "blue",
+      "bib",
+      "dress",
+      "who",
+      "girl",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "baby's",
+      "smiling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A young girl in a black dress is holding a baby's hand who is wearing a blue bib and is smiling.",
+    "objects": [
+      "young",
+      "black",
+      "blue",
+      "bib",
+      "dress",
+      "who",
+      "girl",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "baby's",
+      "smiling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The baby is sitting on the girl's lap and looking at the camera.",
+    "objects": [
+      "baby",
+      "lap"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "girl's"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The baby is sitting on the girl's lap and looking at the camera.",
+    "objects": [
+      "baby",
+      "lap"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "girl's"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The baby is wearing a pacifier.",
+    "objects": [
+      "pacifier",
+      "baby"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The baby is wearing a pacifier.",
+    "objects": [
+      "pacifier",
+      "baby"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The girl is also smiling and looks at ease.",
+    "objects": [
+      "girl",
+      "ease"
+    ],
+    "actions": [
+      "looks",
+      "smiling"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The girl is also smiling and looks at ease.",
+    "objects": [
+      "girl",
+      "ease"
+    ],
+    "actions": [
+      "looks",
+      "smiling"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,482 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are two squirrels standing on the forest floor.",
+    "objects": [
+      "floor",
+      "two",
+      "forest",
+      "there"
+    ],
+    "actions": [
+      "squirrels",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are two squirrels standing on the forest floor.",
+    "objects": [
+      "floor",
+      "two",
+      "forest",
+      "there"
+    ],
+    "actions": [
+      "squirrels",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are two squirrels standing on the forest floor.",
+    "objects": [
+      "floor",
+      "two",
+      "forest",
+      "there"
+    ],
+    "actions": [
+      "squirrels",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there are two squirrels standing on the forest floor.",
+    "objects": [
+      "floor",
+      "two",
+      "forest",
+      "there"
+    ],
+    "actions": [
+      "squirrels",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One of them is brown and the other is gray.",
+    "objects": [
+      "them",
+      "gray",
+      "other",
+      "one",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One of them is brown and the other is gray.",
+    "objects": [
+      "them",
+      "gray",
+      "other",
+      "one",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One of them is brown and the other is gray.",
+    "objects": [
+      "them",
+      "gray",
+      "other",
+      "one",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One of them is brown and the other is gray.",
+    "objects": [
+      "them",
+      "gray",
+      "other",
+      "one",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Both squirrels are facing towards the camera.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "squirrels",
+      "towards",
+      "facing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Both squirrels are facing towards the camera.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "squirrels",
+      "towards",
+      "facing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Both squirrels are facing towards the camera.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "squirrels",
+      "towards",
+      "facing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Both squirrels are facing towards the camera.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "squirrels",
+      "towards",
+      "facing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The brown squirrel is standing on the left side of the frame, and the gray squirrel is on the right side.",
+    "objects": [
+      "brown",
+      "squirrel",
+      "gray",
+      "side"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The brown squirrel is standing on the left side of the frame, and the gray squirrel is on the right side.",
+    "objects": [
+      "brown",
+      "squirrel",
+      "gray",
+      "side"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The brown squirrel is standing on the left side of the frame, and the gray squirrel is on the right side.",
+    "objects": [
+      "brown",
+      "squirrel",
+      "gray",
+      "side"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The brown squirrel is standing on the left side of the frame, and the gray squirrel is on the right side.",
+    "objects": [
+      "brown",
+      "squirrel",
+      "gray",
+      "side"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The gray squirrel is holding a twig in its mouth.",
+    "objects": [
+      "squirrel",
+      "gray",
+      "mouth",
+      "its",
+      "twig"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The gray squirrel is holding a twig in its mouth.",
+    "objects": [
+      "squirrel",
+      "gray",
+      "mouth",
+      "its",
+      "twig"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The gray squirrel is holding a twig in its mouth.",
+    "objects": [
+      "squirrel",
+      "gray",
+      "mouth",
+      "its",
+      "twig"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The gray squirrel is holding a twig in its mouth.",
+    "objects": [
+      "squirrel",
+      "gray",
+      "mouth",
+      "its",
+      "twig"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera angle is from above, and the video is in color.",
+    "objects": [
+      "above",
+      "color",
+      "from"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera angle is from above, and the video is in color.",
+    "objects": [
+      "above",
+      "color",
+      "from"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera angle is from above, and the video is in color.",
+    "objects": [
+      "above",
+      "color",
+      "from"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera angle is from above, and the video is in color.",
+    "objects": [
+      "above",
+      "color",
+      "from"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There are no people or any other objects present in the scene.",
+    "objects": [
+      "present",
+      "people",
+      "other",
+      "any",
+      "there"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There are no people or any other objects present in the scene.",
+    "objects": [
+      "present",
+      "people",
+      "other",
+      "any",
+      "there"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There are no people or any other objects present in the scene.",
+    "objects": [
+      "present",
+      "people",
+      "other",
+      "any",
+      "there"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There are no people or any other objects present in the scene.",
+    "objects": [
+      "present",
+      "people",
+      "other",
+      "any",
+      "there"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The squirrels are the main focus of the video, and they are not engaged in any actions other than standing and holding the twig.",
+    "objects": [
+      "main",
+      "other",
+      "not",
+      "they",
+      "than",
+      "any",
+      "twig"
+    ],
+    "actions": [
+      "actions",
+      "holding",
+      "squirrels",
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The squirrels are the main focus of the video, and they are not engaged in any actions other than standing and holding the twig.",
+    "objects": [
+      "main",
+      "other",
+      "not",
+      "they",
+      "than",
+      "any",
+      "twig"
+    ],
+    "actions": [
+      "actions",
+      "holding",
+      "squirrels",
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The squirrels are the main focus of the video, and they are not engaged in any actions other than standing and holding the twig.",
+    "objects": [
+      "main",
+      "other",
+      "not",
+      "they",
+      "than",
+      "any",
+      "twig"
+    ],
+    "actions": [
+      "actions",
+      "holding",
+      "squirrels",
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The squirrels are the main focus of the video, and they are not engaged in any actions other than standing and holding the twig.",
+    "objects": [
+      "main",
+      "other",
+      "not",
+      "they",
+      "than",
+      "any",
+      "twig"
+    ],
+    "actions": [
+      "actions",
+      "holding",
+      "squirrels",
+      "focus"
+    ],
+    "segment_id": 7
+  }
+]

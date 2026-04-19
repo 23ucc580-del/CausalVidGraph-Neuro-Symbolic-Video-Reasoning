@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a baby is seated in a high chair, wearing a yellow bib with a red spoon in its mouth.",
+    "objects": [
+      "mouth",
+      "high",
+      "bib",
+      "spoon",
+      "its",
+      "yellow",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "seated",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a baby is seated in a high chair, wearing a yellow bib with a red spoon in its mouth.",
+    "objects": [
+      "mouth",
+      "high",
+      "bib",
+      "spoon",
+      "its",
+      "yellow",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "seated",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a baby is seated in a high chair, wearing a yellow bib with a red spoon in its mouth.",
+    "objects": [
+      "mouth",
+      "high",
+      "bib",
+      "spoon",
+      "its",
+      "yellow",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "seated",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a baby is seated in a high chair, wearing a yellow bib with a red spoon in its mouth.",
+    "objects": [
+      "mouth",
+      "high",
+      "bib",
+      "spoon",
+      "its",
+      "yellow",
+      "baby",
+      "chair"
+    ],
+    "actions": [
+      "seated",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The baby is holding a jar of peanut butter, which is the main focus of the video.",
+    "objects": [
+      "jar",
+      "which",
+      "main",
+      "peanut",
+      "butter",
+      "baby"
+    ],
+    "actions": [
+      "holding",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby is holding a jar of peanut butter, which is the main focus of the video.",
+    "objects": [
+      "jar",
+      "which",
+      "main",
+      "peanut",
+      "butter",
+      "baby"
+    ],
+    "actions": [
+      "holding",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby is holding a jar of peanut butter, which is the main focus of the video.",
+    "objects": [
+      "jar",
+      "which",
+      "main",
+      "peanut",
+      "butter",
+      "baby"
+    ],
+    "actions": [
+      "holding",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby is holding a jar of peanut butter, which is the main focus of the video.",
+    "objects": [
+      "jar",
+      "which",
+      "main",
+      "peanut",
+      "butter",
+      "baby"
+    ],
+    "actions": [
+      "holding",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby's face is covered in peanut butter, and it appears to be enjoying the experience, with its eyes wide open and a joyful expression on its face.",
+    "objects": [
+      "open",
+      "expression",
+      "its",
+      "joyful",
+      "butter",
+      "peanut",
+      "eyes",
+      "wide"
+    ],
+    "actions": [
+      "baby's",
+      "covered",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby's face is covered in peanut butter, and it appears to be enjoying the experience, with its eyes wide open and a joyful expression on its face.",
+    "objects": [
+      "open",
+      "expression",
+      "its",
+      "joyful",
+      "butter",
+      "peanut",
+      "eyes",
+      "wide"
+    ],
+    "actions": [
+      "baby's",
+      "covered",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The baby's face is covered in peanut butter, and it appears to be enjoying the experience, with its eyes wide open and a joyful expression on its face.",
+    "objects": [
+      "open",
+      "expression",
+      "its",
+      "joyful",
+      "butter",
+      "peanut",
+      "eyes",
+      "wide"
+    ],
+    "actions": [
+      "baby's",
+      "covered",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The baby's face is covered in peanut butter, and it appears to be enjoying the experience, with its eyes wide open and a joyful expression on its face.",
+    "objects": [
+      "open",
+      "expression",
+      "its",
+      "joyful",
+      "butter",
+      "peanut",
+      "eyes",
+      "wide"
+    ],
+    "actions": [
+      "baby's",
+      "covered",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby's hair is blonde, and it seems to be in a playful mood, reaching for the spoon with its left hand.",
+    "objects": [
+      "playful",
+      "hand",
+      "spoon",
+      "its",
+      "blonde",
+      "hair",
+      "mood"
+    ],
+    "actions": [
+      "baby's",
+      "reaching",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby's hair is blonde, and it seems to be in a playful mood, reaching for the spoon with its left hand.",
+    "objects": [
+      "playful",
+      "hand",
+      "spoon",
+      "its",
+      "blonde",
+      "hair",
+      "mood"
+    ],
+    "actions": [
+      "baby's",
+      "reaching",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby's hair is blonde, and it seems to be in a playful mood, reaching for the spoon with its left hand.",
+    "objects": [
+      "playful",
+      "hand",
+      "spoon",
+      "its",
+      "blonde",
+      "hair",
+      "mood"
+    ],
+    "actions": [
+      "baby's",
+      "reaching",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby's hair is blonde, and it seems to be in a playful mood, reaching for the spoon with its left hand.",
+    "objects": [
+      "playful",
+      "hand",
+      "spoon",
+      "its",
+      "blonde",
+      "hair",
+      "mood"
+    ],
+    "actions": [
+      "baby's",
+      "reaching",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The high chair has a black frame and is positioned near a wall with a light blue and white pattern.",
+    "objects": [
+      "white",
+      "blue",
+      "high",
+      "has",
+      "pattern",
+      "light",
+      "wall",
+      "chair"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The high chair has a black frame and is positioned near a wall with a light blue and white pattern.",
+    "objects": [
+      "white",
+      "blue",
+      "high",
+      "has",
+      "pattern",
+      "light",
+      "wall",
+      "chair"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The high chair has a black frame and is positioned near a wall with a light blue and white pattern.",
+    "objects": [
+      "white",
+      "blue",
+      "high",
+      "has",
+      "pattern",
+      "light",
+      "wall",
+      "chair"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The high chair has a black frame and is positioned near a wall with a light blue and white pattern.",
+    "objects": [
+      "white",
+      "blue",
+      "high",
+      "has",
+      "pattern",
+      "light",
+      "wall",
+      "chair"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The baby's bib is yellow with a white bib cover.",
+    "objects": [
+      "white",
+      "cover",
+      "yellow",
+      "bib"
+    ],
+    "actions": [
+      "baby's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The baby's bib is yellow with a white bib cover.",
+    "objects": [
+      "white",
+      "cover",
+      "yellow",
+      "bib"
+    ],
+    "actions": [
+      "baby's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The baby's bib is yellow with a white bib cover.",
+    "objects": [
+      "white",
+      "cover",
+      "yellow",
+      "bib"
+    ],
+    "actions": [
+      "baby's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby's bib is yellow with a white bib cover.",
+    "objects": [
+      "white",
+      "cover",
+      "yellow",
+      "bib"
+    ],
+    "actions": [
+      "baby's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The spoon is red and has a blue handle.",
+    "objects": [
+      "handle",
+      "spoon",
+      "blue",
+      "has"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The spoon is red and has a blue handle.",
+    "objects": [
+      "handle",
+      "spoon",
+      "blue",
+      "has"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The spoon is red and has a blue handle.",
+    "objects": [
+      "handle",
+      "spoon",
+      "blue",
+      "has"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The spoon is red and has a blue handle.",
+    "objects": [
+      "handle",
+      "spoon",
+      "blue",
+      "has"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The baby is wearing a yellow shirt, and the scene is filled with a sense of delight and innocence.",
+    "objects": [
+      "delight",
+      "shirt",
+      "sense",
+      "yellow",
+      "baby",
+      "innocence"
+    ],
+    "actions": [
+      "filled",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The baby is wearing a yellow shirt, and the scene is filled with a sense of delight and innocence.",
+    "objects": [
+      "delight",
+      "shirt",
+      "sense",
+      "yellow",
+      "baby",
+      "innocence"
+    ],
+    "actions": [
+      "filled",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby is wearing a yellow shirt, and the scene is filled with a sense of delight and innocence.",
+    "objects": [
+      "delight",
+      "shirt",
+      "sense",
+      "yellow",
+      "baby",
+      "innocence"
+    ],
+    "actions": [
+      "filled",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby is wearing a yellow shirt, and the scene is filled with a sense of delight and innocence.",
+    "objects": [
+      "delight",
+      "shirt",
+      "sense",
+      "yellow",
+      "baby",
+      "innocence"
+    ],
+    "actions": [
+      "filled",
+      "wearing"
+    ],
+    "segment_id": 7
+  }
+]

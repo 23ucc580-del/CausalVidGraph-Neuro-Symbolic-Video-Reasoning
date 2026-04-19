@@ -1,0 +1,585 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of children and adults enjoying a sunny day in a park-like setting.",
+    "objects": [
+      "day",
+      "sunny",
+      "group",
+      "see",
+      "children"
+    ],
+    "actions": [
+      "setting",
+      "adults",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of children and adults enjoying a sunny day in a park-like setting.",
+    "objects": [
+      "day",
+      "sunny",
+      "group",
+      "see",
+      "children"
+    ],
+    "actions": [
+      "setting",
+      "adults",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of children and adults enjoying a sunny day in a park-like setting.",
+    "objects": [
+      "day",
+      "sunny",
+      "group",
+      "see",
+      "children"
+    ],
+    "actions": [
+      "setting",
+      "adults",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A young boy, dressed in a blue hoodie and orange shorts, is riding a bicycle on a pathway that curves around a circular stone structure.",
+    "objects": [
+      "stone",
+      "blue",
+      "around",
+      "pathway",
+      "young",
+      "boy",
+      "that",
+      "circular"
+    ],
+    "actions": [
+      "curves",
+      "riding",
+      "shorts",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A young boy, dressed in a blue hoodie and orange shorts, is riding a bicycle on a pathway that curves around a circular stone structure.",
+    "objects": [
+      "stone",
+      "blue",
+      "around",
+      "pathway",
+      "young",
+      "boy",
+      "that",
+      "circular"
+    ],
+    "actions": [
+      "curves",
+      "riding",
+      "shorts",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A young boy, dressed in a blue hoodie and orange shorts, is riding a bicycle on a pathway that curves around a circular stone structure.",
+    "objects": [
+      "stone",
+      "blue",
+      "around",
+      "pathway",
+      "young",
+      "boy",
+      "that",
+      "circular"
+    ],
+    "actions": [
+      "curves",
+      "riding",
+      "shorts",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is pedaling along, smiling as he moves forward.",
+    "objects": [
+      "along",
+      "forward"
+    ],
+    "actions": [
+      "smiling",
+      "pedaling",
+      "moves"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He is pedaling along, smiling as he moves forward.",
+    "objects": [
+      "along",
+      "forward"
+    ],
+    "actions": [
+      "smiling",
+      "pedaling",
+      "moves"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He is pedaling along, smiling as he moves forward.",
+    "objects": [
+      "along",
+      "forward"
+    ],
+    "actions": [
+      "smiling",
+      "pedaling",
+      "moves"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another boy, wearing a white shirt, is also riding a bicycle on the same pathway, pedaling in the opposite direction.",
+    "objects": [
+      "white",
+      "direction",
+      "pathway",
+      "shirt",
+      "opposite",
+      "same",
+      "boy",
+      "bicycle"
+    ],
+    "actions": [
+      "riding",
+      "pedaling",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Another boy, wearing a white shirt, is also riding a bicycle on the same pathway, pedaling in the opposite direction.",
+    "objects": [
+      "white",
+      "direction",
+      "pathway",
+      "shirt",
+      "opposite",
+      "same",
+      "boy",
+      "bicycle"
+    ],
+    "actions": [
+      "riding",
+      "pedaling",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Another boy, wearing a white shirt, is also riding a bicycle on the same pathway, pedaling in the opposite direction.",
+    "objects": [
+      "white",
+      "direction",
+      "pathway",
+      "shirt",
+      "opposite",
+      "same",
+      "boy",
+      "bicycle"
+    ],
+    "actions": [
+      "riding",
+      "pedaling",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "He is closer to the camera, with his mouth open, perhaps in the middle of shouting or laughing.",
+    "objects": [
+      "closer",
+      "mouth",
+      "open",
+      "middle",
+      "his"
+    ],
+    "actions": [
+      "shouting",
+      "perhaps",
+      "laughing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "He is closer to the camera, with his mouth open, perhaps in the middle of shouting or laughing.",
+    "objects": [
+      "closer",
+      "mouth",
+      "open",
+      "middle",
+      "his"
+    ],
+    "actions": [
+      "shouting",
+      "perhaps",
+      "laughing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "He is closer to the camera, with his mouth open, perhaps in the middle of shouting or laughing.",
+    "objects": [
+      "closer",
+      "mouth",
+      "open",
+      "middle",
+      "his"
+    ],
+    "actions": [
+      "shouting",
+      "perhaps",
+      "laughing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Nearby, an adult wearing a blue shirt is standing, holding a small child in his arms.",
+    "objects": [
+      "blue",
+      "adult",
+      "small",
+      "his",
+      "shirt",
+      "child",
+      "nearby",
+      "arms"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Nearby, an adult wearing a blue shirt is standing, holding a small child in his arms.",
+    "objects": [
+      "blue",
+      "adult",
+      "small",
+      "his",
+      "shirt",
+      "child",
+      "nearby",
+      "arms"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Nearby, an adult wearing a blue shirt is standing, holding a small child in his arms.",
+    "objects": [
+      "blue",
+      "adult",
+      "small",
+      "his",
+      "shirt",
+      "child",
+      "nearby",
+      "arms"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The child is wearing a blue shirt and red shorts, looking up at the adult with a smile on his face.",
+    "objects": [
+      "blue",
+      "adult",
+      "his",
+      "shirt",
+      "child",
+      "smile",
+      "face"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "shorts",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The child is wearing a blue shirt and red shorts, looking up at the adult with a smile on his face.",
+    "objects": [
+      "blue",
+      "adult",
+      "his",
+      "shirt",
+      "child",
+      "smile",
+      "face"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "shorts",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The child is wearing a blue shirt and red shorts, looking up at the adult with a smile on his face.",
+    "objects": [
+      "blue",
+      "adult",
+      "his",
+      "shirt",
+      "child",
+      "smile",
+      "face"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "shorts",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Another child, wearing a white shirt, is riding a bicycle on the pathway, pedaling in the same direction as the boy in the white shirt.",
+    "objects": [
+      "white",
+      "direction",
+      "pathway",
+      "shirt",
+      "child",
+      "same",
+      "boy",
+      "bicycle"
+    ],
+    "actions": [
+      "riding",
+      "pedaling",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Another child, wearing a white shirt, is riding a bicycle on the pathway, pedaling in the same direction as the boy in the white shirt.",
+    "objects": [
+      "white",
+      "direction",
+      "pathway",
+      "shirt",
+      "child",
+      "same",
+      "boy",
+      "bicycle"
+    ],
+    "actions": [
+      "riding",
+      "pedaling",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Another child, wearing a white shirt, is riding a bicycle on the pathway, pedaling in the same direction as the boy in the white shirt.",
+    "objects": [
+      "white",
+      "direction",
+      "pathway",
+      "shirt",
+      "child",
+      "same",
+      "boy",
+      "bicycle"
+    ],
+    "actions": [
+      "riding",
+      "pedaling",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A little girl in a pink shirt is riding a bicycle on the same pathway, pedaling in the opposite direction as the child in the white shirt.",
+    "objects": [
+      "direction",
+      "white",
+      "pink",
+      "pathway",
+      "shirt",
+      "child",
+      "girl",
+      "opposite"
+    ],
+    "actions": [
+      "riding",
+      "pedaling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A little girl in a pink shirt is riding a bicycle on the same pathway, pedaling in the opposite direction as the child in the white shirt.",
+    "objects": [
+      "direction",
+      "white",
+      "pink",
+      "pathway",
+      "shirt",
+      "child",
+      "girl",
+      "opposite"
+    ],
+    "actions": [
+      "riding",
+      "pedaling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A little girl in a pink shirt is riding a bicycle on the same pathway, pedaling in the opposite direction as the child in the white shirt.",
+    "objects": [
+      "direction",
+      "white",
+      "pink",
+      "pathway",
+      "shirt",
+      "child",
+      "girl",
+      "opposite"
+    ],
+    "actions": [
+      "riding",
+      "pedaling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "She is closer to the camera and looks focused on her path.",
+    "objects": [
+      "her",
+      "closer",
+      "path",
+      "she"
+    ],
+    "actions": [
+      "looks",
+      "focused"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "She is closer to the camera and looks focused on her path.",
+    "objects": [
+      "her",
+      "closer",
+      "path",
+      "she"
+    ],
+    "actions": [
+      "looks",
+      "focused"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "She is closer to the camera and looks focused on her path.",
+    "objects": [
+      "her",
+      "closer",
+      "path",
+      "she"
+    ],
+    "actions": [
+      "looks",
+      "focused"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The pathway is surrounded by green grass and various plants, and there's a stone structure in the background.",
+    "objects": [
+      "stone",
+      "pathway",
+      "green",
+      "grass",
+      "structure"
+    ],
+    "actions": [
+      "surrounded",
+      "there's",
+      "plants"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The pathway is surrounded by green grass and various plants, and there's a stone structure in the background.",
+    "objects": [
+      "stone",
+      "pathway",
+      "green",
+      "grass",
+      "structure"
+    ],
+    "actions": [
+      "surrounded",
+      "there's",
+      "plants"
+    ],
+    "segment_id": 10
+  }
+]

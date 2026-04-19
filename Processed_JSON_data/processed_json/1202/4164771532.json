@@ -1,0 +1,620 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a view of a city skyline, suggesting an urban setting.",
+    "objects": [
+      "urban",
+      "skyline",
+      "city"
+    ],
+    "actions": [
+      "begins",
+      "setting",
+      "suggesting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a view of a city skyline, suggesting an urban setting.",
+    "objects": [
+      "urban",
+      "skyline",
+      "city"
+    ],
+    "actions": [
+      "begins",
+      "setting",
+      "suggesting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "A man is seen sitting on a wooden bench, dressed in a brown jacket and a black helmet, presumably waiting for something.",
+    "objects": [
+      "wooden",
+      "helmet",
+      "man",
+      "brown",
+      "presumably",
+      "jacket",
+      "black",
+      "bench"
+    ],
+    "actions": [
+      "something",
+      "sitting",
+      "waiting",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "A man is seen sitting on a wooden bench, dressed in a brown jacket and a black helmet, presumably waiting for something.",
+    "objects": [
+      "wooden",
+      "helmet",
+      "man",
+      "brown",
+      "presumably",
+      "jacket",
+      "black",
+      "bench"
+    ],
+    "actions": [
+      "something",
+      "sitting",
+      "waiting",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "As he waits, the camera pans around to show him adjusting his helmet and putting on a pair of gloves, indicating that he might be preparing for an outdoor activity or a ride.",
+    "objects": [
+      "ride",
+      "around",
+      "pair",
+      "helmet",
+      "his",
+      "him",
+      "pans",
+      "show"
+    ],
+    "actions": [
+      "putting",
+      "preparing",
+      "adjusting",
+      "indicating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "As he waits, the camera pans around to show him adjusting his helmet and putting on a pair of gloves, indicating that he might be preparing for an outdoor activity or a ride.",
+    "objects": [
+      "ride",
+      "around",
+      "pair",
+      "helmet",
+      "his",
+      "him",
+      "pans",
+      "show"
+    ],
+    "actions": [
+      "putting",
+      "preparing",
+      "adjusting",
+      "indicating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then focuses on a tree, which is blooming with flowers, symbolizing the arrival of spring or summer.",
+    "objects": [
+      "summer",
+      "which",
+      "tree",
+      "arrival",
+      "then"
+    ],
+    "actions": [
+      "spring",
+      "blooming",
+      "focuses",
+      "symbolizing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then focuses on a tree, which is blooming with flowers, symbolizing the arrival of spring or summer.",
+    "objects": [
+      "summer",
+      "which",
+      "tree",
+      "arrival",
+      "then"
+    ],
+    "actions": [
+      "spring",
+      "blooming",
+      "focuses",
+      "symbolizing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The man seems to be contemplating the tree as he adjusts his gloves, perhaps admiring the beauty of nature.",
+    "objects": [
+      "beauty",
+      "tree",
+      "man",
+      "his",
+      "nature"
+    ],
+    "actions": [
+      "adjusts",
+      "perhaps",
+      "seems",
+      "gloves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The man seems to be contemplating the tree as he adjusts his gloves, perhaps admiring the beauty of nature.",
+    "objects": [
+      "beauty",
+      "tree",
+      "man",
+      "his",
+      "nature"
+    ],
+    "actions": [
+      "adjusts",
+      "perhaps",
+      "seems",
+      "gloves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "Another man is seen walking past the tree, suggesting a pedestrian environment.",
+    "objects": [
+      "pedestrian",
+      "tree",
+      "man",
+      "past",
+      "environment"
+    ],
+    "actions": [
+      "walking",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "Another man is seen walking past the tree, suggesting a pedestrian environment.",
+    "objects": [
+      "pedestrian",
+      "tree",
+      "man",
+      "past",
+      "environment"
+    ],
+    "actions": [
+      "walking",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then returns to the first man, who appears to be waiting for someone or something, looking up at the sky with a contemplative expression.",
+    "objects": [
+      "someone",
+      "man",
+      "expression",
+      "contemplative",
+      "first",
+      "sky",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "looking",
+      "returns",
+      "waiting",
+      "something"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then returns to the first man, who appears to be waiting for someone or something, looking up at the sky with a contemplative expression.",
+    "objects": [
+      "someone",
+      "man",
+      "expression",
+      "contemplative",
+      "first",
+      "sky",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "looking",
+      "returns",
+      "waiting",
+      "something"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The scene shifts to a park setting where a wooden bench is shown, with a man in a brown jacket sitting, holding a beer and a cigarette, seemingly enjoying a moment of relaxation.",
+    "objects": [
+      "relaxation",
+      "wooden",
+      "park",
+      "man",
+      "brown",
+      "jacket",
+      "cigarette",
+      "shown"
+    ],
+    "actions": [
+      "shifts",
+      "setting",
+      "holding",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The scene shifts to a park setting where a wooden bench is shown, with a man in a brown jacket sitting, holding a beer and a cigarette, seemingly enjoying a moment of relaxation.",
+    "objects": [
+      "relaxation",
+      "wooden",
+      "park",
+      "man",
+      "brown",
+      "jacket",
+      "cigarette",
+      "shown"
+    ],
+    "actions": [
+      "shifts",
+      "setting",
+      "holding",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then focuses on the second man, who is walking past the bench, adding to the narrative of the story.",
+    "objects": [
+      "man",
+      "story",
+      "past",
+      "narrative",
+      "second",
+      "bench",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "adding",
+      "focuses",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then focuses on the second man, who is walking past the bench, adding to the narrative of the story.",
+    "objects": [
+      "man",
+      "story",
+      "past",
+      "narrative",
+      "second",
+      "bench",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "adding",
+      "focuses",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene transitions to the first man, now sitting on the bench, with his attention drawn to the sky, possibly reflecting on his thoughts or contemplating the day ahead.",
+    "objects": [
+      "ahead",
+      "man",
+      "attention",
+      "his",
+      "day",
+      "drawn",
+      "now",
+      "sky"
+    ],
+    "actions": [
+      "transitions",
+      "sitting",
+      "thoughts",
+      "reflecting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene transitions to the first man, now sitting on the bench, with his attention drawn to the sky, possibly reflecting on his thoughts or contemplating the day ahead.",
+    "objects": [
+      "ahead",
+      "man",
+      "attention",
+      "his",
+      "day",
+      "drawn",
+      "now",
+      "sky"
+    ],
+    "actions": [
+      "transitions",
+      "sitting",
+      "thoughts",
+      "reflecting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then shows the second man walking past, suggesting movement and continuation of the narrative.",
+    "objects": [
+      "continuation",
+      "man",
+      "past",
+      "narrative",
+      "movement",
+      "second",
+      "then"
+    ],
+    "actions": [
+      "walking",
+      "suggesting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then shows the second man walking past, suggesting movement and continuation of the narrative.",
+    "objects": [
+      "continuation",
+      "man",
+      "past",
+      "narrative",
+      "movement",
+      "second",
+      "then"
+    ],
+    "actions": [
+      "walking",
+      "suggesting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene continues with a view of the first man, dressed in a brown jacket and a black helmet, sitting on a wooden bench, seemingly preparing for an outdoor activity or a ride.",
+    "objects": [
+      "bench",
+      "ride",
+      "helmet",
+      "wooden",
+      "activity",
+      "man",
+      "outdoor",
+      "jacket"
+    ],
+    "actions": [
+      "continues",
+      "sitting",
+      "preparing",
+      "dressed"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene continues with a view of the first man, dressed in a brown jacket and a black helmet, sitting on a wooden bench, seemingly preparing for an outdoor activity or a ride.",
+    "objects": [
+      "bench",
+      "ride",
+      "helmet",
+      "wooden",
+      "activity",
+      "man",
+      "outdoor",
+      "jacket"
+    ],
+    "actions": [
+      "continues",
+      "sitting",
+      "preparing",
+      "dressed"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then pans around to show a tree blooming with flowers, reinforcing the theme of the arrival of spring or summer.",
+    "objects": [
+      "summer",
+      "around",
+      "tree",
+      "theme",
+      "pans",
+      "show",
+      "arrival",
+      "then"
+    ],
+    "actions": [
+      "spring",
+      "reinforcing",
+      "flowers",
+      "blooming"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then pans around to show a tree blooming with flowers, reinforcing the theme of the arrival of spring or summer.",
+    "objects": [
+      "summer",
+      "around",
+      "tree",
+      "theme",
+      "pans",
+      "show",
+      "arrival",
+      "then"
+    ],
+    "actions": [
+      "spring",
+      "reinforcing",
+      "flowers",
+      "blooming"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The man looks up at the sky, indicating a sense of anticipation or contemplation.",
+    "objects": [
+      "man",
+      "contemplation",
+      "anticipation",
+      "sense",
+      "sky"
+    ],
+    "actions": [
+      "looks",
+      "indicating"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The man looks up at the sky, indicating a sense of anticipation or contemplation.",
+    "objects": [
+      "man",
+      "contemplation",
+      "anticipation",
+      "sense",
+      "sky"
+    ],
+    "actions": [
+      "looks",
+      "indicating"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then focuses on the second man, who is walking past the bench, possibly indicating a transition to another location or event.",
+    "objects": [
+      "possibly",
+      "man",
+      "location",
+      "past",
+      "transition",
+      "event",
+      "second",
+      "bench"
+    ],
+    "actions": [
+      "focuses",
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then focuses on the second man, who is walking past the bench, possibly indicating a transition to another location or event.",
+    "objects": [
+      "possibly",
+      "man",
+      "location",
+      "past",
+      "transition",
+      "event",
+      "second",
+      "bench"
+    ],
+    "actions": [
+      "focuses",
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "In the final scene, the first man is shown sitting on a wooden bench, wearing a brown jacket and a black helmet, smiling at the camera, suggesting a sense of joy or accomplishment.",
+    "objects": [
+      "wooden",
+      "helmet",
+      "man",
+      "accomplishment",
+      "brown",
+      "final",
+      "sense",
+      "jacket"
+    ],
+    "actions": [
+      "smiling",
+      "sitting",
+      "wearing",
+      "suggesting"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "In the final scene, the first man is shown sitting on a wooden bench, wearing a brown jacket and a black helmet, smiling at the camera, suggesting a sense of joy or accomplishment.",
+    "objects": [
+      "wooden",
+      "helmet",
+      "man",
+      "accomplishment",
+      "brown",
+      "final",
+      "sense",
+      "jacket"
+    ],
+    "actions": [
+      "smiling",
+      "sitting",
+      "wearing",
+      "suggesting"
+    ],
+    "segment_id": 15
+  }
+]

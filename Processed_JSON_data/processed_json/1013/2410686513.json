@@ -1,0 +1,598 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video showcases a vibrant concert scene, with the spotlight on the band performing on a stage.",
+    "objects": [
+      "band",
+      "spotlight",
+      "vibrant",
+      "stage",
+      "concert"
+    ],
+    "actions": [
+      "showcases",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video showcases a vibrant concert scene, with the spotlight on the band performing on a stage.",
+    "objects": [
+      "band",
+      "spotlight",
+      "vibrant",
+      "stage",
+      "concert"
+    ],
+    "actions": [
+      "showcases",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "At the heart of the action are three guitarists, each holding their own instruments and contributing to the music.",
+    "objects": [
+      "heart",
+      "their",
+      "three",
+      "each",
+      "own",
+      "action",
+      "music"
+    ],
+    "actions": [
+      "guitarists",
+      "instruments",
+      "holding",
+      "contributing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "At the heart of the action are three guitarists, each holding their own instruments and contributing to the music.",
+    "objects": [
+      "heart",
+      "their",
+      "three",
+      "each",
+      "own",
+      "action",
+      "music"
+    ],
+    "actions": [
+      "guitarists",
+      "instruments",
+      "holding",
+      "contributing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The guitarist on the left, donned in a black shirt, is skillfully strumming his guitar, his fingers moving expertly across the frets, creating a melodious tune.",
+    "objects": [
+      "black",
+      "tune",
+      "across",
+      "guitar",
+      "shirt",
+      "expertly",
+      "his",
+      "guitarist"
+    ],
+    "actions": [
+      "donned",
+      "frets",
+      "melodious",
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The guitarist on the left, donned in a black shirt, is skillfully strumming his guitar, his fingers moving expertly across the frets, creating a melodious tune.",
+    "objects": [
+      "black",
+      "tune",
+      "across",
+      "guitar",
+      "shirt",
+      "expertly",
+      "his",
+      "guitarist"
+    ],
+    "actions": [
+      "donned",
+      "frets",
+      "melodious",
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The guitarist in the middle, wearing a blue hoodie, is also deeply engrossed in his performance, his fingers dancing over the strings, producing a harmonious sound.",
+    "objects": [
+      "middle",
+      "blue",
+      "performance",
+      "hoodie",
+      "his",
+      "deeply",
+      "guitarist",
+      "over"
+    ],
+    "actions": [
+      "producing",
+      "strings",
+      "wearing",
+      "engrossed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The guitarist in the middle, wearing a blue hoodie, is also deeply engrossed in his performance, his fingers dancing over the strings, producing a harmonious sound.",
+    "objects": [
+      "middle",
+      "blue",
+      "performance",
+      "hoodie",
+      "his",
+      "deeply",
+      "guitarist",
+      "over"
+    ],
+    "actions": [
+      "producing",
+      "strings",
+      "wearing",
+      "engrossed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "On the right, another guitarist, dressed in a black t-shirt, is also immersed in his playing, his fingers dancing over the strings to create a beautiful tune.",
+    "objects": [
+      "black",
+      "tune",
+      "his",
+      "guitarist",
+      "beautiful",
+      "create",
+      "over"
+    ],
+    "actions": [
+      "strings",
+      "fingers",
+      "dressed",
+      "dancing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "On the right, another guitarist, dressed in a black t-shirt, is also immersed in his playing, his fingers dancing over the strings to create a beautiful tune.",
+    "objects": [
+      "black",
+      "tune",
+      "his",
+      "guitarist",
+      "beautiful",
+      "create",
+      "over"
+    ],
+    "actions": [
+      "strings",
+      "fingers",
+      "dressed",
+      "dancing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "Behind the guitarists, the drummer, also wearing a black t-shirt, is in full swing, pounding out the rhythm on his drum set.",
+    "objects": [
+      "full",
+      "behind",
+      "drum",
+      "black",
+      "drummer",
+      "rhythm",
+      "out",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "guitarists",
+      "swing",
+      "pounding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "Behind the guitarists, the drummer, also wearing a black t-shirt, is in full swing, pounding out the rhythm on his drum set.",
+    "objects": [
+      "full",
+      "behind",
+      "drum",
+      "black",
+      "drummer",
+      "rhythm",
+      "out",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "guitarists",
+      "swing",
+      "pounding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "His sticks are a blur, hitting the drums with precision, keeping the beat.",
+    "objects": [
+      "blur",
+      "precision",
+      "beat",
+      "his"
+    ],
+    "actions": [
+      "keeping",
+      "hitting",
+      "sticks",
+      "drums"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "His sticks are a blur, hitting the drums with precision, keeping the beat.",
+    "objects": [
+      "blur",
+      "precision",
+      "beat",
+      "his"
+    ],
+    "actions": [
+      "keeping",
+      "hitting",
+      "sticks",
+      "drums"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The sound of the drums echoes across the room, adding to the overall symphony of the music.",
+    "objects": [
+      "across",
+      "overall",
+      "room",
+      "sound",
+      "symphony",
+      "music"
+    ],
+    "actions": [
+      "echoes",
+      "adding",
+      "drums"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The sound of the drums echoes across the room, adding to the overall symphony of the music.",
+    "objects": [
+      "across",
+      "overall",
+      "room",
+      "sound",
+      "symphony",
+      "music"
+    ],
+    "actions": [
+      "echoes",
+      "adding",
+      "drums"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The bassist, wearing a blue t-shirt, is also in action, his fingers dancing over the strings to create a deep bass line.",
+    "objects": [
+      "action",
+      "blue",
+      "line",
+      "bassist",
+      "his",
+      "deep",
+      "create",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "dancing",
+      "strings",
+      "fingers"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The bassist, wearing a blue t-shirt, is also in action, his fingers dancing over the strings to create a deep bass line.",
+    "objects": [
+      "action",
+      "blue",
+      "line",
+      "bassist",
+      "his",
+      "deep",
+      "create",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "dancing",
+      "strings",
+      "fingers"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The stage is set with various musical instruments, including guitars, a drum set, and a bass.",
+    "objects": [
+      "drum",
+      "musical",
+      "set",
+      "stage",
+      "bass"
+    ],
+    "actions": [
+      "instruments",
+      "guitars"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The stage is set with various musical instruments, including guitars, a drum set, and a bass.",
+    "objects": [
+      "drum",
+      "musical",
+      "set",
+      "stage",
+      "bass"
+    ],
+    "actions": [
+      "instruments",
+      "guitars"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The guitars are of different colors and designs, held by the guitarists, while the drum set and bass are in matching colors.",
+    "objects": [
+      "drum",
+      "while",
+      "different",
+      "set",
+      "held",
+      "bass"
+    ],
+    "actions": [
+      "guitarists",
+      "guitars",
+      "colors",
+      "matching"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The guitars are of different colors and designs, held by the guitarists, while the drum set and bass are in matching colors.",
+    "objects": [
+      "drum",
+      "while",
+      "different",
+      "set",
+      "held",
+      "bass"
+    ],
+    "actions": [
+      "guitarists",
+      "guitars",
+      "colors",
+      "matching"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The drum set includes a bass drum, snare drum, and a high hat, while the bass has a matching color to the bassist's t-shirt.",
+    "objects": [
+      "drum",
+      "high",
+      "while",
+      "snare",
+      "has",
+      "color",
+      "hat",
+      "set"
+    ],
+    "actions": [
+      "includes",
+      "matching",
+      "bassist's"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The drum set includes a bass drum, snare drum, and a high hat, while the bass has a matching color to the bassist's t-shirt.",
+    "objects": [
+      "drum",
+      "high",
+      "while",
+      "snare",
+      "has",
+      "color",
+      "hat",
+      "set"
+    ],
+    "actions": [
+      "includes",
+      "matching",
+      "bassist's"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The audience is visible in the background, their faces lit up with excitement and joy, swaying to the music.",
+    "objects": [
+      "their",
+      "audience",
+      "lit",
+      "excitement",
+      "music",
+      "joy"
+    ],
+    "actions": [
+      "faces",
+      "swaying"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The audience is visible in the background, their faces lit up with excitement and joy, swaying to the music.",
+    "objects": [
+      "their",
+      "audience",
+      "lit",
+      "excitement",
+      "music",
+      "joy"
+    ],
+    "actions": [
+      "faces",
+      "swaying"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The atmosphere is electric, with the band's performance energizing the room.",
+    "objects": [
+      "room",
+      "electric",
+      "atmosphere",
+      "performance"
+    ],
+    "actions": [
+      "band's",
+      "energizing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The atmosphere is electric, with the band's performance energizing the room.",
+    "objects": [
+      "room",
+      "electric",
+      "atmosphere",
+      "performance"
+    ],
+    "actions": [
+      "band's",
+      "energizing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The lighting is dim, casting an intimate glow over the performers, highlighting their performance.",
+    "objects": [
+      "their",
+      "intimate",
+      "dim",
+      "performance",
+      "glow",
+      "over"
+    ],
+    "actions": [
+      "lighting",
+      "performers",
+      "highlighting",
+      "casting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The lighting is dim, casting an intimate glow over the performers, highlighting their performance.",
+    "objects": [
+      "their",
+      "intimate",
+      "dim",
+      "performance",
+      "glow",
+      "over"
+    ],
+    "actions": [
+      "lighting",
+      "performers",
+      "highlighting",
+      "casting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The sound of the music fills the room, creating an immersive experience for the viewers.",
+    "objects": [
+      "room",
+      "experience",
+      "music",
+      "sound",
+      "immersive"
+    ],
+    "actions": [
+      "creating",
+      "viewers",
+      "fills"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The sound of the music fills the room, creating an immersive experience for the viewers.",
+    "objects": [
+      "room",
+      "experience",
+      "music",
+      "sound",
+      "immersive"
+    ],
+    "actions": [
+      "creating",
+      "viewers",
+      "fills"
+    ],
+    "segment_id": 15
+  }
+]

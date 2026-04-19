@@ -1,0 +1,578 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a hockey game in progress with a group of players on the ice.",
+    "objects": [
+      "ice",
+      "game",
+      "see",
+      "hockey",
+      "group"
+    ],
+    "actions": [
+      "progress",
+      "players"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a hockey game in progress with a group of players on the ice.",
+    "objects": [
+      "ice",
+      "game",
+      "see",
+      "hockey",
+      "group"
+    ],
+    "actions": [
+      "progress",
+      "players"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a hockey game in progress with a group of players on the ice.",
+    "objects": [
+      "ice",
+      "game",
+      "see",
+      "hockey",
+      "group"
+    ],
+    "actions": [
+      "progress",
+      "players"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a hockey game in progress with a group of players on the ice.",
+    "objects": [
+      "ice",
+      "game",
+      "see",
+      "hockey",
+      "group"
+    ],
+    "actions": [
+      "progress",
+      "players"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "Two of the players are actively engaged in a skirmish over the puck, with one player in a yellow jersey and the other in a red jersey.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "actively",
+      "yellow",
+      "puck",
+      "jersey",
+      "player"
+    ],
+    "actions": [
+      "players",
+      "engaged",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two of the players are actively engaged in a skirmish over the puck, with one player in a yellow jersey and the other in a red jersey.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "actively",
+      "yellow",
+      "puck",
+      "jersey",
+      "player"
+    ],
+    "actions": [
+      "players",
+      "engaged",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Two of the players are actively engaged in a skirmish over the puck, with one player in a yellow jersey and the other in a red jersey.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "actively",
+      "yellow",
+      "puck",
+      "jersey",
+      "player"
+    ],
+    "actions": [
+      "players",
+      "engaged",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "Two of the players are actively engaged in a skirmish over the puck, with one player in a yellow jersey and the other in a red jersey.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "actively",
+      "yellow",
+      "puck",
+      "jersey",
+      "player"
+    ],
+    "actions": [
+      "players",
+      "engaged",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The yellow jersey player is in the process of pushing the red jersey player to the ground, trying to gain control of the puck.",
+    "objects": [
+      "yellow",
+      "control",
+      "jersey",
+      "puck",
+      "player",
+      "gain",
+      "ground"
+    ],
+    "actions": [
+      "pushing",
+      "red",
+      "trying",
+      "process"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The yellow jersey player is in the process of pushing the red jersey player to the ground, trying to gain control of the puck.",
+    "objects": [
+      "yellow",
+      "control",
+      "jersey",
+      "puck",
+      "player",
+      "gain",
+      "ground"
+    ],
+    "actions": [
+      "pushing",
+      "red",
+      "trying",
+      "process"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The yellow jersey player is in the process of pushing the red jersey player to the ground, trying to gain control of the puck.",
+    "objects": [
+      "yellow",
+      "control",
+      "jersey",
+      "puck",
+      "player",
+      "gain",
+      "ground"
+    ],
+    "actions": [
+      "pushing",
+      "red",
+      "trying",
+      "process"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The yellow jersey player is in the process of pushing the red jersey player to the ground, trying to gain control of the puck.",
+    "objects": [
+      "yellow",
+      "control",
+      "jersey",
+      "puck",
+      "player",
+      "gain",
+      "ground"
+    ],
+    "actions": [
+      "pushing",
+      "red",
+      "trying",
+      "process"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The red jersey player is struggling to maintain balance and is falling to the ground.",
+    "objects": [
+      "balance",
+      "jersey",
+      "maintain",
+      "player",
+      "ground"
+    ],
+    "actions": [
+      "struggling",
+      "falling",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The red jersey player is struggling to maintain balance and is falling to the ground.",
+    "objects": [
+      "balance",
+      "jersey",
+      "maintain",
+      "player",
+      "ground"
+    ],
+    "actions": [
+      "struggling",
+      "falling",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The red jersey player is struggling to maintain balance and is falling to the ground.",
+    "objects": [
+      "balance",
+      "jersey",
+      "maintain",
+      "player",
+      "ground"
+    ],
+    "actions": [
+      "struggling",
+      "falling",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The red jersey player is struggling to maintain balance and is falling to the ground.",
+    "objects": [
+      "balance",
+      "jersey",
+      "maintain",
+      "player",
+      "ground"
+    ],
+    "actions": [
+      "struggling",
+      "falling",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Meanwhile, a player in a black jersey is positioned in front of the goal, ready to defend.",
+    "objects": [
+      "goal",
+      "ready",
+      "black",
+      "jersey",
+      "player",
+      "defend",
+      "meanwhile"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Meanwhile, a player in a black jersey is positioned in front of the goal, ready to defend.",
+    "objects": [
+      "goal",
+      "ready",
+      "black",
+      "jersey",
+      "player",
+      "defend",
+      "meanwhile"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Meanwhile, a player in a black jersey is positioned in front of the goal, ready to defend.",
+    "objects": [
+      "goal",
+      "ready",
+      "black",
+      "jersey",
+      "player",
+      "defend",
+      "meanwhile"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Meanwhile, a player in a black jersey is positioned in front of the goal, ready to defend.",
+    "objects": [
+      "goal",
+      "ready",
+      "black",
+      "jersey",
+      "player",
+      "defend",
+      "meanwhile"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The goalie, also in a black jersey, is wearing a helmet and is crouched down in position, anticipating the incoming puck.",
+    "objects": [
+      "goalie",
+      "black",
+      "puck",
+      "jersey",
+      "position",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "crouched",
+      "incoming",
+      "anticipating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The goalie, also in a black jersey, is wearing a helmet and is crouched down in position, anticipating the incoming puck.",
+    "objects": [
+      "goalie",
+      "black",
+      "puck",
+      "jersey",
+      "position",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "crouched",
+      "incoming",
+      "anticipating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The goalie, also in a black jersey, is wearing a helmet and is crouched down in position, anticipating the incoming puck.",
+    "objects": [
+      "goalie",
+      "black",
+      "puck",
+      "jersey",
+      "position",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "crouched",
+      "incoming",
+      "anticipating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The goalie, also in a black jersey, is wearing a helmet and is crouched down in position, anticipating the incoming puck.",
+    "objects": [
+      "goalie",
+      "black",
+      "puck",
+      "jersey",
+      "position",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "crouched",
+      "incoming",
+      "anticipating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "Another player in a white jersey is positioned in the background, waiting for the play to unfold.",
+    "objects": [
+      "white",
+      "jersey",
+      "player",
+      "unfold",
+      "play"
+    ],
+    "actions": [
+      "waiting",
+      "positioned"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "Another player in a white jersey is positioned in the background, waiting for the play to unfold.",
+    "objects": [
+      "white",
+      "jersey",
+      "player",
+      "unfold",
+      "play"
+    ],
+    "actions": [
+      "waiting",
+      "positioned"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "Another player in a white jersey is positioned in the background, waiting for the play to unfold.",
+    "objects": [
+      "white",
+      "jersey",
+      "player",
+      "unfold",
+      "play"
+    ],
+    "actions": [
+      "waiting",
+      "positioned"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "Another player in a white jersey is positioned in the background, waiting for the play to unfold.",
+    "objects": [
+      "white",
+      "jersey",
+      "player",
+      "unfold",
+      "play"
+    ],
+    "actions": [
+      "waiting",
+      "positioned"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is a dynamic display of a hockey game with players strategically positioned and ready to make a move.",
+    "objects": [
+      "ready",
+      "strategically",
+      "make",
+      "game",
+      "move",
+      "hockey",
+      "display",
+      "dynamic"
+    ],
+    "actions": [
+      "players",
+      "positioned"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is a dynamic display of a hockey game with players strategically positioned and ready to make a move.",
+    "objects": [
+      "ready",
+      "strategically",
+      "make",
+      "game",
+      "move",
+      "hockey",
+      "display",
+      "dynamic"
+    ],
+    "actions": [
+      "players",
+      "positioned"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is a dynamic display of a hockey game with players strategically positioned and ready to make a move.",
+    "objects": [
+      "ready",
+      "strategically",
+      "make",
+      "game",
+      "move",
+      "hockey",
+      "display",
+      "dynamic"
+    ],
+    "actions": [
+      "players",
+      "positioned"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is a dynamic display of a hockey game with players strategically positioned and ready to make a move.",
+    "objects": [
+      "ready",
+      "strategically",
+      "make",
+      "game",
+      "move",
+      "hockey",
+      "display",
+      "dynamic"
+    ],
+    "actions": [
+      "players",
+      "positioned"
+    ],
+    "segment_id": 7
+  }
+]

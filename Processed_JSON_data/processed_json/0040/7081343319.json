@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see two people riding bicycles on a street.",
+    "objects": [
+      "street",
+      "see",
+      "people",
+      "this",
+      "two"
+    ],
+    "actions": [
+      "bicycles",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see two people riding bicycles on a street.",
+    "objects": [
+      "street",
+      "see",
+      "people",
+      "this",
+      "two"
+    ],
+    "actions": [
+      "bicycles",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see two people riding bicycles on a street.",
+    "objects": [
+      "street",
+      "see",
+      "people",
+      "this",
+      "two"
+    ],
+    "actions": [
+      "bicycles",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see two people riding bicycles on a street.",
+    "objects": [
+      "street",
+      "see",
+      "people",
+      "this",
+      "two"
+    ],
+    "actions": [
+      "bicycles",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is wearing a blue hoodie and a helmet, while the man is wearing a red shirt and a helmet.",
+    "objects": [
+      "shirt",
+      "blue",
+      "man",
+      "helmet",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is wearing a blue hoodie and a helmet, while the man is wearing a red shirt and a helmet.",
+    "objects": [
+      "shirt",
+      "blue",
+      "man",
+      "helmet",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is wearing a blue hoodie and a helmet, while the man is wearing a red shirt and a helmet.",
+    "objects": [
+      "shirt",
+      "blue",
+      "man",
+      "helmet",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is wearing a blue hoodie and a helmet, while the man is wearing a red shirt and a helmet.",
+    "objects": [
+      "shirt",
+      "blue",
+      "man",
+      "helmet",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are smiling and seem to be enjoying their ride.",
+    "objects": [
+      "they",
+      "seem",
+      "ride",
+      "their"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are smiling and seem to be enjoying their ride.",
+    "objects": [
+      "they",
+      "seem",
+      "ride",
+      "their"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are smiling and seem to be enjoying their ride.",
+    "objects": [
+      "they",
+      "seem",
+      "ride",
+      "their"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are smiling and seem to be enjoying their ride.",
+    "objects": [
+      "they",
+      "seem",
+      "ride",
+      "their"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "As they ride, they pass a trash can and a bench on the side of the road.",
+    "objects": [
+      "pass",
+      "side",
+      "ride",
+      "road",
+      "trash",
+      "can",
+      "they",
+      "bench"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "As they ride, they pass a trash can and a bench on the side of the road.",
+    "objects": [
+      "pass",
+      "side",
+      "ride",
+      "road",
+      "trash",
+      "can",
+      "they",
+      "bench"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "As they ride, they pass a trash can and a bench on the side of the road.",
+    "objects": [
+      "pass",
+      "side",
+      "ride",
+      "road",
+      "trash",
+      "can",
+      "they",
+      "bench"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "As they ride, they pass a trash can and a bench on the side of the road.",
+    "objects": [
+      "pass",
+      "side",
+      "ride",
+      "road",
+      "trash",
+      "can",
+      "they",
+      "bench"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The woman's bike is equipped with a basket on the back, and they are wearing gloves, suggesting they are prepared for a longer ride.",
+    "objects": [
+      "ride",
+      "longer",
+      "basket",
+      "they",
+      "bike"
+    ],
+    "actions": [
+      "prepared",
+      "woman's",
+      "suggesting",
+      "gloves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman's bike is equipped with a basket on the back, and they are wearing gloves, suggesting they are prepared for a longer ride.",
+    "objects": [
+      "ride",
+      "longer",
+      "basket",
+      "they",
+      "bike"
+    ],
+    "actions": [
+      "prepared",
+      "woman's",
+      "suggesting",
+      "gloves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman's bike is equipped with a basket on the back, and they are wearing gloves, suggesting they are prepared for a longer ride.",
+    "objects": [
+      "ride",
+      "longer",
+      "basket",
+      "they",
+      "bike"
+    ],
+    "actions": [
+      "prepared",
+      "woman's",
+      "suggesting",
+      "gloves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman's bike is equipped with a basket on the back, and they are wearing gloves, suggesting they are prepared for a longer ride.",
+    "objects": [
+      "ride",
+      "longer",
+      "basket",
+      "they",
+      "bike"
+    ],
+    "actions": [
+      "prepared",
+      "woman's",
+      "suggesting",
+      "gloves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "They are riding in the direction of the camera, and the woman is leading the way.",
+    "objects": [
+      "way",
+      "they",
+      "direction",
+      "woman"
+    ],
+    "actions": [
+      "riding",
+      "leading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "They are riding in the direction of the camera, and the woman is leading the way.",
+    "objects": [
+      "way",
+      "they",
+      "direction",
+      "woman"
+    ],
+    "actions": [
+      "riding",
+      "leading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "They are riding in the direction of the camera, and the woman is leading the way.",
+    "objects": [
+      "way",
+      "they",
+      "direction",
+      "woman"
+    ],
+    "actions": [
+      "riding",
+      "leading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "They are riding in the direction of the camera, and the woman is leading the way.",
+    "objects": [
+      "way",
+      "they",
+      "direction",
+      "woman"
+    ],
+    "actions": [
+      "riding",
+      "leading"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is following closely behind, maintaining a safe distance.",
+    "objects": [
+      "closely",
+      "distance",
+      "safe",
+      "behind",
+      "man"
+    ],
+    "actions": [
+      "following",
+      "maintaining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is following closely behind, maintaining a safe distance.",
+    "objects": [
+      "closely",
+      "distance",
+      "safe",
+      "behind",
+      "man"
+    ],
+    "actions": [
+      "following",
+      "maintaining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is following closely behind, maintaining a safe distance.",
+    "objects": [
+      "closely",
+      "distance",
+      "safe",
+      "behind",
+      "man"
+    ],
+    "actions": [
+      "following",
+      "maintaining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is following closely behind, maintaining a safe distance.",
+    "objects": [
+      "closely",
+      "distance",
+      "safe",
+      "behind",
+      "man"
+    ],
+    "actions": [
+      "following",
+      "maintaining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is peaceful and the weather is sunny, with a clear blue sky above them.",
+    "objects": [
+      "blue",
+      "them",
+      "peaceful",
+      "weather",
+      "above",
+      "sky",
+      "sunny",
+      "clear"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is peaceful and the weather is sunny, with a clear blue sky above them.",
+    "objects": [
+      "blue",
+      "them",
+      "peaceful",
+      "weather",
+      "above",
+      "sky",
+      "sunny",
+      "clear"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is peaceful and the weather is sunny, with a clear blue sky above them.",
+    "objects": [
+      "blue",
+      "them",
+      "peaceful",
+      "weather",
+      "above",
+      "sky",
+      "sunny",
+      "clear"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is peaceful and the weather is sunny, with a clear blue sky above them.",
+    "objects": [
+      "blue",
+      "them",
+      "peaceful",
+      "weather",
+      "above",
+      "sky",
+      "sunny",
+      "clear"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

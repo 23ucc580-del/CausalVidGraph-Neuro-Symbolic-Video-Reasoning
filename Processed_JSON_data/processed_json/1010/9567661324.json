@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman is seen standing next to a fence, wearing a backpack.",
+    "objects": [
+      "backpack",
+      "fence",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman is seen standing next to a fence, wearing a backpack.",
+    "objects": [
+      "backpack",
+      "fence",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman is seen standing next to a fence, wearing a backpack.",
+    "objects": [
+      "backpack",
+      "fence",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman is seen standing next to a fence, wearing a backpack.",
+    "objects": [
+      "backpack",
+      "fence",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is petting a horse's mane, and the horse seems to be enjoying the attention.",
+    "objects": [
+      "horse",
+      "mane",
+      "attention",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "petting",
+      "horse's",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is petting a horse's mane, and the horse seems to be enjoying the attention.",
+    "objects": [
+      "horse",
+      "mane",
+      "attention",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "petting",
+      "horse's",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is petting a horse's mane, and the horse seems to be enjoying the attention.",
+    "objects": [
+      "horse",
+      "mane",
+      "attention",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "petting",
+      "horse's",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is petting a horse's mane, and the horse seems to be enjoying the attention.",
+    "objects": [
+      "horse",
+      "mane",
+      "attention",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "petting",
+      "horse's",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman is dressed in a casual outfit, consisting of a blue hoodie, pants, and sneakers.",
+    "objects": [
+      "outfit",
+      "woman",
+      "casual",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "consisting",
+      "dressed",
+      "sneakers",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman is dressed in a casual outfit, consisting of a blue hoodie, pants, and sneakers.",
+    "objects": [
+      "outfit",
+      "woman",
+      "casual",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "consisting",
+      "dressed",
+      "sneakers",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman is dressed in a casual outfit, consisting of a blue hoodie, pants, and sneakers.",
+    "objects": [
+      "outfit",
+      "woman",
+      "casual",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "consisting",
+      "dressed",
+      "sneakers",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman is dressed in a casual outfit, consisting of a blue hoodie, pants, and sneakers.",
+    "objects": [
+      "outfit",
+      "woman",
+      "casual",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "consisting",
+      "dressed",
+      "sneakers",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "As she pets the horse, she smiles, indicating a sense of contentment and affection towards the animal.",
+    "objects": [
+      "animal",
+      "she",
+      "contentment",
+      "pets",
+      "sense",
+      "affection",
+      "horse"
+    ],
+    "actions": [
+      "towards",
+      "smiles",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "As she pets the horse, she smiles, indicating a sense of contentment and affection towards the animal.",
+    "objects": [
+      "animal",
+      "she",
+      "contentment",
+      "pets",
+      "sense",
+      "affection",
+      "horse"
+    ],
+    "actions": [
+      "towards",
+      "smiles",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "As she pets the horse, she smiles, indicating a sense of contentment and affection towards the animal.",
+    "objects": [
+      "animal",
+      "she",
+      "contentment",
+      "pets",
+      "sense",
+      "affection",
+      "horse"
+    ],
+    "actions": [
+      "towards",
+      "smiles",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "As she pets the horse, she smiles, indicating a sense of contentment and affection towards the animal.",
+    "objects": [
+      "animal",
+      "she",
+      "contentment",
+      "pets",
+      "sense",
+      "affection",
+      "horse"
+    ],
+    "actions": [
+      "towards",
+      "smiles",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Meanwhile, another person is standing a little distance away, wearing a red hat and a green shirt, possibly observing the scene or waiting their turn to interact with the horse.",
+    "objects": [
+      "distance",
+      "their",
+      "away",
+      "possibly",
+      "little",
+      "green",
+      "shirt",
+      "interact"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "waiting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Meanwhile, another person is standing a little distance away, wearing a red hat and a green shirt, possibly observing the scene or waiting their turn to interact with the horse.",
+    "objects": [
+      "distance",
+      "their",
+      "away",
+      "possibly",
+      "little",
+      "green",
+      "shirt",
+      "interact"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "waiting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Meanwhile, another person is standing a little distance away, wearing a red hat and a green shirt, possibly observing the scene or waiting their turn to interact with the horse.",
+    "objects": [
+      "distance",
+      "their",
+      "away",
+      "possibly",
+      "little",
+      "green",
+      "shirt",
+      "interact"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "waiting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Meanwhile, another person is standing a little distance away, wearing a red hat and a green shirt, possibly observing the scene or waiting their turn to interact with the horse.",
+    "objects": [
+      "distance",
+      "their",
+      "away",
+      "possibly",
+      "little",
+      "green",
+      "shirt",
+      "interact"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "waiting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The horse appears calm and well-behaved, enjoying the attention it's receiving from the woman.",
+    "objects": [
+      "attention",
+      "woman",
+      "from",
+      "calm",
+      "horse"
+    ],
+    "actions": [
+      "receiving",
+      "enjoying",
+      "well-behaved"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The horse appears calm and well-behaved, enjoying the attention it's receiving from the woman.",
+    "objects": [
+      "attention",
+      "woman",
+      "from",
+      "calm",
+      "horse"
+    ],
+    "actions": [
+      "receiving",
+      "enjoying",
+      "well-behaved"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The horse appears calm and well-behaved, enjoying the attention it's receiving from the woman.",
+    "objects": [
+      "attention",
+      "woman",
+      "from",
+      "calm",
+      "horse"
+    ],
+    "actions": [
+      "receiving",
+      "enjoying",
+      "well-behaved"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The horse appears calm and well-behaved, enjoying the attention it's receiving from the woman.",
+    "objects": [
+      "attention",
+      "woman",
+      "from",
+      "calm",
+      "horse"
+    ],
+    "actions": [
+      "receiving",
+      "enjoying",
+      "well-behaved"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The fence is made of metal and wooden posts, and it's located in a field with grass and a few trees in the background.",
+    "objects": [
+      "fence",
+      "made",
+      "field",
+      "wooden",
+      "grass",
+      "few",
+      "metal"
+    ],
+    "actions": [
+      "posts",
+      "trees",
+      "located"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The fence is made of metal and wooden posts, and it's located in a field with grass and a few trees in the background.",
+    "objects": [
+      "fence",
+      "made",
+      "field",
+      "wooden",
+      "grass",
+      "few",
+      "metal"
+    ],
+    "actions": [
+      "posts",
+      "trees",
+      "located"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The fence is made of metal and wooden posts, and it's located in a field with grass and a few trees in the background.",
+    "objects": [
+      "fence",
+      "made",
+      "field",
+      "wooden",
+      "grass",
+      "few",
+      "metal"
+    ],
+    "actions": [
+      "posts",
+      "trees",
+      "located"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The fence is made of metal and wooden posts, and it's located in a field with grass and a few trees in the background.",
+    "objects": [
+      "fence",
+      "made",
+      "field",
+      "wooden",
+      "grass",
+      "few",
+      "metal"
+    ],
+    "actions": [
+      "posts",
+      "trees",
+      "located"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The overall atmosphere of the video is peaceful and serene, with the horses grazing in the background and the woman enjoying her time with the horse.",
+    "objects": [
+      "woman",
+      "serene",
+      "peaceful",
+      "her",
+      "horse",
+      "overall",
+      "atmosphere",
+      "time"
+    ],
+    "actions": [
+      "grazing",
+      "horses",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The overall atmosphere of the video is peaceful and serene, with the horses grazing in the background and the woman enjoying her time with the horse.",
+    "objects": [
+      "woman",
+      "serene",
+      "peaceful",
+      "her",
+      "horse",
+      "overall",
+      "atmosphere",
+      "time"
+    ],
+    "actions": [
+      "grazing",
+      "horses",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere of the video is peaceful and serene, with the horses grazing in the background and the woman enjoying her time with the horse.",
+    "objects": [
+      "woman",
+      "serene",
+      "peaceful",
+      "her",
+      "horse",
+      "overall",
+      "atmosphere",
+      "time"
+    ],
+    "actions": [
+      "grazing",
+      "horses",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere of the video is peaceful and serene, with the horses grazing in the background and the woman enjoying her time with the horse.",
+    "objects": [
+      "woman",
+      "serene",
+      "peaceful",
+      "her",
+      "horse",
+      "overall",
+      "atmosphere",
+      "time"
+    ],
+    "actions": [
+      "grazing",
+      "horses",
+      "enjoying"
+    ],
+    "segment_id": 7
+  }
+]

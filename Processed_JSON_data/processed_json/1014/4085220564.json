@@ -1,0 +1,590 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively scene of a band performing on a stage.",
+    "objects": [
+      "band",
+      "stage",
+      "lively"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively scene of a band performing on a stage.",
+    "objects": [
+      "band",
+      "stage",
+      "lively"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively scene of a band performing on a stage.",
+    "objects": [
+      "band",
+      "stage",
+      "lively"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a lively scene of a band performing on a stage.",
+    "objects": [
+      "band",
+      "stage",
+      "lively"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The band is made up of several members, each playing their respective instruments, contributing to the overall sound.",
+    "objects": [
+      "band",
+      "their",
+      "respective",
+      "each",
+      "made",
+      "several",
+      "overall",
+      "sound"
+    ],
+    "actions": [
+      "playing",
+      "instruments",
+      "contributing",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The band is made up of several members, each playing their respective instruments, contributing to the overall sound.",
+    "objects": [
+      "band",
+      "their",
+      "respective",
+      "each",
+      "made",
+      "several",
+      "overall",
+      "sound"
+    ],
+    "actions": [
+      "playing",
+      "instruments",
+      "contributing",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The band is made up of several members, each playing their respective instruments, contributing to the overall sound.",
+    "objects": [
+      "band",
+      "their",
+      "respective",
+      "each",
+      "made",
+      "several",
+      "overall",
+      "sound"
+    ],
+    "actions": [
+      "playing",
+      "instruments",
+      "contributing",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The band is made up of several members, each playing their respective instruments, contributing to the overall sound.",
+    "objects": [
+      "band",
+      "their",
+      "respective",
+      "each",
+      "made",
+      "several",
+      "overall",
+      "sound"
+    ],
+    "actions": [
+      "playing",
+      "instruments",
+      "contributing",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The guitarist is strumming his instrument, while the saxophonist is blowing into his, creating a melodious tune.",
+    "objects": [
+      "into",
+      "while",
+      "saxophonist",
+      "tune",
+      "instrument",
+      "his",
+      "guitarist"
+    ],
+    "actions": [
+      "melodious",
+      "blowing",
+      "strumming",
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The guitarist is strumming his instrument, while the saxophonist is blowing into his, creating a melodious tune.",
+    "objects": [
+      "into",
+      "while",
+      "saxophonist",
+      "tune",
+      "instrument",
+      "his",
+      "guitarist"
+    ],
+    "actions": [
+      "melodious",
+      "blowing",
+      "strumming",
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The guitarist is strumming his instrument, while the saxophonist is blowing into his, creating a melodious tune.",
+    "objects": [
+      "into",
+      "while",
+      "saxophonist",
+      "tune",
+      "instrument",
+      "his",
+      "guitarist"
+    ],
+    "actions": [
+      "melodious",
+      "blowing",
+      "strumming",
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The guitarist is strumming his instrument, while the saxophonist is blowing into his, creating a melodious tune.",
+    "objects": [
+      "into",
+      "while",
+      "saxophonist",
+      "tune",
+      "instrument",
+      "his",
+      "guitarist"
+    ],
+    "actions": [
+      "melodious",
+      "blowing",
+      "strumming",
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The drummer is vigorously tapping the cymbals, adding a rhythmic beat to the performance.",
+    "objects": [
+      "rhythmic",
+      "beat",
+      "vigorously",
+      "drummer",
+      "performance"
+    ],
+    "actions": [
+      "adding",
+      "cymbals",
+      "tapping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The drummer is vigorously tapping the cymbals, adding a rhythmic beat to the performance.",
+    "objects": [
+      "rhythmic",
+      "beat",
+      "vigorously",
+      "drummer",
+      "performance"
+    ],
+    "actions": [
+      "adding",
+      "cymbals",
+      "tapping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The drummer is vigorously tapping the cymbals, adding a rhythmic beat to the performance.",
+    "objects": [
+      "rhythmic",
+      "beat",
+      "vigorously",
+      "drummer",
+      "performance"
+    ],
+    "actions": [
+      "adding",
+      "cymbals",
+      "tapping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The drummer is vigorously tapping the cymbals, adding a rhythmic beat to the performance.",
+    "objects": [
+      "rhythmic",
+      "beat",
+      "vigorously",
+      "drummer",
+      "performance"
+    ],
+    "actions": [
+      "adding",
+      "cymbals",
+      "tapping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The trumpet player is holding his instrument, ready to play, while the tuba player is standing with his, waiting for his turn to perform.",
+    "objects": [
+      "trumpet",
+      "ready",
+      "while",
+      "instrument",
+      "perform",
+      "tuba",
+      "turn",
+      "player"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The trumpet player is holding his instrument, ready to play, while the tuba player is standing with his, waiting for his turn to perform.",
+    "objects": [
+      "trumpet",
+      "ready",
+      "while",
+      "instrument",
+      "perform",
+      "tuba",
+      "turn",
+      "player"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The trumpet player is holding his instrument, ready to play, while the tuba player is standing with his, waiting for his turn to perform.",
+    "objects": [
+      "trumpet",
+      "ready",
+      "while",
+      "instrument",
+      "perform",
+      "tuba",
+      "turn",
+      "player"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The trumpet player is holding his instrument, ready to play, while the tuba player is standing with his, waiting for his turn to perform.",
+    "objects": [
+      "trumpet",
+      "ready",
+      "while",
+      "instrument",
+      "perform",
+      "tuba",
+      "turn",
+      "player"
+    ],
+    "actions": [
+      "waiting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The keyboardist is seated at his instrument, fingers dancing over the keys, producing a harmonious sound.",
+    "objects": [
+      "keyboardist",
+      "instrument",
+      "his",
+      "keys",
+      "over",
+      "sound"
+    ],
+    "actions": [
+      "producing",
+      "harmonious",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The keyboardist is seated at his instrument, fingers dancing over the keys, producing a harmonious sound.",
+    "objects": [
+      "keyboardist",
+      "instrument",
+      "his",
+      "keys",
+      "over",
+      "sound"
+    ],
+    "actions": [
+      "producing",
+      "harmonious",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The keyboardist is seated at his instrument, fingers dancing over the keys, producing a harmonious sound.",
+    "objects": [
+      "keyboardist",
+      "instrument",
+      "his",
+      "keys",
+      "over",
+      "sound"
+    ],
+    "actions": [
+      "producing",
+      "harmonious",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The keyboardist is seated at his instrument, fingers dancing over the keys, producing a harmonious sound.",
+    "objects": [
+      "keyboardist",
+      "instrument",
+      "his",
+      "keys",
+      "over",
+      "sound"
+    ],
+    "actions": [
+      "producing",
+      "harmonious",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The singer is singing passionately, his voice resonating with the audience.",
+    "objects": [
+      "singer",
+      "audience",
+      "passionately",
+      "his",
+      "voice"
+    ],
+    "actions": [
+      "singing",
+      "resonating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The singer is singing passionately, his voice resonating with the audience.",
+    "objects": [
+      "singer",
+      "audience",
+      "passionately",
+      "his",
+      "voice"
+    ],
+    "actions": [
+      "singing",
+      "resonating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The singer is singing passionately, his voice resonating with the audience.",
+    "objects": [
+      "singer",
+      "audience",
+      "passionately",
+      "his",
+      "voice"
+    ],
+    "actions": [
+      "singing",
+      "resonating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The singer is singing passionately, his voice resonating with the audience.",
+    "objects": [
+      "singer",
+      "audience",
+      "passionately",
+      "his",
+      "voice"
+    ],
+    "actions": [
+      "singing",
+      "resonating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The crowd is a mix of people, some are swaying to the music, while others are standing, all seemingly enjoying the performance.",
+    "objects": [
+      "crowd",
+      "people",
+      "while",
+      "performance",
+      "mix",
+      "some",
+      "seemingly",
+      "music"
+    ],
+    "actions": [
+      "standing",
+      "swaying",
+      "others",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The crowd is a mix of people, some are swaying to the music, while others are standing, all seemingly enjoying the performance.",
+    "objects": [
+      "crowd",
+      "people",
+      "while",
+      "performance",
+      "mix",
+      "some",
+      "seemingly",
+      "music"
+    ],
+    "actions": [
+      "standing",
+      "swaying",
+      "others",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The crowd is a mix of people, some are swaying to the music, while others are standing, all seemingly enjoying the performance.",
+    "objects": [
+      "crowd",
+      "people",
+      "while",
+      "performance",
+      "mix",
+      "some",
+      "seemingly",
+      "music"
+    ],
+    "actions": [
+      "standing",
+      "swaying",
+      "others",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The crowd is a mix of people, some are swaying to the music, while others are standing, all seemingly enjoying the performance.",
+    "objects": [
+      "crowd",
+      "people",
+      "while",
+      "performance",
+      "mix",
+      "some",
+      "seemingly",
+      "music"
+    ],
+    "actions": [
+      "standing",
+      "swaying",
+      "others",
+      "enjoying"
+    ],
+    "segment_id": 7
+  }
+]

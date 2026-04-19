@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a small black dog walking on a beige carpeted floor in a room.",
+    "objects": [
+      "room",
+      "small",
+      "beige",
+      "dog",
+      "floor",
+      "black",
+      "see"
+    ],
+    "actions": [
+      "carpeted",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a small black dog walking on a beige carpeted floor in a room.",
+    "objects": [
+      "room",
+      "small",
+      "beige",
+      "dog",
+      "floor",
+      "black",
+      "see"
+    ],
+    "actions": [
+      "carpeted",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a small black dog walking on a beige carpeted floor in a room.",
+    "objects": [
+      "room",
+      "small",
+      "beige",
+      "dog",
+      "floor",
+      "black",
+      "see"
+    ],
+    "actions": [
+      "carpeted",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a small black dog walking on a beige carpeted floor in a room.",
+    "objects": [
+      "room",
+      "small",
+      "beige",
+      "dog",
+      "floor",
+      "black",
+      "see"
+    ],
+    "actions": [
+      "carpeted",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The dog is wearing a blue collar and appears to be looking at the camera.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog is wearing a blue collar and appears to be looking at the camera.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog is wearing a blue collar and appears to be looking at the camera.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog is wearing a blue collar and appears to be looking at the camera.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "In the background, a man wearing a blue hoodie is standing in front of a television, which is displaying an animated show.",
+    "objects": [
+      "blue",
+      "which",
+      "man",
+      "television",
+      "show",
+      "hoodie"
+    ],
+    "actions": [
+      "displaying",
+      "animated",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the background, a man wearing a blue hoodie is standing in front of a television, which is displaying an animated show.",
+    "objects": [
+      "blue",
+      "which",
+      "man",
+      "television",
+      "show",
+      "hoodie"
+    ],
+    "actions": [
+      "displaying",
+      "animated",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "In the background, a man wearing a blue hoodie is standing in front of a television, which is displaying an animated show.",
+    "objects": [
+      "blue",
+      "which",
+      "man",
+      "television",
+      "show",
+      "hoodie"
+    ],
+    "actions": [
+      "displaying",
+      "animated",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "In the background, a man wearing a blue hoodie is standing in front of a television, which is displaying an animated show.",
+    "objects": [
+      "blue",
+      "which",
+      "man",
+      "television",
+      "show",
+      "hoodie"
+    ],
+    "actions": [
+      "displaying",
+      "animated",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is holding a video game controller in his right hand, indicating that he might be playing a video game.",
+    "objects": [
+      "game",
+      "controller",
+      "hand",
+      "man",
+      "his",
+      "that",
+      "might"
+    ],
+    "actions": [
+      "indicating",
+      "holding",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is holding a video game controller in his right hand, indicating that he might be playing a video game.",
+    "objects": [
+      "game",
+      "controller",
+      "hand",
+      "man",
+      "his",
+      "that",
+      "might"
+    ],
+    "actions": [
+      "indicating",
+      "holding",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man is holding a video game controller in his right hand, indicating that he might be playing a video game.",
+    "objects": [
+      "game",
+      "controller",
+      "hand",
+      "man",
+      "his",
+      "that",
+      "might"
+    ],
+    "actions": [
+      "indicating",
+      "holding",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is holding a video game controller in his right hand, indicating that he might be playing a video game.",
+    "objects": [
+      "game",
+      "controller",
+      "hand",
+      "man",
+      "his",
+      "that",
+      "might"
+    ],
+    "actions": [
+      "indicating",
+      "holding",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The room is quite messy, with numerous objects scattered around, including a white table with a laptop on it, a blue bag, and a white chair.",
+    "objects": [
+      "white",
+      "blue",
+      "messy",
+      "around",
+      "room",
+      "bag",
+      "laptop",
+      "table"
+    ],
+    "actions": [
+      "numerous",
+      "objects",
+      "scattered"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The room is quite messy, with numerous objects scattered around, including a white table with a laptop on it, a blue bag, and a white chair.",
+    "objects": [
+      "white",
+      "blue",
+      "messy",
+      "around",
+      "room",
+      "bag",
+      "laptop",
+      "table"
+    ],
+    "actions": [
+      "numerous",
+      "objects",
+      "scattered"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The room is quite messy, with numerous objects scattered around, including a white table with a laptop on it, a blue bag, and a white chair.",
+    "objects": [
+      "white",
+      "blue",
+      "messy",
+      "around",
+      "room",
+      "bag",
+      "laptop",
+      "table"
+    ],
+    "actions": [
+      "numerous",
+      "objects",
+      "scattered"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The room is quite messy, with numerous objects scattered around, including a white table with a laptop on it, a blue bag, and a white chair.",
+    "objects": [
+      "white",
+      "blue",
+      "messy",
+      "around",
+      "room",
+      "bag",
+      "laptop",
+      "table"
+    ],
+    "actions": [
+      "numerous",
+      "objects",
+      "scattered"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The dog seems to be the main focus of the video, as it is the only moving object in the frame.",
+    "objects": [
+      "main",
+      "object",
+      "dog",
+      "only"
+    ],
+    "actions": [
+      "moving",
+      "focus",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The dog seems to be the main focus of the video, as it is the only moving object in the frame.",
+    "objects": [
+      "main",
+      "object",
+      "dog",
+      "only"
+    ],
+    "actions": [
+      "moving",
+      "focus",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The dog seems to be the main focus of the video, as it is the only moving object in the frame.",
+    "objects": [
+      "main",
+      "object",
+      "dog",
+      "only"
+    ],
+    "actions": [
+      "moving",
+      "focus",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The dog seems to be the main focus of the video, as it is the only moving object in the frame.",
+    "objects": [
+      "main",
+      "object",
+      "dog",
+      "only"
+    ],
+    "actions": [
+      "moving",
+      "focus",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man appears to be in a relaxed state, standing still with his hands at his sides.",
+    "objects": [
+      "still",
+      "man",
+      "his",
+      "state"
+    ],
+    "actions": [
+      "sides",
+      "hands",
+      "relaxed",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man appears to be in a relaxed state, standing still with his hands at his sides.",
+    "objects": [
+      "still",
+      "man",
+      "his",
+      "state"
+    ],
+    "actions": [
+      "sides",
+      "hands",
+      "relaxed",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man appears to be in a relaxed state, standing still with his hands at his sides.",
+    "objects": [
+      "still",
+      "man",
+      "his",
+      "state"
+    ],
+    "actions": [
+      "sides",
+      "hands",
+      "relaxed",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man appears to be in a relaxed state, standing still with his hands at his sides.",
+    "objects": [
+      "still",
+      "man",
+      "his",
+      "state"
+    ],
+    "actions": [
+      "sides",
+      "hands",
+      "relaxed",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The overall atmosphere of the video is casual and homely.",
+    "objects": [
+      "overall",
+      "homely",
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The overall atmosphere of the video is casual and homely.",
+    "objects": [
+      "overall",
+      "homely",
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere of the video is casual and homely.",
+    "objects": [
+      "overall",
+      "homely",
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere of the video is casual and homely.",
+    "objects": [
+      "overall",
+      "homely",
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

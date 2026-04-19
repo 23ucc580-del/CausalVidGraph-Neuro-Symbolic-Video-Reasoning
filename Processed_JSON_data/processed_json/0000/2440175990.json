@@ -1,0 +1,590 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a woman wearing a blue hoodie and sunglasses is seen walking down a sidewalk.",
+    "objects": [
+      "sidewalk",
+      "blue",
+      "hoodie",
+      "woman",
+      "this"
+    ],
+    "actions": [
+      "sunglasses",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a woman wearing a blue hoodie and sunglasses is seen walking down a sidewalk.",
+    "objects": [
+      "sidewalk",
+      "blue",
+      "hoodie",
+      "woman",
+      "this"
+    ],
+    "actions": [
+      "sunglasses",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a woman wearing a blue hoodie and sunglasses is seen walking down a sidewalk.",
+    "objects": [
+      "sidewalk",
+      "blue",
+      "hoodie",
+      "woman",
+      "this"
+    ],
+    "actions": [
+      "sunglasses",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, a woman wearing a blue hoodie and sunglasses is seen walking down a sidewalk.",
+    "objects": [
+      "sidewalk",
+      "blue",
+      "hoodie",
+      "woman",
+      "this"
+    ],
+    "actions": [
+      "sunglasses",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She's carrying a white plastic bag and holding a bottle of water in her hand.",
+    "objects": [
+      "her",
+      "white",
+      "bottle",
+      "water",
+      "plastic",
+      "bag",
+      "hand"
+    ],
+    "actions": [
+      "carrying",
+      "holding",
+      "she's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She's carrying a white plastic bag and holding a bottle of water in her hand.",
+    "objects": [
+      "her",
+      "white",
+      "bottle",
+      "water",
+      "plastic",
+      "bag",
+      "hand"
+    ],
+    "actions": [
+      "carrying",
+      "holding",
+      "she's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She's carrying a white plastic bag and holding a bottle of water in her hand.",
+    "objects": [
+      "her",
+      "white",
+      "bottle",
+      "water",
+      "plastic",
+      "bag",
+      "hand"
+    ],
+    "actions": [
+      "carrying",
+      "holding",
+      "she's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She's carrying a white plastic bag and holding a bottle of water in her hand.",
+    "objects": [
+      "her",
+      "white",
+      "bottle",
+      "water",
+      "plastic",
+      "bag",
+      "hand"
+    ],
+    "actions": [
+      "carrying",
+      "holding",
+      "she's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "As she walks, she looks towards the camera and smiles.",
+    "objects": [
+      "she"
+    ],
+    "actions": [
+      "looks",
+      "walks",
+      "smiles",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "As she walks, she looks towards the camera and smiles.",
+    "objects": [
+      "she"
+    ],
+    "actions": [
+      "looks",
+      "walks",
+      "smiles",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "As she walks, she looks towards the camera and smiles.",
+    "objects": [
+      "she"
+    ],
+    "actions": [
+      "looks",
+      "walks",
+      "smiles",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "As she walks, she looks towards the camera and smiles.",
+    "objects": [
+      "she"
+    ],
+    "actions": [
+      "looks",
+      "walks",
+      "smiles",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "She appears to be enjoying her time, perhaps enjoying the sunny weather or just going for a leisurely stroll.",
+    "objects": [
+      "her",
+      "time",
+      "weather",
+      "just",
+      "she",
+      "sunny",
+      "stroll",
+      "leisurely"
+    ],
+    "actions": [
+      "going",
+      "perhaps",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "She appears to be enjoying her time, perhaps enjoying the sunny weather or just going for a leisurely stroll.",
+    "objects": [
+      "her",
+      "time",
+      "weather",
+      "just",
+      "she",
+      "sunny",
+      "stroll",
+      "leisurely"
+    ],
+    "actions": [
+      "going",
+      "perhaps",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "She appears to be enjoying her time, perhaps enjoying the sunny weather or just going for a leisurely stroll.",
+    "objects": [
+      "her",
+      "time",
+      "weather",
+      "just",
+      "she",
+      "sunny",
+      "stroll",
+      "leisurely"
+    ],
+    "actions": [
+      "going",
+      "perhaps",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "She appears to be enjoying her time, perhaps enjoying the sunny weather or just going for a leisurely stroll.",
+    "objects": [
+      "her",
+      "time",
+      "weather",
+      "just",
+      "she",
+      "sunny",
+      "stroll",
+      "leisurely"
+    ],
+    "actions": [
+      "going",
+      "perhaps",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The sidewalk is lined with green bushes, and there's a silver car parked nearby, adding to the urban ambiance.",
+    "objects": [
+      "sidewalk",
+      "nearby",
+      "ambiance",
+      "urban",
+      "green",
+      "car",
+      "silver"
+    ],
+    "actions": [
+      "parked",
+      "there's",
+      "bushes",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The sidewalk is lined with green bushes, and there's a silver car parked nearby, adding to the urban ambiance.",
+    "objects": [
+      "sidewalk",
+      "nearby",
+      "ambiance",
+      "urban",
+      "green",
+      "car",
+      "silver"
+    ],
+    "actions": [
+      "parked",
+      "there's",
+      "bushes",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The sidewalk is lined with green bushes, and there's a silver car parked nearby, adding to the urban ambiance.",
+    "objects": [
+      "sidewalk",
+      "nearby",
+      "ambiance",
+      "urban",
+      "green",
+      "car",
+      "silver"
+    ],
+    "actions": [
+      "parked",
+      "there's",
+      "bushes",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The sidewalk is lined with green bushes, and there's a silver car parked nearby, adding to the urban ambiance.",
+    "objects": [
+      "sidewalk",
+      "nearby",
+      "ambiance",
+      "urban",
+      "green",
+      "car",
+      "silver"
+    ],
+    "actions": [
+      "parked",
+      "there's",
+      "bushes",
+      "lined"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman's attire suggests it might be a casual day out or perhaps she's just returned from a workout.",
+    "objects": [
+      "might",
+      "workout",
+      "from",
+      "out",
+      "attire",
+      "just",
+      "casual",
+      "day"
+    ],
+    "actions": [
+      "she's",
+      "returned",
+      "woman's",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman's attire suggests it might be a casual day out or perhaps she's just returned from a workout.",
+    "objects": [
+      "might",
+      "workout",
+      "from",
+      "out",
+      "attire",
+      "just",
+      "casual",
+      "day"
+    ],
+    "actions": [
+      "she's",
+      "returned",
+      "woman's",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman's attire suggests it might be a casual day out or perhaps she's just returned from a workout.",
+    "objects": [
+      "might",
+      "workout",
+      "from",
+      "out",
+      "attire",
+      "just",
+      "casual",
+      "day"
+    ],
+    "actions": [
+      "she's",
+      "returned",
+      "woman's",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman's attire suggests it might be a casual day out or perhaps she's just returned from a workout.",
+    "objects": [
+      "might",
+      "workout",
+      "from",
+      "out",
+      "attire",
+      "just",
+      "casual",
+      "day"
+    ],
+    "actions": [
+      "she's",
+      "returned",
+      "woman's",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The sunny weather and her mood suggest a pleasant day outdoors.",
+    "objects": [
+      "her",
+      "weather",
+      "suggest",
+      "mood",
+      "sunny",
+      "pleasant",
+      "day"
+    ],
+    "actions": [
+      "outdoors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The sunny weather and her mood suggest a pleasant day outdoors.",
+    "objects": [
+      "her",
+      "weather",
+      "suggest",
+      "mood",
+      "sunny",
+      "pleasant",
+      "day"
+    ],
+    "actions": [
+      "outdoors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The sunny weather and her mood suggest a pleasant day outdoors.",
+    "objects": [
+      "her",
+      "weather",
+      "suggest",
+      "mood",
+      "sunny",
+      "pleasant",
+      "day"
+    ],
+    "actions": [
+      "outdoors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The sunny weather and her mood suggest a pleasant day outdoors.",
+    "objects": [
+      "her",
+      "weather",
+      "suggest",
+      "mood",
+      "sunny",
+      "pleasant",
+      "day"
+    ],
+    "actions": [
+      "outdoors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman's smile indicates she's having a good time, perhaps enjoying the sights or sounds of the city around her.",
+    "objects": [
+      "her",
+      "smile",
+      "time",
+      "good",
+      "city",
+      "around"
+    ],
+    "actions": [
+      "indicates",
+      "she's",
+      "woman's",
+      "sounds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman's smile indicates she's having a good time, perhaps enjoying the sights or sounds of the city around her.",
+    "objects": [
+      "her",
+      "smile",
+      "time",
+      "good",
+      "city",
+      "around"
+    ],
+    "actions": [
+      "indicates",
+      "she's",
+      "woman's",
+      "sounds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman's smile indicates she's having a good time, perhaps enjoying the sights or sounds of the city around her.",
+    "objects": [
+      "her",
+      "smile",
+      "time",
+      "good",
+      "city",
+      "around"
+    ],
+    "actions": [
+      "indicates",
+      "she's",
+      "woman's",
+      "sounds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman's smile indicates she's having a good time, perhaps enjoying the sights or sounds of the city around her.",
+    "objects": [
+      "her",
+      "smile",
+      "time",
+      "good",
+      "city",
+      "around"
+    ],
+    "actions": [
+      "indicates",
+      "she's",
+      "woman's",
+      "sounds"
+    ],
+    "segment_id": 7
+  }
+]

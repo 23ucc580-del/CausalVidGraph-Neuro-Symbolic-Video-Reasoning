@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people engaged in a training session for their dogs at a park.",
+    "objects": [
+      "their",
+      "people",
+      "park",
+      "see",
+      "dogs",
+      "group",
+      "session"
+    ],
+    "actions": [
+      "engaged",
+      "training"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people engaged in a training session for their dogs at a park.",
+    "objects": [
+      "their",
+      "people",
+      "park",
+      "see",
+      "dogs",
+      "group",
+      "session"
+    ],
+    "actions": [
+      "engaged",
+      "training"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene is lively with several individuals and dogs present.",
+    "objects": [
+      "lively",
+      "several",
+      "dogs",
+      "present"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is lively with several individuals and dogs present.",
+    "objects": [
+      "lively",
+      "several",
+      "dogs",
+      "present"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "- The first person is wearing a blue hoodie and holding a leash, watching as a dog runs around the park, possibly training it or observing the others.",
+    "objects": [
+      "first",
+      "hoodie",
+      "runs",
+      "blue",
+      "leash",
+      "park",
+      "around",
+      "possibly"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "observing",
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "- The first person is wearing a blue hoodie and holding a leash, watching as a dog runs around the park, possibly training it or observing the others.",
+    "objects": [
+      "first",
+      "hoodie",
+      "runs",
+      "blue",
+      "leash",
+      "park",
+      "around",
+      "possibly"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "observing",
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "- Another person is wearing a red jacket and is seen with a dog, possibly instructing it or walking it around.",
+    "objects": [
+      "jacket",
+      "around",
+      "possibly",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "instructing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "- Another person is wearing a red jacket and is seen with a dog, possibly instructing it or walking it around.",
+    "objects": [
+      "jacket",
+      "around",
+      "possibly",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "instructing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "- A man in a black shirt is also present, holding a leash and guiding a dog around.",
+    "objects": [
+      "present",
+      "man",
+      "leash",
+      "dog",
+      "shirt",
+      "around",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "guiding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "- A man in a black shirt is also present, holding a leash and guiding a dog around.",
+    "objects": [
+      "present",
+      "man",
+      "leash",
+      "dog",
+      "shirt",
+      "around",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "guiding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "- A woman in a pink jacket is walking a dog, possibly training it or taking it for a stroll.",
+    "objects": [
+      "woman",
+      "stroll",
+      "jacket",
+      "possibly",
+      "pink",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "training",
+      "taking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "- A woman in a pink jacket is walking a dog, possibly training it or taking it for a stroll.",
+    "objects": [
+      "woman",
+      "stroll",
+      "jacket",
+      "possibly",
+      "pink",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "training",
+      "taking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "- There's a person in a white shirt walking a dog around, possibly training or walking it for exercise.",
+    "objects": [
+      "exercise",
+      "white",
+      "shirt",
+      "around",
+      "possibly",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "there's",
+      "training"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "- There's a person in a white shirt walking a dog around, possibly training or walking it for exercise.",
+    "objects": [
+      "exercise",
+      "white",
+      "shirt",
+      "around",
+      "possibly",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "there's",
+      "training"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "- A man in a black jacket is wearing a hat and is walking a dog, perhaps training or exercising it.",
+    "objects": [
+      "black",
+      "man",
+      "hat",
+      "jacket",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "perhaps",
+      "exercising"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "- A man in a black jacket is wearing a hat and is walking a dog, perhaps training or exercising it.",
+    "objects": [
+      "black",
+      "man",
+      "hat",
+      "jacket",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "wearing",
+      "perhaps",
+      "exercising"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "- A person in a white shirt is walking a dog, likely training or exercising it.",
+    "objects": [
+      "dog",
+      "white",
+      "likely",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "exercising",
+      "training"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "- A person in a white shirt is walking a dog, likely training or exercising it.",
+    "objects": [
+      "dog",
+      "white",
+      "likely",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "exercising",
+      "training"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "- Another person in a pink shirt is walking a dog, possibly training or taking it for a walk.",
+    "objects": [
+      "walk",
+      "shirt",
+      "possibly",
+      "pink",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "training",
+      "taking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "- Another person in a pink shirt is walking a dog, possibly training or taking it for a walk.",
+    "objects": [
+      "walk",
+      "shirt",
+      "possibly",
+      "pink",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "training",
+      "taking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "- A man in a white shirt is also seen, walking a dog, likely training or exercising it.",
+    "objects": [
+      "white",
+      "man",
+      "likely",
+      "shirt",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "exercising",
+      "training"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "- A man in a white shirt is also seen, walking a dog, likely training or exercising it.",
+    "objects": [
+      "white",
+      "man",
+      "likely",
+      "shirt",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "exercising",
+      "training"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "- A woman in a pink jacket is walking a dog, possibly training or taking it for a walk.",
+    "objects": [
+      "woman",
+      "walk",
+      "jacket",
+      "possibly",
+      "pink",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "training",
+      "taking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "- A woman in a pink jacket is walking a dog, possibly training or taking it for a walk.",
+    "objects": [
+      "woman",
+      "walk",
+      "jacket",
+      "possibly",
+      "pink",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "training",
+      "taking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "- Lastly, there's a person in a black jacket walking a dog, possibly training or exercising it.",
+    "objects": [
+      "black",
+      "lastly",
+      "jacket",
+      "possibly",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "there's",
+      "training",
+      "exercising"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "- Lastly, there's a person in a black jacket walking a dog, possibly training or exercising it.",
+    "objects": [
+      "black",
+      "lastly",
+      "jacket",
+      "possibly",
+      "dog"
+    ],
+    "actions": [
+      "walking",
+      "there's",
+      "training",
+      "exercising"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The dogs are of various breeds and sizes, and they are being trained or walked around the park.",
+    "objects": [
+      "dogs",
+      "they",
+      "around",
+      "park"
+    ],
+    "actions": [
+      "sizes",
+      "trained",
+      "walked",
+      "being"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The dogs are of various breeds and sizes, and they are being trained or walked around the park.",
+    "objects": [
+      "dogs",
+      "they",
+      "around",
+      "park"
+    ],
+    "actions": [
+      "sizes",
+      "trained",
+      "walked",
+      "being"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The people are dressed in casual clothes suitable for outdoor activities and the weather seems to be mild.",
+    "objects": [
+      "suitable",
+      "casual",
+      "people",
+      "weather",
+      "mild",
+      "outdoor"
+    ],
+    "actions": [
+      "activities",
+      "dressed",
+      "clothes",
+      "seems"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The people are dressed in casual clothes suitable for outdoor activities and the weather seems to be mild.",
+    "objects": [
+      "suitable",
+      "casual",
+      "people",
+      "weather",
+      "mild",
+      "outdoor"
+    ],
+    "actions": [
+      "activities",
+      "dressed",
+      "clothes",
+      "seems"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The park appears to be a large, open space with enough room for the dogs to run around.",
+    "objects": [
+      "enough",
+      "space",
+      "park",
+      "open",
+      "dogs",
+      "room",
+      "run",
+      "around"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The park appears to be a large, open space with enough room for the dogs to run around.",
+    "objects": [
+      "enough",
+      "space",
+      "park",
+      "open",
+      "dogs",
+      "room",
+      "run",
+      "around"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  }
+]

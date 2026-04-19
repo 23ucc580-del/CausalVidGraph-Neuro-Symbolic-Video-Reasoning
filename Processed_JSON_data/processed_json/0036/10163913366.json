@@ -1,0 +1,601 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of young boys are gathered on a grassy field, engaged in a lively game of football.",
+    "objects": [
+      "football",
+      "lively",
+      "boys",
+      "field",
+      "group",
+      "game",
+      "grassy",
+      "young"
+    ],
+    "actions": [
+      "engaged",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of young boys are gathered on a grassy field, engaged in a lively game of football.",
+    "objects": [
+      "football",
+      "lively",
+      "boys",
+      "field",
+      "group",
+      "game",
+      "grassy",
+      "young"
+    ],
+    "actions": [
+      "engaged",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of young boys are gathered on a grassy field, engaged in a lively game of football.",
+    "objects": [
+      "football",
+      "lively",
+      "boys",
+      "field",
+      "group",
+      "game",
+      "grassy",
+      "young"
+    ],
+    "actions": [
+      "engaged",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The field is a vibrant green, providing a stark contrast to the boys' colorful uniforms.",
+    "objects": [
+      "stark",
+      "vibrant",
+      "field",
+      "colorful",
+      "green",
+      "contrast"
+    ],
+    "actions": [
+      "uniforms",
+      "providing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The field is a vibrant green, providing a stark contrast to the boys' colorful uniforms.",
+    "objects": [
+      "stark",
+      "vibrant",
+      "field",
+      "colorful",
+      "green",
+      "contrast"
+    ],
+    "actions": [
+      "uniforms",
+      "providing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The field is a vibrant green, providing a stark contrast to the boys' colorful uniforms.",
+    "objects": [
+      "stark",
+      "vibrant",
+      "field",
+      "colorful",
+      "green",
+      "contrast"
+    ],
+    "actions": [
+      "uniforms",
+      "providing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A boy wearing a blue hoodie is holding a football, ready to make a pass.",
+    "objects": [
+      "pass",
+      "boy",
+      "blue",
+      "make",
+      "ready",
+      "hoodie",
+      "football"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A boy wearing a blue hoodie is holding a football, ready to make a pass.",
+    "objects": [
+      "pass",
+      "boy",
+      "blue",
+      "make",
+      "ready",
+      "hoodie",
+      "football"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A boy wearing a blue hoodie is holding a football, ready to make a pass.",
+    "objects": [
+      "pass",
+      "boy",
+      "blue",
+      "make",
+      "ready",
+      "hoodie",
+      "football"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another boy, dressed in a black shirt, stands nearby, his attention focused on the game.",
+    "objects": [
+      "shirt",
+      "boy",
+      "nearby",
+      "black",
+      "attention",
+      "game",
+      "his"
+    ],
+    "actions": [
+      "dressed",
+      "focused",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Another boy, dressed in a black shirt, stands nearby, his attention focused on the game.",
+    "objects": [
+      "shirt",
+      "boy",
+      "nearby",
+      "black",
+      "attention",
+      "game",
+      "his"
+    ],
+    "actions": [
+      "dressed",
+      "focused",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Another boy, dressed in a black shirt, stands nearby, his attention focused on the game.",
+    "objects": [
+      "shirt",
+      "boy",
+      "nearby",
+      "black",
+      "attention",
+      "game",
+      "his"
+    ],
+    "actions": [
+      "dressed",
+      "focused",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Nearby, a boy in an orange shirt is holding a blue bag, possibly a backpack.",
+    "objects": [
+      "shirt",
+      "boy",
+      "nearby",
+      "blue",
+      "orange",
+      "backpack",
+      "possibly",
+      "bag"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Nearby, a boy in an orange shirt is holding a blue bag, possibly a backpack.",
+    "objects": [
+      "shirt",
+      "boy",
+      "nearby",
+      "blue",
+      "orange",
+      "backpack",
+      "possibly",
+      "bag"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Nearby, a boy in an orange shirt is holding a blue bag, possibly a backpack.",
+    "objects": [
+      "shirt",
+      "boy",
+      "nearby",
+      "blue",
+      "orange",
+      "backpack",
+      "possibly",
+      "bag"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The boys are wearing football uniforms, their attire bright and colorful, indicating they are part of a team.",
+    "objects": [
+      "their",
+      "boys",
+      "part",
+      "attire",
+      "bright",
+      "colorful",
+      "team",
+      "they"
+    ],
+    "actions": [
+      "indicating",
+      "uniforms",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The boys are wearing football uniforms, their attire bright and colorful, indicating they are part of a team.",
+    "objects": [
+      "their",
+      "boys",
+      "part",
+      "attire",
+      "bright",
+      "colorful",
+      "team",
+      "they"
+    ],
+    "actions": [
+      "indicating",
+      "uniforms",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The boys are wearing football uniforms, their attire bright and colorful, indicating they are part of a team.",
+    "objects": [
+      "their",
+      "boys",
+      "part",
+      "attire",
+      "bright",
+      "colorful",
+      "team",
+      "they"
+    ],
+    "actions": [
+      "indicating",
+      "uniforms",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The game is in full swing as one boy in a black shirt runs towards the other boy in a green shirt, who is holding a football.",
+    "objects": [
+      "shirt",
+      "boy",
+      "one",
+      "black",
+      "who",
+      "other",
+      "green",
+      "full"
+    ],
+    "actions": [
+      "towards",
+      "swing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The game is in full swing as one boy in a black shirt runs towards the other boy in a green shirt, who is holding a football.",
+    "objects": [
+      "shirt",
+      "boy",
+      "one",
+      "black",
+      "who",
+      "other",
+      "green",
+      "full"
+    ],
+    "actions": [
+      "towards",
+      "swing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The game is in full swing as one boy in a black shirt runs towards the other boy in a green shirt, who is holding a football.",
+    "objects": [
+      "shirt",
+      "boy",
+      "one",
+      "black",
+      "who",
+      "other",
+      "green",
+      "full"
+    ],
+    "actions": [
+      "towards",
+      "swing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The boy in the black shirt is wearing orange pants, adding to the colorful spectacle of the scene.",
+    "objects": [
+      "shirt",
+      "boy",
+      "orange",
+      "black",
+      "spectacle",
+      "colorful"
+    ],
+    "actions": [
+      "pants",
+      "adding",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The boy in the black shirt is wearing orange pants, adding to the colorful spectacle of the scene.",
+    "objects": [
+      "shirt",
+      "boy",
+      "orange",
+      "black",
+      "spectacle",
+      "colorful"
+    ],
+    "actions": [
+      "pants",
+      "adding",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The boy in the black shirt is wearing orange pants, adding to the colorful spectacle of the scene.",
+    "objects": [
+      "shirt",
+      "boy",
+      "orange",
+      "black",
+      "spectacle",
+      "colorful"
+    ],
+    "actions": [
+      "pants",
+      "adding",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The boy in the green shirt is running towards the boy in the blue hoodie, who is wearing white pants.",
+    "objects": [
+      "shirt",
+      "boy",
+      "blue",
+      "white",
+      "green",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "pants",
+      "running",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The boy in the green shirt is running towards the boy in the blue hoodie, who is wearing white pants.",
+    "objects": [
+      "shirt",
+      "boy",
+      "blue",
+      "white",
+      "green",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "pants",
+      "running",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The boy in the green shirt is running towards the boy in the blue hoodie, who is wearing white pants.",
+    "objects": [
+      "shirt",
+      "boy",
+      "blue",
+      "white",
+      "green",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "pants",
+      "running",
+      "towards",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The game is in full swing as the boy in the green shirt passes the ball to the boy in the blue hoodie, continuing the flow of the game.",
+    "objects": [
+      "shirt",
+      "boy",
+      "blue",
+      "flow",
+      "hoodie",
+      "green",
+      "full",
+      "ball"
+    ],
+    "actions": [
+      "passes",
+      "swing",
+      "continuing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The game is in full swing as the boy in the green shirt passes the ball to the boy in the blue hoodie, continuing the flow of the game.",
+    "objects": [
+      "shirt",
+      "boy",
+      "blue",
+      "flow",
+      "hoodie",
+      "green",
+      "full",
+      "ball"
+    ],
+    "actions": [
+      "passes",
+      "swing",
+      "continuing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The game is in full swing as the boy in the green shirt passes the ball to the boy in the blue hoodie, continuing the flow of the game.",
+    "objects": [
+      "shirt",
+      "boy",
+      "blue",
+      "flow",
+      "hoodie",
+      "green",
+      "full",
+      "ball"
+    ],
+    "actions": [
+      "passes",
+      "swing",
+      "continuing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is filled with energy and excitement, a testament to the joy of youth sports.",
+    "objects": [
+      "testament",
+      "energy",
+      "excitement",
+      "youth",
+      "joy"
+    ],
+    "actions": [
+      "filled",
+      "sports"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is filled with energy and excitement, a testament to the joy of youth sports.",
+    "objects": [
+      "testament",
+      "energy",
+      "excitement",
+      "youth",
+      "joy"
+    ],
+    "actions": [
+      "filled",
+      "sports"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,611 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene at a baseball batting cage.",
+    "objects": [
+      "baseball",
+      "cage",
+      "lively"
+    ],
+    "actions": [
+      "batting",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively scene at a baseball batting cage.",
+    "objects": [
+      "baseball",
+      "cage",
+      "lively"
+    ],
+    "actions": [
+      "batting",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively scene at a baseball batting cage.",
+    "objects": [
+      "baseball",
+      "cage",
+      "lively"
+    ],
+    "actions": [
+      "batting",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively scene at a baseball batting cage.",
+    "objects": [
+      "baseball",
+      "cage",
+      "lively"
+    ],
+    "actions": [
+      "batting",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video depicts a lively scene at a baseball batting cage.",
+    "objects": [
+      "baseball",
+      "cage",
+      "lively"
+    ],
+    "actions": [
+      "batting",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "A man, dressed in a blue hoodie and shorts, is standing in the cage, holding a baseball bat, and appears to be getting ready to swing at a ball.",
+    "objects": [
+      "cage",
+      "ready",
+      "blue",
+      "baseball",
+      "ball",
+      "hoodie",
+      "bat",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "holding",
+      "swing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man, dressed in a blue hoodie and shorts, is standing in the cage, holding a baseball bat, and appears to be getting ready to swing at a ball.",
+    "objects": [
+      "cage",
+      "ready",
+      "blue",
+      "baseball",
+      "ball",
+      "hoodie",
+      "bat",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "holding",
+      "swing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A man, dressed in a blue hoodie and shorts, is standing in the cage, holding a baseball bat, and appears to be getting ready to swing at a ball.",
+    "objects": [
+      "cage",
+      "ready",
+      "blue",
+      "baseball",
+      "ball",
+      "hoodie",
+      "bat",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "holding",
+      "swing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A man, dressed in a blue hoodie and shorts, is standing in the cage, holding a baseball bat, and appears to be getting ready to swing at a ball.",
+    "objects": [
+      "cage",
+      "ready",
+      "blue",
+      "baseball",
+      "ball",
+      "hoodie",
+      "bat",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "holding",
+      "swing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "A man, dressed in a blue hoodie and shorts, is standing in the cage, holding a baseball bat, and appears to be getting ready to swing at a ball.",
+    "objects": [
+      "cage",
+      "ready",
+      "blue",
+      "baseball",
+      "ball",
+      "hoodie",
+      "bat",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "holding",
+      "swing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The cage is filled with people, all of whom are dressed in casual attire, some wearing baseball caps.",
+    "objects": [
+      "people",
+      "attire",
+      "cage",
+      "casual",
+      "whom",
+      "caps",
+      "some",
+      "baseball"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "filled"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The cage is filled with people, all of whom are dressed in casual attire, some wearing baseball caps.",
+    "objects": [
+      "people",
+      "attire",
+      "cage",
+      "casual",
+      "whom",
+      "caps",
+      "some",
+      "baseball"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "filled"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The cage is filled with people, all of whom are dressed in casual attire, some wearing baseball caps.",
+    "objects": [
+      "people",
+      "attire",
+      "cage",
+      "casual",
+      "whom",
+      "caps",
+      "some",
+      "baseball"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "filled"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The cage is filled with people, all of whom are dressed in casual attire, some wearing baseball caps.",
+    "objects": [
+      "people",
+      "attire",
+      "cage",
+      "casual",
+      "whom",
+      "caps",
+      "some",
+      "baseball"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "filled"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The cage is filled with people, all of whom are dressed in casual attire, some wearing baseball caps.",
+    "objects": [
+      "people",
+      "attire",
+      "cage",
+      "casual",
+      "whom",
+      "caps",
+      "some",
+      "baseball"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "filled"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the blue hoodie is positioned in the center of the cage, and he is looking towards the right side of the frame, possibly tracking the trajectory of the incoming ball.",
+    "objects": [
+      "trajectory",
+      "cage",
+      "possibly",
+      "blue",
+      "ball",
+      "center",
+      "hoodie",
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "incoming",
+      "looking",
+      "positioned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the blue hoodie is positioned in the center of the cage, and he is looking towards the right side of the frame, possibly tracking the trajectory of the incoming ball.",
+    "objects": [
+      "trajectory",
+      "cage",
+      "possibly",
+      "blue",
+      "ball",
+      "center",
+      "hoodie",
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "incoming",
+      "looking",
+      "positioned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the blue hoodie is positioned in the center of the cage, and he is looking towards the right side of the frame, possibly tracking the trajectory of the incoming ball.",
+    "objects": [
+      "trajectory",
+      "cage",
+      "possibly",
+      "blue",
+      "ball",
+      "center",
+      "hoodie",
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "incoming",
+      "looking",
+      "positioned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the blue hoodie is positioned in the center of the cage, and he is looking towards the right side of the frame, possibly tracking the trajectory of the incoming ball.",
+    "objects": [
+      "trajectory",
+      "cage",
+      "possibly",
+      "blue",
+      "ball",
+      "center",
+      "hoodie",
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "incoming",
+      "looking",
+      "positioned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the blue hoodie is positioned in the center of the cage, and he is looking towards the right side of the frame, possibly tracking the trajectory of the incoming ball.",
+    "objects": [
+      "trajectory",
+      "cage",
+      "possibly",
+      "blue",
+      "ball",
+      "center",
+      "hoodie",
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "incoming",
+      "looking",
+      "positioned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The ball itself is in mid-air, captured in the top left corner of the frame, just about to reach the batter.",
+    "objects": [
+      "reach",
+      "batter",
+      "just",
+      "top",
+      "ball",
+      "about",
+      "corner",
+      "itself"
+    ],
+    "actions": [
+      "captured"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The ball itself is in mid-air, captured in the top left corner of the frame, just about to reach the batter.",
+    "objects": [
+      "reach",
+      "batter",
+      "just",
+      "top",
+      "ball",
+      "about",
+      "corner",
+      "itself"
+    ],
+    "actions": [
+      "captured"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The ball itself is in mid-air, captured in the top left corner of the frame, just about to reach the batter.",
+    "objects": [
+      "reach",
+      "batter",
+      "just",
+      "top",
+      "ball",
+      "about",
+      "corner",
+      "itself"
+    ],
+    "actions": [
+      "captured"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The ball itself is in mid-air, captured in the top left corner of the frame, just about to reach the batter.",
+    "objects": [
+      "reach",
+      "batter",
+      "just",
+      "top",
+      "ball",
+      "about",
+      "corner",
+      "itself"
+    ],
+    "actions": [
+      "captured"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The ball itself is in mid-air, captured in the top left corner of the frame, just about to reach the batter.",
+    "objects": [
+      "reach",
+      "batter",
+      "just",
+      "top",
+      "ball",
+      "about",
+      "corner",
+      "itself"
+    ],
+    "actions": [
+      "captured"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The cage is enclosed by a net, which seems to be the boundary for the game, and there's a green light visible in the top right corner, possibly indicating when the game is in progress.",
+    "objects": [
+      "net",
+      "cage",
+      "possibly",
+      "green",
+      "game",
+      "top",
+      "light",
+      "which"
+    ],
+    "actions": [
+      "seems",
+      "progress",
+      "indicating",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The cage is enclosed by a net, which seems to be the boundary for the game, and there's a green light visible in the top right corner, possibly indicating when the game is in progress.",
+    "objects": [
+      "net",
+      "cage",
+      "possibly",
+      "green",
+      "game",
+      "top",
+      "light",
+      "which"
+    ],
+    "actions": [
+      "seems",
+      "progress",
+      "indicating",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The cage is enclosed by a net, which seems to be the boundary for the game, and there's a green light visible in the top right corner, possibly indicating when the game is in progress.",
+    "objects": [
+      "net",
+      "cage",
+      "possibly",
+      "green",
+      "game",
+      "top",
+      "light",
+      "which"
+    ],
+    "actions": [
+      "seems",
+      "progress",
+      "indicating",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The cage is enclosed by a net, which seems to be the boundary for the game, and there's a green light visible in the top right corner, possibly indicating when the game is in progress.",
+    "objects": [
+      "net",
+      "cage",
+      "possibly",
+      "green",
+      "game",
+      "top",
+      "light",
+      "which"
+    ],
+    "actions": [
+      "seems",
+      "progress",
+      "indicating",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The cage is enclosed by a net, which seems to be the boundary for the game, and there's a green light visible in the top right corner, possibly indicating when the game is in progress.",
+    "objects": [
+      "net",
+      "cage",
+      "possibly",
+      "green",
+      "game",
+      "top",
+      "light",
+      "which"
+    ],
+    "actions": [
+      "seems",
+      "progress",
+      "indicating",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is full of anticipation as everyone seems to be waiting for the ball to hit the bat.",
+    "objects": [
+      "full",
+      "anticipation",
+      "ball",
+      "everyone",
+      "hit",
+      "bat"
+    ],
+    "actions": [
+      "seems",
+      "waiting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is full of anticipation as everyone seems to be waiting for the ball to hit the bat.",
+    "objects": [
+      "full",
+      "anticipation",
+      "ball",
+      "everyone",
+      "hit",
+      "bat"
+    ],
+    "actions": [
+      "seems",
+      "waiting"
+    ],
+    "segment_id": 6
+  }
+]

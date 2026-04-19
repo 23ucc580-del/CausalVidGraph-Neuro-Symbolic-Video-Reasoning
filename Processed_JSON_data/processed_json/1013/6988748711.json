@@ -1,0 +1,594 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman is standing in a garden, wearing a blue hoodie and blue jeans, holding a white bucket.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "garden",
+      "hoodie",
+      "bucket"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman is standing in a garden, wearing a blue hoodie and blue jeans, holding a white bucket.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "garden",
+      "hoodie",
+      "bucket"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman is standing in a garden, wearing a blue hoodie and blue jeans, holding a white bucket.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "garden",
+      "hoodie",
+      "bucket"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman is standing in a garden, wearing a blue hoodie and blue jeans, holding a white bucket.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "garden",
+      "hoodie",
+      "bucket"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is using a shovel to move dirt from one area to another.",
+    "objects": [
+      "one",
+      "she",
+      "area",
+      "from",
+      "move",
+      "shovel",
+      "dirt"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is using a shovel to move dirt from one area to another.",
+    "objects": [
+      "one",
+      "she",
+      "area",
+      "from",
+      "move",
+      "shovel",
+      "dirt"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is using a shovel to move dirt from one area to another.",
+    "objects": [
+      "one",
+      "she",
+      "area",
+      "from",
+      "move",
+      "shovel",
+      "dirt"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is using a shovel to move dirt from one area to another.",
+    "objects": [
+      "one",
+      "she",
+      "area",
+      "from",
+      "move",
+      "shovel",
+      "dirt"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another person, dressed in a white shirt, is standing in the background, observing the activity.",
+    "objects": [
+      "activity",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "observing",
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another person, dressed in a white shirt, is standing in the background, observing the activity.",
+    "objects": [
+      "activity",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "observing",
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another person, dressed in a white shirt, is standing in the background, observing the activity.",
+    "objects": [
+      "activity",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "observing",
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another person, dressed in a white shirt, is standing in the background, observing the activity.",
+    "objects": [
+      "activity",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "observing",
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "In the distance, a man is walking with a shovel, seemingly engaging in the same task.",
+    "objects": [
+      "distance",
+      "same",
+      "seemingly",
+      "task",
+      "shovel",
+      "man"
+    ],
+    "actions": [
+      "engaging",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "In the distance, a man is walking with a shovel, seemingly engaging in the same task.",
+    "objects": [
+      "distance",
+      "same",
+      "seemingly",
+      "task",
+      "shovel",
+      "man"
+    ],
+    "actions": [
+      "engaging",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "In the distance, a man is walking with a shovel, seemingly engaging in the same task.",
+    "objects": [
+      "distance",
+      "same",
+      "seemingly",
+      "task",
+      "shovel",
+      "man"
+    ],
+    "actions": [
+      "engaging",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "In the distance, a man is walking with a shovel, seemingly engaging in the same task.",
+    "objects": [
+      "distance",
+      "same",
+      "seemingly",
+      "task",
+      "shovel",
+      "man"
+    ],
+    "actions": [
+      "engaging",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The garden is filled with various plants and trees, and there are several stones scattered around the area.",
+    "objects": [
+      "there",
+      "several",
+      "garden",
+      "around",
+      "area"
+    ],
+    "actions": [
+      "plants",
+      "filled",
+      "stones",
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The garden is filled with various plants and trees, and there are several stones scattered around the area.",
+    "objects": [
+      "there",
+      "several",
+      "garden",
+      "around",
+      "area"
+    ],
+    "actions": [
+      "plants",
+      "filled",
+      "stones",
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The garden is filled with various plants and trees, and there are several stones scattered around the area.",
+    "objects": [
+      "there",
+      "several",
+      "garden",
+      "around",
+      "area"
+    ],
+    "actions": [
+      "plants",
+      "filled",
+      "stones",
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The garden is filled with various plants and trees, and there are several stones scattered around the area.",
+    "objects": [
+      "there",
+      "several",
+      "garden",
+      "around",
+      "area"
+    ],
+    "actions": [
+      "plants",
+      "filled",
+      "stones",
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman's blue hoodie and blue jeans contrast with the greenery of the garden, making her stand out in the scene.",
+    "objects": [
+      "greenery",
+      "stand",
+      "contrast",
+      "blue",
+      "garden",
+      "out",
+      "her",
+      "hoodie"
+    ],
+    "actions": [
+      "making",
+      "woman's",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman's blue hoodie and blue jeans contrast with the greenery of the garden, making her stand out in the scene.",
+    "objects": [
+      "greenery",
+      "stand",
+      "contrast",
+      "blue",
+      "garden",
+      "out",
+      "her",
+      "hoodie"
+    ],
+    "actions": [
+      "making",
+      "woman's",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman's blue hoodie and blue jeans contrast with the greenery of the garden, making her stand out in the scene.",
+    "objects": [
+      "greenery",
+      "stand",
+      "contrast",
+      "blue",
+      "garden",
+      "out",
+      "her",
+      "hoodie"
+    ],
+    "actions": [
+      "making",
+      "woman's",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman's blue hoodie and blue jeans contrast with the greenery of the garden, making her stand out in the scene.",
+    "objects": [
+      "greenery",
+      "stand",
+      "contrast",
+      "blue",
+      "garden",
+      "out",
+      "her",
+      "hoodie"
+    ],
+    "actions": [
+      "making",
+      "woman's",
+      "jeans"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The white bucket she holds is likely filled with dirt, and the shovel she uses is a common tool for gardening tasks.",
+    "objects": [
+      "white",
+      "she",
+      "common",
+      "uses",
+      "shovel",
+      "bucket",
+      "tool",
+      "likely"
+    ],
+    "actions": [
+      "gardening",
+      "tasks",
+      "filled",
+      "holds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The white bucket she holds is likely filled with dirt, and the shovel she uses is a common tool for gardening tasks.",
+    "objects": [
+      "white",
+      "she",
+      "common",
+      "uses",
+      "shovel",
+      "bucket",
+      "tool",
+      "likely"
+    ],
+    "actions": [
+      "gardening",
+      "tasks",
+      "filled",
+      "holds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The white bucket she holds is likely filled with dirt, and the shovel she uses is a common tool for gardening tasks.",
+    "objects": [
+      "white",
+      "she",
+      "common",
+      "uses",
+      "shovel",
+      "bucket",
+      "tool",
+      "likely"
+    ],
+    "actions": [
+      "gardening",
+      "tasks",
+      "filled",
+      "holds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The white bucket she holds is likely filled with dirt, and the shovel she uses is a common tool for gardening tasks.",
+    "objects": [
+      "white",
+      "she",
+      "common",
+      "uses",
+      "shovel",
+      "bucket",
+      "tool",
+      "likely"
+    ],
+    "actions": [
+      "gardening",
+      "tasks",
+      "filled",
+      "holds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The other person in the white shirt appears to be watching the woman's actions, possibly waiting for their turn to help or just observing the process.",
+    "objects": [
+      "their",
+      "other",
+      "white",
+      "possibly",
+      "shirt",
+      "help",
+      "just",
+      "turn"
+    ],
+    "actions": [
+      "actions",
+      "woman's",
+      "waiting",
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The other person in the white shirt appears to be watching the woman's actions, possibly waiting for their turn to help or just observing the process.",
+    "objects": [
+      "their",
+      "other",
+      "white",
+      "possibly",
+      "shirt",
+      "help",
+      "just",
+      "turn"
+    ],
+    "actions": [
+      "actions",
+      "woman's",
+      "waiting",
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The other person in the white shirt appears to be watching the woman's actions, possibly waiting for their turn to help or just observing the process.",
+    "objects": [
+      "their",
+      "other",
+      "white",
+      "possibly",
+      "shirt",
+      "help",
+      "just",
+      "turn"
+    ],
+    "actions": [
+      "actions",
+      "woman's",
+      "waiting",
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The other person in the white shirt appears to be watching the woman's actions, possibly waiting for their turn to help or just observing the process.",
+    "objects": [
+      "their",
+      "other",
+      "white",
+      "possibly",
+      "shirt",
+      "help",
+      "just",
+      "turn"
+    ],
+    "actions": [
+      "actions",
+      "woman's",
+      "waiting",
+      "watching"
+    ],
+    "segment_id": 7
+  }
+]

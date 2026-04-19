@@ -1,0 +1,481 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a close-up shot of a person's hands playing a video game, specifically on a guitar-shaped controller.",
+    "objects": [
+      "game",
+      "specifically",
+      "controller"
+    ],
+    "actions": [
+      "starts",
+      "hands",
+      "person's",
+      "guitar-shaped"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The controller is white and appears to be a part of a game console, resembling a guitar, with buttons and a strumming bar.",
+    "objects": [
+      "controller",
+      "white",
+      "part",
+      "game",
+      "guitar",
+      "console",
+      "bar"
+    ],
+    "actions": [
+      "buttons",
+      "resembling",
+      "strumming"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The player is wearing a black shirt and holding a guitar-shaped controller.",
+    "objects": [
+      "controller",
+      "black",
+      "shirt",
+      "player"
+    ],
+    "actions": [
+      "guitar-shaped",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "Next, the scene cuts to a room where a man is standing in front of a television screen.",
+    "objects": [
+      "room",
+      "man",
+      "television",
+      "cuts",
+      "screen",
+      "where"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "He is holding a guitar-shaped controller and appears to be playing the game.",
+    "objects": [
+      "controller",
+      "game"
+    ],
+    "actions": [
+      "guitar-shaped",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "A woman is sitting nearby, watching the game.",
+    "objects": [
+      "game",
+      "woman",
+      "nearby"
+    ],
+    "actions": [
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans to the right, revealing a bus with the words \"The John Lennon Educational Tours\" written on its side.",
+    "objects": [
+      "written",
+      "lennon",
+      "its",
+      "pans",
+      "side",
+      "john",
+      "educational",
+      "bus"
+    ],
+    "actions": [
+      "words",
+      "revealing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "A man is standing on the left side of the bus, playing the guitar-shaped controller and looking at the screen.",
+    "objects": [
+      "controller",
+      "man",
+      "side",
+      "screen",
+      "bus"
+    ],
+    "actions": [
+      "guitar-shaped",
+      "playing",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "He is wearing a black shirt and appears to be fully engrossed in the game.",
+    "objects": [
+      "game",
+      "black",
+      "fully",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "engrossed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then cuts back to the man playing the game, and the woman watches him.",
+    "objects": [
+      "game",
+      "man",
+      "him",
+      "cuts",
+      "woman",
+      "then"
+    ],
+    "actions": [
+      "playing",
+      "watches"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene then shifts to the left side of the bus, where a man is standing, holding the guitar-shaped controller.",
+    "objects": [
+      "controller",
+      "man",
+      "side",
+      "where",
+      "bus",
+      "then"
+    ],
+    "actions": [
+      "guitar-shaped",
+      "shifts",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "He is wearing a blue hoodie and seems to be playing the game.",
+    "objects": [
+      "game",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "seems"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera cuts back to the man on the right, and he continues to play the game.",
+    "objects": [
+      "play",
+      "cuts",
+      "man",
+      "game"
+    ],
+    "actions": [
+      "continues"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman on the left watches him.",
+    "objects": [
+      "woman",
+      "him"
+    ],
+    "actions": [
+      "watches"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then pans to the left, and the man is seen standing, playing the game.",
+    "objects": [
+      "game",
+      "man",
+      "pans",
+      "then"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "He is wearing a black shirt and holding the guitar-shaped controller.",
+    "objects": [
+      "controller",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "guitar-shaped",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then cuts back to the man on the right, and he plays the game.",
+    "objects": [
+      "game",
+      "cuts",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "plays"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman on the left watches him.",
+    "objects": [
+      "woman",
+      "him"
+    ],
+    "actions": [
+      "watches"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then cuts back to the left, and the man is standing, holding the guitar-shaped controller.",
+    "objects": [
+      "controller",
+      "cuts",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "guitar-shaped",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "He is wearing a white shirt and appears to be playing the game.",
+    "objects": [
+      "game",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then cuts back to the man on the right, and he continues to play the game.",
+    "objects": [
+      "game",
+      "man",
+      "cuts",
+      "play",
+      "then"
+    ],
+    "actions": [
+      "continues"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman on the left watches him.",
+    "objects": [
+      "woman",
+      "him"
+    ],
+    "actions": [
+      "watches"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then pans to the left, and the man is seen standing, playing the game.",
+    "objects": [
+      "game",
+      "man",
+      "pans",
+      "then"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "He is wearing a white shirt and holding the guitar-shaped controller.",
+    "objects": [
+      "controller",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "guitar-shaped",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then cuts back to the man on the right, and he plays the game.",
+    "objects": [
+      "game",
+      "cuts",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "plays"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman on the left watches him.",
+    "objects": [
+      "woman",
+      "him"
+    ],
+    "actions": [
+      "watches"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then cuts back to the left, and the man is standing, playing the game.",
+    "objects": [
+      "game",
+      "cuts",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "He is wearing a black shirt and holding the guitar-shaped controller.",
+    "objects": [
+      "controller",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "guitar-shaped",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then cuts back to the man on the right, and he continues to play the game.",
+    "objects": [
+      "game",
+      "man",
+      "cuts",
+      "play",
+      "then"
+    ],
+    "actions": [
+      "continues"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman on the left watches him.",
+    "objects": [
+      "woman",
+      "him"
+    ],
+    "actions": [
+      "watches"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera then pans to the left, and the man is seen, playing the game.",
+    "objects": [
+      "game",
+      "man",
+      "pans",
+      "then"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "He is wearing a blue hoodie and holding the guitar-shaped controller.",
+    "objects": [
+      "controller",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "guitar-shaped",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 31
+  }
+]

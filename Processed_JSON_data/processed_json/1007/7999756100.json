@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people enjoying a day out in the mountains.",
+    "objects": [
+      "people",
+      "see",
+      "out",
+      "day",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "mountains",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people enjoying a day out in the mountains.",
+    "objects": [
+      "people",
+      "see",
+      "out",
+      "day",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "mountains",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people enjoying a day out in the mountains.",
+    "objects": [
+      "people",
+      "see",
+      "out",
+      "day",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "mountains",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with three individuals standing on a grassy hillside, taking in the breathtaking views of the surrounding peaks.",
+    "objects": [
+      "three",
+      "grassy",
+      "hillside"
+    ],
+    "actions": [
+      "views",
+      "standing",
+      "surrounding",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with three individuals standing on a grassy hillside, taking in the breathtaking views of the surrounding peaks.",
+    "objects": [
+      "three",
+      "grassy",
+      "hillside"
+    ],
+    "actions": [
+      "views",
+      "standing",
+      "surrounding",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with three individuals standing on a grassy hillside, taking in the breathtaking views of the surrounding peaks.",
+    "objects": [
+      "three",
+      "grassy",
+      "hillside"
+    ],
+    "actions": [
+      "views",
+      "standing",
+      "surrounding",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One of them is wearing a blue hoodie, another is in a black jacket, and the third is dressed in a white shirt.",
+    "objects": [
+      "one",
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "them",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "One of them is wearing a blue hoodie, another is in a black jacket, and the third is dressed in a white shirt.",
+    "objects": [
+      "one",
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "them",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "One of them is wearing a blue hoodie, another is in a black jacket, and the third is dressed in a white shirt.",
+    "objects": [
+      "one",
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "them",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They seem to be friends or acquaintances, engaged in conversation.",
+    "objects": [
+      "they",
+      "conversation",
+      "seem"
+    ],
+    "actions": [
+      "engaged",
+      "friends",
+      "acquaintances"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They seem to be friends or acquaintances, engaged in conversation.",
+    "objects": [
+      "they",
+      "conversation",
+      "seem"
+    ],
+    "actions": [
+      "engaged",
+      "friends",
+      "acquaintances"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They seem to be friends or acquaintances, engaged in conversation.",
+    "objects": [
+      "they",
+      "conversation",
+      "seem"
+    ],
+    "actions": [
+      "engaged",
+      "friends",
+      "acquaintances"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "In the next scene, one of the individuals is lying on the ground, possibly taking a break or enjoying the tranquility of the surroundings.",
+    "objects": [
+      "one",
+      "break",
+      "possibly",
+      "tranquility",
+      "ground"
+    ],
+    "actions": [
+      "lying",
+      "individuals",
+      "taking",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "In the next scene, one of the individuals is lying on the ground, possibly taking a break or enjoying the tranquility of the surroundings.",
+    "objects": [
+      "one",
+      "break",
+      "possibly",
+      "tranquility",
+      "ground"
+    ],
+    "actions": [
+      "lying",
+      "individuals",
+      "taking",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "In the next scene, one of the individuals is lying on the ground, possibly taking a break or enjoying the tranquility of the surroundings.",
+    "objects": [
+      "one",
+      "break",
+      "possibly",
+      "tranquility",
+      "ground"
+    ],
+    "actions": [
+      "lying",
+      "individuals",
+      "taking",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "This person is wearing a red shirt.",
+    "objects": [
+      "this",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "This person is wearing a red shirt.",
+    "objects": [
+      "this",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "This person is wearing a red shirt.",
+    "objects": [
+      "this",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "Next, we see a man with a backpack, walking down a dirt path.",
+    "objects": [
+      "path",
+      "see",
+      "man",
+      "backpack",
+      "dirt"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "Next, we see a man with a backpack, walking down a dirt path.",
+    "objects": [
+      "path",
+      "see",
+      "man",
+      "backpack",
+      "dirt"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "Next, we see a man with a backpack, walking down a dirt path.",
+    "objects": [
+      "path",
+      "see",
+      "man",
+      "backpack",
+      "dirt"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "He appears to be heading towards a building or a trail marker, perhaps to continue his journey.",
+    "objects": [
+      "journey",
+      "continue",
+      "trail",
+      "marker",
+      "his"
+    ],
+    "actions": [
+      "towards",
+      "perhaps",
+      "building",
+      "heading"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "He appears to be heading towards a building or a trail marker, perhaps to continue his journey.",
+    "objects": [
+      "journey",
+      "continue",
+      "trail",
+      "marker",
+      "his"
+    ],
+    "actions": [
+      "towards",
+      "perhaps",
+      "building",
+      "heading"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "He appears to be heading towards a building or a trail marker, perhaps to continue his journey.",
+    "objects": [
+      "journey",
+      "continue",
+      "trail",
+      "marker",
+      "his"
+    ],
+    "actions": [
+      "towards",
+      "perhaps",
+      "building",
+      "heading"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Further on, a man in a blue jacket is seen kneeling beside a person lying on the ground, offering assistance or comfort.",
+    "objects": [
+      "comfort",
+      "further",
+      "jacket",
+      "blue",
+      "beside",
+      "assistance",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "kneeling",
+      "offering",
+      "lying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Further on, a man in a blue jacket is seen kneeling beside a person lying on the ground, offering assistance or comfort.",
+    "objects": [
+      "comfort",
+      "further",
+      "jacket",
+      "blue",
+      "beside",
+      "assistance",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "kneeling",
+      "offering",
+      "lying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Further on, a man in a blue jacket is seen kneeling beside a person lying on the ground, offering assistance or comfort.",
+    "objects": [
+      "comfort",
+      "further",
+      "jacket",
+      "blue",
+      "beside",
+      "assistance",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "kneeling",
+      "offering",
+      "lying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "This interaction suggests a moment of camaraderie and support among the group.",
+    "objects": [
+      "support",
+      "camaraderie",
+      "interaction",
+      "moment",
+      "among",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "suggests"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "This interaction suggests a moment of camaraderie and support among the group.",
+    "objects": [
+      "support",
+      "camaraderie",
+      "interaction",
+      "moment",
+      "among",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "suggests"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "This interaction suggests a moment of camaraderie and support among the group.",
+    "objects": [
+      "support",
+      "camaraderie",
+      "interaction",
+      "moment",
+      "among",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "suggests"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Finally, the camera pans to a person lying on the ground, appearing to be resting or relaxing.",
+    "objects": [
+      "finally",
+      "ground",
+      "pans"
+    ],
+    "actions": [
+      "appearing",
+      "lying",
+      "resting",
+      "relaxing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Finally, the camera pans to a person lying on the ground, appearing to be resting or relaxing.",
+    "objects": [
+      "finally",
+      "ground",
+      "pans"
+    ],
+    "actions": [
+      "appearing",
+      "lying",
+      "resting",
+      "relaxing"
+    ],
+    "segment_id": 10
+  }
+]

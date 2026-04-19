@@ -1,0 +1,578 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people gathered around a picnic table, enjoying a casual outdoor gathering.",
+    "objects": [
+      "casual",
+      "people",
+      "see",
+      "group",
+      "table",
+      "picnic",
+      "around",
+      "outdoor"
+    ],
+    "actions": [
+      "gathered",
+      "gathering",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people gathered around a picnic table, enjoying a casual outdoor gathering.",
+    "objects": [
+      "casual",
+      "people",
+      "see",
+      "group",
+      "table",
+      "picnic",
+      "around",
+      "outdoor"
+    ],
+    "actions": [
+      "gathered",
+      "gathering",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene opens with a man dressed in a blue hoodie holding a beer bottle and smiling at the camera.",
+    "objects": [
+      "beer",
+      "man",
+      "hoodie",
+      "blue",
+      "bottle"
+    ],
+    "actions": [
+      "smiling",
+      "dressed",
+      "opens",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a man dressed in a blue hoodie holding a beer bottle and smiling at the camera.",
+    "objects": [
+      "beer",
+      "man",
+      "hoodie",
+      "blue",
+      "bottle"
+    ],
+    "actions": [
+      "smiling",
+      "dressed",
+      "opens",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He takes a sip of his drink, setting the tone for the relaxed atmosphere.",
+    "objects": [
+      "sip",
+      "tone",
+      "drink",
+      "atmosphere",
+      "his"
+    ],
+    "actions": [
+      "takes",
+      "relaxed",
+      "setting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "He takes a sip of his drink, setting the tone for the relaxed atmosphere.",
+    "objects": [
+      "sip",
+      "tone",
+      "drink",
+      "atmosphere",
+      "his"
+    ],
+    "actions": [
+      "takes",
+      "relaxed",
+      "setting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "As he puts his beer bottle down, a woman in a black shirt with a beer in her hand appears, joining in the cheerful moment.",
+    "objects": [
+      "beer",
+      "woman",
+      "her",
+      "puts",
+      "hand",
+      "cheerful",
+      "shirt",
+      "moment"
+    ],
+    "actions": [
+      "joining"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "As he puts his beer bottle down, a woman in a black shirt with a beer in her hand appears, joining in the cheerful moment.",
+    "objects": [
+      "beer",
+      "woman",
+      "her",
+      "puts",
+      "hand",
+      "cheerful",
+      "shirt",
+      "moment"
+    ],
+    "actions": [
+      "joining"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "They both share a laugh, adding to the jovial ambiance.",
+    "objects": [
+      "jovial",
+      "ambiance",
+      "share",
+      "both",
+      "they",
+      "laugh"
+    ],
+    "actions": [
+      "adding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "They both share a laugh, adding to the jovial ambiance.",
+    "objects": [
+      "jovial",
+      "ambiance",
+      "share",
+      "both",
+      "they",
+      "laugh"
+    ],
+    "actions": [
+      "adding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "A woman in a green top, holding a beer bottle, stands up, possibly to get a better view of something or to join in the conversation.",
+    "objects": [
+      "beer",
+      "get",
+      "woman",
+      "better",
+      "join",
+      "green",
+      "conversation",
+      "bottle"
+    ],
+    "actions": [
+      "something",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman in a green top, holding a beer bottle, stands up, possibly to get a better view of something or to join in the conversation.",
+    "objects": [
+      "beer",
+      "get",
+      "woman",
+      "better",
+      "join",
+      "green",
+      "conversation",
+      "bottle"
+    ],
+    "actions": [
+      "something",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "She walks away, leaving behind the others, perhaps to explore the surroundings or attend to something else.",
+    "objects": [
+      "behind",
+      "away",
+      "she",
+      "else",
+      "explore",
+      "attend"
+    ],
+    "actions": [
+      "something",
+      "walks",
+      "perhaps",
+      "surroundings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "She walks away, leaving behind the others, perhaps to explore the surroundings or attend to something else.",
+    "objects": [
+      "behind",
+      "away",
+      "she",
+      "else",
+      "explore",
+      "attend"
+    ],
+    "actions": [
+      "something",
+      "walks",
+      "perhaps",
+      "surroundings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "Her action adds a dynamic element to the scene.",
+    "objects": [
+      "element",
+      "dynamic",
+      "her",
+      "adds",
+      "action"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "Her action adds a dynamic element to the scene.",
+    "objects": [
+      "element",
+      "dynamic",
+      "her",
+      "adds",
+      "action"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a white shirt, wearing a ring, stands near the table, possibly in conversation or waiting for his turn to join in the fun.",
+    "objects": [
+      "his",
+      "white",
+      "man",
+      "fun",
+      "join",
+      "turn",
+      "table",
+      "conversation"
+    ],
+    "actions": [
+      "wearing",
+      "waiting",
+      "ring",
+      "stands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a white shirt, wearing a ring, stands near the table, possibly in conversation or waiting for his turn to join in the fun.",
+    "objects": [
+      "his",
+      "white",
+      "man",
+      "fun",
+      "join",
+      "turn",
+      "table",
+      "conversation"
+    ],
+    "actions": [
+      "wearing",
+      "waiting",
+      "ring",
+      "stands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "His position suggests he's part of the group but not currently engaged in the main action.",
+    "objects": [
+      "but",
+      "main",
+      "part",
+      "not",
+      "currently",
+      "group",
+      "position",
+      "his"
+    ],
+    "actions": [
+      "engaged",
+      "suggests"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "His position suggests he's part of the group but not currently engaged in the main action.",
+    "objects": [
+      "but",
+      "main",
+      "part",
+      "not",
+      "currently",
+      "group",
+      "position",
+      "his"
+    ],
+    "actions": [
+      "engaged",
+      "suggests"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a blue shirt and jeans stands up, walking towards the camera, bringing her into the frame.",
+    "objects": [
+      "woman",
+      "her",
+      "blue",
+      "into",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "bringing",
+      "jeans"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a blue shirt and jeans stands up, walking towards the camera, bringing her into the frame.",
+    "objects": [
+      "woman",
+      "her",
+      "blue",
+      "into",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "towards",
+      "bringing",
+      "jeans"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "She holds a beer bottle, suggesting she might be joining the conversation or simply enjoying a refreshing drink.",
+    "objects": [
+      "beer",
+      "simply",
+      "she",
+      "might",
+      "drink",
+      "conversation",
+      "bottle"
+    ],
+    "actions": [
+      "joining",
+      "suggesting",
+      "enjoying",
+      "refreshing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "She holds a beer bottle, suggesting she might be joining the conversation or simply enjoying a refreshing drink.",
+    "objects": [
+      "beer",
+      "simply",
+      "she",
+      "might",
+      "drink",
+      "conversation",
+      "bottle"
+    ],
+    "actions": [
+      "joining",
+      "suggesting",
+      "enjoying",
+      "refreshing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "Her movement adds a sense of motion to the scene.",
+    "objects": [
+      "sense",
+      "movement",
+      "motion",
+      "her",
+      "adds"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "Her movement adds a sense of motion to the scene.",
+    "objects": [
+      "sense",
+      "movement",
+      "motion",
+      "her",
+      "adds"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a red shirt, wearing a beer bottle, stands next to the table.",
+    "objects": [
+      "beer",
+      "man",
+      "table",
+      "shirt",
+      "bottle"
+    ],
+    "actions": [
+      "wearing",
+      "stands",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a red shirt, wearing a beer bottle, stands next to the table.",
+    "objects": [
+      "beer",
+      "man",
+      "table",
+      "shirt",
+      "bottle"
+    ],
+    "actions": [
+      "wearing",
+      "stands",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "He seems to be part of the group, perhaps engaged in a conversation or just enjoying his drink.",
+    "objects": [
+      "drink",
+      "part",
+      "group",
+      "conversation",
+      "just",
+      "his"
+    ],
+    "actions": [
+      "enjoying",
+      "engaged",
+      "perhaps",
+      "seems"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "He seems to be part of the group, perhaps engaged in a conversation or just enjoying his drink.",
+    "objects": [
+      "drink",
+      "part",
+      "group",
+      "conversation",
+      "just",
+      "his"
+    ],
+    "actions": [
+      "enjoying",
+      "engaged",
+      "perhaps",
+      "seems"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "Another woman in a white shirt stands up, holding a beer bottle.",
+    "objects": [
+      "beer",
+      "woman",
+      "white",
+      "shirt",
+      "bottle"
+    ],
+    "actions": [
+      "holding",
+      "stands"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "Another woman in a white shirt stands up, holding a beer bottle.",
+    "objects": [
+      "beer",
+      "woman",
+      "white",
+      "shirt",
+      "bottle"
+    ],
+    "actions": [
+      "holding",
+      "stands"
+    ],
+    "segment_id": 15
+  }
+]

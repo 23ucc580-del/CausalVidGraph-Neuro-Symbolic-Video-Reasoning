@@ -1,0 +1,572 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see two young boys engaging in a boxing match in a boxing ring.",
+    "objects": [
+      "two",
+      "boys",
+      "see",
+      "young",
+      "match"
+    ],
+    "actions": [
+      "ring",
+      "engaging",
+      "boxing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see two young boys engaging in a boxing match in a boxing ring.",
+    "objects": [
+      "two",
+      "boys",
+      "see",
+      "young",
+      "match"
+    ],
+    "actions": [
+      "ring",
+      "engaging",
+      "boxing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see two young boys engaging in a boxing match in a boxing ring.",
+    "objects": [
+      "two",
+      "boys",
+      "see",
+      "young",
+      "match"
+    ],
+    "actions": [
+      "ring",
+      "engaging",
+      "boxing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The boy on the left, wearing a black shirt and green pants, is the first to initiate a strike by throwing a punch towards the other boy, who is wearing a white shirt and red pants.",
+    "objects": [
+      "other",
+      "boy",
+      "white",
+      "black",
+      "initiate",
+      "green",
+      "shirt",
+      "strike"
+    ],
+    "actions": [
+      "towards",
+      "pants",
+      "throwing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The boy on the left, wearing a black shirt and green pants, is the first to initiate a strike by throwing a punch towards the other boy, who is wearing a white shirt and red pants.",
+    "objects": [
+      "other",
+      "boy",
+      "white",
+      "black",
+      "initiate",
+      "green",
+      "shirt",
+      "strike"
+    ],
+    "actions": [
+      "towards",
+      "pants",
+      "throwing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The boy on the left, wearing a black shirt and green pants, is the first to initiate a strike by throwing a punch towards the other boy, who is wearing a white shirt and red pants.",
+    "objects": [
+      "other",
+      "boy",
+      "white",
+      "black",
+      "initiate",
+      "green",
+      "shirt",
+      "strike"
+    ],
+    "actions": [
+      "towards",
+      "pants",
+      "throwing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The boy on the right, reacting to the punch, defends himself by throwing a punch of his own, connecting with the boy's chest.",
+    "objects": [
+      "own",
+      "boy",
+      "chest",
+      "his",
+      "himself",
+      "punch"
+    ],
+    "actions": [
+      "reacting",
+      "boy's",
+      "throwing",
+      "defends"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The boy on the right, reacting to the punch, defends himself by throwing a punch of his own, connecting with the boy's chest.",
+    "objects": [
+      "own",
+      "boy",
+      "chest",
+      "his",
+      "himself",
+      "punch"
+    ],
+    "actions": [
+      "reacting",
+      "boy's",
+      "throwing",
+      "defends"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The boy on the right, reacting to the punch, defends himself by throwing a punch of his own, connecting with the boy's chest.",
+    "objects": [
+      "own",
+      "boy",
+      "chest",
+      "his",
+      "himself",
+      "punch"
+    ],
+    "actions": [
+      "reacting",
+      "boy's",
+      "throwing",
+      "defends"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Both boys then take a step back and observe each other's movements, preparing for their next strike.",
+    "objects": [
+      "their",
+      "each",
+      "both",
+      "boys",
+      "step",
+      "strike",
+      "take",
+      "observe"
+    ],
+    "actions": [
+      "preparing",
+      "movements",
+      "other's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Both boys then take a step back and observe each other's movements, preparing for their next strike.",
+    "objects": [
+      "their",
+      "each",
+      "both",
+      "boys",
+      "step",
+      "strike",
+      "take",
+      "observe"
+    ],
+    "actions": [
+      "preparing",
+      "movements",
+      "other's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Both boys then take a step back and observe each other's movements, preparing for their next strike.",
+    "objects": [
+      "their",
+      "each",
+      "both",
+      "boys",
+      "step",
+      "strike",
+      "take",
+      "observe"
+    ],
+    "actions": [
+      "preparing",
+      "movements",
+      "other's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The boy on the left, now on the right, throws another punch, this time connecting with the boy's face.",
+    "objects": [
+      "boy",
+      "face",
+      "now",
+      "punch",
+      "this",
+      "time"
+    ],
+    "actions": [
+      "connecting",
+      "boy's",
+      "throws"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The boy on the left, now on the right, throws another punch, this time connecting with the boy's face.",
+    "objects": [
+      "boy",
+      "face",
+      "now",
+      "punch",
+      "this",
+      "time"
+    ],
+    "actions": [
+      "connecting",
+      "boy's",
+      "throws"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The boy on the left, now on the right, throws another punch, this time connecting with the boy's face.",
+    "objects": [
+      "boy",
+      "face",
+      "now",
+      "punch",
+      "this",
+      "time"
+    ],
+    "actions": [
+      "connecting",
+      "boy's",
+      "throws"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The boy on the right, now on the left, retaliates by throwing a punch at the boy's chest.",
+    "objects": [
+      "now",
+      "boy",
+      "punch",
+      "chest"
+    ],
+    "actions": [
+      "boy's",
+      "throwing",
+      "retaliates"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy on the right, now on the left, retaliates by throwing a punch at the boy's chest.",
+    "objects": [
+      "now",
+      "boy",
+      "punch",
+      "chest"
+    ],
+    "actions": [
+      "boy's",
+      "throwing",
+      "retaliates"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy on the right, now on the left, retaliates by throwing a punch at the boy's chest.",
+    "objects": [
+      "now",
+      "boy",
+      "punch",
+      "chest"
+    ],
+    "actions": [
+      "boy's",
+      "throwing",
+      "retaliates"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy on the left then lands a punch on the boy's face.",
+    "objects": [
+      "face",
+      "then",
+      "boy",
+      "punch"
+    ],
+    "actions": [
+      "boy's",
+      "lands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy on the left then lands a punch on the boy's face.",
+    "objects": [
+      "face",
+      "then",
+      "boy",
+      "punch"
+    ],
+    "actions": [
+      "boy's",
+      "lands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The boy on the left then lands a punch on the boy's face.",
+    "objects": [
+      "face",
+      "then",
+      "boy",
+      "punch"
+    ],
+    "actions": [
+      "boy's",
+      "lands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The boy on the right throws a punch at the boy's chest, and the boy on the left throws a punch at the boy's head.",
+    "objects": [
+      "head",
+      "boy",
+      "punch",
+      "chest"
+    ],
+    "actions": [
+      "boy's",
+      "throws"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The boy on the right throws a punch at the boy's chest, and the boy on the left throws a punch at the boy's head.",
+    "objects": [
+      "head",
+      "boy",
+      "punch",
+      "chest"
+    ],
+    "actions": [
+      "boy's",
+      "throws"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The boy on the right throws a punch at the boy's chest, and the boy on the left throws a punch at the boy's head.",
+    "objects": [
+      "head",
+      "boy",
+      "punch",
+      "chest"
+    ],
+    "actions": [
+      "boy's",
+      "throws"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Both boys then take a step back and observe each other's movements once again, preparing for their next strike.",
+    "objects": [
+      "their",
+      "each",
+      "both",
+      "boys",
+      "step",
+      "strike",
+      "once",
+      "take"
+    ],
+    "actions": [
+      "preparing",
+      "movements",
+      "other's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Both boys then take a step back and observe each other's movements once again, preparing for their next strike.",
+    "objects": [
+      "their",
+      "each",
+      "both",
+      "boys",
+      "step",
+      "strike",
+      "once",
+      "take"
+    ],
+    "actions": [
+      "preparing",
+      "movements",
+      "other's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Both boys then take a step back and observe each other's movements once again, preparing for their next strike.",
+    "objects": [
+      "their",
+      "each",
+      "both",
+      "boys",
+      "step",
+      "strike",
+      "once",
+      "take"
+    ],
+    "actions": [
+      "preparing",
+      "movements",
+      "other's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The boy on the left, now on the right, throws a punch at the boy's face, which the boy on the right, now on the left, blocks with his glove.",
+    "objects": [
+      "boy",
+      "face",
+      "which",
+      "now",
+      "his",
+      "glove",
+      "punch"
+    ],
+    "actions": [
+      "boy's",
+      "blocks",
+      "throws"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The boy on the left, now on the right, throws a punch at the boy's face, which the boy on the right, now on the left, blocks with his glove.",
+    "objects": [
+      "boy",
+      "face",
+      "which",
+      "now",
+      "his",
+      "glove",
+      "punch"
+    ],
+    "actions": [
+      "boy's",
+      "blocks",
+      "throws"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The boy on the left, now on the right, throws a punch at the boy's face, which the boy on the right, now on the left, blocks with his glove.",
+    "objects": [
+      "boy",
+      "face",
+      "which",
+      "now",
+      "his",
+      "glove",
+      "punch"
+    ],
+    "actions": [
+      "boy's",
+      "blocks",
+      "throws"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The boy on the right then lands a punch on the boy's head.",
+    "objects": [
+      "then",
+      "boy",
+      "punch",
+      "head"
+    ],
+    "actions": [
+      "boy's",
+      "lands"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The boy on the right then lands a punch on the boy's head.",
+    "objects": [
+      "then",
+      "boy",
+      "punch",
+      "head"
+    ],
+    "actions": [
+      "boy's",
+      "lands"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is gathered in a living room, including a woman and two children.",
+    "objects": [
+      "people",
+      "woman",
+      "two",
+      "children",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is gathered in a living room, including a woman and two children.",
+    "objects": [
+      "people",
+      "woman",
+      "two",
+      "children",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people is gathered in a living room, including a woman and two children.",
+    "objects": [
+      "people",
+      "woman",
+      "two",
+      "children",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people is gathered in a living room, including a woman and two children.",
+    "objects": [
+      "people",
+      "woman",
+      "two",
+      "children",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is sitting on the floor and is wearing a gray shirt with a blue hoodie and has a blue toy in her hand.",
+    "objects": [
+      "woman",
+      "blue",
+      "has",
+      "shirt",
+      "gray",
+      "toy",
+      "her",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is sitting on the floor and is wearing a gray shirt with a blue hoodie and has a blue toy in her hand.",
+    "objects": [
+      "woman",
+      "blue",
+      "has",
+      "shirt",
+      "gray",
+      "toy",
+      "her",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is sitting on the floor and is wearing a gray shirt with a blue hoodie and has a blue toy in her hand.",
+    "objects": [
+      "woman",
+      "blue",
+      "has",
+      "shirt",
+      "gray",
+      "toy",
+      "her",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is sitting on the floor and is wearing a gray shirt with a blue hoodie and has a blue toy in her hand.",
+    "objects": [
+      "woman",
+      "blue",
+      "has",
+      "shirt",
+      "gray",
+      "toy",
+      "her",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A young girl is standing next to her, wearing a pink shirt and holding a toy.",
+    "objects": [
+      "pink",
+      "young",
+      "shirt",
+      "her",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A young girl is standing next to her, wearing a pink shirt and holding a toy.",
+    "objects": [
+      "pink",
+      "young",
+      "shirt",
+      "her",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A young girl is standing next to her, wearing a pink shirt and holding a toy.",
+    "objects": [
+      "pink",
+      "young",
+      "shirt",
+      "her",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A young girl is standing next to her, wearing a pink shirt and holding a toy.",
+    "objects": [
+      "pink",
+      "young",
+      "shirt",
+      "her",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is holding a baby, who is dressed in a white shirt with a teddy bear on it, while another young girl is also standing in the room, wearing a red shirt and holding a toy.",
+    "objects": [
+      "teddy",
+      "room",
+      "white",
+      "woman",
+      "while",
+      "young",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is holding a baby, who is dressed in a white shirt with a teddy bear on it, while another young girl is also standing in the room, wearing a red shirt and holding a toy.",
+    "objects": [
+      "teddy",
+      "room",
+      "white",
+      "woman",
+      "while",
+      "young",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is holding a baby, who is dressed in a white shirt with a teddy bear on it, while another young girl is also standing in the room, wearing a red shirt and holding a toy.",
+    "objects": [
+      "teddy",
+      "room",
+      "white",
+      "woman",
+      "while",
+      "young",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is holding a baby, who is dressed in a white shirt with a teddy bear on it, while another young girl is also standing in the room, wearing a red shirt and holding a toy.",
+    "objects": [
+      "teddy",
+      "room",
+      "white",
+      "woman",
+      "while",
+      "young",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The room has a blue carpet and a plant in the background.",
+    "objects": [
+      "carpet",
+      "plant",
+      "blue",
+      "has",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The room has a blue carpet and a plant in the background.",
+    "objects": [
+      "carpet",
+      "plant",
+      "blue",
+      "has",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The room has a blue carpet and a plant in the background.",
+    "objects": [
+      "carpet",
+      "plant",
+      "blue",
+      "has",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The room has a blue carpet and a plant in the background.",
+    "objects": [
+      "carpet",
+      "plant",
+      "blue",
+      "has",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman is laughing and looking at the camera, and the baby is looking up at her with a smile.",
+    "objects": [
+      "her",
+      "baby",
+      "smile",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "laughing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman is laughing and looking at the camera, and the baby is looking up at her with a smile.",
+    "objects": [
+      "her",
+      "baby",
+      "smile",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "laughing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman is laughing and looking at the camera, and the baby is looking up at her with a smile.",
+    "objects": [
+      "her",
+      "baby",
+      "smile",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "laughing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman is laughing and looking at the camera, and the baby is looking up at her with a smile.",
+    "objects": [
+      "her",
+      "baby",
+      "smile",
+      "woman"
+    ],
+    "actions": [
+      "looking",
+      "laughing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman is also holding a blue toy in her other hand.",
+    "objects": [
+      "other",
+      "woman",
+      "blue",
+      "her",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman is also holding a blue toy in her other hand.",
+    "objects": [
+      "other",
+      "woman",
+      "blue",
+      "her",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman is also holding a blue toy in her other hand.",
+    "objects": [
+      "other",
+      "woman",
+      "blue",
+      "her",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman is also holding a blue toy in her other hand.",
+    "objects": [
+      "other",
+      "woman",
+      "blue",
+      "her",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The video captures a warm and playful moment among family members.",
+    "objects": [
+      "warm",
+      "family",
+      "moment",
+      "among",
+      "playful"
+    ],
+    "actions": [
+      "members"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The video captures a warm and playful moment among family members.",
+    "objects": [
+      "warm",
+      "family",
+      "moment",
+      "among",
+      "playful"
+    ],
+    "actions": [
+      "members"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures a warm and playful moment among family members.",
+    "objects": [
+      "warm",
+      "family",
+      "moment",
+      "among",
+      "playful"
+    ],
+    "actions": [
+      "members"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures a warm and playful moment among family members.",
+    "objects": [
+      "warm",
+      "family",
+      "moment",
+      "among",
+      "playful"
+    ],
+    "actions": [
+      "members"
+    ],
+    "segment_id": 7
+  }
+]

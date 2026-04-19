@@ -1,0 +1,540 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a group of people are standing on a stage, with one man wearing a black shirt and holding a microphone.",
+    "objects": [
+      "stage",
+      "man",
+      "this",
+      "microphone",
+      "people",
+      "shirt",
+      "one",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a group of people are standing on a stage, with one man wearing a black shirt and holding a microphone.",
+    "objects": [
+      "stage",
+      "man",
+      "this",
+      "microphone",
+      "people",
+      "shirt",
+      "one",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The man in the center is singing into a microphone while another man in a blue shirt and hat holds a microphone.",
+    "objects": [
+      "hat",
+      "blue",
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "into",
+      "center"
+    ],
+    "actions": [
+      "singing",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The man in the center is singing into a microphone while another man in a blue shirt and hat holds a microphone.",
+    "objects": [
+      "hat",
+      "blue",
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "into",
+      "center"
+    ],
+    "actions": [
+      "singing",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man in the foreground is wearing a black jacket and has his hands up.",
+    "objects": [
+      "has",
+      "man",
+      "his",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "hands",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The man in the foreground is wearing a black jacket and has his hands up.",
+    "objects": [
+      "has",
+      "man",
+      "his",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "hands",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The man in the background, wearing a grey shirt, is holding a microphone as well.",
+    "objects": [
+      "man",
+      "microphone",
+      "shirt",
+      "grey",
+      "well"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The man in the background, wearing a grey shirt, is holding a microphone as well.",
+    "objects": [
+      "man",
+      "microphone",
+      "shirt",
+      "grey",
+      "well"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The man in the center is holding a microphone and singing while another man in a black shirt is smiling.",
+    "objects": [
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "smiling",
+      "singing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The man in the center is holding a microphone and singing while another man in a black shirt is smiling.",
+    "objects": [
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "smiling",
+      "singing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The man in the background is wearing a white shirt and holding a microphone.",
+    "objects": [
+      "white",
+      "man",
+      "microphone",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The man in the background is wearing a white shirt and holding a microphone.",
+    "objects": [
+      "white",
+      "man",
+      "microphone",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in the center is wearing a blue shirt and smiling while another man in a black shirt is singing.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "shirt",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "smiling",
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in the center is wearing a blue shirt and smiling while another man in a black shirt is singing.",
+    "objects": [
+      "blue",
+      "man",
+      "while",
+      "shirt",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "smiling",
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the foreground is wearing a hat and holding a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the foreground is wearing a hat and holding a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the background is wearing a grey shirt and holding a microphone.",
+    "objects": [
+      "microphone",
+      "man",
+      "shirt",
+      "grey"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the background is wearing a grey shirt and holding a microphone.",
+    "objects": [
+      "microphone",
+      "man",
+      "shirt",
+      "grey"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the center is wearing a white shirt and holding a microphone while another man in a black shirt is singing.",
+    "objects": [
+      "white",
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the center is wearing a white shirt and holding a microphone while another man in a black shirt is singing.",
+    "objects": [
+      "white",
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The man in the background is wearing a blue shirt and holding a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The man in the background is wearing a blue shirt and holding a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The man in the foreground is wearing a hat and smiling while another man in a black shirt is holding a microphone.",
+    "objects": [
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The man in the foreground is wearing a hat and smiling while another man in a black shirt is holding a microphone.",
+    "objects": [
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "black",
+      "hat"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the background is wearing a grey shirt and smiling.",
+    "objects": [
+      "man",
+      "shirt",
+      "grey"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the background is wearing a grey shirt and smiling.",
+    "objects": [
+      "man",
+      "shirt",
+      "grey"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the center is wearing a white shirt and holding a microphone while another man in a black shirt is singing.",
+    "objects": [
+      "white",
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the center is wearing a white shirt and holding a microphone while another man in a black shirt is singing.",
+    "objects": [
+      "white",
+      "man",
+      "while",
+      "microphone",
+      "shirt",
+      "black",
+      "center"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the foreground is wearing a black jacket and smiling while another man in a grey shirt is singing.",
+    "objects": [
+      "man",
+      "while",
+      "shirt",
+      "jacket",
+      "grey",
+      "black"
+    ],
+    "actions": [
+      "smiling",
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the foreground is wearing a black jacket and smiling while another man in a grey shirt is singing.",
+    "objects": [
+      "man",
+      "while",
+      "shirt",
+      "jacket",
+      "grey",
+      "black"
+    ],
+    "actions": [
+      "smiling",
+      "singing",
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the background is wearing a blue shirt and holding a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the background is wearing a blue shirt and holding a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

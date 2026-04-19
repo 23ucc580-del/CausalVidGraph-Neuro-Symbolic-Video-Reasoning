@@ -1,0 +1,535 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a domestic scene with a cat as the main character.",
+    "objects": [
+      "cat",
+      "character",
+      "domestic",
+      "see",
+      "this",
+      "main"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a domestic scene with a cat as the main character.",
+    "objects": [
+      "cat",
+      "character",
+      "domestic",
+      "see",
+      "this",
+      "main"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a domestic scene with a cat as the main character.",
+    "objects": [
+      "cat",
+      "character",
+      "domestic",
+      "see",
+      "this",
+      "main"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The cat is seen standing on a stove, which has a black burner, a white timer, and a black knob.",
+    "objects": [
+      "cat",
+      "white",
+      "stove",
+      "timer",
+      "black",
+      "burner",
+      "has",
+      "knob"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The cat is seen standing on a stove, which has a black burner, a white timer, and a black knob.",
+    "objects": [
+      "cat",
+      "white",
+      "stove",
+      "timer",
+      "black",
+      "burner",
+      "has",
+      "knob"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The cat is seen standing on a stove, which has a black burner, a white timer, and a black knob.",
+    "objects": [
+      "cat",
+      "white",
+      "stove",
+      "timer",
+      "black",
+      "burner",
+      "has",
+      "knob"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The cat is wearing a white and brown striped hoodie and has a white paw.",
+    "objects": [
+      "cat",
+      "white",
+      "brown",
+      "has",
+      "hoodie",
+      "paw"
+    ],
+    "actions": [
+      "striped",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The cat is wearing a white and brown striped hoodie and has a white paw.",
+    "objects": [
+      "cat",
+      "white",
+      "brown",
+      "has",
+      "hoodie",
+      "paw"
+    ],
+    "actions": [
+      "striped",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The cat is wearing a white and brown striped hoodie and has a white paw.",
+    "objects": [
+      "cat",
+      "white",
+      "brown",
+      "has",
+      "hoodie",
+      "paw"
+    ],
+    "actions": [
+      "striped",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "It's holding a white bowl in its mouth, possibly having just eaten from it.",
+    "objects": [
+      "eaten",
+      "white",
+      "its",
+      "from",
+      "possibly",
+      "just",
+      "bowl",
+      "mouth"
+    ],
+    "actions": [
+      "holding",
+      "having"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "It's holding a white bowl in its mouth, possibly having just eaten from it.",
+    "objects": [
+      "eaten",
+      "white",
+      "its",
+      "from",
+      "possibly",
+      "just",
+      "bowl",
+      "mouth"
+    ],
+    "actions": [
+      "holding",
+      "having"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "It's holding a white bowl in its mouth, possibly having just eaten from it.",
+    "objects": [
+      "eaten",
+      "white",
+      "its",
+      "from",
+      "possibly",
+      "just",
+      "bowl",
+      "mouth"
+    ],
+    "actions": [
+      "holding",
+      "having"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The cat is also holding a white plate with a brown handle in its mouth, which is being used as a paw rest.",
+    "objects": [
+      "cat",
+      "white",
+      "brown",
+      "its",
+      "handle",
+      "plate",
+      "which",
+      "rest"
+    ],
+    "actions": [
+      "used",
+      "being",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The cat is also holding a white plate with a brown handle in its mouth, which is being used as a paw rest.",
+    "objects": [
+      "cat",
+      "white",
+      "brown",
+      "its",
+      "handle",
+      "plate",
+      "which",
+      "rest"
+    ],
+    "actions": [
+      "used",
+      "being",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The cat is also holding a white plate with a brown handle in its mouth, which is being used as a paw rest.",
+    "objects": [
+      "cat",
+      "white",
+      "brown",
+      "its",
+      "handle",
+      "plate",
+      "which",
+      "rest"
+    ],
+    "actions": [
+      "used",
+      "being",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The cat is standing on the right side of the stove.",
+    "objects": [
+      "side",
+      "stove",
+      "cat"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The cat is standing on the right side of the stove.",
+    "objects": [
+      "side",
+      "stove",
+      "cat"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The cat is standing on the right side of the stove.",
+    "objects": [
+      "side",
+      "stove",
+      "cat"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "On the left side of the stove, there is a black kettle with a white handle and a black handle.",
+    "objects": [
+      "side",
+      "kettle",
+      "white",
+      "stove",
+      "handle",
+      "black",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "On the left side of the stove, there is a black kettle with a white handle and a black handle.",
+    "objects": [
+      "side",
+      "kettle",
+      "white",
+      "stove",
+      "handle",
+      "black",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "On the left side of the stove, there is a black kettle with a white handle and a black handle.",
+    "objects": [
+      "side",
+      "kettle",
+      "white",
+      "stove",
+      "handle",
+      "black",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "On the counter, there's a white cup and a white bowl.",
+    "objects": [
+      "bowl",
+      "counter",
+      "white",
+      "cup"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "On the counter, there's a white cup and a white bowl.",
+    "objects": [
+      "bowl",
+      "counter",
+      "white",
+      "cup"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "On the counter, there's a white cup and a white bowl.",
+    "objects": [
+      "bowl",
+      "counter",
+      "white",
+      "cup"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "On the floor, there's a white plate and a white bowl.",
+    "objects": [
+      "bowl",
+      "floor",
+      "white",
+      "plate"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "On the floor, there's a white plate and a white bowl.",
+    "objects": [
+      "bowl",
+      "floor",
+      "white",
+      "plate"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "On the floor, there's a white plate and a white bowl.",
+    "objects": [
+      "bowl",
+      "floor",
+      "white",
+      "plate"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The cat is walking around the kitchen, exploring its surroundings, and appears to be curious about its environment.",
+    "objects": [
+      "kitchen",
+      "cat",
+      "its",
+      "about",
+      "environment",
+      "around"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "walking",
+      "curious"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The cat is walking around the kitchen, exploring its surroundings, and appears to be curious about its environment.",
+    "objects": [
+      "kitchen",
+      "cat",
+      "its",
+      "about",
+      "environment",
+      "around"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "walking",
+      "curious"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The cat is walking around the kitchen, exploring its surroundings, and appears to be curious about its environment.",
+    "objects": [
+      "kitchen",
+      "cat",
+      "its",
+      "about",
+      "environment",
+      "around"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "walking",
+      "curious"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "There's a white hoodie hanging on the wall, and a yellow towel hanging on the wall.",
+    "objects": [
+      "yellow",
+      "white",
+      "towel",
+      "wall",
+      "hoodie"
+    ],
+    "actions": [
+      "there's",
+      "hanging"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "There's a white hoodie hanging on the wall, and a yellow towel hanging on the wall.",
+    "objects": [
+      "yellow",
+      "white",
+      "towel",
+      "wall",
+      "hoodie"
+    ],
+    "actions": [
+      "there's",
+      "hanging"
+    ],
+    "segment_id": 10
+  }
+]

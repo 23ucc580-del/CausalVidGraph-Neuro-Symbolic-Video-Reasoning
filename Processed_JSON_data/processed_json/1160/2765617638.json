@@ -1,0 +1,535 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a young man sitting at a table in a restaurant.",
+    "objects": [
+      "man",
+      "young",
+      "restaurant",
+      "table",
+      "see"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a young man sitting at a table in a restaurant.",
+    "objects": [
+      "man",
+      "young",
+      "restaurant",
+      "table",
+      "see"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a young man sitting at a table in a restaurant.",
+    "objects": [
+      "man",
+      "young",
+      "restaurant",
+      "table",
+      "see"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a young man sitting at a table in a restaurant.",
+    "objects": [
+      "man",
+      "young",
+      "restaurant",
+      "table",
+      "see"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a young man sitting at a table in a restaurant.",
+    "objects": [
+      "man",
+      "young",
+      "restaurant",
+      "table",
+      "see"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a blue and white striped shirt, and he has a plate of food in front of him.",
+    "objects": [
+      "white",
+      "blue",
+      "has",
+      "him",
+      "shirt",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is wearing a blue and white striped shirt, and he has a plate of food in front of him.",
+    "objects": [
+      "white",
+      "blue",
+      "has",
+      "him",
+      "shirt",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is wearing a blue and white striped shirt, and he has a plate of food in front of him.",
+    "objects": [
+      "white",
+      "blue",
+      "has",
+      "him",
+      "shirt",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is wearing a blue and white striped shirt, and he has a plate of food in front of him.",
+    "objects": [
+      "white",
+      "blue",
+      "has",
+      "him",
+      "shirt",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "He is wearing a blue and white striped shirt, and he has a plate of food in front of him.",
+    "objects": [
+      "white",
+      "blue",
+      "has",
+      "him",
+      "shirt",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The food includes a piece of bread, a side of hash browns, and a glass of orange juice.",
+    "objects": [
+      "juice",
+      "hash",
+      "side",
+      "food",
+      "bread",
+      "glass",
+      "piece",
+      "orange"
+    ],
+    "actions": [
+      "browns",
+      "includes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The food includes a piece of bread, a side of hash browns, and a glass of orange juice.",
+    "objects": [
+      "juice",
+      "hash",
+      "side",
+      "food",
+      "bread",
+      "glass",
+      "piece",
+      "orange"
+    ],
+    "actions": [
+      "browns",
+      "includes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The food includes a piece of bread, a side of hash browns, and a glass of orange juice.",
+    "objects": [
+      "juice",
+      "hash",
+      "side",
+      "food",
+      "bread",
+      "glass",
+      "piece",
+      "orange"
+    ],
+    "actions": [
+      "browns",
+      "includes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The food includes a piece of bread, a side of hash browns, and a glass of orange juice.",
+    "objects": [
+      "juice",
+      "hash",
+      "side",
+      "food",
+      "bread",
+      "glass",
+      "piece",
+      "orange"
+    ],
+    "actions": [
+      "browns",
+      "includes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The food includes a piece of bread, a side of hash browns, and a glass of orange juice.",
+    "objects": [
+      "juice",
+      "hash",
+      "side",
+      "food",
+      "bread",
+      "glass",
+      "piece",
+      "orange"
+    ],
+    "actions": [
+      "browns",
+      "includes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The table has a white tablecloth.",
+    "objects": [
+      "white",
+      "has",
+      "tablecloth",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The table has a white tablecloth.",
+    "objects": [
+      "white",
+      "has",
+      "tablecloth",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The table has a white tablecloth.",
+    "objects": [
+      "white",
+      "has",
+      "tablecloth",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The table has a white tablecloth.",
+    "objects": [
+      "white",
+      "has",
+      "tablecloth",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The table has a white tablecloth.",
+    "objects": [
+      "white",
+      "has",
+      "tablecloth",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "Behind the man, we can see a window with green trees visible through it.",
+    "objects": [
+      "man",
+      "can",
+      "green",
+      "behind",
+      "window",
+      "see",
+      "through"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "Behind the man, we can see a window with green trees visible through it.",
+    "objects": [
+      "man",
+      "can",
+      "green",
+      "behind",
+      "window",
+      "see",
+      "through"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "Behind the man, we can see a window with green trees visible through it.",
+    "objects": [
+      "man",
+      "can",
+      "green",
+      "behind",
+      "window",
+      "see",
+      "through"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "Behind the man, we can see a window with green trees visible through it.",
+    "objects": [
+      "man",
+      "can",
+      "green",
+      "behind",
+      "window",
+      "see",
+      "through"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "Behind the man, we can see a window with green trees visible through it.",
+    "objects": [
+      "man",
+      "can",
+      "green",
+      "behind",
+      "window",
+      "see",
+      "through"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is holding a piece of bread in his hands, and he appears to be in the process of eating the food.",
+    "objects": [
+      "man",
+      "his",
+      "food",
+      "bread",
+      "piece"
+    ],
+    "actions": [
+      "eating",
+      "process",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is holding a piece of bread in his hands, and he appears to be in the process of eating the food.",
+    "objects": [
+      "man",
+      "his",
+      "food",
+      "bread",
+      "piece"
+    ],
+    "actions": [
+      "eating",
+      "process",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is holding a piece of bread in his hands, and he appears to be in the process of eating the food.",
+    "objects": [
+      "man",
+      "his",
+      "food",
+      "bread",
+      "piece"
+    ],
+    "actions": [
+      "eating",
+      "process",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The man is holding a piece of bread in his hands, and he appears to be in the process of eating the food.",
+    "objects": [
+      "man",
+      "his",
+      "food",
+      "bread",
+      "piece"
+    ],
+    "actions": [
+      "eating",
+      "process",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The man is holding a piece of bread in his hands, and he appears to be in the process of eating the food.",
+    "objects": [
+      "man",
+      "his",
+      "food",
+      "bread",
+      "piece"
+    ],
+    "actions": [
+      "eating",
+      "process",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "He is engaged in a conversation with someone off-camera, and he is smiling as he talks.",
+    "objects": [
+      "someone",
+      "conversation"
+    ],
+    "actions": [
+      "smiling",
+      "talks",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "He is engaged in a conversation with someone off-camera, and he is smiling as he talks.",
+    "objects": [
+      "someone",
+      "conversation"
+    ],
+    "actions": [
+      "smiling",
+      "talks",
+      "engaged"
+    ],
+    "segment_id": 6
+  }
+]

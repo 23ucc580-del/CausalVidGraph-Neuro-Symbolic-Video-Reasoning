@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively scene of a group of people gathered around a large dining table, enjoying a meal together.",
+    "objects": [
+      "large",
+      "table",
+      "people",
+      "meal",
+      "lively",
+      "around",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively scene of a group of people gathered around a large dining table, enjoying a meal together.",
+    "objects": [
+      "large",
+      "table",
+      "people",
+      "meal",
+      "lively",
+      "around",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively scene of a group of people gathered around a large dining table, enjoying a meal together.",
+    "objects": [
+      "large",
+      "table",
+      "people",
+      "meal",
+      "lively",
+      "around",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a lively scene of a group of people gathered around a large dining table, enjoying a meal together.",
+    "objects": [
+      "large",
+      "table",
+      "people",
+      "meal",
+      "lively",
+      "around",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The table is filled with a variety of items including cups, a coffee mug, a spoon, a phone, and a book.",
+    "objects": [
+      "table",
+      "cups",
+      "variety",
+      "phone",
+      "mug",
+      "book",
+      "spoon",
+      "coffee"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The table is filled with a variety of items including cups, a coffee mug, a spoon, a phone, and a book.",
+    "objects": [
+      "table",
+      "cups",
+      "variety",
+      "phone",
+      "mug",
+      "book",
+      "spoon",
+      "coffee"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The table is filled with a variety of items including cups, a coffee mug, a spoon, a phone, and a book.",
+    "objects": [
+      "table",
+      "cups",
+      "variety",
+      "phone",
+      "mug",
+      "book",
+      "spoon",
+      "coffee"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The table is filled with a variety of items including cups, a coffee mug, a spoon, a phone, and a book.",
+    "objects": [
+      "table",
+      "cups",
+      "variety",
+      "phone",
+      "mug",
+      "book",
+      "spoon",
+      "coffee"
+    ],
+    "actions": [
+      "filled",
+      "items"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "One person is holding a book and a phone, while another is holding a coffee mug.",
+    "objects": [
+      "one",
+      "while",
+      "phone",
+      "mug",
+      "book",
+      "coffee"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One person is holding a book and a phone, while another is holding a coffee mug.",
+    "objects": [
+      "one",
+      "while",
+      "phone",
+      "mug",
+      "book",
+      "coffee"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "One person is holding a book and a phone, while another is holding a coffee mug.",
+    "objects": [
+      "one",
+      "while",
+      "phone",
+      "mug",
+      "book",
+      "coffee"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "One person is holding a book and a phone, while another is holding a coffee mug.",
+    "objects": [
+      "one",
+      "while",
+      "phone",
+      "mug",
+      "book",
+      "coffee"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A child is holding a cup, and someone is holding a spoon.",
+    "objects": [
+      "someone",
+      "cup",
+      "spoon",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A child is holding a cup, and someone is holding a spoon.",
+    "objects": [
+      "someone",
+      "cup",
+      "spoon",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A child is holding a cup, and someone is holding a spoon.",
+    "objects": [
+      "someone",
+      "cup",
+      "spoon",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A child is holding a cup, and someone is holding a spoon.",
+    "objects": [
+      "someone",
+      "cup",
+      "spoon",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene is bustling with activity, as people engage in conversation and interact with each other.",
+    "objects": [
+      "activity",
+      "each",
+      "people",
+      "other",
+      "conversation",
+      "interact",
+      "engage"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene is bustling with activity, as people engage in conversation and interact with each other.",
+    "objects": [
+      "activity",
+      "each",
+      "people",
+      "other",
+      "conversation",
+      "interact",
+      "engage"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene is bustling with activity, as people engage in conversation and interact with each other.",
+    "objects": [
+      "activity",
+      "each",
+      "people",
+      "other",
+      "conversation",
+      "interact",
+      "engage"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene is bustling with activity, as people engage in conversation and interact with each other.",
+    "objects": [
+      "activity",
+      "each",
+      "people",
+      "other",
+      "conversation",
+      "interact",
+      "engage"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "One person is seen holding a cell phone.",
+    "objects": [
+      "one",
+      "cell",
+      "phone"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "One person is seen holding a cell phone.",
+    "objects": [
+      "one",
+      "cell",
+      "phone"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "One person is seen holding a cell phone.",
+    "objects": [
+      "one",
+      "cell",
+      "phone"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "One person is seen holding a cell phone.",
+    "objects": [
+      "one",
+      "cell",
+      "phone"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The atmosphere is casual and convivial, with everyone dressed in a mix of casual and semi-formal attire, including a woman wearing a blue hoodie and another in a pink shirt.",
+    "objects": [
+      "attire",
+      "woman",
+      "casual",
+      "pink",
+      "blue",
+      "shirt",
+      "mix",
+      "everyone"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The atmosphere is casual and convivial, with everyone dressed in a mix of casual and semi-formal attire, including a woman wearing a blue hoodie and another in a pink shirt.",
+    "objects": [
+      "attire",
+      "woman",
+      "casual",
+      "pink",
+      "blue",
+      "shirt",
+      "mix",
+      "everyone"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The atmosphere is casual and convivial, with everyone dressed in a mix of casual and semi-formal attire, including a woman wearing a blue hoodie and another in a pink shirt.",
+    "objects": [
+      "attire",
+      "woman",
+      "casual",
+      "pink",
+      "blue",
+      "shirt",
+      "mix",
+      "everyone"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The atmosphere is casual and convivial, with everyone dressed in a mix of casual and semi-formal attire, including a woman wearing a blue hoodie and another in a pink shirt.",
+    "objects": [
+      "attire",
+      "woman",
+      "casual",
+      "pink",
+      "blue",
+      "shirt",
+      "mix",
+      "everyone"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is vibrant and full of life, capturing the essence of a shared meal and conversation among friends or family.",
+    "objects": [
+      "full",
+      "meal",
+      "conversation",
+      "vibrant",
+      "among",
+      "family",
+      "essence",
+      "life"
+    ],
+    "actions": [
+      "capturing",
+      "friends",
+      "shared"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is vibrant and full of life, capturing the essence of a shared meal and conversation among friends or family.",
+    "objects": [
+      "full",
+      "meal",
+      "conversation",
+      "vibrant",
+      "among",
+      "family",
+      "essence",
+      "life"
+    ],
+    "actions": [
+      "capturing",
+      "friends",
+      "shared"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is vibrant and full of life, capturing the essence of a shared meal and conversation among friends or family.",
+    "objects": [
+      "full",
+      "meal",
+      "conversation",
+      "vibrant",
+      "among",
+      "family",
+      "essence",
+      "life"
+    ],
+    "actions": [
+      "capturing",
+      "friends",
+      "shared"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is vibrant and full of life, capturing the essence of a shared meal and conversation among friends or family.",
+    "objects": [
+      "full",
+      "meal",
+      "conversation",
+      "vibrant",
+      "among",
+      "family",
+      "essence",
+      "life"
+    ],
+    "actions": [
+      "capturing",
+      "friends",
+      "shared"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively outdoor gathering where people are enjoying themselves in a grassy field.",
+    "objects": [
+      "where",
+      "outdoor",
+      "lively",
+      "field",
+      "people",
+      "grassy"
+    ],
+    "actions": [
+      "enjoying",
+      "themselves",
+      "gathering",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively outdoor gathering where people are enjoying themselves in a grassy field.",
+    "objects": [
+      "where",
+      "outdoor",
+      "lively",
+      "field",
+      "people",
+      "grassy"
+    ],
+    "actions": [
+      "enjoying",
+      "themselves",
+      "gathering",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "A group of four individuals, two men and two women, are standing close together under a large white tent.",
+    "objects": [
+      "together",
+      "white",
+      "tent",
+      "four",
+      "close",
+      "large",
+      "group",
+      "men"
+    ],
+    "actions": [
+      "individuals",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "A group of four individuals, two men and two women, are standing close together under a large white tent.",
+    "objects": [
+      "together",
+      "white",
+      "tent",
+      "four",
+      "close",
+      "large",
+      "group",
+      "men"
+    ],
+    "actions": [
+      "individuals",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "One man is wearing a blue hoodie and the other is in a red shirt.",
+    "objects": [
+      "shirt",
+      "one",
+      "blue",
+      "man",
+      "other",
+      "hoodie"
+    ],
+    "actions": [
+      "red",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "One man is wearing a blue hoodie and the other is in a red shirt.",
+    "objects": [
+      "shirt",
+      "one",
+      "blue",
+      "man",
+      "other",
+      "hoodie"
+    ],
+    "actions": [
+      "red",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "Both are dancing, with their arms around each other's waists.",
+    "objects": [
+      "their",
+      "arms",
+      "both",
+      "around",
+      "each"
+    ],
+    "actions": [
+      "other's",
+      "dancing",
+      "waists"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "Both are dancing, with their arms around each other's waists.",
+    "objects": [
+      "their",
+      "arms",
+      "both",
+      "around",
+      "each"
+    ],
+    "actions": [
+      "other's",
+      "dancing",
+      "waists"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The women are dressed in casual attire, one in a white tank top and the other in a white blouse.",
+    "objects": [
+      "one",
+      "tank",
+      "white",
+      "top",
+      "attire",
+      "other",
+      "casual",
+      "blouse"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The women are dressed in casual attire, one in a white tank top and the other in a white blouse.",
+    "objects": [
+      "one",
+      "tank",
+      "white",
+      "top",
+      "attire",
+      "other",
+      "casual",
+      "blouse"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The men are also dancing, their arms around each other's waists.",
+    "objects": [
+      "their",
+      "arms",
+      "men",
+      "around",
+      "each"
+    ],
+    "actions": [
+      "other's",
+      "dancing",
+      "waists"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The men are also dancing, their arms around each other's waists.",
+    "objects": [
+      "their",
+      "arms",
+      "men",
+      "around",
+      "each"
+    ],
+    "actions": [
+      "other's",
+      "dancing",
+      "waists"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "In the background, there are tents set up, and a person is playing music on a laptop.",
+    "objects": [
+      "laptop",
+      "music",
+      "set",
+      "there"
+    ],
+    "actions": [
+      "playing",
+      "tents"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "In the background, there are tents set up, and a person is playing music on a laptop.",
+    "objects": [
+      "laptop",
+      "music",
+      "set",
+      "there"
+    ],
+    "actions": [
+      "playing",
+      "tents"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A person in a pink shirt is standing near a tent, and another person in a blue shirt is walking in the distance.",
+    "objects": [
+      "shirt",
+      "distance",
+      "blue",
+      "pink",
+      "tent"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A person in a pink shirt is standing near a tent, and another person in a blue shirt is walking in the distance.",
+    "objects": [
+      "shirt",
+      "distance",
+      "blue",
+      "pink",
+      "tent"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A few more people are dancing under the tent.",
+    "objects": [
+      "tent",
+      "more",
+      "few",
+      "people",
+      "under"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A few more people are dancing under the tent.",
+    "objects": [
+      "tent",
+      "more",
+      "few",
+      "people",
+      "under"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman in a red shirt is walking with her arms around another woman's waist, and another woman in a white shirt is standing near a tent.",
+    "objects": [
+      "shirt",
+      "her",
+      "white",
+      "tent",
+      "arms",
+      "woman",
+      "around",
+      "waist"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "woman's",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman in a red shirt is walking with her arms around another woman's waist, and another woman in a white shirt is standing near a tent.",
+    "objects": [
+      "shirt",
+      "her",
+      "white",
+      "tent",
+      "arms",
+      "woman",
+      "around",
+      "waist"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "woman's",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a white hat is standing in the distance, and a woman in a white shirt is walking away from the group.",
+    "objects": [
+      "shirt",
+      "distance",
+      "white",
+      "from",
+      "away",
+      "man",
+      "group",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a white hat is standing in the distance, and a woman in a white shirt is walking away from the group.",
+    "objects": [
+      "shirt",
+      "distance",
+      "white",
+      "from",
+      "away",
+      "man",
+      "group",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "In the foreground, there's a man wearing a white shirt and a woman in a black skirt dancing together, while a man in a red shirt and a woman in a white shirt are dancing under the tent.",
+    "objects": [
+      "shirt",
+      "skirt",
+      "together",
+      "white",
+      "tent",
+      "black",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "dancing",
+      "red",
+      "there's",
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "In the foreground, there's a man wearing a white shirt and a woman in a black skirt dancing together, while a man in a red shirt and a woman in a white shirt are dancing under the tent.",
+    "objects": [
+      "shirt",
+      "skirt",
+      "together",
+      "white",
+      "tent",
+      "black",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "dancing",
+      "red",
+      "there's",
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman in a green shirt is walking in the distance.",
+    "objects": [
+      "green",
+      "distance",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman in a green shirt is walking in the distance.",
+    "objects": [
+      "green",
+      "distance",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "There's a person in a blue shirt standing near a tent, and a man in a red shirt is walking in the background.",
+    "objects": [
+      "shirt",
+      "blue",
+      "tent",
+      "man"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "there's",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "There's a person in a blue shirt standing near a tent, and a man in a red shirt is walking in the background.",
+    "objects": [
+      "shirt",
+      "blue",
+      "tent",
+      "man"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "there's",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A woman in a white shirt is walking in the distance.",
+    "objects": [
+      "shirt",
+      "distance",
+      "white",
+      "woman"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A woman in a white shirt is walking in the distance.",
+    "objects": [
+      "shirt",
+      "distance",
+      "white",
+      "woman"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the blue shirt is standing in the distance, and a woman in a red shirt is walking in the background.",
+    "objects": [
+      "shirt",
+      "distance",
+      "blue",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "walking"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the blue shirt is standing in the distance, and a woman in a red shirt is walking in the background.",
+    "objects": [
+      "shirt",
+      "distance",
+      "blue",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "walking"
+    ],
+    "segment_id": 15
+  }
+]

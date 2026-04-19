@@ -1,0 +1,584 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a lively scene at a restaurant where a group of people are gathered around a table, enjoying a meal together.",
+    "objects": [
+      "lively",
+      "this",
+      "restaurant",
+      "people",
+      "meal",
+      "where",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a lively scene at a restaurant where a group of people are gathered around a table, enjoying a meal together.",
+    "objects": [
+      "lively",
+      "this",
+      "restaurant",
+      "people",
+      "meal",
+      "where",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a lively scene at a restaurant where a group of people are gathered around a table, enjoying a meal together.",
+    "objects": [
+      "lively",
+      "this",
+      "restaurant",
+      "people",
+      "meal",
+      "where",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The atmosphere is warm and convivial, with the focus on the food and the company.",
+    "objects": [
+      "company",
+      "convivial",
+      "atmosphere",
+      "warm",
+      "food"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The atmosphere is warm and convivial, with the focus on the food and the company.",
+    "objects": [
+      "company",
+      "convivial",
+      "atmosphere",
+      "warm",
+      "food"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The atmosphere is warm and convivial, with the focus on the food and the company.",
+    "objects": [
+      "company",
+      "convivial",
+      "atmosphere",
+      "warm",
+      "food"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene begins with a man wearing a blue hoodie sitting at the table, surrounded by others who are engaged in conversation.",
+    "objects": [
+      "man",
+      "who",
+      "hoodie",
+      "blue",
+      "table",
+      "conversation"
+    ],
+    "actions": [
+      "wearing",
+      "surrounded",
+      "begins",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene begins with a man wearing a blue hoodie sitting at the table, surrounded by others who are engaged in conversation.",
+    "objects": [
+      "man",
+      "who",
+      "hoodie",
+      "blue",
+      "table",
+      "conversation"
+    ],
+    "actions": [
+      "wearing",
+      "surrounded",
+      "begins",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene begins with a man wearing a blue hoodie sitting at the table, surrounded by others who are engaged in conversation.",
+    "objects": [
+      "man",
+      "who",
+      "hoodie",
+      "blue",
+      "table",
+      "conversation"
+    ],
+    "actions": [
+      "wearing",
+      "surrounded",
+      "begins",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He appears to be the center of attention, possibly sharing a light-hearted moment or a funny story.",
+    "objects": [
+      "center",
+      "attention",
+      "funny",
+      "moment",
+      "possibly",
+      "story"
+    ],
+    "actions": [
+      "light-hearted",
+      "sharing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "He appears to be the center of attention, possibly sharing a light-hearted moment or a funny story.",
+    "objects": [
+      "center",
+      "attention",
+      "funny",
+      "moment",
+      "possibly",
+      "story"
+    ],
+    "actions": [
+      "light-hearted",
+      "sharing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "He appears to be the center of attention, possibly sharing a light-hearted moment or a funny story.",
+    "objects": [
+      "center",
+      "attention",
+      "funny",
+      "moment",
+      "possibly",
+      "story"
+    ],
+    "actions": [
+      "light-hearted",
+      "sharing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "As the video progresses, we see another man, dressed in a blue shirt, sitting at the same table, holding a beer and smiling.",
+    "objects": [
+      "beer",
+      "man",
+      "same",
+      "blue",
+      "see",
+      "table",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "dressed",
+      "sitting",
+      "progresses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "As the video progresses, we see another man, dressed in a blue shirt, sitting at the same table, holding a beer and smiling.",
+    "objects": [
+      "beer",
+      "man",
+      "same",
+      "blue",
+      "see",
+      "table",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "dressed",
+      "sitting",
+      "progresses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "As the video progresses, we see another man, dressed in a blue shirt, sitting at the same table, holding a beer and smiling.",
+    "objects": [
+      "beer",
+      "man",
+      "same",
+      "blue",
+      "see",
+      "table",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "dressed",
+      "sitting",
+      "progresses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "He seems to be part of the ongoing jovial conversation, contributing to the cheerful ambiance.",
+    "objects": [
+      "jovial",
+      "ambiance",
+      "part",
+      "cheerful",
+      "conversation"
+    ],
+    "actions": [
+      "ongoing",
+      "contributing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "He seems to be part of the ongoing jovial conversation, contributing to the cheerful ambiance.",
+    "objects": [
+      "jovial",
+      "ambiance",
+      "part",
+      "cheerful",
+      "conversation"
+    ],
+    "actions": [
+      "ongoing",
+      "contributing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "He seems to be part of the ongoing jovial conversation, contributing to the cheerful ambiance.",
+    "objects": [
+      "jovial",
+      "ambiance",
+      "part",
+      "cheerful",
+      "conversation"
+    ],
+    "actions": [
+      "ongoing",
+      "contributing",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The table is laden with an array of dishes and drinks, reflecting a hearty meal.",
+    "objects": [
+      "array",
+      "meal",
+      "laden",
+      "table",
+      "hearty"
+    ],
+    "actions": [
+      "drinks",
+      "dishes",
+      "reflecting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The table is laden with an array of dishes and drinks, reflecting a hearty meal.",
+    "objects": [
+      "array",
+      "meal",
+      "laden",
+      "table",
+      "hearty"
+    ],
+    "actions": [
+      "drinks",
+      "dishes",
+      "reflecting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The table is laden with an array of dishes and drinks, reflecting a hearty meal.",
+    "objects": [
+      "array",
+      "meal",
+      "laden",
+      "table",
+      "hearty"
+    ],
+    "actions": [
+      "drinks",
+      "dishes",
+      "reflecting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A bottle of beer, a glass of beer, and a glass of water are visible, suggesting the participants are enjoying various beverages alongside their food.",
+    "objects": [
+      "beer",
+      "alongside",
+      "water",
+      "their",
+      "glass",
+      "bottle",
+      "food"
+    ],
+    "actions": [
+      "enjoying",
+      "beverages",
+      "suggesting",
+      "participants"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A bottle of beer, a glass of beer, and a glass of water are visible, suggesting the participants are enjoying various beverages alongside their food.",
+    "objects": [
+      "beer",
+      "alongside",
+      "water",
+      "their",
+      "glass",
+      "bottle",
+      "food"
+    ],
+    "actions": [
+      "enjoying",
+      "beverages",
+      "suggesting",
+      "participants"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A bottle of beer, a glass of beer, and a glass of water are visible, suggesting the participants are enjoying various beverages alongside their food.",
+    "objects": [
+      "beer",
+      "alongside",
+      "water",
+      "their",
+      "glass",
+      "bottle",
+      "food"
+    ],
+    "actions": [
+      "enjoying",
+      "beverages",
+      "suggesting",
+      "participants"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "In the background, a television screen displays a marathon, likely showing a running event, indicating that the restaurant may be a sports bar or a place where people gather to watch sports games.",
+    "objects": [
+      "may",
+      "event",
+      "restaurant",
+      "likely",
+      "people",
+      "television",
+      "watch",
+      "where"
+    ],
+    "actions": [
+      "indicating",
+      "sports",
+      "games",
+      "running"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, a television screen displays a marathon, likely showing a running event, indicating that the restaurant may be a sports bar or a place where people gather to watch sports games.",
+    "objects": [
+      "may",
+      "event",
+      "restaurant",
+      "likely",
+      "people",
+      "television",
+      "watch",
+      "where"
+    ],
+    "actions": [
+      "indicating",
+      "sports",
+      "games",
+      "running"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, a television screen displays a marathon, likely showing a running event, indicating that the restaurant may be a sports bar or a place where people gather to watch sports games.",
+    "objects": [
+      "may",
+      "event",
+      "restaurant",
+      "likely",
+      "people",
+      "television",
+      "watch",
+      "where"
+    ],
+    "actions": [
+      "indicating",
+      "sports",
+      "games",
+      "running"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The restaurant is filled with patrons, adding to the bustling atmosphere.",
+    "objects": [
+      "restaurant",
+      "atmosphere"
+    ],
+    "actions": [
+      "bustling",
+      "patrons",
+      "adding",
+      "filled"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The restaurant is filled with patrons, adding to the bustling atmosphere.",
+    "objects": [
+      "restaurant",
+      "atmosphere"
+    ],
+    "actions": [
+      "bustling",
+      "patrons",
+      "adding",
+      "filled"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The restaurant is filled with patrons, adding to the bustling atmosphere.",
+    "objects": [
+      "restaurant",
+      "atmosphere"
+    ],
+    "actions": [
+      "bustling",
+      "patrons",
+      "adding",
+      "filled"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "One person is seen wearing a white shirt and holding a glass of beer, perhaps taking a moment to appreciate the drink or engage in the conversation.",
+    "objects": [
+      "beer",
+      "white",
+      "drink",
+      "appreciate",
+      "glass",
+      "one",
+      "engage",
+      "conversation"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "perhaps",
+      "taking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "One person is seen wearing a white shirt and holding a glass of beer, perhaps taking a moment to appreciate the drink or engage in the conversation.",
+    "objects": [
+      "beer",
+      "white",
+      "drink",
+      "appreciate",
+      "glass",
+      "one",
+      "engage",
+      "conversation"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "perhaps",
+      "taking"
+    ],
+    "segment_id": 10
+  }
+]

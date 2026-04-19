@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a black dog is sitting on the floor, facing the camera.",
+    "objects": [
+      "floor",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "facing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a black dog is sitting on the floor, facing the camera.",
+    "objects": [
+      "floor",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "facing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a black dog is sitting on the floor, facing the camera.",
+    "objects": [
+      "floor",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "facing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a black dog is sitting on the floor, facing the camera.",
+    "objects": [
+      "floor",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "facing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The dog appears to be in a relaxed state, with its head tilted to the side and its eyes looking upwards.",
+    "objects": [
+      "state",
+      "eyes",
+      "side",
+      "head",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "tilted",
+      "upwards",
+      "looking",
+      "relaxed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog appears to be in a relaxed state, with its head tilted to the side and its eyes looking upwards.",
+    "objects": [
+      "state",
+      "eyes",
+      "side",
+      "head",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "tilted",
+      "upwards",
+      "looking",
+      "relaxed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog appears to be in a relaxed state, with its head tilted to the side and its eyes looking upwards.",
+    "objects": [
+      "state",
+      "eyes",
+      "side",
+      "head",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "tilted",
+      "upwards",
+      "looking",
+      "relaxed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog appears to be in a relaxed state, with its head tilted to the side and its eyes looking upwards.",
+    "objects": [
+      "state",
+      "eyes",
+      "side",
+      "head",
+      "its",
+      "dog"
+    ],
+    "actions": [
+      "tilted",
+      "upwards",
+      "looking",
+      "relaxed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "It is lying on a wooden floor, with a light brown wooden coffee table in the foreground.",
+    "objects": [
+      "floor",
+      "coffee",
+      "wooden",
+      "light",
+      "brown",
+      "table"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "It is lying on a wooden floor, with a light brown wooden coffee table in the foreground.",
+    "objects": [
+      "floor",
+      "coffee",
+      "wooden",
+      "light",
+      "brown",
+      "table"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "It is lying on a wooden floor, with a light brown wooden coffee table in the foreground.",
+    "objects": [
+      "floor",
+      "coffee",
+      "wooden",
+      "light",
+      "brown",
+      "table"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "It is lying on a wooden floor, with a light brown wooden coffee table in the foreground.",
+    "objects": [
+      "floor",
+      "coffee",
+      "wooden",
+      "light",
+      "brown",
+      "table"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "On the coffee table, there is a small, round, white object that seems to be a light bulb.",
+    "objects": [
+      "small",
+      "white",
+      "bulb",
+      "coffee",
+      "light",
+      "round",
+      "table",
+      "object"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "On the coffee table, there is a small, round, white object that seems to be a light bulb.",
+    "objects": [
+      "small",
+      "white",
+      "bulb",
+      "coffee",
+      "light",
+      "round",
+      "table",
+      "object"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "On the coffee table, there is a small, round, white object that seems to be a light bulb.",
+    "objects": [
+      "small",
+      "white",
+      "bulb",
+      "coffee",
+      "light",
+      "round",
+      "table",
+      "object"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "On the coffee table, there is a small, round, white object that seems to be a light bulb.",
+    "objects": [
+      "small",
+      "white",
+      "bulb",
+      "coffee",
+      "light",
+      "round",
+      "table",
+      "object"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The dog seems to be focused on this light bulb, possibly because it is shining brightly.",
+    "objects": [
+      "this",
+      "light",
+      "because",
+      "brightly",
+      "possibly",
+      "bulb",
+      "dog"
+    ],
+    "actions": [
+      "focused",
+      "shining",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The dog seems to be focused on this light bulb, possibly because it is shining brightly.",
+    "objects": [
+      "this",
+      "light",
+      "because",
+      "brightly",
+      "possibly",
+      "bulb",
+      "dog"
+    ],
+    "actions": [
+      "focused",
+      "shining",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The dog seems to be focused on this light bulb, possibly because it is shining brightly.",
+    "objects": [
+      "this",
+      "light",
+      "because",
+      "brightly",
+      "possibly",
+      "bulb",
+      "dog"
+    ],
+    "actions": [
+      "focused",
+      "shining",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The dog seems to be focused on this light bulb, possibly because it is shining brightly.",
+    "objects": [
+      "this",
+      "light",
+      "because",
+      "brightly",
+      "possibly",
+      "bulb",
+      "dog"
+    ],
+    "actions": [
+      "focused",
+      "shining",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A white fan is on the right side of the table, and the dog is positioned between the fan and the light bulb.",
+    "objects": [
+      "between",
+      "white",
+      "side",
+      "light",
+      "table",
+      "fan",
+      "bulb",
+      "dog"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A white fan is on the right side of the table, and the dog is positioned between the fan and the light bulb.",
+    "objects": [
+      "between",
+      "white",
+      "side",
+      "light",
+      "table",
+      "fan",
+      "bulb",
+      "dog"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A white fan is on the right side of the table, and the dog is positioned between the fan and the light bulb.",
+    "objects": [
+      "between",
+      "white",
+      "side",
+      "light",
+      "table",
+      "fan",
+      "bulb",
+      "dog"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A white fan is on the right side of the table, and the dog is positioned between the fan and the light bulb.",
+    "objects": [
+      "between",
+      "white",
+      "side",
+      "light",
+      "table",
+      "fan",
+      "bulb",
+      "dog"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The room has a warm ambiance, with a brown carpet and a bookshelf visible in the background.",
+    "objects": [
+      "has",
+      "ambiance",
+      "carpet",
+      "bookshelf",
+      "brown",
+      "warm",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The room has a warm ambiance, with a brown carpet and a bookshelf visible in the background.",
+    "objects": [
+      "has",
+      "ambiance",
+      "carpet",
+      "bookshelf",
+      "brown",
+      "warm",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The room has a warm ambiance, with a brown carpet and a bookshelf visible in the background.",
+    "objects": [
+      "has",
+      "ambiance",
+      "carpet",
+      "bookshelf",
+      "brown",
+      "warm",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The room has a warm ambiance, with a brown carpet and a bookshelf visible in the background.",
+    "objects": [
+      "has",
+      "ambiance",
+      "carpet",
+      "bookshelf",
+      "brown",
+      "warm",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The light bulb is on, and it is casting a soft glow on the dog's body and the surrounding area.",
+    "objects": [
+      "body",
+      "light",
+      "area",
+      "soft",
+      "glow",
+      "bulb"
+    ],
+    "actions": [
+      "dog's",
+      "casting",
+      "surrounding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The light bulb is on, and it is casting a soft glow on the dog's body and the surrounding area.",
+    "objects": [
+      "body",
+      "light",
+      "area",
+      "soft",
+      "glow",
+      "bulb"
+    ],
+    "actions": [
+      "dog's",
+      "casting",
+      "surrounding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The light bulb is on, and it is casting a soft glow on the dog's body and the surrounding area.",
+    "objects": [
+      "body",
+      "light",
+      "area",
+      "soft",
+      "glow",
+      "bulb"
+    ],
+    "actions": [
+      "dog's",
+      "casting",
+      "surrounding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The light bulb is on, and it is casting a soft glow on the dog's body and the surrounding area.",
+    "objects": [
+      "body",
+      "light",
+      "area",
+      "soft",
+      "glow",
+      "bulb"
+    ],
+    "actions": [
+      "dog's",
+      "casting",
+      "surrounding"
+    ],
+    "segment_id": 7
+  }
+]

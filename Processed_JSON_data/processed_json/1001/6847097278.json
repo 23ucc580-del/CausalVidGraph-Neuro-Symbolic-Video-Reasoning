@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a live music performance where a man is playing the piano on stage.",
+    "objects": [
+      "where",
+      "performance",
+      "live",
+      "stage",
+      "music",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a live music performance where a man is playing the piano on stage.",
+    "objects": [
+      "where",
+      "performance",
+      "live",
+      "stage",
+      "music",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a live music performance where a man is playing the piano on stage.",
+    "objects": [
+      "where",
+      "performance",
+      "live",
+      "stage",
+      "music",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a live music performance where a man is playing the piano on stage.",
+    "objects": [
+      "where",
+      "performance",
+      "live",
+      "stage",
+      "music",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video depicts a live music performance where a man is playing the piano on stage.",
+    "objects": [
+      "where",
+      "performance",
+      "live",
+      "stage",
+      "music",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The stage is dimly lit, with the focus on the pianist.",
+    "objects": [
+      "stage",
+      "lit",
+      "dimly",
+      "pianist"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The stage is dimly lit, with the focus on the pianist.",
+    "objects": [
+      "stage",
+      "lit",
+      "dimly",
+      "pianist"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The stage is dimly lit, with the focus on the pianist.",
+    "objects": [
+      "stage",
+      "lit",
+      "dimly",
+      "pianist"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The stage is dimly lit, with the focus on the pianist.",
+    "objects": [
+      "stage",
+      "lit",
+      "dimly",
+      "pianist"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The stage is dimly lit, with the focus on the pianist.",
+    "objects": [
+      "stage",
+      "lit",
+      "dimly",
+      "pianist"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "He is dressed in a blue hoodie and is wearing a white beanie, seated on a bench.",
+    "objects": [
+      "white",
+      "blue",
+      "beanie",
+      "hoodie",
+      "bench"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is dressed in a blue hoodie and is wearing a white beanie, seated on a bench.",
+    "objects": [
+      "white",
+      "blue",
+      "beanie",
+      "hoodie",
+      "bench"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "He is dressed in a blue hoodie and is wearing a white beanie, seated on a bench.",
+    "objects": [
+      "white",
+      "blue",
+      "beanie",
+      "hoodie",
+      "bench"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "He is dressed in a blue hoodie and is wearing a white beanie, seated on a bench.",
+    "objects": [
+      "white",
+      "blue",
+      "beanie",
+      "hoodie",
+      "bench"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "He is dressed in a blue hoodie and is wearing a white beanie, seated on a bench.",
+    "objects": [
+      "white",
+      "blue",
+      "beanie",
+      "hoodie",
+      "bench"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The stage is set up with various musical instruments, including drums, a bass guitar, and a saxophone, all of which are unlit.",
+    "objects": [
+      "musical",
+      "guitar",
+      "unlit",
+      "which",
+      "set",
+      "all",
+      "stage",
+      "saxophone"
+    ],
+    "actions": [
+      "instruments",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The stage is set up with various musical instruments, including drums, a bass guitar, and a saxophone, all of which are unlit.",
+    "objects": [
+      "musical",
+      "guitar",
+      "unlit",
+      "which",
+      "set",
+      "all",
+      "stage",
+      "saxophone"
+    ],
+    "actions": [
+      "instruments",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The stage is set up with various musical instruments, including drums, a bass guitar, and a saxophone, all of which are unlit.",
+    "objects": [
+      "musical",
+      "guitar",
+      "unlit",
+      "which",
+      "set",
+      "all",
+      "stage",
+      "saxophone"
+    ],
+    "actions": [
+      "instruments",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The stage is set up with various musical instruments, including drums, a bass guitar, and a saxophone, all of which are unlit.",
+    "objects": [
+      "musical",
+      "guitar",
+      "unlit",
+      "which",
+      "set",
+      "all",
+      "stage",
+      "saxophone"
+    ],
+    "actions": [
+      "instruments",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The stage is set up with various musical instruments, including drums, a bass guitar, and a saxophone, all of which are unlit.",
+    "objects": [
+      "musical",
+      "guitar",
+      "unlit",
+      "which",
+      "set",
+      "all",
+      "stage",
+      "saxophone"
+    ],
+    "actions": [
+      "instruments",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "A man stands on the left side of the stage holding a microphone, presumably to announce the band members or to introduce the next song.",
+    "objects": [
+      "band",
+      "introduce",
+      "presumably",
+      "microphone",
+      "song",
+      "side",
+      "announce",
+      "stage"
+    ],
+    "actions": [
+      "holding",
+      "stands",
+      "members"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "A man stands on the left side of the stage holding a microphone, presumably to announce the band members or to introduce the next song.",
+    "objects": [
+      "band",
+      "introduce",
+      "presumably",
+      "microphone",
+      "song",
+      "side",
+      "announce",
+      "stage"
+    ],
+    "actions": [
+      "holding",
+      "stands",
+      "members"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "A man stands on the left side of the stage holding a microphone, presumably to announce the band members or to introduce the next song.",
+    "objects": [
+      "band",
+      "introduce",
+      "presumably",
+      "microphone",
+      "song",
+      "side",
+      "announce",
+      "stage"
+    ],
+    "actions": [
+      "holding",
+      "stands",
+      "members"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "A man stands on the left side of the stage holding a microphone, presumably to announce the band members or to introduce the next song.",
+    "objects": [
+      "band",
+      "introduce",
+      "presumably",
+      "microphone",
+      "song",
+      "side",
+      "announce",
+      "stage"
+    ],
+    "actions": [
+      "holding",
+      "stands",
+      "members"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "A man stands on the left side of the stage holding a microphone, presumably to announce the band members or to introduce the next song.",
+    "objects": [
+      "band",
+      "introduce",
+      "presumably",
+      "microphone",
+      "song",
+      "side",
+      "announce",
+      "stage"
+    ],
+    "actions": [
+      "holding",
+      "stands",
+      "members"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The audience is seated in the dark, suggesting it is a concert setting, and they are dressed in dark clothing, with some wearing hoodies.",
+    "objects": [
+      "they",
+      "dark",
+      "audience",
+      "some",
+      "concert"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The audience is seated in the dark, suggesting it is a concert setting, and they are dressed in dark clothing, with some wearing hoodies.",
+    "objects": [
+      "they",
+      "dark",
+      "audience",
+      "some",
+      "concert"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The audience is seated in the dark, suggesting it is a concert setting, and they are dressed in dark clothing, with some wearing hoodies.",
+    "objects": [
+      "they",
+      "dark",
+      "audience",
+      "some",
+      "concert"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The audience is seated in the dark, suggesting it is a concert setting, and they are dressed in dark clothing, with some wearing hoodies.",
+    "objects": [
+      "they",
+      "dark",
+      "audience",
+      "some",
+      "concert"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The audience is seated in the dark, suggesting it is a concert setting, and they are dressed in dark clothing, with some wearing hoodies.",
+    "objects": [
+      "they",
+      "dark",
+      "audience",
+      "some",
+      "concert"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The crowd is attentively watching the performance.",
+    "objects": [
+      "attentively",
+      "crowd",
+      "performance"
+    ],
+    "actions": [
+      "watching"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The crowd is attentively watching the performance.",
+    "objects": [
+      "attentively",
+      "crowd",
+      "performance"
+    ],
+    "actions": [
+      "watching"
+    ],
+    "segment_id": 6
+  }
+]

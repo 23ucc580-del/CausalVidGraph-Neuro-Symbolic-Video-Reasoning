@@ -1,0 +1,576 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively dining scene where a group of four people are seated around a table, enjoying a meal together.",
+    "objects": [
+      "around",
+      "meal",
+      "people",
+      "four",
+      "lively",
+      "together",
+      "table",
+      "where"
+    ],
+    "actions": [
+      "depicts",
+      "seated",
+      "dining",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively dining scene where a group of four people are seated around a table, enjoying a meal together.",
+    "objects": [
+      "around",
+      "meal",
+      "people",
+      "four",
+      "lively",
+      "together",
+      "table",
+      "where"
+    ],
+    "actions": [
+      "depicts",
+      "seated",
+      "dining",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The atmosphere is casual and relaxed, with everyone engaged in conversation and food preparation.",
+    "objects": [
+      "everyone",
+      "conversation",
+      "casual",
+      "food",
+      "atmosphere",
+      "preparation"
+    ],
+    "actions": [
+      "relaxed",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The atmosphere is casual and relaxed, with everyone engaged in conversation and food preparation.",
+    "objects": [
+      "everyone",
+      "conversation",
+      "casual",
+      "food",
+      "atmosphere",
+      "preparation"
+    ],
+    "actions": [
+      "relaxed",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "At the center of the table, a woman in a blue hoodie is holding a sandwich and appears to be in the process of preparing it.",
+    "objects": [
+      "blue",
+      "sandwich",
+      "table",
+      "hoodie",
+      "woman",
+      "center"
+    ],
+    "actions": [
+      "process",
+      "preparing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "At the center of the table, a woman in a blue hoodie is holding a sandwich and appears to be in the process of preparing it.",
+    "objects": [
+      "blue",
+      "sandwich",
+      "table",
+      "hoodie",
+      "woman",
+      "center"
+    ],
+    "actions": [
+      "process",
+      "preparing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "She is in the middle of slicing a sandwich, which she holds in her hand.",
+    "objects": [
+      "hand",
+      "which",
+      "sandwich",
+      "middle",
+      "her",
+      "she"
+    ],
+    "actions": [
+      "slicing",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "She is in the middle of slicing a sandwich, which she holds in her hand.",
+    "objects": [
+      "hand",
+      "which",
+      "sandwich",
+      "middle",
+      "her",
+      "she"
+    ],
+    "actions": [
+      "slicing",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A laptop sits open in front of her, suggesting she might be sharing some content with the group or working on a task.",
+    "objects": [
+      "open",
+      "her",
+      "task",
+      "laptop",
+      "content",
+      "some",
+      "group",
+      "might"
+    ],
+    "actions": [
+      "sharing",
+      "working",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A laptop sits open in front of her, suggesting she might be sharing some content with the group or working on a task.",
+    "objects": [
+      "open",
+      "her",
+      "task",
+      "laptop",
+      "content",
+      "some",
+      "group",
+      "might"
+    ],
+    "actions": [
+      "sharing",
+      "working",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "To her right, a man in a red hoodie is eating a sandwich, his hand securely holding the food item.",
+    "objects": [
+      "hand",
+      "sandwich",
+      "her",
+      "man",
+      "his",
+      "food",
+      "hoodie",
+      "securely"
+    ],
+    "actions": [
+      "eating",
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "To her right, a man in a red hoodie is eating a sandwich, his hand securely holding the food item.",
+    "objects": [
+      "hand",
+      "sandwich",
+      "her",
+      "man",
+      "his",
+      "food",
+      "hoodie",
+      "securely"
+    ],
+    "actions": [
+      "eating",
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "A soda can and a bottle of water are placed within reach, indicating refreshments are readily available.",
+    "objects": [
+      "readily",
+      "reach",
+      "bottle",
+      "available",
+      "water",
+      "can",
+      "soda",
+      "within"
+    ],
+    "actions": [
+      "refreshments",
+      "indicating",
+      "placed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "A soda can and a bottle of water are placed within reach, indicating refreshments are readily available.",
+    "objects": [
+      "readily",
+      "reach",
+      "bottle",
+      "available",
+      "water",
+      "can",
+      "soda",
+      "within"
+    ],
+    "actions": [
+      "refreshments",
+      "indicating",
+      "placed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "On the far end of the table, another woman in a pink hoodie is also partaking in the meal.",
+    "objects": [
+      "far",
+      "pink",
+      "end",
+      "meal",
+      "hoodie",
+      "table",
+      "woman"
+    ],
+    "actions": [
+      "partaking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "On the far end of the table, another woman in a pink hoodie is also partaking in the meal.",
+    "objects": [
+      "far",
+      "pink",
+      "end",
+      "meal",
+      "hoodie",
+      "table",
+      "woman"
+    ],
+    "actions": [
+      "partaking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "She seems to be in the midst of eating a sandwich as well, her hand holding a slice.",
+    "objects": [
+      "hand",
+      "sandwich",
+      "her",
+      "slice",
+      "well",
+      "midst",
+      "she"
+    ],
+    "actions": [
+      "eating",
+      "holding",
+      "seems"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "She seems to be in the midst of eating a sandwich as well, her hand holding a slice.",
+    "objects": [
+      "hand",
+      "sandwich",
+      "her",
+      "slice",
+      "well",
+      "midst",
+      "she"
+    ],
+    "actions": [
+      "eating",
+      "holding",
+      "seems"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A laptop is also open in front of her, indicating she might be involved in a task or sharing something with the group.",
+    "objects": [
+      "open",
+      "her",
+      "task",
+      "laptop",
+      "might",
+      "group",
+      "she"
+    ],
+    "actions": [
+      "involved",
+      "sharing",
+      "indicating",
+      "something"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A laptop is also open in front of her, indicating she might be involved in a task or sharing something with the group.",
+    "objects": [
+      "open",
+      "her",
+      "task",
+      "laptop",
+      "might",
+      "group",
+      "she"
+    ],
+    "actions": [
+      "involved",
+      "sharing",
+      "indicating",
+      "something"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The fourth person, a man in a black hoodie, is also seated at the table.",
+    "objects": [
+      "man",
+      "hoodie",
+      "table",
+      "fourth",
+      "black"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The fourth person, a man in a black hoodie, is also seated at the table.",
+    "objects": [
+      "man",
+      "hoodie",
+      "table",
+      "fourth",
+      "black"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "He's holding a sandwich, presumably about to eat it.",
+    "objects": [
+      "eat",
+      "about",
+      "sandwich",
+      "presumably"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "He's holding a sandwich, presumably about to eat it.",
+    "objects": [
+      "eat",
+      "about",
+      "sandwich",
+      "presumably"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A laptop is also open in front of him, perhaps indicating he's engaged in work or sharing something with the group.",
+    "objects": [
+      "open",
+      "him",
+      "laptop",
+      "work",
+      "group"
+    ],
+    "actions": [
+      "something",
+      "perhaps",
+      "indicating",
+      "sharing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A laptop is also open in front of him, perhaps indicating he's engaged in work or sharing something with the group.",
+    "objects": [
+      "open",
+      "him",
+      "laptop",
+      "work",
+      "group"
+    ],
+    "actions": [
+      "something",
+      "perhaps",
+      "indicating",
+      "sharing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The table is covered with plates of food, including sandwiches, a bottle of water, and a soda can, indicating a casual meal setting.",
+    "objects": [
+      "water",
+      "can",
+      "casual",
+      "meal",
+      "food",
+      "soda",
+      "table",
+      "bottle"
+    ],
+    "actions": [
+      "setting",
+      "sandwiches",
+      "indicating",
+      "covered"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The table is covered with plates of food, including sandwiches, a bottle of water, and a soda can, indicating a casual meal setting.",
+    "objects": [
+      "water",
+      "can",
+      "casual",
+      "meal",
+      "food",
+      "soda",
+      "table",
+      "bottle"
+    ],
+    "actions": [
+      "setting",
+      "sandwiches",
+      "indicating",
+      "covered"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The people are dressed in comfortable hoodies, suggesting a relaxed atmosphere.",
+    "objects": [
+      "atmosphere",
+      "comfortable",
+      "people"
+    ],
+    "actions": [
+      "relaxed",
+      "suggesting",
+      "hoodies",
+      "dressed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The people are dressed in comfortable hoodies, suggesting a relaxed atmosphere.",
+    "objects": [
+      "atmosphere",
+      "comfortable",
+      "people"
+    ],
+    "actions": [
+      "relaxed",
+      "suggesting",
+      "hoodies",
+      "dressed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is one of camaraderie and shared enjoyment of a meal.",
+    "objects": [
+      "enjoyment",
+      "camaraderie",
+      "one",
+      "meal"
+    ],
+    "actions": [
+      "shared"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is one of camaraderie and shared enjoyment of a meal.",
+    "objects": [
+      "enjoyment",
+      "camaraderie",
+      "one",
+      "meal"
+    ],
+    "actions": [
+      "shared"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,606 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a man and a woman are seated on a bench in what appears to be an amusement park.",
+    "objects": [
+      "this",
+      "what",
+      "woman",
+      "man",
+      "amusement",
+      "park",
+      "bench"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a man and a woman are seated on a bench in what appears to be an amusement park.",
+    "objects": [
+      "this",
+      "what",
+      "woman",
+      "man",
+      "amusement",
+      "park",
+      "bench"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a man and a woman are seated on a bench in what appears to be an amusement park.",
+    "objects": [
+      "this",
+      "what",
+      "woman",
+      "man",
+      "amusement",
+      "park",
+      "bench"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, a man and a woman are seated on a bench in what appears to be an amusement park.",
+    "objects": [
+      "this",
+      "what",
+      "woman",
+      "man",
+      "amusement",
+      "park",
+      "bench"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is holding a small reptile in his hands, possibly a gecko or a similar type of lizard, which is a popular pet in the pet trade.",
+    "objects": [
+      "lizard",
+      "type",
+      "small",
+      "man",
+      "which",
+      "possibly",
+      "pet",
+      "reptile"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is holding a small reptile in his hands, possibly a gecko or a similar type of lizard, which is a popular pet in the pet trade.",
+    "objects": [
+      "lizard",
+      "type",
+      "small",
+      "man",
+      "which",
+      "possibly",
+      "pet",
+      "reptile"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is holding a small reptile in his hands, possibly a gecko or a similar type of lizard, which is a popular pet in the pet trade.",
+    "objects": [
+      "lizard",
+      "type",
+      "small",
+      "man",
+      "which",
+      "possibly",
+      "pet",
+      "reptile"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is holding a small reptile in his hands, possibly a gecko or a similar type of lizard, which is a popular pet in the pet trade.",
+    "objects": [
+      "lizard",
+      "type",
+      "small",
+      "man",
+      "which",
+      "possibly",
+      "pet",
+      "reptile"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The reptile is small and has a distinctive pattern on its body, possibly resembling a gecko.",
+    "objects": [
+      "has",
+      "small",
+      "pattern",
+      "body",
+      "reptile",
+      "distinctive",
+      "gecko",
+      "possibly"
+    ],
+    "actions": [
+      "resembling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The reptile is small and has a distinctive pattern on its body, possibly resembling a gecko.",
+    "objects": [
+      "has",
+      "small",
+      "pattern",
+      "body",
+      "reptile",
+      "distinctive",
+      "gecko",
+      "possibly"
+    ],
+    "actions": [
+      "resembling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The reptile is small and has a distinctive pattern on its body, possibly resembling a gecko.",
+    "objects": [
+      "has",
+      "small",
+      "pattern",
+      "body",
+      "reptile",
+      "distinctive",
+      "gecko",
+      "possibly"
+    ],
+    "actions": [
+      "resembling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The reptile is small and has a distinctive pattern on its body, possibly resembling a gecko.",
+    "objects": [
+      "has",
+      "small",
+      "pattern",
+      "body",
+      "reptile",
+      "distinctive",
+      "gecko",
+      "possibly"
+    ],
+    "actions": [
+      "resembling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is holding a cell phone, and it seems like she is recording the interaction between the man and the reptile.",
+    "objects": [
+      "between",
+      "woman",
+      "man",
+      "she",
+      "reptile",
+      "like",
+      "interaction",
+      "cell"
+    ],
+    "actions": [
+      "holding",
+      "seems",
+      "recording"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is holding a cell phone, and it seems like she is recording the interaction between the man and the reptile.",
+    "objects": [
+      "between",
+      "woman",
+      "man",
+      "she",
+      "reptile",
+      "like",
+      "interaction",
+      "cell"
+    ],
+    "actions": [
+      "holding",
+      "seems",
+      "recording"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is holding a cell phone, and it seems like she is recording the interaction between the man and the reptile.",
+    "objects": [
+      "between",
+      "woman",
+      "man",
+      "she",
+      "reptile",
+      "like",
+      "interaction",
+      "cell"
+    ],
+    "actions": [
+      "holding",
+      "seems",
+      "recording"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is holding a cell phone, and it seems like she is recording the interaction between the man and the reptile.",
+    "objects": [
+      "between",
+      "woman",
+      "man",
+      "she",
+      "reptile",
+      "like",
+      "interaction",
+      "cell"
+    ],
+    "actions": [
+      "holding",
+      "seems",
+      "recording"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Both individuals are casually dressed, with the man wearing a light blue t-shirt and the woman in a brown tank top.",
+    "objects": [
+      "woman",
+      "man",
+      "tank",
+      "blue",
+      "light",
+      "both",
+      "brown",
+      "casually"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "individuals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Both individuals are casually dressed, with the man wearing a light blue t-shirt and the woman in a brown tank top.",
+    "objects": [
+      "woman",
+      "man",
+      "tank",
+      "blue",
+      "light",
+      "both",
+      "brown",
+      "casually"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "individuals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Both individuals are casually dressed, with the man wearing a light blue t-shirt and the woman in a brown tank top.",
+    "objects": [
+      "woman",
+      "man",
+      "tank",
+      "blue",
+      "light",
+      "both",
+      "brown",
+      "casually"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "individuals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Both individuals are casually dressed, with the man wearing a light blue t-shirt and the woman in a brown tank top.",
+    "objects": [
+      "woman",
+      "man",
+      "tank",
+      "blue",
+      "light",
+      "both",
+      "brown",
+      "casually"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "individuals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The bench they are sitting on is blue, and the setting appears to be an outdoor amusement park with various attractions in the background, including a ferris wheel.",
+    "objects": [
+      "amusement",
+      "park",
+      "blue",
+      "they",
+      "wheel",
+      "bench",
+      "outdoor"
+    ],
+    "actions": [
+      "attractions",
+      "setting",
+      "ferris",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The bench they are sitting on is blue, and the setting appears to be an outdoor amusement park with various attractions in the background, including a ferris wheel.",
+    "objects": [
+      "amusement",
+      "park",
+      "blue",
+      "they",
+      "wheel",
+      "bench",
+      "outdoor"
+    ],
+    "actions": [
+      "attractions",
+      "setting",
+      "ferris",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The bench they are sitting on is blue, and the setting appears to be an outdoor amusement park with various attractions in the background, including a ferris wheel.",
+    "objects": [
+      "amusement",
+      "park",
+      "blue",
+      "they",
+      "wheel",
+      "bench",
+      "outdoor"
+    ],
+    "actions": [
+      "attractions",
+      "setting",
+      "ferris",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The bench they are sitting on is blue, and the setting appears to be an outdoor amusement park with various attractions in the background, including a ferris wheel.",
+    "objects": [
+      "amusement",
+      "park",
+      "blue",
+      "they",
+      "wheel",
+      "bench",
+      "outdoor"
+    ],
+    "actions": [
+      "attractions",
+      "setting",
+      "ferris",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man seems to be enjoying the interaction with the reptile, which is a common sight in petting zoos and amusement parks.",
+    "objects": [
+      "sight",
+      "which",
+      "man",
+      "amusement",
+      "zoos",
+      "reptile",
+      "common",
+      "interaction"
+    ],
+    "actions": [
+      "enjoying",
+      "parks",
+      "petting",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man seems to be enjoying the interaction with the reptile, which is a common sight in petting zoos and amusement parks.",
+    "objects": [
+      "sight",
+      "which",
+      "man",
+      "amusement",
+      "zoos",
+      "reptile",
+      "common",
+      "interaction"
+    ],
+    "actions": [
+      "enjoying",
+      "parks",
+      "petting",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man seems to be enjoying the interaction with the reptile, which is a common sight in petting zoos and amusement parks.",
+    "objects": [
+      "sight",
+      "which",
+      "man",
+      "amusement",
+      "zoos",
+      "reptile",
+      "common",
+      "interaction"
+    ],
+    "actions": [
+      "enjoying",
+      "parks",
+      "petting",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man seems to be enjoying the interaction with the reptile, which is a common sight in petting zoos and amusement parks.",
+    "objects": [
+      "sight",
+      "which",
+      "man",
+      "amusement",
+      "zoos",
+      "reptile",
+      "common",
+      "interaction"
+    ],
+    "actions": [
+      "enjoying",
+      "parks",
+      "petting",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman's focus is on the interaction, capturing the moment on her phone.",
+    "objects": [
+      "moment",
+      "interaction",
+      "phone",
+      "her"
+    ],
+    "actions": [
+      "capturing",
+      "focus",
+      "woman's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman's focus is on the interaction, capturing the moment on her phone.",
+    "objects": [
+      "moment",
+      "interaction",
+      "phone",
+      "her"
+    ],
+    "actions": [
+      "capturing",
+      "focus",
+      "woman's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman's focus is on the interaction, capturing the moment on her phone.",
+    "objects": [
+      "moment",
+      "interaction",
+      "phone",
+      "her"
+    ],
+    "actions": [
+      "capturing",
+      "focus",
+      "woman's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman's focus is on the interaction, capturing the moment on her phone.",
+    "objects": [
+      "moment",
+      "interaction",
+      "phone",
+      "her"
+    ],
+    "actions": [
+      "capturing",
+      "focus",
+      "woman's"
+    ],
+    "segment_id": 7
+  }
+]

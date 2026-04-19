@@ -1,0 +1,549 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of children engaging in a playful fight outside on a sunny day.",
+    "objects": [
+      "playful",
+      "outside",
+      "fight",
+      "this",
+      "sunny",
+      "day",
+      "group",
+      "see"
+    ],
+    "actions": [
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of children engaging in a playful fight outside on a sunny day.",
+    "objects": [
+      "playful",
+      "outside",
+      "fight",
+      "this",
+      "sunny",
+      "day",
+      "group",
+      "see"
+    ],
+    "actions": [
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of children engaging in a playful fight outside on a sunny day.",
+    "objects": [
+      "playful",
+      "outside",
+      "fight",
+      "this",
+      "sunny",
+      "day",
+      "group",
+      "see"
+    ],
+    "actions": [
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "Two boys are wearing blue hoodies and blue jeans.",
+    "objects": [
+      "blue",
+      "two",
+      "boys"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "hoodies"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Two boys are wearing blue hoodies and blue jeans.",
+    "objects": [
+      "blue",
+      "two",
+      "boys"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "hoodies"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two boys are wearing blue hoodies and blue jeans.",
+    "objects": [
+      "blue",
+      "two",
+      "boys"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "hoodies"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are holding a red chair, with one boy pushing the other away from it.",
+    "objects": [
+      "away",
+      "other",
+      "one",
+      "boy",
+      "chair",
+      "from",
+      "they"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "pushing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "They are holding a red chair, with one boy pushing the other away from it.",
+    "objects": [
+      "away",
+      "other",
+      "one",
+      "boy",
+      "chair",
+      "from",
+      "they"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "pushing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "They are holding a red chair, with one boy pushing the other away from it.",
+    "objects": [
+      "away",
+      "other",
+      "one",
+      "boy",
+      "chair",
+      "from",
+      "they"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "pushing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A boy in a blue hoodie and jeans is lying on the ground, possibly trying to catch his breath or just resting.",
+    "objects": [
+      "blue",
+      "ground",
+      "breath",
+      "his",
+      "boy",
+      "catch",
+      "hoodie",
+      "just"
+    ],
+    "actions": [
+      "trying",
+      "jeans",
+      "resting",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A boy in a blue hoodie and jeans is lying on the ground, possibly trying to catch his breath or just resting.",
+    "objects": [
+      "blue",
+      "ground",
+      "breath",
+      "his",
+      "boy",
+      "catch",
+      "hoodie",
+      "just"
+    ],
+    "actions": [
+      "trying",
+      "jeans",
+      "resting",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A boy in a blue hoodie and jeans is lying on the ground, possibly trying to catch his breath or just resting.",
+    "objects": [
+      "blue",
+      "ground",
+      "breath",
+      "his",
+      "boy",
+      "catch",
+      "hoodie",
+      "just"
+    ],
+    "actions": [
+      "trying",
+      "jeans",
+      "resting",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A boy in a black shirt is standing nearby, observing the fight.",
+    "objects": [
+      "fight",
+      "shirt",
+      "nearby",
+      "boy",
+      "black"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A boy in a black shirt is standing nearby, observing the fight.",
+    "objects": [
+      "fight",
+      "shirt",
+      "nearby",
+      "boy",
+      "black"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A boy in a black shirt is standing nearby, observing the fight.",
+    "objects": [
+      "fight",
+      "shirt",
+      "nearby",
+      "boy",
+      "black"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Two other boys, one in a blue shirt and the other in a red shirt, are standing and watching the interaction.",
+    "objects": [
+      "blue",
+      "interaction",
+      "other",
+      "shirt",
+      "one",
+      "two",
+      "boys"
+    ],
+    "actions": [
+      "watching",
+      "red",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Two other boys, one in a blue shirt and the other in a red shirt, are standing and watching the interaction.",
+    "objects": [
+      "blue",
+      "interaction",
+      "other",
+      "shirt",
+      "one",
+      "two",
+      "boys"
+    ],
+    "actions": [
+      "watching",
+      "red",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Two other boys, one in a blue shirt and the other in a red shirt, are standing and watching the interaction.",
+    "objects": [
+      "blue",
+      "interaction",
+      "other",
+      "shirt",
+      "one",
+      "two",
+      "boys"
+    ],
+    "actions": [
+      "watching",
+      "red",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy in the red shirt is holding a red chair, while the boy in the blue shirt is lying on the ground.",
+    "objects": [
+      "blue",
+      "ground",
+      "while",
+      "shirt",
+      "boy",
+      "chair"
+    ],
+    "actions": [
+      "holding",
+      "lying",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy in the red shirt is holding a red chair, while the boy in the blue shirt is lying on the ground.",
+    "objects": [
+      "blue",
+      "ground",
+      "while",
+      "shirt",
+      "boy",
+      "chair"
+    ],
+    "actions": [
+      "holding",
+      "lying",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The boy in the red shirt is holding a red chair, while the boy in the blue shirt is lying on the ground.",
+    "objects": [
+      "blue",
+      "ground",
+      "while",
+      "shirt",
+      "boy",
+      "chair"
+    ],
+    "actions": [
+      "holding",
+      "lying",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The boy in the blue shirt is wearing a blue hoodie and jeans.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "jeans",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The boy in the blue shirt is wearing a blue hoodie and jeans.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "jeans",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The boy in the blue shirt is wearing a blue hoodie and jeans.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "shirt",
+      "boy"
+    ],
+    "actions": [
+      "jeans",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A boy in a white shirt is also present, and he is wearing jeans.",
+    "objects": [
+      "white",
+      "shirt",
+      "present",
+      "boy"
+    ],
+    "actions": [
+      "jeans",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A boy in a white shirt is also present, and he is wearing jeans.",
+    "objects": [
+      "white",
+      "shirt",
+      "present",
+      "boy"
+    ],
+    "actions": [
+      "jeans",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A boy in a white shirt is also present, and he is wearing jeans.",
+    "objects": [
+      "white",
+      "shirt",
+      "present",
+      "boy"
+    ],
+    "actions": [
+      "jeans",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "He is observing the situation, standing with his hands on his hips.",
+    "objects": [
+      "hips",
+      "his",
+      "situation"
+    ],
+    "actions": [
+      "hands",
+      "observing",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "He is observing the situation, standing with his hands on his hips.",
+    "objects": [
+      "hips",
+      "his",
+      "situation"
+    ],
+    "actions": [
+      "hands",
+      "observing",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "He is observing the situation, standing with his hands on his hips.",
+    "objects": [
+      "hips",
+      "his",
+      "situation"
+    ],
+    "actions": [
+      "hands",
+      "observing",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The boy in the blue shirt is wearing a blue hoodie and jeans, and he is also lying on the ground.",
+    "objects": [
+      "blue",
+      "ground",
+      "shirt",
+      "boy",
+      "hoodie"
+    ],
+    "actions": [
+      "jeans",
+      "lying",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The boy in the blue shirt is wearing a blue hoodie and jeans, and he is also lying on the ground.",
+    "objects": [
+      "blue",
+      "ground",
+      "shirt",
+      "boy",
+      "hoodie"
+    ],
+    "actions": [
+      "jeans",
+      "lying",
+      "wearing"
+    ],
+    "segment_id": 10
+  }
+]

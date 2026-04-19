@@ -1,0 +1,602 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a serene moment of two cats enjoying a meal together.",
+    "objects": [
+      "meal",
+      "two",
+      "serene",
+      "cats",
+      "moment",
+      "this",
+      "together"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a serene moment of two cats enjoying a meal together.",
+    "objects": [
+      "meal",
+      "two",
+      "serene",
+      "cats",
+      "moment",
+      "this",
+      "together"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a serene moment of two cats enjoying a meal together.",
+    "objects": [
+      "meal",
+      "two",
+      "serene",
+      "cats",
+      "moment",
+      "this",
+      "together"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "This video captures a serene moment of two cats enjoying a meal together.",
+    "objects": [
+      "meal",
+      "two",
+      "serene",
+      "cats",
+      "moment",
+      "this",
+      "together"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with one cat sitting calmly, possibly waiting for its turn to eat, while the other cat is busy eating.",
+    "objects": [
+      "one",
+      "eat",
+      "its",
+      "other",
+      "busy",
+      "while",
+      "possibly",
+      "cat"
+    ],
+    "actions": [
+      "waiting",
+      "sitting",
+      "opens",
+      "eating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with one cat sitting calmly, possibly waiting for its turn to eat, while the other cat is busy eating.",
+    "objects": [
+      "one",
+      "eat",
+      "its",
+      "other",
+      "busy",
+      "while",
+      "possibly",
+      "cat"
+    ],
+    "actions": [
+      "waiting",
+      "sitting",
+      "opens",
+      "eating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene opens with one cat sitting calmly, possibly waiting for its turn to eat, while the other cat is busy eating.",
+    "objects": [
+      "one",
+      "eat",
+      "its",
+      "other",
+      "busy",
+      "while",
+      "possibly",
+      "cat"
+    ],
+    "actions": [
+      "waiting",
+      "sitting",
+      "opens",
+      "eating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene opens with one cat sitting calmly, possibly waiting for its turn to eat, while the other cat is busy eating.",
+    "objects": [
+      "one",
+      "eat",
+      "its",
+      "other",
+      "busy",
+      "while",
+      "possibly",
+      "cat"
+    ],
+    "actions": [
+      "waiting",
+      "sitting",
+      "opens",
+      "eating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "As the first cat finishes its meal, the second cat, still with food in its mouth, takes a moment to stop and look around, perhaps noticing something of interest.",
+    "objects": [
+      "its",
+      "mouth",
+      "moment",
+      "meal",
+      "stop",
+      "look",
+      "around",
+      "cat"
+    ],
+    "actions": [
+      "something",
+      "finishes",
+      "noticing",
+      "perhaps"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "As the first cat finishes its meal, the second cat, still with food in its mouth, takes a moment to stop and look around, perhaps noticing something of interest.",
+    "objects": [
+      "its",
+      "mouth",
+      "moment",
+      "meal",
+      "stop",
+      "look",
+      "around",
+      "cat"
+    ],
+    "actions": [
+      "something",
+      "finishes",
+      "noticing",
+      "perhaps"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "As the first cat finishes its meal, the second cat, still with food in its mouth, takes a moment to stop and look around, perhaps noticing something of interest.",
+    "objects": [
+      "its",
+      "mouth",
+      "moment",
+      "meal",
+      "stop",
+      "look",
+      "around",
+      "cat"
+    ],
+    "actions": [
+      "something",
+      "finishes",
+      "noticing",
+      "perhaps"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "As the first cat finishes its meal, the second cat, still with food in its mouth, takes a moment to stop and look around, perhaps noticing something of interest.",
+    "objects": [
+      "its",
+      "mouth",
+      "moment",
+      "meal",
+      "stop",
+      "look",
+      "around",
+      "cat"
+    ],
+    "actions": [
+      "something",
+      "finishes",
+      "noticing",
+      "perhaps"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The first cat then resumes eating, while the second cat continues to walk around, possibly in search of something.",
+    "objects": [
+      "walk",
+      "while",
+      "possibly",
+      "around",
+      "cat",
+      "second",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "something",
+      "continues",
+      "eating",
+      "resumes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The first cat then resumes eating, while the second cat continues to walk around, possibly in search of something.",
+    "objects": [
+      "walk",
+      "while",
+      "possibly",
+      "around",
+      "cat",
+      "second",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "something",
+      "continues",
+      "eating",
+      "resumes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The first cat then resumes eating, while the second cat continues to walk around, possibly in search of something.",
+    "objects": [
+      "walk",
+      "while",
+      "possibly",
+      "around",
+      "cat",
+      "second",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "something",
+      "continues",
+      "eating",
+      "resumes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The first cat then resumes eating, while the second cat continues to walk around, possibly in search of something.",
+    "objects": [
+      "walk",
+      "while",
+      "possibly",
+      "around",
+      "cat",
+      "second",
+      "first",
+      "then"
+    ],
+    "actions": [
+      "something",
+      "continues",
+      "eating",
+      "resumes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Both cats are wearing a blue hoodie, adding a playful touch to their attire.",
+    "objects": [
+      "their",
+      "both",
+      "attire",
+      "blue",
+      "cats",
+      "touch",
+      "hoodie",
+      "playful"
+    ],
+    "actions": [
+      "wearing",
+      "adding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Both cats are wearing a blue hoodie, adding a playful touch to their attire.",
+    "objects": [
+      "their",
+      "both",
+      "attire",
+      "blue",
+      "cats",
+      "touch",
+      "hoodie",
+      "playful"
+    ],
+    "actions": [
+      "wearing",
+      "adding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Both cats are wearing a blue hoodie, adding a playful touch to their attire.",
+    "objects": [
+      "their",
+      "both",
+      "attire",
+      "blue",
+      "cats",
+      "touch",
+      "hoodie",
+      "playful"
+    ],
+    "actions": [
+      "wearing",
+      "adding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Both cats are wearing a blue hoodie, adding a playful touch to their attire.",
+    "objects": [
+      "their",
+      "both",
+      "attire",
+      "blue",
+      "cats",
+      "touch",
+      "hoodie",
+      "playful"
+    ],
+    "actions": [
+      "wearing",
+      "adding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene is set against the backdrop of a stone wall, providing a rustic charm to the setting.",
+    "objects": [
+      "wall",
+      "charm",
+      "backdrop",
+      "rustic",
+      "set",
+      "against",
+      "stone"
+    ],
+    "actions": [
+      "providing",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene is set against the backdrop of a stone wall, providing a rustic charm to the setting.",
+    "objects": [
+      "wall",
+      "charm",
+      "backdrop",
+      "rustic",
+      "set",
+      "against",
+      "stone"
+    ],
+    "actions": [
+      "providing",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene is set against the backdrop of a stone wall, providing a rustic charm to the setting.",
+    "objects": [
+      "wall",
+      "charm",
+      "backdrop",
+      "rustic",
+      "set",
+      "against",
+      "stone"
+    ],
+    "actions": [
+      "providing",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene is set against the backdrop of a stone wall, providing a rustic charm to the setting.",
+    "objects": [
+      "wall",
+      "charm",
+      "backdrop",
+      "rustic",
+      "set",
+      "against",
+      "stone"
+    ],
+    "actions": [
+      "providing",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The cats are on the ground, and a silver car is visible in the background, perhaps indicating the location of the meal.",
+    "objects": [
+      "meal",
+      "cats",
+      "location",
+      "silver",
+      "car",
+      "ground"
+    ],
+    "actions": [
+      "perhaps",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The cats are on the ground, and a silver car is visible in the background, perhaps indicating the location of the meal.",
+    "objects": [
+      "meal",
+      "cats",
+      "location",
+      "silver",
+      "car",
+      "ground"
+    ],
+    "actions": [
+      "perhaps",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The cats are on the ground, and a silver car is visible in the background, perhaps indicating the location of the meal.",
+    "objects": [
+      "meal",
+      "cats",
+      "location",
+      "silver",
+      "car",
+      "ground"
+    ],
+    "actions": [
+      "perhaps",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The cats are on the ground, and a silver car is visible in the background, perhaps indicating the location of the meal.",
+    "objects": [
+      "meal",
+      "cats",
+      "location",
+      "silver",
+      "car",
+      "ground"
+    ],
+    "actions": [
+      "perhaps",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The video is a heartwarming snapshot of feline companionship and simple pleasures in life.",
+    "objects": [
+      "snapshot",
+      "feline",
+      "simple",
+      "life",
+      "companionship"
+    ],
+    "actions": [
+      "pleasures",
+      "heartwarming"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The video is a heartwarming snapshot of feline companionship and simple pleasures in life.",
+    "objects": [
+      "snapshot",
+      "feline",
+      "simple",
+      "life",
+      "companionship"
+    ],
+    "actions": [
+      "pleasures",
+      "heartwarming"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The video is a heartwarming snapshot of feline companionship and simple pleasures in life.",
+    "objects": [
+      "snapshot",
+      "feline",
+      "simple",
+      "life",
+      "companionship"
+    ],
+    "actions": [
+      "pleasures",
+      "heartwarming"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The video is a heartwarming snapshot of feline companionship and simple pleasures in life.",
+    "objects": [
+      "snapshot",
+      "feline",
+      "simple",
+      "life",
+      "companionship"
+    ],
+    "actions": [
+      "pleasures",
+      "heartwarming"
+    ],
+    "segment_id": 7
+  }
+]

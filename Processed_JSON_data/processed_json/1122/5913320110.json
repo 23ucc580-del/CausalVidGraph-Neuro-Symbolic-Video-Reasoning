@@ -1,0 +1,574 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people performing a theatrical sketches on a stage.",
+    "objects": [
+      "stage",
+      "theatrical",
+      "this",
+      "people",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "sketches",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people performing a theatrical sketches on a stage.",
+    "objects": [
+      "stage",
+      "theatrical",
+      "this",
+      "people",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "sketches",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The actors are dressed in costumes, with one man wearing a blue hoodie and another in a red hoodie.",
+    "objects": [
+      "man",
+      "one",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "dressed",
+      "costumes",
+      "actors",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The actors are dressed in costumes, with one man wearing a blue hoodie and another in a red hoodie.",
+    "objects": [
+      "man",
+      "one",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "dressed",
+      "costumes",
+      "actors",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man in the red hoodie is holding a microphone, and the man in the blue hoodie is holding a white object.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "microphone",
+      "object",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The man in the red hoodie is holding a microphone, and the man in the blue hoodie is holding a white object.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "microphone",
+      "object",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "They are all wearing animal costumes, with the man in the blue hoodie wearing a bear head and the man in the red hoodie wearing a lion head.",
+    "objects": [
+      "blue",
+      "animal",
+      "lion",
+      "bear",
+      "man",
+      "all",
+      "hoodie",
+      "head"
+    ],
+    "actions": [
+      "costumes",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "They are all wearing animal costumes, with the man in the blue hoodie wearing a bear head and the man in the red hoodie wearing a lion head.",
+    "objects": [
+      "blue",
+      "animal",
+      "lion",
+      "bear",
+      "man",
+      "all",
+      "hoodie",
+      "head"
+    ],
+    "actions": [
+      "costumes",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene starts with the man in the blue hoodie walking towards the man in the red hoodie, who is kneeling down.",
+    "objects": [
+      "man",
+      "who",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "starts",
+      "towards",
+      "red",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene starts with the man in the blue hoodie walking towards the man in the red hoodie, who is kneeling down.",
+    "objects": [
+      "man",
+      "who",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "starts",
+      "towards",
+      "red",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The man in the blue hoodie holds up the white object and walks towards the man in the red hoodie, who is now standing.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "object",
+      "now",
+      "hoodie",
+      "who"
+    ],
+    "actions": [
+      "towards",
+      "holds",
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The man in the blue hoodie holds up the white object and walks towards the man in the red hoodie, who is now standing.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "object",
+      "now",
+      "hoodie",
+      "who"
+    ],
+    "actions": [
+      "towards",
+      "holds",
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in the red hoodie then speaks to the man in the blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "then",
+      "hoodie"
+    ],
+    "actions": [
+      "speaks",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in the red hoodie then speaks to the man in the blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "then",
+      "hoodie"
+    ],
+    "actions": [
+      "speaks",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the blue hoodie then walks away and returns with the white object, handing it to the man in the red hoodie.",
+    "objects": [
+      "white",
+      "blue",
+      "away",
+      "man",
+      "object",
+      "hoodie",
+      "then"
+    ],
+    "actions": [
+      "walks",
+      "handing",
+      "returns",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the blue hoodie then walks away and returns with the white object, handing it to the man in the red hoodie.",
+    "objects": [
+      "white",
+      "blue",
+      "away",
+      "man",
+      "object",
+      "hoodie",
+      "then"
+    ],
+    "actions": [
+      "walks",
+      "handing",
+      "returns",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the red hoodie then walks away and returns with a microphone, handing it to the man in the blue hoodie.",
+    "objects": [
+      "blue",
+      "away",
+      "man",
+      "microphone",
+      "hoodie",
+      "then"
+    ],
+    "actions": [
+      "walks",
+      "handing",
+      "returns",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the red hoodie then walks away and returns with a microphone, handing it to the man in the blue hoodie.",
+    "objects": [
+      "blue",
+      "away",
+      "man",
+      "microphone",
+      "hoodie",
+      "then"
+    ],
+    "actions": [
+      "walks",
+      "handing",
+      "returns",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the blue hoodie then speaks to the man in the red hoodie and walks away, returning with the microphone.",
+    "objects": [
+      "blue",
+      "away",
+      "man",
+      "microphone",
+      "hoodie",
+      "then"
+    ],
+    "actions": [
+      "speaks",
+      "walks",
+      "returning",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the blue hoodie then speaks to the man in the red hoodie and walks away, returning with the microphone.",
+    "objects": [
+      "blue",
+      "away",
+      "man",
+      "microphone",
+      "hoodie",
+      "then"
+    ],
+    "actions": [
+      "speaks",
+      "walks",
+      "returning",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The man in the red hoodie then speaks to the man in the blue hoodie, and the man in the blue hoodie walks away.",
+    "objects": [
+      "blue",
+      "away",
+      "man",
+      "hoodie",
+      "then"
+    ],
+    "actions": [
+      "speaks",
+      "walks",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The man in the red hoodie then speaks to the man in the blue hoodie, and the man in the blue hoodie walks away.",
+    "objects": [
+      "blue",
+      "away",
+      "man",
+      "hoodie",
+      "then"
+    ],
+    "actions": [
+      "speaks",
+      "walks",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The man in the red hoodie walks towards the man in the bear head, and the man in the bear head stands.",
+    "objects": [
+      "bear",
+      "man",
+      "head",
+      "hoodie"
+    ],
+    "actions": [
+      "walks",
+      "towards",
+      "red",
+      "stands"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The man in the red hoodie walks towards the man in the bear head, and the man in the bear head stands.",
+    "objects": [
+      "bear",
+      "man",
+      "head",
+      "hoodie"
+    ],
+    "actions": [
+      "walks",
+      "towards",
+      "red",
+      "stands"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the red hoodie then speaks to the man in the bear head, and the man in the bear head walks away.",
+    "objects": [
+      "bear",
+      "man",
+      "away",
+      "hoodie",
+      "head",
+      "then"
+    ],
+    "actions": [
+      "speaks",
+      "walks",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the red hoodie then speaks to the man in the bear head, and the man in the bear head walks away.",
+    "objects": [
+      "bear",
+      "man",
+      "away",
+      "hoodie",
+      "head",
+      "then"
+    ],
+    "actions": [
+      "speaks",
+      "walks",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the red hoodie then walks towards the man in the lion head, and the man in the lion head stands.",
+    "objects": [
+      "lion",
+      "man",
+      "hoodie",
+      "head",
+      "then"
+    ],
+    "actions": [
+      "walks",
+      "towards",
+      "red",
+      "stands"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the red hoodie then walks towards the man in the lion head, and the man in the lion head stands.",
+    "objects": [
+      "lion",
+      "man",
+      "hoodie",
+      "head",
+      "then"
+    ],
+    "actions": [
+      "walks",
+      "towards",
+      "red",
+      "stands"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the red hoodie then speaks to the man in the lion head, and the man in the lion head walks away.",
+    "objects": [
+      "lion",
+      "away",
+      "man",
+      "hoodie",
+      "head",
+      "then"
+    ],
+    "actions": [
+      "speaks",
+      "walks",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the red hoodie then speaks to the man in the lion head, and the man in the lion head walks away.",
+    "objects": [
+      "lion",
+      "away",
+      "man",
+      "hoodie",
+      "head",
+      "then"
+    ],
+    "actions": [
+      "speaks",
+      "walks",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the red hoodie then walks towards the man in the blue hoodie, and the man in the blue hoodie stands.",
+    "objects": [
+      "blue",
+      "man",
+      "then",
+      "hoodie"
+    ],
+    "actions": [
+      "walks",
+      "towards",
+      "red",
+      "stands"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the red hoodie then walks towards the man in the blue hoodie, and the man in the blue hoodie stands.",
+    "objects": [
+      "blue",
+      "man",
+      "then",
+      "hoodie"
+    ],
+    "actions": [
+      "walks",
+      "towards",
+      "red",
+      "stands"
+    ],
+    "segment_id": 15
+  }
+]

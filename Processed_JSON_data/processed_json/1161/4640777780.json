@@ -1,0 +1,587 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a close-up shot of a little girl, who is wearing a pink shirt, smiling brightly and holding a ball with a cartoon character design.",
+    "objects": [
+      "pink",
+      "cartoon",
+      "design",
+      "shirt",
+      "girl",
+      "character",
+      "ball",
+      "brightly"
+    ],
+    "actions": [
+      "smiling",
+      "begins",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "She is sitting on the floor, surrounded by various household items, including a green toy car and a wooden high chair.",
+    "objects": [
+      "car",
+      "toy",
+      "high",
+      "wooden",
+      "green",
+      "chair",
+      "floor",
+      "she"
+    ],
+    "actions": [
+      "surrounded",
+      "sitting",
+      "items"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The camera then pans to the left, revealing a playroom filled with toys and a chair.",
+    "objects": [
+      "playroom",
+      "toys",
+      "pans",
+      "chair",
+      "then"
+    ],
+    "actions": [
+      "filled",
+      "revealing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The little girl is now standing, holding the ball with both hands, and her smile widens as she talks to the camera.",
+    "objects": [
+      "both",
+      "her",
+      "girl",
+      "smile",
+      "ball",
+      "now",
+      "little",
+      "she"
+    ],
+    "actions": [
+      "talks",
+      "holding",
+      "standing",
+      "hands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing pigtails and her shirt has a blue design on it.",
+    "objects": [
+      "blue",
+      "has",
+      "design",
+      "her",
+      "shirt",
+      "she"
+    ],
+    "actions": [
+      "pigtails",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera pans back to the left, revealing a dining table with chairs and a child's high chair.",
+    "objects": [
+      "chair",
+      "pans",
+      "high",
+      "table"
+    ],
+    "actions": [
+      "chairs",
+      "dining",
+      "revealing",
+      "child's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The little girl is now sitting on a pink chair, holding the ball with both hands.",
+    "objects": [
+      "pink",
+      "both",
+      "chair",
+      "girl",
+      "ball",
+      "now",
+      "little"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "She is wearing a pink shirt with a blue design on it.",
+    "objects": [
+      "blue",
+      "pink",
+      "design",
+      "shirt",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera pans to the right, where we see a playroom with a toy car and a chair.",
+    "objects": [
+      "playroom",
+      "toy",
+      "car",
+      "chair",
+      "pans",
+      "where",
+      "see"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The little girl is now standing, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then pans to the left, revealing a dining table with chairs and a high chair.",
+    "objects": [
+      "high",
+      "pans",
+      "table",
+      "chair",
+      "then"
+    ],
+    "actions": [
+      "chairs",
+      "dining",
+      "revealing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The little girl is now sitting on the floor, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera pans back to the left, showing a playroom with a toy car and a chair.",
+    "objects": [
+      "playroom",
+      "toy",
+      "car",
+      "pans",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The little girl is now standing, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera pans to the right, showing a playroom with a toy car and a chair.",
+    "objects": [
+      "playroom",
+      "toy",
+      "car",
+      "pans",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The little girl is now sitting on the floor, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera pans back to the left, revealing a dining table with chairs and a high chair.",
+    "objects": [
+      "chair",
+      "pans",
+      "high",
+      "table"
+    ],
+    "actions": [
+      "chairs",
+      "dining",
+      "revealing"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The little girl is now standing, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera pans to the right, showing a playroom with a toy car and a chair.",
+    "objects": [
+      "playroom",
+      "toy",
+      "car",
+      "pans",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The little girl is now sitting on the floor, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera pans back to the left, revealing a dining table with chairs and a high chair.",
+    "objects": [
+      "chair",
+      "pans",
+      "high",
+      "table"
+    ],
+    "actions": [
+      "chairs",
+      "dining",
+      "revealing"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The little girl is now standing, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera pans to the right, showing a playroom with a toy car and a chair.",
+    "objects": [
+      "playroom",
+      "toy",
+      "car",
+      "pans",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The little girl is now sitting on the floor, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera pans back to the left, showing a dining table with chairs and a high chair.",
+    "objects": [
+      "chair",
+      "pans",
+      "high",
+      "table"
+    ],
+    "actions": [
+      "chairs",
+      "dining"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The little girl is now standing, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera pans to the right, showing a playroom with a toy car and a chair.",
+    "objects": [
+      "playroom",
+      "toy",
+      "car",
+      "pans",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The little girl is now sitting on the floor, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera pans back to the left, revealing a dining table with chairs and a high chair.",
+    "objects": [
+      "chair",
+      "pans",
+      "high",
+      "table"
+    ],
+    "actions": [
+      "chairs",
+      "dining",
+      "revealing"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The little girl is now standing, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera pans to the right, showing a playroom with a toy car and a chair.",
+    "objects": [
+      "playroom",
+      "toy",
+      "car",
+      "pans",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The little girl is now sitting on the floor, holding the ball with both hands, and she is wearing a pink shirt with a blue design.",
+    "objects": [
+      "blue",
+      "pink",
+      "both",
+      "design",
+      "shirt",
+      "girl",
+      "ball",
+      "now"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 31
+  }
+]

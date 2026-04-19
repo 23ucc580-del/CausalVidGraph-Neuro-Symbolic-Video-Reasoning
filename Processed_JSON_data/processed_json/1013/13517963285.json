@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a panel discussion where three men are seated around a table, each holding a book.",
+    "objects": [
+      "three",
+      "discussion",
+      "table",
+      "each",
+      "where",
+      "panel",
+      "men",
+      "around"
+    ],
+    "actions": [
+      "seated",
+      "depicts",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a panel discussion where three men are seated around a table, each holding a book.",
+    "objects": [
+      "three",
+      "discussion",
+      "table",
+      "each",
+      "where",
+      "panel",
+      "men",
+      "around"
+    ],
+    "actions": [
+      "seated",
+      "depicts",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a panel discussion where three men are seated around a table, each holding a book.",
+    "objects": [
+      "three",
+      "discussion",
+      "table",
+      "each",
+      "where",
+      "panel",
+      "men",
+      "around"
+    ],
+    "actions": [
+      "seated",
+      "depicts",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a panel discussion where three men are seated around a table, each holding a book.",
+    "objects": [
+      "three",
+      "discussion",
+      "table",
+      "each",
+      "where",
+      "panel",
+      "men",
+      "around"
+    ],
+    "actions": [
+      "seated",
+      "depicts",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One man is wearing a blue hoodie, another is dressed in a black shirt, and the third is in a purple shirt.",
+    "objects": [
+      "one",
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "third",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One man is wearing a blue hoodie, another is dressed in a black shirt, and the third is in a purple shirt.",
+    "objects": [
+      "one",
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "third",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One man is wearing a blue hoodie, another is dressed in a black shirt, and the third is in a purple shirt.",
+    "objects": [
+      "one",
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "third",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One man is wearing a blue hoodie, another is dressed in a black shirt, and the third is in a purple shirt.",
+    "objects": [
+      "one",
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "third",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene is set in a room with a bookshelf in the background.",
+    "objects": [
+      "room",
+      "bookshelf",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene is set in a room with a bookshelf in the background.",
+    "objects": [
+      "room",
+      "bookshelf",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene is set in a room with a bookshelf in the background.",
+    "objects": [
+      "room",
+      "bookshelf",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene is set in a room with a bookshelf in the background.",
+    "objects": [
+      "room",
+      "bookshelf",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in the blue hoodie is speaking, while the man in the black shirt and the man in the purple shirt are listening attentively.",
+    "objects": [
+      "attentively",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "listening",
+      "speaking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in the blue hoodie is speaking, while the man in the black shirt and the man in the purple shirt are listening attentively.",
+    "objects": [
+      "attentively",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "listening",
+      "speaking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the blue hoodie is speaking, while the man in the black shirt and the man in the purple shirt are listening attentively.",
+    "objects": [
+      "attentively",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "listening",
+      "speaking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the blue hoodie is speaking, while the man in the black shirt and the man in the purple shirt are listening attentively.",
+    "objects": [
+      "attentively",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "listening",
+      "speaking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the purple shirt is wearing a white shirt.",
+    "objects": [
+      "man",
+      "purple",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the purple shirt is wearing a white shirt.",
+    "objects": [
+      "man",
+      "purple",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the purple shirt is wearing a white shirt.",
+    "objects": [
+      "man",
+      "purple",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the purple shirt is wearing a white shirt.",
+    "objects": [
+      "man",
+      "purple",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man in the blue hoodie is holding a book with a yellow cover, while the man in the black shirt is holding a book with a red cover.",
+    "objects": [
+      "while",
+      "black",
+      "blue",
+      "yellow",
+      "shirt",
+      "cover",
+      "book",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man in the blue hoodie is holding a book with a yellow cover, while the man in the black shirt is holding a book with a red cover.",
+    "objects": [
+      "while",
+      "black",
+      "blue",
+      "yellow",
+      "shirt",
+      "cover",
+      "book",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man in the blue hoodie is holding a book with a yellow cover, while the man in the black shirt is holding a book with a red cover.",
+    "objects": [
+      "while",
+      "black",
+      "blue",
+      "yellow",
+      "shirt",
+      "cover",
+      "book",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man in the blue hoodie is holding a book with a yellow cover, while the man in the black shirt is holding a book with a red cover.",
+    "objects": [
+      "while",
+      "black",
+      "blue",
+      "yellow",
+      "shirt",
+      "cover",
+      "book",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the purple shirt is holding a book with a white cover.",
+    "objects": [
+      "white",
+      "shirt",
+      "cover",
+      "book",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the purple shirt is holding a book with a white cover.",
+    "objects": [
+      "white",
+      "shirt",
+      "cover",
+      "book",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the purple shirt is holding a book with a white cover.",
+    "objects": [
+      "white",
+      "shirt",
+      "cover",
+      "book",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the purple shirt is holding a book with a white cover.",
+    "objects": [
+      "white",
+      "shirt",
+      "cover",
+      "book",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the blue hoodie is gesturing while speaking, and the man in the purple shirt is smiling.",
+    "objects": [
+      "while",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "smiling",
+      "speaking",
+      "gesturing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the blue hoodie is gesturing while speaking, and the man in the purple shirt is smiling.",
+    "objects": [
+      "while",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "smiling",
+      "speaking",
+      "gesturing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the blue hoodie is gesturing while speaking, and the man in the purple shirt is smiling.",
+    "objects": [
+      "while",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "smiling",
+      "speaking",
+      "gesturing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the blue hoodie is gesturing while speaking, and the man in the purple shirt is smiling.",
+    "objects": [
+      "while",
+      "blue",
+      "shirt",
+      "hoodie",
+      "man",
+      "purple"
+    ],
+    "actions": [
+      "smiling",
+      "speaking",
+      "gesturing"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,528 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young girl is standing in a room with various pieces of furniture such as a white table and chairs.",
+    "objects": [
+      "such",
+      "white",
+      "room",
+      "young",
+      "girl",
+      "furniture",
+      "table"
+    ],
+    "actions": [
+      "chairs",
+      "standing",
+      "pieces"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young girl is standing in a room with various pieces of furniture such as a white table and chairs.",
+    "objects": [
+      "such",
+      "white",
+      "room",
+      "young",
+      "girl",
+      "furniture",
+      "table"
+    ],
+    "actions": [
+      "chairs",
+      "standing",
+      "pieces"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young girl is standing in a room with various pieces of furniture such as a white table and chairs.",
+    "objects": [
+      "such",
+      "white",
+      "room",
+      "young",
+      "girl",
+      "furniture",
+      "table"
+    ],
+    "actions": [
+      "chairs",
+      "standing",
+      "pieces"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "She is wearing a blue hoodie and has blonde hair.",
+    "objects": [
+      "blue",
+      "has",
+      "blonde",
+      "hoodie",
+      "hair",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a blue hoodie and has blonde hair.",
+    "objects": [
+      "blue",
+      "has",
+      "blonde",
+      "hoodie",
+      "hair",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a blue hoodie and has blonde hair.",
+    "objects": [
+      "blue",
+      "has",
+      "blonde",
+      "hoodie",
+      "hair",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She picks up a basket from the floor, puts it on a table, and then picks it up again.",
+    "objects": [
+      "again",
+      "puts",
+      "basket",
+      "table",
+      "from",
+      "floor",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "picks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "She picks up a basket from the floor, puts it on a table, and then picks it up again.",
+    "objects": [
+      "again",
+      "puts",
+      "basket",
+      "table",
+      "from",
+      "floor",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "picks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "She picks up a basket from the floor, puts it on a table, and then picks it up again.",
+    "objects": [
+      "again",
+      "puts",
+      "basket",
+      "table",
+      "from",
+      "floor",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "picks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A baby in a green onesie is on the floor, crawling and looking around.",
+    "objects": [
+      "around",
+      "green",
+      "onesie",
+      "baby",
+      "floor"
+    ],
+    "actions": [
+      "looking",
+      "crawling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A baby in a green onesie is on the floor, crawling and looking around.",
+    "objects": [
+      "around",
+      "green",
+      "onesie",
+      "baby",
+      "floor"
+    ],
+    "actions": [
+      "looking",
+      "crawling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A baby in a green onesie is on the floor, crawling and looking around.",
+    "objects": [
+      "around",
+      "green",
+      "onesie",
+      "baby",
+      "floor"
+    ],
+    "actions": [
+      "looking",
+      "crawling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The girl is also holding a ball while standing.",
+    "objects": [
+      "while",
+      "girl",
+      "ball"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The girl is also holding a ball while standing.",
+    "objects": [
+      "while",
+      "girl",
+      "ball"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The girl is also holding a ball while standing.",
+    "objects": [
+      "while",
+      "girl",
+      "ball"
+    ],
+    "actions": [
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "In another scene, she is wearing a pink dress and standing in the same room.",
+    "objects": [
+      "pink",
+      "room",
+      "dress",
+      "same",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "In another scene, she is wearing a pink dress and standing in the same room.",
+    "objects": [
+      "pink",
+      "room",
+      "dress",
+      "same",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "In another scene, she is wearing a pink dress and standing in the same room.",
+    "objects": [
+      "pink",
+      "room",
+      "dress",
+      "same",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "She picks up a basket from the floor and then walks away.",
+    "objects": [
+      "away",
+      "basket",
+      "from",
+      "floor",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "picks",
+      "walks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "She picks up a basket from the floor and then walks away.",
+    "objects": [
+      "away",
+      "basket",
+      "from",
+      "floor",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "picks",
+      "walks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "She picks up a basket from the floor and then walks away.",
+    "objects": [
+      "away",
+      "basket",
+      "from",
+      "floor",
+      "she",
+      "then"
+    ],
+    "actions": [
+      "picks",
+      "walks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "In another scene, she is wearing a purple shirt and standing in the same room, holding a ball.",
+    "objects": [
+      "room",
+      "shirt",
+      "ball",
+      "same",
+      "purple",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "In another scene, she is wearing a purple shirt and standing in the same room, holding a ball.",
+    "objects": [
+      "room",
+      "shirt",
+      "ball",
+      "same",
+      "purple",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "In another scene, she is wearing a purple shirt and standing in the same room, holding a ball.",
+    "objects": [
+      "room",
+      "shirt",
+      "ball",
+      "same",
+      "purple",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "She smiles and walks away.",
+    "objects": [
+      "away",
+      "she"
+    ],
+    "actions": [
+      "walks",
+      "smiles"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "She smiles and walks away.",
+    "objects": [
+      "away",
+      "she"
+    ],
+    "actions": [
+      "walks",
+      "smiles"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "She smiles and walks away.",
+    "objects": [
+      "away",
+      "she"
+    ],
+    "actions": [
+      "walks",
+      "smiles"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "In yet another scene, she is wearing a blue hoodie and holding a ball while standing in the room.",
+    "objects": [
+      "blue",
+      "room",
+      "while",
+      "ball",
+      "yet",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "In yet another scene, she is wearing a blue hoodie and holding a ball while standing in the room.",
+    "objects": [
+      "blue",
+      "room",
+      "while",
+      "ball",
+      "yet",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "In yet another scene, she is wearing a blue hoodie and holding a ball while standing in the room.",
+    "objects": [
+      "blue",
+      "room",
+      "while",
+      "ball",
+      "yet",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby crawls on the floor in a green onesie.",
+    "objects": [
+      "floor",
+      "onesie",
+      "green",
+      "baby"
+    ],
+    "actions": [
+      "crawls"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby crawls on the floor in a green onesie.",
+    "objects": [
+      "floor",
+      "onesie",
+      "green",
+      "baby"
+    ],
+    "actions": [
+      "crawls"
+    ],
+    "segment_id": 10
+  }
+]

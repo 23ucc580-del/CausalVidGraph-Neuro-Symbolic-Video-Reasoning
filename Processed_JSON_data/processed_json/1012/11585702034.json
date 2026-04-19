@@ -1,0 +1,531 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts an outdoor scene at a dog training or agility competition.",
+    "objects": [
+      "agility",
+      "competition",
+      "dog",
+      "outdoor"
+    ],
+    "actions": [
+      "training",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts an outdoor scene at a dog training or agility competition.",
+    "objects": [
+      "agility",
+      "competition",
+      "dog",
+      "outdoor"
+    ],
+    "actions": [
+      "training",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts an outdoor scene at a dog training or agility competition.",
+    "objects": [
+      "agility",
+      "competition",
+      "dog",
+      "outdoor"
+    ],
+    "actions": [
+      "training",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The main focus is on a man and his black dog.",
+    "objects": [
+      "main",
+      "black",
+      "dog",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The main focus is on a man and his black dog.",
+    "objects": [
+      "main",
+      "black",
+      "dog",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The main focus is on a man and his black dog.",
+    "objects": [
+      "main",
+      "black",
+      "dog",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is wearing a black jacket and a red cap and is holding a blue leash attached to a pole.",
+    "objects": [
+      "pole",
+      "jacket",
+      "black",
+      "blue",
+      "leash",
+      "man",
+      "cap"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red",
+      "attached"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is wearing a black jacket and a red cap and is holding a blue leash attached to a pole.",
+    "objects": [
+      "pole",
+      "jacket",
+      "black",
+      "blue",
+      "leash",
+      "man",
+      "cap"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red",
+      "attached"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is wearing a black jacket and a red cap and is holding a blue leash attached to a pole.",
+    "objects": [
+      "pole",
+      "jacket",
+      "black",
+      "blue",
+      "leash",
+      "man",
+      "cap"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red",
+      "attached"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is standing on a grassy field, guiding his dog through an obstacle course.",
+    "objects": [
+      "course",
+      "field",
+      "dog",
+      "through",
+      "his",
+      "grassy",
+      "obstacle"
+    ],
+    "actions": [
+      "standing",
+      "guiding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "He is standing on a grassy field, guiding his dog through an obstacle course.",
+    "objects": [
+      "course",
+      "field",
+      "dog",
+      "through",
+      "his",
+      "grassy",
+      "obstacle"
+    ],
+    "actions": [
+      "standing",
+      "guiding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "He is standing on a grassy field, guiding his dog through an obstacle course.",
+    "objects": [
+      "course",
+      "field",
+      "dog",
+      "through",
+      "his",
+      "grassy",
+      "obstacle"
+    ],
+    "actions": [
+      "standing",
+      "guiding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog is wearing a red harness and is seen running between the man's legs.",
+    "objects": [
+      "between",
+      "dog",
+      "legs"
+    ],
+    "actions": [
+      "running",
+      "man's",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog is wearing a red harness and is seen running between the man's legs.",
+    "objects": [
+      "between",
+      "dog",
+      "legs"
+    ],
+    "actions": [
+      "running",
+      "man's",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The dog is wearing a red harness and is seen running between the man's legs.",
+    "objects": [
+      "between",
+      "dog",
+      "legs"
+    ],
+    "actions": [
+      "running",
+      "man's",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is encouraging the dog to jump over obstacles, which it does with ease.",
+    "objects": [
+      "does",
+      "jump",
+      "ease",
+      "dog",
+      "which",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "obstacles",
+      "encouraging"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is encouraging the dog to jump over obstacles, which it does with ease.",
+    "objects": [
+      "does",
+      "jump",
+      "ease",
+      "dog",
+      "which",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "obstacles",
+      "encouraging"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is encouraging the dog to jump over obstacles, which it does with ease.",
+    "objects": [
+      "does",
+      "jump",
+      "ease",
+      "dog",
+      "which",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "obstacles",
+      "encouraging"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The dog then jumps over another hurdle.",
+    "objects": [
+      "dog",
+      "over",
+      "hurdle",
+      "then"
+    ],
+    "actions": [
+      "jumps"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The dog then jumps over another hurdle.",
+    "objects": [
+      "dog",
+      "over",
+      "hurdle",
+      "then"
+    ],
+    "actions": [
+      "jumps"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The dog then jumps over another hurdle.",
+    "objects": [
+      "dog",
+      "over",
+      "hurdle",
+      "then"
+    ],
+    "actions": [
+      "jumps"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The man's movements are precise, guiding the dog through the course with a firm but gentle hand.",
+    "objects": [
+      "course",
+      "precise",
+      "hand",
+      "dog",
+      "through",
+      "gentle",
+      "firm",
+      "but"
+    ],
+    "actions": [
+      "movements",
+      "man's",
+      "guiding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The man's movements are precise, guiding the dog through the course with a firm but gentle hand.",
+    "objects": [
+      "course",
+      "precise",
+      "hand",
+      "dog",
+      "through",
+      "gentle",
+      "firm",
+      "but"
+    ],
+    "actions": [
+      "movements",
+      "man's",
+      "guiding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The man's movements are precise, guiding the dog through the course with a firm but gentle hand.",
+    "objects": [
+      "course",
+      "precise",
+      "hand",
+      "dog",
+      "through",
+      "gentle",
+      "firm",
+      "but"
+    ],
+    "actions": [
+      "movements",
+      "man's",
+      "guiding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The dog's agility is impressive, and the man's training is evident.",
+    "objects": [
+      "agility",
+      "evident",
+      "impressive"
+    ],
+    "actions": [
+      "training",
+      "dog's",
+      "man's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog's agility is impressive, and the man's training is evident.",
+    "objects": [
+      "agility",
+      "evident",
+      "impressive"
+    ],
+    "actions": [
+      "training",
+      "dog's",
+      "man's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog's agility is impressive, and the man's training is evident.",
+    "objects": [
+      "agility",
+      "evident",
+      "impressive"
+    ],
+    "actions": [
+      "training",
+      "dog's",
+      "man's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The audience is watching from the sidelines, cheering on the dog's performance.",
+    "objects": [
+      "from",
+      "audience",
+      "performance"
+    ],
+    "actions": [
+      "cheering",
+      "watching",
+      "dog's",
+      "sidelines"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The audience is watching from the sidelines, cheering on the dog's performance.",
+    "objects": [
+      "from",
+      "audience",
+      "performance"
+    ],
+    "actions": [
+      "cheering",
+      "watching",
+      "dog's",
+      "sidelines"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The audience is watching from the sidelines, cheering on the dog's performance.",
+    "objects": [
+      "from",
+      "audience",
+      "performance"
+    ],
+    "actions": [
+      "cheering",
+      "watching",
+      "dog's",
+      "sidelines"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The atmosphere is one of excitement and anticipation.",
+    "objects": [
+      "one",
+      "anticipation",
+      "excitement",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The atmosphere is one of excitement and anticipation.",
+    "objects": [
+      "one",
+      "anticipation",
+      "excitement",
+      "atmosphere"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  }
+]

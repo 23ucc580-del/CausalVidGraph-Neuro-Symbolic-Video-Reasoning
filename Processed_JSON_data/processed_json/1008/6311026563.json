@@ -1,0 +1,583 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is seen swimming in a pool.",
+    "objects": [
+      "pool",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is seen swimming in a pool.",
+    "objects": [
+      "pool",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people is seen swimming in a pool.",
+    "objects": [
+      "pool",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with two individuals in the pool, one of whom is standing while the other is lying on their back, floating.",
+    "objects": [
+      "one",
+      "their",
+      "other",
+      "two",
+      "while",
+      "whom",
+      "pool"
+    ],
+    "actions": [
+      "standing",
+      "floating",
+      "opens",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with two individuals in the pool, one of whom is standing while the other is lying on their back, floating.",
+    "objects": [
+      "one",
+      "their",
+      "other",
+      "two",
+      "while",
+      "whom",
+      "pool"
+    ],
+    "actions": [
+      "standing",
+      "floating",
+      "opens",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with two individuals in the pool, one of whom is standing while the other is lying on their back, floating.",
+    "objects": [
+      "one",
+      "their",
+      "other",
+      "two",
+      "while",
+      "whom",
+      "pool"
+    ],
+    "actions": [
+      "standing",
+      "floating",
+      "opens",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The person standing appears to be a woman wearing a blue hoodie and black shorts, while the other is a man in a gray shirt and blue shorts.",
+    "objects": [
+      "other",
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "gray",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The person standing appears to be a woman wearing a blue hoodie and black shorts, while the other is a man in a gray shirt and blue shorts.",
+    "objects": [
+      "other",
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "gray",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The person standing appears to be a woman wearing a blue hoodie and black shorts, while the other is a man in a gray shirt and blue shorts.",
+    "objects": [
+      "other",
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "gray",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are both in the water, and the woman is holding onto the man's arm for support.",
+    "objects": [
+      "they",
+      "arm",
+      "both",
+      "support",
+      "woman",
+      "onto",
+      "water"
+    ],
+    "actions": [
+      "holding",
+      "man's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They are both in the water, and the woman is holding onto the man's arm for support.",
+    "objects": [
+      "they",
+      "arm",
+      "both",
+      "support",
+      "woman",
+      "onto",
+      "water"
+    ],
+    "actions": [
+      "holding",
+      "man's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They are both in the water, and the woman is holding onto the man's arm for support.",
+    "objects": [
+      "they",
+      "arm",
+      "both",
+      "support",
+      "woman",
+      "onto",
+      "water"
+    ],
+    "actions": [
+      "holding",
+      "man's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "As the scene progresses, a third person enters the frame, walking along the pool's edge.",
+    "objects": [
+      "along",
+      "edge",
+      "third"
+    ],
+    "actions": [
+      "progresses",
+      "enters",
+      "pool's",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "As the scene progresses, a third person enters the frame, walking along the pool's edge.",
+    "objects": [
+      "along",
+      "edge",
+      "third"
+    ],
+    "actions": [
+      "progresses",
+      "enters",
+      "pool's",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "As the scene progresses, a third person enters the frame, walking along the pool's edge.",
+    "objects": [
+      "along",
+      "edge",
+      "third"
+    ],
+    "actions": [
+      "progresses",
+      "enters",
+      "pool's",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "This individual is a man in a white shirt, who is also in the water and is holding onto the edge of the pool, seemingly observing the others.",
+    "objects": [
+      "edge",
+      "white",
+      "pool",
+      "onto",
+      "shirt",
+      "seemingly",
+      "who",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "others"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "This individual is a man in a white shirt, who is also in the water and is holding onto the edge of the pool, seemingly observing the others.",
+    "objects": [
+      "edge",
+      "white",
+      "pool",
+      "onto",
+      "shirt",
+      "seemingly",
+      "who",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "others"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "This individual is a man in a white shirt, who is also in the water and is holding onto the edge of the pool, seemingly observing the others.",
+    "objects": [
+      "edge",
+      "white",
+      "pool",
+      "onto",
+      "shirt",
+      "seemingly",
+      "who",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "others"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene then shifts to two men standing in the pool, holding each other's hands.",
+    "objects": [
+      "each",
+      "two",
+      "men",
+      "pool",
+      "then"
+    ],
+    "actions": [
+      "standing",
+      "hands",
+      "holding",
+      "other's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene then shifts to two men standing in the pool, holding each other's hands.",
+    "objects": [
+      "each",
+      "two",
+      "men",
+      "pool",
+      "then"
+    ],
+    "actions": [
+      "standing",
+      "hands",
+      "holding",
+      "other's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene then shifts to two men standing in the pool, holding each other's hands.",
+    "objects": [
+      "each",
+      "two",
+      "men",
+      "pool",
+      "then"
+    ],
+    "actions": [
+      "standing",
+      "hands",
+      "holding",
+      "other's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "They are both in the water, and the man on the left is wearing a blue shirt and black shorts, while the man on the right is in a white shirt and blue shorts.",
+    "objects": [
+      "they",
+      "both",
+      "white",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "They are both in the water, and the man on the left is wearing a blue shirt and black shorts, while the man on the right is in a white shirt and blue shorts.",
+    "objects": [
+      "they",
+      "both",
+      "white",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "They are both in the water, and the man on the left is wearing a blue shirt and black shorts, while the man on the right is in a white shirt and blue shorts.",
+    "objects": [
+      "they",
+      "both",
+      "white",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "They appear to be playing or interacting with each other in the water.",
+    "objects": [
+      "they",
+      "appear",
+      "other",
+      "each",
+      "water"
+    ],
+    "actions": [
+      "playing",
+      "interacting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "They appear to be playing or interacting with each other in the water.",
+    "objects": [
+      "they",
+      "appear",
+      "other",
+      "each",
+      "water"
+    ],
+    "actions": [
+      "playing",
+      "interacting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "They appear to be playing or interacting with each other in the water.",
+    "objects": [
+      "they",
+      "appear",
+      "other",
+      "each",
+      "water"
+    ],
+    "actions": [
+      "playing",
+      "interacting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "Finally, the scene concludes with the woman and the man in the white shirt, who are both in the water and holding onto each other's hands.",
+    "objects": [
+      "each",
+      "white",
+      "both",
+      "woman",
+      "finally",
+      "onto",
+      "shirt",
+      "who"
+    ],
+    "actions": [
+      "hands",
+      "concludes",
+      "holding",
+      "other's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "Finally, the scene concludes with the woman and the man in the white shirt, who are both in the water and holding onto each other's hands.",
+    "objects": [
+      "each",
+      "white",
+      "both",
+      "woman",
+      "finally",
+      "onto",
+      "shirt",
+      "who"
+    ],
+    "actions": [
+      "hands",
+      "concludes",
+      "holding",
+      "other's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "Finally, the scene concludes with the woman and the man in the white shirt, who are both in the water and holding onto each other's hands.",
+    "objects": [
+      "each",
+      "white",
+      "both",
+      "woman",
+      "finally",
+      "onto",
+      "shirt",
+      "who"
+    ],
+    "actions": [
+      "hands",
+      "concludes",
+      "holding",
+      "other's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "They are both in the pool, and the woman is wearing a black bikini, while the man is in a white shirt and black shorts.",
+    "objects": [
+      "they",
+      "both",
+      "white",
+      "woman",
+      "while",
+      "black",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "They are both in the pool, and the woman is wearing a black bikini, while the man is in a white shirt and black shorts.",
+    "objects": [
+      "they",
+      "both",
+      "white",
+      "woman",
+      "while",
+      "black",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 10
+  }
+]

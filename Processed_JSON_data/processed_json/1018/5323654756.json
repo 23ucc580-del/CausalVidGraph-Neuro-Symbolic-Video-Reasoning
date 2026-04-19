@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a lively gathering of people in a kitchen area.",
+    "objects": [
+      "people",
+      "lively",
+      "see",
+      "this",
+      "kitchen",
+      "area"
+    ],
+    "actions": [
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a lively gathering of people in a kitchen area.",
+    "objects": [
+      "people",
+      "lively",
+      "see",
+      "this",
+      "kitchen",
+      "area"
+    ],
+    "actions": [
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "There are at least ten individuals visible, with varying ages and genders.",
+    "objects": [
+      "least",
+      "there",
+      "ten",
+      "ages"
+    ],
+    "actions": [
+      "genders",
+      "varying",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "There are at least ten individuals visible, with varying ages and genders.",
+    "objects": [
+      "least",
+      "there",
+      "ten",
+      "ages"
+    ],
+    "actions": [
+      "genders",
+      "varying",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "They are all casually dressed, and some are wearing hoodies, while others are in casual shirts or blouses.",
+    "objects": [
+      "they",
+      "casually",
+      "while",
+      "casual",
+      "some",
+      "all"
+    ],
+    "actions": [
+      "blouses",
+      "others",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "They are all casually dressed, and some are wearing hoodies, while others are in casual shirts or blouses.",
+    "objects": [
+      "they",
+      "casually",
+      "while",
+      "casual",
+      "some",
+      "all"
+    ],
+    "actions": [
+      "blouses",
+      "others",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The room is filled with a sense of warmth and community.",
+    "objects": [
+      "room",
+      "warmth",
+      "community",
+      "sense"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The room is filled with a sense of warmth and community.",
+    "objects": [
+      "room",
+      "warmth",
+      "community",
+      "sense"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The kitchen is well-lit, and we can see various objects scattered around, such as a pink balloon, a blue hoodie, and a silver car.",
+    "objects": [
+      "can",
+      "pink",
+      "blue",
+      "see",
+      "silver",
+      "balloon",
+      "around",
+      "hoodie"
+    ],
+    "actions": [
+      "objects",
+      "scattered"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The kitchen is well-lit, and we can see various objects scattered around, such as a pink balloon, a blue hoodie, and a silver car.",
+    "objects": [
+      "can",
+      "pink",
+      "blue",
+      "see",
+      "silver",
+      "balloon",
+      "around",
+      "hoodie"
+    ],
+    "actions": [
+      "objects",
+      "scattered"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The atmosphere is cheerful, with people engaged in different activities.",
+    "objects": [
+      "different",
+      "people",
+      "atmosphere",
+      "cheerful"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The atmosphere is cheerful, with people engaged in different activities.",
+    "objects": [
+      "different",
+      "people",
+      "atmosphere",
+      "cheerful"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "A young girl in a blue hoodie is holding a pink balloon, which she seems to be excited about, as she smiles while others watch.",
+    "objects": [
+      "she",
+      "pink",
+      "while",
+      "young",
+      "blue",
+      "about",
+      "balloon",
+      "which"
+    ],
+    "actions": [
+      "seems",
+      "excited",
+      "others",
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "A young girl in a blue hoodie is holding a pink balloon, which she seems to be excited about, as she smiles while others watch.",
+    "objects": [
+      "she",
+      "pink",
+      "while",
+      "young",
+      "blue",
+      "about",
+      "balloon",
+      "which"
+    ],
+    "actions": [
+      "seems",
+      "excited",
+      "others",
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A person in a green hoodie is standing, possibly observing the balloon-holder or the general atmosphere.",
+    "objects": [
+      "possibly",
+      "green",
+      "hoodie",
+      "general",
+      "atmosphere"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A person in a green hoodie is standing, possibly observing the balloon-holder or the general atmosphere.",
+    "objects": [
+      "possibly",
+      "green",
+      "hoodie",
+      "general",
+      "atmosphere"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A person in a silver shirt is sitting, looking at the camera with a calm demeanor.",
+    "objects": [
+      "silver",
+      "calm",
+      "demeanor",
+      "shirt"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A person in a silver shirt is sitting, looking at the camera with a calm demeanor.",
+    "objects": [
+      "silver",
+      "calm",
+      "demeanor",
+      "shirt"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A young boy in a hoodie is seated, possibly engaged in a conversation or watching the scene unfold.",
+    "objects": [
+      "boy",
+      "conversation",
+      "possibly",
+      "hoodie",
+      "unfold",
+      "young"
+    ],
+    "actions": [
+      "watching",
+      "seated",
+      "engaged"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A young boy in a hoodie is seated, possibly engaged in a conversation or watching the scene unfold.",
+    "objects": [
+      "boy",
+      "conversation",
+      "possibly",
+      "hoodie",
+      "unfold",
+      "young"
+    ],
+    "actions": [
+      "watching",
+      "seated",
+      "engaged"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A young girl in a pink shirt is holding a pink balloon, looking towards the camera, smiling brightly.",
+    "objects": [
+      "pink",
+      "young",
+      "shirt",
+      "brightly",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "towards",
+      "looking",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A young girl in a pink shirt is holding a pink balloon, looking towards the camera, smiling brightly.",
+    "objects": [
+      "pink",
+      "young",
+      "shirt",
+      "brightly",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "towards",
+      "looking",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "Another young girl in a green shirt is seated, also watching the camera with a smile.",
+    "objects": [
+      "young",
+      "green",
+      "shirt",
+      "girl",
+      "smile"
+    ],
+    "actions": [
+      "watching",
+      "seated"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "Another young girl in a green shirt is seated, also watching the camera with a smile.",
+    "objects": [
+      "young",
+      "green",
+      "shirt",
+      "girl",
+      "smile"
+    ],
+    "actions": [
+      "watching",
+      "seated"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A young girl in a pink shirt is standing, holding a pink balloon, smiling at the camera.",
+    "objects": [
+      "pink",
+      "young",
+      "shirt",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A young girl in a pink shirt is standing, holding a pink balloon, smiling at the camera.",
+    "objects": [
+      "pink",
+      "young",
+      "shirt",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A person in a black shirt is standing, observing the pink balloon-holder.",
+    "objects": [
+      "black",
+      "shirt",
+      "pink"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A person in a black shirt is standing, observing the pink balloon-holder.",
+    "objects": [
+      "black",
+      "shirt",
+      "pink"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A young boy in a blue shirt is standing, holding a balloon, and smiling at the camera.",
+    "objects": [
+      "boy",
+      "blue",
+      "shirt",
+      "balloon",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A young boy in a blue shirt is standing, holding a balloon, and smiling at the camera.",
+    "objects": [
+      "boy",
+      "blue",
+      "shirt",
+      "balloon",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "A person in a black shirt is standing, watching the pink balloon-holder with a neutral expression.",
+    "objects": [
+      "neutral",
+      "pink",
+      "black",
+      "shirt",
+      "expression"
+    ],
+    "actions": [
+      "watching",
+      "standing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "A person in a black shirt is standing, watching the pink balloon-holder with a neutral expression.",
+    "objects": [
+      "neutral",
+      "pink",
+      "black",
+      "shirt",
+      "expression"
+    ],
+    "actions": [
+      "watching",
+      "standing"
+    ],
+    "segment_id": 15
+  }
+]

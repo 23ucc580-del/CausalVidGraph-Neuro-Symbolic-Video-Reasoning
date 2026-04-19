@@ -1,0 +1,504 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a camera panning around a backyard, showcasing a wooden deck with a table and chairs.",
+    "objects": [
+      "table",
+      "deck",
+      "backyard",
+      "around",
+      "wooden"
+    ],
+    "actions": [
+      "chairs",
+      "showcasing",
+      "begins",
+      "panning"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a camera panning around a backyard, showcasing a wooden deck with a table and chairs.",
+    "objects": [
+      "table",
+      "deck",
+      "backyard",
+      "around",
+      "wooden"
+    ],
+    "actions": [
+      "chairs",
+      "showcasing",
+      "begins",
+      "panning"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "A dog is seen lying on the floor, while a person is sitting on a couch with a book.",
+    "objects": [
+      "while",
+      "dog",
+      "book",
+      "couch",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "A dog is seen lying on the floor, while a person is sitting on a couch with a book.",
+    "objects": [
+      "while",
+      "dog",
+      "book",
+      "couch",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The camera then focuses on a dog that is standing up and walking on the floor, and a person is laying down on the couch with a book.",
+    "objects": [
+      "that",
+      "dog",
+      "book",
+      "couch",
+      "floor",
+      "then"
+    ],
+    "actions": [
+      "laying",
+      "standing",
+      "walking",
+      "focuses"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera then focuses on a dog that is standing up and walking on the floor, and a person is laying down on the couch with a book.",
+    "objects": [
+      "that",
+      "dog",
+      "book",
+      "couch",
+      "floor",
+      "then"
+    ],
+    "actions": [
+      "laying",
+      "standing",
+      "walking",
+      "focuses"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene then changes to show the dog walking on the floor while a person is sitting on the couch with a book.",
+    "objects": [
+      "show",
+      "while",
+      "then",
+      "dog",
+      "book",
+      "couch",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "changes",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene then changes to show the dog walking on the floor while a person is sitting on the couch with a book.",
+    "objects": [
+      "show",
+      "while",
+      "then",
+      "dog",
+      "book",
+      "couch",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "changes",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then moves to a person sitting on the floor with a book.",
+    "objects": [
+      "floor",
+      "then",
+      "book"
+    ],
+    "actions": [
+      "sitting",
+      "moves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then moves to a person sitting on the floor with a book.",
+    "objects": [
+      "floor",
+      "then",
+      "book"
+    ],
+    "actions": [
+      "sitting",
+      "moves"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The video then shows the dog walking on the floor and a person sitting on the couch.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "sitting",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The video then shows the dog walking on the floor and a person sitting on the couch.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "sitting",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "In the next scene, the dog is lying down on the floor, and a person is standing with a book.",
+    "objects": [
+      "floor",
+      "dog",
+      "book"
+    ],
+    "actions": [
+      "standing",
+      "lying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "In the next scene, the dog is lying down on the floor, and a person is standing with a book.",
+    "objects": [
+      "floor",
+      "dog",
+      "book"
+    ],
+    "actions": [
+      "standing",
+      "lying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then pans to a person sitting on the couch with a book.",
+    "objects": [
+      "pans",
+      "then",
+      "book",
+      "couch"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then pans to a person sitting on the couch with a book.",
+    "objects": [
+      "pans",
+      "then",
+      "book",
+      "couch"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene then changes to a dog standing up on the floor and a person sitting on the couch.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "sitting",
+      "changes",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene then changes to a dog standing up on the floor and a person sitting on the couch.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "sitting",
+      "changes",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then shows the dog standing on the floor and a person laying on the couch.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "laying",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then shows the dog standing on the floor and a person laying on the couch.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "laying",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The video then returns to a dog lying down on the floor and a person sitting on the couch.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "sitting",
+      "lying",
+      "returns"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The video then returns to a dog lying down on the floor and a person sitting on the couch.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "sitting",
+      "lying",
+      "returns"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then moves to a person standing on the floor with a book, and the dog is seen standing on the floor.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "book"
+    ],
+    "actions": [
+      "standing",
+      "moves"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then moves to a person standing on the floor with a book, and the dog is seen standing on the floor.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "book"
+    ],
+    "actions": [
+      "standing",
+      "moves"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene then changes to the person sitting on the couch with a book.",
+    "objects": [
+      "then",
+      "book",
+      "couch"
+    ],
+    "actions": [
+      "sitting",
+      "changes"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene then changes to the person sitting on the couch with a book.",
+    "objects": [
+      "then",
+      "book",
+      "couch"
+    ],
+    "actions": [
+      "sitting",
+      "changes"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The video then shows the dog standing on the floor and a person laying on the couch.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "laying",
+      "standing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The video then shows the dog standing on the floor and a person laying on the couch.",
+    "objects": [
+      "floor",
+      "dog",
+      "then",
+      "couch"
+    ],
+    "actions": [
+      "laying",
+      "standing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then pans to a dog standing on the floor and a person sitting on the couch.",
+    "objects": [
+      "pans",
+      "dog",
+      "couch",
+      "floor",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then pans to a dog standing on the floor and a person sitting on the couch.",
+    "objects": [
+      "pans",
+      "dog",
+      "couch",
+      "floor",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The video concludes with a person standing on the floor with a book and the dog lying down on the floor.",
+    "objects": [
+      "dog",
+      "floor",
+      "book"
+    ],
+    "actions": [
+      "concludes",
+      "standing",
+      "lying"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The video concludes with a person standing on the floor with a book and the dog lying down on the floor.",
+    "objects": [
+      "dog",
+      "floor",
+      "book"
+    ],
+    "actions": [
+      "concludes",
+      "standing",
+      "lying"
+    ],
+    "segment_id": 15
+  }
+]

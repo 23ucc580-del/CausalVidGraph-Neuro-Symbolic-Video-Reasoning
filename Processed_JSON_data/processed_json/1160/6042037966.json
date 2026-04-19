@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video showcases a group of musicians performing on stage.",
+    "objects": [
+      "group",
+      "stage"
+    ],
+    "actions": [
+      "musicians",
+      "showcases",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video showcases a group of musicians performing on stage.",
+    "objects": [
+      "group",
+      "stage"
+    ],
+    "actions": [
+      "musicians",
+      "showcases",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The setting appears to be a club or music venue, as indicated by the stage lights and the audience seating area visible in the background.",
+    "objects": [
+      "audience",
+      "stage",
+      "music",
+      "area",
+      "venue",
+      "club"
+    ],
+    "actions": [
+      "indicated",
+      "setting",
+      "lights",
+      "seating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The setting appears to be a club or music venue, as indicated by the stage lights and the audience seating area visible in the background.",
+    "objects": [
+      "audience",
+      "stage",
+      "music",
+      "area",
+      "venue",
+      "club"
+    ],
+    "actions": [
+      "indicated",
+      "setting",
+      "lights",
+      "seating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The performers are dressed in various styles, with some wearing formal attire and others in casual or stage-appropriate outfits.",
+    "objects": [
+      "formal",
+      "attire",
+      "casual",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "styles",
+      "dressed",
+      "outfits"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The performers are dressed in various styles, with some wearing formal attire and others in casual or stage-appropriate outfits.",
+    "objects": [
+      "formal",
+      "attire",
+      "casual",
+      "some"
+    ],
+    "actions": [
+      "others",
+      "styles",
+      "dressed",
+      "outfits"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The music being played is a blend of different genres, including rock, pop, and traditional instruments like guitars and violins.",
+    "objects": [
+      "different",
+      "rock",
+      "like",
+      "pop",
+      "blend",
+      "music",
+      "traditional"
+    ],
+    "actions": [
+      "instruments",
+      "played",
+      "genres",
+      "violins"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The music being played is a blend of different genres, including rock, pop, and traditional instruments like guitars and violins.",
+    "objects": [
+      "different",
+      "rock",
+      "like",
+      "pop",
+      "blend",
+      "music",
+      "traditional"
+    ],
+    "actions": [
+      "instruments",
+      "played",
+      "genres",
+      "violins"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "Scene 1: The scene begins with a woman singing into a microphone while another woman plays the guitar behind her.",
+    "objects": [
+      "guitar",
+      "her",
+      "while",
+      "microphone",
+      "behind",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "begins",
+      "plays",
+      "singing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "Scene 1: The scene begins with a woman singing into a microphone while another woman plays the guitar behind her.",
+    "objects": [
+      "guitar",
+      "her",
+      "while",
+      "microphone",
+      "behind",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "begins",
+      "plays",
+      "singing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The performers are dressed in casual attire, and the stage lighting is warm.",
+    "objects": [
+      "warm",
+      "attire",
+      "casual",
+      "stage"
+    ],
+    "actions": [
+      "performers",
+      "lighting",
+      "dressed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The performers are dressed in casual attire, and the stage lighting is warm.",
+    "objects": [
+      "warm",
+      "attire",
+      "casual",
+      "stage"
+    ],
+    "actions": [
+      "performers",
+      "lighting",
+      "dressed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Scene 2: A man wearing a blue shirt plays the guitar while a woman in a black dress sings into the microphone.",
+    "objects": [
+      "blue",
+      "guitar",
+      "into",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "shirt"
+    ],
+    "actions": [
+      "plays",
+      "wearing",
+      "sings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Scene 2: A man wearing a blue shirt plays the guitar while a woman in a black dress sings into the microphone.",
+    "objects": [
+      "blue",
+      "guitar",
+      "into",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "shirt"
+    ],
+    "actions": [
+      "plays",
+      "wearing",
+      "sings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The stage lighting is warm, and the band is dressed in casual attire.",
+    "objects": [
+      "warm",
+      "band",
+      "stage",
+      "casual",
+      "attire"
+    ],
+    "actions": [
+      "dressed",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The stage lighting is warm, and the band is dressed in casual attire.",
+    "objects": [
+      "warm",
+      "band",
+      "stage",
+      "casual",
+      "attire"
+    ],
+    "actions": [
+      "dressed",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "Scene 3: A woman in a black dress plays the guitar while a man in a white shirt sings into the microphone.",
+    "objects": [
+      "white",
+      "guitar",
+      "into",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "shirt"
+    ],
+    "actions": [
+      "plays",
+      "sings"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "Scene 3: A woman in a black dress plays the guitar while a man in a white shirt sings into the microphone.",
+    "objects": [
+      "white",
+      "guitar",
+      "into",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "shirt"
+    ],
+    "actions": [
+      "plays",
+      "sings"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The stage lighting is warm, and the band is dressed in casual attire.",
+    "objects": [
+      "warm",
+      "band",
+      "stage",
+      "casual",
+      "attire"
+    ],
+    "actions": [
+      "dressed",
+      "lighting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The stage lighting is warm, and the band is dressed in casual attire.",
+    "objects": [
+      "warm",
+      "band",
+      "stage",
+      "casual",
+      "attire"
+    ],
+    "actions": [
+      "dressed",
+      "lighting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "Scene 4: A man in a white shirt plays the guitar while a woman in a black dress sings into the microphone.",
+    "objects": [
+      "white",
+      "guitar",
+      "into",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "shirt"
+    ],
+    "actions": [
+      "plays",
+      "sings"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "Scene 4: A man in a white shirt plays the guitar while a woman in a black dress sings into the microphone.",
+    "objects": [
+      "white",
+      "guitar",
+      "into",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "shirt"
+    ],
+    "actions": [
+      "plays",
+      "sings"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The stage lighting is warm, and the band is dressed in formal attire.",
+    "objects": [
+      "warm",
+      "band",
+      "stage",
+      "formal",
+      "attire"
+    ],
+    "actions": [
+      "dressed",
+      "lighting"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The stage lighting is warm, and the band is dressed in formal attire.",
+    "objects": [
+      "warm",
+      "band",
+      "stage",
+      "formal",
+      "attire"
+    ],
+    "actions": [
+      "dressed",
+      "lighting"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "Scene 5: A woman in a black dress sings into the microphone while a man in a white shirt plays the guitar.",
+    "objects": [
+      "white",
+      "guitar",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "plays",
+      "sings"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "Scene 5: A woman in a black dress sings into the microphone while a man in a white shirt plays the guitar.",
+    "objects": [
+      "white",
+      "guitar",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "plays",
+      "sings"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The stage lighting is warm, and the band is dressed in casual attire.",
+    "objects": [
+      "warm",
+      "band",
+      "stage",
+      "casual",
+      "attire"
+    ],
+    "actions": [
+      "dressed",
+      "lighting"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The stage lighting is warm, and the band is dressed in casual attire.",
+    "objects": [
+      "warm",
+      "band",
+      "stage",
+      "casual",
+      "attire"
+    ],
+    "actions": [
+      "dressed",
+      "lighting"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The performers are passionate about their music, with many of them visibly engrossed in the performance.",
+    "objects": [
+      "passionate",
+      "performance",
+      "many",
+      "them",
+      "visibly",
+      "music",
+      "their",
+      "about"
+    ],
+    "actions": [
+      "performers",
+      "engrossed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The performers are passionate about their music, with many of them visibly engrossed in the performance.",
+    "objects": [
+      "passionate",
+      "performance",
+      "many",
+      "them",
+      "visibly",
+      "music",
+      "their",
+      "about"
+    ],
+    "actions": [
+      "performers",
+      "engrossed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The energy of the music is palpable, and the audience is visible in the background, suggesting a lively and engaged atmosphere.",
+    "objects": [
+      "music",
+      "audience",
+      "energy",
+      "lively",
+      "palpable",
+      "atmosphere"
+    ],
+    "actions": [
+      "engaged",
+      "suggesting"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The energy of the music is palpable, and the audience is visible in the background, suggesting a lively and engaged atmosphere.",
+    "objects": [
+      "music",
+      "audience",
+      "energy",
+      "lively",
+      "palpable",
+      "atmosphere"
+    ],
+    "actions": [
+      "engaged",
+      "suggesting"
+    ],
+    "segment_id": 15
+  }
+]

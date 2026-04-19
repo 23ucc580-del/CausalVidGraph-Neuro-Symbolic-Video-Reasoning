@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people enjoying a day at a theme park, specifically at the Drievliet water park.",
+    "objects": [
+      "drievliet",
+      "people",
+      "see",
+      "park",
+      "theme",
+      "day",
+      "specifically",
+      "water"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people enjoying a day at a theme park, specifically at the Drievliet water park.",
+    "objects": [
+      "drievliet",
+      "people",
+      "see",
+      "park",
+      "theme",
+      "day",
+      "specifically",
+      "water"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene is set on a sunny day with a clear blue sky.",
+    "objects": [
+      "blue",
+      "clear",
+      "set",
+      "day",
+      "sky",
+      "sunny"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is set on a sunny day with a clear blue sky.",
+    "objects": [
+      "blue",
+      "clear",
+      "set",
+      "day",
+      "sky",
+      "sunny"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The park features a vibrant blue water slide with a tall and sturdy structure that stands out against the backdrop of the sky.",
+    "objects": [
+      "structure",
+      "blue",
+      "vibrant",
+      "backdrop",
+      "tall",
+      "slide",
+      "out",
+      "sturdy"
+    ],
+    "actions": [
+      "stands",
+      "features"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The park features a vibrant blue water slide with a tall and sturdy structure that stands out against the backdrop of the sky.",
+    "objects": [
+      "structure",
+      "blue",
+      "vibrant",
+      "backdrop",
+      "tall",
+      "slide",
+      "out",
+      "sturdy"
+    ],
+    "actions": [
+      "stands",
+      "features"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The slide has a yellow and blue color scheme and is surrounded by lush greenery, giving it a refreshing and inviting look.",
+    "objects": [
+      "greenery",
+      "scheme",
+      "blue",
+      "yellow",
+      "has",
+      "lush",
+      "look",
+      "slide"
+    ],
+    "actions": [
+      "inviting",
+      "surrounded",
+      "refreshing",
+      "giving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The slide has a yellow and blue color scheme and is surrounded by lush greenery, giving it a refreshing and inviting look.",
+    "objects": [
+      "greenery",
+      "scheme",
+      "blue",
+      "yellow",
+      "has",
+      "lush",
+      "look",
+      "slide"
+    ],
+    "actions": [
+      "inviting",
+      "surrounded",
+      "refreshing",
+      "giving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A young boy, dressed in a blue hoodie, is sitting on the top of the slide.",
+    "objects": [
+      "boy",
+      "blue",
+      "top",
+      "slide",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "sitting",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A young boy, dressed in a blue hoodie, is sitting on the top of the slide.",
+    "objects": [
+      "boy",
+      "blue",
+      "top",
+      "slide",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "sitting",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "He appears to be taking a moment to appreciate the surroundings before sliding down.",
+    "objects": [
+      "moment",
+      "before",
+      "appreciate"
+    ],
+    "actions": [
+      "taking",
+      "sliding",
+      "surroundings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "He appears to be taking a moment to appreciate the surroundings before sliding down.",
+    "objects": [
+      "moment",
+      "before",
+      "appreciate"
+    ],
+    "actions": [
+      "taking",
+      "sliding",
+      "surroundings"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "He has a cheerful expression, and his hands are raised in excitement, suggesting anticipation for the ride ahead.",
+    "objects": [
+      "anticipation",
+      "ride",
+      "has",
+      "excitement",
+      "his",
+      "ahead",
+      "expression",
+      "cheerful"
+    ],
+    "actions": [
+      "hands",
+      "suggesting",
+      "raised"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "He has a cheerful expression, and his hands are raised in excitement, suggesting anticipation for the ride ahead.",
+    "objects": [
+      "anticipation",
+      "ride",
+      "has",
+      "excitement",
+      "his",
+      "ahead",
+      "expression",
+      "cheerful"
+    ],
+    "actions": [
+      "hands",
+      "suggesting",
+      "raised"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "His position on the top of the slide offers a great vantage point to survey the park and the surroundings.",
+    "objects": [
+      "survey",
+      "great",
+      "vantage",
+      "top",
+      "slide",
+      "position",
+      "point",
+      "his"
+    ],
+    "actions": [
+      "offers",
+      "surroundings"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "His position on the top of the slide offers a great vantage point to survey the park and the surroundings.",
+    "objects": [
+      "survey",
+      "great",
+      "vantage",
+      "top",
+      "slide",
+      "position",
+      "point",
+      "his"
+    ],
+    "actions": [
+      "offers",
+      "surroundings"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "Another boy, wearing a yellow shirt, is sliding down the slide with a smile on his face.",
+    "objects": [
+      "boy",
+      "yellow",
+      "face",
+      "shirt",
+      "slide",
+      "his",
+      "smile"
+    ],
+    "actions": [
+      "wearing",
+      "sliding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "Another boy, wearing a yellow shirt, is sliding down the slide with a smile on his face.",
+    "objects": [
+      "boy",
+      "yellow",
+      "face",
+      "shirt",
+      "slide",
+      "his",
+      "smile"
+    ],
+    "actions": [
+      "wearing",
+      "sliding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "He seems to be enjoying the ride and is in motion, gliding down the slide with a sense of enjoyment.",
+    "objects": [
+      "motion",
+      "ride",
+      "sense",
+      "slide",
+      "enjoyment"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "gliding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "He seems to be enjoying the ride and is in motion, gliding down the slide with a sense of enjoyment.",
+    "objects": [
+      "motion",
+      "ride",
+      "sense",
+      "slide",
+      "enjoyment"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "gliding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "His position suggests that he is midway down the slide, adding to the thrill and fun of the experience.",
+    "objects": [
+      "experience",
+      "midway",
+      "fun",
+      "slide",
+      "position",
+      "that",
+      "his",
+      "thrill"
+    ],
+    "actions": [
+      "adding",
+      "suggests"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "His position suggests that he is midway down the slide, adding to the thrill and fun of the experience.",
+    "objects": [
+      "experience",
+      "midway",
+      "fun",
+      "slide",
+      "position",
+      "that",
+      "his",
+      "thrill"
+    ],
+    "actions": [
+      "adding",
+      "suggests"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "A third boy, in a black shirt, is on the bottom of the slide, also enjoying the ride.",
+    "objects": [
+      "boy",
+      "ride",
+      "bottom",
+      "black",
+      "shirt",
+      "slide",
+      "third"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "A third boy, in a black shirt, is on the bottom of the slide, also enjoying the ride.",
+    "objects": [
+      "boy",
+      "ride",
+      "bottom",
+      "black",
+      "shirt",
+      "slide",
+      "third"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "He is in a seated position, with his hands raised in a playful manner, indicating he is having a good time.",
+    "objects": [
+      "good",
+      "position",
+      "his",
+      "manner",
+      "playful",
+      "time"
+    ],
+    "actions": [
+      "hands",
+      "raised",
+      "indicating",
+      "having"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "He is in a seated position, with his hands raised in a playful manner, indicating he is having a good time.",
+    "objects": [
+      "good",
+      "position",
+      "his",
+      "manner",
+      "playful",
+      "time"
+    ],
+    "actions": [
+      "hands",
+      "raised",
+      "indicating",
+      "having"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "His position at the bottom of the slide completes the ride, and he seems to be enjoying the experience.",
+    "objects": [
+      "ride",
+      "experience",
+      "bottom",
+      "slide",
+      "position",
+      "his"
+    ],
+    "actions": [
+      "seems",
+      "completes",
+      "enjoying"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "His position at the bottom of the slide completes the ride, and he seems to be enjoying the experience.",
+    "objects": [
+      "ride",
+      "experience",
+      "bottom",
+      "slide",
+      "position",
+      "his"
+    ],
+    "actions": [
+      "seems",
+      "completes",
+      "enjoying"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The people in the video are all dressed in casual clothing suitable for a day out in the park, and they are enjoying their time, taking in the sights and sounds of the water slide.",
+    "objects": [
+      "they",
+      "their",
+      "suitable",
+      "people",
+      "casual",
+      "water",
+      "out",
+      "slide"
+    ],
+    "actions": [
+      "clothing",
+      "dressed",
+      "sounds",
+      "sights"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The people in the video are all dressed in casual clothing suitable for a day out in the park, and they are enjoying their time, taking in the sights and sounds of the water slide.",
+    "objects": [
+      "they",
+      "their",
+      "suitable",
+      "people",
+      "casual",
+      "water",
+      "out",
+      "slide"
+    ],
+    "actions": [
+      "clothing",
+      "dressed",
+      "sounds",
+      "sights"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere is one of joy and excitement, typical of a day out with family or friends at a theme park.",
+    "objects": [
+      "one",
+      "typical",
+      "out",
+      "family",
+      "excitement",
+      "park",
+      "theme",
+      "day"
+    ],
+    "actions": [
+      "friends"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere is one of joy and excitement, typical of a day out with family or friends at a theme park.",
+    "objects": [
+      "one",
+      "typical",
+      "out",
+      "family",
+      "excitement",
+      "park",
+      "theme",
+      "day"
+    ],
+    "actions": [
+      "friends"
+    ],
+    "segment_id": 15
+  }
+]

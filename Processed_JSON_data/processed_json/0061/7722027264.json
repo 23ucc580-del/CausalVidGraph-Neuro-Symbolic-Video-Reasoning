@@ -1,0 +1,532 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people gathered at an outdoor wedding reception.",
+    "objects": [
+      "this",
+      "people",
+      "see",
+      "group",
+      "reception",
+      "outdoor"
+    ],
+    "actions": [
+      "gathered",
+      "wedding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The scene is set in a garden-like area with a stone wall as a backdrop and trees in the background.",
+    "objects": [
+      "wall",
+      "backdrop",
+      "area",
+      "stone",
+      "set"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The atmosphere is vibrant, and the guests are dressed in formal attire, including bridesmaids, groomsmen, and a bride in a white dress.",
+    "objects": [
+      "groomsmen",
+      "white",
+      "dress",
+      "vibrant",
+      "atmosphere",
+      "attire",
+      "bride",
+      "formal"
+    ],
+    "actions": [
+      "dressed",
+      "bridesmaids",
+      "guests"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The bride and groom are standing next to each other, both in formal attire, with the groom wearing a tie.",
+    "objects": [
+      "groom",
+      "each",
+      "tie",
+      "other",
+      "both",
+      "attire",
+      "bride",
+      "formal"
+    ],
+    "actions": [
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman in a white dress is speaking into a microphone, possibly giving a speech or addressing the guests.",
+    "objects": [
+      "woman",
+      "white",
+      "microphone",
+      "speech",
+      "dress",
+      "into",
+      "possibly"
+    ],
+    "actions": [
+      "giving",
+      "guests",
+      "addressing",
+      "speaking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "A man in a suit is standing in the background, holding a glass of wine.",
+    "objects": [
+      "glass",
+      "wine",
+      "man",
+      "suit"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "Another man in a suit is also standing in the background, holding a glass of wine.",
+    "objects": [
+      "glass",
+      "wine",
+      "man",
+      "suit"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The bride is seen laughing, possibly at a joke or a story being told.",
+    "objects": [
+      "told",
+      "joke",
+      "bride",
+      "possibly",
+      "story"
+    ],
+    "actions": [
+      "being",
+      "laughing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The bride and groom are sharing a kiss, symbolizing their love and commitment.",
+    "objects": [
+      "groom",
+      "their",
+      "kiss",
+      "commitment",
+      "bride",
+      "love"
+    ],
+    "actions": [
+      "symbolizing",
+      "sharing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "A man in a suit is standing behind the bride, holding a wine glass.",
+    "objects": [
+      "behind",
+      "man",
+      "wine",
+      "glass",
+      "bride",
+      "suit"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "Another man in a suit is also standing behind the bride, also holding a wine glass.",
+    "objects": [
+      "behind",
+      "man",
+      "wine",
+      "glass",
+      "bride",
+      "suit"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman in a white dress is sitting at a table, wearing a necklace, and holding a wine glass.",
+    "objects": [
+      "woman",
+      "necklace",
+      "white",
+      "dress",
+      "wine",
+      "glass",
+      "table"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "A woman in a white dress is sitting at a table, wearing a necklace.",
+    "objects": [
+      "woman",
+      "necklace",
+      "white",
+      "dress",
+      "table"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "A woman in a white dress is sitting at a table, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass",
+      "table"
+    ],
+    "actions": [
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "A woman in a white dress is standing, wearing a necklace, and holding a wine glass.",
+    "objects": [
+      "woman",
+      "necklace",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "A woman in a white dress is standing, holding a wine glass.",
+    "objects": [
+      "woman",
+      "white",
+      "dress",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 31
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is seated on a stool in an outdoor setting, playing an acoustic guitar.",
+    "objects": [
+      "guitar",
+      "man",
+      "acoustic",
+      "outdoor",
+      "stool"
+    ],
+    "actions": [
+      "seated",
+      "setting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is seated on a stool in an outdoor setting, playing an acoustic guitar.",
+    "objects": [
+      "guitar",
+      "man",
+      "acoustic",
+      "outdoor",
+      "stool"
+    ],
+    "actions": [
+      "seated",
+      "setting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man is seated on a stool in an outdoor setting, playing an acoustic guitar.",
+    "objects": [
+      "guitar",
+      "man",
+      "acoustic",
+      "outdoor",
+      "stool"
+    ],
+    "actions": [
+      "seated",
+      "setting",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "He is wearing a blue hoodie and appears to be in his mid-40s.",
+    "objects": [
+      "blue",
+      "his",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "mid-40s"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He is wearing a blue hoodie and appears to be in his mid-40s.",
+    "objects": [
+      "blue",
+      "his",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "mid-40s"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a blue hoodie and appears to be in his mid-40s.",
+    "objects": [
+      "blue",
+      "his",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "mid-40s"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The guitar he is playing is a brown one with a black pickguard.",
+    "objects": [
+      "guitar",
+      "one",
+      "pickguard",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The guitar he is playing is a brown one with a black pickguard.",
+    "objects": [
+      "guitar",
+      "one",
+      "pickguard",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The guitar he is playing is a brown one with a black pickguard.",
+    "objects": [
+      "guitar",
+      "one",
+      "pickguard",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The setting seems to be a stage or a public area, as there are several other guitars in the background, some of which are brown, some are white, and one is red.",
+    "objects": [
+      "white",
+      "which",
+      "stage",
+      "other",
+      "several",
+      "there",
+      "public",
+      "one"
+    ],
+    "actions": [
+      "guitars",
+      "setting",
+      "red",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The setting seems to be a stage or a public area, as there are several other guitars in the background, some of which are brown, some are white, and one is red.",
+    "objects": [
+      "white",
+      "which",
+      "stage",
+      "other",
+      "several",
+      "there",
+      "public",
+      "one"
+    ],
+    "actions": [
+      "guitars",
+      "setting",
+      "red",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The setting seems to be a stage or a public area, as there are several other guitars in the background, some of which are brown, some are white, and one is red.",
+    "objects": [
+      "white",
+      "which",
+      "stage",
+      "other",
+      "several",
+      "there",
+      "public",
+      "one"
+    ],
+    "actions": [
+      "guitars",
+      "setting",
+      "red",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A white tent is visible in the background, and there's a tree with green leaves nearby.",
+    "objects": [
+      "white",
+      "tree",
+      "green",
+      "tent",
+      "nearby"
+    ],
+    "actions": [
+      "leaves",
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A white tent is visible in the background, and there's a tree with green leaves nearby.",
+    "objects": [
+      "white",
+      "tree",
+      "green",
+      "tent",
+      "nearby"
+    ],
+    "actions": [
+      "leaves",
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A white tent is visible in the background, and there's a tree with green leaves nearby.",
+    "objects": [
+      "white",
+      "tree",
+      "green",
+      "tent",
+      "nearby"
+    ],
+    "actions": [
+      "leaves",
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is singing along with the guitar, and the sound of the guitar is audible.",
+    "objects": [
+      "audible",
+      "guitar",
+      "sound",
+      "man",
+      "along"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is singing along with the guitar, and the sound of the guitar is audible.",
+    "objects": [
+      "audible",
+      "guitar",
+      "sound",
+      "man",
+      "along"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is singing along with the guitar, and the sound of the guitar is audible.",
+    "objects": [
+      "audible",
+      "guitar",
+      "sound",
+      "man",
+      "along"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "He appears to be enjoying himself, as he smiles while playing.",
+    "objects": [
+      "himself",
+      "while"
+    ],
+    "actions": [
+      "playing",
+      "smiles",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "He appears to be enjoying himself, as he smiles while playing.",
+    "objects": [
+      "himself",
+      "while"
+    ],
+    "actions": [
+      "playing",
+      "smiles",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "He appears to be enjoying himself, as he smiles while playing.",
+    "objects": [
+      "himself",
+      "while"
+    ],
+    "actions": [
+      "playing",
+      "smiles",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The lighting is natural and soft, and the man's hair is graying.",
+    "objects": [
+      "natural",
+      "soft",
+      "hair"
+    ],
+    "actions": [
+      "graying",
+      "man's",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The lighting is natural and soft, and the man's hair is graying.",
+    "objects": [
+      "natural",
+      "soft",
+      "hair"
+    ],
+    "actions": [
+      "graying",
+      "man's",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The lighting is natural and soft, and the man's hair is graying.",
+    "objects": [
+      "natural",
+      "soft",
+      "hair"
+    ],
+    "actions": [
+      "graying",
+      "man's",
+      "lighting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The guitar he's playing is positioned on his left side.",
+    "objects": [
+      "his",
+      "side",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "positioned"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The guitar he's playing is positioned on his left side.",
+    "objects": [
+      "his",
+      "side",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "positioned"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The guitar he's playing is positioned on his left side.",
+    "objects": [
+      "his",
+      "side",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "positioned"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The audience is not visible in the shot, and there are no other people around him.",
+    "objects": [
+      "around",
+      "audience",
+      "other",
+      "him",
+      "not",
+      "people",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The audience is not visible in the shot, and there are no other people around him.",
+    "objects": [
+      "around",
+      "audience",
+      "other",
+      "him",
+      "not",
+      "people",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The audience is not visible in the shot, and there are no other people around him.",
+    "objects": [
+      "around",
+      "audience",
+      "other",
+      "him",
+      "not",
+      "people",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The man's right hand is on the guitar while he strums with his left hand.",
+    "objects": [
+      "his",
+      "while",
+      "hand",
+      "guitar"
+    ],
+    "actions": [
+      "man's",
+      "strums"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The man's right hand is on the guitar while he strums with his left hand.",
+    "objects": [
+      "his",
+      "while",
+      "hand",
+      "guitar"
+    ],
+    "actions": [
+      "man's",
+      "strums"
+    ],
+    "segment_id": 10
+  }
+]

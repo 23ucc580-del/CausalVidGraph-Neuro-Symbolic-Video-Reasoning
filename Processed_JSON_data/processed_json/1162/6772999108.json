@@ -1,0 +1,602 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see two children, a boy and a girl, seated on chairs in a room with a whiteboard behind them.",
+    "objects": [
+      "whiteboard",
+      "room",
+      "girl",
+      "them",
+      "behind",
+      "boy",
+      "two",
+      "see"
+    ],
+    "actions": [
+      "seated",
+      "chairs"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see two children, a boy and a girl, seated on chairs in a room with a whiteboard behind them.",
+    "objects": [
+      "whiteboard",
+      "room",
+      "girl",
+      "them",
+      "behind",
+      "boy",
+      "two",
+      "see"
+    ],
+    "actions": [
+      "seated",
+      "chairs"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see two children, a boy and a girl, seated on chairs in a room with a whiteboard behind them.",
+    "objects": [
+      "whiteboard",
+      "room",
+      "girl",
+      "them",
+      "behind",
+      "boy",
+      "two",
+      "see"
+    ],
+    "actions": [
+      "seated",
+      "chairs"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see two children, a boy and a girl, seated on chairs in a room with a whiteboard behind them.",
+    "objects": [
+      "whiteboard",
+      "room",
+      "girl",
+      "them",
+      "behind",
+      "boy",
+      "two",
+      "see"
+    ],
+    "actions": [
+      "seated",
+      "chairs"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The boy is holding a guitar, strumming it with his left hand while the girl is holding a microphone, appearing to sing along to the boy's performance.",
+    "objects": [
+      "guitar",
+      "hand",
+      "performance",
+      "while",
+      "his",
+      "microphone",
+      "girl",
+      "boy"
+    ],
+    "actions": [
+      "appearing",
+      "holding",
+      "boy's",
+      "sing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The boy is holding a guitar, strumming it with his left hand while the girl is holding a microphone, appearing to sing along to the boy's performance.",
+    "objects": [
+      "guitar",
+      "hand",
+      "performance",
+      "while",
+      "his",
+      "microphone",
+      "girl",
+      "boy"
+    ],
+    "actions": [
+      "appearing",
+      "holding",
+      "boy's",
+      "sing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The boy is holding a guitar, strumming it with his left hand while the girl is holding a microphone, appearing to sing along to the boy's performance.",
+    "objects": [
+      "guitar",
+      "hand",
+      "performance",
+      "while",
+      "his",
+      "microphone",
+      "girl",
+      "boy"
+    ],
+    "actions": [
+      "appearing",
+      "holding",
+      "boy's",
+      "sing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The boy is holding a guitar, strumming it with his left hand while the girl is holding a microphone, appearing to sing along to the boy's performance.",
+    "objects": [
+      "guitar",
+      "hand",
+      "performance",
+      "while",
+      "his",
+      "microphone",
+      "girl",
+      "boy"
+    ],
+    "actions": [
+      "appearing",
+      "holding",
+      "boy's",
+      "sing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are dressed in casual attire, with the boy in a green hoodie and the girl in a white blouse.",
+    "objects": [
+      "white",
+      "green",
+      "casual",
+      "girl",
+      "hoodie",
+      "attire",
+      "blouse",
+      "boy"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are dressed in casual attire, with the boy in a green hoodie and the girl in a white blouse.",
+    "objects": [
+      "white",
+      "green",
+      "casual",
+      "girl",
+      "hoodie",
+      "attire",
+      "blouse",
+      "boy"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are dressed in casual attire, with the boy in a green hoodie and the girl in a white blouse.",
+    "objects": [
+      "white",
+      "green",
+      "casual",
+      "girl",
+      "hoodie",
+      "attire",
+      "blouse",
+      "boy"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are dressed in casual attire, with the boy in a green hoodie and the girl in a white blouse.",
+    "objects": [
+      "white",
+      "green",
+      "casual",
+      "girl",
+      "hoodie",
+      "attire",
+      "blouse",
+      "boy"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The room is well-lit with natural light coming in through the windows, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "room",
+      "natural",
+      "light",
+      "atmosphere",
+      "through"
+    ],
+    "actions": [
+      "coming",
+      "inviting",
+      "creating",
+      "windows"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The room is well-lit with natural light coming in through the windows, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "room",
+      "natural",
+      "light",
+      "atmosphere",
+      "through"
+    ],
+    "actions": [
+      "coming",
+      "inviting",
+      "creating",
+      "windows"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The room is well-lit with natural light coming in through the windows, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "room",
+      "natural",
+      "light",
+      "atmosphere",
+      "through"
+    ],
+    "actions": [
+      "coming",
+      "inviting",
+      "creating",
+      "windows"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The room is well-lit with natural light coming in through the windows, creating a warm and inviting atmosphere.",
+    "objects": [
+      "warm",
+      "room",
+      "natural",
+      "light",
+      "atmosphere",
+      "through"
+    ],
+    "actions": [
+      "coming",
+      "inviting",
+      "creating",
+      "windows"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy's focus is on his guitar, while the girl's attention is on the microphone, suggesting they are deeply immersed in their respective activities.",
+    "objects": [
+      "guitar",
+      "attention",
+      "while",
+      "microphone",
+      "his",
+      "deeply",
+      "respective",
+      "their"
+    ],
+    "actions": [
+      "girl's",
+      "focus",
+      "activities",
+      "boy's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy's focus is on his guitar, while the girl's attention is on the microphone, suggesting they are deeply immersed in their respective activities.",
+    "objects": [
+      "guitar",
+      "attention",
+      "while",
+      "microphone",
+      "his",
+      "deeply",
+      "respective",
+      "their"
+    ],
+    "actions": [
+      "girl's",
+      "focus",
+      "activities",
+      "boy's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy's focus is on his guitar, while the girl's attention is on the microphone, suggesting they are deeply immersed in their respective activities.",
+    "objects": [
+      "guitar",
+      "attention",
+      "while",
+      "microphone",
+      "his",
+      "deeply",
+      "respective",
+      "their"
+    ],
+    "actions": [
+      "girl's",
+      "focus",
+      "activities",
+      "boy's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy's focus is on his guitar, while the girl's attention is on the microphone, suggesting they are deeply immersed in their respective activities.",
+    "objects": [
+      "guitar",
+      "attention",
+      "while",
+      "microphone",
+      "his",
+      "deeply",
+      "respective",
+      "their"
+    ],
+    "actions": [
+      "girl's",
+      "focus",
+      "activities",
+      "boy's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The whiteboard behind them is blank, implying it might be a space for learning or practice.",
+    "objects": [
+      "whiteboard",
+      "space",
+      "them",
+      "behind",
+      "might",
+      "blank",
+      "practice"
+    ],
+    "actions": [
+      "learning",
+      "implying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The whiteboard behind them is blank, implying it might be a space for learning or practice.",
+    "objects": [
+      "whiteboard",
+      "space",
+      "them",
+      "behind",
+      "might",
+      "blank",
+      "practice"
+    ],
+    "actions": [
+      "learning",
+      "implying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The whiteboard behind them is blank, implying it might be a space for learning or practice.",
+    "objects": [
+      "whiteboard",
+      "space",
+      "them",
+      "behind",
+      "might",
+      "blank",
+      "practice"
+    ],
+    "actions": [
+      "learning",
+      "implying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The whiteboard behind them is blank, implying it might be a space for learning or practice.",
+    "objects": [
+      "whiteboard",
+      "space",
+      "them",
+      "behind",
+      "might",
+      "blank",
+      "practice"
+    ],
+    "actions": [
+      "learning",
+      "implying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera angle gives a clear view of the children and their actions, allowing us to observe the dynamics of their interaction.",
+    "objects": [
+      "observe",
+      "interaction",
+      "their",
+      "children",
+      "clear"
+    ],
+    "actions": [
+      "allowing",
+      "dynamics",
+      "actions",
+      "gives"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera angle gives a clear view of the children and their actions, allowing us to observe the dynamics of their interaction.",
+    "objects": [
+      "observe",
+      "interaction",
+      "their",
+      "children",
+      "clear"
+    ],
+    "actions": [
+      "allowing",
+      "dynamics",
+      "actions",
+      "gives"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera angle gives a clear view of the children and their actions, allowing us to observe the dynamics of their interaction.",
+    "objects": [
+      "observe",
+      "interaction",
+      "their",
+      "children",
+      "clear"
+    ],
+    "actions": [
+      "allowing",
+      "dynamics",
+      "actions",
+      "gives"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera angle gives a clear view of the children and their actions, allowing us to observe the dynamics of their interaction.",
+    "objects": [
+      "observe",
+      "interaction",
+      "their",
+      "children",
+      "clear"
+    ],
+    "actions": [
+      "allowing",
+      "dynamics",
+      "actions",
+      "gives"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The overall scene conveys a sense of enjoyment and engagement in music and learning.",
+    "objects": [
+      "engagement",
+      "enjoyment",
+      "sense",
+      "music",
+      "overall"
+    ],
+    "actions": [
+      "conveys",
+      "learning"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The overall scene conveys a sense of enjoyment and engagement in music and learning.",
+    "objects": [
+      "engagement",
+      "enjoyment",
+      "sense",
+      "music",
+      "overall"
+    ],
+    "actions": [
+      "conveys",
+      "learning"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall scene conveys a sense of enjoyment and engagement in music and learning.",
+    "objects": [
+      "engagement",
+      "enjoyment",
+      "sense",
+      "music",
+      "overall"
+    ],
+    "actions": [
+      "conveys",
+      "learning"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall scene conveys a sense of enjoyment and engagement in music and learning.",
+    "objects": [
+      "engagement",
+      "enjoyment",
+      "sense",
+      "music",
+      "overall"
+    ],
+    "actions": [
+      "conveys",
+      "learning"
+    ],
+    "segment_id": 7
+  }
+]

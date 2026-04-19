@@ -1,0 +1,518 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video takes place in a room filled with people.",
+    "objects": [
+      "room",
+      "people",
+      "place"
+    ],
+    "actions": [
+      "filled",
+      "takes"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video takes place in a room filled with people.",
+    "objects": [
+      "room",
+      "people",
+      "place"
+    ],
+    "actions": [
+      "filled",
+      "takes"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video takes place in a room filled with people.",
+    "objects": [
+      "room",
+      "people",
+      "place"
+    ],
+    "actions": [
+      "filled",
+      "takes"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video takes place in a room filled with people.",
+    "objects": [
+      "room",
+      "people",
+      "place"
+    ],
+    "actions": [
+      "filled",
+      "takes"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The main focus is on two men sitting at a table.",
+    "objects": [
+      "main",
+      "men",
+      "table",
+      "two"
+    ],
+    "actions": [
+      "sitting",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The main focus is on two men sitting at a table.",
+    "objects": [
+      "main",
+      "men",
+      "table",
+      "two"
+    ],
+    "actions": [
+      "sitting",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The main focus is on two men sitting at a table.",
+    "objects": [
+      "main",
+      "men",
+      "table",
+      "two"
+    ],
+    "actions": [
+      "sitting",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The main focus is on two men sitting at a table.",
+    "objects": [
+      "main",
+      "men",
+      "table",
+      "two"
+    ],
+    "actions": [
+      "sitting",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man on the left is wearing a blue shirt and has a red tie, while the man on the right is wearing a black shirt and has a white tie.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "blue",
+      "has",
+      "shirt",
+      "tie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man on the left is wearing a blue shirt and has a red tie, while the man on the right is wearing a black shirt and has a white tie.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "blue",
+      "has",
+      "shirt",
+      "tie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man on the left is wearing a blue shirt and has a red tie, while the man on the right is wearing a black shirt and has a white tie.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "blue",
+      "has",
+      "shirt",
+      "tie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man on the left is wearing a blue shirt and has a red tie, while the man on the right is wearing a black shirt and has a white tie.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "blue",
+      "has",
+      "shirt",
+      "tie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man on the left is holding a phone to his ear and appears to be talking on the phone.",
+    "objects": [
+      "man",
+      "phone",
+      "his",
+      "ear"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man on the left is holding a phone to his ear and appears to be talking on the phone.",
+    "objects": [
+      "man",
+      "phone",
+      "his",
+      "ear"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man on the left is holding a phone to his ear and appears to be talking on the phone.",
+    "objects": [
+      "man",
+      "phone",
+      "his",
+      "ear"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man on the left is holding a phone to his ear and appears to be talking on the phone.",
+    "objects": [
+      "man",
+      "phone",
+      "his",
+      "ear"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "There are other people in the background, including a woman with a purple shirt and a man in a white shirt, both of whom are also holding cell phones.",
+    "objects": [
+      "other",
+      "there",
+      "people",
+      "woman",
+      "white",
+      "both",
+      "whom",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "phones"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "There are other people in the background, including a woman with a purple shirt and a man in a white shirt, both of whom are also holding cell phones.",
+    "objects": [
+      "other",
+      "there",
+      "people",
+      "woman",
+      "white",
+      "both",
+      "whom",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "phones"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "There are other people in the background, including a woman with a purple shirt and a man in a white shirt, both of whom are also holding cell phones.",
+    "objects": [
+      "other",
+      "there",
+      "people",
+      "woman",
+      "white",
+      "both",
+      "whom",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "phones"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "There are other people in the background, including a woman with a purple shirt and a man in a white shirt, both of whom are also holding cell phones.",
+    "objects": [
+      "other",
+      "there",
+      "people",
+      "woman",
+      "white",
+      "both",
+      "whom",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "phones"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Another man in a black shirt is sitting at the table and looking down.",
+    "objects": [
+      "shirt",
+      "man",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Another man in a black shirt is sitting at the table and looking down.",
+    "objects": [
+      "shirt",
+      "man",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Another man in a black shirt is sitting at the table and looking down.",
+    "objects": [
+      "shirt",
+      "man",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Another man in a black shirt is sitting at the table and looking down.",
+    "objects": [
+      "shirt",
+      "man",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman with a brown purse is also present in the room, and a man in a white shirt is seated at a table with a brown tie.",
+    "objects": [
+      "table",
+      "man",
+      "white",
+      "woman",
+      "purse",
+      "shirt",
+      "tie",
+      "room"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman with a brown purse is also present in the room, and a man in a white shirt is seated at a table with a brown tie.",
+    "objects": [
+      "table",
+      "man",
+      "white",
+      "woman",
+      "purse",
+      "shirt",
+      "tie",
+      "room"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A woman with a brown purse is also present in the room, and a man in a white shirt is seated at a table with a brown tie.",
+    "objects": [
+      "table",
+      "man",
+      "white",
+      "woman",
+      "purse",
+      "shirt",
+      "tie",
+      "room"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A woman with a brown purse is also present in the room, and a man in a white shirt is seated at a table with a brown tie.",
+    "objects": [
+      "table",
+      "man",
+      "white",
+      "woman",
+      "purse",
+      "shirt",
+      "tie",
+      "room"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The room is well-lit and has a beige floor.",
+    "objects": [
+      "room",
+      "beige",
+      "floor",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The room is well-lit and has a beige floor.",
+    "objects": [
+      "room",
+      "beige",
+      "floor",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The room is well-lit and has a beige floor.",
+    "objects": [
+      "room",
+      "beige",
+      "floor",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The room is well-lit and has a beige floor.",
+    "objects": [
+      "room",
+      "beige",
+      "floor",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

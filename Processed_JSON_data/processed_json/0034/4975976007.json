@@ -1,0 +1,624 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of women gathered in a living room, each engaged in their own activities.",
+    "objects": [
+      "their",
+      "room",
+      "own",
+      "group",
+      "see",
+      "each",
+      "women"
+    ],
+    "actions": [
+      "living",
+      "activities",
+      "engaged",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "One woman, wearing a blue hoodie, is holding a remote control in her hand and appears to be focused on it, possibly controlling the television or a device nearby.",
+    "objects": [
+      "her",
+      "device",
+      "one",
+      "blue",
+      "nearby",
+      "control",
+      "possibly",
+      "woman"
+    ],
+    "actions": [
+      "controlling",
+      "holding",
+      "focused",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "Another woman, dressed in a white shirt, is holding a phone to her ear, seemingly engaged in a conversation.",
+    "objects": [
+      "shirt",
+      "her",
+      "white",
+      "conversation",
+      "ear",
+      "phone",
+      "woman",
+      "seemingly"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The third woman, wearing a colorful scarf, is sitting on a couch, her attention drawn to something off-screen, perhaps watching television or a movie.",
+    "objects": [
+      "her",
+      "movie",
+      "scarf",
+      "couch",
+      "third",
+      "drawn",
+      "woman",
+      "colorful"
+    ],
+    "actions": [
+      "watching",
+      "something",
+      "sitting",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The fourth woman, wearing a white shirt, is holding a book in her hands, her eyes following the words on the pages as she reads.",
+    "objects": [
+      "shirt",
+      "her",
+      "fourth",
+      "white",
+      "eyes",
+      "book",
+      "she",
+      "woman"
+    ],
+    "actions": [
+      "words",
+      "reads",
+      "holding",
+      "following"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The fifth woman, wearing a red top, is sitting on the floor, her hands resting on her knees in a relaxed posture.",
+    "objects": [
+      "her",
+      "floor",
+      "fifth",
+      "top",
+      "posture",
+      "woman"
+    ],
+    "actions": [
+      "resting",
+      "red",
+      "knees",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The sixth woman, wearing a blue top, is seated on a chair, her attention drawn to the woman in the blue hoodie as they engage in a conversation.",
+    "objects": [
+      "her",
+      "blue",
+      "engage",
+      "sixth",
+      "top",
+      "conversation",
+      "chair",
+      "drawn"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The seventh woman, wearing a pink shirt, is standing, her attention seemingly focused on the television or a distant event.",
+    "objects": [
+      "shirt",
+      "her",
+      "pink",
+      "distant",
+      "seventh",
+      "woman",
+      "attention",
+      "television"
+    ],
+    "actions": [
+      "standing",
+      "focused",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The eighth woman, wearing a white top, is also standing, her gaze directed towards the woman in the red top.",
+    "objects": [
+      "her",
+      "white",
+      "top",
+      "woman",
+      "gaze",
+      "eighth"
+    ],
+    "actions": [
+      "red",
+      "towards",
+      "standing",
+      "directed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The ninth woman, wearing a green shirt, is sitting on the floor, her hands resting on her knees in a relaxed posture.",
+    "objects": [
+      "shirt",
+      "her",
+      "floor",
+      "posture",
+      "woman",
+      "green",
+      "ninth"
+    ],
+    "actions": [
+      "resting",
+      "knees",
+      "sitting",
+      "relaxed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The tenth woman, wearing a black top, is seated on the floor, her attention drawn to something off-screen.",
+    "objects": [
+      "her",
+      "floor",
+      "tenth",
+      "top",
+      "black",
+      "drawn",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "something",
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The eleventh woman, wearing a white top, is seated on the couch, her attention focused on the television or a distant event.",
+    "objects": [
+      "her",
+      "distant",
+      "white",
+      "top",
+      "couch",
+      "eleventh",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "seated",
+      "focused",
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The twelfth woman, wearing a black shirt, is sitting on the couch, her hands resting on her knees in a relaxed posture.",
+    "objects": [
+      "shirt",
+      "her",
+      "couch",
+      "posture",
+      "black",
+      "woman",
+      "twelfth"
+    ],
+    "actions": [
+      "resting",
+      "knees",
+      "sitting",
+      "relaxed"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The thirteenth woman, wearing a red shirt, is standing, her attention focused on the woman in the white shirt.",
+    "objects": [
+      "shirt",
+      "thirteenth",
+      "her",
+      "white",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "focused",
+      "wearing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The fourteenth woman, wearing a blue top, is standing, her attention drawn to the woman in the red shirt.",
+    "objects": [
+      "her",
+      "shirt",
+      "blue",
+      "top",
+      "drawn",
+      "woman",
+      "attention",
+      "fourteenth"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The fifteenth woman, wearing a white top, is seated on the floor, her attention drawn to the woman in the blue hoodie.",
+    "objects": [
+      "her",
+      "blue",
+      "floor",
+      "white",
+      "top",
+      "drawn",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The sixteenth woman, wearing a pink shirt, is standing, her attention drawn to the woman in the blue top.",
+    "objects": [
+      "shirt",
+      "her",
+      "blue",
+      "pink",
+      "top",
+      "drawn",
+      "sixteenth",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The seventeenth woman, wearing a white shirt, is seated on the couch, her attention drawn to the woman in the white shirt.",
+    "objects": [
+      "shirt",
+      "her",
+      "white",
+      "couch",
+      "drawn",
+      "woman",
+      "attention",
+      "seventeenth"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The eighteenth woman, wearing a red top, is seated on the floor, her attention drawn to the woman in the green shirt.",
+    "objects": [
+      "her",
+      "shirt",
+      "floor",
+      "top",
+      "eighteenth",
+      "drawn",
+      "woman",
+      "green"
+    ],
+    "actions": [
+      "red",
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The nineteenth woman, wearing a blue shirt, is seated on the couch, her attention drawn to the woman in the white shirt.",
+    "objects": [
+      "shirt",
+      "her",
+      "blue",
+      "white",
+      "attention",
+      "couch",
+      "drawn",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The twentieth woman, wearing a black top, is standing, her attention drawn to the woman in the red top.",
+    "objects": [
+      "her",
+      "top",
+      "black",
+      "drawn",
+      "woman",
+      "attention",
+      "twentieth"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The twenty-first woman, wearing a white shirt, is seated on the floor, her attention drawn to the woman in the blue shirt.",
+    "objects": [
+      "shirt",
+      "her",
+      "blue",
+      "floor",
+      "white",
+      "drawn",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The twenty-second woman, wearing a red shirt, is seated on the couch, her attention drawn to the woman in the white shirt.",
+    "objects": [
+      "shirt",
+      "her",
+      "white",
+      "couch",
+      "drawn",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "red",
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The twenty-third woman, wearing a pink shirt, is standing, her attention drawn to the woman in the blue shirt.",
+    "objects": [
+      "shirt",
+      "her",
+      "blue",
+      "pink",
+      "drawn",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The twenty-fourth woman, wearing a white shirt, is seated on the couch, her attention drawn to the woman in the black shirt.",
+    "objects": [
+      "shirt",
+      "her",
+      "white",
+      "couch",
+      "black",
+      "drawn",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The twenty-fifth woman, wearing a black top, is standing, her attention drawn to the woman in the pink shirt.",
+    "objects": [
+      "her",
+      "shirt",
+      "pink",
+      "top",
+      "black",
+      "drawn",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The twenty-sixth woman, wearing a white shirt, is seated on the floor, her attention drawn to the woman in the red shirt.",
+    "objects": [
+      "shirt",
+      "her",
+      "floor",
+      "white",
+      "drawn",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "red",
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The twenty-seventh woman, wearing a blue shirt, is seated on the couch, her attention drawn to the woman in the white shirt.",
+    "objects": [
+      "shirt",
+      "her",
+      "blue",
+      "white",
+      "couch",
+      "drawn",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The twenty-eighth woman, wearing a pink shirt, is standing, her attention drawn to the woman in the red top.",
+    "objects": [
+      "shirt",
+      "her",
+      "pink",
+      "top",
+      "drawn",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The twenty-ninth woman, wearing a white shirt, is seated on the couch, her attention drawn to the woman in the black top.",
+    "objects": [
+      "shirt",
+      "her",
+      "white",
+      "top",
+      "couch",
+      "black",
+      "drawn",
+      "woman"
+    ],
+    "actions": [
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The thirtieth woman, wearing a black top, is standing, her attention drawn to the woman in the blue shirt.",
+    "objects": [
+      "her",
+      "shirt",
+      "blue",
+      "top",
+      "thirtieth",
+      "black",
+      "drawn",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The thirty-first woman, wearing a white shirt, is seated on the couch, her attention drawn to the woman in the red shirt.",
+    "objects": [
+      "shirt",
+      "her",
+      "white",
+      "couch",
+      "drawn",
+      "woman",
+      "attention"
+    ],
+    "actions": [
+      "red",
+      "seated",
+      "wearing"
+    ],
+    "segment_id": 31
+  }
+]

@@ -1,0 +1,556 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a lively scene of a group of men enjoying a game of American football on a sunny day in a park.",
+    "objects": [
+      "lively",
+      "american",
+      "sunny",
+      "football",
+      "park",
+      "see",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a lively scene of a group of men enjoying a game of American football on a sunny day in a park.",
+    "objects": [
+      "lively",
+      "american",
+      "sunny",
+      "football",
+      "park",
+      "see",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a lively scene of a group of men enjoying a game of American football on a sunny day in a park.",
+    "objects": [
+      "lively",
+      "american",
+      "sunny",
+      "football",
+      "park",
+      "see",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The players are scattered across the field, with some running and others standing, indicating the game is in full swing.",
+    "objects": [
+      "some",
+      "across",
+      "full",
+      "game",
+      "field"
+    ],
+    "actions": [
+      "indicating",
+      "scattered",
+      "running",
+      "swing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The players are scattered across the field, with some running and others standing, indicating the game is in full swing.",
+    "objects": [
+      "some",
+      "across",
+      "full",
+      "game",
+      "field"
+    ],
+    "actions": [
+      "indicating",
+      "scattered",
+      "running",
+      "swing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The players are scattered across the field, with some running and others standing, indicating the game is in full swing.",
+    "objects": [
+      "some",
+      "across",
+      "full",
+      "game",
+      "field"
+    ],
+    "actions": [
+      "indicating",
+      "scattered",
+      "running",
+      "swing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "There's a man in a red shirt and blue shorts holding a football, ready to make a play.",
+    "objects": [
+      "man",
+      "football",
+      "make",
+      "play",
+      "ready",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "there's",
+      "holding",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "There's a man in a red shirt and blue shorts holding a football, ready to make a play.",
+    "objects": [
+      "man",
+      "football",
+      "make",
+      "play",
+      "ready",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "there's",
+      "holding",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "There's a man in a red shirt and blue shorts holding a football, ready to make a play.",
+    "objects": [
+      "man",
+      "football",
+      "make",
+      "play",
+      "ready",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "there's",
+      "holding",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A man in a blue hoodie is running, presumably to catch the ball.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "presumably",
+      "catch",
+      "ball"
+    ],
+    "actions": [
+      "running"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A man in a blue hoodie is running, presumably to catch the ball.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "presumably",
+      "catch",
+      "ball"
+    ],
+    "actions": [
+      "running"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A man in a blue hoodie is running, presumably to catch the ball.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "presumably",
+      "catch",
+      "ball"
+    ],
+    "actions": [
+      "running"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man in a black hoodie is standing, possibly waiting for the ball to come his way.",
+    "objects": [
+      "his",
+      "man",
+      "way",
+      "possibly",
+      "hoodie",
+      "ball",
+      "come",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "waiting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man in a black hoodie is standing, possibly waiting for the ball to come his way.",
+    "objects": [
+      "his",
+      "man",
+      "way",
+      "possibly",
+      "hoodie",
+      "ball",
+      "come",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "waiting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Another man in a black hoodie is standing, possibly waiting for the ball to come his way.",
+    "objects": [
+      "his",
+      "man",
+      "way",
+      "possibly",
+      "hoodie",
+      "ball",
+      "come",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "waiting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a white shirt is also running, perhaps joining in the action.",
+    "objects": [
+      "white",
+      "man",
+      "action",
+      "shirt"
+    ],
+    "actions": [
+      "running",
+      "perhaps",
+      "joining"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a white shirt is also running, perhaps joining in the action.",
+    "objects": [
+      "white",
+      "man",
+      "action",
+      "shirt"
+    ],
+    "actions": [
+      "running",
+      "perhaps",
+      "joining"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a white shirt is also running, perhaps joining in the action.",
+    "objects": [
+      "white",
+      "man",
+      "action",
+      "shirt"
+    ],
+    "actions": [
+      "running",
+      "perhaps",
+      "joining"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene is filled with energy and camaraderie as the players engage in the game.",
+    "objects": [
+      "energy",
+      "game",
+      "engage",
+      "camaraderie"
+    ],
+    "actions": [
+      "filled",
+      "players"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene is filled with energy and camaraderie as the players engage in the game.",
+    "objects": [
+      "energy",
+      "game",
+      "engage",
+      "camaraderie"
+    ],
+    "actions": [
+      "filled",
+      "players"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene is filled with energy and camaraderie as the players engage in the game.",
+    "objects": [
+      "energy",
+      "game",
+      "engage",
+      "camaraderie"
+    ],
+    "actions": [
+      "filled",
+      "players"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The players are dressed in casual sportswear, with some wearing t-shirts and shorts, adding to the relaxed and friendly atmosphere.",
+    "objects": [
+      "some",
+      "casual",
+      "friendly",
+      "atmosphere",
+      "sportswear"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "adding",
+      "t-shirts"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The players are dressed in casual sportswear, with some wearing t-shirts and shorts, adding to the relaxed and friendly atmosphere.",
+    "objects": [
+      "some",
+      "casual",
+      "friendly",
+      "atmosphere",
+      "sportswear"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "adding",
+      "t-shirts"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The players are dressed in casual sportswear, with some wearing t-shirts and shorts, adding to the relaxed and friendly atmosphere.",
+    "objects": [
+      "some",
+      "casual",
+      "friendly",
+      "atmosphere",
+      "sportswear"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "adding",
+      "t-shirts"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The field they're playing on is wide and open, providing plenty of space for the game.",
+    "objects": [
+      "field",
+      "space",
+      "open",
+      "game",
+      "plenty",
+      "wide"
+    ],
+    "actions": [
+      "playing",
+      "providing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The field they're playing on is wide and open, providing plenty of space for the game.",
+    "objects": [
+      "field",
+      "space",
+      "open",
+      "game",
+      "plenty",
+      "wide"
+    ],
+    "actions": [
+      "playing",
+      "providing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The field they're playing on is wide and open, providing plenty of space for the game.",
+    "objects": [
+      "field",
+      "space",
+      "open",
+      "game",
+      "plenty",
+      "wide"
+    ],
+    "actions": [
+      "playing",
+      "providing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "In the background, we can see a car parked, possibly belonging to one of the players.",
+    "objects": [
+      "car",
+      "see",
+      "one",
+      "can",
+      "possibly"
+    ],
+    "actions": [
+      "parked",
+      "belonging",
+      "players"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, we can see a car parked, possibly belonging to one of the players.",
+    "objects": [
+      "car",
+      "see",
+      "one",
+      "can",
+      "possibly"
+    ],
+    "actions": [
+      "parked",
+      "belonging",
+      "players"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, we can see a car parked, possibly belonging to one of the players.",
+    "objects": [
+      "car",
+      "see",
+      "one",
+      "can",
+      "possibly"
+    ],
+    "actions": [
+      "parked",
+      "belonging",
+      "players"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The sun is shining brightly overhead, casting a warm glow on the scene.",
+    "objects": [
+      "sun",
+      "overhead",
+      "brightly",
+      "warm",
+      "glow"
+    ],
+    "actions": [
+      "shining",
+      "casting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The sun is shining brightly overhead, casting a warm glow on the scene.",
+    "objects": [
+      "sun",
+      "overhead",
+      "brightly",
+      "warm",
+      "glow"
+    ],
+    "actions": [
+      "shining",
+      "casting"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a man holding a camera, recording a scene inside a room with two men seated on stools.",
+    "objects": [
+      "inside",
+      "man",
+      "two",
+      "men",
+      "room"
+    ],
+    "actions": [
+      "holding",
+      "seated",
+      "stools",
+      "opens"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a man holding a camera, recording a scene inside a room with two men seated on stools.",
+    "objects": [
+      "inside",
+      "man",
+      "two",
+      "men",
+      "room"
+    ],
+    "actions": [
+      "holding",
+      "seated",
+      "stools",
+      "opens"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video opens with a man holding a camera, recording a scene inside a room with two men seated on stools.",
+    "objects": [
+      "inside",
+      "man",
+      "two",
+      "men",
+      "room"
+    ],
+    "actions": [
+      "holding",
+      "seated",
+      "stools",
+      "opens"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video opens with a man holding a camera, recording a scene inside a room with two men seated on stools.",
+    "objects": [
+      "inside",
+      "man",
+      "two",
+      "men",
+      "room"
+    ],
+    "actions": [
+      "holding",
+      "seated",
+      "stools",
+      "opens"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One of the men is wearing a black shirt and the other is in a gray hoodie with a yellow logo on it.",
+    "objects": [
+      "hoodie",
+      "gray",
+      "other",
+      "logo",
+      "one",
+      "yellow",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One of the men is wearing a black shirt and the other is in a gray hoodie with a yellow logo on it.",
+    "objects": [
+      "hoodie",
+      "gray",
+      "other",
+      "logo",
+      "one",
+      "yellow",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One of the men is wearing a black shirt and the other is in a gray hoodie with a yellow logo on it.",
+    "objects": [
+      "hoodie",
+      "gray",
+      "other",
+      "logo",
+      "one",
+      "yellow",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One of the men is wearing a black shirt and the other is in a gray hoodie with a yellow logo on it.",
+    "objects": [
+      "hoodie",
+      "gray",
+      "other",
+      "logo",
+      "one",
+      "yellow",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A person in the foreground is holding a can of soda, and another man is wearing a black shirt and holding a bottle of beer.",
+    "objects": [
+      "beer",
+      "man",
+      "soda",
+      "shirt",
+      "bottle",
+      "can",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A person in the foreground is holding a can of soda, and another man is wearing a black shirt and holding a bottle of beer.",
+    "objects": [
+      "beer",
+      "man",
+      "soda",
+      "shirt",
+      "bottle",
+      "can",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A person in the foreground is holding a can of soda, and another man is wearing a black shirt and holding a bottle of beer.",
+    "objects": [
+      "beer",
+      "man",
+      "soda",
+      "shirt",
+      "bottle",
+      "can",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A person in the foreground is holding a can of soda, and another man is wearing a black shirt and holding a bottle of beer.",
+    "objects": [
+      "beer",
+      "man",
+      "soda",
+      "shirt",
+      "bottle",
+      "can",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "In the background, there's a man in a white shirt with a black logo on it, and another man in a blue shirt is holding a beer.",
+    "objects": [
+      "beer",
+      "white",
+      "man",
+      "logo",
+      "blue",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "there's",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "In the background, there's a man in a white shirt with a black logo on it, and another man in a blue shirt is holding a beer.",
+    "objects": [
+      "beer",
+      "white",
+      "man",
+      "logo",
+      "blue",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "there's",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "In the background, there's a man in a white shirt with a black logo on it, and another man in a blue shirt is holding a beer.",
+    "objects": [
+      "beer",
+      "white",
+      "man",
+      "logo",
+      "blue",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "there's",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, there's a man in a white shirt with a black logo on it, and another man in a blue shirt is holding a beer.",
+    "objects": [
+      "beer",
+      "white",
+      "man",
+      "logo",
+      "blue",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "there's",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The room is filled with various items, including a refrigerator, a microwave, a stove, a sink, and a dining table.",
+    "objects": [
+      "stove",
+      "refrigerator",
+      "microwave",
+      "table",
+      "sink",
+      "room"
+    ],
+    "actions": [
+      "dining",
+      "filled",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The room is filled with various items, including a refrigerator, a microwave, a stove, a sink, and a dining table.",
+    "objects": [
+      "stove",
+      "refrigerator",
+      "microwave",
+      "table",
+      "sink",
+      "room"
+    ],
+    "actions": [
+      "dining",
+      "filled",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The room is filled with various items, including a refrigerator, a microwave, a stove, a sink, and a dining table.",
+    "objects": [
+      "stove",
+      "refrigerator",
+      "microwave",
+      "table",
+      "sink",
+      "room"
+    ],
+    "actions": [
+      "dining",
+      "filled",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The room is filled with various items, including a refrigerator, a microwave, a stove, a sink, and a dining table.",
+    "objects": [
+      "stove",
+      "refrigerator",
+      "microwave",
+      "table",
+      "sink",
+      "room"
+    ],
+    "actions": [
+      "dining",
+      "filled",
+      "items"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a black shirt is holding a white plastic bag, while a man in a blue shirt is holding a black object.",
+    "objects": [
+      "object",
+      "white",
+      "man",
+      "plastic",
+      "bag",
+      "blue",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a black shirt is holding a white plastic bag, while a man in a blue shirt is holding a black object.",
+    "objects": [
+      "object",
+      "white",
+      "man",
+      "plastic",
+      "bag",
+      "blue",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a black shirt is holding a white plastic bag, while a man in a blue shirt is holding a black object.",
+    "objects": [
+      "object",
+      "white",
+      "man",
+      "plastic",
+      "bag",
+      "blue",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a black shirt is holding a white plastic bag, while a man in a blue shirt is holding a black object.",
+    "objects": [
+      "object",
+      "white",
+      "man",
+      "plastic",
+      "bag",
+      "blue",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the black shirt with the yellow logo is sitting on a chair, and a man in a blue shirt is sitting on a stool.",
+    "objects": [
+      "chair",
+      "man",
+      "logo",
+      "blue",
+      "yellow",
+      "shirt",
+      "stool",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the black shirt with the yellow logo is sitting on a chair, and a man in a blue shirt is sitting on a stool.",
+    "objects": [
+      "chair",
+      "man",
+      "logo",
+      "blue",
+      "yellow",
+      "shirt",
+      "stool",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the black shirt with the yellow logo is sitting on a chair, and a man in a blue shirt is sitting on a stool.",
+    "objects": [
+      "chair",
+      "man",
+      "logo",
+      "blue",
+      "yellow",
+      "shirt",
+      "stool",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the black shirt with the yellow logo is sitting on a chair, and a man in a blue shirt is sitting on a stool.",
+    "objects": [
+      "chair",
+      "man",
+      "logo",
+      "blue",
+      "yellow",
+      "shirt",
+      "stool",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "Another man in a gray hoodie is sitting on a stool, and a man in a black shirt is also sitting on a stool.",
+    "objects": [
+      "man",
+      "hoodie",
+      "gray",
+      "shirt",
+      "stool",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "Another man in a gray hoodie is sitting on a stool, and a man in a black shirt is also sitting on a stool.",
+    "objects": [
+      "man",
+      "hoodie",
+      "gray",
+      "shirt",
+      "stool",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "Another man in a gray hoodie is sitting on a stool, and a man in a black shirt is also sitting on a stool.",
+    "objects": [
+      "man",
+      "hoodie",
+      "gray",
+      "shirt",
+      "stool",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "Another man in a gray hoodie is sitting on a stool, and a man in a black shirt is also sitting on a stool.",
+    "objects": [
+      "man",
+      "hoodie",
+      "gray",
+      "shirt",
+      "stool",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 7
+  }
+]

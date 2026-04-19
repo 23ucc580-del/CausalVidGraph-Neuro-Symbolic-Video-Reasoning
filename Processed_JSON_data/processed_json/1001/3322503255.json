@@ -1,0 +1,598 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a bustling scene at an airport tarmac where a large commercial airplane is parked on the runway.",
+    "objects": [
+      "large",
+      "airplane",
+      "runway",
+      "where",
+      "tarmac",
+      "commercial",
+      "airport"
+    ],
+    "actions": [
+      "bustling",
+      "parked"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "A yellow vehicle is seen moving towards the airplane, while a man in a blue shirt and yellow vest is walking on the tarmac.",
+    "objects": [
+      "airplane",
+      "while",
+      "tarmac",
+      "yellow",
+      "blue",
+      "vehicle",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "towards",
+      "moving",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "Another man in a blue shirt is also seen walking, possibly overseeing the activities.",
+    "objects": [
+      "man",
+      "possibly",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "activities",
+      "overseeing",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "A man in a blue jacket is standing next to a car, observing the scene.",
+    "objects": [
+      "man",
+      "jacket",
+      "blue",
+      "car"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman in a black shirt is seen walking on the tarmac, and a man in a white shirt is standing next to a car, also engaged in observing the activities.",
+    "objects": [
+      "white",
+      "woman",
+      "tarmac",
+      "black",
+      "shirt",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "engaged",
+      "activities",
+      "observing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "A man in a black jacket is holding a walkie-talkie, presumably communicating with the ground crew.",
+    "objects": [
+      "crew",
+      "presumably",
+      "jacket",
+      "black",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "holding",
+      "communicating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "A man in a grey shirt is walking towards the airplane, possibly overseeing the operations.",
+    "objects": [
+      "airplane",
+      "possibly",
+      "grey",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "towards",
+      "overseeing",
+      "operations",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "A man in a white shirt is walking towards a car, possibly part of the ground crew.",
+    "objects": [
+      "crew",
+      "white",
+      "possibly",
+      "shirt",
+      "part",
+      "car",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "A man in a blue hoodie is standing next to the airplane, observing the activities.",
+    "objects": [
+      "man",
+      "airplane",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "activities",
+      "observing",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "A man in a white shirt is walking towards the airplane, possibly part of the ground crew.",
+    "objects": [
+      "airplane",
+      "crew",
+      "white",
+      "possibly",
+      "shirt",
+      "part",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "A man in a black jacket is walking towards a car, likely part of the ground crew.",
+    "objects": [
+      "crew",
+      "jacket",
+      "black",
+      "part",
+      "car",
+      "man",
+      "ground",
+      "likely"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "A man in a black shirt is walking towards the airplane, possibly part of the ground crew.",
+    "objects": [
+      "airplane",
+      "crew",
+      "black",
+      "possibly",
+      "shirt",
+      "part",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a white shirt is walking towards the airplane, possibly part of the ground crew.",
+    "objects": [
+      "airplane",
+      "crew",
+      "white",
+      "possibly",
+      "shirt",
+      "part",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a black jacket is walking towards a car, likely part of the ground crew.",
+    "objects": [
+      "crew",
+      "jacket",
+      "black",
+      "part",
+      "car",
+      "man",
+      "ground",
+      "likely"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a black shirt is walking towards the airplane, possibly part of the ground crew.",
+    "objects": [
+      "airplane",
+      "crew",
+      "black",
+      "possibly",
+      "shirt",
+      "part",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a black jacket is walking towards the car, likely part of the ground crew.",
+    "objects": [
+      "crew",
+      "jacket",
+      "black",
+      "part",
+      "car",
+      "man",
+      "ground",
+      "likely"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a black shirt is walking towards the airplane, possibly part of the ground crew.",
+    "objects": [
+      "airplane",
+      "crew",
+      "black",
+      "possibly",
+      "shirt",
+      "part",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a white shirt is walking towards the airplane, possibly part of the ground crew.",
+    "objects": [
+      "airplane",
+      "crew",
+      "white",
+      "possibly",
+      "shirt",
+      "part",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a white shirt is walking towards the airplane, likely part of the ground crew.",
+    "objects": [
+      "airplane",
+      "crew",
+      "white",
+      "shirt",
+      "part",
+      "man",
+      "ground",
+      "likely"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a blue shirt is walking towards the airplane, possibly part of the ground crew.",
+    "objects": [
+      "airplane",
+      "crew",
+      "possibly",
+      "blue",
+      "shirt",
+      "part",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a black jacket is walking towards the car, likely part of the ground crew.",
+    "objects": [
+      "crew",
+      "jacket",
+      "black",
+      "part",
+      "car",
+      "man",
+      "ground",
+      "likely"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a white shirt is walking towards the car, possibly part of the ground crew.",
+    "objects": [
+      "crew",
+      "white",
+      "possibly",
+      "shirt",
+      "part",
+      "car",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a white shirt is walking towards the car, likely part of the ground crew.",
+    "objects": [
+      "crew",
+      "white",
+      "shirt",
+      "part",
+      "car",
+      "man",
+      "ground",
+      "likely"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a black jacket is walking towards the car, possibly part of the ground crew.",
+    "objects": [
+      "crew",
+      "jacket",
+      "possibly",
+      "black",
+      "part",
+      "car",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a black shirt is walking towards the car, likely part of the ground crew.",
+    "objects": [
+      "crew",
+      "black",
+      "shirt",
+      "part",
+      "car",
+      "man",
+      "ground",
+      "likely"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a white shirt is walking towards the car, possibly part of the ground crew.",
+    "objects": [
+      "crew",
+      "white",
+      "possibly",
+      "shirt",
+      "part",
+      "car",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a blue shirt is walking towards the car, possibly part of the ground crew.",
+    "objects": [
+      "crew",
+      "possibly",
+      "blue",
+      "shirt",
+      "part",
+      "car",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a white shirt is walking towards the car, likely part of the ground crew.",
+    "objects": [
+      "crew",
+      "white",
+      "shirt",
+      "part",
+      "car",
+      "man",
+      "ground",
+      "likely"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "A man in a black jacket is walking towards the car, likely part of the ground crew.",
+    "objects": [
+      "crew",
+      "jacket",
+      "black",
+      "part",
+      "car",
+      "man",
+      "ground",
+      "likely"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "A man in a white shirt is walking towards the car, possibly part of the ground crew.",
+    "objects": [
+      "crew",
+      "white",
+      "possibly",
+      "shirt",
+      "part",
+      "car",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a black jacket is walking towards the car, likely part of the ground crew.",
+    "objects": [
+      "crew",
+      "jacket",
+      "black",
+      "part",
+      "car",
+      "man",
+      "ground",
+      "likely"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a white shirt is walking towards the car, possibly part of the ground crew.",
+    "objects": [
+      "crew",
+      "white",
+      "possibly",
+      "shirt",
+      "part",
+      "car",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 31
+  }
+]

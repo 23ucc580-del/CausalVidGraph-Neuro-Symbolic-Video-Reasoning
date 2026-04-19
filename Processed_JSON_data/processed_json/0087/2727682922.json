@@ -1,0 +1,592 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a close-up shot of a beautifully decorated wedding cake, showcasing its grandeur and detail.",
+    "objects": [
+      "grandeur",
+      "cake",
+      "detail",
+      "its",
+      "beautifully"
+    ],
+    "actions": [
+      "showcasing",
+      "decorated",
+      "opens",
+      "wedding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a close-up shot of a beautifully decorated wedding cake, showcasing its grandeur and detail.",
+    "objects": [
+      "grandeur",
+      "cake",
+      "detail",
+      "its",
+      "beautifully"
+    ],
+    "actions": [
+      "showcasing",
+      "decorated",
+      "opens",
+      "wedding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The camera then shifts to two people who appear to be a bride and groom, standing in front of a large window, engaged in conversation.",
+    "objects": [
+      "groom",
+      "people",
+      "two",
+      "who",
+      "window",
+      "appear",
+      "then",
+      "conversation"
+    ],
+    "actions": [
+      "standing",
+      "shifts",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The camera then shifts to two people who appear to be a bride and groom, standing in front of a large window, engaged in conversation.",
+    "objects": [
+      "groom",
+      "people",
+      "two",
+      "who",
+      "window",
+      "appear",
+      "then",
+      "conversation"
+    ],
+    "actions": [
+      "standing",
+      "shifts",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The bride is wearing a white dress, and the groom is dressed in a black t-shirt with a white skull graphic, holding a wine glass.",
+    "objects": [
+      "groom",
+      "white",
+      "dress",
+      "wine",
+      "skull",
+      "glass",
+      "bride",
+      "graphic"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The bride is wearing a white dress, and the groom is dressed in a black t-shirt with a white skull graphic, holding a wine glass.",
+    "objects": [
+      "groom",
+      "white",
+      "dress",
+      "wine",
+      "skull",
+      "glass",
+      "bride",
+      "graphic"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "As they talk, the camera pans around them, showing the large window with an elegant view of the surrounding landscape, suggesting the outdoor setting of the event.",
+    "objects": [
+      "event",
+      "landscape",
+      "them",
+      "pans",
+      "window",
+      "elegant",
+      "outdoor",
+      "they"
+    ],
+    "actions": [
+      "setting",
+      "suggesting",
+      "surrounding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "As they talk, the camera pans around them, showing the large window with an elegant view of the surrounding landscape, suggesting the outdoor setting of the event.",
+    "objects": [
+      "event",
+      "landscape",
+      "them",
+      "pans",
+      "window",
+      "elegant",
+      "outdoor",
+      "they"
+    ],
+    "actions": [
+      "setting",
+      "suggesting",
+      "surrounding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then focuses on the couple again, capturing their interaction and the wedding cake in the background, providing a sense of the atmosphere.",
+    "objects": [
+      "couple",
+      "their",
+      "again",
+      "sense",
+      "cake",
+      "atmosphere",
+      "then",
+      "interaction"
+    ],
+    "actions": [
+      "wedding",
+      "capturing",
+      "focuses",
+      "providing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then focuses on the couple again, capturing their interaction and the wedding cake in the background, providing a sense of the atmosphere.",
+    "objects": [
+      "couple",
+      "their",
+      "again",
+      "sense",
+      "cake",
+      "atmosphere",
+      "then",
+      "interaction"
+    ],
+    "actions": [
+      "wedding",
+      "capturing",
+      "focuses",
+      "providing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene then changes to a bartender, who is wearing a black shirt and a white t-shirt with a white graphic, pouring wine into a glass for the groom, and the couple continues their conversation.",
+    "objects": [
+      "groom",
+      "couple",
+      "their",
+      "white",
+      "wine",
+      "who",
+      "bartender",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "continues",
+      "pouring",
+      "changes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene then changes to a bartender, who is wearing a black shirt and a white t-shirt with a white graphic, pouring wine into a glass for the groom, and the couple continues their conversation.",
+    "objects": [
+      "groom",
+      "couple",
+      "their",
+      "white",
+      "wine",
+      "who",
+      "bartender",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "continues",
+      "pouring",
+      "changes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The bartender smiles, indicating a friendly and welcoming demeanor.",
+    "objects": [
+      "friendly",
+      "bartender",
+      "demeanor"
+    ],
+    "actions": [
+      "welcoming",
+      "indicating",
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The bartender smiles, indicating a friendly and welcoming demeanor.",
+    "objects": [
+      "friendly",
+      "bartender",
+      "demeanor"
+    ],
+    "actions": [
+      "welcoming",
+      "indicating",
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera focuses on the bartender and the groom, emphasizing their interaction and the groom's enjoyment of the wine.",
+    "objects": [
+      "groom",
+      "their",
+      "wine",
+      "bartender",
+      "interaction",
+      "enjoyment"
+    ],
+    "actions": [
+      "groom's",
+      "emphasizing",
+      "focuses"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera focuses on the bartender and the groom, emphasizing their interaction and the groom's enjoyment of the wine.",
+    "objects": [
+      "groom",
+      "their",
+      "wine",
+      "bartender",
+      "interaction",
+      "enjoyment"
+    ],
+    "actions": [
+      "groom's",
+      "emphasizing",
+      "focuses"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "Next, the camera pans back to the bride, who is holding a wine glass, smiling, and appears to be engaged in a pleasant conversation with the groom.",
+    "objects": [
+      "groom",
+      "pleasant",
+      "pans",
+      "who",
+      "wine",
+      "glass",
+      "conversation",
+      "bride"
+    ],
+    "actions": [
+      "smiling",
+      "engaged",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "Next, the camera pans back to the bride, who is holding a wine glass, smiling, and appears to be engaged in a pleasant conversation with the groom.",
+    "objects": [
+      "groom",
+      "pleasant",
+      "pans",
+      "who",
+      "wine",
+      "glass",
+      "conversation",
+      "bride"
+    ],
+    "actions": [
+      "smiling",
+      "engaged",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The bartender is visible in the background, continuing to serve drinks and contribute to the celebratory atmosphere.",
+    "objects": [
+      "celebratory",
+      "bartender",
+      "atmosphere",
+      "serve",
+      "contribute"
+    ],
+    "actions": [
+      "drinks",
+      "continuing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The bartender is visible in the background, continuing to serve drinks and contribute to the celebratory atmosphere.",
+    "objects": [
+      "celebratory",
+      "bartender",
+      "atmosphere",
+      "serve",
+      "contribute"
+    ],
+    "actions": [
+      "drinks",
+      "continuing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene then shifts to the bride and groom, who are talking and enjoying each other's company.",
+    "objects": [
+      "groom",
+      "each",
+      "company",
+      "who",
+      "then",
+      "bride"
+    ],
+    "actions": [
+      "enjoying",
+      "other's",
+      "talking",
+      "shifts"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene then shifts to the bride and groom, who are talking and enjoying each other's company.",
+    "objects": [
+      "groom",
+      "each",
+      "company",
+      "who",
+      "then",
+      "bride"
+    ],
+    "actions": [
+      "enjoying",
+      "other's",
+      "talking",
+      "shifts"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The bride is holding a wine glass, and the groom is holding a wine glass.",
+    "objects": [
+      "bride",
+      "wine",
+      "groom",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The bride is holding a wine glass, and the groom is holding a wine glass.",
+    "objects": [
+      "bride",
+      "wine",
+      "groom",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera captures their interaction and the wedding cake in the background, emphasizing the joyous occasion.",
+    "objects": [
+      "interaction",
+      "their",
+      "cake",
+      "occasion"
+    ],
+    "actions": [
+      "joyous",
+      "emphasizing",
+      "wedding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera captures their interaction and the wedding cake in the background, emphasizing the joyous occasion.",
+    "objects": [
+      "interaction",
+      "their",
+      "cake",
+      "occasion"
+    ],
+    "actions": [
+      "joyous",
+      "emphasizing",
+      "wedding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then focuses on the groom, who is holding a wine glass and looking at the bride, seemingly engaged in a loving conversation.",
+    "objects": [
+      "groom",
+      "seemingly",
+      "wine",
+      "who",
+      "glass",
+      "then",
+      "conversation",
+      "bride"
+    ],
+    "actions": [
+      "holding",
+      "engaged",
+      "loving",
+      "looking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then focuses on the groom, who is holding a wine glass and looking at the bride, seemingly engaged in a loving conversation.",
+    "objects": [
+      "groom",
+      "seemingly",
+      "wine",
+      "who",
+      "glass",
+      "then",
+      "conversation",
+      "bride"
+    ],
+    "actions": [
+      "holding",
+      "engaged",
+      "loving",
+      "looking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The bartender is visible in the background, serving drinks and contributing to the festive ambiance.",
+    "objects": [
+      "festive",
+      "bartender",
+      "ambiance"
+    ],
+    "actions": [
+      "drinks",
+      "serving",
+      "contributing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The bartender is visible in the background, serving drinks and contributing to the festive ambiance.",
+    "objects": [
+      "festive",
+      "bartender",
+      "ambiance"
+    ],
+    "actions": [
+      "drinks",
+      "serving",
+      "contributing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "Finally, the camera returns to the bride, who is holding a wine glass and smiling, seemingly enjoying the moment with the groom.",
+    "objects": [
+      "groom",
+      "moment",
+      "seemingly",
+      "wine",
+      "who",
+      "finally",
+      "glass",
+      "bride"
+    ],
+    "actions": [
+      "smiling",
+      "holding",
+      "enjoying",
+      "returns"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "Finally, the camera returns to the bride, who is holding a wine glass and smiling, seemingly enjoying the moment with the groom.",
+    "objects": [
+      "groom",
+      "moment",
+      "seemingly",
+      "wine",
+      "who",
+      "finally",
+      "glass",
+      "bride"
+    ],
+    "actions": [
+      "smiling",
+      "holding",
+      "enjoying",
+      "returns"
+    ],
+    "segment_id": 15
+  }
+]

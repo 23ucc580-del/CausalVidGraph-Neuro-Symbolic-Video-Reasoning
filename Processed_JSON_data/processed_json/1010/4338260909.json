@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a man in a black shirt sitting at a table in a restaurant, holding a glass of pink-colored liquid.",
+    "objects": [
+      "table",
+      "black",
+      "shirt",
+      "liquid",
+      "restaurant",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "pink-colored",
+      "sitting",
+      "holding",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a man in a black shirt sitting at a table in a restaurant, holding a glass of pink-colored liquid.",
+    "objects": [
+      "table",
+      "black",
+      "shirt",
+      "liquid",
+      "restaurant",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "pink-colored",
+      "sitting",
+      "holding",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a man in a black shirt sitting at a table in a restaurant, holding a glass of pink-colored liquid.",
+    "objects": [
+      "table",
+      "black",
+      "shirt",
+      "liquid",
+      "restaurant",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "pink-colored",
+      "sitting",
+      "holding",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a man in a black shirt sitting at a table in a restaurant, holding a glass of pink-colored liquid.",
+    "objects": [
+      "table",
+      "black",
+      "shirt",
+      "liquid",
+      "restaurant",
+      "man",
+      "glass"
+    ],
+    "actions": [
+      "pink-colored",
+      "sitting",
+      "holding",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He appears to be in the middle of a conversation, with his hands raised in a gesture, possibly indicating excitement or emphasis.",
+    "objects": [
+      "middle",
+      "conversation",
+      "possibly",
+      "excitement",
+      "his",
+      "gesture"
+    ],
+    "actions": [
+      "emphasis",
+      "hands",
+      "indicating",
+      "raised"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He appears to be in the middle of a conversation, with his hands raised in a gesture, possibly indicating excitement or emphasis.",
+    "objects": [
+      "middle",
+      "conversation",
+      "possibly",
+      "excitement",
+      "his",
+      "gesture"
+    ],
+    "actions": [
+      "emphasis",
+      "hands",
+      "indicating",
+      "raised"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He appears to be in the middle of a conversation, with his hands raised in a gesture, possibly indicating excitement or emphasis.",
+    "objects": [
+      "middle",
+      "conversation",
+      "possibly",
+      "excitement",
+      "his",
+      "gesture"
+    ],
+    "actions": [
+      "emphasis",
+      "hands",
+      "indicating",
+      "raised"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He appears to be in the middle of a conversation, with his hands raised in a gesture, possibly indicating excitement or emphasis.",
+    "objects": [
+      "middle",
+      "conversation",
+      "possibly",
+      "excitement",
+      "his",
+      "gesture"
+    ],
+    "actions": [
+      "emphasis",
+      "hands",
+      "indicating",
+      "raised"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "In the background, another man is visible, also seated at a table, holding a beverage.",
+    "objects": [
+      "man",
+      "table",
+      "beverage"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the background, another man is visible, also seated at a table, holding a beverage.",
+    "objects": [
+      "man",
+      "table",
+      "beverage"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "In the background, another man is visible, also seated at a table, holding a beverage.",
+    "objects": [
+      "man",
+      "table",
+      "beverage"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "In the background, another man is visible, also seated at a table, holding a beverage.",
+    "objects": [
+      "man",
+      "table",
+      "beverage"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "He seems to be engaged in a phone call, with the phone held up to his ear.",
+    "objects": [
+      "ear",
+      "phone",
+      "call",
+      "his",
+      "held"
+    ],
+    "actions": [
+      "seems",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "He seems to be engaged in a phone call, with the phone held up to his ear.",
+    "objects": [
+      "ear",
+      "phone",
+      "call",
+      "his",
+      "held"
+    ],
+    "actions": [
+      "seems",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "He seems to be engaged in a phone call, with the phone held up to his ear.",
+    "objects": [
+      "ear",
+      "phone",
+      "call",
+      "his",
+      "held"
+    ],
+    "actions": [
+      "seems",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "He seems to be engaged in a phone call, with the phone held up to his ear.",
+    "objects": [
+      "ear",
+      "phone",
+      "call",
+      "his",
+      "held"
+    ],
+    "actions": [
+      "seems",
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The setting is warmly lit, and the ambiance suggests a casual dining environment.",
+    "objects": [
+      "warmly",
+      "environment",
+      "casual",
+      "ambiance",
+      "lit"
+    ],
+    "actions": [
+      "suggests",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The setting is warmly lit, and the ambiance suggests a casual dining environment.",
+    "objects": [
+      "warmly",
+      "environment",
+      "casual",
+      "ambiance",
+      "lit"
+    ],
+    "actions": [
+      "suggests",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The setting is warmly lit, and the ambiance suggests a casual dining environment.",
+    "objects": [
+      "warmly",
+      "environment",
+      "casual",
+      "ambiance",
+      "lit"
+    ],
+    "actions": [
+      "suggests",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The setting is warmly lit, and the ambiance suggests a casual dining environment.",
+    "objects": [
+      "warmly",
+      "environment",
+      "casual",
+      "ambiance",
+      "lit"
+    ],
+    "actions": [
+      "suggests",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man in the black shirt is wearing a black shirt, while the other man's attire is not clearly visible.",
+    "objects": [
+      "other",
+      "attire",
+      "while",
+      "black",
+      "not",
+      "shirt",
+      "clearly",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "man's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man in the black shirt is wearing a black shirt, while the other man's attire is not clearly visible.",
+    "objects": [
+      "other",
+      "attire",
+      "while",
+      "black",
+      "not",
+      "shirt",
+      "clearly",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "man's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man in the black shirt is wearing a black shirt, while the other man's attire is not clearly visible.",
+    "objects": [
+      "other",
+      "attire",
+      "while",
+      "black",
+      "not",
+      "shirt",
+      "clearly",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "man's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man in the black shirt is wearing a black shirt, while the other man's attire is not clearly visible.",
+    "objects": [
+      "other",
+      "attire",
+      "while",
+      "black",
+      "not",
+      "shirt",
+      "clearly",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "man's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The glass of pink liquid could be a soft drink or a cocktail, and the man holding the phone seems to be engaged in a phone call, possibly discussing work or personal matters.",
+    "objects": [
+      "personal",
+      "soft",
+      "pink",
+      "possibly",
+      "liquid",
+      "work",
+      "phone",
+      "call"
+    ],
+    "actions": [
+      "seems",
+      "engaged",
+      "discussing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The glass of pink liquid could be a soft drink or a cocktail, and the man holding the phone seems to be engaged in a phone call, possibly discussing work or personal matters.",
+    "objects": [
+      "personal",
+      "soft",
+      "pink",
+      "possibly",
+      "liquid",
+      "work",
+      "phone",
+      "call"
+    ],
+    "actions": [
+      "seems",
+      "engaged",
+      "discussing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The glass of pink liquid could be a soft drink or a cocktail, and the man holding the phone seems to be engaged in a phone call, possibly discussing work or personal matters.",
+    "objects": [
+      "personal",
+      "soft",
+      "pink",
+      "possibly",
+      "liquid",
+      "work",
+      "phone",
+      "call"
+    ],
+    "actions": [
+      "seems",
+      "engaged",
+      "discussing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The glass of pink liquid could be a soft drink or a cocktail, and the man holding the phone seems to be engaged in a phone call, possibly discussing work or personal matters.",
+    "objects": [
+      "personal",
+      "soft",
+      "pink",
+      "possibly",
+      "liquid",
+      "work",
+      "phone",
+      "call"
+    ],
+    "actions": [
+      "seems",
+      "engaged",
+      "discussing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The restaurant's interior is not explicitly detailed, but the focus is on the interactions of the two men.",
+    "objects": [
+      "two",
+      "not",
+      "men",
+      "interior",
+      "explicitly",
+      "but"
+    ],
+    "actions": [
+      "detailed",
+      "focus",
+      "interactions",
+      "restaurant's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The restaurant's interior is not explicitly detailed, but the focus is on the interactions of the two men.",
+    "objects": [
+      "two",
+      "not",
+      "men",
+      "interior",
+      "explicitly",
+      "but"
+    ],
+    "actions": [
+      "detailed",
+      "focus",
+      "interactions",
+      "restaurant's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The restaurant's interior is not explicitly detailed, but the focus is on the interactions of the two men.",
+    "objects": [
+      "two",
+      "not",
+      "men",
+      "interior",
+      "explicitly",
+      "but"
+    ],
+    "actions": [
+      "detailed",
+      "focus",
+      "interactions",
+      "restaurant's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The restaurant's interior is not explicitly detailed, but the focus is on the interactions of the two men.",
+    "objects": [
+      "two",
+      "not",
+      "men",
+      "interior",
+      "explicitly",
+      "but"
+    ],
+    "actions": [
+      "detailed",
+      "focus",
+      "interactions",
+      "restaurant's"
+    ],
+    "segment_id": 7
+  }
+]

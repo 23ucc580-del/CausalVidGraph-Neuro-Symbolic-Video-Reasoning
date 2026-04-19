@@ -1,0 +1,597 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of children riding their bicycles on a wet road, which is likely due to recent rain.",
+    "objects": [
+      "this",
+      "which",
+      "their",
+      "likely",
+      "due",
+      "road",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "bicycles",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of children riding their bicycles on a wet road, which is likely due to recent rain.",
+    "objects": [
+      "this",
+      "which",
+      "their",
+      "likely",
+      "due",
+      "road",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "bicycles",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of children riding their bicycles on a wet road, which is likely due to recent rain.",
+    "objects": [
+      "this",
+      "which",
+      "their",
+      "likely",
+      "due",
+      "road",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "bicycles",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The children are wearing helmets and protective clothing, and the adults are also wearing helmets.",
+    "objects": [
+      "protective",
+      "children"
+    ],
+    "actions": [
+      "helmets",
+      "wearing",
+      "clothing",
+      "adults"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The children are wearing helmets and protective clothing, and the adults are also wearing helmets.",
+    "objects": [
+      "protective",
+      "children"
+    ],
+    "actions": [
+      "helmets",
+      "wearing",
+      "clothing",
+      "adults"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The children are wearing helmets and protective clothing, and the adults are also wearing helmets.",
+    "objects": [
+      "protective",
+      "children"
+    ],
+    "actions": [
+      "helmets",
+      "wearing",
+      "clothing",
+      "adults"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A boy in a blue hoodie is riding a bike next to a child in a green hoodie, and the adults are holding onto the children.",
+    "objects": [
+      "bike",
+      "hoodie",
+      "child",
+      "blue",
+      "green",
+      "onto",
+      "boy",
+      "children"
+    ],
+    "actions": [
+      "holding",
+      "riding",
+      "adults"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A boy in a blue hoodie is riding a bike next to a child in a green hoodie, and the adults are holding onto the children.",
+    "objects": [
+      "bike",
+      "hoodie",
+      "child",
+      "blue",
+      "green",
+      "onto",
+      "boy",
+      "children"
+    ],
+    "actions": [
+      "holding",
+      "riding",
+      "adults"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A boy in a blue hoodie is riding a bike next to a child in a green hoodie, and the adults are holding onto the children.",
+    "objects": [
+      "bike",
+      "hoodie",
+      "child",
+      "blue",
+      "green",
+      "onto",
+      "boy",
+      "children"
+    ],
+    "actions": [
+      "holding",
+      "riding",
+      "adults"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then shifts to another child, who is wearing a blue jacket, riding a bike.",
+    "objects": [
+      "bike",
+      "who",
+      "child",
+      "blue",
+      "then",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "riding",
+      "shifts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then shifts to another child, who is wearing a blue jacket, riding a bike.",
+    "objects": [
+      "bike",
+      "who",
+      "child",
+      "blue",
+      "then",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "riding",
+      "shifts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then shifts to another child, who is wearing a blue jacket, riding a bike.",
+    "objects": [
+      "bike",
+      "who",
+      "child",
+      "blue",
+      "then",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "riding",
+      "shifts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then shifts to a different adult, who is wearing a red hoodie, holding onto the children.",
+    "objects": [
+      "adult",
+      "different",
+      "who",
+      "hoodie",
+      "onto",
+      "then",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shifts",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then shifts to a different adult, who is wearing a red hoodie, holding onto the children.",
+    "objects": [
+      "adult",
+      "different",
+      "who",
+      "hoodie",
+      "onto",
+      "then",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shifts",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then shifts to a different adult, who is wearing a red hoodie, holding onto the children.",
+    "objects": [
+      "adult",
+      "different",
+      "who",
+      "hoodie",
+      "onto",
+      "then",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shifts",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Another adult in a brown jacket is holding onto the child on a bicycle.",
+    "objects": [
+      "adult",
+      "onto",
+      "child",
+      "bicycle",
+      "brown",
+      "jacket"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Another adult in a brown jacket is holding onto the child on a bicycle.",
+    "objects": [
+      "adult",
+      "onto",
+      "child",
+      "bicycle",
+      "brown",
+      "jacket"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Another adult in a brown jacket is holding onto the child on a bicycle.",
+    "objects": [
+      "adult",
+      "onto",
+      "child",
+      "bicycle",
+      "brown",
+      "jacket"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "Finally, the camera pans to the left to show another child in a blue jacket riding a bike next to the adult in the red hoodie.",
+    "objects": [
+      "bike",
+      "adult",
+      "pans",
+      "hoodie",
+      "child",
+      "blue",
+      "finally",
+      "jacket"
+    ],
+    "actions": [
+      "riding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "Finally, the camera pans to the left to show another child in a blue jacket riding a bike next to the adult in the red hoodie.",
+    "objects": [
+      "bike",
+      "adult",
+      "pans",
+      "hoodie",
+      "child",
+      "blue",
+      "finally",
+      "jacket"
+    ],
+    "actions": [
+      "riding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "Finally, the camera pans to the left to show another child in a blue jacket riding a bike next to the adult in the red hoodie.",
+    "objects": [
+      "bike",
+      "adult",
+      "pans",
+      "hoodie",
+      "child",
+      "blue",
+      "finally",
+      "jacket"
+    ],
+    "actions": [
+      "riding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene is filled with a sense of camaraderie and safety as the adults guide and hold onto the children, ensuring they stay on the road and navigate through the rain.",
+    "objects": [
+      "through",
+      "sense",
+      "safety",
+      "road",
+      "onto",
+      "they",
+      "stay",
+      "guide"
+    ],
+    "actions": [
+      "adults",
+      "ensuring",
+      "filled"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene is filled with a sense of camaraderie and safety as the adults guide and hold onto the children, ensuring they stay on the road and navigate through the rain.",
+    "objects": [
+      "through",
+      "sense",
+      "safety",
+      "road",
+      "onto",
+      "they",
+      "stay",
+      "guide"
+    ],
+    "actions": [
+      "adults",
+      "ensuring",
+      "filled"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene is filled with a sense of camaraderie and safety as the adults guide and hold onto the children, ensuring they stay on the road and navigate through the rain.",
+    "objects": [
+      "through",
+      "sense",
+      "safety",
+      "road",
+      "onto",
+      "they",
+      "stay",
+      "guide"
+    ],
+    "actions": [
+      "adults",
+      "ensuring",
+      "filled"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The children are excited and happy, as seen through their smiles and laughter, enjoying the ride despite the wet conditions.",
+    "objects": [
+      "despite",
+      "their",
+      "happy",
+      "through",
+      "ride",
+      "laughter",
+      "wet",
+      "children"
+    ],
+    "actions": [
+      "enjoying",
+      "smiles",
+      "conditions",
+      "excited"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The children are excited and happy, as seen through their smiles and laughter, enjoying the ride despite the wet conditions.",
+    "objects": [
+      "despite",
+      "their",
+      "happy",
+      "through",
+      "ride",
+      "laughter",
+      "wet",
+      "children"
+    ],
+    "actions": [
+      "enjoying",
+      "smiles",
+      "conditions",
+      "excited"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The children are excited and happy, as seen through their smiles and laughter, enjoying the ride despite the wet conditions.",
+    "objects": [
+      "despite",
+      "their",
+      "happy",
+      "through",
+      "ride",
+      "laughter",
+      "wet",
+      "children"
+    ],
+    "actions": [
+      "enjoying",
+      "smiles",
+      "conditions",
+      "excited"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The adults wear helmets to ensure safety, and the children wear helmets for the same reason.",
+    "objects": [
+      "reason",
+      "same",
+      "safety",
+      "ensure",
+      "wear",
+      "children"
+    ],
+    "actions": [
+      "helmets",
+      "adults"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The adults wear helmets to ensure safety, and the children wear helmets for the same reason.",
+    "objects": [
+      "reason",
+      "same",
+      "safety",
+      "ensure",
+      "wear",
+      "children"
+    ],
+    "actions": [
+      "helmets",
+      "adults"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The adults wear helmets to ensure safety, and the children wear helmets for the same reason.",
+    "objects": [
+      "reason",
+      "same",
+      "safety",
+      "ensure",
+      "wear",
+      "children"
+    ],
+    "actions": [
+      "helmets",
+      "adults"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The children are wearing protective clothing, likely to shield them from potential falls or injuries.",
+    "objects": [
+      "likely",
+      "shield",
+      "them",
+      "protective",
+      "potential",
+      "from",
+      "children"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "falls",
+      "injuries"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The children are wearing protective clothing, likely to shield them from potential falls or injuries.",
+    "objects": [
+      "likely",
+      "shield",
+      "them",
+      "protective",
+      "potential",
+      "from",
+      "children"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "falls",
+      "injuries"
+    ],
+    "segment_id": 10
+  }
+]

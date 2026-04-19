@@ -1,0 +1,581 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a scene of a large construction site where various machines and vehicles are at work.",
+    "objects": [
+      "large",
+      "construction",
+      "this",
+      "site",
+      "work",
+      "where",
+      "see"
+    ],
+    "actions": [
+      "machines",
+      "vehicles"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a scene of a large construction site where various machines and vehicles are at work.",
+    "objects": [
+      "large",
+      "construction",
+      "this",
+      "site",
+      "work",
+      "where",
+      "see"
+    ],
+    "actions": [
+      "machines",
+      "vehicles"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a scene of a large construction site where various machines and vehicles are at work.",
+    "objects": [
+      "large",
+      "construction",
+      "this",
+      "site",
+      "work",
+      "where",
+      "see"
+    ],
+    "actions": [
+      "machines",
+      "vehicles"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The ground is scattered with debris, indicating ongoing construction activities.",
+    "objects": [
+      "ground",
+      "construction"
+    ],
+    "actions": [
+      "scattered",
+      "debris",
+      "indicating",
+      "activities"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The ground is scattered with debris, indicating ongoing construction activities.",
+    "objects": [
+      "ground",
+      "construction"
+    ],
+    "actions": [
+      "scattered",
+      "debris",
+      "indicating",
+      "activities"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The ground is scattered with debris, indicating ongoing construction activities.",
+    "objects": [
+      "ground",
+      "construction"
+    ],
+    "actions": [
+      "scattered",
+      "debris",
+      "indicating",
+      "activities"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "There are two yellow crane trucks parked on the right side of the road, one of which is a yellow dump truck.",
+    "objects": [
+      "truck",
+      "which",
+      "side",
+      "there",
+      "one",
+      "yellow",
+      "road",
+      "two"
+    ],
+    "actions": [
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "There are two yellow crane trucks parked on the right side of the road, one of which is a yellow dump truck.",
+    "objects": [
+      "truck",
+      "which",
+      "side",
+      "there",
+      "one",
+      "yellow",
+      "road",
+      "two"
+    ],
+    "actions": [
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "There are two yellow crane trucks parked on the right side of the road, one of which is a yellow dump truck.",
+    "objects": [
+      "truck",
+      "which",
+      "side",
+      "there",
+      "one",
+      "yellow",
+      "road",
+      "two"
+    ],
+    "actions": [
+      "trucks",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A large crane is situated in the middle of the road, and there is a yellow crane truck on the left side of the road.",
+    "objects": [
+      "large",
+      "truck",
+      "middle",
+      "side",
+      "there",
+      "yellow",
+      "road",
+      "crane"
+    ],
+    "actions": [
+      "situated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A large crane is situated in the middle of the road, and there is a yellow crane truck on the left side of the road.",
+    "objects": [
+      "large",
+      "truck",
+      "middle",
+      "side",
+      "there",
+      "yellow",
+      "road",
+      "crane"
+    ],
+    "actions": [
+      "situated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A large crane is situated in the middle of the road, and there is a yellow crane truck on the left side of the road.",
+    "objects": [
+      "large",
+      "truck",
+      "middle",
+      "side",
+      "there",
+      "yellow",
+      "road",
+      "crane"
+    ],
+    "actions": [
+      "situated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The cranes are surrounded by a mix of vehicles and debris, suggesting an active work site.",
+    "objects": [
+      "mix",
+      "site",
+      "work",
+      "active"
+    ],
+    "actions": [
+      "cranes",
+      "vehicles",
+      "debris",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The cranes are surrounded by a mix of vehicles and debris, suggesting an active work site.",
+    "objects": [
+      "mix",
+      "site",
+      "work",
+      "active"
+    ],
+    "actions": [
+      "cranes",
+      "vehicles",
+      "debris",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The cranes are surrounded by a mix of vehicles and debris, suggesting an active work site.",
+    "objects": [
+      "mix",
+      "site",
+      "work",
+      "active"
+    ],
+    "actions": [
+      "cranes",
+      "vehicles",
+      "debris",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "As for people, we can see a man in a blue hoodie standing next to one of the yellow cranes, and another man in a black vest walking past the crane trucks.",
+    "objects": [
+      "blue",
+      "vest",
+      "man",
+      "can",
+      "people",
+      "past",
+      "one",
+      "yellow"
+    ],
+    "actions": [
+      "cranes",
+      "walking",
+      "trucks",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "As for people, we can see a man in a blue hoodie standing next to one of the yellow cranes, and another man in a black vest walking past the crane trucks.",
+    "objects": [
+      "blue",
+      "vest",
+      "man",
+      "can",
+      "people",
+      "past",
+      "one",
+      "yellow"
+    ],
+    "actions": [
+      "cranes",
+      "walking",
+      "trucks",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "As for people, we can see a man in a blue hoodie standing next to one of the yellow cranes, and another man in a black vest walking past the crane trucks.",
+    "objects": [
+      "blue",
+      "vest",
+      "man",
+      "can",
+      "people",
+      "past",
+      "one",
+      "yellow"
+    ],
+    "actions": [
+      "cranes",
+      "walking",
+      "trucks",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "There is also a man in a blue jacket standing on the road, and a man in a blue jacket walking on the right side of the road.",
+    "objects": [
+      "blue",
+      "man",
+      "side",
+      "jacket",
+      "there",
+      "road"
+    ],
+    "actions": [
+      "walking",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "There is also a man in a blue jacket standing on the road, and a man in a blue jacket walking on the right side of the road.",
+    "objects": [
+      "blue",
+      "man",
+      "side",
+      "jacket",
+      "there",
+      "road"
+    ],
+    "actions": [
+      "walking",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "There is also a man in a blue jacket standing on the road, and a man in a blue jacket walking on the right side of the road.",
+    "objects": [
+      "blue",
+      "man",
+      "side",
+      "jacket",
+      "there",
+      "road"
+    ],
+    "actions": [
+      "walking",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "There are two men in blue jackets standing on the road, and another man in a black vest walking on the left side of the road.",
+    "objects": [
+      "blue",
+      "vest",
+      "man",
+      "side",
+      "men",
+      "black",
+      "there",
+      "road"
+    ],
+    "actions": [
+      "jackets",
+      "walking",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "There are two men in blue jackets standing on the road, and another man in a black vest walking on the left side of the road.",
+    "objects": [
+      "blue",
+      "vest",
+      "man",
+      "side",
+      "men",
+      "black",
+      "there",
+      "road"
+    ],
+    "actions": [
+      "jackets",
+      "walking",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "There are two men in blue jackets standing on the road, and another man in a black vest walking on the left side of the road.",
+    "objects": [
+      "blue",
+      "vest",
+      "man",
+      "side",
+      "men",
+      "black",
+      "there",
+      "road"
+    ],
+    "actions": [
+      "jackets",
+      "walking",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Additionally, there are two men in yellow jackets standing on the road, and a man in a yellow jacket walking past the yellow crane.",
+    "objects": [
+      "additionally",
+      "man",
+      "men",
+      "jacket",
+      "past",
+      "there",
+      "yellow",
+      "road"
+    ],
+    "actions": [
+      "jackets",
+      "walking",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Additionally, there are two men in yellow jackets standing on the road, and a man in a yellow jacket walking past the yellow crane.",
+    "objects": [
+      "additionally",
+      "man",
+      "men",
+      "jacket",
+      "past",
+      "there",
+      "yellow",
+      "road"
+    ],
+    "actions": [
+      "jackets",
+      "walking",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Additionally, there are two men in yellow jackets standing on the road, and a man in a yellow jacket walking past the yellow crane.",
+    "objects": [
+      "additionally",
+      "man",
+      "men",
+      "jacket",
+      "past",
+      "there",
+      "yellow",
+      "road"
+    ],
+    "actions": [
+      "jackets",
+      "walking",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "In terms of actions, one man is standing on the road, another man is walking, and a third man is standing in the middle of the road.",
+    "objects": [
+      "middle",
+      "man",
+      "one",
+      "road",
+      "third"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "actions",
+      "terms"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "In terms of actions, one man is standing on the road, another man is walking, and a third man is standing in the middle of the road.",
+    "objects": [
+      "middle",
+      "man",
+      "one",
+      "road",
+      "third"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "actions",
+      "terms"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "In terms of actions, one man is standing on the road, another man is walking, and a third man is standing in the middle of the road.",
+    "objects": [
+      "middle",
+      "man",
+      "one",
+      "road",
+      "third"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "actions",
+      "terms"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Two men are walking on the left side of the road, and a man is walking on the right side of the road.",
+    "objects": [
+      "man",
+      "side",
+      "men",
+      "road",
+      "two"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Two men are walking on the left side of the road, and a man is walking on the right side of the road.",
+    "objects": [
+      "man",
+      "side",
+      "men",
+      "road",
+      "two"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 10
+  }
+]

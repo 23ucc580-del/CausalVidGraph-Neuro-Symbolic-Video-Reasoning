@@ -1,0 +1,592 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a man dressed as a pirate standing in a room, holding a sword, and the camera focuses on him.",
+    "objects": [
+      "room",
+      "him",
+      "sword",
+      "pirate",
+      "man"
+    ],
+    "actions": [
+      "begins",
+      "standing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a man dressed as a pirate standing in a room, holding a sword, and the camera focuses on him.",
+    "objects": [
+      "room",
+      "him",
+      "sword",
+      "pirate",
+      "man"
+    ],
+    "actions": [
+      "begins",
+      "standing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video begins with a man dressed as a pirate standing in a room, holding a sword, and the camera focuses on him.",
+    "objects": [
+      "room",
+      "him",
+      "sword",
+      "pirate",
+      "man"
+    ],
+    "actions": [
+      "begins",
+      "standing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "He appears to be engaged in conversation with someone off-screen.",
+    "objects": [
+      "conversation",
+      "someone"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He appears to be engaged in conversation with someone off-screen.",
+    "objects": [
+      "conversation",
+      "someone"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He appears to be engaged in conversation with someone off-screen.",
+    "objects": [
+      "conversation",
+      "someone"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene then transitions to a group of people dressed in costumes, all wearing hats, standing in a room.",
+    "objects": [
+      "people",
+      "hats",
+      "room",
+      "then",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "costumes",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene then transitions to a group of people dressed in costumes, all wearing hats, standing in a room.",
+    "objects": [
+      "people",
+      "hats",
+      "room",
+      "then",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "costumes",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene then transitions to a group of people dressed in costumes, all wearing hats, standing in a room.",
+    "objects": [
+      "people",
+      "hats",
+      "room",
+      "then",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "costumes",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A woman in a blue dress, holding a red scarf, is conversing with another woman in a black dress.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "dress",
+      "scarf"
+    ],
+    "actions": [
+      "holding",
+      "conversing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A woman in a blue dress, holding a red scarf, is conversing with another woman in a black dress.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "dress",
+      "scarf"
+    ],
+    "actions": [
+      "holding",
+      "conversing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman in a blue dress, holding a red scarf, is conversing with another woman in a black dress.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "dress",
+      "scarf"
+    ],
+    "actions": [
+      "holding",
+      "conversing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera focuses on the two women, and then shifts to show the man in the pirate costume once again, who is now holding a red scarf.",
+    "objects": [
+      "show",
+      "pirate",
+      "costume",
+      "two",
+      "once",
+      "who",
+      "now",
+      "women"
+    ],
+    "actions": [
+      "shifts",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera focuses on the two women, and then shifts to show the man in the pirate costume once again, who is now holding a red scarf.",
+    "objects": [
+      "show",
+      "pirate",
+      "costume",
+      "two",
+      "once",
+      "who",
+      "now",
+      "women"
+    ],
+    "actions": [
+      "shifts",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera focuses on the two women, and then shifts to show the man in the pirate costume once again, who is now holding a red scarf.",
+    "objects": [
+      "show",
+      "pirate",
+      "costume",
+      "two",
+      "once",
+      "who",
+      "now",
+      "women"
+    ],
+    "actions": [
+      "shifts",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then focuses on a woman in a red dress, holding a red scarf, and she is talking to another woman in a blue dress.",
+    "objects": [
+      "she",
+      "woman",
+      "blue",
+      "dress",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "talking",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then focuses on a woman in a red dress, holding a red scarf, and she is talking to another woman in a blue dress.",
+    "objects": [
+      "she",
+      "woman",
+      "blue",
+      "dress",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "talking",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then focuses on a woman in a red dress, holding a red scarf, and she is talking to another woman in a blue dress.",
+    "objects": [
+      "she",
+      "woman",
+      "blue",
+      "dress",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "talking",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera shifts to a man in a pirate costume, holding a sword, and then back to the woman in the red dress.",
+    "objects": [
+      "costume",
+      "woman",
+      "sword",
+      "dress",
+      "pirate",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera shifts to a man in a pirate costume, holding a sword, and then back to the woman in the red dress.",
+    "objects": [
+      "costume",
+      "woman",
+      "sword",
+      "dress",
+      "pirate",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera shifts to a man in a pirate costume, holding a sword, and then back to the woman in the red dress.",
+    "objects": [
+      "costume",
+      "woman",
+      "sword",
+      "dress",
+      "pirate",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene then focuses on a woman in a white dress, holding a red scarf, and she is talking to a woman in a blue dress.",
+    "objects": [
+      "white",
+      "she",
+      "woman",
+      "blue",
+      "dress",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "talking",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then focuses on a woman in a white dress, holding a red scarf, and she is talking to a woman in a blue dress.",
+    "objects": [
+      "white",
+      "she",
+      "woman",
+      "blue",
+      "dress",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "talking",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then focuses on a woman in a white dress, holding a red scarf, and she is talking to a woman in a blue dress.",
+    "objects": [
+      "white",
+      "she",
+      "woman",
+      "blue",
+      "dress",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "talking",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera shifts to a man in a pirate costume, holding a sword, and then back to the woman in the white dress.",
+    "objects": [
+      "costume",
+      "white",
+      "woman",
+      "sword",
+      "dress",
+      "pirate",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera shifts to a man in a pirate costume, holding a sword, and then back to the woman in the white dress.",
+    "objects": [
+      "costume",
+      "white",
+      "woman",
+      "sword",
+      "dress",
+      "pirate",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera shifts to a man in a pirate costume, holding a sword, and then back to the woman in the white dress.",
+    "objects": [
+      "costume",
+      "white",
+      "woman",
+      "sword",
+      "dress",
+      "pirate",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then focuses on a woman in a black dress, holding a red scarf, and she is talking to a woman in a blue dress.",
+    "objects": [
+      "she",
+      "woman",
+      "black",
+      "blue",
+      "dress",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "talking",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then focuses on a woman in a black dress, holding a red scarf, and she is talking to a woman in a blue dress.",
+    "objects": [
+      "she",
+      "woman",
+      "black",
+      "blue",
+      "dress",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "talking",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then focuses on a woman in a black dress, holding a red scarf, and she is talking to a woman in a blue dress.",
+    "objects": [
+      "she",
+      "woman",
+      "black",
+      "blue",
+      "dress",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "talking",
+      "red",
+      "holding",
+      "focuses"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera shifts to a man in a pirate costume, holding a sword, and then back to the woman in the black dress.",
+    "objects": [
+      "costume",
+      "woman",
+      "black",
+      "sword",
+      "dress",
+      "pirate",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera shifts to a man in a pirate costume, holding a sword, and then back to the woman in the black dress.",
+    "objects": [
+      "costume",
+      "woman",
+      "black",
+      "sword",
+      "dress",
+      "pirate",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

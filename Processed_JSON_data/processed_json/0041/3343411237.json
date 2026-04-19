@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there is a man lying on his surfboard in the water.",
+    "objects": [
+      "water",
+      "man",
+      "his",
+      "there",
+      "surfboard"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there is a man lying on his surfboard in the water.",
+    "objects": [
+      "water",
+      "man",
+      "his",
+      "there",
+      "surfboard"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there is a man lying on his surfboard in the water.",
+    "objects": [
+      "water",
+      "man",
+      "his",
+      "there",
+      "surfboard"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there is a man lying on his surfboard in the water.",
+    "objects": [
+      "water",
+      "man",
+      "his",
+      "there",
+      "surfboard"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He appears to be resting or enjoying the view, as he is not actively riding a wave.",
+    "objects": [
+      "wave",
+      "actively",
+      "not"
+    ],
+    "actions": [
+      "enjoying",
+      "riding",
+      "resting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He appears to be resting or enjoying the view, as he is not actively riding a wave.",
+    "objects": [
+      "wave",
+      "actively",
+      "not"
+    ],
+    "actions": [
+      "enjoying",
+      "riding",
+      "resting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He appears to be resting or enjoying the view, as he is not actively riding a wave.",
+    "objects": [
+      "wave",
+      "actively",
+      "not"
+    ],
+    "actions": [
+      "enjoying",
+      "riding",
+      "resting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He appears to be resting or enjoying the view, as he is not actively riding a wave.",
+    "objects": [
+      "wave",
+      "actively",
+      "not"
+    ],
+    "actions": [
+      "enjoying",
+      "riding",
+      "resting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera captures him from a side angle, providing a view of his back and the water around him.",
+    "objects": [
+      "water",
+      "him",
+      "side",
+      "from",
+      "around",
+      "his"
+    ],
+    "actions": [
+      "providing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera captures him from a side angle, providing a view of his back and the water around him.",
+    "objects": [
+      "water",
+      "him",
+      "side",
+      "from",
+      "around",
+      "his"
+    ],
+    "actions": [
+      "providing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera captures him from a side angle, providing a view of his back and the water around him.",
+    "objects": [
+      "water",
+      "him",
+      "side",
+      "from",
+      "around",
+      "his"
+    ],
+    "actions": [
+      "providing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera captures him from a side angle, providing a view of his back and the water around him.",
+    "objects": [
+      "water",
+      "him",
+      "side",
+      "from",
+      "around",
+      "his"
+    ],
+    "actions": [
+      "providing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "He is wearing a black wetsuit, which is a common choice for water sports like surfing.",
+    "objects": [
+      "wetsuit",
+      "which",
+      "water",
+      "like",
+      "common",
+      "choice",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sports",
+      "surfing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "He is wearing a black wetsuit, which is a common choice for water sports like surfing.",
+    "objects": [
+      "wetsuit",
+      "which",
+      "water",
+      "like",
+      "common",
+      "choice",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sports",
+      "surfing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "He is wearing a black wetsuit, which is a common choice for water sports like surfing.",
+    "objects": [
+      "wetsuit",
+      "which",
+      "water",
+      "like",
+      "common",
+      "choice",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sports",
+      "surfing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "He is wearing a black wetsuit, which is a common choice for water sports like surfing.",
+    "objects": [
+      "wetsuit",
+      "which",
+      "water",
+      "like",
+      "common",
+      "choice",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "sports",
+      "surfing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The water around him is a light blue, and there are some rocks and other debris visible in the background.",
+    "objects": [
+      "some",
+      "water",
+      "blue",
+      "light",
+      "other",
+      "around",
+      "him",
+      "there"
+    ],
+    "actions": [
+      "rocks",
+      "debris"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The water around him is a light blue, and there are some rocks and other debris visible in the background.",
+    "objects": [
+      "some",
+      "water",
+      "blue",
+      "light",
+      "other",
+      "around",
+      "him",
+      "there"
+    ],
+    "actions": [
+      "rocks",
+      "debris"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The water around him is a light blue, and there are some rocks and other debris visible in the background.",
+    "objects": [
+      "some",
+      "water",
+      "blue",
+      "light",
+      "other",
+      "around",
+      "him",
+      "there"
+    ],
+    "actions": [
+      "rocks",
+      "debris"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The water around him is a light blue, and there are some rocks and other debris visible in the background.",
+    "objects": [
+      "some",
+      "water",
+      "blue",
+      "light",
+      "other",
+      "around",
+      "him",
+      "there"
+    ],
+    "actions": [
+      "rocks",
+      "debris"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In the foreground, there is another person who seems to be observing the man lying on the surfboard.",
+    "objects": [
+      "who",
+      "man",
+      "there",
+      "surfboard"
+    ],
+    "actions": [
+      "observing",
+      "lying",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In the foreground, there is another person who seems to be observing the man lying on the surfboard.",
+    "objects": [
+      "who",
+      "man",
+      "there",
+      "surfboard"
+    ],
+    "actions": [
+      "observing",
+      "lying",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In the foreground, there is another person who seems to be observing the man lying on the surfboard.",
+    "objects": [
+      "who",
+      "man",
+      "there",
+      "surfboard"
+    ],
+    "actions": [
+      "observing",
+      "lying",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In the foreground, there is another person who seems to be observing the man lying on the surfboard.",
+    "objects": [
+      "who",
+      "man",
+      "there",
+      "surfboard"
+    ],
+    "actions": [
+      "observing",
+      "lying",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The observer is wearing a dark-colored hoodie and is standing on a rocky shore, possibly watching the man surf.",
+    "objects": [
+      "man",
+      "possibly",
+      "observer",
+      "hoodie",
+      "shore",
+      "surf",
+      "rocky"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "watching",
+      "dark-colored"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The observer is wearing a dark-colored hoodie and is standing on a rocky shore, possibly watching the man surf.",
+    "objects": [
+      "man",
+      "possibly",
+      "observer",
+      "hoodie",
+      "shore",
+      "surf",
+      "rocky"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "watching",
+      "dark-colored"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The observer is wearing a dark-colored hoodie and is standing on a rocky shore, possibly watching the man surf.",
+    "objects": [
+      "man",
+      "possibly",
+      "observer",
+      "hoodie",
+      "shore",
+      "surf",
+      "rocky"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "watching",
+      "dark-colored"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The observer is wearing a dark-colored hoodie and is standing on a rocky shore, possibly watching the man surf.",
+    "objects": [
+      "man",
+      "possibly",
+      "observer",
+      "hoodie",
+      "shore",
+      "surf",
+      "rocky"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "watching",
+      "dark-colored"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man on the surfboard is not wearing a shirt and his arms are stretched out, possibly in relaxation or to maintain balance.",
+    "objects": [
+      "out",
+      "man",
+      "possibly",
+      "relaxation",
+      "not",
+      "arms",
+      "maintain",
+      "balance"
+    ],
+    "actions": [
+      "wearing",
+      "stretched"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man on the surfboard is not wearing a shirt and his arms are stretched out, possibly in relaxation or to maintain balance.",
+    "objects": [
+      "out",
+      "man",
+      "possibly",
+      "relaxation",
+      "not",
+      "arms",
+      "maintain",
+      "balance"
+    ],
+    "actions": [
+      "wearing",
+      "stretched"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man on the surfboard is not wearing a shirt and his arms are stretched out, possibly in relaxation or to maintain balance.",
+    "objects": [
+      "out",
+      "man",
+      "possibly",
+      "relaxation",
+      "not",
+      "arms",
+      "maintain",
+      "balance"
+    ],
+    "actions": [
+      "wearing",
+      "stretched"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man on the surfboard is not wearing a shirt and his arms are stretched out, possibly in relaxation or to maintain balance.",
+    "objects": [
+      "out",
+      "man",
+      "possibly",
+      "relaxation",
+      "not",
+      "arms",
+      "maintain",
+      "balance"
+    ],
+    "actions": [
+      "wearing",
+      "stretched"
+    ],
+    "segment_id": 7
+  }
+]

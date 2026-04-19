@@ -1,0 +1,602 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a family of three sitting at a dining table, engrossed in a coloring activity.",
+    "objects": [
+      "three",
+      "activity",
+      "table",
+      "see",
+      "family",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "coloring",
+      "dining",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a family of three sitting at a dining table, engrossed in a coloring activity.",
+    "objects": [
+      "three",
+      "activity",
+      "table",
+      "see",
+      "family",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "coloring",
+      "dining",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a family of three sitting at a dining table, engrossed in a coloring activity.",
+    "objects": [
+      "three",
+      "activity",
+      "table",
+      "see",
+      "family",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "coloring",
+      "dining",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The father, dressed in a white t-shirt and blue pants, is holding a child in his lap, guiding them as they color a picture.",
+    "objects": [
+      "they",
+      "white",
+      "child",
+      "picture",
+      "father",
+      "blue",
+      "color",
+      "them"
+    ],
+    "actions": [
+      "dressed",
+      "pants",
+      "holding",
+      "guiding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The father, dressed in a white t-shirt and blue pants, is holding a child in his lap, guiding them as they color a picture.",
+    "objects": [
+      "they",
+      "white",
+      "child",
+      "picture",
+      "father",
+      "blue",
+      "color",
+      "them"
+    ],
+    "actions": [
+      "dressed",
+      "pants",
+      "holding",
+      "guiding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The father, dressed in a white t-shirt and blue pants, is holding a child in his lap, guiding them as they color a picture.",
+    "objects": [
+      "they",
+      "white",
+      "child",
+      "picture",
+      "father",
+      "blue",
+      "color",
+      "them"
+    ],
+    "actions": [
+      "dressed",
+      "pants",
+      "holding",
+      "guiding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The mother, wearing a red shirt, is seated across the table, drawing something on a piece of paper.",
+    "objects": [
+      "paper",
+      "piece",
+      "table",
+      "across",
+      "shirt",
+      "mother"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "something",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The mother, wearing a red shirt, is seated across the table, drawing something on a piece of paper.",
+    "objects": [
+      "paper",
+      "piece",
+      "table",
+      "across",
+      "shirt",
+      "mother"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "something",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The mother, wearing a red shirt, is seated across the table, drawing something on a piece of paper.",
+    "objects": [
+      "paper",
+      "piece",
+      "table",
+      "across",
+      "shirt",
+      "mother"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "something",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The daughter, wearing a blue shirt, is sitting next to them, attentively watching her father's work.",
+    "objects": [
+      "attentively",
+      "blue",
+      "shirt",
+      "work",
+      "her",
+      "them",
+      "daughter"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "watching",
+      "father's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The daughter, wearing a blue shirt, is sitting next to them, attentively watching her father's work.",
+    "objects": [
+      "attentively",
+      "blue",
+      "shirt",
+      "work",
+      "her",
+      "them",
+      "daughter"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "watching",
+      "father's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The daughter, wearing a blue shirt, is sitting next to them, attentively watching her father's work.",
+    "objects": [
+      "attentively",
+      "blue",
+      "shirt",
+      "work",
+      "her",
+      "them",
+      "daughter"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "watching",
+      "father's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A baby, wearing a white shirt, is also present in the scene, observing the activity with curiosity.",
+    "objects": [
+      "activity",
+      "white",
+      "shirt",
+      "curiosity",
+      "baby",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "observing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A baby, wearing a white shirt, is also present in the scene, observing the activity with curiosity.",
+    "objects": [
+      "activity",
+      "white",
+      "shirt",
+      "curiosity",
+      "baby",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "observing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A baby, wearing a white shirt, is also present in the scene, observing the activity with curiosity.",
+    "objects": [
+      "activity",
+      "white",
+      "shirt",
+      "curiosity",
+      "baby",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "observing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The table is scattered with various objects used in the activity, including coloring tools and paper.",
+    "objects": [
+      "paper",
+      "activity",
+      "table"
+    ],
+    "actions": [
+      "used",
+      "objects",
+      "coloring",
+      "scattered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The table is scattered with various objects used in the activity, including coloring tools and paper.",
+    "objects": [
+      "paper",
+      "activity",
+      "table"
+    ],
+    "actions": [
+      "used",
+      "objects",
+      "coloring",
+      "scattered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The table is scattered with various objects used in the activity, including coloring tools and paper.",
+    "objects": [
+      "paper",
+      "activity",
+      "table"
+    ],
+    "actions": [
+      "used",
+      "objects",
+      "coloring",
+      "scattered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A glass bottle, possibly containing water or juice, is visible on the table.",
+    "objects": [
+      "table",
+      "possibly",
+      "bottle",
+      "juice",
+      "glass",
+      "water"
+    ],
+    "actions": [
+      "containing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A glass bottle, possibly containing water or juice, is visible on the table.",
+    "objects": [
+      "table",
+      "possibly",
+      "bottle",
+      "juice",
+      "glass",
+      "water"
+    ],
+    "actions": [
+      "containing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A glass bottle, possibly containing water or juice, is visible on the table.",
+    "objects": [
+      "table",
+      "possibly",
+      "bottle",
+      "juice",
+      "glass",
+      "water"
+    ],
+    "actions": [
+      "containing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene is warm and familial, with the family enjoying their time together while engaging in a creative activity.",
+    "objects": [
+      "their",
+      "together",
+      "activity",
+      "familial",
+      "while",
+      "warm",
+      "family",
+      "time"
+    ],
+    "actions": [
+      "engaging",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene is warm and familial, with the family enjoying their time together while engaging in a creative activity.",
+    "objects": [
+      "their",
+      "together",
+      "activity",
+      "familial",
+      "while",
+      "warm",
+      "family",
+      "time"
+    ],
+    "actions": [
+      "engaging",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene is warm and familial, with the family enjoying their time together while engaging in a creative activity.",
+    "objects": [
+      "their",
+      "together",
+      "activity",
+      "familial",
+      "while",
+      "warm",
+      "family",
+      "time"
+    ],
+    "actions": [
+      "engaging",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The child in the father's lap seems to be enjoying the attention and guidance from their father, while the mother is focused on her own project.",
+    "objects": [
+      "their",
+      "guidance",
+      "attention",
+      "own",
+      "child",
+      "while",
+      "father",
+      "from"
+    ],
+    "actions": [
+      "father's",
+      "focused",
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The child in the father's lap seems to be enjoying the attention and guidance from their father, while the mother is focused on her own project.",
+    "objects": [
+      "their",
+      "guidance",
+      "attention",
+      "own",
+      "child",
+      "while",
+      "father",
+      "from"
+    ],
+    "actions": [
+      "father's",
+      "focused",
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The child in the father's lap seems to be enjoying the attention and guidance from their father, while the mother is focused on her own project.",
+    "objects": [
+      "their",
+      "guidance",
+      "attention",
+      "own",
+      "child",
+      "while",
+      "father",
+      "from"
+    ],
+    "actions": [
+      "father's",
+      "focused",
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The daughter watches with interest, perhaps waiting for her turn to draw or wanting to help with the baby.",
+    "objects": [
+      "help",
+      "turn",
+      "her",
+      "daughter",
+      "draw",
+      "baby",
+      "interest"
+    ],
+    "actions": [
+      "waiting",
+      "wanting",
+      "perhaps",
+      "watches"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The daughter watches with interest, perhaps waiting for her turn to draw or wanting to help with the baby.",
+    "objects": [
+      "help",
+      "turn",
+      "her",
+      "daughter",
+      "draw",
+      "baby",
+      "interest"
+    ],
+    "actions": [
+      "waiting",
+      "wanting",
+      "perhaps",
+      "watches"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The daughter watches with interest, perhaps waiting for her turn to draw or wanting to help with the baby.",
+    "objects": [
+      "help",
+      "turn",
+      "her",
+      "daughter",
+      "draw",
+      "baby",
+      "interest"
+    ],
+    "actions": [
+      "waiting",
+      "wanting",
+      "perhaps",
+      "watches"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby seems to be learning from the activity, taking in the sights and sounds around them.",
+    "objects": [
+      "activity",
+      "from",
+      "around",
+      "them",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "learning",
+      "sounds",
+      "sights"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby seems to be learning from the activity, taking in the sights and sounds around them.",
+    "objects": [
+      "activity",
+      "from",
+      "around",
+      "them",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "learning",
+      "sounds",
+      "sights"
+    ],
+    "segment_id": 10
+  }
+]

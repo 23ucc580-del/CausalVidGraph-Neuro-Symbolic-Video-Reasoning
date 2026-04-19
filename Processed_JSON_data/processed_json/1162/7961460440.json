@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there is a man wearing a backpack who is climbing up a steep rock face with the help of a climbing rope.",
+    "objects": [
+      "man",
+      "rock",
+      "help",
+      "backpack",
+      "there",
+      "steep",
+      "face",
+      "rope"
+    ],
+    "actions": [
+      "climbing",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there is a man wearing a backpack who is climbing up a steep rock face with the help of a climbing rope.",
+    "objects": [
+      "man",
+      "rock",
+      "help",
+      "backpack",
+      "there",
+      "steep",
+      "face",
+      "rope"
+    ],
+    "actions": [
+      "climbing",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there is a man wearing a backpack who is climbing up a steep rock face with the help of a climbing rope.",
+    "objects": [
+      "man",
+      "rock",
+      "help",
+      "backpack",
+      "there",
+      "steep",
+      "face",
+      "rope"
+    ],
+    "actions": [
+      "climbing",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there is a man wearing a backpack who is climbing up a steep rock face with the help of a climbing rope.",
+    "objects": [
+      "man",
+      "rock",
+      "help",
+      "backpack",
+      "there",
+      "steep",
+      "face",
+      "rope"
+    ],
+    "actions": [
+      "climbing",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is using his hands to grip the rocks and his feet to find his balance.",
+    "objects": [
+      "feet",
+      "find",
+      "balance",
+      "his",
+      "grip"
+    ],
+    "actions": [
+      "rocks",
+      "hands",
+      "using"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is using his hands to grip the rocks and his feet to find his balance.",
+    "objects": [
+      "feet",
+      "find",
+      "balance",
+      "his",
+      "grip"
+    ],
+    "actions": [
+      "rocks",
+      "hands",
+      "using"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is using his hands to grip the rocks and his feet to find his balance.",
+    "objects": [
+      "feet",
+      "find",
+      "balance",
+      "his",
+      "grip"
+    ],
+    "actions": [
+      "rocks",
+      "hands",
+      "using"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is using his hands to grip the rocks and his feet to find his balance.",
+    "objects": [
+      "feet",
+      "find",
+      "balance",
+      "his",
+      "grip"
+    ],
+    "actions": [
+      "rocks",
+      "hands",
+      "using"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is wearing a helmet for safety and appears to be focused on his task.",
+    "objects": [
+      "his",
+      "task",
+      "safety",
+      "helmet"
+    ],
+    "actions": [
+      "focused",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is wearing a helmet for safety and appears to be focused on his task.",
+    "objects": [
+      "his",
+      "task",
+      "safety",
+      "helmet"
+    ],
+    "actions": [
+      "focused",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is wearing a helmet for safety and appears to be focused on his task.",
+    "objects": [
+      "his",
+      "task",
+      "safety",
+      "helmet"
+    ],
+    "actions": [
+      "focused",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is wearing a helmet for safety and appears to be focused on his task.",
+    "objects": [
+      "his",
+      "task",
+      "safety",
+      "helmet"
+    ],
+    "actions": [
+      "focused",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "As he climbs higher, the sun shines down on him, creating a bright spotlight effect on his back.",
+    "objects": [
+      "effect",
+      "higher",
+      "bright",
+      "sun",
+      "his",
+      "him",
+      "spotlight"
+    ],
+    "actions": [
+      "shines",
+      "creating",
+      "climbs"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "As he climbs higher, the sun shines down on him, creating a bright spotlight effect on his back.",
+    "objects": [
+      "effect",
+      "higher",
+      "bright",
+      "sun",
+      "his",
+      "him",
+      "spotlight"
+    ],
+    "actions": [
+      "shines",
+      "creating",
+      "climbs"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "As he climbs higher, the sun shines down on him, creating a bright spotlight effect on his back.",
+    "objects": [
+      "effect",
+      "higher",
+      "bright",
+      "sun",
+      "his",
+      "him",
+      "spotlight"
+    ],
+    "actions": [
+      "shines",
+      "creating",
+      "climbs"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "As he climbs higher, the sun shines down on him, creating a bright spotlight effect on his back.",
+    "objects": [
+      "effect",
+      "higher",
+      "bright",
+      "sun",
+      "his",
+      "him",
+      "spotlight"
+    ],
+    "actions": [
+      "shines",
+      "creating",
+      "climbs"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The climbing rope is attached to a tree branch above him, and he is holding onto it with one hand while using the other hand to climb.",
+    "objects": [
+      "hand",
+      "tree",
+      "while",
+      "other",
+      "him",
+      "one",
+      "branch",
+      "above"
+    ],
+    "actions": [
+      "holding",
+      "climbing",
+      "attached",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The climbing rope is attached to a tree branch above him, and he is holding onto it with one hand while using the other hand to climb.",
+    "objects": [
+      "hand",
+      "tree",
+      "while",
+      "other",
+      "him",
+      "one",
+      "branch",
+      "above"
+    ],
+    "actions": [
+      "holding",
+      "climbing",
+      "attached",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The climbing rope is attached to a tree branch above him, and he is holding onto it with one hand while using the other hand to climb.",
+    "objects": [
+      "hand",
+      "tree",
+      "while",
+      "other",
+      "him",
+      "one",
+      "branch",
+      "above"
+    ],
+    "actions": [
+      "holding",
+      "climbing",
+      "attached",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The climbing rope is attached to a tree branch above him, and he is holding onto it with one hand while using the other hand to climb.",
+    "objects": [
+      "hand",
+      "tree",
+      "while",
+      "other",
+      "him",
+      "one",
+      "branch",
+      "above"
+    ],
+    "actions": [
+      "holding",
+      "climbing",
+      "attached",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man seems to be in his late twenties or early thirties, and his backpack is blue in color.",
+    "objects": [
+      "color",
+      "blue",
+      "late",
+      "man",
+      "his",
+      "backpack",
+      "early"
+    ],
+    "actions": [
+      "thirties",
+      "twenties",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man seems to be in his late twenties or early thirties, and his backpack is blue in color.",
+    "objects": [
+      "color",
+      "blue",
+      "late",
+      "man",
+      "his",
+      "backpack",
+      "early"
+    ],
+    "actions": [
+      "thirties",
+      "twenties",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man seems to be in his late twenties or early thirties, and his backpack is blue in color.",
+    "objects": [
+      "color",
+      "blue",
+      "late",
+      "man",
+      "his",
+      "backpack",
+      "early"
+    ],
+    "actions": [
+      "thirties",
+      "twenties",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man seems to be in his late twenties or early thirties, and his backpack is blue in color.",
+    "objects": [
+      "color",
+      "blue",
+      "late",
+      "man",
+      "his",
+      "backpack",
+      "early"
+    ],
+    "actions": [
+      "thirties",
+      "twenties",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The rock face he is climbing is a light brown color and looks quite challenging.",
+    "objects": [
+      "color",
+      "rock",
+      "light",
+      "quite",
+      "face",
+      "brown"
+    ],
+    "actions": [
+      "challenging",
+      "climbing",
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The rock face he is climbing is a light brown color and looks quite challenging.",
+    "objects": [
+      "color",
+      "rock",
+      "light",
+      "quite",
+      "face",
+      "brown"
+    ],
+    "actions": [
+      "challenging",
+      "climbing",
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The rock face he is climbing is a light brown color and looks quite challenging.",
+    "objects": [
+      "color",
+      "rock",
+      "light",
+      "quite",
+      "face",
+      "brown"
+    ],
+    "actions": [
+      "challenging",
+      "climbing",
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The rock face he is climbing is a light brown color and looks quite challenging.",
+    "objects": [
+      "color",
+      "rock",
+      "light",
+      "quite",
+      "face",
+      "brown"
+    ],
+    "actions": [
+      "challenging",
+      "climbing",
+      "looks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The sunlight on his back is creating a beautiful contrast with the shadows around him.",
+    "objects": [
+      "around",
+      "beautiful",
+      "his",
+      "him",
+      "contrast",
+      "sunlight"
+    ],
+    "actions": [
+      "shadows",
+      "creating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The sunlight on his back is creating a beautiful contrast with the shadows around him.",
+    "objects": [
+      "around",
+      "beautiful",
+      "his",
+      "him",
+      "contrast",
+      "sunlight"
+    ],
+    "actions": [
+      "shadows",
+      "creating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The sunlight on his back is creating a beautiful contrast with the shadows around him.",
+    "objects": [
+      "around",
+      "beautiful",
+      "his",
+      "him",
+      "contrast",
+      "sunlight"
+    ],
+    "actions": [
+      "shadows",
+      "creating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The sunlight on his back is creating a beautiful contrast with the shadows around him.",
+    "objects": [
+      "around",
+      "beautiful",
+      "his",
+      "him",
+      "contrast",
+      "sunlight"
+    ],
+    "actions": [
+      "shadows",
+      "creating"
+    ],
+    "segment_id": 7
+  }
+]

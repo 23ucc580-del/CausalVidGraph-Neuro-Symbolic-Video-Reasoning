@@ -1,0 +1,592 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a young boy and his father enjoying a day of snowboarding on a snowy hill.",
+    "objects": [
+      "this",
+      "father",
+      "hill",
+      "see",
+      "day",
+      "young",
+      "boy",
+      "snowy"
+    ],
+    "actions": [
+      "enjoying",
+      "snowboarding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a young boy and his father enjoying a day of snowboarding on a snowy hill.",
+    "objects": [
+      "this",
+      "father",
+      "hill",
+      "see",
+      "day",
+      "young",
+      "boy",
+      "snowy"
+    ],
+    "actions": [
+      "enjoying",
+      "snowboarding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a young boy and his father enjoying a day of snowboarding on a snowy hill.",
+    "objects": [
+      "this",
+      "father",
+      "hill",
+      "see",
+      "day",
+      "young",
+      "boy",
+      "snowy"
+    ],
+    "actions": [
+      "enjoying",
+      "snowboarding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a young boy and his father enjoying a day of snowboarding on a snowy hill.",
+    "objects": [
+      "this",
+      "father",
+      "hill",
+      "see",
+      "day",
+      "young",
+      "boy",
+      "snowy"
+    ],
+    "actions": [
+      "enjoying",
+      "snowboarding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In this video, we see a young boy and his father enjoying a day of snowboarding on a snowy hill.",
+    "objects": [
+      "this",
+      "father",
+      "hill",
+      "see",
+      "day",
+      "young",
+      "boy",
+      "snowy"
+    ],
+    "actions": [
+      "enjoying",
+      "snowboarding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The father is wearing a black jacket and blue pants, while the son is wearing a red hoodie and a black helmet.",
+    "objects": [
+      "son",
+      "helmet",
+      "father",
+      "hoodie",
+      "blue",
+      "while",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The father is wearing a black jacket and blue pants, while the son is wearing a red hoodie and a black helmet.",
+    "objects": [
+      "son",
+      "helmet",
+      "father",
+      "hoodie",
+      "blue",
+      "while",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The father is wearing a black jacket and blue pants, while the son is wearing a red hoodie and a black helmet.",
+    "objects": [
+      "son",
+      "helmet",
+      "father",
+      "hoodie",
+      "blue",
+      "while",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The father is wearing a black jacket and blue pants, while the son is wearing a red hoodie and a black helmet.",
+    "objects": [
+      "son",
+      "helmet",
+      "father",
+      "hoodie",
+      "blue",
+      "while",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The father is wearing a black jacket and blue pants, while the son is wearing a red hoodie and a black helmet.",
+    "objects": [
+      "son",
+      "helmet",
+      "father",
+      "hoodie",
+      "blue",
+      "while",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The boy is riding a snowboard, and his father is holding his hands to help him balance as he slides down the hill.",
+    "objects": [
+      "snowboard",
+      "him",
+      "father",
+      "hill",
+      "help",
+      "boy",
+      "his",
+      "balance"
+    ],
+    "actions": [
+      "slides",
+      "holding",
+      "riding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The boy is riding a snowboard, and his father is holding his hands to help him balance as he slides down the hill.",
+    "objects": [
+      "snowboard",
+      "him",
+      "father",
+      "hill",
+      "help",
+      "boy",
+      "his",
+      "balance"
+    ],
+    "actions": [
+      "slides",
+      "holding",
+      "riding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The boy is riding a snowboard, and his father is holding his hands to help him balance as he slides down the hill.",
+    "objects": [
+      "snowboard",
+      "him",
+      "father",
+      "hill",
+      "help",
+      "boy",
+      "his",
+      "balance"
+    ],
+    "actions": [
+      "slides",
+      "holding",
+      "riding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The boy is riding a snowboard, and his father is holding his hands to help him balance as he slides down the hill.",
+    "objects": [
+      "snowboard",
+      "him",
+      "father",
+      "hill",
+      "help",
+      "boy",
+      "his",
+      "balance"
+    ],
+    "actions": [
+      "slides",
+      "holding",
+      "riding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The boy is riding a snowboard, and his father is holding his hands to help him balance as he slides down the hill.",
+    "objects": [
+      "snowboard",
+      "him",
+      "father",
+      "hill",
+      "help",
+      "boy",
+      "his",
+      "balance"
+    ],
+    "actions": [
+      "slides",
+      "holding",
+      "riding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The father is also holding a camera, possibly to capture this moment.",
+    "objects": [
+      "this",
+      "capture",
+      "father",
+      "moment",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The father is also holding a camera, possibly to capture this moment.",
+    "objects": [
+      "this",
+      "capture",
+      "father",
+      "moment",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The father is also holding a camera, possibly to capture this moment.",
+    "objects": [
+      "this",
+      "capture",
+      "father",
+      "moment",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The father is also holding a camera, possibly to capture this moment.",
+    "objects": [
+      "this",
+      "capture",
+      "father",
+      "moment",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The father is also holding a camera, possibly to capture this moment.",
+    "objects": [
+      "this",
+      "capture",
+      "father",
+      "moment",
+      "possibly"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The hill is surrounded by trees, and there is a white fence visible in the background.",
+    "objects": [
+      "fence",
+      "hill",
+      "white",
+      "there"
+    ],
+    "actions": [
+      "surrounded",
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The hill is surrounded by trees, and there is a white fence visible in the background.",
+    "objects": [
+      "fence",
+      "hill",
+      "white",
+      "there"
+    ],
+    "actions": [
+      "surrounded",
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The hill is surrounded by trees, and there is a white fence visible in the background.",
+    "objects": [
+      "fence",
+      "hill",
+      "white",
+      "there"
+    ],
+    "actions": [
+      "surrounded",
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The hill is surrounded by trees, and there is a white fence visible in the background.",
+    "objects": [
+      "fence",
+      "hill",
+      "white",
+      "there"
+    ],
+    "actions": [
+      "surrounded",
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The hill is surrounded by trees, and there is a white fence visible in the background.",
+    "objects": [
+      "fence",
+      "hill",
+      "white",
+      "there"
+    ],
+    "actions": [
+      "surrounded",
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The boy appears to be enjoying the ride, as he smiles and holds onto his father's hands while they slide down.",
+    "objects": [
+      "ride",
+      "onto",
+      "slide",
+      "while",
+      "they",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "smiles",
+      "enjoying",
+      "father's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The boy appears to be enjoying the ride, as he smiles and holds onto his father's hands while they slide down.",
+    "objects": [
+      "ride",
+      "onto",
+      "slide",
+      "while",
+      "they",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "smiles",
+      "enjoying",
+      "father's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The boy appears to be enjoying the ride, as he smiles and holds onto his father's hands while they slide down.",
+    "objects": [
+      "ride",
+      "onto",
+      "slide",
+      "while",
+      "they",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "smiles",
+      "enjoying",
+      "father's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The boy appears to be enjoying the ride, as he smiles and holds onto his father's hands while they slide down.",
+    "objects": [
+      "ride",
+      "onto",
+      "slide",
+      "while",
+      "they",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "smiles",
+      "enjoying",
+      "father's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The boy appears to be enjoying the ride, as he smiles and holds onto his father's hands while they slide down.",
+    "objects": [
+      "ride",
+      "onto",
+      "slide",
+      "while",
+      "they",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "smiles",
+      "enjoying",
+      "father's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The father's smile suggests he is happy to be spending time with his son in this fun activity.",
+    "objects": [
+      "this",
+      "happy",
+      "fun",
+      "activity",
+      "smile",
+      "time",
+      "his",
+      "son"
+    ],
+    "actions": [
+      "spending",
+      "suggests",
+      "father's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The father's smile suggests he is happy to be spending time with his son in this fun activity.",
+    "objects": [
+      "this",
+      "happy",
+      "fun",
+      "activity",
+      "smile",
+      "time",
+      "his",
+      "son"
+    ],
+    "actions": [
+      "spending",
+      "suggests",
+      "father's"
+    ],
+    "segment_id": 6
+  }
+]

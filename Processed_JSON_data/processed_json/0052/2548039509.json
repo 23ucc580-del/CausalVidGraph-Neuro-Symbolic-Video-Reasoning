@@ -1,0 +1,606 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man in a blue hoodie and glasses standing in front of a white desk, engrossed in a computer screen.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "blue",
+      "see",
+      "desk",
+      "screen",
+      "computer"
+    ],
+    "actions": [
+      "standing",
+      "engrossed",
+      "glasses"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man in a blue hoodie and glasses standing in front of a white desk, engrossed in a computer screen.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "blue",
+      "see",
+      "desk",
+      "screen",
+      "computer"
+    ],
+    "actions": [
+      "standing",
+      "engrossed",
+      "glasses"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man in a blue hoodie and glasses standing in front of a white desk, engrossed in a computer screen.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "blue",
+      "see",
+      "desk",
+      "screen",
+      "computer"
+    ],
+    "actions": [
+      "standing",
+      "engrossed",
+      "glasses"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man in a blue hoodie and glasses standing in front of a white desk, engrossed in a computer screen.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "blue",
+      "see",
+      "desk",
+      "screen",
+      "computer"
+    ],
+    "actions": [
+      "standing",
+      "engrossed",
+      "glasses"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He appears to be in a workspace, surrounded by various equipment and electronics, indicating a tech-oriented environment.",
+    "objects": [
+      "environment",
+      "equipment",
+      "workspace"
+    ],
+    "actions": [
+      "electronics",
+      "surrounded",
+      "indicating",
+      "tech-oriented"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He appears to be in a workspace, surrounded by various equipment and electronics, indicating a tech-oriented environment.",
+    "objects": [
+      "environment",
+      "equipment",
+      "workspace"
+    ],
+    "actions": [
+      "electronics",
+      "surrounded",
+      "indicating",
+      "tech-oriented"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He appears to be in a workspace, surrounded by various equipment and electronics, indicating a tech-oriented environment.",
+    "objects": [
+      "environment",
+      "equipment",
+      "workspace"
+    ],
+    "actions": [
+      "electronics",
+      "surrounded",
+      "indicating",
+      "tech-oriented"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He appears to be in a workspace, surrounded by various equipment and electronics, indicating a tech-oriented environment.",
+    "objects": [
+      "environment",
+      "equipment",
+      "workspace"
+    ],
+    "actions": [
+      "electronics",
+      "surrounded",
+      "indicating",
+      "tech-oriented"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Behind him, a large screen displays multiple images, suggesting he might be multitasking or monitoring several tasks at once.",
+    "objects": [
+      "behind",
+      "several",
+      "once",
+      "large",
+      "might",
+      "screen",
+      "him",
+      "multiple"
+    ],
+    "actions": [
+      "tasks",
+      "suggesting",
+      "multitasking",
+      "images"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Behind him, a large screen displays multiple images, suggesting he might be multitasking or monitoring several tasks at once.",
+    "objects": [
+      "behind",
+      "several",
+      "once",
+      "large",
+      "might",
+      "screen",
+      "him",
+      "multiple"
+    ],
+    "actions": [
+      "tasks",
+      "suggesting",
+      "multitasking",
+      "images"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Behind him, a large screen displays multiple images, suggesting he might be multitasking or monitoring several tasks at once.",
+    "objects": [
+      "behind",
+      "several",
+      "once",
+      "large",
+      "might",
+      "screen",
+      "him",
+      "multiple"
+    ],
+    "actions": [
+      "tasks",
+      "suggesting",
+      "multitasking",
+      "images"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Behind him, a large screen displays multiple images, suggesting he might be multitasking or monitoring several tasks at once.",
+    "objects": [
+      "behind",
+      "several",
+      "once",
+      "large",
+      "might",
+      "screen",
+      "him",
+      "multiple"
+    ],
+    "actions": [
+      "tasks",
+      "suggesting",
+      "multitasking",
+      "images"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The desk is cluttered with objects like a computer mouse, a keyboard, and a monitor, all essential for his work.",
+    "objects": [
+      "work",
+      "essential",
+      "all",
+      "like",
+      "keyboard",
+      "desk",
+      "monitor",
+      "mouse"
+    ],
+    "actions": [
+      "cluttered",
+      "objects"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The desk is cluttered with objects like a computer mouse, a keyboard, and a monitor, all essential for his work.",
+    "objects": [
+      "work",
+      "essential",
+      "all",
+      "like",
+      "keyboard",
+      "desk",
+      "monitor",
+      "mouse"
+    ],
+    "actions": [
+      "cluttered",
+      "objects"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The desk is cluttered with objects like a computer mouse, a keyboard, and a monitor, all essential for his work.",
+    "objects": [
+      "work",
+      "essential",
+      "all",
+      "like",
+      "keyboard",
+      "desk",
+      "monitor",
+      "mouse"
+    ],
+    "actions": [
+      "cluttered",
+      "objects"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The desk is cluttered with objects like a computer mouse, a keyboard, and a monitor, all essential for his work.",
+    "objects": [
+      "work",
+      "essential",
+      "all",
+      "like",
+      "keyboard",
+      "desk",
+      "monitor",
+      "mouse"
+    ],
+    "actions": [
+      "cluttered",
+      "objects"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man's focus is evident, indicating concentration on his tasks.",
+    "objects": [
+      "evident",
+      "concentration",
+      "his"
+    ],
+    "actions": [
+      "tasks",
+      "indicating",
+      "man's",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man's focus is evident, indicating concentration on his tasks.",
+    "objects": [
+      "evident",
+      "concentration",
+      "his"
+    ],
+    "actions": [
+      "tasks",
+      "indicating",
+      "man's",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man's focus is evident, indicating concentration on his tasks.",
+    "objects": [
+      "evident",
+      "concentration",
+      "his"
+    ],
+    "actions": [
+      "tasks",
+      "indicating",
+      "man's",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man's focus is evident, indicating concentration on his tasks.",
+    "objects": [
+      "evident",
+      "concentration",
+      "his"
+    ],
+    "actions": [
+      "tasks",
+      "indicating",
+      "man's",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Meanwhile, in the background, there's another person dressed in a black shirt, although their actions or role are not clear.",
+    "objects": [
+      "role",
+      "their",
+      "clear",
+      "although",
+      "not",
+      "meanwhile",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "there's",
+      "dressed",
+      "actions"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Meanwhile, in the background, there's another person dressed in a black shirt, although their actions or role are not clear.",
+    "objects": [
+      "role",
+      "their",
+      "clear",
+      "although",
+      "not",
+      "meanwhile",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "there's",
+      "dressed",
+      "actions"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Meanwhile, in the background, there's another person dressed in a black shirt, although their actions or role are not clear.",
+    "objects": [
+      "role",
+      "their",
+      "clear",
+      "although",
+      "not",
+      "meanwhile",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "there's",
+      "dressed",
+      "actions"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Meanwhile, in the background, there's another person dressed in a black shirt, although their actions or role are not clear.",
+    "objects": [
+      "role",
+      "their",
+      "clear",
+      "although",
+      "not",
+      "meanwhile",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "there's",
+      "dressed",
+      "actions"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The setting is a typical tech office or workspace, with a desk that houses a computer monitor, a keyboard, a mouse, and a laptop.",
+    "objects": [
+      "office",
+      "tech",
+      "workspace",
+      "keyboard",
+      "desk",
+      "monitor",
+      "mouse",
+      "laptop"
+    ],
+    "actions": [
+      "houses",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The setting is a typical tech office or workspace, with a desk that houses a computer monitor, a keyboard, a mouse, and a laptop.",
+    "objects": [
+      "office",
+      "tech",
+      "workspace",
+      "keyboard",
+      "desk",
+      "monitor",
+      "mouse",
+      "laptop"
+    ],
+    "actions": [
+      "houses",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The setting is a typical tech office or workspace, with a desk that houses a computer monitor, a keyboard, a mouse, and a laptop.",
+    "objects": [
+      "office",
+      "tech",
+      "workspace",
+      "keyboard",
+      "desk",
+      "monitor",
+      "mouse",
+      "laptop"
+    ],
+    "actions": [
+      "houses",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The setting is a typical tech office or workspace, with a desk that houses a computer monitor, a keyboard, a mouse, and a laptop.",
+    "objects": [
+      "office",
+      "tech",
+      "workspace",
+      "keyboard",
+      "desk",
+      "monitor",
+      "mouse",
+      "laptop"
+    ],
+    "actions": [
+      "houses",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the blue hoodie seems to be at the center of attention, possibly managing the workspace or monitoring the equipment.",
+    "objects": [
+      "man",
+      "attention",
+      "center",
+      "hoodie",
+      "workspace",
+      "blue",
+      "equipment",
+      "possibly"
+    ],
+    "actions": [
+      "monitoring",
+      "managing",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the blue hoodie seems to be at the center of attention, possibly managing the workspace or monitoring the equipment.",
+    "objects": [
+      "man",
+      "attention",
+      "center",
+      "hoodie",
+      "workspace",
+      "blue",
+      "equipment",
+      "possibly"
+    ],
+    "actions": [
+      "monitoring",
+      "managing",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the blue hoodie seems to be at the center of attention, possibly managing the workspace or monitoring the equipment.",
+    "objects": [
+      "man",
+      "attention",
+      "center",
+      "hoodie",
+      "workspace",
+      "blue",
+      "equipment",
+      "possibly"
+    ],
+    "actions": [
+      "monitoring",
+      "managing",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the blue hoodie seems to be at the center of attention, possibly managing the workspace or monitoring the equipment.",
+    "objects": [
+      "man",
+      "attention",
+      "center",
+      "hoodie",
+      "workspace",
+      "blue",
+      "equipment",
+      "possibly"
+    ],
+    "actions": [
+      "monitoring",
+      "managing",
+      "seems"
+    ],
+    "segment_id": 7
+  }
+]

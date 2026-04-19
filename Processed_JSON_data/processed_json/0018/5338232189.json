@@ -1,0 +1,522 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people gathered in a living room, engaged in various activities.",
+    "objects": [
+      "room",
+      "group",
+      "see",
+      "people",
+      "this"
+    ],
+    "actions": [
+      "living",
+      "activities",
+      "engaged",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people gathered in a living room, engaged in various activities.",
+    "objects": [
+      "room",
+      "group",
+      "see",
+      "people",
+      "this"
+    ],
+    "actions": [
+      "living",
+      "activities",
+      "engaged",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The room is comfortably furnished with a brown couch, a beige armchair, and a television set.",
+    "objects": [
+      "comfortably",
+      "brown",
+      "armchair",
+      "room",
+      "couch",
+      "set",
+      "beige",
+      "television"
+    ],
+    "actions": [
+      "furnished"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The room is comfortably furnished with a brown couch, a beige armchair, and a television set.",
+    "objects": [
+      "comfortably",
+      "brown",
+      "armchair",
+      "room",
+      "couch",
+      "set",
+      "beige",
+      "television"
+    ],
+    "actions": [
+      "furnished"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "- A woman in a black shirt is sitting on the couch, holding a small box in her hands.",
+    "objects": [
+      "shirt",
+      "her",
+      "small",
+      "box",
+      "couch",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "- A woman in a black shirt is sitting on the couch, holding a small box in her hands.",
+    "objects": [
+      "shirt",
+      "her",
+      "small",
+      "box",
+      "couch",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "- Another woman is sitting on the armchair, wearing a white top, and looking at the television.",
+    "objects": [
+      "white",
+      "top",
+      "armchair",
+      "woman",
+      "television"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "- Another woman is sitting on the armchair, wearing a white top, and looking at the television.",
+    "objects": [
+      "white",
+      "top",
+      "armchair",
+      "woman",
+      "television"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "- A man in a white shirt is sitting on the couch, holding a bottle.",
+    "objects": [
+      "shirt",
+      "white",
+      "bottle",
+      "couch",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "- A man in a white shirt is sitting on the couch, holding a bottle.",
+    "objects": [
+      "shirt",
+      "white",
+      "bottle",
+      "couch",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "- A woman in a white top is sitting on the armchair, holding a remote control.",
+    "objects": [
+      "white",
+      "top",
+      "control",
+      "armchair",
+      "woman",
+      "remote"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "- A woman in a white top is sitting on the armchair, holding a remote control.",
+    "objects": [
+      "white",
+      "top",
+      "control",
+      "armchair",
+      "woman",
+      "remote"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "- A man in a blue hoodie is standing in the background.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "- A man in a blue hoodie is standing in the background.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "- A woman in a blue shirt is standing near the television, holding a bottle.",
+    "objects": [
+      "shirt",
+      "blue",
+      "bottle",
+      "woman",
+      "television"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "- A woman in a blue shirt is standing near the television, holding a bottle.",
+    "objects": [
+      "shirt",
+      "blue",
+      "bottle",
+      "woman",
+      "television"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "- A person in a blue shirt is sitting on the couch, holding a glass.",
+    "objects": [
+      "shirt",
+      "glass",
+      "blue",
+      "couch"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "- A person in a blue shirt is sitting on the couch, holding a glass.",
+    "objects": [
+      "shirt",
+      "glass",
+      "blue",
+      "couch"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "- A woman in a black shirt is standing in the background, holding a remote control.",
+    "objects": [
+      "shirt",
+      "control",
+      "black",
+      "woman",
+      "remote"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "- A woman in a black shirt is standing in the background, holding a remote control.",
+    "objects": [
+      "shirt",
+      "control",
+      "black",
+      "woman",
+      "remote"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "- A person in a white shirt is sitting on the couch, holding a remote control.",
+    "objects": [
+      "shirt",
+      "white",
+      "control",
+      "couch",
+      "remote"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "- A person in a white shirt is sitting on the couch, holding a remote control.",
+    "objects": [
+      "shirt",
+      "white",
+      "control",
+      "couch",
+      "remote"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "- A woman in a black shirt is standing in the background, holding a glass.",
+    "objects": [
+      "black",
+      "glass",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "- A woman in a black shirt is standing in the background, holding a glass.",
+    "objects": [
+      "black",
+      "glass",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "- A person in a white top is sitting on the couch, holding a remote control.",
+    "objects": [
+      "white",
+      "top",
+      "control",
+      "couch",
+      "remote"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "- A person in a white top is sitting on the couch, holding a remote control.",
+    "objects": [
+      "white",
+      "top",
+      "control",
+      "couch",
+      "remote"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "- A man in a white shirt is standing in the background, holding a bottle.",
+    "objects": [
+      "shirt",
+      "bottle",
+      "white",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "- A man in a white shirt is standing in the background, holding a bottle.",
+    "objects": [
+      "shirt",
+      "bottle",
+      "white",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "- A woman in a white shirt is sitting on the couch, holding a glass.",
+    "objects": [
+      "shirt",
+      "white",
+      "couch",
+      "glass",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "- A woman in a white shirt is sitting on the couch, holding a glass.",
+    "objects": [
+      "shirt",
+      "white",
+      "couch",
+      "glass",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "- A man in a white shirt is sitting on the armchair, holding a remote control.",
+    "objects": [
+      "shirt",
+      "white",
+      "control",
+      "armchair",
+      "man",
+      "remote"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "- A man in a white shirt is sitting on the armchair, holding a remote control.",
+    "objects": [
+      "shirt",
+      "white",
+      "control",
+      "armchair",
+      "man",
+      "remote"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

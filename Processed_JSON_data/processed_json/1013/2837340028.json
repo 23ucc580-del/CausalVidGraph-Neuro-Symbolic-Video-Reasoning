@@ -1,0 +1,494 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman is walking down a sandy path with a baby stroller.",
+    "objects": [
+      "woman",
+      "path",
+      "stroller",
+      "sandy",
+      "baby"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman is walking down a sandy path with a baby stroller.",
+    "objects": [
+      "woman",
+      "path",
+      "stroller",
+      "sandy",
+      "baby"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman is walking down a sandy path with a baby stroller.",
+    "objects": [
+      "woman",
+      "path",
+      "stroller",
+      "sandy",
+      "baby"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman is walking down a sandy path with a baby stroller.",
+    "objects": [
+      "woman",
+      "path",
+      "stroller",
+      "sandy",
+      "baby"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a black jacket and sunglasses.",
+    "objects": [
+      "black",
+      "jacket",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "sunglasses"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a black jacket and sunglasses.",
+    "objects": [
+      "black",
+      "jacket",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "sunglasses"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is wearing a black jacket and sunglasses.",
+    "objects": [
+      "black",
+      "jacket",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "sunglasses"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is wearing a black jacket and sunglasses.",
+    "objects": [
+      "black",
+      "jacket",
+      "she"
+    ],
+    "actions": [
+      "wearing",
+      "sunglasses"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby stroller is black with a silver handle.",
+    "objects": [
+      "handle",
+      "black",
+      "stroller",
+      "silver",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby stroller is black with a silver handle.",
+    "objects": [
+      "handle",
+      "black",
+      "stroller",
+      "silver",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The baby stroller is black with a silver handle.",
+    "objects": [
+      "handle",
+      "black",
+      "stroller",
+      "silver",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The baby stroller is black with a silver handle.",
+    "objects": [
+      "handle",
+      "black",
+      "stroller",
+      "silver",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is carrying a black backpack.",
+    "objects": [
+      "black",
+      "backpack",
+      "woman"
+    ],
+    "actions": [
+      "carrying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is carrying a black backpack.",
+    "objects": [
+      "black",
+      "backpack",
+      "woman"
+    ],
+    "actions": [
+      "carrying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is carrying a black backpack.",
+    "objects": [
+      "black",
+      "backpack",
+      "woman"
+    ],
+    "actions": [
+      "carrying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is carrying a black backpack.",
+    "objects": [
+      "black",
+      "backpack",
+      "woman"
+    ],
+    "actions": [
+      "carrying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "She is walking past a person sitting on the sandy ground, who is wearing a blue hoodie and sunglasses.",
+    "objects": [
+      "she",
+      "blue",
+      "who",
+      "hoodie",
+      "sandy",
+      "past",
+      "ground"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "sunglasses",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "She is walking past a person sitting on the sandy ground, who is wearing a blue hoodie and sunglasses.",
+    "objects": [
+      "she",
+      "blue",
+      "who",
+      "hoodie",
+      "sandy",
+      "past",
+      "ground"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "sunglasses",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "She is walking past a person sitting on the sandy ground, who is wearing a blue hoodie and sunglasses.",
+    "objects": [
+      "she",
+      "blue",
+      "who",
+      "hoodie",
+      "sandy",
+      "past",
+      "ground"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "sunglasses",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "She is walking past a person sitting on the sandy ground, who is wearing a blue hoodie and sunglasses.",
+    "objects": [
+      "she",
+      "blue",
+      "who",
+      "hoodie",
+      "sandy",
+      "past",
+      "ground"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "sunglasses",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The baby is wearing a black hat and a black outfit, and the person next to the baby is also wearing a black outfit.",
+    "objects": [
+      "black",
+      "outfit",
+      "baby",
+      "hat"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The baby is wearing a black hat and a black outfit, and the person next to the baby is also wearing a black outfit.",
+    "objects": [
+      "black",
+      "outfit",
+      "baby",
+      "hat"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The baby is wearing a black hat and a black outfit, and the person next to the baby is also wearing a black outfit.",
+    "objects": [
+      "black",
+      "outfit",
+      "baby",
+      "hat"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby is wearing a black hat and a black outfit, and the person next to the baby is also wearing a black outfit.",
+    "objects": [
+      "black",
+      "outfit",
+      "baby",
+      "hat"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The person walking is holding a silver stroller.",
+    "objects": [
+      "silver",
+      "stroller"
+    ],
+    "actions": [
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The person walking is holding a silver stroller.",
+    "objects": [
+      "silver",
+      "stroller"
+    ],
+    "actions": [
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The person walking is holding a silver stroller.",
+    "objects": [
+      "silver",
+      "stroller"
+    ],
+    "actions": [
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The person walking is holding a silver stroller.",
+    "objects": [
+      "silver",
+      "stroller"
+    ],
+    "actions": [
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman is walking past them and towards the water, with the baby stroller in her hand.",
+    "objects": [
+      "woman",
+      "stroller",
+      "her",
+      "them",
+      "past",
+      "baby",
+      "water",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman is walking past them and towards the water, with the baby stroller in her hand.",
+    "objects": [
+      "woman",
+      "stroller",
+      "her",
+      "them",
+      "past",
+      "baby",
+      "water",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman is walking past them and towards the water, with the baby stroller in her hand.",
+    "objects": [
+      "woman",
+      "stroller",
+      "her",
+      "them",
+      "past",
+      "baby",
+      "water",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman is walking past them and towards the water, with the baby stroller in her hand.",
+    "objects": [
+      "woman",
+      "stroller",
+      "her",
+      "them",
+      "past",
+      "baby",
+      "water",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 7
+  }
+]

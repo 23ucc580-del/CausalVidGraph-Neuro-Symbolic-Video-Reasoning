@@ -1,0 +1,498 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a person is seen preparing food on a wooden table in a kitchen.",
+    "objects": [
+      "wooden",
+      "table",
+      "food",
+      "kitchen"
+    ],
+    "actions": [
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a person is seen preparing food on a wooden table in a kitchen.",
+    "objects": [
+      "wooden",
+      "table",
+      "food",
+      "kitchen"
+    ],
+    "actions": [
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a person is seen preparing food on a wooden table in a kitchen.",
+    "objects": [
+      "wooden",
+      "table",
+      "food",
+      "kitchen"
+    ],
+    "actions": [
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a person is seen preparing food on a wooden table in a kitchen.",
+    "objects": [
+      "wooden",
+      "table",
+      "food",
+      "kitchen"
+    ],
+    "actions": [
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "They are holding a knife in one hand and a piece of meat in the other, with a cat sitting on their lap.",
+    "objects": [
+      "knife",
+      "one",
+      "cat",
+      "their",
+      "piece",
+      "lap",
+      "other",
+      "hand"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "They are holding a knife in one hand and a piece of meat in the other, with a cat sitting on their lap.",
+    "objects": [
+      "knife",
+      "one",
+      "cat",
+      "their",
+      "piece",
+      "lap",
+      "other",
+      "hand"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are holding a knife in one hand and a piece of meat in the other, with a cat sitting on their lap.",
+    "objects": [
+      "knife",
+      "one",
+      "cat",
+      "their",
+      "piece",
+      "lap",
+      "other",
+      "hand"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "They are holding a knife in one hand and a piece of meat in the other, with a cat sitting on their lap.",
+    "objects": [
+      "knife",
+      "one",
+      "cat",
+      "their",
+      "piece",
+      "lap",
+      "other",
+      "hand"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The person is wearing a blue hoodie and is focused on cutting the meat.",
+    "objects": [
+      "meat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "cutting",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The person is wearing a blue hoodie and is focused on cutting the meat.",
+    "objects": [
+      "meat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "cutting",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The person is wearing a blue hoodie and is focused on cutting the meat.",
+    "objects": [
+      "meat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "cutting",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The person is wearing a blue hoodie and is focused on cutting the meat.",
+    "objects": [
+      "meat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "cutting",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "There is a cat sitting on the person's lap, looking curiously at the meat.",
+    "objects": [
+      "cat",
+      "lap",
+      "there",
+      "curiously",
+      "meat"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "person's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "There is a cat sitting on the person's lap, looking curiously at the meat.",
+    "objects": [
+      "cat",
+      "lap",
+      "there",
+      "curiously",
+      "meat"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "person's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "There is a cat sitting on the person's lap, looking curiously at the meat.",
+    "objects": [
+      "cat",
+      "lap",
+      "there",
+      "curiously",
+      "meat"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "person's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "There is a cat sitting on the person's lap, looking curiously at the meat.",
+    "objects": [
+      "cat",
+      "lap",
+      "there",
+      "curiously",
+      "meat"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "person's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The person is holding a knife in one hand and the meat in the other.",
+    "objects": [
+      "knife",
+      "one",
+      "other",
+      "hand",
+      "meat"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The person is holding a knife in one hand and the meat in the other.",
+    "objects": [
+      "knife",
+      "one",
+      "other",
+      "hand",
+      "meat"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The person is holding a knife in one hand and the meat in the other.",
+    "objects": [
+      "knife",
+      "one",
+      "other",
+      "hand",
+      "meat"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The person is holding a knife in one hand and the meat in the other.",
+    "objects": [
+      "knife",
+      "one",
+      "other",
+      "hand",
+      "meat"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The background is a kitchen with a sink, oven, and cabinets.",
+    "objects": [
+      "sink",
+      "kitchen",
+      "oven"
+    ],
+    "actions": [
+      "cabinets"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The background is a kitchen with a sink, oven, and cabinets.",
+    "objects": [
+      "sink",
+      "kitchen",
+      "oven"
+    ],
+    "actions": [
+      "cabinets"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The background is a kitchen with a sink, oven, and cabinets.",
+    "objects": [
+      "sink",
+      "kitchen",
+      "oven"
+    ],
+    "actions": [
+      "cabinets"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The background is a kitchen with a sink, oven, and cabinets.",
+    "objects": [
+      "sink",
+      "kitchen",
+      "oven"
+    ],
+    "actions": [
+      "cabinets"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The cat is curiously looking at the meat, sitting calmly on the person's lap.",
+    "objects": [
+      "cat",
+      "lap",
+      "curiously",
+      "meat",
+      "calmly"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "person's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The cat is curiously looking at the meat, sitting calmly on the person's lap.",
+    "objects": [
+      "cat",
+      "lap",
+      "curiously",
+      "meat",
+      "calmly"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "person's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The cat is curiously looking at the meat, sitting calmly on the person's lap.",
+    "objects": [
+      "cat",
+      "lap",
+      "curiously",
+      "meat",
+      "calmly"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "person's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The cat is curiously looking at the meat, sitting calmly on the person's lap.",
+    "objects": [
+      "cat",
+      "lap",
+      "curiously",
+      "meat",
+      "calmly"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "person's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The person is in a blue hoodie and is focused on cutting the meat.",
+    "objects": [
+      "meat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "cutting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The person is in a blue hoodie and is focused on cutting the meat.",
+    "objects": [
+      "meat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "cutting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The person is in a blue hoodie and is focused on cutting the meat.",
+    "objects": [
+      "meat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "cutting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The person is in a blue hoodie and is focused on cutting the meat.",
+    "objects": [
+      "meat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "focused",
+      "cutting"
+    ],
+    "segment_id": 7
+  }
+]

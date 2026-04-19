@@ -1,0 +1,519 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features two people on a snowy mountain, one of whom is riding a snowmobile and the other is on a snowboard.",
+    "objects": [
+      "people",
+      "snowboard",
+      "two",
+      "whom",
+      "other",
+      "one",
+      "snowmobile",
+      "mountain"
+    ],
+    "actions": [
+      "features",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features two people on a snowy mountain, one of whom is riding a snowmobile and the other is on a snowboard.",
+    "objects": [
+      "people",
+      "snowboard",
+      "two",
+      "whom",
+      "other",
+      "one",
+      "snowmobile",
+      "mountain"
+    ],
+    "actions": [
+      "features",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video features two people on a snowy mountain, one of whom is riding a snowmobile and the other is on a snowboard.",
+    "objects": [
+      "people",
+      "snowboard",
+      "two",
+      "whom",
+      "other",
+      "one",
+      "snowmobile",
+      "mountain"
+    ],
+    "actions": [
+      "features",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video features two people on a snowy mountain, one of whom is riding a snowmobile and the other is on a snowboard.",
+    "objects": [
+      "people",
+      "snowboard",
+      "two",
+      "whom",
+      "other",
+      "one",
+      "snowmobile",
+      "mountain"
+    ],
+    "actions": [
+      "features",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video features two people on a snowy mountain, one of whom is riding a snowmobile and the other is on a snowboard.",
+    "objects": [
+      "people",
+      "snowboard",
+      "two",
+      "whom",
+      "other",
+      "one",
+      "snowmobile",
+      "mountain"
+    ],
+    "actions": [
+      "features",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The person on the snowmobile is dressed in a blue jacket, black pants, and a helmet.",
+    "objects": [
+      "helmet",
+      "blue",
+      "snowmobile",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The person on the snowmobile is dressed in a blue jacket, black pants, and a helmet.",
+    "objects": [
+      "helmet",
+      "blue",
+      "snowmobile",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The person on the snowmobile is dressed in a blue jacket, black pants, and a helmet.",
+    "objects": [
+      "helmet",
+      "blue",
+      "snowmobile",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The person on the snowmobile is dressed in a blue jacket, black pants, and a helmet.",
+    "objects": [
+      "helmet",
+      "blue",
+      "snowmobile",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The person on the snowmobile is dressed in a blue jacket, black pants, and a helmet.",
+    "objects": [
+      "helmet",
+      "blue",
+      "snowmobile",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The person on the snowboard is wearing a red jacket, black pants, and a helmet.",
+    "objects": [
+      "jacket",
+      "helmet",
+      "black",
+      "snowboard"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The person on the snowboard is wearing a red jacket, black pants, and a helmet.",
+    "objects": [
+      "jacket",
+      "helmet",
+      "black",
+      "snowboard"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The person on the snowboard is wearing a red jacket, black pants, and a helmet.",
+    "objects": [
+      "jacket",
+      "helmet",
+      "black",
+      "snowboard"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The person on the snowboard is wearing a red jacket, black pants, and a helmet.",
+    "objects": [
+      "jacket",
+      "helmet",
+      "black",
+      "snowboard"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The person on the snowboard is wearing a red jacket, black pants, and a helmet.",
+    "objects": [
+      "jacket",
+      "helmet",
+      "black",
+      "snowboard"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "Both are equipped with goggles.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "goggles"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Both are equipped with goggles.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "goggles"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "Both are equipped with goggles.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "goggles"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "Both are equipped with goggles.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "goggles"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "Both are equipped with goggles.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "goggles"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The snowmobile is a silver ATV, and the snowboarder has a white snowboard.",
+    "objects": [
+      "has",
+      "white",
+      "silver",
+      "snowboard",
+      "snowmobile",
+      "atv",
+      "snowboarder"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The snowmobile is a silver ATV, and the snowboarder has a white snowboard.",
+    "objects": [
+      "has",
+      "white",
+      "silver",
+      "snowboard",
+      "snowmobile",
+      "atv",
+      "snowboarder"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The snowmobile is a silver ATV, and the snowboarder has a white snowboard.",
+    "objects": [
+      "has",
+      "white",
+      "silver",
+      "snowboard",
+      "snowmobile",
+      "atv",
+      "snowboarder"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The snowmobile is a silver ATV, and the snowboarder has a white snowboard.",
+    "objects": [
+      "has",
+      "white",
+      "silver",
+      "snowboard",
+      "snowmobile",
+      "atv",
+      "snowboarder"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The snowmobile is a silver ATV, and the snowboarder has a white snowboard.",
+    "objects": [
+      "has",
+      "white",
+      "silver",
+      "snowboard",
+      "snowmobile",
+      "atv",
+      "snowboarder"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene opens with the snowmobile rider driving towards the snowboarder, who is standing still, and then the snowboarder rides past the snowmobile.",
+    "objects": [
+      "still",
+      "who",
+      "rider",
+      "then",
+      "past",
+      "snowmobile",
+      "snowboarder"
+    ],
+    "actions": [
+      "towards",
+      "rides",
+      "driving",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene opens with the snowmobile rider driving towards the snowboarder, who is standing still, and then the snowboarder rides past the snowmobile.",
+    "objects": [
+      "still",
+      "who",
+      "rider",
+      "then",
+      "past",
+      "snowmobile",
+      "snowboarder"
+    ],
+    "actions": [
+      "towards",
+      "rides",
+      "driving",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene opens with the snowmobile rider driving towards the snowboarder, who is standing still, and then the snowboarder rides past the snowmobile.",
+    "objects": [
+      "still",
+      "who",
+      "rider",
+      "then",
+      "past",
+      "snowmobile",
+      "snowboarder"
+    ],
+    "actions": [
+      "towards",
+      "rides",
+      "driving",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene opens with the snowmobile rider driving towards the snowboarder, who is standing still, and then the snowboarder rides past the snowmobile.",
+    "objects": [
+      "still",
+      "who",
+      "rider",
+      "then",
+      "past",
+      "snowmobile",
+      "snowboarder"
+    ],
+    "actions": [
+      "towards",
+      "rides",
+      "driving",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene opens with the snowmobile rider driving towards the snowboarder, who is standing still, and then the snowboarder rides past the snowmobile.",
+    "objects": [
+      "still",
+      "who",
+      "rider",
+      "then",
+      "past",
+      "snowmobile",
+      "snowboarder"
+    ],
+    "actions": [
+      "towards",
+      "rides",
+      "driving",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "Both are smiling.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "Both are smiling.",
+    "objects": [
+      "both"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 6
+  }
+]

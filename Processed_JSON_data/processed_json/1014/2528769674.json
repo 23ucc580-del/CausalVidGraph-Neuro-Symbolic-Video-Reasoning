@@ -1,0 +1,572 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a young child is the main focus.",
+    "objects": [
+      "young",
+      "main",
+      "this",
+      "child"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a young child is the main focus.",
+    "objects": [
+      "young",
+      "main",
+      "this",
+      "child"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a young child is the main focus.",
+    "objects": [
+      "young",
+      "main",
+      "this",
+      "child"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "They are wearing a blue shirt and are engaged in playtime in a room with various toys and furniture.",
+    "objects": [
+      "they",
+      "blue",
+      "shirt",
+      "furniture",
+      "toys",
+      "room",
+      "playtime"
+    ],
+    "actions": [
+      "wearing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "They are wearing a blue shirt and are engaged in playtime in a room with various toys and furniture.",
+    "objects": [
+      "they",
+      "blue",
+      "shirt",
+      "furniture",
+      "toys",
+      "room",
+      "playtime"
+    ],
+    "actions": [
+      "wearing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "They are wearing a blue shirt and are engaged in playtime in a room with various toys and furniture.",
+    "objects": [
+      "they",
+      "blue",
+      "shirt",
+      "furniture",
+      "toys",
+      "room",
+      "playtime"
+    ],
+    "actions": [
+      "wearing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child is actively exploring and interacting with the environment, crawling on the floor, and then sitting up.",
+    "objects": [
+      "environment",
+      "child",
+      "actively",
+      "then",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "exploring",
+      "crawling",
+      "interacting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The child is actively exploring and interacting with the environment, crawling on the floor, and then sitting up.",
+    "objects": [
+      "environment",
+      "child",
+      "actively",
+      "then",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "exploring",
+      "crawling",
+      "interacting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The child is actively exploring and interacting with the environment, crawling on the floor, and then sitting up.",
+    "objects": [
+      "environment",
+      "child",
+      "actively",
+      "then",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "exploring",
+      "crawling",
+      "interacting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They grab a green toy and bring it to their mouth, perhaps chewing on it or simply examining it.",
+    "objects": [
+      "they",
+      "their",
+      "mouth",
+      "simply",
+      "green",
+      "grab",
+      "toy"
+    ],
+    "actions": [
+      "bring",
+      "perhaps",
+      "chewing",
+      "examining"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They grab a green toy and bring it to their mouth, perhaps chewing on it or simply examining it.",
+    "objects": [
+      "they",
+      "their",
+      "mouth",
+      "simply",
+      "green",
+      "grab",
+      "toy"
+    ],
+    "actions": [
+      "bring",
+      "perhaps",
+      "chewing",
+      "examining"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They grab a green toy and bring it to their mouth, perhaps chewing on it or simply examining it.",
+    "objects": [
+      "they",
+      "their",
+      "mouth",
+      "simply",
+      "green",
+      "grab",
+      "toy"
+    ],
+    "actions": [
+      "bring",
+      "perhaps",
+      "chewing",
+      "examining"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The room has wooden floors and a white wall, and there is a yellow and red toy nearby.",
+    "objects": [
+      "wall",
+      "there",
+      "white",
+      "yellow",
+      "has",
+      "nearby",
+      "wooden",
+      "room"
+    ],
+    "actions": [
+      "floors",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The room has wooden floors and a white wall, and there is a yellow and red toy nearby.",
+    "objects": [
+      "wall",
+      "there",
+      "white",
+      "yellow",
+      "has",
+      "nearby",
+      "wooden",
+      "room"
+    ],
+    "actions": [
+      "floors",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The room has wooden floors and a white wall, and there is a yellow and red toy nearby.",
+    "objects": [
+      "wall",
+      "there",
+      "white",
+      "yellow",
+      "has",
+      "nearby",
+      "wooden",
+      "room"
+    ],
+    "actions": [
+      "floors",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The child is also seen sitting on a wooden chair with a red cushion.",
+    "objects": [
+      "chair",
+      "cushion",
+      "wooden",
+      "child"
+    ],
+    "actions": [
+      "sitting",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The child is also seen sitting on a wooden chair with a red cushion.",
+    "objects": [
+      "chair",
+      "cushion",
+      "wooden",
+      "child"
+    ],
+    "actions": [
+      "sitting",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The child is also seen sitting on a wooden chair with a red cushion.",
+    "objects": [
+      "chair",
+      "cushion",
+      "wooden",
+      "child"
+    ],
+    "actions": [
+      "sitting",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The toys on the floor include a blue hoodie, a silver car, and a green toy.",
+    "objects": [
+      "blue",
+      "green",
+      "silver",
+      "toy",
+      "include",
+      "toys",
+      "hoodie",
+      "car"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The toys on the floor include a blue hoodie, a silver car, and a green toy.",
+    "objects": [
+      "blue",
+      "green",
+      "silver",
+      "toy",
+      "include",
+      "toys",
+      "hoodie",
+      "car"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The toys on the floor include a blue hoodie, a silver car, and a green toy.",
+    "objects": [
+      "blue",
+      "green",
+      "silver",
+      "toy",
+      "include",
+      "toys",
+      "hoodie",
+      "car"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The child is seen walking, climbing on furniture, and standing on a green mat.",
+    "objects": [
+      "mat",
+      "furniture",
+      "green",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "climbing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The child is seen walking, climbing on furniture, and standing on a green mat.",
+    "objects": [
+      "mat",
+      "furniture",
+      "green",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "climbing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The child is seen walking, climbing on furniture, and standing on a green mat.",
+    "objects": [
+      "mat",
+      "furniture",
+      "green",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "climbing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "At one point, the child is seen holding a toy in their hand and sitting on the floor, and at another point, they are playing with a toy on the floor.",
+    "objects": [
+      "one",
+      "their",
+      "they",
+      "child",
+      "point",
+      "floor",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "At one point, the child is seen holding a toy in their hand and sitting on the floor, and at another point, they are playing with a toy on the floor.",
+    "objects": [
+      "one",
+      "their",
+      "they",
+      "child",
+      "point",
+      "floor",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "At one point, the child is seen holding a toy in their hand and sitting on the floor, and at another point, they are playing with a toy on the floor.",
+    "objects": [
+      "one",
+      "their",
+      "they",
+      "child",
+      "point",
+      "floor",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The child is also seen crawling on the floor, looking at something on the ground, and picking up a green toy with their hand.",
+    "objects": [
+      "their",
+      "child",
+      "green",
+      "toy",
+      "ground",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "something",
+      "looking",
+      "picking",
+      "crawling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The child is also seen crawling on the floor, looking at something on the ground, and picking up a green toy with their hand.",
+    "objects": [
+      "their",
+      "child",
+      "green",
+      "toy",
+      "ground",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "something",
+      "looking",
+      "picking",
+      "crawling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The child is also seen crawling on the floor, looking at something on the ground, and picking up a green toy with their hand.",
+    "objects": [
+      "their",
+      "child",
+      "green",
+      "toy",
+      "ground",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "something",
+      "looking",
+      "picking",
+      "crawling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is full of curiosity and playful exploration, with the child engaging with the objects around them.",
+    "objects": [
+      "full",
+      "child",
+      "exploration",
+      "around",
+      "them",
+      "curiosity",
+      "playful"
+    ],
+    "actions": [
+      "objects",
+      "engaging"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is full of curiosity and playful exploration, with the child engaging with the objects around them.",
+    "objects": [
+      "full",
+      "child",
+      "exploration",
+      "around",
+      "them",
+      "curiosity",
+      "playful"
+    ],
+    "actions": [
+      "objects",
+      "engaging"
+    ],
+    "segment_id": 10
+  }
+]

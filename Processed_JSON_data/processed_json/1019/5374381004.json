@@ -1,0 +1,520 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a small dog lying on a beige carpet in a room.",
+    "objects": [
+      "carpet",
+      "small",
+      "see",
+      "dog",
+      "room",
+      "beige"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a small dog lying on a beige carpet in a room.",
+    "objects": [
+      "carpet",
+      "small",
+      "see",
+      "dog",
+      "room",
+      "beige"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a small dog lying on a beige carpet in a room.",
+    "objects": [
+      "carpet",
+      "small",
+      "see",
+      "dog",
+      "room",
+      "beige"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a small dog lying on a beige carpet in a room.",
+    "objects": [
+      "carpet",
+      "small",
+      "see",
+      "dog",
+      "room",
+      "beige"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a small dog lying on a beige carpet in a room.",
+    "objects": [
+      "carpet",
+      "small",
+      "see",
+      "dog",
+      "room",
+      "beige"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog is wearing a blue collar and is playfully holding a red and blue toy in its mouth.",
+    "objects": [
+      "its",
+      "mouth",
+      "blue",
+      "collar",
+      "dog",
+      "playfully",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog is wearing a blue collar and is playfully holding a red and blue toy in its mouth.",
+    "objects": [
+      "its",
+      "mouth",
+      "blue",
+      "collar",
+      "dog",
+      "playfully",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog is wearing a blue collar and is playfully holding a red and blue toy in its mouth.",
+    "objects": [
+      "its",
+      "mouth",
+      "blue",
+      "collar",
+      "dog",
+      "playfully",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog is wearing a blue collar and is playfully holding a red and blue toy in its mouth.",
+    "objects": [
+      "its",
+      "mouth",
+      "blue",
+      "collar",
+      "dog",
+      "playfully",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog is wearing a blue collar and is playfully holding a red and blue toy in its mouth.",
+    "objects": [
+      "its",
+      "mouth",
+      "blue",
+      "collar",
+      "dog",
+      "playfully",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The room has a gray wall in the background.",
+    "objects": [
+      "room",
+      "wall",
+      "has",
+      "gray"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The room has a gray wall in the background.",
+    "objects": [
+      "room",
+      "wall",
+      "has",
+      "gray"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The room has a gray wall in the background.",
+    "objects": [
+      "room",
+      "wall",
+      "has",
+      "gray"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The room has a gray wall in the background.",
+    "objects": [
+      "room",
+      "wall",
+      "has",
+      "gray"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The room has a gray wall in the background.",
+    "objects": [
+      "room",
+      "wall",
+      "has",
+      "gray"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "In the foreground, there is a person wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "ball",
+      "blue",
+      "there",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the foreground, there is a person wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "ball",
+      "blue",
+      "there",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "In the foreground, there is a person wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "ball",
+      "blue",
+      "there",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "In the foreground, there is a person wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "ball",
+      "blue",
+      "there",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "In the foreground, there is a person wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "ball",
+      "blue",
+      "there",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The person is also holding a yellow toy in their hand.",
+    "objects": [
+      "their",
+      "yellow",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The person is also holding a yellow toy in their hand.",
+    "objects": [
+      "their",
+      "yellow",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The person is also holding a yellow toy in their hand.",
+    "objects": [
+      "their",
+      "yellow",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The person is also holding a yellow toy in their hand.",
+    "objects": [
+      "their",
+      "yellow",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The person is also holding a yellow toy in their hand.",
+    "objects": [
+      "their",
+      "yellow",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog seems to be enjoying the toy and is looking up at the person, possibly waiting for a game or interaction.",
+    "objects": [
+      "possibly",
+      "game",
+      "dog",
+      "interaction",
+      "toy"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "enjoying",
+      "waiting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog seems to be enjoying the toy and is looking up at the person, possibly waiting for a game or interaction.",
+    "objects": [
+      "possibly",
+      "game",
+      "dog",
+      "interaction",
+      "toy"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "enjoying",
+      "waiting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog seems to be enjoying the toy and is looking up at the person, possibly waiting for a game or interaction.",
+    "objects": [
+      "possibly",
+      "game",
+      "dog",
+      "interaction",
+      "toy"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "enjoying",
+      "waiting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog seems to be enjoying the toy and is looking up at the person, possibly waiting for a game or interaction.",
+    "objects": [
+      "possibly",
+      "game",
+      "dog",
+      "interaction",
+      "toy"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "enjoying",
+      "waiting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog seems to be enjoying the toy and is looking up at the person, possibly waiting for a game or interaction.",
+    "objects": [
+      "possibly",
+      "game",
+      "dog",
+      "interaction",
+      "toy"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "enjoying",
+      "waiting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall scene is a cute and playful moment between a pet and its owner, captured in a home setting.",
+    "objects": [
+      "its",
+      "home",
+      "owner",
+      "pet",
+      "cute",
+      "playful",
+      "overall",
+      "moment"
+    ],
+    "actions": [
+      "captured",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall scene is a cute and playful moment between a pet and its owner, captured in a home setting.",
+    "objects": [
+      "its",
+      "home",
+      "owner",
+      "pet",
+      "cute",
+      "playful",
+      "overall",
+      "moment"
+    ],
+    "actions": [
+      "captured",
+      "setting"
+    ],
+    "segment_id": 6
+  }
+]

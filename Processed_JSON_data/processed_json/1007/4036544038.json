@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a tranquil scene of a neighborhood pond surrounded by lush greenery.",
+    "objects": [
+      "greenery",
+      "tranquil",
+      "lush",
+      "neighborhood",
+      "pond",
+      "see"
+    ],
+    "actions": [
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a tranquil scene of a neighborhood pond surrounded by lush greenery.",
+    "objects": [
+      "greenery",
+      "tranquil",
+      "lush",
+      "neighborhood",
+      "pond",
+      "see"
+    ],
+    "actions": [
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a tranquil scene of a neighborhood pond surrounded by lush greenery.",
+    "objects": [
+      "greenery",
+      "tranquil",
+      "lush",
+      "neighborhood",
+      "pond",
+      "see"
+    ],
+    "actions": [
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a tranquil scene of a neighborhood pond surrounded by lush greenery.",
+    "objects": [
+      "greenery",
+      "tranquil",
+      "lush",
+      "neighborhood",
+      "pond",
+      "see"
+    ],
+    "actions": [
+      "surrounded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The water is calm and reflects the surrounding foliage.",
+    "objects": [
+      "calm",
+      "foliage",
+      "water"
+    ],
+    "actions": [
+      "reflects",
+      "surrounding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The water is calm and reflects the surrounding foliage.",
+    "objects": [
+      "calm",
+      "foliage",
+      "water"
+    ],
+    "actions": [
+      "reflects",
+      "surrounding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The water is calm and reflects the surrounding foliage.",
+    "objects": [
+      "calm",
+      "foliage",
+      "water"
+    ],
+    "actions": [
+      "reflects",
+      "surrounding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The water is calm and reflects the surrounding foliage.",
+    "objects": [
+      "calm",
+      "foliage",
+      "water"
+    ],
+    "actions": [
+      "reflects",
+      "surrounding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Two dogs are present, one black and one brown.",
+    "objects": [
+      "one",
+      "two",
+      "black",
+      "dogs",
+      "brown",
+      "present"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Two dogs are present, one black and one brown.",
+    "objects": [
+      "one",
+      "two",
+      "black",
+      "dogs",
+      "brown",
+      "present"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Two dogs are present, one black and one brown.",
+    "objects": [
+      "one",
+      "two",
+      "black",
+      "dogs",
+      "brown",
+      "present"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Two dogs are present, one black and one brown.",
+    "objects": [
+      "one",
+      "two",
+      "black",
+      "dogs",
+      "brown",
+      "present"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The black dog is wearing a blue collar, and it's walking on the grassy bank near the water, while the brown dog is on the opposite side, sitting and watching the black dog.",
+    "objects": [
+      "while",
+      "black",
+      "blue",
+      "collar",
+      "dog",
+      "bank",
+      "grassy",
+      "opposite"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "watching",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The black dog is wearing a blue collar, and it's walking on the grassy bank near the water, while the brown dog is on the opposite side, sitting and watching the black dog.",
+    "objects": [
+      "while",
+      "black",
+      "blue",
+      "collar",
+      "dog",
+      "bank",
+      "grassy",
+      "opposite"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "watching",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The black dog is wearing a blue collar, and it's walking on the grassy bank near the water, while the brown dog is on the opposite side, sitting and watching the black dog.",
+    "objects": [
+      "while",
+      "black",
+      "blue",
+      "collar",
+      "dog",
+      "bank",
+      "grassy",
+      "opposite"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "watching",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The black dog is wearing a blue collar, and it's walking on the grassy bank near the water, while the brown dog is on the opposite side, sitting and watching the black dog.",
+    "objects": [
+      "while",
+      "black",
+      "blue",
+      "collar",
+      "dog",
+      "bank",
+      "grassy",
+      "opposite"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "watching",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The black dog is also holding a blue frisbee in its mouth, perhaps indicating a playful interaction between the two.",
+    "objects": [
+      "frisbee",
+      "its",
+      "mouth",
+      "two",
+      "black",
+      "blue",
+      "dog",
+      "interaction"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "indicating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The black dog is also holding a blue frisbee in its mouth, perhaps indicating a playful interaction between the two.",
+    "objects": [
+      "frisbee",
+      "its",
+      "mouth",
+      "two",
+      "black",
+      "blue",
+      "dog",
+      "interaction"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "indicating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The black dog is also holding a blue frisbee in its mouth, perhaps indicating a playful interaction between the two.",
+    "objects": [
+      "frisbee",
+      "its",
+      "mouth",
+      "two",
+      "black",
+      "blue",
+      "dog",
+      "interaction"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "indicating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The black dog is also holding a blue frisbee in its mouth, perhaps indicating a playful interaction between the two.",
+    "objects": [
+      "frisbee",
+      "its",
+      "mouth",
+      "two",
+      "black",
+      "blue",
+      "dog",
+      "interaction"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "indicating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The brown dog seems to be waiting for its turn to play.",
+    "objects": [
+      "its",
+      "play",
+      "turn",
+      "dog",
+      "brown"
+    ],
+    "actions": [
+      "seems",
+      "waiting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The brown dog seems to be waiting for its turn to play.",
+    "objects": [
+      "its",
+      "play",
+      "turn",
+      "dog",
+      "brown"
+    ],
+    "actions": [
+      "seems",
+      "waiting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The brown dog seems to be waiting for its turn to play.",
+    "objects": [
+      "its",
+      "play",
+      "turn",
+      "dog",
+      "brown"
+    ],
+    "actions": [
+      "seems",
+      "waiting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The brown dog seems to be waiting for its turn to play.",
+    "objects": [
+      "its",
+      "play",
+      "turn",
+      "dog",
+      "brown"
+    ],
+    "actions": [
+      "seems",
+      "waiting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is peaceful and serene, with no people visible in the shot.",
+    "objects": [
+      "serene",
+      "people",
+      "peaceful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is peaceful and serene, with no people visible in the shot.",
+    "objects": [
+      "serene",
+      "people",
+      "peaceful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is peaceful and serene, with no people visible in the shot.",
+    "objects": [
+      "serene",
+      "people",
+      "peaceful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is peaceful and serene, with no people visible in the shot.",
+    "objects": [
+      "serene",
+      "people",
+      "peaceful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The setting is a suburban neighborhood with houses visible in the background, suggesting a typical day in the life of the dogs and their surroundings.",
+    "objects": [
+      "their",
+      "suburban",
+      "typical",
+      "neighborhood",
+      "day",
+      "dogs",
+      "life"
+    ],
+    "actions": [
+      "houses",
+      "suggesting",
+      "surroundings",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The setting is a suburban neighborhood with houses visible in the background, suggesting a typical day in the life of the dogs and their surroundings.",
+    "objects": [
+      "their",
+      "suburban",
+      "typical",
+      "neighborhood",
+      "day",
+      "dogs",
+      "life"
+    ],
+    "actions": [
+      "houses",
+      "suggesting",
+      "surroundings",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The setting is a suburban neighborhood with houses visible in the background, suggesting a typical day in the life of the dogs and their surroundings.",
+    "objects": [
+      "their",
+      "suburban",
+      "typical",
+      "neighborhood",
+      "day",
+      "dogs",
+      "life"
+    ],
+    "actions": [
+      "houses",
+      "suggesting",
+      "surroundings",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The setting is a suburban neighborhood with houses visible in the background, suggesting a typical day in the life of the dogs and their surroundings.",
+    "objects": [
+      "their",
+      "suburban",
+      "typical",
+      "neighborhood",
+      "day",
+      "dogs",
+      "life"
+    ],
+    "actions": [
+      "houses",
+      "suggesting",
+      "surroundings",
+      "setting"
+    ],
+    "segment_id": 7
+  }
+]

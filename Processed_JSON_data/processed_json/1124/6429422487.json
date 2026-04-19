@@ -1,0 +1,548 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a scene where a man is sitting at his desk, working on his laptop.",
+    "objects": [
+      "desk",
+      "man",
+      "his",
+      "laptop",
+      "where"
+    ],
+    "actions": [
+      "sitting",
+      "opens",
+      "working"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a scene where a man is sitting at his desk, working on his laptop.",
+    "objects": [
+      "desk",
+      "man",
+      "his",
+      "laptop",
+      "where"
+    ],
+    "actions": [
+      "sitting",
+      "opens",
+      "working"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "He appears focused on his screen, possibly typing or browsing the internet.",
+    "objects": [
+      "internet",
+      "his",
+      "screen",
+      "possibly"
+    ],
+    "actions": [
+      "typing",
+      "focused",
+      "browsing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "He appears focused on his screen, possibly typing or browsing the internet.",
+    "objects": [
+      "internet",
+      "his",
+      "screen",
+      "possibly"
+    ],
+    "actions": [
+      "typing",
+      "focused",
+      "browsing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room around him is dimly lit, creating an atmosphere of concentration and productivity.",
+    "objects": [
+      "concentration",
+      "dimly",
+      "around",
+      "room",
+      "him",
+      "productivity",
+      "lit",
+      "atmosphere"
+    ],
+    "actions": [
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The room around him is dimly lit, creating an atmosphere of concentration and productivity.",
+    "objects": [
+      "concentration",
+      "dimly",
+      "around",
+      "room",
+      "him",
+      "productivity",
+      "lit",
+      "atmosphere"
+    ],
+    "actions": [
+      "creating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The desk is well-organized with various objects on it, including a computer mouse, a keyboard, and a cup.",
+    "objects": [
+      "computer",
+      "cup",
+      "desk",
+      "keyboard",
+      "mouse"
+    ],
+    "actions": [
+      "objects",
+      "well-organized"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The desk is well-organized with various objects on it, including a computer mouse, a keyboard, and a cup.",
+    "objects": [
+      "computer",
+      "cup",
+      "desk",
+      "keyboard",
+      "mouse"
+    ],
+    "actions": [
+      "objects",
+      "well-organized"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The man's attire is casual, suggesting a relaxed work environment.",
+    "objects": [
+      "environment",
+      "attire",
+      "casual",
+      "work"
+    ],
+    "actions": [
+      "man's",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The man's attire is casual, suggesting a relaxed work environment.",
+    "objects": [
+      "environment",
+      "attire",
+      "casual",
+      "work"
+    ],
+    "actions": [
+      "man's",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The next scene shows a man sitting at another desk, wearing a black shirt, staring blankly at his computer screen.",
+    "objects": [
+      "computer",
+      "desk",
+      "man",
+      "his",
+      "blankly",
+      "shirt",
+      "screen",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "staring"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The next scene shows a man sitting at another desk, wearing a black shirt, staring blankly at his computer screen.",
+    "objects": [
+      "computer",
+      "desk",
+      "man",
+      "his",
+      "blankly",
+      "shirt",
+      "screen",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "staring"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "He seems to be in deep thought or possibly in a meeting, given his posture.",
+    "objects": [
+      "his",
+      "thought",
+      "deep",
+      "posture",
+      "given",
+      "possibly"
+    ],
+    "actions": [
+      "meeting",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "He seems to be in deep thought or possibly in a meeting, given his posture.",
+    "objects": [
+      "his",
+      "thought",
+      "deep",
+      "posture",
+      "given",
+      "possibly"
+    ],
+    "actions": [
+      "meeting",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The room around him is more well-lit than the previous scene, suggesting a shift in the time of day or the mood of the workspace.",
+    "objects": [
+      "more",
+      "shift",
+      "around",
+      "room",
+      "than",
+      "him",
+      "day",
+      "time"
+    ],
+    "actions": [
+      "previous",
+      "suggesting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The room around him is more well-lit than the previous scene, suggesting a shift in the time of day or the mood of the workspace.",
+    "objects": [
+      "more",
+      "shift",
+      "around",
+      "room",
+      "than",
+      "him",
+      "day",
+      "time"
+    ],
+    "actions": [
+      "previous",
+      "suggesting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The third scene features a man in a white shirt, standing and walking away from the camera.",
+    "objects": [
+      "white",
+      "away",
+      "man",
+      "shirt",
+      "from",
+      "third"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "features"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The third scene features a man in a white shirt, standing and walking away from the camera.",
+    "objects": [
+      "white",
+      "away",
+      "man",
+      "shirt",
+      "from",
+      "third"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "features"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "He carries a backpack, indicating that he might be a student or a professional on the move.",
+    "objects": [
+      "student",
+      "move",
+      "that",
+      "backpack",
+      "might",
+      "professional"
+    ],
+    "actions": [
+      "indicating",
+      "carries"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "He carries a backpack, indicating that he might be a student or a professional on the move.",
+    "objects": [
+      "student",
+      "move",
+      "that",
+      "backpack",
+      "might",
+      "professional"
+    ],
+    "actions": [
+      "indicating",
+      "carries"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "His attire is casual, and he seems to be in a hurry.",
+    "objects": [
+      "hurry",
+      "attire",
+      "his",
+      "casual"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "His attire is casual, and he seems to be in a hurry.",
+    "objects": [
+      "hurry",
+      "attire",
+      "his",
+      "casual"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The final scene shows a man in a red shirt, walking away from the camera.",
+    "objects": [
+      "away",
+      "man",
+      "final",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "red",
+      "walking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The final scene shows a man in a red shirt, walking away from the camera.",
+    "objects": [
+      "away",
+      "man",
+      "final",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "red",
+      "walking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "He holds a book in his hand, suggesting that he might be a student or a professional engaged in reading or studying.",
+    "objects": [
+      "student",
+      "hand",
+      "his",
+      "that",
+      "book",
+      "might",
+      "professional"
+    ],
+    "actions": [
+      "holds",
+      "suggesting",
+      "studying",
+      "reading"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "He holds a book in his hand, suggesting that he might be a student or a professional engaged in reading or studying.",
+    "objects": [
+      "student",
+      "hand",
+      "his",
+      "that",
+      "book",
+      "might",
+      "professional"
+    ],
+    "actions": [
+      "holds",
+      "suggesting",
+      "studying",
+      "reading"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The room around him is brightly lit, indicating that it's daytime.",
+    "objects": [
+      "around",
+      "room",
+      "daytime",
+      "him",
+      "that",
+      "brightly",
+      "lit"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The room around him is brightly lit, indicating that it's daytime.",
+    "objects": [
+      "around",
+      "room",
+      "daytime",
+      "him",
+      "that",
+      "brightly",
+      "lit"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Throughout the video, we see a man in a blue shirt standing up, walking away from the camera.",
+    "objects": [
+      "blue",
+      "away",
+      "man",
+      "shirt",
+      "throughout",
+      "from",
+      "see"
+    ],
+    "actions": [
+      "walking",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Throughout the video, we see a man in a blue shirt standing up, walking away from the camera.",
+    "objects": [
+      "blue",
+      "away",
+      "man",
+      "shirt",
+      "throughout",
+      "from",
+      "see"
+    ],
+    "actions": [
+      "walking",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "His attire is casual, and he seems to be in a hurry.",
+    "objects": [
+      "hurry",
+      "attire",
+      "his",
+      "casual"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "His attire is casual, and he seems to be in a hurry.",
+    "objects": [
+      "hurry",
+      "attire",
+      "his",
+      "casual"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 15
+  }
+]

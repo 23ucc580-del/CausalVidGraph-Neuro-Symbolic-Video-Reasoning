@@ -1,0 +1,572 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the heart of a cozy living room, a lively video game session unfolds.",
+    "objects": [
+      "heart",
+      "session",
+      "lively",
+      "game",
+      "cozy",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "unfolds"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the heart of a cozy living room, a lively video game session unfolds.",
+    "objects": [
+      "heart",
+      "session",
+      "lively",
+      "game",
+      "cozy",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "unfolds"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "Two young boys, dressed in blue hoodies and black pants, are engrossed in a virtual rock band performance on the Nintendo Wii.",
+    "objects": [
+      "band",
+      "two",
+      "rock",
+      "black",
+      "blue",
+      "boys",
+      "virtual",
+      "performance"
+    ],
+    "actions": [
+      "hoodies",
+      "dressed",
+      "pants",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "Two young boys, dressed in blue hoodies and black pants, are engrossed in a virtual rock band performance on the Nintendo Wii.",
+    "objects": [
+      "band",
+      "two",
+      "rock",
+      "black",
+      "blue",
+      "boys",
+      "virtual",
+      "performance"
+    ],
+    "actions": [
+      "hoodies",
+      "dressed",
+      "pants",
+      "engrossed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "One boy, wearing a gray t-shirt and holding a white guitar, is immersed in the game, his fingers dancing across the Wii remote.",
+    "objects": [
+      "one",
+      "boy",
+      "white",
+      "across",
+      "guitar",
+      "gray",
+      "game",
+      "wii"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "dancing",
+      "immersed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "One boy, wearing a gray t-shirt and holding a white guitar, is immersed in the game, his fingers dancing across the Wii remote.",
+    "objects": [
+      "one",
+      "boy",
+      "white",
+      "across",
+      "guitar",
+      "gray",
+      "game",
+      "wii"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "dancing",
+      "immersed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "His companion, sporting a blue shirt and black pants, mirrors his actions with a white guitar in hand.",
+    "objects": [
+      "white",
+      "black",
+      "blue",
+      "guitar",
+      "shirt",
+      "his",
+      "companion",
+      "hand"
+    ],
+    "actions": [
+      "actions",
+      "mirrors",
+      "pants",
+      "sporting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "His companion, sporting a blue shirt and black pants, mirrors his actions with a white guitar in hand.",
+    "objects": [
+      "white",
+      "black",
+      "blue",
+      "guitar",
+      "shirt",
+      "his",
+      "companion",
+      "hand"
+    ],
+    "actions": [
+      "actions",
+      "mirrors",
+      "pants",
+      "sporting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The television screen, alive with a vibrant video game, is their stage.",
+    "objects": [
+      "their",
+      "screen",
+      "vibrant",
+      "alive",
+      "game",
+      "stage",
+      "television"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The television screen, alive with a vibrant video game, is their stage.",
+    "objects": [
+      "their",
+      "screen",
+      "vibrant",
+      "alive",
+      "game",
+      "stage",
+      "television"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The room they're in is a symphony of comfort and color.",
+    "objects": [
+      "room",
+      "color",
+      "symphony",
+      "comfort"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The room they're in is a symphony of comfort and color.",
+    "objects": [
+      "room",
+      "color",
+      "symphony",
+      "comfort"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "A red rug lies on the floor, adding a pop of warmth to the room.",
+    "objects": [
+      "warmth",
+      "lies",
+      "pop",
+      "room",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "adding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "A red rug lies on the floor, adding a pop of warmth to the room.",
+    "objects": [
+      "warmth",
+      "lies",
+      "pop",
+      "room",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "adding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A bookshelf stands nearby, housing a collection of books and toys, hinting at stories waiting to be told.",
+    "objects": [
+      "bookshelf",
+      "told",
+      "toys",
+      "collection",
+      "nearby"
+    ],
+    "actions": [
+      "housing",
+      "stories",
+      "stands",
+      "hinting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A bookshelf stands nearby, housing a collection of books and toys, hinting at stories waiting to be told.",
+    "objects": [
+      "bookshelf",
+      "told",
+      "toys",
+      "collection",
+      "nearby"
+    ],
+    "actions": [
+      "housing",
+      "stories",
+      "stands",
+      "hinting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A black couch sits in the background, its soft cushions inviting relaxation.",
+    "objects": [
+      "its",
+      "soft",
+      "relaxation",
+      "black",
+      "couch",
+      "sits"
+    ],
+    "actions": [
+      "inviting",
+      "cushions"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A black couch sits in the background, its soft cushions inviting relaxation.",
+    "objects": [
+      "its",
+      "soft",
+      "relaxation",
+      "black",
+      "couch",
+      "sits"
+    ],
+    "actions": [
+      "inviting",
+      "cushions"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A green plant is perched on the window sill, bringing a touch of nature indoors.",
+    "objects": [
+      "plant",
+      "green",
+      "touch",
+      "nature",
+      "window",
+      "sill"
+    ],
+    "actions": [
+      "bringing",
+      "perched",
+      "indoors"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A green plant is perched on the window sill, bringing a touch of nature indoors.",
+    "objects": [
+      "plant",
+      "green",
+      "touch",
+      "nature",
+      "window",
+      "sill"
+    ],
+    "actions": [
+      "bringing",
+      "perched",
+      "indoors"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A red vase is also present, its vibrant color adding to the room's aesthetic.",
+    "objects": [
+      "its",
+      "vibrant",
+      "vase",
+      "aesthetic",
+      "color",
+      "present"
+    ],
+    "actions": [
+      "adding",
+      "red",
+      "room's"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A red vase is also present, its vibrant color adding to the room's aesthetic.",
+    "objects": [
+      "its",
+      "vibrant",
+      "vase",
+      "aesthetic",
+      "color",
+      "present"
+    ],
+    "actions": [
+      "adding",
+      "red",
+      "room's"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "Their surroundings are as much a part of the scene as they are.",
+    "objects": [
+      "their",
+      "they",
+      "much",
+      "part"
+    ],
+    "actions": [
+      "surroundings"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "Their surroundings are as much a part of the scene as they are.",
+    "objects": [
+      "their",
+      "they",
+      "much",
+      "part"
+    ],
+    "actions": [
+      "surroundings"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The wall behind them is painted white, a blank canvas for their creative world.",
+    "objects": [
+      "their",
+      "wall",
+      "world",
+      "behind",
+      "white",
+      "blank",
+      "them",
+      "creative"
+    ],
+    "actions": [
+      "painted",
+      "canvas"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The wall behind them is painted white, a blank canvas for their creative world.",
+    "objects": [
+      "their",
+      "wall",
+      "world",
+      "behind",
+      "white",
+      "blank",
+      "them",
+      "creative"
+    ],
+    "actions": [
+      "painted",
+      "canvas"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The ceiling above is painted gray, a neutral backdrop for the lively scene below.",
+    "objects": [
+      "neutral",
+      "above",
+      "backdrop",
+      "gray",
+      "lively",
+      "below"
+    ],
+    "actions": [
+      "painted",
+      "ceiling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The ceiling above is painted gray, a neutral backdrop for the lively scene below.",
+    "objects": [
+      "neutral",
+      "above",
+      "backdrop",
+      "gray",
+      "lively",
+      "below"
+    ],
+    "actions": [
+      "painted",
+      "ceiling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The floor beneath is made of wood, its natural tones complementing the room's decor.",
+    "objects": [
+      "wood",
+      "its",
+      "natural",
+      "made",
+      "decor",
+      "beneath",
+      "floor"
+    ],
+    "actions": [
+      "complementing",
+      "room's",
+      "tones"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The floor beneath is made of wood, its natural tones complementing the room's decor.",
+    "objects": [
+      "wood",
+      "its",
+      "natural",
+      "made",
+      "decor",
+      "beneath",
+      "floor"
+    ],
+    "actions": [
+      "complementing",
+      "room's",
+      "tones"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is one of joy and camaraderie, a snapshot of childhood innocence and fun.",
+    "objects": [
+      "one",
+      "childhood",
+      "snapshot",
+      "innocence",
+      "fun",
+      "camaraderie",
+      "joy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is one of joy and camaraderie, a snapshot of childhood innocence and fun.",
+    "objects": [
+      "one",
+      "childhood",
+      "snapshot",
+      "innocence",
+      "fun",
+      "camaraderie",
+      "joy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  }
+]

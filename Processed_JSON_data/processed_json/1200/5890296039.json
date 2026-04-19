@@ -1,0 +1,622 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features a lively concert scene with a group of musicians performing on stage.",
+    "objects": [
+      "concert",
+      "stage",
+      "group",
+      "lively"
+    ],
+    "actions": [
+      "musicians",
+      "performing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features a lively concert scene with a group of musicians performing on stage.",
+    "objects": [
+      "concert",
+      "stage",
+      "group",
+      "lively"
+    ],
+    "actions": [
+      "musicians",
+      "performing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video features a lively concert scene with a group of musicians performing on stage.",
+    "objects": [
+      "concert",
+      "stage",
+      "group",
+      "lively"
+    ],
+    "actions": [
+      "musicians",
+      "performing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The stage is bathed in a vibrant mix of blue and white lights, creating a dynamic atmosphere.",
+    "objects": [
+      "white",
+      "blue",
+      "dynamic",
+      "stage",
+      "mix",
+      "atmosphere",
+      "vibrant"
+    ],
+    "actions": [
+      "lights",
+      "bathed",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The stage is bathed in a vibrant mix of blue and white lights, creating a dynamic atmosphere.",
+    "objects": [
+      "white",
+      "blue",
+      "dynamic",
+      "stage",
+      "mix",
+      "atmosphere",
+      "vibrant"
+    ],
+    "actions": [
+      "lights",
+      "bathed",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The stage is bathed in a vibrant mix of blue and white lights, creating a dynamic atmosphere.",
+    "objects": [
+      "white",
+      "blue",
+      "dynamic",
+      "stage",
+      "mix",
+      "atmosphere",
+      "vibrant"
+    ],
+    "actions": [
+      "lights",
+      "bathed",
+      "creating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman in a white dress stands out prominently, holding a microphone and singing into it, her voice resonating through the room.",
+    "objects": [
+      "white",
+      "prominently",
+      "room",
+      "her",
+      "microphone",
+      "dress",
+      "voice",
+      "out"
+    ],
+    "actions": [
+      "resonating",
+      "singing",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman in a white dress stands out prominently, holding a microphone and singing into it, her voice resonating through the room.",
+    "objects": [
+      "white",
+      "prominently",
+      "room",
+      "her",
+      "microphone",
+      "dress",
+      "voice",
+      "out"
+    ],
+    "actions": [
+      "resonating",
+      "singing",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A woman in a white dress stands out prominently, holding a microphone and singing into it, her voice resonating through the room.",
+    "objects": [
+      "white",
+      "prominently",
+      "room",
+      "her",
+      "microphone",
+      "dress",
+      "voice",
+      "out"
+    ],
+    "actions": [
+      "resonating",
+      "singing",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "To her right, a man in a black hat is playing the drums, his fingers dancing over the cymbals, and behind him, a man in a white shirt is strumming a guitar, his fingers moving in perfect sync with the rhythm.",
+    "objects": [
+      "white",
+      "guitar",
+      "her",
+      "man",
+      "over",
+      "his",
+      "him",
+      "rhythm"
+    ],
+    "actions": [
+      "drums",
+      "fingers",
+      "moving",
+      "dancing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "To her right, a man in a black hat is playing the drums, his fingers dancing over the cymbals, and behind him, a man in a white shirt is strumming a guitar, his fingers moving in perfect sync with the rhythm.",
+    "objects": [
+      "white",
+      "guitar",
+      "her",
+      "man",
+      "over",
+      "his",
+      "him",
+      "rhythm"
+    ],
+    "actions": [
+      "drums",
+      "fingers",
+      "moving",
+      "dancing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "To her right, a man in a black hat is playing the drums, his fingers dancing over the cymbals, and behind him, a man in a white shirt is strumming a guitar, his fingers moving in perfect sync with the rhythm.",
+    "objects": [
+      "white",
+      "guitar",
+      "her",
+      "man",
+      "over",
+      "his",
+      "him",
+      "rhythm"
+    ],
+    "actions": [
+      "drums",
+      "fingers",
+      "moving",
+      "dancing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "On the left side of the stage, a man in a blue shirt is also playing the guitar, his fingers moving with the melody.",
+    "objects": [
+      "blue",
+      "guitar",
+      "stage",
+      "man",
+      "side",
+      "his",
+      "shirt",
+      "melody"
+    ],
+    "actions": [
+      "fingers",
+      "playing",
+      "moving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "On the left side of the stage, a man in a blue shirt is also playing the guitar, his fingers moving with the melody.",
+    "objects": [
+      "blue",
+      "guitar",
+      "stage",
+      "man",
+      "side",
+      "his",
+      "shirt",
+      "melody"
+    ],
+    "actions": [
+      "fingers",
+      "playing",
+      "moving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "On the left side of the stage, a man in a blue shirt is also playing the guitar, his fingers moving with the melody.",
+    "objects": [
+      "blue",
+      "guitar",
+      "stage",
+      "man",
+      "side",
+      "his",
+      "shirt",
+      "melody"
+    ],
+    "actions": [
+      "fingers",
+      "playing",
+      "moving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The rhythm section, consisting of a man in a white shirt playing the drums and a woman in a white dress playing the bass, are in sync with each other and the guitarists, their movements reflecting the beat of the music.",
+    "objects": [
+      "white",
+      "section",
+      "beat",
+      "man",
+      "each",
+      "rhythm",
+      "dress",
+      "other"
+    ],
+    "actions": [
+      "movements",
+      "drums",
+      "guitarists",
+      "consisting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The rhythm section, consisting of a man in a white shirt playing the drums and a woman in a white dress playing the bass, are in sync with each other and the guitarists, their movements reflecting the beat of the music.",
+    "objects": [
+      "white",
+      "section",
+      "beat",
+      "man",
+      "each",
+      "rhythm",
+      "dress",
+      "other"
+    ],
+    "actions": [
+      "movements",
+      "drums",
+      "guitarists",
+      "consisting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The rhythm section, consisting of a man in a white shirt playing the drums and a woman in a white dress playing the bass, are in sync with each other and the guitarists, their movements reflecting the beat of the music.",
+    "objects": [
+      "white",
+      "section",
+      "beat",
+      "man",
+      "each",
+      "rhythm",
+      "dress",
+      "other"
+    ],
+    "actions": [
+      "movements",
+      "drums",
+      "guitarists",
+      "consisting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman in the white dress appears to be singing along, her voice blending with the sound of the guitars.",
+    "objects": [
+      "white",
+      "her",
+      "sound",
+      "dress",
+      "voice",
+      "along",
+      "woman"
+    ],
+    "actions": [
+      "guitars",
+      "singing",
+      "blending"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman in the white dress appears to be singing along, her voice blending with the sound of the guitars.",
+    "objects": [
+      "white",
+      "her",
+      "sound",
+      "dress",
+      "voice",
+      "along",
+      "woman"
+    ],
+    "actions": [
+      "guitars",
+      "singing",
+      "blending"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman in the white dress appears to be singing along, her voice blending with the sound of the guitars.",
+    "objects": [
+      "white",
+      "her",
+      "sound",
+      "dress",
+      "voice",
+      "along",
+      "woman"
+    ],
+    "actions": [
+      "guitars",
+      "singing",
+      "blending"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The drummer is wearing a blue shirt, while the bass player is dressed in white.",
+    "objects": [
+      "white",
+      "blue",
+      "player",
+      "while",
+      "shirt",
+      "bass",
+      "drummer"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The drummer is wearing a blue shirt, while the bass player is dressed in white.",
+    "objects": [
+      "white",
+      "blue",
+      "player",
+      "while",
+      "shirt",
+      "bass",
+      "drummer"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The drummer is wearing a blue shirt, while the bass player is dressed in white.",
+    "objects": [
+      "white",
+      "blue",
+      "player",
+      "while",
+      "shirt",
+      "bass",
+      "drummer"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The keyboardist, who is wearing a white shirt, is skillfully playing the instrument, his fingers dancing across the keys.",
+    "objects": [
+      "white",
+      "across",
+      "instrument",
+      "keys",
+      "keyboardist",
+      "his",
+      "shirt",
+      "skillfully"
+    ],
+    "actions": [
+      "fingers",
+      "dancing",
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The keyboardist, who is wearing a white shirt, is skillfully playing the instrument, his fingers dancing across the keys.",
+    "objects": [
+      "white",
+      "across",
+      "instrument",
+      "keys",
+      "keyboardist",
+      "his",
+      "shirt",
+      "skillfully"
+    ],
+    "actions": [
+      "fingers",
+      "dancing",
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The keyboardist, who is wearing a white shirt, is skillfully playing the instrument, his fingers dancing across the keys.",
+    "objects": [
+      "white",
+      "across",
+      "instrument",
+      "keys",
+      "keyboardist",
+      "his",
+      "shirt",
+      "skillfully"
+    ],
+    "actions": [
+      "fingers",
+      "dancing",
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The guitarist on the left, dressed in a blue shirt, is also playing the guitar, his fingers following the notes.",
+    "objects": [
+      "guitarist",
+      "blue",
+      "guitar",
+      "his",
+      "shirt"
+    ],
+    "actions": [
+      "fingers",
+      "dressed",
+      "following",
+      "notes"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The guitarist on the left, dressed in a blue shirt, is also playing the guitar, his fingers following the notes.",
+    "objects": [
+      "guitarist",
+      "blue",
+      "guitar",
+      "his",
+      "shirt"
+    ],
+    "actions": [
+      "fingers",
+      "dressed",
+      "following",
+      "notes"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The guitarist on the left, dressed in a blue shirt, is also playing the guitar, his fingers following the notes.",
+    "objects": [
+      "guitarist",
+      "blue",
+      "guitar",
+      "his",
+      "shirt"
+    ],
+    "actions": [
+      "fingers",
+      "dressed",
+      "following",
+      "notes"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The guitarist on the right, wearing a black shirt, is strumming his guitar, his fingers moving in a coordinated fashion.",
+    "objects": [
+      "guitarist",
+      "guitar",
+      "his",
+      "shirt",
+      "fashion",
+      "black"
+    ],
+    "actions": [
+      "fingers",
+      "moving",
+      "coordinated",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The guitarist on the right, wearing a black shirt, is strumming his guitar, his fingers moving in a coordinated fashion.",
+    "objects": [
+      "guitarist",
+      "guitar",
+      "his",
+      "shirt",
+      "fashion",
+      "black"
+    ],
+    "actions": [
+      "fingers",
+      "moving",
+      "coordinated",
+      "wearing"
+    ],
+    "segment_id": 10
+  }
+]

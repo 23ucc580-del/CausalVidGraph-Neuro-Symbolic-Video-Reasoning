@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a baby is the central figure, wearing a blue hoodie and a black car seatbelt.",
+    "objects": [
+      "central",
+      "black",
+      "blue",
+      "seatbelt",
+      "hoodie",
+      "car",
+      "baby",
+      "figure"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a baby is the central figure, wearing a blue hoodie and a black car seatbelt.",
+    "objects": [
+      "central",
+      "black",
+      "blue",
+      "seatbelt",
+      "hoodie",
+      "car",
+      "baby",
+      "figure"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a baby is the central figure, wearing a blue hoodie and a black car seatbelt.",
+    "objects": [
+      "central",
+      "black",
+      "blue",
+      "seatbelt",
+      "hoodie",
+      "car",
+      "baby",
+      "figure"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a baby is the central figure, wearing a blue hoodie and a black car seatbelt.",
+    "objects": [
+      "central",
+      "black",
+      "blue",
+      "seatbelt",
+      "hoodie",
+      "car",
+      "baby",
+      "figure"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The baby is sitting in a stroller and smiling as it reaches out to grab the handle of the stroller.",
+    "objects": [
+      "handle",
+      "stroller",
+      "out",
+      "grab",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "reaches",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby is sitting in a stroller and smiling as it reaches out to grab the handle of the stroller.",
+    "objects": [
+      "handle",
+      "stroller",
+      "out",
+      "grab",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "reaches",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby is sitting in a stroller and smiling as it reaches out to grab the handle of the stroller.",
+    "objects": [
+      "handle",
+      "stroller",
+      "out",
+      "grab",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "reaches",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby is sitting in a stroller and smiling as it reaches out to grab the handle of the stroller.",
+    "objects": [
+      "handle",
+      "stroller",
+      "out",
+      "grab",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "reaches",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The stroller is parked on a wooden floor, and the baby's hand is extended towards the handle.",
+    "objects": [
+      "handle",
+      "stroller",
+      "wooden",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "extended",
+      "baby's",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The stroller is parked on a wooden floor, and the baby's hand is extended towards the handle.",
+    "objects": [
+      "handle",
+      "stroller",
+      "wooden",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "extended",
+      "baby's",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The stroller is parked on a wooden floor, and the baby's hand is extended towards the handle.",
+    "objects": [
+      "handle",
+      "stroller",
+      "wooden",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "extended",
+      "baby's",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The stroller is parked on a wooden floor, and the baby's hand is extended towards the handle.",
+    "objects": [
+      "handle",
+      "stroller",
+      "wooden",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "towards",
+      "extended",
+      "baby's",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby seems to be enjoying the moment, with a wide smile on its face, indicating a sense of curiosity or excitement.",
+    "objects": [
+      "wide",
+      "its",
+      "face",
+      "sense",
+      "excitement",
+      "curiosity",
+      "moment",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby seems to be enjoying the moment, with a wide smile on its face, indicating a sense of curiosity or excitement.",
+    "objects": [
+      "wide",
+      "its",
+      "face",
+      "sense",
+      "excitement",
+      "curiosity",
+      "moment",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby seems to be enjoying the moment, with a wide smile on its face, indicating a sense of curiosity or excitement.",
+    "objects": [
+      "wide",
+      "its",
+      "face",
+      "sense",
+      "excitement",
+      "curiosity",
+      "moment",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby seems to be enjoying the moment, with a wide smile on its face, indicating a sense of curiosity or excitement.",
+    "objects": [
+      "wide",
+      "its",
+      "face",
+      "sense",
+      "excitement",
+      "curiosity",
+      "moment",
+      "baby"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene captures a candid moment of a child exploring its environment and interacting with its surroundings.",
+    "objects": [
+      "candid",
+      "its",
+      "environment",
+      "child",
+      "moment"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene captures a candid moment of a child exploring its environment and interacting with its surroundings.",
+    "objects": [
+      "candid",
+      "its",
+      "environment",
+      "child",
+      "moment"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene captures a candid moment of a child exploring its environment and interacting with its surroundings.",
+    "objects": [
+      "candid",
+      "its",
+      "environment",
+      "child",
+      "moment"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene captures a candid moment of a child exploring its environment and interacting with its surroundings.",
+    "objects": [
+      "candid",
+      "its",
+      "environment",
+      "child",
+      "moment"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The blue hoodie and black car seatbelt suggest a sense of safety and comfort for the baby, and the wooden floor provides a natural and warm ambiance.",
+    "objects": [
+      "natural",
+      "comfort",
+      "black",
+      "ambiance",
+      "blue",
+      "sense",
+      "warm",
+      "seatbelt"
+    ],
+    "actions": [
+      "provides"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The blue hoodie and black car seatbelt suggest a sense of safety and comfort for the baby, and the wooden floor provides a natural and warm ambiance.",
+    "objects": [
+      "natural",
+      "comfort",
+      "black",
+      "ambiance",
+      "blue",
+      "sense",
+      "warm",
+      "seatbelt"
+    ],
+    "actions": [
+      "provides"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The blue hoodie and black car seatbelt suggest a sense of safety and comfort for the baby, and the wooden floor provides a natural and warm ambiance.",
+    "objects": [
+      "natural",
+      "comfort",
+      "black",
+      "ambiance",
+      "blue",
+      "sense",
+      "warm",
+      "seatbelt"
+    ],
+    "actions": [
+      "provides"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The blue hoodie and black car seatbelt suggest a sense of safety and comfort for the baby, and the wooden floor provides a natural and warm ambiance.",
+    "objects": [
+      "natural",
+      "comfort",
+      "black",
+      "ambiance",
+      "blue",
+      "sense",
+      "warm",
+      "seatbelt"
+    ],
+    "actions": [
+      "provides"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The baby's smile indicates a positive emotional state, suggesting a sense of happiness or contentment.",
+    "objects": [
+      "positive",
+      "state",
+      "contentment",
+      "sense",
+      "emotional",
+      "smile"
+    ],
+    "actions": [
+      "indicates",
+      "suggesting",
+      "baby's",
+      "happiness"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The baby's smile indicates a positive emotional state, suggesting a sense of happiness or contentment.",
+    "objects": [
+      "positive",
+      "state",
+      "contentment",
+      "sense",
+      "emotional",
+      "smile"
+    ],
+    "actions": [
+      "indicates",
+      "suggesting",
+      "baby's",
+      "happiness"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The baby's smile indicates a positive emotional state, suggesting a sense of happiness or contentment.",
+    "objects": [
+      "positive",
+      "state",
+      "contentment",
+      "sense",
+      "emotional",
+      "smile"
+    ],
+    "actions": [
+      "indicates",
+      "suggesting",
+      "baby's",
+      "happiness"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The baby's smile indicates a positive emotional state, suggesting a sense of happiness or contentment.",
+    "objects": [
+      "positive",
+      "state",
+      "contentment",
+      "sense",
+      "emotional",
+      "smile"
+    ],
+    "actions": [
+      "indicates",
+      "suggesting",
+      "baby's",
+      "happiness"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The video is a simple yet endearing depiction of a child's exploration and interaction with its environment.",
+    "objects": [
+      "its",
+      "environment",
+      "yet",
+      "depiction",
+      "exploration",
+      "interaction",
+      "simple"
+    ],
+    "actions": [
+      "endearing",
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The video is a simple yet endearing depiction of a child's exploration and interaction with its environment.",
+    "objects": [
+      "its",
+      "environment",
+      "yet",
+      "depiction",
+      "exploration",
+      "interaction",
+      "simple"
+    ],
+    "actions": [
+      "endearing",
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The video is a simple yet endearing depiction of a child's exploration and interaction with its environment.",
+    "objects": [
+      "its",
+      "environment",
+      "yet",
+      "depiction",
+      "exploration",
+      "interaction",
+      "simple"
+    ],
+    "actions": [
+      "endearing",
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The video is a simple yet endearing depiction of a child's exploration and interaction with its environment.",
+    "objects": [
+      "its",
+      "environment",
+      "yet",
+      "depiction",
+      "exploration",
+      "interaction",
+      "simple"
+    ],
+    "actions": [
+      "endearing",
+      "child's"
+    ],
+    "segment_id": 7
+  }
+]

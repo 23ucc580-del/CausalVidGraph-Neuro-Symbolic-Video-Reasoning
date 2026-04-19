@@ -1,0 +1,590 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a lively performance of a band in a brick-walled room.",
+    "objects": [
+      "band",
+      "lively",
+      "performance",
+      "see",
+      "room",
+      "this"
+    ],
+    "actions": [
+      "brick-walled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a lively performance of a band in a brick-walled room.",
+    "objects": [
+      "band",
+      "lively",
+      "performance",
+      "see",
+      "room",
+      "this"
+    ],
+    "actions": [
+      "brick-walled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a lively performance of a band in a brick-walled room.",
+    "objects": [
+      "band",
+      "lively",
+      "performance",
+      "see",
+      "room",
+      "this"
+    ],
+    "actions": [
+      "brick-walled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a lively performance of a band in a brick-walled room.",
+    "objects": [
+      "band",
+      "lively",
+      "performance",
+      "see",
+      "room",
+      "this"
+    ],
+    "actions": [
+      "brick-walled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The drummer, wearing a black shirt and a red hat, is energetically playing the drums while the guitarist, dressed in a white shirt, is passionately strumming his guitar.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "drummer",
+      "energetically",
+      "guitar",
+      "shirt",
+      "passionately"
+    ],
+    "actions": [
+      "red",
+      "drums",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The drummer, wearing a black shirt and a red hat, is energetically playing the drums while the guitarist, dressed in a white shirt, is passionately strumming his guitar.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "drummer",
+      "energetically",
+      "guitar",
+      "shirt",
+      "passionately"
+    ],
+    "actions": [
+      "red",
+      "drums",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The drummer, wearing a black shirt and a red hat, is energetically playing the drums while the guitarist, dressed in a white shirt, is passionately strumming his guitar.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "drummer",
+      "energetically",
+      "guitar",
+      "shirt",
+      "passionately"
+    ],
+    "actions": [
+      "red",
+      "drums",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The drummer, wearing a black shirt and a red hat, is energetically playing the drums while the guitarist, dressed in a white shirt, is passionately strumming his guitar.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "drummer",
+      "energetically",
+      "guitar",
+      "shirt",
+      "passionately"
+    ],
+    "actions": [
+      "red",
+      "drums",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The keyboardist, also in a white shirt, is engrossed in playing the keyboard.",
+    "objects": [
+      "keyboard",
+      "keyboardist",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The keyboardist, also in a white shirt, is engrossed in playing the keyboard.",
+    "objects": [
+      "keyboard",
+      "keyboardist",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The keyboardist, also in a white shirt, is engrossed in playing the keyboard.",
+    "objects": [
+      "keyboard",
+      "keyboardist",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The keyboardist, also in a white shirt, is engrossed in playing the keyboard.",
+    "objects": [
+      "keyboard",
+      "keyboardist",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "engrossed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The singer, wearing a white shirt and a blue hat, is in the midst of singing, captivating the audience.",
+    "objects": [
+      "midst",
+      "white",
+      "singer",
+      "blue",
+      "shirt",
+      "audience",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "singing",
+      "captivating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The singer, wearing a white shirt and a blue hat, is in the midst of singing, captivating the audience.",
+    "objects": [
+      "midst",
+      "white",
+      "singer",
+      "blue",
+      "shirt",
+      "audience",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "singing",
+      "captivating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The singer, wearing a white shirt and a blue hat, is in the midst of singing, captivating the audience.",
+    "objects": [
+      "midst",
+      "white",
+      "singer",
+      "blue",
+      "shirt",
+      "audience",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "singing",
+      "captivating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The singer, wearing a white shirt and a blue hat, is in the midst of singing, captivating the audience.",
+    "objects": [
+      "midst",
+      "white",
+      "singer",
+      "blue",
+      "shirt",
+      "audience",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "singing",
+      "captivating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The bassist, dressed in a black shirt and a red hat, is immersed in his playing.",
+    "objects": [
+      "black",
+      "shirt",
+      "bassist",
+      "hat",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "red",
+      "immersed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The bassist, dressed in a black shirt and a red hat, is immersed in his playing.",
+    "objects": [
+      "black",
+      "shirt",
+      "bassist",
+      "hat",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "red",
+      "immersed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The bassist, dressed in a black shirt and a red hat, is immersed in his playing.",
+    "objects": [
+      "black",
+      "shirt",
+      "bassist",
+      "hat",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "red",
+      "immersed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The bassist, dressed in a black shirt and a red hat, is immersed in his playing.",
+    "objects": [
+      "black",
+      "shirt",
+      "bassist",
+      "hat",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "red",
+      "immersed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The rhythm section, composed of the drummer, guitarist, and keyboardist, is in perfect sync, creating a harmonious sound.",
+    "objects": [
+      "section",
+      "keyboardist",
+      "drummer",
+      "rhythm",
+      "perfect",
+      "sync",
+      "guitarist",
+      "sound"
+    ],
+    "actions": [
+      "creating",
+      "composed",
+      "harmonious"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The rhythm section, composed of the drummer, guitarist, and keyboardist, is in perfect sync, creating a harmonious sound.",
+    "objects": [
+      "section",
+      "keyboardist",
+      "drummer",
+      "rhythm",
+      "perfect",
+      "sync",
+      "guitarist",
+      "sound"
+    ],
+    "actions": [
+      "creating",
+      "composed",
+      "harmonious"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The rhythm section, composed of the drummer, guitarist, and keyboardist, is in perfect sync, creating a harmonious sound.",
+    "objects": [
+      "section",
+      "keyboardist",
+      "drummer",
+      "rhythm",
+      "perfect",
+      "sync",
+      "guitarist",
+      "sound"
+    ],
+    "actions": [
+      "creating",
+      "composed",
+      "harmonious"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The rhythm section, composed of the drummer, guitarist, and keyboardist, is in perfect sync, creating a harmonious sound.",
+    "objects": [
+      "section",
+      "keyboardist",
+      "drummer",
+      "rhythm",
+      "perfect",
+      "sync",
+      "guitarist",
+      "sound"
+    ],
+    "actions": [
+      "creating",
+      "composed",
+      "harmonious"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The singer, guitarist, and bassist are the main focus of the performance, each contributing to the overall musical experience.",
+    "objects": [
+      "each",
+      "overall",
+      "experience",
+      "main",
+      "singer",
+      "musical",
+      "performance",
+      "bassist"
+    ],
+    "actions": [
+      "contributing",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The singer, guitarist, and bassist are the main focus of the performance, each contributing to the overall musical experience.",
+    "objects": [
+      "each",
+      "overall",
+      "experience",
+      "main",
+      "singer",
+      "musical",
+      "performance",
+      "bassist"
+    ],
+    "actions": [
+      "contributing",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The singer, guitarist, and bassist are the main focus of the performance, each contributing to the overall musical experience.",
+    "objects": [
+      "each",
+      "overall",
+      "experience",
+      "main",
+      "singer",
+      "musical",
+      "performance",
+      "bassist"
+    ],
+    "actions": [
+      "contributing",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The singer, guitarist, and bassist are the main focus of the performance, each contributing to the overall musical experience.",
+    "objects": [
+      "each",
+      "overall",
+      "experience",
+      "main",
+      "singer",
+      "musical",
+      "performance",
+      "bassist"
+    ],
+    "actions": [
+      "contributing",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The singer's white shirt contrasts with the black hoodie worn by the drummer, and the blue hat of the bassist adds a pop of color to the scene.",
+    "objects": [
+      "worn",
+      "white",
+      "black",
+      "drummer",
+      "blue",
+      "shirt",
+      "bassist",
+      "pop"
+    ],
+    "actions": [
+      "contrasts",
+      "singer's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The singer's white shirt contrasts with the black hoodie worn by the drummer, and the blue hat of the bassist adds a pop of color to the scene.",
+    "objects": [
+      "worn",
+      "white",
+      "black",
+      "drummer",
+      "blue",
+      "shirt",
+      "bassist",
+      "pop"
+    ],
+    "actions": [
+      "contrasts",
+      "singer's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The singer's white shirt contrasts with the black hoodie worn by the drummer, and the blue hat of the bassist adds a pop of color to the scene.",
+    "objects": [
+      "worn",
+      "white",
+      "black",
+      "drummer",
+      "blue",
+      "shirt",
+      "bassist",
+      "pop"
+    ],
+    "actions": [
+      "contrasts",
+      "singer's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The singer's white shirt contrasts with the black hoodie worn by the drummer, and the blue hat of the bassist adds a pop of color to the scene.",
+    "objects": [
+      "worn",
+      "white",
+      "black",
+      "drummer",
+      "blue",
+      "shirt",
+      "bassist",
+      "pop"
+    ],
+    "actions": [
+      "contrasts",
+      "singer's"
+    ],
+    "segment_id": 7
+  }
+]

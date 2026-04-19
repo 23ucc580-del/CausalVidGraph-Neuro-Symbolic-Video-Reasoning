@@ -1,0 +1,572 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a lively scene of a child and an adult in a living room, with various objects and colors filling the space.",
+    "objects": [
+      "child",
+      "adult",
+      "lively",
+      "see",
+      "space",
+      "room"
+    ],
+    "actions": [
+      "colors",
+      "objects",
+      "living",
+      "filling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a lively scene of a child and an adult in a living room, with various objects and colors filling the space.",
+    "objects": [
+      "child",
+      "adult",
+      "lively",
+      "see",
+      "space",
+      "room"
+    ],
+    "actions": [
+      "colors",
+      "objects",
+      "living",
+      "filling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a lively scene of a child and an adult in a living room, with various objects and colors filling the space.",
+    "objects": [
+      "child",
+      "adult",
+      "lively",
+      "see",
+      "space",
+      "room"
+    ],
+    "actions": [
+      "colors",
+      "objects",
+      "living",
+      "filling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The child, dressed in a blue shirt, is walking on the beige carpet, holding a toy.",
+    "objects": [
+      "carpet",
+      "child",
+      "blue",
+      "shirt",
+      "beige",
+      "toy"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The child, dressed in a blue shirt, is walking on the beige carpet, holding a toy.",
+    "objects": [
+      "carpet",
+      "child",
+      "blue",
+      "shirt",
+      "beige",
+      "toy"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child, dressed in a blue shirt, is walking on the beige carpet, holding a toy.",
+    "objects": [
+      "carpet",
+      "child",
+      "blue",
+      "shirt",
+      "beige",
+      "toy"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The adult, wearing a black shirt and blue shorts, is sitting on the black couch, holding a beer.",
+    "objects": [
+      "black",
+      "blue",
+      "adult",
+      "shirt",
+      "beer",
+      "couch"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The adult, wearing a black shirt and blue shorts, is sitting on the black couch, holding a beer.",
+    "objects": [
+      "black",
+      "blue",
+      "adult",
+      "shirt",
+      "beer",
+      "couch"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The adult, wearing a black shirt and blue shorts, is sitting on the black couch, holding a beer.",
+    "objects": [
+      "black",
+      "blue",
+      "adult",
+      "shirt",
+      "beer",
+      "couch"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The room is well-lit, and the colors are vibrant.",
+    "objects": [
+      "room",
+      "vibrant"
+    ],
+    "actions": [
+      "colors"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The room is well-lit, and the colors are vibrant.",
+    "objects": [
+      "room",
+      "vibrant"
+    ],
+    "actions": [
+      "colors"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The room is well-lit, and the colors are vibrant.",
+    "objects": [
+      "room",
+      "vibrant"
+    ],
+    "actions": [
+      "colors"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The child walks past the adult, who is holding a beer, and towards the camera, giving a warm smile.",
+    "objects": [
+      "child",
+      "adult",
+      "warm",
+      "beer",
+      "who",
+      "past",
+      "smile"
+    ],
+    "actions": [
+      "towards",
+      "walks",
+      "holding",
+      "giving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The child walks past the adult, who is holding a beer, and towards the camera, giving a warm smile.",
+    "objects": [
+      "child",
+      "adult",
+      "warm",
+      "beer",
+      "who",
+      "past",
+      "smile"
+    ],
+    "actions": [
+      "towards",
+      "walks",
+      "holding",
+      "giving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The child walks past the adult, who is holding a beer, and towards the camera, giving a warm smile.",
+    "objects": [
+      "child",
+      "adult",
+      "warm",
+      "beer",
+      "who",
+      "past",
+      "smile"
+    ],
+    "actions": [
+      "towards",
+      "walks",
+      "holding",
+      "giving"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The child's playful demeanor is evident, as they run towards the camera with a sense of joy and curiosity.",
+    "objects": [
+      "they",
+      "run",
+      "curiosity",
+      "sense",
+      "evident",
+      "demeanor",
+      "playful",
+      "joy"
+    ],
+    "actions": [
+      "towards",
+      "child's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The child's playful demeanor is evident, as they run towards the camera with a sense of joy and curiosity.",
+    "objects": [
+      "they",
+      "run",
+      "curiosity",
+      "sense",
+      "evident",
+      "demeanor",
+      "playful",
+      "joy"
+    ],
+    "actions": [
+      "towards",
+      "child's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The child's playful demeanor is evident, as they run towards the camera with a sense of joy and curiosity.",
+    "objects": [
+      "they",
+      "run",
+      "curiosity",
+      "sense",
+      "evident",
+      "demeanor",
+      "playful",
+      "joy"
+    ],
+    "actions": [
+      "towards",
+      "child's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The living room is comfortably furnished with a black couch, a blue hoodie, and a silver car visible in the background.",
+    "objects": [
+      "black",
+      "blue",
+      "silver",
+      "hoodie",
+      "couch",
+      "car",
+      "room",
+      "comfortably"
+    ],
+    "actions": [
+      "furnished",
+      "living"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The living room is comfortably furnished with a black couch, a blue hoodie, and a silver car visible in the background.",
+    "objects": [
+      "black",
+      "blue",
+      "silver",
+      "hoodie",
+      "couch",
+      "car",
+      "room",
+      "comfortably"
+    ],
+    "actions": [
+      "furnished",
+      "living"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The living room is comfortably furnished with a black couch, a blue hoodie, and a silver car visible in the background.",
+    "objects": [
+      "black",
+      "blue",
+      "silver",
+      "hoodie",
+      "couch",
+      "car",
+      "room",
+      "comfortably"
+    ],
+    "actions": [
+      "furnished",
+      "living"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The objects in the room are numerous, and their colors add to the lively atmosphere.",
+    "objects": [
+      "their",
+      "add",
+      "lively",
+      "room",
+      "atmosphere"
+    ],
+    "actions": [
+      "colors",
+      "objects",
+      "numerous"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The objects in the room are numerous, and their colors add to the lively atmosphere.",
+    "objects": [
+      "their",
+      "add",
+      "lively",
+      "room",
+      "atmosphere"
+    ],
+    "actions": [
+      "colors",
+      "objects",
+      "numerous"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The objects in the room are numerous, and their colors add to the lively atmosphere.",
+    "objects": [
+      "their",
+      "add",
+      "lively",
+      "room",
+      "atmosphere"
+    ],
+    "actions": [
+      "colors",
+      "objects",
+      "numerous"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The child's blue shirt contrasts with the adult's black shirt, creating a visually appealing scene.",
+    "objects": [
+      "black",
+      "visually",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "child's",
+      "contrasts",
+      "adult's",
+      "creating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The child's blue shirt contrasts with the adult's black shirt, creating a visually appealing scene.",
+    "objects": [
+      "black",
+      "visually",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "child's",
+      "contrasts",
+      "adult's",
+      "creating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The child's blue shirt contrasts with the adult's black shirt, creating a visually appealing scene.",
+    "objects": [
+      "black",
+      "visually",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "child's",
+      "contrasts",
+      "adult's",
+      "creating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The adult's blue shorts complement the child's blue shirt, creating a harmonious color palette.",
+    "objects": [
+      "palette",
+      "complement",
+      "blue",
+      "shirt",
+      "color"
+    ],
+    "actions": [
+      "child's",
+      "harmonious",
+      "adult's",
+      "creating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The adult's blue shorts complement the child's blue shirt, creating a harmonious color palette.",
+    "objects": [
+      "palette",
+      "complement",
+      "blue",
+      "shirt",
+      "color"
+    ],
+    "actions": [
+      "child's",
+      "harmonious",
+      "adult's",
+      "creating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The adult's blue shorts complement the child's blue shirt, creating a harmonious color palette.",
+    "objects": [
+      "palette",
+      "complement",
+      "blue",
+      "shirt",
+      "color"
+    ],
+    "actions": [
+      "child's",
+      "harmonious",
+      "adult's",
+      "creating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The beige carpet underfoot and the black couch provide a cozy setting for this lively scene.",
+    "objects": [
+      "carpet",
+      "black",
+      "provide",
+      "lively",
+      "couch",
+      "cozy",
+      "underfoot",
+      "beige"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The beige carpet underfoot and the black couch provide a cozy setting for this lively scene.",
+    "objects": [
+      "carpet",
+      "black",
+      "provide",
+      "lively",
+      "couch",
+      "cozy",
+      "underfoot",
+      "beige"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 10
+  }
+]

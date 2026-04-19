@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a woman and a baby in a swimming pool.",
+    "objects": [
+      "baby",
+      "woman",
+      "pool",
+      "see"
+    ],
+    "actions": [
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a woman and a baby in a swimming pool.",
+    "objects": [
+      "baby",
+      "woman",
+      "pool",
+      "see"
+    ],
+    "actions": [
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a woman and a baby in a swimming pool.",
+    "objects": [
+      "baby",
+      "woman",
+      "pool",
+      "see"
+    ],
+    "actions": [
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a woman and a baby in a swimming pool.",
+    "objects": [
+      "baby",
+      "woman",
+      "pool",
+      "see"
+    ],
+    "actions": [
+      "swimming"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is wearing a black swimsuit and holding the baby in her arms, which is dressed in a black swimsuit with a hood.",
+    "objects": [
+      "arms",
+      "hood",
+      "woman",
+      "black",
+      "swimsuit",
+      "her",
+      "which",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is wearing a black swimsuit and holding the baby in her arms, which is dressed in a black swimsuit with a hood.",
+    "objects": [
+      "arms",
+      "hood",
+      "woman",
+      "black",
+      "swimsuit",
+      "her",
+      "which",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is wearing a black swimsuit and holding the baby in her arms, which is dressed in a black swimsuit with a hood.",
+    "objects": [
+      "arms",
+      "hood",
+      "woman",
+      "black",
+      "swimsuit",
+      "her",
+      "which",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is wearing a black swimsuit and holding the baby in her arms, which is dressed in a black swimsuit with a hood.",
+    "objects": [
+      "arms",
+      "hood",
+      "woman",
+      "black",
+      "swimsuit",
+      "her",
+      "which",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman is talking to the baby while they are both in the pool, and the baby is laughing and looking up at the woman.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "while",
+      "pool",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "talking",
+      "laughing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman is talking to the baby while they are both in the pool, and the baby is laughing and looking up at the woman.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "while",
+      "pool",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "talking",
+      "laughing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman is talking to the baby while they are both in the pool, and the baby is laughing and looking up at the woman.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "while",
+      "pool",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "talking",
+      "laughing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman is talking to the baby while they are both in the pool, and the baby is laughing and looking up at the woman.",
+    "objects": [
+      "they",
+      "both",
+      "woman",
+      "while",
+      "pool",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "talking",
+      "laughing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby is holding a green and blue toy.",
+    "objects": [
+      "blue",
+      "baby",
+      "green",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby is holding a green and blue toy.",
+    "objects": [
+      "blue",
+      "baby",
+      "green",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby is holding a green and blue toy.",
+    "objects": [
+      "blue",
+      "baby",
+      "green",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby is holding a green and blue toy.",
+    "objects": [
+      "blue",
+      "baby",
+      "green",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene is set in a public swimming pool with chairs and a red railing visible in the background.",
+    "objects": [
+      "public",
+      "pool",
+      "set"
+    ],
+    "actions": [
+      "chairs",
+      "swimming",
+      "railing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene is set in a public swimming pool with chairs and a red railing visible in the background.",
+    "objects": [
+      "public",
+      "pool",
+      "set"
+    ],
+    "actions": [
+      "chairs",
+      "swimming",
+      "railing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene is set in a public swimming pool with chairs and a red railing visible in the background.",
+    "objects": [
+      "public",
+      "pool",
+      "set"
+    ],
+    "actions": [
+      "chairs",
+      "swimming",
+      "railing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene is set in a public swimming pool with chairs and a red railing visible in the background.",
+    "objects": [
+      "public",
+      "pool",
+      "set"
+    ],
+    "actions": [
+      "chairs",
+      "swimming",
+      "railing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman is seen wearing a black swimsuit and is holding the baby while the baby is dressed in a black swimsuit.",
+    "objects": [
+      "woman",
+      "while",
+      "black",
+      "swimsuit",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman is seen wearing a black swimsuit and is holding the baby while the baby is dressed in a black swimsuit.",
+    "objects": [
+      "woman",
+      "while",
+      "black",
+      "swimsuit",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman is seen wearing a black swimsuit and is holding the baby while the baby is dressed in a black swimsuit.",
+    "objects": [
+      "woman",
+      "while",
+      "black",
+      "swimsuit",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman is seen wearing a black swimsuit and is holding the baby while the baby is dressed in a black swimsuit.",
+    "objects": [
+      "woman",
+      "while",
+      "black",
+      "swimsuit",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman is wearing a blue hoodie and the baby is wearing a black swimsuit with a hood.",
+    "objects": [
+      "hood",
+      "woman",
+      "black",
+      "blue",
+      "swimsuit",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman is wearing a blue hoodie and the baby is wearing a black swimsuit with a hood.",
+    "objects": [
+      "hood",
+      "woman",
+      "black",
+      "blue",
+      "swimsuit",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman is wearing a blue hoodie and the baby is wearing a black swimsuit with a hood.",
+    "objects": [
+      "hood",
+      "woman",
+      "black",
+      "blue",
+      "swimsuit",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman is wearing a blue hoodie and the baby is wearing a black swimsuit with a hood.",
+    "objects": [
+      "hood",
+      "woman",
+      "black",
+      "blue",
+      "swimsuit",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman is seen holding the baby while in the pool and the baby is wearing a blue hoodie.",
+    "objects": [
+      "woman",
+      "while",
+      "blue",
+      "pool",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman is seen holding the baby while in the pool and the baby is wearing a blue hoodie.",
+    "objects": [
+      "woman",
+      "while",
+      "blue",
+      "pool",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman is seen holding the baby while in the pool and the baby is wearing a blue hoodie.",
+    "objects": [
+      "woman",
+      "while",
+      "blue",
+      "pool",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman is seen holding the baby while in the pool and the baby is wearing a blue hoodie.",
+    "objects": [
+      "woman",
+      "while",
+      "blue",
+      "pool",
+      "hoodie",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

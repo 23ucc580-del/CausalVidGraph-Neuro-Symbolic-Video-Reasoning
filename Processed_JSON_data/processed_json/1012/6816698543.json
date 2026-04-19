@@ -1,0 +1,602 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with two women standing in a room, engrossed in conversation.",
+    "objects": [
+      "room",
+      "women",
+      "conversation",
+      "two"
+    ],
+    "actions": [
+      "begins",
+      "standing",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with two women standing in a room, engrossed in conversation.",
+    "objects": [
+      "room",
+      "women",
+      "conversation",
+      "two"
+    ],
+    "actions": [
+      "begins",
+      "standing",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "One of the women is wearing a black dress and the other is in a casual outfit, suggesting a relaxed, informal setting.",
+    "objects": [
+      "one",
+      "outfit",
+      "other",
+      "casual",
+      "black",
+      "informal",
+      "dress",
+      "women"
+    ],
+    "actions": [
+      "wearing",
+      "relaxed",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "One of the women is wearing a black dress and the other is in a casual outfit, suggesting a relaxed, informal setting.",
+    "objects": [
+      "one",
+      "outfit",
+      "other",
+      "casual",
+      "black",
+      "informal",
+      "dress",
+      "women"
+    ],
+    "actions": [
+      "wearing",
+      "relaxed",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is cluttered with various objects, including a desk, a chair, a coat rack, and a bottle.",
+    "objects": [
+      "rack",
+      "desk",
+      "coat",
+      "bottle",
+      "room",
+      "chair"
+    ],
+    "actions": [
+      "cluttered",
+      "objects"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is cluttered with various objects, including a desk, a chair, a coat rack, and a bottle.",
+    "objects": [
+      "rack",
+      "desk",
+      "coat",
+      "bottle",
+      "room",
+      "chair"
+    ],
+    "actions": [
+      "cluttered",
+      "objects"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman in the black dress is holding a red bag, which could potentially be the subject of their discussion.",
+    "objects": [
+      "their",
+      "discussion",
+      "woman",
+      "black",
+      "potentially",
+      "bag",
+      "which",
+      "dress"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman in the black dress is holding a red bag, which could potentially be the subject of their discussion.",
+    "objects": [
+      "their",
+      "discussion",
+      "woman",
+      "black",
+      "potentially",
+      "bag",
+      "which",
+      "dress"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "Suddenly, the scene shifts to a man entering the room, seemingly interrupting their conversation.",
+    "objects": [
+      "their",
+      "room",
+      "conversation",
+      "suddenly",
+      "seemingly",
+      "man"
+    ],
+    "actions": [
+      "shifts",
+      "entering",
+      "interrupting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "Suddenly, the scene shifts to a man entering the room, seemingly interrupting their conversation.",
+    "objects": [
+      "their",
+      "room",
+      "conversation",
+      "suddenly",
+      "seemingly",
+      "man"
+    ],
+    "actions": [
+      "shifts",
+      "entering",
+      "interrupting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "He is dressed in a formal suit, indicating a professional or formal occasion.",
+    "objects": [
+      "occasion",
+      "professional",
+      "formal",
+      "suit"
+    ],
+    "actions": [
+      "dressed",
+      "indicating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "He is dressed in a formal suit, indicating a professional or formal occasion.",
+    "objects": [
+      "occasion",
+      "professional",
+      "formal",
+      "suit"
+    ],
+    "actions": [
+      "dressed",
+      "indicating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The room now appears to be a conference room, with a whiteboard and a projector screen visible, and the man appears to be presenting or leading a meeting.",
+    "objects": [
+      "whiteboard",
+      "screen",
+      "projector",
+      "now",
+      "conference",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "meeting",
+      "leading",
+      "presenting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The room now appears to be a conference room, with a whiteboard and a projector screen visible, and the man appears to be presenting or leading a meeting.",
+    "objects": [
+      "whiteboard",
+      "screen",
+      "projector",
+      "now",
+      "conference",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "meeting",
+      "leading",
+      "presenting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The focus shifts to a woman in the back, who is wearing a black dress, possibly a participant in the meeting or an observer.",
+    "objects": [
+      "woman",
+      "observer",
+      "black",
+      "possibly",
+      "participant",
+      "who",
+      "dress"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "meeting",
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The focus shifts to a woman in the back, who is wearing a black dress, possibly a participant in the meeting or an observer.",
+    "objects": [
+      "woman",
+      "observer",
+      "black",
+      "possibly",
+      "participant",
+      "who",
+      "dress"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "meeting",
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "She is holding a blue bag, which might be related to the ongoing discussion.",
+    "objects": [
+      "discussion",
+      "she",
+      "blue",
+      "bag",
+      "which",
+      "might"
+    ],
+    "actions": [
+      "ongoing",
+      "holding",
+      "related"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "She is holding a blue bag, which might be related to the ongoing discussion.",
+    "objects": [
+      "discussion",
+      "she",
+      "blue",
+      "bag",
+      "which",
+      "might"
+    ],
+    "actions": [
+      "ongoing",
+      "holding",
+      "related"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene transitions to a kitchen, where three women are seen, with one woman wearing a black dress and another in a red dress.",
+    "objects": [
+      "three",
+      "one",
+      "where",
+      "woman",
+      "black",
+      "dress",
+      "women",
+      "kitchen"
+    ],
+    "actions": [
+      "transitions",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene transitions to a kitchen, where three women are seen, with one woman wearing a black dress and another in a red dress.",
+    "objects": [
+      "three",
+      "one",
+      "where",
+      "woman",
+      "black",
+      "dress",
+      "women",
+      "kitchen"
+    ],
+    "actions": [
+      "transitions",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "They are engaged in conversation, and one woman is holding a green bottle, possibly discussing a recent event or activity.",
+    "objects": [
+      "they",
+      "one",
+      "activity",
+      "woman",
+      "conversation",
+      "possibly",
+      "green",
+      "bottle"
+    ],
+    "actions": [
+      "discussing",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "They are engaged in conversation, and one woman is holding a green bottle, possibly discussing a recent event or activity.",
+    "objects": [
+      "they",
+      "one",
+      "activity",
+      "woman",
+      "conversation",
+      "possibly",
+      "green",
+      "bottle"
+    ],
+    "actions": [
+      "discussing",
+      "holding",
+      "engaged"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then shifts to a classroom, where two women are present, one wearing a black dress and the other in a blue hoodie.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "where",
+      "black",
+      "blue",
+      "then",
+      "classroom"
+    ],
+    "actions": [
+      "shifts",
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then shifts to a classroom, where two women are present, one wearing a black dress and the other in a blue hoodie.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "where",
+      "black",
+      "blue",
+      "then",
+      "classroom"
+    ],
+    "actions": [
+      "shifts",
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "They seem to be students or attendees of a class, and the woman in the black dress is holding a book, indicating study or learning.",
+    "objects": [
+      "they",
+      "woman",
+      "black",
+      "study",
+      "seem",
+      "book",
+      "dress"
+    ],
+    "actions": [
+      "learning",
+      "students",
+      "attendees",
+      "class"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "They seem to be students or attendees of a class, and the woman in the black dress is holding a book, indicating study or learning.",
+    "objects": [
+      "they",
+      "woman",
+      "black",
+      "study",
+      "seem",
+      "book",
+      "dress"
+    ],
+    "actions": [
+      "learning",
+      "students",
+      "attendees",
+      "class"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The video ends with a woman in a black dress standing in a room, holding a blue bag, and smiling.",
+    "objects": [
+      "room",
+      "woman",
+      "black",
+      "blue",
+      "bag",
+      "ends",
+      "dress"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The video ends with a woman in a black dress standing in a room, holding a blue bag, and smiling.",
+    "objects": [
+      "room",
+      "woman",
+      "black",
+      "blue",
+      "bag",
+      "ends",
+      "dress"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Her expression and action suggest she is in a happy or positive mood.",
+    "objects": [
+      "happy",
+      "she",
+      "positive",
+      "action",
+      "her",
+      "suggest",
+      "expression",
+      "mood"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Her expression and action suggest she is in a happy or positive mood.",
+    "objects": [
+      "happy",
+      "she",
+      "positive",
+      "action",
+      "her",
+      "suggest",
+      "expression",
+      "mood"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "Overall, the video depicts a series of interactions and settings, from casual to formal, with the color scheme dominated by black, white, and shades of blue and red.",
+    "objects": [
+      "white",
+      "scheme",
+      "casual",
+      "black",
+      "blue",
+      "from",
+      "color",
+      "overall"
+    ],
+    "actions": [
+      "red",
+      "interactions",
+      "settings",
+      "series"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "Overall, the video depicts a series of interactions and settings, from casual to formal, with the color scheme dominated by black, white, and shades of blue and red.",
+    "objects": [
+      "white",
+      "scheme",
+      "casual",
+      "black",
+      "blue",
+      "from",
+      "color",
+      "overall"
+    ],
+    "actions": [
+      "red",
+      "interactions",
+      "settings",
+      "series"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,526 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is standing on a snowy sidewalk next to a silver car.",
+    "objects": [
+      "snowy",
+      "silver",
+      "car",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is standing on a snowy sidewalk next to a silver car.",
+    "objects": [
+      "snowy",
+      "silver",
+      "car",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man is standing on a snowy sidewalk next to a silver car.",
+    "objects": [
+      "snowy",
+      "silver",
+      "car",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man is standing on a snowy sidewalk next to a silver car.",
+    "objects": [
+      "snowy",
+      "silver",
+      "car",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is dressed in a black jacket, a blue hoodie, and a white beanie hat.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "beanie",
+      "hoodie",
+      "hat"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is dressed in a black jacket, a blue hoodie, and a white beanie hat.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "beanie",
+      "hoodie",
+      "hat"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is dressed in a black jacket, a blue hoodie, and a white beanie hat.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "beanie",
+      "hoodie",
+      "hat"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is dressed in a black jacket, a blue hoodie, and a white beanie hat.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "blue",
+      "beanie",
+      "hoodie",
+      "hat"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is holding a bag in his right hand and appears to be posing for the camera.",
+    "objects": [
+      "hand",
+      "his",
+      "bag"
+    ],
+    "actions": [
+      "holding",
+      "posing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is holding a bag in his right hand and appears to be posing for the camera.",
+    "objects": [
+      "hand",
+      "his",
+      "bag"
+    ],
+    "actions": [
+      "holding",
+      "posing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is holding a bag in his right hand and appears to be posing for the camera.",
+    "objects": [
+      "hand",
+      "his",
+      "bag"
+    ],
+    "actions": [
+      "holding",
+      "posing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is holding a bag in his right hand and appears to be posing for the camera.",
+    "objects": [
+      "hand",
+      "his",
+      "bag"
+    ],
+    "actions": [
+      "holding",
+      "posing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The car is parked on the side of the road, and there is a building with a large sign that reads \"METRO\" in the background.",
+    "objects": [
+      "large",
+      "there",
+      "that",
+      "car",
+      "side",
+      "road",
+      "sign"
+    ],
+    "actions": [
+      "building",
+      "reads",
+      "parked"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The car is parked on the side of the road, and there is a building with a large sign that reads \"METRO\" in the background.",
+    "objects": [
+      "large",
+      "there",
+      "that",
+      "car",
+      "side",
+      "road",
+      "sign"
+    ],
+    "actions": [
+      "building",
+      "reads",
+      "parked"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The car is parked on the side of the road, and there is a building with a large sign that reads \"METRO\" in the background.",
+    "objects": [
+      "large",
+      "there",
+      "that",
+      "car",
+      "side",
+      "road",
+      "sign"
+    ],
+    "actions": [
+      "building",
+      "reads",
+      "parked"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The car is parked on the side of the road, and there is a building with a large sign that reads \"METRO\" in the background.",
+    "objects": [
+      "large",
+      "there",
+      "that",
+      "car",
+      "side",
+      "road",
+      "sign"
+    ],
+    "actions": [
+      "building",
+      "reads",
+      "parked"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is smiling and seems to be enjoying the snowy weather.",
+    "objects": [
+      "man",
+      "weather",
+      "snowy"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is smiling and seems to be enjoying the snowy weather.",
+    "objects": [
+      "man",
+      "weather",
+      "snowy"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is smiling and seems to be enjoying the snowy weather.",
+    "objects": [
+      "man",
+      "weather",
+      "snowy"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is smiling and seems to be enjoying the snowy weather.",
+    "objects": [
+      "man",
+      "weather",
+      "snowy"
+    ],
+    "actions": [
+      "seems",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The car is partially covered in snow, and there is a person walking towards the car in the background.",
+    "objects": [
+      "partially",
+      "snow",
+      "there",
+      "car"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The car is partially covered in snow, and there is a person walking towards the car in the background.",
+    "objects": [
+      "partially",
+      "snow",
+      "there",
+      "car"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The car is partially covered in snow, and there is a person walking towards the car in the background.",
+    "objects": [
+      "partially",
+      "snow",
+      "there",
+      "car"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The car is partially covered in snow, and there is a person walking towards the car in the background.",
+    "objects": [
+      "partially",
+      "snow",
+      "there",
+      "car"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is also holding a white paper or a plastic bag in his left hand.",
+    "objects": [
+      "plastic",
+      "paper",
+      "white",
+      "bag",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is also holding a white paper or a plastic bag in his left hand.",
+    "objects": [
+      "plastic",
+      "paper",
+      "white",
+      "bag",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is also holding a white paper or a plastic bag in his left hand.",
+    "objects": [
+      "plastic",
+      "paper",
+      "white",
+      "bag",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is also holding a white paper or a plastic bag in his left hand.",
+    "objects": [
+      "plastic",
+      "paper",
+      "white",
+      "bag",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is outdoors during the daytime with snow on the ground, and the man appears to be enjoying the winter weather.",
+    "objects": [
+      "weather",
+      "snow",
+      "man",
+      "winter",
+      "daytime",
+      "ground"
+    ],
+    "actions": [
+      "during",
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is outdoors during the daytime with snow on the ground, and the man appears to be enjoying the winter weather.",
+    "objects": [
+      "weather",
+      "snow",
+      "man",
+      "winter",
+      "daytime",
+      "ground"
+    ],
+    "actions": [
+      "during",
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is outdoors during the daytime with snow on the ground, and the man appears to be enjoying the winter weather.",
+    "objects": [
+      "weather",
+      "snow",
+      "man",
+      "winter",
+      "daytime",
+      "ground"
+    ],
+    "actions": [
+      "during",
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is outdoors during the daytime with snow on the ground, and the man appears to be enjoying the winter weather.",
+    "objects": [
+      "weather",
+      "snow",
+      "man",
+      "winter",
+      "daytime",
+      "ground"
+    ],
+    "actions": [
+      "during",
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 7
+  }
+]

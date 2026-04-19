@@ -1,0 +1,580 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a lush green park teeming with life, where two individuals are immersed in a game of football.",
+    "objects": [
+      "life",
+      "football",
+      "two",
+      "park",
+      "green",
+      "see",
+      "where",
+      "lush"
+    ],
+    "actions": [
+      "teeming",
+      "immersed",
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The park is dotted with houses, their colors muted in the distance, and a street runs parallel to it, bordered by cars.",
+    "objects": [
+      "their",
+      "street",
+      "cars",
+      "runs",
+      "distance",
+      "park",
+      "parallel"
+    ],
+    "actions": [
+      "houses",
+      "bordered",
+      "dotted",
+      "colors"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The sun casts its warm light, adding a glow to the scene.",
+    "objects": [
+      "sun",
+      "light",
+      "warm",
+      "glow",
+      "its"
+    ],
+    "actions": [
+      "casts",
+      "adding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "One person is clad in a blue hoodie and black pants, holding a football, ready to kick.",
+    "objects": [
+      "football",
+      "hoodie",
+      "ready",
+      "blue",
+      "clad",
+      "one",
+      "kick",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The other person, donned in a red hoodie and white shorts, is running towards the football, his face a picture of concentration as he tries to block the kick.",
+    "objects": [
+      "white",
+      "football",
+      "hoodie",
+      "other",
+      "face",
+      "block",
+      "picture",
+      "concentration"
+    ],
+    "actions": [
+      "towards",
+      "tries",
+      "running",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The blue hoodie individual is standing still, poised to kick, while the red hoodie person is in motion, his body language radiating anticipation.",
+    "objects": [
+      "still",
+      "body",
+      "hoodie",
+      "motion",
+      "blue",
+      "anticipation",
+      "while",
+      "individual"
+    ],
+    "actions": [
+      "standing",
+      "radiating",
+      "poised",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The game is in full swing, with the blue hoodie person about to kick, his eyes locked on the approaching red hoodie, who's running to block.",
+    "objects": [
+      "eyes",
+      "about",
+      "full",
+      "hoodie",
+      "blue",
+      "block",
+      "game",
+      "his"
+    ],
+    "actions": [
+      "running",
+      "swing",
+      "approaching",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The football is in mid-air, frozen in time just before the blue hoodie kicks it.",
+    "objects": [
+      "football",
+      "hoodie",
+      "blue",
+      "before",
+      "just",
+      "time",
+      "frozen"
+    ],
+    "actions": [
+      "kicks"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The red hoodie person's stance is defensive, his body language one of readiness.",
+    "objects": [
+      "body",
+      "hoodie",
+      "stance",
+      "one",
+      "defensive",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "readiness",
+      "person's",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The blue hoodie individual is caught mid-kick, the football now airborne, and the red hoodie person is ready to intercept.",
+    "objects": [
+      "football",
+      "hoodie",
+      "ready",
+      "blue",
+      "airborne",
+      "intercept",
+      "now",
+      "individual"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The ball is in the air, frozen in the moment just before the blue hoodie kicks it.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "air",
+      "before",
+      "moment",
+      "just",
+      "ball",
+      "frozen"
+    ],
+    "actions": [
+      "kicks"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The red hoodie person's stance is aggressive, his body language that of readiness.",
+    "objects": [
+      "aggressive",
+      "body",
+      "hoodie",
+      "stance",
+      "that",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "readiness",
+      "person's",
+      "red"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The red hoodie individual is in motion, his body language one of readiness, as he prepares to intercept the ball.",
+    "objects": [
+      "body",
+      "hoodie",
+      "motion",
+      "intercept",
+      "ball",
+      "one",
+      "individual",
+      "his"
+    ],
+    "actions": [
+      "readiness",
+      "prepares",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The blue hoodie person is in mid-kick, the ball now airborne.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "airborne",
+      "now",
+      "ball"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The red hoodie person is running, his body language one of readiness.",
+    "objects": [
+      "body",
+      "hoodie",
+      "one",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "running",
+      "readiness",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The blue hoodie individual is caught mid-kick, the ball now airborne.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "airborne",
+      "now",
+      "individual",
+      "ball",
+      "caught"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The red hoodie person is running, his body language one of readiness.",
+    "objects": [
+      "body",
+      "hoodie",
+      "one",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "running",
+      "readiness",
+      "red"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The red hoodie person is in motion, his body language one of readiness, as he prepares to intercept the ball.",
+    "objects": [
+      "body",
+      "hoodie",
+      "motion",
+      "intercept",
+      "ball",
+      "one",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "readiness",
+      "prepares",
+      "red"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The blue hoodie individual is in mid-kick, the ball now airborne.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "airborne",
+      "now",
+      "individual",
+      "ball"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The red hoodie person is running, his body language one of readiness.",
+    "objects": [
+      "body",
+      "hoodie",
+      "one",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "running",
+      "readiness",
+      "red"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The red hoodie individual is in motion, his body language one of readiness, as he prepares to intercept the ball.",
+    "objects": [
+      "body",
+      "hoodie",
+      "motion",
+      "intercept",
+      "ball",
+      "one",
+      "individual",
+      "his"
+    ],
+    "actions": [
+      "readiness",
+      "prepares",
+      "red"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The blue hoodie person is in mid-kick, the ball now airborne.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "airborne",
+      "now",
+      "ball"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The red hoodie person is running, his body language one of readiness.",
+    "objects": [
+      "body",
+      "hoodie",
+      "one",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "running",
+      "readiness",
+      "red"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The red hoodie person is in motion, his body language one of readiness, as he prepares to intercept the ball.",
+    "objects": [
+      "body",
+      "hoodie",
+      "motion",
+      "intercept",
+      "ball",
+      "one",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "readiness",
+      "prepares",
+      "red"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The blue hoodie individual is in mid-kick, the ball now airborne.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "airborne",
+      "now",
+      "individual",
+      "ball"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The red hoodie person is running, his body language one of readiness.",
+    "objects": [
+      "body",
+      "hoodie",
+      "one",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "running",
+      "readiness",
+      "red"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The red hoodie individual is in motion, his body language one of readiness, as he prepares to intercept the ball.",
+    "objects": [
+      "body",
+      "hoodie",
+      "motion",
+      "intercept",
+      "ball",
+      "one",
+      "individual",
+      "his"
+    ],
+    "actions": [
+      "readiness",
+      "prepares",
+      "red"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The blue hoodie person is in mid-kick, the ball now airborne.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "airborne",
+      "now",
+      "ball"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The red hoodie person is running, his body language one of readiness.",
+    "objects": [
+      "body",
+      "hoodie",
+      "one",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "running",
+      "readiness",
+      "red"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The red hoodie person is in motion, his body language one of readiness, as he prepares to intercept the ball.",
+    "objects": [
+      "body",
+      "hoodie",
+      "motion",
+      "intercept",
+      "ball",
+      "one",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "readiness",
+      "prepares",
+      "red"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The blue hoodie individual is in mid-kick, the ball now airborne.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "airborne",
+      "now",
+      "individual",
+      "ball"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The red hoodie person is running, his body language one of readiness.",
+    "objects": [
+      "body",
+      "hoodie",
+      "one",
+      "his",
+      "language"
+    ],
+    "actions": [
+      "running",
+      "readiness",
+      "red"
+    ],
+    "segment_id": 31
+  }
+]

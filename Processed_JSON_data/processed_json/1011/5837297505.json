@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the dimly lit concert stage, a band is performing in front of an audience.",
+    "objects": [
+      "band",
+      "audience",
+      "lit",
+      "dimly",
+      "stage",
+      "concert"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the dimly lit concert stage, a band is performing in front of an audience.",
+    "objects": [
+      "band",
+      "audience",
+      "lit",
+      "dimly",
+      "stage",
+      "concert"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the dimly lit concert stage, a band is performing in front of an audience.",
+    "objects": [
+      "band",
+      "audience",
+      "lit",
+      "dimly",
+      "stage",
+      "concert"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the dimly lit concert stage, a band is performing in front of an audience.",
+    "objects": [
+      "band",
+      "audience",
+      "lit",
+      "dimly",
+      "stage",
+      "concert"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The band members, dressed in black and white, are immersed in their performance.",
+    "objects": [
+      "band",
+      "their",
+      "white",
+      "black",
+      "performance"
+    ],
+    "actions": [
+      "dressed",
+      "immersed",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The band members, dressed in black and white, are immersed in their performance.",
+    "objects": [
+      "band",
+      "their",
+      "white",
+      "black",
+      "performance"
+    ],
+    "actions": [
+      "dressed",
+      "immersed",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The band members, dressed in black and white, are immersed in their performance.",
+    "objects": [
+      "band",
+      "their",
+      "white",
+      "black",
+      "performance"
+    ],
+    "actions": [
+      "dressed",
+      "immersed",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The band members, dressed in black and white, are immersed in their performance.",
+    "objects": [
+      "band",
+      "their",
+      "white",
+      "black",
+      "performance"
+    ],
+    "actions": [
+      "dressed",
+      "immersed",
+      "members"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The guitarist, wearing a black hoodie and holding a guitar, strums his instrument with intensity, while the keyboardist, clad in a white sweater and holding a keyboard, plays a melodic tune.",
+    "objects": [
+      "keyboardist",
+      "white",
+      "while",
+      "black",
+      "keyboard",
+      "tune",
+      "guitar",
+      "instrument"
+    ],
+    "actions": [
+      "wearing",
+      "plays",
+      "holding",
+      "strums"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The guitarist, wearing a black hoodie and holding a guitar, strums his instrument with intensity, while the keyboardist, clad in a white sweater and holding a keyboard, plays a melodic tune.",
+    "objects": [
+      "keyboardist",
+      "white",
+      "while",
+      "black",
+      "keyboard",
+      "tune",
+      "guitar",
+      "instrument"
+    ],
+    "actions": [
+      "wearing",
+      "plays",
+      "holding",
+      "strums"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The guitarist, wearing a black hoodie and holding a guitar, strums his instrument with intensity, while the keyboardist, clad in a white sweater and holding a keyboard, plays a melodic tune.",
+    "objects": [
+      "keyboardist",
+      "white",
+      "while",
+      "black",
+      "keyboard",
+      "tune",
+      "guitar",
+      "instrument"
+    ],
+    "actions": [
+      "wearing",
+      "plays",
+      "holding",
+      "strums"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The guitarist, wearing a black hoodie and holding a guitar, strums his instrument with intensity, while the keyboardist, clad in a white sweater and holding a keyboard, plays a melodic tune.",
+    "objects": [
+      "keyboardist",
+      "white",
+      "while",
+      "black",
+      "keyboard",
+      "tune",
+      "guitar",
+      "instrument"
+    ],
+    "actions": [
+      "wearing",
+      "plays",
+      "holding",
+      "strums"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The drummer, also in black, is focused on the beat, his hands moving swiftly over the drums.",
+    "objects": [
+      "beat",
+      "black",
+      "drummer",
+      "his",
+      "over",
+      "swiftly"
+    ],
+    "actions": [
+      "focused",
+      "moving",
+      "hands",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The drummer, also in black, is focused on the beat, his hands moving swiftly over the drums.",
+    "objects": [
+      "beat",
+      "black",
+      "drummer",
+      "his",
+      "over",
+      "swiftly"
+    ],
+    "actions": [
+      "focused",
+      "moving",
+      "hands",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The drummer, also in black, is focused on the beat, his hands moving swiftly over the drums.",
+    "objects": [
+      "beat",
+      "black",
+      "drummer",
+      "his",
+      "over",
+      "swiftly"
+    ],
+    "actions": [
+      "focused",
+      "moving",
+      "hands",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The drummer, also in black, is focused on the beat, his hands moving swiftly over the drums.",
+    "objects": [
+      "beat",
+      "black",
+      "drummer",
+      "his",
+      "over",
+      "swiftly"
+    ],
+    "actions": [
+      "focused",
+      "moving",
+      "hands",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The saxophonist, dressed in a white shirt, is in the midst of a solo, his fingers dancing over the instrument.",
+    "objects": [
+      "midst",
+      "white",
+      "saxophonist",
+      "shirt",
+      "instrument",
+      "his",
+      "over",
+      "solo"
+    ],
+    "actions": [
+      "fingers",
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The saxophonist, dressed in a white shirt, is in the midst of a solo, his fingers dancing over the instrument.",
+    "objects": [
+      "midst",
+      "white",
+      "saxophonist",
+      "shirt",
+      "instrument",
+      "his",
+      "over",
+      "solo"
+    ],
+    "actions": [
+      "fingers",
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The saxophonist, dressed in a white shirt, is in the midst of a solo, his fingers dancing over the instrument.",
+    "objects": [
+      "midst",
+      "white",
+      "saxophonist",
+      "shirt",
+      "instrument",
+      "his",
+      "over",
+      "solo"
+    ],
+    "actions": [
+      "fingers",
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The saxophonist, dressed in a white shirt, is in the midst of a solo, his fingers dancing over the instrument.",
+    "objects": [
+      "midst",
+      "white",
+      "saxophonist",
+      "shirt",
+      "instrument",
+      "his",
+      "over",
+      "solo"
+    ],
+    "actions": [
+      "fingers",
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The audience, dressed in a variety of colorful attire, is captivated by the performance.",
+    "objects": [
+      "attire",
+      "variety",
+      "audience",
+      "performance",
+      "colorful"
+    ],
+    "actions": [
+      "dressed",
+      "captivated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The audience, dressed in a variety of colorful attire, is captivated by the performance.",
+    "objects": [
+      "attire",
+      "variety",
+      "audience",
+      "performance",
+      "colorful"
+    ],
+    "actions": [
+      "dressed",
+      "captivated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The audience, dressed in a variety of colorful attire, is captivated by the performance.",
+    "objects": [
+      "attire",
+      "variety",
+      "audience",
+      "performance",
+      "colorful"
+    ],
+    "actions": [
+      "dressed",
+      "captivated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The audience, dressed in a variety of colorful attire, is captivated by the performance.",
+    "objects": [
+      "attire",
+      "variety",
+      "audience",
+      "performance",
+      "colorful"
+    ],
+    "actions": [
+      "dressed",
+      "captivated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "Some are singing along, while others are swaying to the music.",
+    "objects": [
+      "some",
+      "while",
+      "along",
+      "music"
+    ],
+    "actions": [
+      "singing",
+      "swaying",
+      "others"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "Some are singing along, while others are swaying to the music.",
+    "objects": [
+      "some",
+      "while",
+      "along",
+      "music"
+    ],
+    "actions": [
+      "singing",
+      "swaying",
+      "others"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "Some are singing along, while others are swaying to the music.",
+    "objects": [
+      "some",
+      "while",
+      "along",
+      "music"
+    ],
+    "actions": [
+      "singing",
+      "swaying",
+      "others"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "Some are singing along, while others are swaying to the music.",
+    "objects": [
+      "some",
+      "while",
+      "along",
+      "music"
+    ],
+    "actions": [
+      "singing",
+      "swaying",
+      "others"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The lighting is primarily red and blue, creating a dramatic atmosphere.",
+    "objects": [
+      "atmosphere",
+      "dramatic",
+      "blue",
+      "primarily"
+    ],
+    "actions": [
+      "lighting",
+      "creating",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The lighting is primarily red and blue, creating a dramatic atmosphere.",
+    "objects": [
+      "atmosphere",
+      "dramatic",
+      "blue",
+      "primarily"
+    ],
+    "actions": [
+      "lighting",
+      "creating",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The lighting is primarily red and blue, creating a dramatic atmosphere.",
+    "objects": [
+      "atmosphere",
+      "dramatic",
+      "blue",
+      "primarily"
+    ],
+    "actions": [
+      "lighting",
+      "creating",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The lighting is primarily red and blue, creating a dramatic atmosphere.",
+    "objects": [
+      "atmosphere",
+      "dramatic",
+      "blue",
+      "primarily"
+    ],
+    "actions": [
+      "lighting",
+      "creating",
+      "red"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,526 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman is sitting on a couch, holding a gift box, which she has just opened.",
+    "objects": [
+      "box",
+      "she",
+      "woman",
+      "has",
+      "just",
+      "which",
+      "couch",
+      "gift"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "opened"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman is sitting on a couch, holding a gift box, which she has just opened.",
+    "objects": [
+      "box",
+      "she",
+      "woman",
+      "has",
+      "just",
+      "which",
+      "couch",
+      "gift"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "opened"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman is sitting on a couch, holding a gift box, which she has just opened.",
+    "objects": [
+      "box",
+      "she",
+      "woman",
+      "has",
+      "just",
+      "which",
+      "couch",
+      "gift"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "opened"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman is sitting on a couch, holding a gift box, which she has just opened.",
+    "objects": [
+      "box",
+      "she",
+      "woman",
+      "has",
+      "just",
+      "which",
+      "couch",
+      "gift"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "opened"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She appears to be happy and is smiling.",
+    "objects": [
+      "happy",
+      "she"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She appears to be happy and is smiling.",
+    "objects": [
+      "happy",
+      "she"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She appears to be happy and is smiling.",
+    "objects": [
+      "happy",
+      "she"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She appears to be happy and is smiling.",
+    "objects": [
+      "happy",
+      "she"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A boy is also sitting on the couch, wearing a blue hoodie and holding a toy.",
+    "objects": [
+      "boy",
+      "blue",
+      "hoodie",
+      "couch",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A boy is also sitting on the couch, wearing a blue hoodie and holding a toy.",
+    "objects": [
+      "boy",
+      "blue",
+      "hoodie",
+      "couch",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A boy is also sitting on the couch, wearing a blue hoodie and holding a toy.",
+    "objects": [
+      "boy",
+      "blue",
+      "hoodie",
+      "couch",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A boy is also sitting on the couch, wearing a blue hoodie and holding a toy.",
+    "objects": [
+      "boy",
+      "blue",
+      "hoodie",
+      "couch",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is wearing a necklace and the boy is holding a remote control.",
+    "objects": [
+      "boy",
+      "woman",
+      "control",
+      "remote",
+      "necklace"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is wearing a necklace and the boy is holding a remote control.",
+    "objects": [
+      "boy",
+      "woman",
+      "control",
+      "remote",
+      "necklace"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is wearing a necklace and the boy is holding a remote control.",
+    "objects": [
+      "boy",
+      "woman",
+      "control",
+      "remote",
+      "necklace"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is wearing a necklace and the boy is holding a remote control.",
+    "objects": [
+      "boy",
+      "woman",
+      "control",
+      "remote",
+      "necklace"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The couch they are sitting on has a beige color and is adorned with a blue blanket.",
+    "objects": [
+      "they",
+      "blue",
+      "has",
+      "color",
+      "couch",
+      "beige",
+      "blanket"
+    ],
+    "actions": [
+      "sitting",
+      "adorned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The couch they are sitting on has a beige color and is adorned with a blue blanket.",
+    "objects": [
+      "they",
+      "blue",
+      "has",
+      "color",
+      "couch",
+      "beige",
+      "blanket"
+    ],
+    "actions": [
+      "sitting",
+      "adorned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The couch they are sitting on has a beige color and is adorned with a blue blanket.",
+    "objects": [
+      "they",
+      "blue",
+      "has",
+      "color",
+      "couch",
+      "beige",
+      "blanket"
+    ],
+    "actions": [
+      "sitting",
+      "adorned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The couch they are sitting on has a beige color and is adorned with a blue blanket.",
+    "objects": [
+      "they",
+      "blue",
+      "has",
+      "color",
+      "couch",
+      "beige",
+      "blanket"
+    ],
+    "actions": [
+      "sitting",
+      "adorned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a wooden table nearby, and a Christmas tree with a star and a ball on top, and a blue vase with a flower in it.",
+    "objects": [
+      "there",
+      "table",
+      "star",
+      "blue",
+      "vase",
+      "top",
+      "ball",
+      "tree"
+    ],
+    "actions": [
+      "christmas"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a wooden table nearby, and a Christmas tree with a star and a ball on top, and a blue vase with a flower in it.",
+    "objects": [
+      "there",
+      "table",
+      "star",
+      "blue",
+      "vase",
+      "top",
+      "ball",
+      "tree"
+    ],
+    "actions": [
+      "christmas"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "There is a wooden table nearby, and a Christmas tree with a star and a ball on top, and a blue vase with a flower in it.",
+    "objects": [
+      "there",
+      "table",
+      "star",
+      "blue",
+      "vase",
+      "top",
+      "ball",
+      "tree"
+    ],
+    "actions": [
+      "christmas"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "There is a wooden table nearby, and a Christmas tree with a star and a ball on top, and a blue vase with a flower in it.",
+    "objects": [
+      "there",
+      "table",
+      "star",
+      "blue",
+      "vase",
+      "top",
+      "ball",
+      "tree"
+    ],
+    "actions": [
+      "christmas"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A person is seen wearing a black jacket and a black hat, and another person is wearing a white shirt and black pants.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A person is seen wearing a black jacket and a black hat, and another person is wearing a white shirt and black pants.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A person is seen wearing a black jacket and a black hat, and another person is wearing a white shirt and black pants.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A person is seen wearing a black jacket and a black hat, and another person is wearing a white shirt and black pants.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman is also wearing a black jacket and a black hat.",
+    "objects": [
+      "black",
+      "jacket",
+      "hat",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman is also wearing a black jacket and a black hat.",
+    "objects": [
+      "black",
+      "jacket",
+      "hat",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman is also wearing a black jacket and a black hat.",
+    "objects": [
+      "black",
+      "jacket",
+      "hat",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman is also wearing a black jacket and a black hat.",
+    "objects": [
+      "black",
+      "jacket",
+      "hat",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  }
+]

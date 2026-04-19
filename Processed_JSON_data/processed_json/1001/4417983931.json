@@ -1,0 +1,567 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people enjoying a day of skiing on a snowy mountain.",
+    "objects": [
+      "mountain",
+      "people",
+      "snowy",
+      "see",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "enjoying",
+      "skiing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people enjoying a day of skiing on a snowy mountain.",
+    "objects": [
+      "mountain",
+      "people",
+      "snowy",
+      "see",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "enjoying",
+      "skiing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of people enjoying a day of skiing on a snowy mountain.",
+    "objects": [
+      "mountain",
+      "people",
+      "snowy",
+      "see",
+      "day",
+      "group"
+    ],
+    "actions": [
+      "enjoying",
+      "skiing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is lively and filled with action.",
+    "objects": [
+      "action",
+      "lively"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is lively and filled with action.",
+    "objects": [
+      "action",
+      "lively"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is lively and filled with action.",
+    "objects": [
+      "action",
+      "lively"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Three skiers are in the foreground, with one of them wearing a red jacket, another in a blue hoodie, and the third in a black jacket.",
+    "objects": [
+      "three",
+      "one",
+      "jacket",
+      "black",
+      "blue",
+      "them",
+      "hoodie",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "skiers",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "Three skiers are in the foreground, with one of them wearing a red jacket, another in a blue hoodie, and the third in a black jacket.",
+    "objects": [
+      "three",
+      "one",
+      "jacket",
+      "black",
+      "blue",
+      "them",
+      "hoodie",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "skiers",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "Three skiers are in the foreground, with one of them wearing a red jacket, another in a blue hoodie, and the third in a black jacket.",
+    "objects": [
+      "three",
+      "one",
+      "jacket",
+      "black",
+      "blue",
+      "them",
+      "hoodie",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "skiers",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are skiing down the slope, their bodies leaning into the turns as they navigate the snowy terrain.",
+    "objects": [
+      "they",
+      "their",
+      "terrain",
+      "into",
+      "navigate",
+      "snowy",
+      "slope"
+    ],
+    "actions": [
+      "bodies",
+      "turns",
+      "skiing",
+      "leaning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They are skiing down the slope, their bodies leaning into the turns as they navigate the snowy terrain.",
+    "objects": [
+      "they",
+      "their",
+      "terrain",
+      "into",
+      "navigate",
+      "snowy",
+      "slope"
+    ],
+    "actions": [
+      "bodies",
+      "turns",
+      "skiing",
+      "leaning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They are skiing down the slope, their bodies leaning into the turns as they navigate the snowy terrain.",
+    "objects": [
+      "they",
+      "their",
+      "terrain",
+      "into",
+      "navigate",
+      "snowy",
+      "slope"
+    ],
+    "actions": [
+      "bodies",
+      "turns",
+      "skiing",
+      "leaning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Further down the mountain, another skier is seen in a red jacket, while another skier in a blue jacket and a black jacket is skiing down the slope.",
+    "objects": [
+      "skier",
+      "mountain",
+      "further",
+      "jacket",
+      "while",
+      "blue",
+      "black",
+      "slope"
+    ],
+    "actions": [
+      "skiing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Further down the mountain, another skier is seen in a red jacket, while another skier in a blue jacket and a black jacket is skiing down the slope.",
+    "objects": [
+      "skier",
+      "mountain",
+      "further",
+      "jacket",
+      "while",
+      "blue",
+      "black",
+      "slope"
+    ],
+    "actions": [
+      "skiing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Further down the mountain, another skier is seen in a red jacket, while another skier in a blue jacket and a black jacket is skiing down the slope.",
+    "objects": [
+      "skier",
+      "mountain",
+      "further",
+      "jacket",
+      "while",
+      "blue",
+      "black",
+      "slope"
+    ],
+    "actions": [
+      "skiing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A skier in a red jacket and black pants is also present, making their way down the mountain.",
+    "objects": [
+      "their",
+      "skier",
+      "mountain",
+      "jacket",
+      "black",
+      "way",
+      "present"
+    ],
+    "actions": [
+      "making",
+      "pants",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A skier in a red jacket and black pants is also present, making their way down the mountain.",
+    "objects": [
+      "their",
+      "skier",
+      "mountain",
+      "jacket",
+      "black",
+      "way",
+      "present"
+    ],
+    "actions": [
+      "making",
+      "pants",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A skier in a red jacket and black pants is also present, making their way down the mountain.",
+    "objects": [
+      "their",
+      "skier",
+      "mountain",
+      "jacket",
+      "black",
+      "way",
+      "present"
+    ],
+    "actions": [
+      "making",
+      "pants",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, two skiers are captured in the act of falling.",
+    "objects": [
+      "act",
+      "two"
+    ],
+    "actions": [
+      "falling",
+      "skiers",
+      "captured"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, two skiers are captured in the act of falling.",
+    "objects": [
+      "act",
+      "two"
+    ],
+    "actions": [
+      "falling",
+      "skiers",
+      "captured"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, two skiers are captured in the act of falling.",
+    "objects": [
+      "act",
+      "two"
+    ],
+    "actions": [
+      "falling",
+      "skiers",
+      "captured"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "One of them is wearing a black jacket and a red helmet, while the other is dressed in a blue jacket.",
+    "objects": [
+      "one",
+      "other",
+      "while",
+      "black",
+      "jacket",
+      "blue",
+      "them",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "One of them is wearing a black jacket and a red helmet, while the other is dressed in a blue jacket.",
+    "objects": [
+      "one",
+      "other",
+      "while",
+      "black",
+      "jacket",
+      "blue",
+      "them",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "One of them is wearing a black jacket and a red helmet, while the other is dressed in a blue jacket.",
+    "objects": [
+      "one",
+      "other",
+      "while",
+      "black",
+      "jacket",
+      "blue",
+      "them",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "These skiers seem to be losing their balance and falling, their bodies in motion as they tumble down the mountain.",
+    "objects": [
+      "their",
+      "they",
+      "motion",
+      "tumble",
+      "mountain",
+      "balance",
+      "seem",
+      "these"
+    ],
+    "actions": [
+      "falling",
+      "bodies",
+      "losing",
+      "skiers"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "These skiers seem to be losing their balance and falling, their bodies in motion as they tumble down the mountain.",
+    "objects": [
+      "their",
+      "they",
+      "motion",
+      "tumble",
+      "mountain",
+      "balance",
+      "seem",
+      "these"
+    ],
+    "actions": [
+      "falling",
+      "bodies",
+      "losing",
+      "skiers"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "These skiers seem to be losing their balance and falling, their bodies in motion as they tumble down the mountain.",
+    "objects": [
+      "their",
+      "they",
+      "motion",
+      "tumble",
+      "mountain",
+      "balance",
+      "seem",
+      "these"
+    ],
+    "actions": [
+      "falling",
+      "bodies",
+      "losing",
+      "skiers"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera captures their descent, highlighting the excitement and thrill of skiing.",
+    "objects": [
+      "their",
+      "excitement",
+      "thrill",
+      "descent"
+    ],
+    "actions": [
+      "skiing",
+      "highlighting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera captures their descent, highlighting the excitement and thrill of skiing.",
+    "objects": [
+      "their",
+      "excitement",
+      "thrill",
+      "descent"
+    ],
+    "actions": [
+      "skiing",
+      "highlighting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera captures their descent, highlighting the excitement and thrill of skiing.",
+    "objects": [
+      "their",
+      "excitement",
+      "thrill",
+      "descent"
+    ],
+    "actions": [
+      "skiing",
+      "highlighting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The skiers in the foreground are wearing helmets for safety, and some are also seen wearing goggles, adding to the authenticity of the skiing experience.",
+    "objects": [
+      "some",
+      "authenticity",
+      "experience",
+      "safety"
+    ],
+    "actions": [
+      "adding",
+      "wearing",
+      "goggles",
+      "skiers"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The skiers in the foreground are wearing helmets for safety, and some are also seen wearing goggles, adding to the authenticity of the skiing experience.",
+    "objects": [
+      "some",
+      "authenticity",
+      "experience",
+      "safety"
+    ],
+    "actions": [
+      "adding",
+      "wearing",
+      "goggles",
+      "skiers"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,580 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of children are seen playing in a backyard.",
+    "objects": [
+      "backyard",
+      "children",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of children are seen playing in a backyard.",
+    "objects": [
+      "backyard",
+      "children",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of children are seen playing in a backyard.",
+    "objects": [
+      "backyard",
+      "children",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is set in a suburban neighborhood with a white house in the background.",
+    "objects": [
+      "suburban",
+      "white",
+      "house",
+      "neighborhood",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is set in a suburban neighborhood with a white house in the background.",
+    "objects": [
+      "suburban",
+      "white",
+      "house",
+      "neighborhood",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is set in a suburban neighborhood with a white house in the background.",
+    "objects": [
+      "suburban",
+      "white",
+      "house",
+      "neighborhood",
+      "set"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The backyard is a grassy area with a wooden fence, and a silver car is parked in the driveway.",
+    "objects": [
+      "driveway",
+      "silver",
+      "backyard",
+      "wooden",
+      "grassy",
+      "car",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The backyard is a grassy area with a wooden fence, and a silver car is parked in the driveway.",
+    "objects": [
+      "driveway",
+      "silver",
+      "backyard",
+      "wooden",
+      "grassy",
+      "car",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The backyard is a grassy area with a wooden fence, and a silver car is parked in the driveway.",
+    "objects": [
+      "driveway",
+      "silver",
+      "backyard",
+      "wooden",
+      "grassy",
+      "car",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "There are two young boys wearing blue shorts and a girl wearing a pink top.",
+    "objects": [
+      "there",
+      "two",
+      "pink",
+      "blue",
+      "boys",
+      "top",
+      "girl",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "There are two young boys wearing blue shorts and a girl wearing a pink top.",
+    "objects": [
+      "there",
+      "two",
+      "pink",
+      "blue",
+      "boys",
+      "top",
+      "girl",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "There are two young boys wearing blue shorts and a girl wearing a pink top.",
+    "objects": [
+      "there",
+      "two",
+      "pink",
+      "blue",
+      "boys",
+      "top",
+      "girl",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Another girl is wearing a white top and holding a frisbee, and a young boy wearing a blue shirt is holding a red ball.",
+    "objects": [
+      "frisbee",
+      "white",
+      "boy",
+      "young",
+      "blue",
+      "shirt",
+      "top",
+      "ball"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Another girl is wearing a white top and holding a frisbee, and a young boy wearing a blue shirt is holding a red ball.",
+    "objects": [
+      "frisbee",
+      "white",
+      "boy",
+      "young",
+      "blue",
+      "shirt",
+      "top",
+      "ball"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Another girl is wearing a white top and holding a frisbee, and a young boy wearing a blue shirt is holding a red ball.",
+    "objects": [
+      "frisbee",
+      "white",
+      "boy",
+      "young",
+      "blue",
+      "shirt",
+      "top",
+      "ball"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A boy wearing a blue shirt is standing in the yard, and another boy wearing a black shirt is standing next to him.",
+    "objects": [
+      "boy",
+      "black",
+      "him",
+      "blue",
+      "shirt",
+      "yard"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A boy wearing a blue shirt is standing in the yard, and another boy wearing a black shirt is standing next to him.",
+    "objects": [
+      "boy",
+      "black",
+      "him",
+      "blue",
+      "shirt",
+      "yard"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A boy wearing a blue shirt is standing in the yard, and another boy wearing a black shirt is standing next to him.",
+    "objects": [
+      "boy",
+      "black",
+      "him",
+      "blue",
+      "shirt",
+      "yard"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "There is also a boy wearing a red shirt and blue shorts and holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "there",
+      "boy",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "There is also a boy wearing a red shirt and blue shorts and holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "there",
+      "boy",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "There is also a boy wearing a red shirt and blue shorts and holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "there",
+      "boy",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The young boy wearing a white shirt is walking, and a girl in a blue shirt is running towards the kids.",
+    "objects": [
+      "kids",
+      "boy",
+      "white",
+      "young",
+      "blue",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "running",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The young boy wearing a white shirt is walking, and a girl in a blue shirt is running towards the kids.",
+    "objects": [
+      "kids",
+      "boy",
+      "white",
+      "young",
+      "blue",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "running",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The young boy wearing a white shirt is walking, and a girl in a blue shirt is running towards the kids.",
+    "objects": [
+      "kids",
+      "boy",
+      "white",
+      "young",
+      "blue",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "running",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A boy wearing a blue shirt is standing in the yard, and a young girl wearing a pink shirt is running towards them.",
+    "objects": [
+      "boy",
+      "pink",
+      "blue",
+      "shirt",
+      "girl",
+      "them",
+      "young",
+      "yard"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "towards",
+      "running"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A boy wearing a blue shirt is standing in the yard, and a young girl wearing a pink shirt is running towards them.",
+    "objects": [
+      "boy",
+      "pink",
+      "blue",
+      "shirt",
+      "girl",
+      "them",
+      "young",
+      "yard"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "towards",
+      "running"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A boy wearing a blue shirt is standing in the yard, and a young girl wearing a pink shirt is running towards them.",
+    "objects": [
+      "boy",
+      "pink",
+      "blue",
+      "shirt",
+      "girl",
+      "them",
+      "young",
+      "yard"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "towards",
+      "running"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "Additionally, a boy wearing a grey shirt is walking, and a girl wearing a white shirt is standing in the yard.",
+    "objects": [
+      "boy",
+      "white",
+      "grey",
+      "shirt",
+      "yard",
+      "girl",
+      "additionally"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "Additionally, a boy wearing a grey shirt is walking, and a girl wearing a white shirt is standing in the yard.",
+    "objects": [
+      "boy",
+      "white",
+      "grey",
+      "shirt",
+      "yard",
+      "girl",
+      "additionally"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "Additionally, a boy wearing a grey shirt is walking, and a girl wearing a white shirt is standing in the yard.",
+    "objects": [
+      "boy",
+      "white",
+      "grey",
+      "shirt",
+      "yard",
+      "girl",
+      "additionally"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Finally, there is a boy wearing a red shirt and blue shorts who is walking.",
+    "objects": [
+      "there",
+      "boy",
+      "finally",
+      "blue",
+      "shirt",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Finally, there is a boy wearing a red shirt and blue shorts who is walking.",
+    "objects": [
+      "there",
+      "boy",
+      "finally",
+      "blue",
+      "shirt",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "shorts",
+      "red"
+    ],
+    "segment_id": 10
+  }
+]

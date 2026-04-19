@@ -1,0 +1,562 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man in a blue hoodie and hat, and another person in a blue jacket and black pants, both wearing blue hats.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "see",
+      "hat",
+      "both",
+      "hats",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man in a blue hoodie and hat, and another person in a blue jacket and black pants, both wearing blue hats.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "see",
+      "hat",
+      "both",
+      "hats",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man in a blue hoodie and hat, and another person in a blue jacket and black pants, both wearing blue hats.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "see",
+      "hat",
+      "both",
+      "hats",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man in a blue hoodie and hat, and another person in a blue jacket and black pants, both wearing blue hats.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "see",
+      "hat",
+      "both",
+      "hats",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is holding a blue ball and walking through a course with obstacles.",
+    "objects": [
+      "through",
+      "man",
+      "blue",
+      "course",
+      "ball"
+    ],
+    "actions": [
+      "walking",
+      "obstacles",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is holding a blue ball and walking through a course with obstacles.",
+    "objects": [
+      "through",
+      "man",
+      "blue",
+      "course",
+      "ball"
+    ],
+    "actions": [
+      "walking",
+      "obstacles",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is holding a blue ball and walking through a course with obstacles.",
+    "objects": [
+      "through",
+      "man",
+      "blue",
+      "course",
+      "ball"
+    ],
+    "actions": [
+      "walking",
+      "obstacles",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is holding a blue ball and walking through a course with obstacles.",
+    "objects": [
+      "through",
+      "man",
+      "blue",
+      "course",
+      "ball"
+    ],
+    "actions": [
+      "walking",
+      "obstacles",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are accompanied by a dog, which is black and white.",
+    "objects": [
+      "which",
+      "white",
+      "they",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "accompanied"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are accompanied by a dog, which is black and white.",
+    "objects": [
+      "which",
+      "white",
+      "they",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "accompanied"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are accompanied by a dog, which is black and white.",
+    "objects": [
+      "which",
+      "white",
+      "they",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "accompanied"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are accompanied by a dog, which is black and white.",
+    "objects": [
+      "which",
+      "white",
+      "they",
+      "dog",
+      "black"
+    ],
+    "actions": [
+      "accompanied"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The course is filled with various obstacles, such as wooden poles and a blue hose.",
+    "objects": [
+      "such",
+      "wooden",
+      "blue",
+      "hose",
+      "course"
+    ],
+    "actions": [
+      "obstacles",
+      "poles",
+      "filled"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The course is filled with various obstacles, such as wooden poles and a blue hose.",
+    "objects": [
+      "such",
+      "wooden",
+      "blue",
+      "hose",
+      "course"
+    ],
+    "actions": [
+      "obstacles",
+      "poles",
+      "filled"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The course is filled with various obstacles, such as wooden poles and a blue hose.",
+    "objects": [
+      "such",
+      "wooden",
+      "blue",
+      "hose",
+      "course"
+    ],
+    "actions": [
+      "obstacles",
+      "poles",
+      "filled"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The course is filled with various obstacles, such as wooden poles and a blue hose.",
+    "objects": [
+      "such",
+      "wooden",
+      "blue",
+      "hose",
+      "course"
+    ],
+    "actions": [
+      "obstacles",
+      "poles",
+      "filled"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is also holding a blue ball, which he seems to be throwing at the dog, who is black and white.",
+    "objects": [
+      "black",
+      "which",
+      "man",
+      "white",
+      "who",
+      "blue",
+      "ball",
+      "dog"
+    ],
+    "actions": [
+      "holding",
+      "throwing",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is also holding a blue ball, which he seems to be throwing at the dog, who is black and white.",
+    "objects": [
+      "black",
+      "which",
+      "man",
+      "white",
+      "who",
+      "blue",
+      "ball",
+      "dog"
+    ],
+    "actions": [
+      "holding",
+      "throwing",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is also holding a blue ball, which he seems to be throwing at the dog, who is black and white.",
+    "objects": [
+      "black",
+      "which",
+      "man",
+      "white",
+      "who",
+      "blue",
+      "ball",
+      "dog"
+    ],
+    "actions": [
+      "holding",
+      "throwing",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is also holding a blue ball, which he seems to be throwing at the dog, who is black and white.",
+    "objects": [
+      "black",
+      "which",
+      "man",
+      "white",
+      "who",
+      "blue",
+      "ball",
+      "dog"
+    ],
+    "actions": [
+      "holding",
+      "throwing",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is also wearing blue shoes and blue pants.",
+    "objects": [
+      "man",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is also wearing blue shoes and blue pants.",
+    "objects": [
+      "man",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is also wearing blue shoes and blue pants.",
+    "objects": [
+      "man",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is also wearing blue shoes and blue pants.",
+    "objects": [
+      "man",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The course is set in a park surrounded by trees, and there are blue tents and a blue fence in the background.",
+    "objects": [
+      "there",
+      "park",
+      "blue",
+      "fence",
+      "course",
+      "set"
+    ],
+    "actions": [
+      "surrounded",
+      "trees",
+      "tents"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The course is set in a park surrounded by trees, and there are blue tents and a blue fence in the background.",
+    "objects": [
+      "there",
+      "park",
+      "blue",
+      "fence",
+      "course",
+      "set"
+    ],
+    "actions": [
+      "surrounded",
+      "trees",
+      "tents"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The course is set in a park surrounded by trees, and there are blue tents and a blue fence in the background.",
+    "objects": [
+      "there",
+      "park",
+      "blue",
+      "fence",
+      "course",
+      "set"
+    ],
+    "actions": [
+      "surrounded",
+      "trees",
+      "tents"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The course is set in a park surrounded by trees, and there are blue tents and a blue fence in the background.",
+    "objects": [
+      "there",
+      "park",
+      "blue",
+      "fence",
+      "course",
+      "set"
+    ],
+    "actions": [
+      "surrounded",
+      "trees",
+      "tents"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man is walking his dog through the course while another man is standing on the other side of the fence, holding a blue pole.",
+    "objects": [
+      "pole",
+      "through",
+      "man",
+      "other",
+      "side",
+      "blue",
+      "while",
+      "fence"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man is walking his dog through the course while another man is standing on the other side of the fence, holding a blue pole.",
+    "objects": [
+      "pole",
+      "through",
+      "man",
+      "other",
+      "side",
+      "blue",
+      "while",
+      "fence"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man is walking his dog through the course while another man is standing on the other side of the fence, holding a blue pole.",
+    "objects": [
+      "pole",
+      "through",
+      "man",
+      "other",
+      "side",
+      "blue",
+      "while",
+      "fence"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man is walking his dog through the course while another man is standing on the other side of the fence, holding a blue pole.",
+    "objects": [
+      "pole",
+      "through",
+      "man",
+      "other",
+      "side",
+      "blue",
+      "while",
+      "fence"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

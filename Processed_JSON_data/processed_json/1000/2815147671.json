@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively nightclub scene.",
+    "objects": [
+      "lively",
+      "nightclub"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively nightclub scene.",
+    "objects": [
+      "lively",
+      "nightclub"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively nightclub scene.",
+    "objects": [
+      "lively",
+      "nightclub"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively nightclub scene.",
+    "objects": [
+      "lively",
+      "nightclub"
+    ],
+    "actions": [
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "At the center of the frame, a woman is passionately singing into a microphone.",
+    "objects": [
+      "woman",
+      "center",
+      "microphone",
+      "passionately",
+      "into"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "At the center of the frame, a woman is passionately singing into a microphone.",
+    "objects": [
+      "woman",
+      "center",
+      "microphone",
+      "passionately",
+      "into"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "At the center of the frame, a woman is passionately singing into a microphone.",
+    "objects": [
+      "woman",
+      "center",
+      "microphone",
+      "passionately",
+      "into"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "At the center of the frame, a woman is passionately singing into a microphone.",
+    "objects": [
+      "woman",
+      "center",
+      "microphone",
+      "passionately",
+      "into"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "She is dressed in a vibrant blue hoodie, her voice echoing through the room.",
+    "objects": [
+      "through",
+      "she",
+      "vibrant",
+      "hoodie",
+      "blue",
+      "voice",
+      "her",
+      "room"
+    ],
+    "actions": [
+      "echoing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "She is dressed in a vibrant blue hoodie, her voice echoing through the room.",
+    "objects": [
+      "through",
+      "she",
+      "vibrant",
+      "hoodie",
+      "blue",
+      "voice",
+      "her",
+      "room"
+    ],
+    "actions": [
+      "echoing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "She is dressed in a vibrant blue hoodie, her voice echoing through the room.",
+    "objects": [
+      "through",
+      "she",
+      "vibrant",
+      "hoodie",
+      "blue",
+      "voice",
+      "her",
+      "room"
+    ],
+    "actions": [
+      "echoing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "She is dressed in a vibrant blue hoodie, her voice echoing through the room.",
+    "objects": [
+      "through",
+      "she",
+      "vibrant",
+      "hoodie",
+      "blue",
+      "voice",
+      "her",
+      "room"
+    ],
+    "actions": [
+      "echoing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "In the background, a DJ is spinning a record, creating an upbeat atmosphere.",
+    "objects": [
+      "atmosphere",
+      "upbeat",
+      "record"
+    ],
+    "actions": [
+      "creating",
+      "spinning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "In the background, a DJ is spinning a record, creating an upbeat atmosphere.",
+    "objects": [
+      "atmosphere",
+      "upbeat",
+      "record"
+    ],
+    "actions": [
+      "creating",
+      "spinning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "In the background, a DJ is spinning a record, creating an upbeat atmosphere.",
+    "objects": [
+      "atmosphere",
+      "upbeat",
+      "record"
+    ],
+    "actions": [
+      "creating",
+      "spinning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, a DJ is spinning a record, creating an upbeat atmosphere.",
+    "objects": [
+      "atmosphere",
+      "upbeat",
+      "record"
+    ],
+    "actions": [
+      "creating",
+      "spinning"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A man is standing behind her, donning a black shirt, attentively watching her performance.",
+    "objects": [
+      "behind",
+      "man",
+      "her",
+      "performance",
+      "attentively",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "donning",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A man is standing behind her, donning a black shirt, attentively watching her performance.",
+    "objects": [
+      "behind",
+      "man",
+      "her",
+      "performance",
+      "attentively",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "donning",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A man is standing behind her, donning a black shirt, attentively watching her performance.",
+    "objects": [
+      "behind",
+      "man",
+      "her",
+      "performance",
+      "attentively",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "donning",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A man is standing behind her, donning a black shirt, attentively watching her performance.",
+    "objects": [
+      "behind",
+      "man",
+      "her",
+      "performance",
+      "attentively",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "donning",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman's voice fills the room, resonating with the sound of the music.",
+    "objects": [
+      "music",
+      "voice",
+      "sound",
+      "room"
+    ],
+    "actions": [
+      "fills",
+      "resonating",
+      "woman's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman's voice fills the room, resonating with the sound of the music.",
+    "objects": [
+      "music",
+      "voice",
+      "sound",
+      "room"
+    ],
+    "actions": [
+      "fills",
+      "resonating",
+      "woman's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman's voice fills the room, resonating with the sound of the music.",
+    "objects": [
+      "music",
+      "voice",
+      "sound",
+      "room"
+    ],
+    "actions": [
+      "fills",
+      "resonating",
+      "woman's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman's voice fills the room, resonating with the sound of the music.",
+    "objects": [
+      "music",
+      "voice",
+      "sound",
+      "room"
+    ],
+    "actions": [
+      "fills",
+      "resonating",
+      "woman's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The club is bustling with people, some standing around the bar, others dancing to the rhythm, and a few are seated at the tables, engrossed in the performance.",
+    "objects": [
+      "some",
+      "rhythm",
+      "people",
+      "performance",
+      "bar",
+      "club",
+      "around",
+      "few"
+    ],
+    "actions": [
+      "engrossed",
+      "seated",
+      "standing",
+      "dancing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The club is bustling with people, some standing around the bar, others dancing to the rhythm, and a few are seated at the tables, engrossed in the performance.",
+    "objects": [
+      "some",
+      "rhythm",
+      "people",
+      "performance",
+      "bar",
+      "club",
+      "around",
+      "few"
+    ],
+    "actions": [
+      "engrossed",
+      "seated",
+      "standing",
+      "dancing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The club is bustling with people, some standing around the bar, others dancing to the rhythm, and a few are seated at the tables, engrossed in the performance.",
+    "objects": [
+      "some",
+      "rhythm",
+      "people",
+      "performance",
+      "bar",
+      "club",
+      "around",
+      "few"
+    ],
+    "actions": [
+      "engrossed",
+      "seated",
+      "standing",
+      "dancing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The club is bustling with people, some standing around the bar, others dancing to the rhythm, and a few are seated at the tables, engrossed in the performance.",
+    "objects": [
+      "some",
+      "rhythm",
+      "people",
+      "performance",
+      "bar",
+      "club",
+      "around",
+      "few"
+    ],
+    "actions": [
+      "engrossed",
+      "seated",
+      "standing",
+      "dancing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman's blue hoodie stands out against the dimly lit club, creating a striking contrast.",
+    "objects": [
+      "out",
+      "lit",
+      "contrast",
+      "hoodie",
+      "blue",
+      "against",
+      "club",
+      "dimly"
+    ],
+    "actions": [
+      "creating",
+      "stands",
+      "striking",
+      "woman's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman's blue hoodie stands out against the dimly lit club, creating a striking contrast.",
+    "objects": [
+      "out",
+      "lit",
+      "contrast",
+      "hoodie",
+      "blue",
+      "against",
+      "club",
+      "dimly"
+    ],
+    "actions": [
+      "creating",
+      "stands",
+      "striking",
+      "woman's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman's blue hoodie stands out against the dimly lit club, creating a striking contrast.",
+    "objects": [
+      "out",
+      "lit",
+      "contrast",
+      "hoodie",
+      "blue",
+      "against",
+      "club",
+      "dimly"
+    ],
+    "actions": [
+      "creating",
+      "stands",
+      "striking",
+      "woman's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman's blue hoodie stands out against the dimly lit club, creating a striking contrast.",
+    "objects": [
+      "out",
+      "lit",
+      "contrast",
+      "hoodie",
+      "blue",
+      "against",
+      "club",
+      "dimly"
+    ],
+    "actions": [
+      "creating",
+      "stands",
+      "striking",
+      "woman's"
+    ],
+    "segment_id": 7
+  }
+]

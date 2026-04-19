@@ -1,0 +1,563 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a close-up shot of a small rodent, possibly a hamster, in a pet store.",
+    "objects": [
+      "small",
+      "hamster",
+      "pet",
+      "rodent",
+      "store",
+      "possibly"
+    ],
+    "actions": [
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a close-up shot of a small rodent, possibly a hamster, in a pet store.",
+    "objects": [
+      "small",
+      "hamster",
+      "pet",
+      "rodent",
+      "store",
+      "possibly"
+    ],
+    "actions": [
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video begins with a close-up shot of a small rodent, possibly a hamster, in a pet store.",
+    "objects": [
+      "small",
+      "hamster",
+      "pet",
+      "rodent",
+      "store",
+      "possibly"
+    ],
+    "actions": [
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The rodent is standing upright and appears to be curiously observing its surroundings.",
+    "objects": [
+      "upright",
+      "curiously",
+      "its",
+      "rodent"
+    ],
+    "actions": [
+      "observing",
+      "surroundings",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The rodent is standing upright and appears to be curiously observing its surroundings.",
+    "objects": [
+      "upright",
+      "curiously",
+      "its",
+      "rodent"
+    ],
+    "actions": [
+      "observing",
+      "surroundings",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The rodent is standing upright and appears to be curiously observing its surroundings.",
+    "objects": [
+      "upright",
+      "curiously",
+      "its",
+      "rodent"
+    ],
+    "actions": [
+      "observing",
+      "surroundings",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans around to reveal a larger rodent, possibly a gerbil, in a circular cage with a metal wheel, which seems to be its enclosure.",
+    "objects": [
+      "wheel",
+      "gerbil",
+      "cage",
+      "enclosure",
+      "then",
+      "its",
+      "reveal",
+      "rodent"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then pans around to reveal a larger rodent, possibly a gerbil, in a circular cage with a metal wheel, which seems to be its enclosure.",
+    "objects": [
+      "wheel",
+      "gerbil",
+      "cage",
+      "enclosure",
+      "then",
+      "its",
+      "reveal",
+      "rodent"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then pans around to reveal a larger rodent, possibly a gerbil, in a circular cage with a metal wheel, which seems to be its enclosure.",
+    "objects": [
+      "wheel",
+      "gerbil",
+      "cage",
+      "enclosure",
+      "then",
+      "its",
+      "reveal",
+      "rodent"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The rodent is moving around the wheel, possibly in a playful manner, and seems to be exploring its environment.",
+    "objects": [
+      "wheel",
+      "manner",
+      "its",
+      "rodent",
+      "possibly",
+      "playful",
+      "environment",
+      "around"
+    ],
+    "actions": [
+      "exploring",
+      "moving",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The rodent is moving around the wheel, possibly in a playful manner, and seems to be exploring its environment.",
+    "objects": [
+      "wheel",
+      "manner",
+      "its",
+      "rodent",
+      "possibly",
+      "playful",
+      "environment",
+      "around"
+    ],
+    "actions": [
+      "exploring",
+      "moving",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The rodent is moving around the wheel, possibly in a playful manner, and seems to be exploring its environment.",
+    "objects": [
+      "wheel",
+      "manner",
+      "its",
+      "rodent",
+      "possibly",
+      "playful",
+      "environment",
+      "around"
+    ],
+    "actions": [
+      "exploring",
+      "moving",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then returns to the smaller rodent, which is now sitting upright, and it seems to be observing the larger rodent's actions.",
+    "objects": [
+      "then",
+      "now",
+      "smaller",
+      "rodent",
+      "which",
+      "upright",
+      "larger"
+    ],
+    "actions": [
+      "observing",
+      "returns",
+      "sitting",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then returns to the smaller rodent, which is now sitting upright, and it seems to be observing the larger rodent's actions.",
+    "objects": [
+      "then",
+      "now",
+      "smaller",
+      "rodent",
+      "which",
+      "upright",
+      "larger"
+    ],
+    "actions": [
+      "observing",
+      "returns",
+      "sitting",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then returns to the smaller rodent, which is now sitting upright, and it seems to be observing the larger rodent's actions.",
+    "objects": [
+      "then",
+      "now",
+      "smaller",
+      "rodent",
+      "which",
+      "upright",
+      "larger"
+    ],
+    "actions": [
+      "observing",
+      "returns",
+      "sitting",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The larger rodent is not visible in the shot.",
+    "objects": [
+      "not",
+      "larger",
+      "rodent"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The larger rodent is not visible in the shot.",
+    "objects": [
+      "not",
+      "larger",
+      "rodent"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The larger rodent is not visible in the shot.",
+    "objects": [
+      "not",
+      "larger",
+      "rodent"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene then shifts to a larger rodent, possibly a gerbil or hamster, in a larger circular cage with a metal wheel, where it is standing upright and appears to be looking around.",
+    "objects": [
+      "where",
+      "wheel",
+      "gerbil",
+      "hamster",
+      "cage",
+      "then",
+      "rodent",
+      "metal"
+    ],
+    "actions": [
+      "shifts",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene then shifts to a larger rodent, possibly a gerbil or hamster, in a larger circular cage with a metal wheel, where it is standing upright and appears to be looking around.",
+    "objects": [
+      "where",
+      "wheel",
+      "gerbil",
+      "hamster",
+      "cage",
+      "then",
+      "rodent",
+      "metal"
+    ],
+    "actions": [
+      "shifts",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene then shifts to a larger rodent, possibly a gerbil or hamster, in a larger circular cage with a metal wheel, where it is standing upright and appears to be looking around.",
+    "objects": [
+      "where",
+      "wheel",
+      "gerbil",
+      "hamster",
+      "cage",
+      "then",
+      "rodent",
+      "metal"
+    ],
+    "actions": [
+      "shifts",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then pans back to the smaller rodent, which is now sitting upright and looking at the larger rodent.",
+    "objects": [
+      "then",
+      "now",
+      "smaller",
+      "rodent",
+      "which",
+      "upright",
+      "larger",
+      "pans"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then pans back to the smaller rodent, which is now sitting upright and looking at the larger rodent.",
+    "objects": [
+      "then",
+      "now",
+      "smaller",
+      "rodent",
+      "which",
+      "upright",
+      "larger",
+      "pans"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then pans back to the smaller rodent, which is now sitting upright and looking at the larger rodent.",
+    "objects": [
+      "then",
+      "now",
+      "smaller",
+      "rodent",
+      "which",
+      "upright",
+      "larger",
+      "pans"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The larger rodent is not visible in the shot.",
+    "objects": [
+      "not",
+      "larger",
+      "rodent"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The larger rodent is not visible in the shot.",
+    "objects": [
+      "not",
+      "larger",
+      "rodent"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The larger rodent is not visible in the shot.",
+    "objects": [
+      "not",
+      "larger",
+      "rodent"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene then changes to a large rodent, possibly a gerbil or hamster, in a larger circular cage with a metal wheel, where it is sitting upright and looking at the camera.",
+    "objects": [
+      "where",
+      "wheel",
+      "gerbil",
+      "hamster",
+      "cage",
+      "then",
+      "rodent",
+      "metal"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "changes"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene then changes to a large rodent, possibly a gerbil or hamster, in a larger circular cage with a metal wheel, where it is sitting upright and looking at the camera.",
+    "objects": [
+      "where",
+      "wheel",
+      "gerbil",
+      "hamster",
+      "cage",
+      "then",
+      "rodent",
+      "metal"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "changes"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene then changes to a large rodent, possibly a gerbil or hamster, in a larger circular cage with a metal wheel, where it is sitting upright and looking at the camera.",
+    "objects": [
+      "where",
+      "wheel",
+      "gerbil",
+      "hamster",
+      "cage",
+      "then",
+      "rodent",
+      "metal"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "changes"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera then returns to the smaller rodent, which is now standing upright and looking at the camera.",
+    "objects": [
+      "then",
+      "now",
+      "smaller",
+      "rodent",
+      "which",
+      "upright"
+    ],
+    "actions": [
+      "returns",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera then returns to the smaller rodent, which is now standing upright and looking at the camera.",
+    "objects": [
+      "then",
+      "now",
+      "smaller",
+      "rodent",
+      "which",
+      "upright"
+    ],
+    "actions": [
+      "returns",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 10
+  }
+]

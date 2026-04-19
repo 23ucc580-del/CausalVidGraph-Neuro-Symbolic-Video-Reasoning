@@ -1,0 +1,535 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene of a group of people playing musical instruments together, creating an atmosphere of camaraderie and creativity.",
+    "objects": [
+      "people",
+      "musical",
+      "lively",
+      "camaraderie",
+      "creativity",
+      "atmosphere",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "instruments",
+      "creating",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively scene of a group of people playing musical instruments together, creating an atmosphere of camaraderie and creativity.",
+    "objects": [
+      "people",
+      "musical",
+      "lively",
+      "camaraderie",
+      "creativity",
+      "atmosphere",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "instruments",
+      "creating",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively scene of a group of people playing musical instruments together, creating an atmosphere of camaraderie and creativity.",
+    "objects": [
+      "people",
+      "musical",
+      "lively",
+      "camaraderie",
+      "creativity",
+      "atmosphere",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "instruments",
+      "creating",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The performers, dressed in casual attire, are distributed across the frame, with some seated on chairs and others standing, creating a sense of a shared performance space.",
+    "objects": [
+      "attire",
+      "casual",
+      "across",
+      "sense",
+      "some",
+      "performance",
+      "space"
+    ],
+    "actions": [
+      "standing",
+      "performers",
+      "others",
+      "chairs"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The performers, dressed in casual attire, are distributed across the frame, with some seated on chairs and others standing, creating a sense of a shared performance space.",
+    "objects": [
+      "attire",
+      "casual",
+      "across",
+      "sense",
+      "some",
+      "performance",
+      "space"
+    ],
+    "actions": [
+      "standing",
+      "performers",
+      "others",
+      "chairs"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The performers, dressed in casual attire, are distributed across the frame, with some seated on chairs and others standing, creating a sense of a shared performance space.",
+    "objects": [
+      "attire",
+      "casual",
+      "across",
+      "sense",
+      "some",
+      "performance",
+      "space"
+    ],
+    "actions": [
+      "standing",
+      "performers",
+      "others",
+      "chairs"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The instruments being played include a guitar, a ukulele, and a saxophone.",
+    "objects": [
+      "saxophone",
+      "ukulele",
+      "include",
+      "guitar"
+    ],
+    "actions": [
+      "instruments",
+      "played",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The instruments being played include a guitar, a ukulele, and a saxophone.",
+    "objects": [
+      "saxophone",
+      "ukulele",
+      "include",
+      "guitar"
+    ],
+    "actions": [
+      "instruments",
+      "played",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The instruments being played include a guitar, a ukulele, and a saxophone.",
+    "objects": [
+      "saxophone",
+      "ukulele",
+      "include",
+      "guitar"
+    ],
+    "actions": [
+      "instruments",
+      "played",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The guitarist is wearing a blue t-shirt and playing the guitar while seated on a chair.",
+    "objects": [
+      "while",
+      "blue",
+      "guitar",
+      "guitarist",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "seated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The guitarist is wearing a blue t-shirt and playing the guitar while seated on a chair.",
+    "objects": [
+      "while",
+      "blue",
+      "guitar",
+      "guitarist",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "seated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The guitarist is wearing a blue t-shirt and playing the guitar while seated on a chair.",
+    "objects": [
+      "while",
+      "blue",
+      "guitar",
+      "guitarist",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "seated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "To his right, there is a ukulele player wearing a white t-shirt and standing.",
+    "objects": [
+      "there",
+      "white",
+      "ukulele",
+      "player",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "To his right, there is a ukulele player wearing a white t-shirt and standing.",
+    "objects": [
+      "there",
+      "white",
+      "ukulele",
+      "player",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "To his right, there is a ukulele player wearing a white t-shirt and standing.",
+    "objects": [
+      "there",
+      "white",
+      "ukulele",
+      "player",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A saxophone player is also standing, dressed in a black t-shirt.",
+    "objects": [
+      "saxophone",
+      "player",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A saxophone player is also standing, dressed in a black t-shirt.",
+    "objects": [
+      "saxophone",
+      "player",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A saxophone player is also standing, dressed in a black t-shirt.",
+    "objects": [
+      "saxophone",
+      "player",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The performers are engaged in the music, with one playing the saxophone and another playing the guitar.",
+    "objects": [
+      "one",
+      "music",
+      "saxophone",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "performers",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The performers are engaged in the music, with one playing the saxophone and another playing the guitar.",
+    "objects": [
+      "one",
+      "music",
+      "saxophone",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "performers",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The performers are engaged in the music, with one playing the saxophone and another playing the guitar.",
+    "objects": [
+      "one",
+      "music",
+      "saxophone",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "performers",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "There is also a drummer standing, holding a drumstick.",
+    "objects": [
+      "drummer",
+      "drumstick",
+      "there"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "There is also a drummer standing, holding a drumstick.",
+    "objects": [
+      "drummer",
+      "drumstick",
+      "there"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "There is also a drummer standing, holding a drumstick.",
+    "objects": [
+      "drummer",
+      "drumstick",
+      "there"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "In the background, a building with a sign that reads \"Melvin\" is visible.",
+    "objects": [
+      "that",
+      "sign"
+    ],
+    "actions": [
+      "building",
+      "reads"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, a building with a sign that reads \"Melvin\" is visible.",
+    "objects": [
+      "that",
+      "sign"
+    ],
+    "actions": [
+      "building",
+      "reads"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, a building with a sign that reads \"Melvin\" is visible.",
+    "objects": [
+      "that",
+      "sign"
+    ],
+    "actions": [
+      "building",
+      "reads"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The performers seem to be enjoying themselves, with one person smiling and another laughing, adding to the overall cheerful vibe of the scene.",
+    "objects": [
+      "one",
+      "seem",
+      "vibe",
+      "overall",
+      "cheerful"
+    ],
+    "actions": [
+      "adding",
+      "performers",
+      "smiling",
+      "themselves"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The performers seem to be enjoying themselves, with one person smiling and another laughing, adding to the overall cheerful vibe of the scene.",
+    "objects": [
+      "one",
+      "seem",
+      "vibe",
+      "overall",
+      "cheerful"
+    ],
+    "actions": [
+      "adding",
+      "performers",
+      "smiling",
+      "themselves"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The performers seem to be enjoying themselves, with one person smiling and another laughing, adding to the overall cheerful vibe of the scene.",
+    "objects": [
+      "one",
+      "seem",
+      "vibe",
+      "overall",
+      "cheerful"
+    ],
+    "actions": [
+      "adding",
+      "performers",
+      "smiling",
+      "themselves"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is illuminated by stage lights, and the performers are focused on their performance, suggesting they are in the midst of a live performance.",
+    "objects": [
+      "they",
+      "their",
+      "midst",
+      "performance",
+      "live",
+      "stage"
+    ],
+    "actions": [
+      "focused",
+      "performers",
+      "suggesting",
+      "illuminated"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is illuminated by stage lights, and the performers are focused on their performance, suggesting they are in the midst of a live performance.",
+    "objects": [
+      "they",
+      "their",
+      "midst",
+      "performance",
+      "live",
+      "stage"
+    ],
+    "actions": [
+      "focused",
+      "performers",
+      "suggesting",
+      "illuminated"
+    ],
+    "segment_id": 10
+  }
+]

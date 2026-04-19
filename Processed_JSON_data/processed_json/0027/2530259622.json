@@ -1,0 +1,571 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively scene on a city street, where a group of children are engaging in various activities.",
+    "objects": [
+      "where",
+      "lively",
+      "street",
+      "city",
+      "group",
+      "children"
+    ],
+    "actions": [
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively scene on a city street, where a group of children are engaging in various activities.",
+    "objects": [
+      "where",
+      "lively",
+      "street",
+      "city",
+      "group",
+      "children"
+    ],
+    "actions": [
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively scene on a city street, where a group of children are engaging in various activities.",
+    "objects": [
+      "where",
+      "lively",
+      "street",
+      "city",
+      "group",
+      "children"
+    ],
+    "actions": [
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A young boy is riding a small bicycle, navigating around a street corner.",
+    "objects": [
+      "small",
+      "boy",
+      "street",
+      "bicycle",
+      "corner",
+      "around",
+      "young"
+    ],
+    "actions": [
+      "riding",
+      "navigating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A young boy is riding a small bicycle, navigating around a street corner.",
+    "objects": [
+      "small",
+      "boy",
+      "street",
+      "bicycle",
+      "corner",
+      "around",
+      "young"
+    ],
+    "actions": [
+      "riding",
+      "navigating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A young boy is riding a small bicycle, navigating around a street corner.",
+    "objects": [
+      "small",
+      "boy",
+      "street",
+      "bicycle",
+      "corner",
+      "around",
+      "young"
+    ],
+    "actions": [
+      "riding",
+      "navigating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Nearby, a young girl is riding a tricycle, her gaze fixed on the camera as she pedals along.",
+    "objects": [
+      "her",
+      "nearby",
+      "along",
+      "young",
+      "girl",
+      "she",
+      "gaze",
+      "tricycle"
+    ],
+    "actions": [
+      "fixed",
+      "riding",
+      "pedals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "Nearby, a young girl is riding a tricycle, her gaze fixed on the camera as she pedals along.",
+    "objects": [
+      "her",
+      "nearby",
+      "along",
+      "young",
+      "girl",
+      "she",
+      "gaze",
+      "tricycle"
+    ],
+    "actions": [
+      "fixed",
+      "riding",
+      "pedals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "Nearby, a young girl is riding a tricycle, her gaze fixed on the camera as she pedals along.",
+    "objects": [
+      "her",
+      "nearby",
+      "along",
+      "young",
+      "girl",
+      "she",
+      "gaze",
+      "tricycle"
+    ],
+    "actions": [
+      "fixed",
+      "riding",
+      "pedals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A boy is riding a unicycle, his body balanced on one wheel as he maneuvers through the city.",
+    "objects": [
+      "wheel",
+      "one",
+      "boy",
+      "unicycle",
+      "through",
+      "city",
+      "body",
+      "his"
+    ],
+    "actions": [
+      "balanced",
+      "maneuvers",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A boy is riding a unicycle, his body balanced on one wheel as he maneuvers through the city.",
+    "objects": [
+      "wheel",
+      "one",
+      "boy",
+      "unicycle",
+      "through",
+      "city",
+      "body",
+      "his"
+    ],
+    "actions": [
+      "balanced",
+      "maneuvers",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A boy is riding a unicycle, his body balanced on one wheel as he maneuvers through the city.",
+    "objects": [
+      "wheel",
+      "one",
+      "boy",
+      "unicycle",
+      "through",
+      "city",
+      "body",
+      "his"
+    ],
+    "actions": [
+      "balanced",
+      "maneuvers",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A girl is sitting on a scooter, her attention focused on the camera as she pedals down the street.",
+    "objects": [
+      "her",
+      "scooter",
+      "street",
+      "girl",
+      "she",
+      "attention"
+    ],
+    "actions": [
+      "sitting",
+      "focused",
+      "pedals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A girl is sitting on a scooter, her attention focused on the camera as she pedals down the street.",
+    "objects": [
+      "her",
+      "scooter",
+      "street",
+      "girl",
+      "she",
+      "attention"
+    ],
+    "actions": [
+      "sitting",
+      "focused",
+      "pedals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A girl is sitting on a scooter, her attention focused on the camera as she pedals down the street.",
+    "objects": [
+      "her",
+      "scooter",
+      "street",
+      "girl",
+      "she",
+      "attention"
+    ],
+    "actions": [
+      "sitting",
+      "focused",
+      "pedals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Meanwhile, a young boy is walking on the sidewalk, his attention directed towards the camera.",
+    "objects": [
+      "boy",
+      "meanwhile",
+      "sidewalk",
+      "young",
+      "attention",
+      "his"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "directed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Meanwhile, a young boy is walking on the sidewalk, his attention directed towards the camera.",
+    "objects": [
+      "boy",
+      "meanwhile",
+      "sidewalk",
+      "young",
+      "attention",
+      "his"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "directed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Meanwhile, a young boy is walking on the sidewalk, his attention directed towards the camera.",
+    "objects": [
+      "boy",
+      "meanwhile",
+      "sidewalk",
+      "young",
+      "attention",
+      "his"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "directed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A young boy is standing on a bicycle, holding onto the handlebars, as he pedals down the street.",
+    "objects": [
+      "onto",
+      "boy",
+      "street",
+      "bicycle",
+      "young"
+    ],
+    "actions": [
+      "pedals",
+      "standing",
+      "holding",
+      "handlebars"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A young boy is standing on a bicycle, holding onto the handlebars, as he pedals down the street.",
+    "objects": [
+      "onto",
+      "boy",
+      "street",
+      "bicycle",
+      "young"
+    ],
+    "actions": [
+      "pedals",
+      "standing",
+      "holding",
+      "handlebars"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A young boy is standing on a bicycle, holding onto the handlebars, as he pedals down the street.",
+    "objects": [
+      "onto",
+      "boy",
+      "street",
+      "bicycle",
+      "young"
+    ],
+    "actions": [
+      "pedals",
+      "standing",
+      "holding",
+      "handlebars"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, parked cars are visible, adding to the urban setting.",
+    "objects": [
+      "cars",
+      "urban"
+    ],
+    "actions": [
+      "parked",
+      "setting",
+      "adding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, parked cars are visible, adding to the urban setting.",
+    "objects": [
+      "cars",
+      "urban"
+    ],
+    "actions": [
+      "parked",
+      "setting",
+      "adding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, parked cars are visible, adding to the urban setting.",
+    "objects": [
+      "cars",
+      "urban"
+    ],
+    "actions": [
+      "parked",
+      "setting",
+      "adding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is bustling with activity, capturing the playful energy of children exploring their surroundings on wheels.",
+    "objects": [
+      "their",
+      "energy",
+      "children",
+      "playful",
+      "activity"
+    ],
+    "actions": [
+      "exploring",
+      "wheels",
+      "capturing",
+      "surroundings"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is bustling with activity, capturing the playful energy of children exploring their surroundings on wheels.",
+    "objects": [
+      "their",
+      "energy",
+      "children",
+      "playful",
+      "activity"
+    ],
+    "actions": [
+      "exploring",
+      "wheels",
+      "capturing",
+      "surroundings"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is bustling with activity, capturing the playful energy of children exploring their surroundings on wheels.",
+    "objects": [
+      "their",
+      "energy",
+      "children",
+      "playful",
+      "activity"
+    ],
+    "actions": [
+      "exploring",
+      "wheels",
+      "capturing",
+      "surroundings"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The children's attire varies, with some wearing hoodies and others in casual clothing, reflecting a relaxed and playful atmosphere.",
+    "objects": [
+      "some",
+      "attire",
+      "playful",
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "varies",
+      "reflecting",
+      "children's",
+      "clothing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The children's attire varies, with some wearing hoodies and others in casual clothing, reflecting a relaxed and playful atmosphere.",
+    "objects": [
+      "some",
+      "attire",
+      "playful",
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "varies",
+      "reflecting",
+      "children's",
+      "clothing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The children's attire varies, with some wearing hoodies and others in casual clothing, reflecting a relaxed and playful atmosphere.",
+    "objects": [
+      "some",
+      "attire",
+      "playful",
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "varies",
+      "reflecting",
+      "children's",
+      "clothing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The street is lined with parked cars and awnings, adding to the cityscape.",
+    "objects": [
+      "cars",
+      "cityscape",
+      "street"
+    ],
+    "actions": [
+      "parked",
+      "lined",
+      "adding",
+      "awnings"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The street is lined with parked cars and awnings, adding to the cityscape.",
+    "objects": [
+      "cars",
+      "cityscape",
+      "street"
+    ],
+    "actions": [
+      "parked",
+      "lined",
+      "adding",
+      "awnings"
+    ],
+    "segment_id": 10
+  }
+]

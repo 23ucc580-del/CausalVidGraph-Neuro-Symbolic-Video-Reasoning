@@ -1,0 +1,606 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a close-up shot of a man wearing a blue shirt, sunglasses, and a helmet, seated on a bicycle.",
+    "objects": [
+      "blue",
+      "shirt",
+      "helmet",
+      "man",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "begins",
+      "sunglasses",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a close-up shot of a man wearing a blue shirt, sunglasses, and a helmet, seated on a bicycle.",
+    "objects": [
+      "blue",
+      "shirt",
+      "helmet",
+      "man",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "begins",
+      "sunglasses",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The man is smiling and appears to be in motion, possibly riding the bike.",
+    "objects": [
+      "man",
+      "possibly",
+      "motion",
+      "bike"
+    ],
+    "actions": [
+      "riding",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The man is smiling and appears to be in motion, possibly riding the bike.",
+    "objects": [
+      "man",
+      "possibly",
+      "motion",
+      "bike"
+    ],
+    "actions": [
+      "riding",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The camera then shifts to another man in a blue shirt and sunglasses, also smiling, who is standing in front of a water fountain.",
+    "objects": [
+      "blue",
+      "shirt",
+      "who",
+      "fountain",
+      "man",
+      "then",
+      "water"
+    ],
+    "actions": [
+      "shifts",
+      "sunglasses",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera then shifts to another man in a blue shirt and sunglasses, also smiling, who is standing in front of a water fountain.",
+    "objects": [
+      "blue",
+      "shirt",
+      "who",
+      "fountain",
+      "man",
+      "then",
+      "water"
+    ],
+    "actions": [
+      "shifts",
+      "sunglasses",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then focuses on a person in a blue shirt, sunglasses, and a helmet, who seems to be in the process of riding a bike as well.",
+    "objects": [
+      "blue",
+      "shirt",
+      "well",
+      "who",
+      "helmet",
+      "bike",
+      "then"
+    ],
+    "actions": [
+      "seems",
+      "sunglasses",
+      "process",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then focuses on a person in a blue shirt, sunglasses, and a helmet, who seems to be in the process of riding a bike as well.",
+    "objects": [
+      "blue",
+      "shirt",
+      "well",
+      "who",
+      "helmet",
+      "bike",
+      "then"
+    ],
+    "actions": [
+      "seems",
+      "sunglasses",
+      "process",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The person is also smiling and appears to be in motion, suggesting they might be riding a bike.",
+    "objects": [
+      "they",
+      "motion",
+      "bike",
+      "might"
+    ],
+    "actions": [
+      "riding",
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The person is also smiling and appears to be in motion, suggesting they might be riding a bike.",
+    "objects": [
+      "they",
+      "motion",
+      "bike",
+      "might"
+    ],
+    "actions": [
+      "riding",
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The video then cuts to another man in a blue shirt and sunglasses, who is standing and smiling, and the camera continues to follow him as he walks down a street.",
+    "objects": [
+      "cuts",
+      "street",
+      "him",
+      "blue",
+      "shirt",
+      "who",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "sunglasses",
+      "standing",
+      "continues",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The video then cuts to another man in a blue shirt and sunglasses, who is standing and smiling, and the camera continues to follow him as he walks down a street.",
+    "objects": [
+      "cuts",
+      "street",
+      "him",
+      "blue",
+      "shirt",
+      "who",
+      "man",
+      "then"
+    ],
+    "actions": [
+      "sunglasses",
+      "standing",
+      "continues",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is wearing a helmet and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "possibly",
+      "helmet",
+      "man",
+      "bike"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is wearing a helmet and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "possibly",
+      "helmet",
+      "man",
+      "bike"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then focuses on a person in a blue shirt and helmet, who is standing in front of a fence.",
+    "objects": [
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "then",
+      "fence"
+    ],
+    "actions": [
+      "standing",
+      "focuses"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then focuses on a person in a blue shirt and helmet, who is standing in front of a fence.",
+    "objects": [
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "then",
+      "fence"
+    ],
+    "actions": [
+      "standing",
+      "focuses"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The person is smiling and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "possibly",
+      "motion",
+      "bike"
+    ],
+    "actions": [
+      "riding",
+      "walking",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The person is smiling and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "possibly",
+      "motion",
+      "bike"
+    ],
+    "actions": [
+      "riding",
+      "walking",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The video then cuts to a man in a blue shirt and helmet, who is standing in front of a water fountain and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "cuts",
+      "bike",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "riding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The video then cuts to a man in a blue shirt and helmet, who is standing in front of a water fountain and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "cuts",
+      "bike",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "riding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then follows another man in a blue shirt, sunglasses, and a helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike",
+      "man"
+    ],
+    "actions": [
+      "sunglasses",
+      "standing",
+      "follows",
+      "riding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then follows another man in a blue shirt, sunglasses, and a helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike",
+      "man"
+    ],
+    "actions": [
+      "sunglasses",
+      "standing",
+      "follows",
+      "riding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The video then cuts to a person in a blue shirt and helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "cuts",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "riding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The video then cuts to a person in a blue shirt and helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "cuts",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "riding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then focuses on a man in a blue shirt, sunglasses, and a helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike",
+      "man"
+    ],
+    "actions": [
+      "sunglasses",
+      "standing",
+      "riding",
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then focuses on a man in a blue shirt, sunglasses, and a helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike",
+      "man"
+    ],
+    "actions": [
+      "sunglasses",
+      "standing",
+      "riding",
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The video then cuts to a person in a blue shirt and helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "cuts",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "riding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The video then cuts to a person in a blue shirt and helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "cuts",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "riding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then focuses on a man in a blue shirt, sunglasses, and a helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike",
+      "man"
+    ],
+    "actions": [
+      "sunglasses",
+      "standing",
+      "riding",
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then focuses on a man in a blue shirt, sunglasses, and a helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike",
+      "man"
+    ],
+    "actions": [
+      "sunglasses",
+      "standing",
+      "riding",
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The video then cuts to a man in a blue shirt and helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "cuts",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "riding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The video then cuts to a man in a blue shirt and helmet, who is standing in front of a fence and appears to be in motion, possibly walking or riding a bike.",
+    "objects": [
+      "motion",
+      "cuts",
+      "possibly",
+      "blue",
+      "shirt",
+      "who",
+      "helmet",
+      "bike"
+    ],
+    "actions": [
+      "standing",
+      "walking",
+      "riding"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,518 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see two children playing on the floor of a room.",
+    "objects": [
+      "floor",
+      "two",
+      "see",
+      "children",
+      "room"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see two children playing on the floor of a room.",
+    "objects": [
+      "floor",
+      "two",
+      "see",
+      "children",
+      "room"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see two children playing on the floor of a room.",
+    "objects": [
+      "floor",
+      "two",
+      "see",
+      "children",
+      "room"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see two children playing on the floor of a room.",
+    "objects": [
+      "floor",
+      "two",
+      "see",
+      "children",
+      "room"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The child in the blue hoodie is sitting on the floor, while the child in the plaid shirt is lying on their back next to the child in the blue hoodie.",
+    "objects": [
+      "floor",
+      "their",
+      "hoodie",
+      "child",
+      "blue",
+      "plaid",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "lying",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child in the blue hoodie is sitting on the floor, while the child in the plaid shirt is lying on their back next to the child in the blue hoodie.",
+    "objects": [
+      "floor",
+      "their",
+      "hoodie",
+      "child",
+      "blue",
+      "plaid",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "lying",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child in the blue hoodie is sitting on the floor, while the child in the plaid shirt is lying on their back next to the child in the blue hoodie.",
+    "objects": [
+      "floor",
+      "their",
+      "hoodie",
+      "child",
+      "blue",
+      "plaid",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "lying",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child in the blue hoodie is sitting on the floor, while the child in the plaid shirt is lying on their back next to the child in the blue hoodie.",
+    "objects": [
+      "floor",
+      "their",
+      "hoodie",
+      "child",
+      "blue",
+      "plaid",
+      "while",
+      "shirt"
+    ],
+    "actions": [
+      "lying",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The child in the blue hoodie is holding a yellow toy.",
+    "objects": [
+      "hoodie",
+      "child",
+      "blue",
+      "yellow",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The child in the blue hoodie is holding a yellow toy.",
+    "objects": [
+      "hoodie",
+      "child",
+      "blue",
+      "yellow",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The child in the blue hoodie is holding a yellow toy.",
+    "objects": [
+      "hoodie",
+      "child",
+      "blue",
+      "yellow",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The child in the blue hoodie is holding a yellow toy.",
+    "objects": [
+      "hoodie",
+      "child",
+      "blue",
+      "yellow",
+      "toy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The child in the plaid shirt is wearing a white shirt with a red collar and has a pacifier in their mouth.",
+    "objects": [
+      "has",
+      "white",
+      "pacifier",
+      "their",
+      "plaid",
+      "child",
+      "collar",
+      "mouth"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The child in the plaid shirt is wearing a white shirt with a red collar and has a pacifier in their mouth.",
+    "objects": [
+      "has",
+      "white",
+      "pacifier",
+      "their",
+      "plaid",
+      "child",
+      "collar",
+      "mouth"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The child in the plaid shirt is wearing a white shirt with a red collar and has a pacifier in their mouth.",
+    "objects": [
+      "has",
+      "white",
+      "pacifier",
+      "their",
+      "plaid",
+      "child",
+      "collar",
+      "mouth"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The child in the plaid shirt is wearing a white shirt with a red collar and has a pacifier in their mouth.",
+    "objects": [
+      "has",
+      "white",
+      "pacifier",
+      "their",
+      "plaid",
+      "child",
+      "collar",
+      "mouth"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The child in the blue hoodie is wearing a white shirt with a pink collar and has a toy in their hand.",
+    "objects": [
+      "has",
+      "white",
+      "their",
+      "hoodie",
+      "child",
+      "blue",
+      "collar",
+      "hand"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The child in the blue hoodie is wearing a white shirt with a pink collar and has a toy in their hand.",
+    "objects": [
+      "has",
+      "white",
+      "their",
+      "hoodie",
+      "child",
+      "blue",
+      "collar",
+      "hand"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The child in the blue hoodie is wearing a white shirt with a pink collar and has a toy in their hand.",
+    "objects": [
+      "has",
+      "white",
+      "their",
+      "hoodie",
+      "child",
+      "blue",
+      "collar",
+      "hand"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The child in the blue hoodie is wearing a white shirt with a pink collar and has a toy in their hand.",
+    "objects": [
+      "has",
+      "white",
+      "their",
+      "hoodie",
+      "child",
+      "blue",
+      "collar",
+      "hand"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The child in the blue hoodie is wearing pajamas.",
+    "objects": [
+      "hoodie",
+      "child",
+      "blue"
+    ],
+    "actions": [
+      "pajamas",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The child in the blue hoodie is wearing pajamas.",
+    "objects": [
+      "hoodie",
+      "child",
+      "blue"
+    ],
+    "actions": [
+      "pajamas",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The child in the blue hoodie is wearing pajamas.",
+    "objects": [
+      "hoodie",
+      "child",
+      "blue"
+    ],
+    "actions": [
+      "pajamas",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The child in the blue hoodie is wearing pajamas.",
+    "objects": [
+      "hoodie",
+      "child",
+      "blue"
+    ],
+    "actions": [
+      "pajamas",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The child in the plaid shirt is wearing pajamas.",
+    "objects": [
+      "plaid",
+      "child",
+      "shirt"
+    ],
+    "actions": [
+      "pajamas",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The child in the plaid shirt is wearing pajamas.",
+    "objects": [
+      "plaid",
+      "child",
+      "shirt"
+    ],
+    "actions": [
+      "pajamas",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The child in the plaid shirt is wearing pajamas.",
+    "objects": [
+      "plaid",
+      "child",
+      "shirt"
+    ],
+    "actions": [
+      "pajamas",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The child in the plaid shirt is wearing pajamas.",
+    "objects": [
+      "plaid",
+      "child",
+      "shirt"
+    ],
+    "actions": [
+      "pajamas",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The child in the blue hoodie is looking at the child in the plaid shirt, and the child in the plaid shirt is looking at the camera.",
+    "objects": [
+      "hoodie",
+      "plaid",
+      "child",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The child in the blue hoodie is looking at the child in the plaid shirt, and the child in the plaid shirt is looking at the camera.",
+    "objects": [
+      "hoodie",
+      "plaid",
+      "child",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The child in the blue hoodie is looking at the child in the plaid shirt, and the child in the plaid shirt is looking at the camera.",
+    "objects": [
+      "hoodie",
+      "plaid",
+      "child",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The child in the blue hoodie is looking at the child in the plaid shirt, and the child in the plaid shirt is looking at the camera.",
+    "objects": [
+      "hoodie",
+      "plaid",
+      "child",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the dimly lit theater, a group of young dancers are performing a routine.",
+    "objects": [
+      "theater",
+      "lit",
+      "dimly",
+      "routine",
+      "young",
+      "group"
+    ],
+    "actions": [
+      "dancers",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the dimly lit theater, a group of young dancers are performing a routine.",
+    "objects": [
+      "theater",
+      "lit",
+      "dimly",
+      "routine",
+      "young",
+      "group"
+    ],
+    "actions": [
+      "dancers",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the dimly lit theater, a group of young dancers are performing a routine.",
+    "objects": [
+      "theater",
+      "lit",
+      "dimly",
+      "routine",
+      "young",
+      "group"
+    ],
+    "actions": [
+      "dancers",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the dimly lit theater, a group of young dancers are performing a routine.",
+    "objects": [
+      "theater",
+      "lit",
+      "dimly",
+      "routine",
+      "young",
+      "group"
+    ],
+    "actions": [
+      "dancers",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One girl, dressed in a vibrant red dress, is gracefully twirling on the stage, her arms extended out to the sides.",
+    "objects": [
+      "one",
+      "arms",
+      "vibrant",
+      "out",
+      "dress",
+      "her",
+      "stage",
+      "girl"
+    ],
+    "actions": [
+      "extended",
+      "sides",
+      "red",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One girl, dressed in a vibrant red dress, is gracefully twirling on the stage, her arms extended out to the sides.",
+    "objects": [
+      "one",
+      "arms",
+      "vibrant",
+      "out",
+      "dress",
+      "her",
+      "stage",
+      "girl"
+    ],
+    "actions": [
+      "extended",
+      "sides",
+      "red",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One girl, dressed in a vibrant red dress, is gracefully twirling on the stage, her arms extended out to the sides.",
+    "objects": [
+      "one",
+      "arms",
+      "vibrant",
+      "out",
+      "dress",
+      "her",
+      "stage",
+      "girl"
+    ],
+    "actions": [
+      "extended",
+      "sides",
+      "red",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One girl, dressed in a vibrant red dress, is gracefully twirling on the stage, her arms extended out to the sides.",
+    "objects": [
+      "one",
+      "arms",
+      "vibrant",
+      "out",
+      "dress",
+      "her",
+      "stage",
+      "girl"
+    ],
+    "actions": [
+      "extended",
+      "sides",
+      "red",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another girl, in a black dress, is energetically dancing, her legs bent in a dynamic pose.",
+    "objects": [
+      "bent",
+      "black",
+      "energetically",
+      "pose",
+      "dress",
+      "her",
+      "girl",
+      "legs"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another girl, in a black dress, is energetically dancing, her legs bent in a dynamic pose.",
+    "objects": [
+      "bent",
+      "black",
+      "energetically",
+      "pose",
+      "dress",
+      "her",
+      "girl",
+      "legs"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another girl, in a black dress, is energetically dancing, her legs bent in a dynamic pose.",
+    "objects": [
+      "bent",
+      "black",
+      "energetically",
+      "pose",
+      "dress",
+      "her",
+      "girl",
+      "legs"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another girl, in a black dress, is energetically dancing, her legs bent in a dynamic pose.",
+    "objects": [
+      "bent",
+      "black",
+      "energetically",
+      "pose",
+      "dress",
+      "her",
+      "girl",
+      "legs"
+    ],
+    "actions": [
+      "dancing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A boy, wearing a black t-shirt and blue shorts, stands in front of the stage, his hands extended out as if he's about to hug the audience.",
+    "objects": [
+      "boy",
+      "black",
+      "blue",
+      "audience",
+      "about",
+      "out",
+      "his",
+      "stage"
+    ],
+    "actions": [
+      "extended",
+      "hands",
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A boy, wearing a black t-shirt and blue shorts, stands in front of the stage, his hands extended out as if he's about to hug the audience.",
+    "objects": [
+      "boy",
+      "black",
+      "blue",
+      "audience",
+      "about",
+      "out",
+      "his",
+      "stage"
+    ],
+    "actions": [
+      "extended",
+      "hands",
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A boy, wearing a black t-shirt and blue shorts, stands in front of the stage, his hands extended out as if he's about to hug the audience.",
+    "objects": [
+      "boy",
+      "black",
+      "blue",
+      "audience",
+      "about",
+      "out",
+      "his",
+      "stage"
+    ],
+    "actions": [
+      "extended",
+      "hands",
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A boy, wearing a black t-shirt and blue shorts, stands in front of the stage, his hands extended out as if he's about to hug the audience.",
+    "objects": [
+      "boy",
+      "black",
+      "blue",
+      "audience",
+      "about",
+      "out",
+      "his",
+      "stage"
+    ],
+    "actions": [
+      "extended",
+      "hands",
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another girl, in a blue dress, is also dancing, her hands reaching upwards.",
+    "objects": [
+      "girl",
+      "dress",
+      "blue",
+      "her"
+    ],
+    "actions": [
+      "dancing",
+      "hands",
+      "upwards",
+      "reaching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Another girl, in a blue dress, is also dancing, her hands reaching upwards.",
+    "objects": [
+      "girl",
+      "dress",
+      "blue",
+      "her"
+    ],
+    "actions": [
+      "dancing",
+      "hands",
+      "upwards",
+      "reaching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Another girl, in a blue dress, is also dancing, her hands reaching upwards.",
+    "objects": [
+      "girl",
+      "dress",
+      "blue",
+      "her"
+    ],
+    "actions": [
+      "dancing",
+      "hands",
+      "upwards",
+      "reaching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Another girl, in a blue dress, is also dancing, her hands reaching upwards.",
+    "objects": [
+      "girl",
+      "dress",
+      "blue",
+      "her"
+    ],
+    "actions": [
+      "dancing",
+      "hands",
+      "upwards",
+      "reaching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A girl in a black dress is kneeling on the stage, her arms reaching out to the audience.",
+    "objects": [
+      "arms",
+      "black",
+      "audience",
+      "out",
+      "dress",
+      "her",
+      "stage",
+      "girl"
+    ],
+    "actions": [
+      "kneeling",
+      "reaching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A girl in a black dress is kneeling on the stage, her arms reaching out to the audience.",
+    "objects": [
+      "arms",
+      "black",
+      "audience",
+      "out",
+      "dress",
+      "her",
+      "stage",
+      "girl"
+    ],
+    "actions": [
+      "kneeling",
+      "reaching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A girl in a black dress is kneeling on the stage, her arms reaching out to the audience.",
+    "objects": [
+      "arms",
+      "black",
+      "audience",
+      "out",
+      "dress",
+      "her",
+      "stage",
+      "girl"
+    ],
+    "actions": [
+      "kneeling",
+      "reaching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A girl in a black dress is kneeling on the stage, her arms reaching out to the audience.",
+    "objects": [
+      "arms",
+      "black",
+      "audience",
+      "out",
+      "dress",
+      "her",
+      "stage",
+      "girl"
+    ],
+    "actions": [
+      "kneeling",
+      "reaching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The stage is bathed in blue and purple lights, casting an atmospheric glow on the dancers.",
+    "objects": [
+      "atmospheric",
+      "blue",
+      "glow",
+      "stage",
+      "purple"
+    ],
+    "actions": [
+      "bathed",
+      "lights",
+      "dancers",
+      "casting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The stage is bathed in blue and purple lights, casting an atmospheric glow on the dancers.",
+    "objects": [
+      "atmospheric",
+      "blue",
+      "glow",
+      "stage",
+      "purple"
+    ],
+    "actions": [
+      "bathed",
+      "lights",
+      "dancers",
+      "casting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The stage is bathed in blue and purple lights, casting an atmospheric glow on the dancers.",
+    "objects": [
+      "atmospheric",
+      "blue",
+      "glow",
+      "stage",
+      "purple"
+    ],
+    "actions": [
+      "bathed",
+      "lights",
+      "dancers",
+      "casting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The stage is bathed in blue and purple lights, casting an atmospheric glow on the dancers.",
+    "objects": [
+      "atmospheric",
+      "blue",
+      "glow",
+      "stage",
+      "purple"
+    ],
+    "actions": [
+      "bathed",
+      "lights",
+      "dancers",
+      "casting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The audience watches in anticipation, their faces a blur of expressions, adding to the electricity of the performance.",
+    "objects": [
+      "their",
+      "anticipation",
+      "electricity",
+      "audience",
+      "performance",
+      "blur"
+    ],
+    "actions": [
+      "faces",
+      "adding",
+      "expressions",
+      "watches"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The audience watches in anticipation, their faces a blur of expressions, adding to the electricity of the performance.",
+    "objects": [
+      "their",
+      "anticipation",
+      "electricity",
+      "audience",
+      "performance",
+      "blur"
+    ],
+    "actions": [
+      "faces",
+      "adding",
+      "expressions",
+      "watches"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The audience watches in anticipation, their faces a blur of expressions, adding to the electricity of the performance.",
+    "objects": [
+      "their",
+      "anticipation",
+      "electricity",
+      "audience",
+      "performance",
+      "blur"
+    ],
+    "actions": [
+      "faces",
+      "adding",
+      "expressions",
+      "watches"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The audience watches in anticipation, their faces a blur of expressions, adding to the electricity of the performance.",
+    "objects": [
+      "their",
+      "anticipation",
+      "electricity",
+      "audience",
+      "performance",
+      "blur"
+    ],
+    "actions": [
+      "faces",
+      "adding",
+      "expressions",
+      "watches"
+    ],
+    "segment_id": 7
+  }
+]

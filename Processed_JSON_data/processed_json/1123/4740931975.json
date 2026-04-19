@@ -1,0 +1,616 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video takes place in a serene setting, featuring a man and a woman engaged in the activity of fishing.",
+    "objects": [
+      "man",
+      "place",
+      "serene",
+      "activity",
+      "woman"
+    ],
+    "actions": [
+      "setting",
+      "fishing",
+      "featuring",
+      "takes"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video takes place in a serene setting, featuring a man and a woman engaged in the activity of fishing.",
+    "objects": [
+      "man",
+      "place",
+      "serene",
+      "activity",
+      "woman"
+    ],
+    "actions": [
+      "setting",
+      "fishing",
+      "featuring",
+      "takes"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video takes place in a serene setting, featuring a man and a woman engaged in the activity of fishing.",
+    "objects": [
+      "man",
+      "place",
+      "serene",
+      "activity",
+      "woman"
+    ],
+    "actions": [
+      "setting",
+      "fishing",
+      "featuring",
+      "takes"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video takes place in a serene setting, featuring a man and a woman engaged in the activity of fishing.",
+    "objects": [
+      "man",
+      "place",
+      "serene",
+      "activity",
+      "woman"
+    ],
+    "actions": [
+      "setting",
+      "fishing",
+      "featuring",
+      "takes"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video takes place in a serene setting, featuring a man and a woman engaged in the activity of fishing.",
+    "objects": [
+      "man",
+      "place",
+      "serene",
+      "activity",
+      "woman"
+    ],
+    "actions": [
+      "setting",
+      "fishing",
+      "featuring",
+      "takes"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is dressed in a white shirt and black pants, and he is holding a fishing rod, ready to reel in his catch.",
+    "objects": [
+      "white",
+      "rod",
+      "reel",
+      "ready",
+      "man",
+      "his",
+      "shirt",
+      "catch"
+    ],
+    "actions": [
+      "fishing",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is dressed in a white shirt and black pants, and he is holding a fishing rod, ready to reel in his catch.",
+    "objects": [
+      "white",
+      "rod",
+      "reel",
+      "ready",
+      "man",
+      "his",
+      "shirt",
+      "catch"
+    ],
+    "actions": [
+      "fishing",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is dressed in a white shirt and black pants, and he is holding a fishing rod, ready to reel in his catch.",
+    "objects": [
+      "white",
+      "rod",
+      "reel",
+      "ready",
+      "man",
+      "his",
+      "shirt",
+      "catch"
+    ],
+    "actions": [
+      "fishing",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is dressed in a white shirt and black pants, and he is holding a fishing rod, ready to reel in his catch.",
+    "objects": [
+      "white",
+      "rod",
+      "reel",
+      "ready",
+      "man",
+      "his",
+      "shirt",
+      "catch"
+    ],
+    "actions": [
+      "fishing",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is dressed in a white shirt and black pants, and he is holding a fishing rod, ready to reel in his catch.",
+    "objects": [
+      "white",
+      "rod",
+      "reel",
+      "ready",
+      "man",
+      "his",
+      "shirt",
+      "catch"
+    ],
+    "actions": [
+      "fishing",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman is wearing a brown shirt and black pants, and she is also holding a fishing rod, also attempting to reel in her catch.",
+    "objects": [
+      "reel",
+      "rod",
+      "her",
+      "brown",
+      "shirt",
+      "catch",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "fishing",
+      "holding",
+      "pants",
+      "attempting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman is wearing a brown shirt and black pants, and she is also holding a fishing rod, also attempting to reel in her catch.",
+    "objects": [
+      "reel",
+      "rod",
+      "her",
+      "brown",
+      "shirt",
+      "catch",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "fishing",
+      "holding",
+      "pants",
+      "attempting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is wearing a brown shirt and black pants, and she is also holding a fishing rod, also attempting to reel in her catch.",
+    "objects": [
+      "reel",
+      "rod",
+      "her",
+      "brown",
+      "shirt",
+      "catch",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "fishing",
+      "holding",
+      "pants",
+      "attempting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is wearing a brown shirt and black pants, and she is also holding a fishing rod, also attempting to reel in her catch.",
+    "objects": [
+      "reel",
+      "rod",
+      "her",
+      "brown",
+      "shirt",
+      "catch",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "fishing",
+      "holding",
+      "pants",
+      "attempting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is wearing a brown shirt and black pants, and she is also holding a fishing rod, also attempting to reel in her catch.",
+    "objects": [
+      "reel",
+      "rod",
+      "her",
+      "brown",
+      "shirt",
+      "catch",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "fishing",
+      "holding",
+      "pants",
+      "attempting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "They are standing on the banks of a calm river, surrounded by rocks, and the sky is filled with a light blue hue, suggesting a clear and sunny day.",
+    "objects": [
+      "calm",
+      "blue",
+      "clear",
+      "river",
+      "sunny",
+      "day",
+      "hue",
+      "light"
+    ],
+    "actions": [
+      "standing",
+      "filled",
+      "rocks",
+      "surrounded"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They are standing on the banks of a calm river, surrounded by rocks, and the sky is filled with a light blue hue, suggesting a clear and sunny day.",
+    "objects": [
+      "calm",
+      "blue",
+      "clear",
+      "river",
+      "sunny",
+      "day",
+      "hue",
+      "light"
+    ],
+    "actions": [
+      "standing",
+      "filled",
+      "rocks",
+      "surrounded"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "They are standing on the banks of a calm river, surrounded by rocks, and the sky is filled with a light blue hue, suggesting a clear and sunny day.",
+    "objects": [
+      "calm",
+      "blue",
+      "clear",
+      "river",
+      "sunny",
+      "day",
+      "hue",
+      "light"
+    ],
+    "actions": [
+      "standing",
+      "filled",
+      "rocks",
+      "surrounded"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "They are standing on the banks of a calm river, surrounded by rocks, and the sky is filled with a light blue hue, suggesting a clear and sunny day.",
+    "objects": [
+      "calm",
+      "blue",
+      "clear",
+      "river",
+      "sunny",
+      "day",
+      "hue",
+      "light"
+    ],
+    "actions": [
+      "standing",
+      "filled",
+      "rocks",
+      "surrounded"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "They are standing on the banks of a calm river, surrounded by rocks, and the sky is filled with a light blue hue, suggesting a clear and sunny day.",
+    "objects": [
+      "calm",
+      "blue",
+      "clear",
+      "river",
+      "sunny",
+      "day",
+      "hue",
+      "light"
+    ],
+    "actions": [
+      "standing",
+      "filled",
+      "rocks",
+      "surrounded"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The river's surface is calm and still, reflecting the surrounding scenery.",
+    "objects": [
+      "surface",
+      "still",
+      "calm",
+      "scenery"
+    ],
+    "actions": [
+      "river's",
+      "reflecting",
+      "surrounding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The river's surface is calm and still, reflecting the surrounding scenery.",
+    "objects": [
+      "surface",
+      "still",
+      "calm",
+      "scenery"
+    ],
+    "actions": [
+      "river's",
+      "reflecting",
+      "surrounding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The river's surface is calm and still, reflecting the surrounding scenery.",
+    "objects": [
+      "surface",
+      "still",
+      "calm",
+      "scenery"
+    ],
+    "actions": [
+      "river's",
+      "reflecting",
+      "surrounding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The river's surface is calm and still, reflecting the surrounding scenery.",
+    "objects": [
+      "surface",
+      "still",
+      "calm",
+      "scenery"
+    ],
+    "actions": [
+      "river's",
+      "reflecting",
+      "surrounding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The river's surface is calm and still, reflecting the surrounding scenery.",
+    "objects": [
+      "surface",
+      "still",
+      "calm",
+      "scenery"
+    ],
+    "actions": [
+      "river's",
+      "reflecting",
+      "surrounding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is standing on the right side of the river, while the woman is on the left, both focused on their catches.",
+    "objects": [
+      "both",
+      "man",
+      "while",
+      "side",
+      "river",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "catches",
+      "focused",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is standing on the right side of the river, while the woman is on the left, both focused on their catches.",
+    "objects": [
+      "both",
+      "man",
+      "while",
+      "side",
+      "river",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "catches",
+      "focused",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is standing on the right side of the river, while the woman is on the left, both focused on their catches.",
+    "objects": [
+      "both",
+      "man",
+      "while",
+      "side",
+      "river",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "catches",
+      "focused",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The man is standing on the right side of the river, while the woman is on the left, both focused on their catches.",
+    "objects": [
+      "both",
+      "man",
+      "while",
+      "side",
+      "river",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "catches",
+      "focused",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The man is standing on the right side of the river, while the woman is on the left, both focused on their catches.",
+    "objects": [
+      "both",
+      "man",
+      "while",
+      "side",
+      "river",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "catches",
+      "focused",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The man is smiling and the woman appears to be concentrating, both showing their enjoyment of the activity.",
+    "objects": [
+      "both",
+      "enjoyment",
+      "man",
+      "their",
+      "activity",
+      "woman"
+    ],
+    "actions": [
+      "concentrating",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The man is smiling and the woman appears to be concentrating, both showing their enjoyment of the activity.",
+    "objects": [
+      "both",
+      "enjoyment",
+      "man",
+      "their",
+      "activity",
+      "woman"
+    ],
+    "actions": [
+      "concentrating",
+      "smiling"
+    ],
+    "segment_id": 6
+  }
+]

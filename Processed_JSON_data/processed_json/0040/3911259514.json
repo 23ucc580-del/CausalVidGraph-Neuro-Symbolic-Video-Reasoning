@@ -1,0 +1,639 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a close-up shot of a person's hands holding a metal object, which appears to be a piece of art or a sculpture.",
+    "objects": [
+      "art",
+      "object",
+      "piece",
+      "metal",
+      "which",
+      "sculpture"
+    ],
+    "actions": [
+      "begins",
+      "holding",
+      "hands",
+      "person's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The camera then cuts to a wider shot, revealing another person wearing a blue shirt, who is holding a clear plastic object in front of the metal piece.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "piece",
+      "metal",
+      "plastic",
+      "who"
+    ],
+    "actions": [
+      "holding",
+      "revealing",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The camera then pans to a man in a blue shirt, who is wearing a pair of glasses and holding a clear plastic object, seemingly comparing the two objects.",
+    "objects": [
+      "shirt",
+      "blue",
+      "pair",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who"
+    ],
+    "actions": [
+      "comparing",
+      "holding",
+      "objects",
+      "glasses"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The camera then focuses on a man wearing a blue shirt who is holding a clear plastic object and appears to be examining it closely.",
+    "objects": [
+      "shirt",
+      "closely",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who"
+    ],
+    "actions": [
+      "examining",
+      "holding",
+      "focuses",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The video then cuts to a person in a blue shirt, who is holding a clear plastic object and examining it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "plastic",
+      "who",
+      "cuts",
+      "clear"
+    ],
+    "actions": [
+      "examining",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera then shifts to a man wearing a blue shirt who is holding a clear plastic object, looking at it with interest.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "interest",
+      "man",
+      "plastic",
+      "who"
+    ],
+    "actions": [
+      "shifts",
+      "holding",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then cuts to a man wearing a blue shirt who is holding a clear plastic object, appearing to be inspecting it carefully.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "carefully"
+    ],
+    "actions": [
+      "appearing",
+      "holding",
+      "inspecting",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then shifts to a man wearing a blue shirt who is holding a clear plastic object and looking at it attentively.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "attentively",
+      "who"
+    ],
+    "actions": [
+      "shifts",
+      "holding",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then cuts to a man in a blue shirt who is holding a clear plastic object and examining it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "examining",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then focuses on a man wearing a blue shirt who is holding a clear plastic object and appears to be inspecting it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "clear"
+    ],
+    "actions": [
+      "holding",
+      "focuses",
+      "inspecting",
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The video then cuts to a person in a blue shirt who is holding a clear plastic object, looking at it with interest.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "interest",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "holding",
+      "looking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then shifts to a man in a blue shirt who is holding a clear plastic object, appearing to examine it closely.",
+    "objects": [
+      "shirt",
+      "closely",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "examine"
+    ],
+    "actions": [
+      "shifts",
+      "appearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then cuts to a man wearing a blue shirt who is holding a clear plastic object and examining it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "examining",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then focuses on a man in a blue shirt who is holding a clear plastic object and appears to be inspecting it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "clear"
+    ],
+    "actions": [
+      "holding",
+      "focuses",
+      "inspecting"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The video then cuts to a person in a blue shirt who is holding a clear plastic object, looking at it with interest.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "interest",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "holding",
+      "looking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then shifts to a man in a blue shirt who is holding a clear plastic object, appearing to examine it closely.",
+    "objects": [
+      "shirt",
+      "closely",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "examine"
+    ],
+    "actions": [
+      "shifts",
+      "appearing",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then cuts to a man wearing a blue shirt who is holding a clear plastic object and examining it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "examining",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then focuses on a man in a blue shirt who is holding a clear plastic object and appears to be inspecting it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "clear"
+    ],
+    "actions": [
+      "holding",
+      "focuses",
+      "inspecting"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The video then cuts to a person in a blue shirt who is holding a clear plastic object, looking at it with interest.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "interest",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "holding",
+      "looking"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then shifts to a man in a blue shirt who is holding a clear plastic object, appearing to examine it carefully.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "examine",
+      "carefully"
+    ],
+    "actions": [
+      "shifts",
+      "appearing",
+      "holding"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then cuts to a man wearing a blue shirt who is holding a clear plastic object and examining it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "examining",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then focuses on a man in a blue shirt who is holding a clear plastic object and appears to be inspecting it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "clear"
+    ],
+    "actions": [
+      "holding",
+      "focuses",
+      "inspecting"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The video then cuts to a person in a blue shirt who is holding a clear plastic object, looking at it with interest.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "interest",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "holding",
+      "looking"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then shifts to a man in a blue shirt who is holding a clear plastic object, appearing to examine it closely.",
+    "objects": [
+      "shirt",
+      "closely",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "examine"
+    ],
+    "actions": [
+      "shifts",
+      "appearing",
+      "holding"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then cuts to a man wearing a blue shirt who is holding a clear plastic object and examining it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "examining",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then focuses on a man in a blue shirt who is holding a clear plastic object and appears to be inspecting it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "clear"
+    ],
+    "actions": [
+      "holding",
+      "focuses",
+      "inspecting"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The video then cuts to a person in a blue shirt who is holding a clear plastic object, looking at it with interest.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "interest",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "holding",
+      "looking"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then shifts to a man in a blue shirt who is holding a clear plastic object, appearing to examine it closely.",
+    "objects": [
+      "shirt",
+      "closely",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "examine"
+    ],
+    "actions": [
+      "shifts",
+      "appearing",
+      "holding"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then cuts to a man wearing a blue shirt who is holding a clear plastic object and examining it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "examining",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then focuses on a man in a blue shirt who is holding a clear plastic object and appears to be inspecting it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "who",
+      "clear"
+    ],
+    "actions": [
+      "holding",
+      "focuses",
+      "inspecting"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The video then cuts to a person in a blue shirt who is holding a clear plastic object, looking at it with interest.",
+    "objects": [
+      "shirt",
+      "blue",
+      "object",
+      "then",
+      "interest",
+      "plastic",
+      "who",
+      "cuts"
+    ],
+    "actions": [
+      "holding",
+      "looking"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera then shifts to a man in a blue shirt who is holding a clear plastic object, appearing to examine it closely.",
+    "objects": [
+      "shirt",
+      "closely",
+      "blue",
+      "object",
+      "then",
+      "man",
+      "plastic",
+      "examine"
+    ],
+    "actions": [
+      "shifts",
+      "appearing",
+      "holding"
+    ],
+    "segment_id": 31
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a lively scene in a fast-food restaurant.",
+    "objects": [
+      "restaurant",
+      "this",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a lively scene in a fast-food restaurant.",
+    "objects": [
+      "restaurant",
+      "this",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a lively scene in a fast-food restaurant.",
+    "objects": [
+      "restaurant",
+      "this",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "This video captures a lively scene in a fast-food restaurant.",
+    "objects": [
+      "restaurant",
+      "this",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A group of people are seated around a table, engaged in conversation and enjoying their meals.",
+    "objects": [
+      "their",
+      "table",
+      "people",
+      "conversation",
+      "around",
+      "group"
+    ],
+    "actions": [
+      "meals",
+      "seated",
+      "engaged",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A group of people are seated around a table, engaged in conversation and enjoying their meals.",
+    "objects": [
+      "their",
+      "table",
+      "people",
+      "conversation",
+      "around",
+      "group"
+    ],
+    "actions": [
+      "meals",
+      "seated",
+      "engaged",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A group of people are seated around a table, engaged in conversation and enjoying their meals.",
+    "objects": [
+      "their",
+      "table",
+      "people",
+      "conversation",
+      "around",
+      "group"
+    ],
+    "actions": [
+      "meals",
+      "seated",
+      "engaged",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A group of people are seated around a table, engaged in conversation and enjoying their meals.",
+    "objects": [
+      "their",
+      "table",
+      "people",
+      "conversation",
+      "around",
+      "group"
+    ],
+    "actions": [
+      "meals",
+      "seated",
+      "engaged",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "One person is holding up a drink with a straw, appearing to take a sip.",
+    "objects": [
+      "one",
+      "straw",
+      "take",
+      "sip",
+      "drink"
+    ],
+    "actions": [
+      "appearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One person is holding up a drink with a straw, appearing to take a sip.",
+    "objects": [
+      "one",
+      "straw",
+      "take",
+      "sip",
+      "drink"
+    ],
+    "actions": [
+      "appearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "One person is holding up a drink with a straw, appearing to take a sip.",
+    "objects": [
+      "one",
+      "straw",
+      "take",
+      "sip",
+      "drink"
+    ],
+    "actions": [
+      "appearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "One person is holding up a drink with a straw, appearing to take a sip.",
+    "objects": [
+      "one",
+      "straw",
+      "take",
+      "sip",
+      "drink"
+    ],
+    "actions": [
+      "appearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another individual is seen using their phone, possibly checking messages or browsing the internet.",
+    "objects": [
+      "their",
+      "possibly",
+      "internet",
+      "phone",
+      "individual"
+    ],
+    "actions": [
+      "browsing",
+      "checking",
+      "messages",
+      "using"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another individual is seen using their phone, possibly checking messages or browsing the internet.",
+    "objects": [
+      "their",
+      "possibly",
+      "internet",
+      "phone",
+      "individual"
+    ],
+    "actions": [
+      "browsing",
+      "checking",
+      "messages",
+      "using"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another individual is seen using their phone, possibly checking messages or browsing the internet.",
+    "objects": [
+      "their",
+      "possibly",
+      "internet",
+      "phone",
+      "individual"
+    ],
+    "actions": [
+      "browsing",
+      "checking",
+      "messages",
+      "using"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another individual is seen using their phone, possibly checking messages or browsing the internet.",
+    "objects": [
+      "their",
+      "possibly",
+      "internet",
+      "phone",
+      "individual"
+    ],
+    "actions": [
+      "browsing",
+      "checking",
+      "messages",
+      "using"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The atmosphere is casual and relaxed, with everyone dressed in winter clothes, suggesting it's cold outside.",
+    "objects": [
+      "cold",
+      "casual",
+      "outside",
+      "winter",
+      "everyone",
+      "atmosphere"
+    ],
+    "actions": [
+      "dressed",
+      "relaxed",
+      "clothes",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The atmosphere is casual and relaxed, with everyone dressed in winter clothes, suggesting it's cold outside.",
+    "objects": [
+      "cold",
+      "casual",
+      "outside",
+      "winter",
+      "everyone",
+      "atmosphere"
+    ],
+    "actions": [
+      "dressed",
+      "relaxed",
+      "clothes",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The atmosphere is casual and relaxed, with everyone dressed in winter clothes, suggesting it's cold outside.",
+    "objects": [
+      "cold",
+      "casual",
+      "outside",
+      "winter",
+      "everyone",
+      "atmosphere"
+    ],
+    "actions": [
+      "dressed",
+      "relaxed",
+      "clothes",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The atmosphere is casual and relaxed, with everyone dressed in winter clothes, suggesting it's cold outside.",
+    "objects": [
+      "cold",
+      "casual",
+      "outside",
+      "winter",
+      "everyone",
+      "atmosphere"
+    ],
+    "actions": [
+      "dressed",
+      "relaxed",
+      "clothes",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The setting appears to be indoors, with a warm and inviting ambiance.",
+    "objects": [
+      "ambiance",
+      "warm"
+    ],
+    "actions": [
+      "inviting",
+      "indoors",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The setting appears to be indoors, with a warm and inviting ambiance.",
+    "objects": [
+      "ambiance",
+      "warm"
+    ],
+    "actions": [
+      "inviting",
+      "indoors",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The setting appears to be indoors, with a warm and inviting ambiance.",
+    "objects": [
+      "ambiance",
+      "warm"
+    ],
+    "actions": [
+      "inviting",
+      "indoors",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The setting appears to be indoors, with a warm and inviting ambiance.",
+    "objects": [
+      "ambiance",
+      "warm"
+    ],
+    "actions": [
+      "inviting",
+      "indoors",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is filled with everyday interactions, such as people eating and drinking, and conversing with one another.",
+    "objects": [
+      "one",
+      "everyday",
+      "people",
+      "such"
+    ],
+    "actions": [
+      "interactions",
+      "filled",
+      "conversing",
+      "eating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is filled with everyday interactions, such as people eating and drinking, and conversing with one another.",
+    "objects": [
+      "one",
+      "everyday",
+      "people",
+      "such"
+    ],
+    "actions": [
+      "interactions",
+      "filled",
+      "conversing",
+      "eating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is filled with everyday interactions, such as people eating and drinking, and conversing with one another.",
+    "objects": [
+      "one",
+      "everyday",
+      "people",
+      "such"
+    ],
+    "actions": [
+      "interactions",
+      "filled",
+      "conversing",
+      "eating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is filled with everyday interactions, such as people eating and drinking, and conversing with one another.",
+    "objects": [
+      "one",
+      "everyday",
+      "people",
+      "such"
+    ],
+    "actions": [
+      "interactions",
+      "filled",
+      "conversing",
+      "eating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera focuses on the group, offering a glimpse into their social dynamics and shared experiences.",
+    "objects": [
+      "glimpse",
+      "their",
+      "into",
+      "social",
+      "group"
+    ],
+    "actions": [
+      "focuses",
+      "offering",
+      "experiences",
+      "dynamics"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera focuses on the group, offering a glimpse into their social dynamics and shared experiences.",
+    "objects": [
+      "glimpse",
+      "their",
+      "into",
+      "social",
+      "group"
+    ],
+    "actions": [
+      "focuses",
+      "offering",
+      "experiences",
+      "dynamics"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera focuses on the group, offering a glimpse into their social dynamics and shared experiences.",
+    "objects": [
+      "glimpse",
+      "their",
+      "into",
+      "social",
+      "group"
+    ],
+    "actions": [
+      "focuses",
+      "offering",
+      "experiences",
+      "dynamics"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera focuses on the group, offering a glimpse into their social dynamics and shared experiences.",
+    "objects": [
+      "glimpse",
+      "their",
+      "into",
+      "social",
+      "group"
+    ],
+    "actions": [
+      "focuses",
+      "offering",
+      "experiences",
+      "dynamics"
+    ],
+    "segment_id": 7
+  }
+]

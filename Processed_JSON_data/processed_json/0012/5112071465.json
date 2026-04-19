@@ -1,0 +1,529 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene of four children playing and walking in a park.",
+    "objects": [
+      "four",
+      "children",
+      "lively",
+      "park"
+    ],
+    "actions": [
+      "walking",
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The first child, wearing a blue hoodie, is walking while holding a small green ball.",
+    "objects": [
+      "small",
+      "blue",
+      "child",
+      "first",
+      "green",
+      "ball",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "holding",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The second child, wearing a red shirt, is following closely behind, seemingly chasing the ball.",
+    "objects": [
+      "shirt",
+      "closely",
+      "child",
+      "behind",
+      "second",
+      "ball",
+      "seemingly"
+    ],
+    "actions": [
+      "red",
+      "following",
+      "chasing",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The third child, dressed in a green shirt, is walking in the opposite direction.",
+    "objects": [
+      "shirt",
+      "child",
+      "third",
+      "direction",
+      "opposite",
+      "green"
+    ],
+    "actions": [
+      "dressed",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The fourth child, wearing a white hat, is also walking but appears to be looking downwards.",
+    "objects": [
+      "child",
+      "fourth",
+      "white",
+      "but",
+      "hat"
+    ],
+    "actions": [
+      "looking",
+      "walking",
+      "downwards",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The fourth child, in a white shirt, is walking in the same direction as the first child.",
+    "objects": [
+      "shirt",
+      "child",
+      "fourth",
+      "white",
+      "same",
+      "first",
+      "direction"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The fifth child, wearing a pink shirt, is walking with their hands on their hips.",
+    "objects": [
+      "shirt",
+      "pink",
+      "fifth",
+      "their",
+      "child",
+      "hips"
+    ],
+    "actions": [
+      "hands",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The sixth child, in a white hat, is walking with their head down.",
+    "objects": [
+      "child",
+      "sixth",
+      "white",
+      "their",
+      "hat",
+      "head"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The seventh child, in a red shirt, is walking and laughing.",
+    "objects": [
+      "shirt",
+      "child",
+      "seventh"
+    ],
+    "actions": [
+      "red",
+      "laughing",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The eighth child, wearing a blue shirt, is walking while looking up.",
+    "objects": [
+      "shirt",
+      "blue",
+      "child",
+      "eighth",
+      "while"
+    ],
+    "actions": [
+      "looking",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The ninth child, in a white hat, is walking while holding a small toy.",
+    "objects": [
+      "small",
+      "child",
+      "white",
+      "ninth",
+      "toy",
+      "hat",
+      "while"
+    ],
+    "actions": [
+      "holding",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The tenth child, in a red shirt, is walking with their hands on their hips.",
+    "objects": [
+      "shirt",
+      "child",
+      "tenth",
+      "their",
+      "hips"
+    ],
+    "actions": [
+      "red",
+      "walking",
+      "hands"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The eleventh child, in a white hat, is walking with their head down.",
+    "objects": [
+      "child",
+      "their",
+      "white",
+      "eleventh",
+      "hat",
+      "head"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The twelfth child, in a green shirt, is walking with their head down.",
+    "objects": [
+      "shirt",
+      "child",
+      "their",
+      "green",
+      "twelfth",
+      "head"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The thirteenth child, wearing a white shirt, is walking and smiling.",
+    "objects": [
+      "shirt",
+      "thirteenth",
+      "child",
+      "white"
+    ],
+    "actions": [
+      "smiling",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The fourteenth child, in a blue shirt, is walking while holding a small green ball.",
+    "objects": [
+      "shirt",
+      "small",
+      "blue",
+      "child",
+      "green",
+      "ball",
+      "fourteenth",
+      "while"
+    ],
+    "actions": [
+      "holding",
+      "walking"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The fifteenth child, in a white hat, is walking with their head down.",
+    "objects": [
+      "child",
+      "white",
+      "their",
+      "hat",
+      "fifteenth",
+      "head"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The sixteenth child, in a red shirt, is walking with their head down.",
+    "objects": [
+      "shirt",
+      "child",
+      "their",
+      "sixteenth",
+      "head"
+    ],
+    "actions": [
+      "red",
+      "walking"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The seventeenth child, in a green shirt, is walking and laughing.",
+    "objects": [
+      "green",
+      "shirt",
+      "child",
+      "seventeenth"
+    ],
+    "actions": [
+      "laughing",
+      "walking"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The eighteenth child, wearing a white hat, is walking with their head down.",
+    "objects": [
+      "child",
+      "white",
+      "their",
+      "eighteenth",
+      "hat",
+      "head"
+    ],
+    "actions": [
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The nineteenth child, in a pink shirt, is walking with their hands on their hips.",
+    "objects": [
+      "shirt",
+      "pink",
+      "child",
+      "their",
+      "nineteenth",
+      "hips"
+    ],
+    "actions": [
+      "hands",
+      "walking"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The twentieth child, in a white shirt, is walking with their head down.",
+    "objects": [
+      "shirt",
+      "child",
+      "white",
+      "their",
+      "twentieth",
+      "head"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The twenty-first child, in a red hat, is walking while smiling.",
+    "objects": [
+      "hat",
+      "child",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "smiling",
+      "walking"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The twenty-second child, in a white hat, is walking with their head down.",
+    "objects": [
+      "child",
+      "white",
+      "their",
+      "hat",
+      "head"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The twenty-third child, in a blue shirt, is walking and laughing.",
+    "objects": [
+      "shirt",
+      "blue",
+      "child"
+    ],
+    "actions": [
+      "laughing",
+      "walking"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The twenty-fourth child, in a red shirt, is walking with their hands on their hips.",
+    "objects": [
+      "shirt",
+      "hips",
+      "child",
+      "their"
+    ],
+    "actions": [
+      "red",
+      "walking",
+      "hands"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The twenty-fifth child, in a white hat, is walking while smiling.",
+    "objects": [
+      "hat",
+      "child",
+      "while",
+      "white"
+    ],
+    "actions": [
+      "smiling",
+      "walking"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The twenty-sixth child, in a green shirt, is walking with their head down.",
+    "objects": [
+      "shirt",
+      "child",
+      "their",
+      "green",
+      "head"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The twenty-seventh child, in a white shirt, is walking with their hands on their hips.",
+    "objects": [
+      "shirt",
+      "child",
+      "white",
+      "their",
+      "hips"
+    ],
+    "actions": [
+      "hands",
+      "walking"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The twenty-eighth child, in a red hat, is walking while smiling.",
+    "objects": [
+      "hat",
+      "child",
+      "while"
+    ],
+    "actions": [
+      "red",
+      "smiling",
+      "walking"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The twenty-ninth child, in a white hat, is walking with their head down.",
+    "objects": [
+      "child",
+      "white",
+      "their",
+      "hat",
+      "head"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The thirty-first child, in a blue shirt, is walking while holding a small green ball.",
+    "objects": [
+      "shirt",
+      "small",
+      "blue",
+      "child",
+      "green",
+      "ball",
+      "while"
+    ],
+    "actions": [
+      "holding",
+      "walking"
+    ],
+    "segment_id": 31
+  }
+]

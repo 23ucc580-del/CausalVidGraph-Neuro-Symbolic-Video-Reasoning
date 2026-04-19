@@ -1,0 +1,498 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a bird is perched on a branch of a tree.",
+    "objects": [
+      "bird",
+      "branch",
+      "tree"
+    ],
+    "actions": [
+      "perched"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a bird is perched on a branch of a tree.",
+    "objects": [
+      "bird",
+      "branch",
+      "tree"
+    ],
+    "actions": [
+      "perched"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The bird is small, with a black head and a white body.",
+    "objects": [
+      "small",
+      "white",
+      "body",
+      "bird",
+      "head",
+      "black"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The bird is small, with a black head and a white body.",
+    "objects": [
+      "small",
+      "white",
+      "body",
+      "bird",
+      "head",
+      "black"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "It appears to be looking towards the right side of the frame.",
+    "objects": [
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "It appears to be looking towards the right side of the frame.",
+    "objects": [
+      "side"
+    ],
+    "actions": [
+      "towards",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The bird's feathers are brown and black, and it is perched on a branch with bare twigs.",
+    "objects": [
+      "bare",
+      "brown",
+      "branch",
+      "black"
+    ],
+    "actions": [
+      "bird's",
+      "feathers",
+      "perched",
+      "twigs"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The bird's feathers are brown and black, and it is perched on a branch with bare twigs.",
+    "objects": [
+      "bare",
+      "brown",
+      "branch",
+      "black"
+    ],
+    "actions": [
+      "bird's",
+      "feathers",
+      "perched",
+      "twigs"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The background is blurry, but it seems to be a forest.",
+    "objects": [
+      "but",
+      "forest",
+      "blurry"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The background is blurry, but it seems to be a forest.",
+    "objects": [
+      "but",
+      "forest",
+      "blurry"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The bird is the only object in the scene, and it is the main focus.",
+    "objects": [
+      "main",
+      "bird",
+      "only",
+      "object"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The bird is the only object in the scene, and it is the main focus.",
+    "objects": [
+      "main",
+      "bird",
+      "only",
+      "object"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The bird does not interact with anyone or anything else in the video.",
+    "objects": [
+      "else",
+      "not",
+      "bird",
+      "anyone",
+      "does",
+      "interact"
+    ],
+    "actions": [
+      "anything"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The bird does not interact with anyone or anything else in the video.",
+    "objects": [
+      "else",
+      "not",
+      "bird",
+      "anyone",
+      "does",
+      "interact"
+    ],
+    "actions": [
+      "anything"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The bird's position on the branch is stable and it appears to be calm.",
+    "objects": [
+      "calm",
+      "stable",
+      "position",
+      "branch"
+    ],
+    "actions": [
+      "bird's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The bird's position on the branch is stable and it appears to be calm.",
+    "objects": [
+      "calm",
+      "stable",
+      "position",
+      "branch"
+    ],
+    "actions": [
+      "bird's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The video does not show any people or any other objects.",
+    "objects": [
+      "people",
+      "not",
+      "other",
+      "does",
+      "any",
+      "show"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The video does not show any people or any other objects.",
+    "objects": [
+      "people",
+      "not",
+      "other",
+      "does",
+      "any",
+      "show"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "There is no movement or action taking place in the video, and the bird is simply sitting on the branch.",
+    "objects": [
+      "movement",
+      "there",
+      "simply",
+      "bird",
+      "place",
+      "branch",
+      "action"
+    ],
+    "actions": [
+      "taking",
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "There is no movement or action taking place in the video, and the bird is simply sitting on the branch.",
+    "objects": [
+      "movement",
+      "there",
+      "simply",
+      "bird",
+      "place",
+      "branch",
+      "action"
+    ],
+    "actions": [
+      "taking",
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The video does not depict any actions or provide any information about what the bird is wearing or holding.",
+    "objects": [
+      "what",
+      "about",
+      "not",
+      "information",
+      "bird",
+      "depict",
+      "does",
+      "any"
+    ],
+    "actions": [
+      "actions",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The video does not depict any actions or provide any information about what the bird is wearing or holding.",
+    "objects": [
+      "what",
+      "about",
+      "not",
+      "information",
+      "bird",
+      "depict",
+      "does",
+      "any"
+    ],
+    "actions": [
+      "actions",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The bird is not described as smiling, but it is described as looking towards the right side of the frame.",
+    "objects": [
+      "bird",
+      "but",
+      "side",
+      "not"
+    ],
+    "actions": [
+      "described",
+      "towards",
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The bird is not described as smiling, but it is described as looking towards the right side of the frame.",
+    "objects": [
+      "bird",
+      "but",
+      "side",
+      "not"
+    ],
+    "actions": [
+      "described",
+      "towards",
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The video does not show any other birds or animals.",
+    "objects": [
+      "other",
+      "not",
+      "does",
+      "any",
+      "show"
+    ],
+    "actions": [
+      "animals",
+      "birds"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The video does not show any other birds or animals.",
+    "objects": [
+      "other",
+      "not",
+      "does",
+      "any",
+      "show"
+    ],
+    "actions": [
+      "animals",
+      "birds"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The bird's color is the only description provided.",
+    "objects": [
+      "only",
+      "color",
+      "description"
+    ],
+    "actions": [
+      "bird's",
+      "provided"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The bird's color is the only description provided.",
+    "objects": [
+      "only",
+      "color",
+      "description"
+    ],
+    "actions": [
+      "bird's",
+      "provided"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The bird is not described as wearing a hoodie or carrying an object.",
+    "objects": [
+      "bird",
+      "hoodie",
+      "not",
+      "object"
+    ],
+    "actions": [
+      "described",
+      "wearing",
+      "carrying"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The bird is not described as wearing a hoodie or carrying an object.",
+    "objects": [
+      "bird",
+      "hoodie",
+      "not",
+      "object"
+    ],
+    "actions": [
+      "described",
+      "wearing",
+      "carrying"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The bird is not described as having a blue or silver car.",
+    "objects": [
+      "silver",
+      "car",
+      "blue",
+      "not",
+      "bird"
+    ],
+    "actions": [
+      "described",
+      "having"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The bird is not described as having a blue or silver car.",
+    "objects": [
+      "silver",
+      "car",
+      "blue",
+      "not",
+      "bird"
+    ],
+    "actions": [
+      "described",
+      "having"
+    ],
+    "segment_id": 15
+  }
+]

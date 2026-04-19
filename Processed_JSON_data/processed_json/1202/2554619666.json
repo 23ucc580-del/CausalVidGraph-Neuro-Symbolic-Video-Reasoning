@@ -1,0 +1,542 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a lively scene at a beach playground.",
+    "objects": [
+      "see",
+      "beach",
+      "playground",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a lively scene at a beach playground.",
+    "objects": [
+      "see",
+      "beach",
+      "playground",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a lively scene at a beach playground.",
+    "objects": [
+      "see",
+      "beach",
+      "playground",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "Two men are at the center of the action.",
+    "objects": [
+      "two",
+      "men",
+      "center",
+      "action"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Two men are at the center of the action.",
+    "objects": [
+      "two",
+      "men",
+      "center",
+      "action"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two men are at the center of the action.",
+    "objects": [
+      "two",
+      "men",
+      "center",
+      "action"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One man, wearing a blue hoodie, is sitting on a slide, his legs dangling off the side.",
+    "objects": [
+      "blue",
+      "legs",
+      "man",
+      "his",
+      "side",
+      "hoodie",
+      "one",
+      "off"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "dangling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "One man, wearing a blue hoodie, is sitting on a slide, his legs dangling off the side.",
+    "objects": [
+      "blue",
+      "legs",
+      "man",
+      "his",
+      "side",
+      "hoodie",
+      "one",
+      "off"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "dangling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "One man, wearing a blue hoodie, is sitting on a slide, his legs dangling off the side.",
+    "objects": [
+      "blue",
+      "legs",
+      "man",
+      "his",
+      "side",
+      "hoodie",
+      "one",
+      "off"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "dangling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He's holding a toy car, which is a bright yellow color.",
+    "objects": [
+      "color",
+      "car",
+      "toy",
+      "which",
+      "bright",
+      "yellow"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "He's holding a toy car, which is a bright yellow color.",
+    "objects": [
+      "color",
+      "car",
+      "toy",
+      "which",
+      "bright",
+      "yellow"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "He's holding a toy car, which is a bright yellow color.",
+    "objects": [
+      "color",
+      "car",
+      "toy",
+      "which",
+      "bright",
+      "yellow"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The other man, wearing a hat with a floral pattern, is sitting on a swing set, his legs hanging over the side as well.",
+    "objects": [
+      "floral",
+      "legs",
+      "pattern",
+      "man",
+      "over",
+      "other",
+      "his",
+      "side"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "hanging",
+      "swing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The other man, wearing a hat with a floral pattern, is sitting on a swing set, his legs hanging over the side as well.",
+    "objects": [
+      "floral",
+      "legs",
+      "pattern",
+      "man",
+      "over",
+      "other",
+      "his",
+      "side"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "hanging",
+      "swing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The other man, wearing a hat with a floral pattern, is sitting on a swing set, his legs hanging over the side as well.",
+    "objects": [
+      "floral",
+      "legs",
+      "pattern",
+      "man",
+      "over",
+      "other",
+      "his",
+      "side"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "hanging",
+      "swing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "He is holding a toy car, which is a vibrant red color.",
+    "objects": [
+      "color",
+      "car",
+      "toy",
+      "which",
+      "vibrant"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "He is holding a toy car, which is a vibrant red color.",
+    "objects": [
+      "color",
+      "car",
+      "toy",
+      "which",
+      "vibrant"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "He is holding a toy car, which is a vibrant red color.",
+    "objects": [
+      "color",
+      "car",
+      "toy",
+      "which",
+      "vibrant"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The slide is situated in front of the swing set.",
+    "objects": [
+      "set",
+      "slide"
+    ],
+    "actions": [
+      "situated",
+      "swing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The slide is situated in front of the swing set.",
+    "objects": [
+      "set",
+      "slide"
+    ],
+    "actions": [
+      "situated",
+      "swing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The slide is situated in front of the swing set.",
+    "objects": [
+      "set",
+      "slide"
+    ],
+    "actions": [
+      "situated",
+      "swing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Both men appear to be enjoying their time at the playground, with the man in the blue hoodie seemingly taking a break from his playful antics and the man in the floral hat looking ready to dive back into the fun.",
+    "objects": [
+      "playful",
+      "both",
+      "man",
+      "his",
+      "fun",
+      "appear",
+      "from",
+      "into"
+    ],
+    "actions": [
+      "antics",
+      "looking",
+      "taking",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Both men appear to be enjoying their time at the playground, with the man in the blue hoodie seemingly taking a break from his playful antics and the man in the floral hat looking ready to dive back into the fun.",
+    "objects": [
+      "playful",
+      "both",
+      "man",
+      "his",
+      "fun",
+      "appear",
+      "from",
+      "into"
+    ],
+    "actions": [
+      "antics",
+      "looking",
+      "taking",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Both men appear to be enjoying their time at the playground, with the man in the blue hoodie seemingly taking a break from his playful antics and the man in the floral hat looking ready to dive back into the fun.",
+    "objects": [
+      "playful",
+      "both",
+      "man",
+      "his",
+      "fun",
+      "appear",
+      "from",
+      "into"
+    ],
+    "actions": [
+      "antics",
+      "looking",
+      "taking",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "In the background, we see a man in a blue shirt walking on the sand, and another man in a hat walking past the slide.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "past",
+      "sand",
+      "slide",
+      "see",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, we see a man in a blue shirt walking on the sand, and another man in a hat walking past the slide.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "past",
+      "sand",
+      "slide",
+      "see",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, we see a man in a blue shirt walking on the sand, and another man in a hat walking past the slide.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "past",
+      "sand",
+      "slide",
+      "see",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The playground is equipped with a blue and white lifeguard stand, adding to the beach setting.",
+    "objects": [
+      "white",
+      "blue",
+      "beach",
+      "playground",
+      "lifeguard",
+      "stand"
+    ],
+    "actions": [
+      "adding",
+      "setting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The playground is equipped with a blue and white lifeguard stand, adding to the beach setting.",
+    "objects": [
+      "white",
+      "blue",
+      "beach",
+      "playground",
+      "lifeguard",
+      "stand"
+    ],
+    "actions": [
+      "adding",
+      "setting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The playground is equipped with a blue and white lifeguard stand, adding to the beach setting.",
+    "objects": [
+      "white",
+      "blue",
+      "beach",
+      "playground",
+      "lifeguard",
+      "stand"
+    ],
+    "actions": [
+      "adding",
+      "setting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere seems to be one of leisure and enjoyment.",
+    "objects": [
+      "atmosphere",
+      "enjoyment",
+      "leisure",
+      "one",
+      "overall"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere seems to be one of leisure and enjoyment.",
+    "objects": [
+      "atmosphere",
+      "enjoyment",
+      "leisure",
+      "one",
+      "overall"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 10
+  }
+]

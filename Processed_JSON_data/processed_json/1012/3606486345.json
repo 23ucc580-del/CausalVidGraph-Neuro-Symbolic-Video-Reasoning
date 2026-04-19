@@ -1,0 +1,600 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a black chicken walking across a kitchen counter.",
+    "objects": [
+      "black",
+      "across",
+      "counter",
+      "kitchen",
+      "chicken"
+    ],
+    "actions": [
+      "begins",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a black chicken walking across a kitchen counter.",
+    "objects": [
+      "black",
+      "across",
+      "counter",
+      "kitchen",
+      "chicken"
+    ],
+    "actions": [
+      "begins",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video begins with a black chicken walking across a kitchen counter.",
+    "objects": [
+      "black",
+      "across",
+      "counter",
+      "kitchen",
+      "chicken"
+    ],
+    "actions": [
+      "begins",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The chicken is pecking at a piece of bread, seemingly curious about it.",
+    "objects": [
+      "bread",
+      "seemingly",
+      "about",
+      "piece",
+      "chicken"
+    ],
+    "actions": [
+      "curious",
+      "pecking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The chicken is pecking at a piece of bread, seemingly curious about it.",
+    "objects": [
+      "bread",
+      "seemingly",
+      "about",
+      "piece",
+      "chicken"
+    ],
+    "actions": [
+      "curious",
+      "pecking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The chicken is pecking at a piece of bread, seemingly curious about it.",
+    "objects": [
+      "bread",
+      "seemingly",
+      "about",
+      "piece",
+      "chicken"
+    ],
+    "actions": [
+      "curious",
+      "pecking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The chicken is wearing a red collar around its neck, which stands out against its black feathers.",
+    "objects": [
+      "its",
+      "black",
+      "collar",
+      "out",
+      "around",
+      "chicken",
+      "which",
+      "against"
+    ],
+    "actions": [
+      "wearing",
+      "feathers",
+      "stands",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The chicken is wearing a red collar around its neck, which stands out against its black feathers.",
+    "objects": [
+      "its",
+      "black",
+      "collar",
+      "out",
+      "around",
+      "chicken",
+      "which",
+      "against"
+    ],
+    "actions": [
+      "wearing",
+      "feathers",
+      "stands",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The chicken is wearing a red collar around its neck, which stands out against its black feathers.",
+    "objects": [
+      "its",
+      "black",
+      "collar",
+      "out",
+      "around",
+      "chicken",
+      "which",
+      "against"
+    ],
+    "actions": [
+      "wearing",
+      "feathers",
+      "stands",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "As the chicken moves across the counter, it encounters various kitchen utensils, including a knife, a spoon, and a blue bowl.",
+    "objects": [
+      "knife",
+      "blue",
+      "across",
+      "bowl",
+      "counter",
+      "spoon",
+      "kitchen",
+      "chicken"
+    ],
+    "actions": [
+      "utensils",
+      "encounters",
+      "moves"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "As the chicken moves across the counter, it encounters various kitchen utensils, including a knife, a spoon, and a blue bowl.",
+    "objects": [
+      "knife",
+      "blue",
+      "across",
+      "bowl",
+      "counter",
+      "spoon",
+      "kitchen",
+      "chicken"
+    ],
+    "actions": [
+      "utensils",
+      "encounters",
+      "moves"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "As the chicken moves across the counter, it encounters various kitchen utensils, including a knife, a spoon, and a blue bowl.",
+    "objects": [
+      "knife",
+      "blue",
+      "across",
+      "bowl",
+      "counter",
+      "spoon",
+      "kitchen",
+      "chicken"
+    ],
+    "actions": [
+      "utensils",
+      "encounters",
+      "moves"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The chicken walks past a sink filled with dishes and a blue bowl, and at one point, it stands on a white towel.",
+    "objects": [
+      "one",
+      "sink",
+      "white",
+      "blue",
+      "towel",
+      "bowl",
+      "point",
+      "past"
+    ],
+    "actions": [
+      "walks",
+      "filled",
+      "stands",
+      "dishes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The chicken walks past a sink filled with dishes and a blue bowl, and at one point, it stands on a white towel.",
+    "objects": [
+      "one",
+      "sink",
+      "white",
+      "blue",
+      "towel",
+      "bowl",
+      "point",
+      "past"
+    ],
+    "actions": [
+      "walks",
+      "filled",
+      "stands",
+      "dishes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The chicken walks past a sink filled with dishes and a blue bowl, and at one point, it stands on a white towel.",
+    "objects": [
+      "one",
+      "sink",
+      "white",
+      "blue",
+      "towel",
+      "bowl",
+      "point",
+      "past"
+    ],
+    "actions": [
+      "walks",
+      "filled",
+      "stands",
+      "dishes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The scene then shifts to a person wearing a blue hoodie standing in the kitchen.",
+    "objects": [
+      "blue",
+      "then",
+      "kitchen",
+      "hoodie"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene then shifts to a person wearing a blue hoodie standing in the kitchen.",
+    "objects": [
+      "blue",
+      "then",
+      "kitchen",
+      "hoodie"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene then shifts to a person wearing a blue hoodie standing in the kitchen.",
+    "objects": [
+      "blue",
+      "then",
+      "kitchen",
+      "hoodie"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The person is holding a knife and a spoon, perhaps in the middle of preparing a meal or cleaning up.",
+    "objects": [
+      "middle",
+      "knife",
+      "spoon",
+      "meal"
+    ],
+    "actions": [
+      "preparing",
+      "perhaps",
+      "holding",
+      "cleaning"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The person is holding a knife and a spoon, perhaps in the middle of preparing a meal or cleaning up.",
+    "objects": [
+      "middle",
+      "knife",
+      "spoon",
+      "meal"
+    ],
+    "actions": [
+      "preparing",
+      "perhaps",
+      "holding",
+      "cleaning"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The person is holding a knife and a spoon, perhaps in the middle of preparing a meal or cleaning up.",
+    "objects": [
+      "middle",
+      "knife",
+      "spoon",
+      "meal"
+    ],
+    "actions": [
+      "preparing",
+      "perhaps",
+      "holding",
+      "cleaning"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "They also have a bowl of fruit in their hands, suggesting that they might be in the process of making a snack or meal.",
+    "objects": [
+      "they",
+      "their",
+      "meal",
+      "bowl",
+      "fruit",
+      "that",
+      "have",
+      "snack"
+    ],
+    "actions": [
+      "making",
+      "hands",
+      "suggesting",
+      "process"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "They also have a bowl of fruit in their hands, suggesting that they might be in the process of making a snack or meal.",
+    "objects": [
+      "they",
+      "their",
+      "meal",
+      "bowl",
+      "fruit",
+      "that",
+      "have",
+      "snack"
+    ],
+    "actions": [
+      "making",
+      "hands",
+      "suggesting",
+      "process"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "They also have a bowl of fruit in their hands, suggesting that they might be in the process of making a snack or meal.",
+    "objects": [
+      "they",
+      "their",
+      "meal",
+      "bowl",
+      "fruit",
+      "that",
+      "have",
+      "snack"
+    ],
+    "actions": [
+      "making",
+      "hands",
+      "suggesting",
+      "process"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The chicken then returns to the counter, where it walks towards a dish filled with food and starts pecking at it again.",
+    "objects": [
+      "where",
+      "dish",
+      "counter",
+      "food",
+      "then",
+      "again",
+      "chicken"
+    ],
+    "actions": [
+      "towards",
+      "filled",
+      "starts",
+      "pecking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The chicken then returns to the counter, where it walks towards a dish filled with food and starts pecking at it again.",
+    "objects": [
+      "where",
+      "dish",
+      "counter",
+      "food",
+      "then",
+      "again",
+      "chicken"
+    ],
+    "actions": [
+      "towards",
+      "filled",
+      "starts",
+      "pecking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The chicken then returns to the counter, where it walks towards a dish filled with food and starts pecking at it again.",
+    "objects": [
+      "where",
+      "dish",
+      "counter",
+      "food",
+      "then",
+      "again",
+      "chicken"
+    ],
+    "actions": [
+      "towards",
+      "filled",
+      "starts",
+      "pecking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The chicken is still wearing its red collar and continues to move around the kitchen, exploring its surroundings.",
+    "objects": [
+      "its",
+      "collar",
+      "move",
+      "chicken",
+      "around",
+      "kitchen",
+      "still"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "exploring",
+      "continues"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The chicken is still wearing its red collar and continues to move around the kitchen, exploring its surroundings.",
+    "objects": [
+      "its",
+      "collar",
+      "move",
+      "chicken",
+      "around",
+      "kitchen",
+      "still"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "exploring",
+      "continues"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The chicken is still wearing its red collar and continues to move around the kitchen, exploring its surroundings.",
+    "objects": [
+      "its",
+      "collar",
+      "move",
+      "chicken",
+      "around",
+      "kitchen",
+      "still"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "exploring",
+      "continues"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The person then returns to the counter with a bowl of food, presumably to serve it to the chicken.",
+    "objects": [
+      "serve",
+      "presumably",
+      "bowl",
+      "counter",
+      "food",
+      "then",
+      "chicken"
+    ],
+    "actions": [
+      "returns"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The person then returns to the counter with a bowl of food, presumably to serve it to the chicken.",
+    "objects": [
+      "serve",
+      "presumably",
+      "bowl",
+      "counter",
+      "food",
+      "then",
+      "chicken"
+    ],
+    "actions": [
+      "returns"
+    ],
+    "segment_id": 10
+  }
+]

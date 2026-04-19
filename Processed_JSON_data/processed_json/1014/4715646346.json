@@ -1,0 +1,634 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people engaging in the sport of fencing, a highly skilled and competitive form of swordplay.",
+    "objects": [
+      "highly",
+      "people",
+      "form",
+      "see",
+      "competitive",
+      "sport",
+      "swordplay",
+      "this"
+    ],
+    "actions": [
+      "engaging",
+      "fencing",
+      "skilled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people engaging in the sport of fencing, a highly skilled and competitive form of swordplay.",
+    "objects": [
+      "highly",
+      "people",
+      "form",
+      "see",
+      "competitive",
+      "sport",
+      "swordplay",
+      "this"
+    ],
+    "actions": [
+      "engaging",
+      "fencing",
+      "skilled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people engaging in the sport of fencing, a highly skilled and competitive form of swordplay.",
+    "objects": [
+      "highly",
+      "people",
+      "form",
+      "see",
+      "competitive",
+      "sport",
+      "swordplay",
+      "this"
+    ],
+    "actions": [
+      "engaging",
+      "fencing",
+      "skilled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "Two individuals, both dressed in fencing gear and wielding swords, are standing on a fencing strip, poised and ready for action.",
+    "objects": [
+      "both",
+      "two",
+      "ready",
+      "action",
+      "strip",
+      "gear"
+    ],
+    "actions": [
+      "swords",
+      "standing",
+      "dressed",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Two individuals, both dressed in fencing gear and wielding swords, are standing on a fencing strip, poised and ready for action.",
+    "objects": [
+      "both",
+      "two",
+      "ready",
+      "action",
+      "strip",
+      "gear"
+    ],
+    "actions": [
+      "swords",
+      "standing",
+      "dressed",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two individuals, both dressed in fencing gear and wielding swords, are standing on a fencing strip, poised and ready for action.",
+    "objects": [
+      "both",
+      "two",
+      "ready",
+      "action",
+      "strip",
+      "gear"
+    ],
+    "actions": [
+      "swords",
+      "standing",
+      "dressed",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are surrounded by a crowd of spectators, some of whom are also wearing fencing gear, suggesting that they are either waiting for their turn to fence or are there to support their fellow fencers.",
+    "objects": [
+      "they",
+      "their",
+      "fellow",
+      "crowd",
+      "either",
+      "there",
+      "support",
+      "whom"
+    ],
+    "actions": [
+      "surrounded",
+      "wearing",
+      "fencers",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "They are surrounded by a crowd of spectators, some of whom are also wearing fencing gear, suggesting that they are either waiting for their turn to fence or are there to support their fellow fencers.",
+    "objects": [
+      "they",
+      "their",
+      "fellow",
+      "crowd",
+      "either",
+      "there",
+      "support",
+      "whom"
+    ],
+    "actions": [
+      "surrounded",
+      "wearing",
+      "fencers",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "They are surrounded by a crowd of spectators, some of whom are also wearing fencing gear, suggesting that they are either waiting for their turn to fence or are there to support their fellow fencers.",
+    "objects": [
+      "they",
+      "their",
+      "fellow",
+      "crowd",
+      "either",
+      "there",
+      "support",
+      "whom"
+    ],
+    "actions": [
+      "surrounded",
+      "wearing",
+      "fencers",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The atmosphere is one of concentration and anticipation, as everyone is focused on the ongoing fencing match.",
+    "objects": [
+      "one",
+      "anticipation",
+      "concentration",
+      "everyone",
+      "atmosphere",
+      "match"
+    ],
+    "actions": [
+      "focused",
+      "fencing",
+      "ongoing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The atmosphere is one of concentration and anticipation, as everyone is focused on the ongoing fencing match.",
+    "objects": [
+      "one",
+      "anticipation",
+      "concentration",
+      "everyone",
+      "atmosphere",
+      "match"
+    ],
+    "actions": [
+      "focused",
+      "fencing",
+      "ongoing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The atmosphere is one of concentration and anticipation, as everyone is focused on the ongoing fencing match.",
+    "objects": [
+      "one",
+      "anticipation",
+      "concentration",
+      "everyone",
+      "atmosphere",
+      "match"
+    ],
+    "actions": [
+      "focused",
+      "fencing",
+      "ongoing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The individuals on the strip are not identified by name but are simply referred to as \"fencer 1\" and \"fencer 2.\"\n\n\nThe fencing strip is marked with lines to indicate the boundaries and a central area, known as the \"piste,\" where the fencers engage.",
+    "objects": [
+      "simply",
+      "central",
+      "where",
+      "not",
+      "known",
+      "name",
+      "engage",
+      "strip"
+    ],
+    "actions": [
+      "boundaries",
+      "identified",
+      "fencers",
+      "individuals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The individuals on the strip are not identified by name but are simply referred to as \"fencer 1\" and \"fencer 2.\"\n\n\nThe fencing strip is marked with lines to indicate the boundaries and a central area, known as the \"piste,\" where the fencers engage.",
+    "objects": [
+      "simply",
+      "central",
+      "where",
+      "not",
+      "known",
+      "name",
+      "engage",
+      "strip"
+    ],
+    "actions": [
+      "boundaries",
+      "identified",
+      "fencers",
+      "individuals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The individuals on the strip are not identified by name but are simply referred to as \"fencer 1\" and \"fencer 2.\"\n\n\nThe fencing strip is marked with lines to indicate the boundaries and a central area, known as the \"piste,\" where the fencers engage.",
+    "objects": [
+      "simply",
+      "central",
+      "where",
+      "not",
+      "known",
+      "name",
+      "engage",
+      "strip"
+    ],
+    "actions": [
+      "boundaries",
+      "identified",
+      "fencers",
+      "individuals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The fencers are holding their swords in their right hands, ready to strike or defend, and their left hands are extended, possibly signaling the end of a fencing move or preparing for a counterattack.",
+    "objects": [
+      "their",
+      "end",
+      "ready",
+      "possibly",
+      "strike",
+      "move",
+      "defend",
+      "counterattack"
+    ],
+    "actions": [
+      "swords",
+      "extended",
+      "hands",
+      "fencers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The fencers are holding their swords in their right hands, ready to strike or defend, and their left hands are extended, possibly signaling the end of a fencing move or preparing for a counterattack.",
+    "objects": [
+      "their",
+      "end",
+      "ready",
+      "possibly",
+      "strike",
+      "move",
+      "defend",
+      "counterattack"
+    ],
+    "actions": [
+      "swords",
+      "extended",
+      "hands",
+      "fencers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The fencers are holding their swords in their right hands, ready to strike or defend, and their left hands are extended, possibly signaling the end of a fencing move or preparing for a counterattack.",
+    "objects": [
+      "their",
+      "end",
+      "ready",
+      "possibly",
+      "strike",
+      "move",
+      "defend",
+      "counterattack"
+    ],
+    "actions": [
+      "swords",
+      "extended",
+      "hands",
+      "fencers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The strip is surrounded by a white line, which serves as a safety boundary, ensuring that the swords do not accidentally strike the crowd beyond the strip.",
+    "objects": [
+      "crowd",
+      "white",
+      "not",
+      "line",
+      "strike",
+      "that",
+      "which",
+      "boundary"
+    ],
+    "actions": [
+      "swords",
+      "surrounded",
+      "ensuring",
+      "serves"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The strip is surrounded by a white line, which serves as a safety boundary, ensuring that the swords do not accidentally strike the crowd beyond the strip.",
+    "objects": [
+      "crowd",
+      "white",
+      "not",
+      "line",
+      "strike",
+      "that",
+      "which",
+      "boundary"
+    ],
+    "actions": [
+      "swords",
+      "surrounded",
+      "ensuring",
+      "serves"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The strip is surrounded by a white line, which serves as a safety boundary, ensuring that the swords do not accidentally strike the crowd beyond the strip.",
+    "objects": [
+      "crowd",
+      "white",
+      "not",
+      "line",
+      "strike",
+      "that",
+      "which",
+      "boundary"
+    ],
+    "actions": [
+      "swords",
+      "surrounded",
+      "ensuring",
+      "serves"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The room has a blue color scheme, possibly indicating a specific school or club's branding, and the spectators are dressed in fencing gear, including masks, jackets, and gloves.",
+    "objects": [
+      "specific",
+      "scheme",
+      "possibly",
+      "blue",
+      "has",
+      "color",
+      "gear",
+      "room"
+    ],
+    "actions": [
+      "branding",
+      "gloves",
+      "dressed",
+      "indicating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The room has a blue color scheme, possibly indicating a specific school or club's branding, and the spectators are dressed in fencing gear, including masks, jackets, and gloves.",
+    "objects": [
+      "specific",
+      "scheme",
+      "possibly",
+      "blue",
+      "has",
+      "color",
+      "gear",
+      "room"
+    ],
+    "actions": [
+      "branding",
+      "gloves",
+      "dressed",
+      "indicating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The room has a blue color scheme, possibly indicating a specific school or club's branding, and the spectators are dressed in fencing gear, including masks, jackets, and gloves.",
+    "objects": [
+      "specific",
+      "scheme",
+      "possibly",
+      "blue",
+      "has",
+      "color",
+      "gear",
+      "room"
+    ],
+    "actions": [
+      "branding",
+      "gloves",
+      "dressed",
+      "indicating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Some are also wearing hoodies, which could be a part of their outfit or a personal choice.",
+    "objects": [
+      "their",
+      "outfit",
+      "personal",
+      "part",
+      "some",
+      "which",
+      "choice",
+      "could"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Some are also wearing hoodies, which could be a part of their outfit or a personal choice.",
+    "objects": [
+      "their",
+      "outfit",
+      "personal",
+      "part",
+      "some",
+      "which",
+      "choice",
+      "could"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Some are also wearing hoodies, which could be a part of their outfit or a personal choice.",
+    "objects": [
+      "their",
+      "outfit",
+      "personal",
+      "part",
+      "some",
+      "which",
+      "choice",
+      "could"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The room is filled with anticipation and focus, as everyone's attention is on the ongoing fencing match.",
+    "objects": [
+      "room",
+      "anticipation",
+      "attention",
+      "match"
+    ],
+    "actions": [
+      "everyone's",
+      "filled",
+      "focus",
+      "fencing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The room is filled with anticipation and focus, as everyone's attention is on the ongoing fencing match.",
+    "objects": [
+      "room",
+      "anticipation",
+      "attention",
+      "match"
+    ],
+    "actions": [
+      "everyone's",
+      "filled",
+      "focus",
+      "fencing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The room is filled with anticipation and focus, as everyone's attention is on the ongoing fencing match.",
+    "objects": [
+      "room",
+      "anticipation",
+      "attention",
+      "match"
+    ],
+    "actions": [
+      "everyone's",
+      "filled",
+      "focus",
+      "fencing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The spectators' reactions are not specified, but they are likely engaged and attentive to the fencing match.",
+    "objects": [
+      "they",
+      "not",
+      "attentive",
+      "likely",
+      "match",
+      "but"
+    ],
+    "actions": [
+      "specified",
+      "engaged",
+      "reactions",
+      "fencing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The spectators' reactions are not specified, but they are likely engaged and attentive to the fencing match.",
+    "objects": [
+      "they",
+      "not",
+      "attentive",
+      "likely",
+      "match",
+      "but"
+    ],
+    "actions": [
+      "specified",
+      "engaged",
+      "reactions",
+      "fencing"
+    ],
+    "segment_id": 10
+  }
+]

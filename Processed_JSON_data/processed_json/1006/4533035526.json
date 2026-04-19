@@ -1,0 +1,587 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a lively scene of a child's birthday party.",
+    "objects": [
+      "party",
+      "lively",
+      "birthday",
+      "see"
+    ],
+    "actions": [
+      "child's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a lively scene of a child's birthday party.",
+    "objects": [
+      "party",
+      "lively",
+      "birthday",
+      "see"
+    ],
+    "actions": [
+      "child's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a lively scene of a child's birthday party.",
+    "objects": [
+      "party",
+      "lively",
+      "birthday",
+      "see"
+    ],
+    "actions": [
+      "child's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The room is filled with joy and excitement.",
+    "objects": [
+      "room",
+      "excitement",
+      "joy"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is filled with joy and excitement.",
+    "objects": [
+      "room",
+      "excitement",
+      "joy"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is filled with joy and excitement.",
+    "objects": [
+      "room",
+      "excitement",
+      "joy"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A young girl, wearing a pink and white striped dress, is the center of attention, holding a large yellow balloon that she seems to be playing with.",
+    "objects": [
+      "large",
+      "white",
+      "attention",
+      "pink",
+      "she",
+      "young",
+      "yellow",
+      "balloon"
+    ],
+    "actions": [
+      "seems",
+      "wearing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A young girl, wearing a pink and white striped dress, is the center of attention, holding a large yellow balloon that she seems to be playing with.",
+    "objects": [
+      "large",
+      "white",
+      "attention",
+      "pink",
+      "she",
+      "young",
+      "yellow",
+      "balloon"
+    ],
+    "actions": [
+      "seems",
+      "wearing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A young girl, wearing a pink and white striped dress, is the center of attention, holding a large yellow balloon that she seems to be playing with.",
+    "objects": [
+      "large",
+      "white",
+      "attention",
+      "pink",
+      "she",
+      "young",
+      "yellow",
+      "balloon"
+    ],
+    "actions": [
+      "seems",
+      "wearing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Her laughter fills the air as she reaches up to touch the balloon, trying to grasp it.",
+    "objects": [
+      "air",
+      "she",
+      "grasp",
+      "touch",
+      "balloon",
+      "her",
+      "laughter"
+    ],
+    "actions": [
+      "reaches",
+      "trying",
+      "fills"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Her laughter fills the air as she reaches up to touch the balloon, trying to grasp it.",
+    "objects": [
+      "air",
+      "she",
+      "grasp",
+      "touch",
+      "balloon",
+      "her",
+      "laughter"
+    ],
+    "actions": [
+      "reaches",
+      "trying",
+      "fills"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Her laughter fills the air as she reaches up to touch the balloon, trying to grasp it.",
+    "objects": [
+      "air",
+      "she",
+      "grasp",
+      "touch",
+      "balloon",
+      "her",
+      "laughter"
+    ],
+    "actions": [
+      "reaches",
+      "trying",
+      "fills"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a blue shirt stands nearby, watching the child with amusement.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "amusement",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "watching",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a blue shirt stands nearby, watching the child with amusement.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "amusement",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "watching",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a blue shirt stands nearby, watching the child with amusement.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "amusement",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "watching",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Nearby, a woman in a blue shirt holds a blue balloon, her gaze fixed on the girl as she smiles, perhaps in admiration of the child's actions.",
+    "objects": [
+      "she",
+      "woman",
+      "gaze",
+      "blue",
+      "shirt",
+      "balloon",
+      "her",
+      "admiration"
+    ],
+    "actions": [
+      "fixed",
+      "actions",
+      "smiles",
+      "child's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Nearby, a woman in a blue shirt holds a blue balloon, her gaze fixed on the girl as she smiles, perhaps in admiration of the child's actions.",
+    "objects": [
+      "she",
+      "woman",
+      "gaze",
+      "blue",
+      "shirt",
+      "balloon",
+      "her",
+      "admiration"
+    ],
+    "actions": [
+      "fixed",
+      "actions",
+      "smiles",
+      "child's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Nearby, a woman in a blue shirt holds a blue balloon, her gaze fixed on the girl as she smiles, perhaps in admiration of the child's actions.",
+    "objects": [
+      "she",
+      "woman",
+      "gaze",
+      "blue",
+      "shirt",
+      "balloon",
+      "her",
+      "admiration"
+    ],
+    "actions": [
+      "fixed",
+      "actions",
+      "smiles",
+      "child's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "Another woman in a white shirt, wearing a blue hoodie, is standing nearby, holding a small yellow balloon, her attention drawn to the girl as well.",
+    "objects": [
+      "white",
+      "small",
+      "woman",
+      "attention",
+      "blue",
+      "yellow",
+      "shirt",
+      "well"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "Another woman in a white shirt, wearing a blue hoodie, is standing nearby, holding a small yellow balloon, her attention drawn to the girl as well.",
+    "objects": [
+      "white",
+      "small",
+      "woman",
+      "attention",
+      "blue",
+      "yellow",
+      "shirt",
+      "well"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "Another woman in a white shirt, wearing a blue hoodie, is standing nearby, holding a small yellow balloon, her attention drawn to the girl as well.",
+    "objects": [
+      "white",
+      "small",
+      "woman",
+      "attention",
+      "blue",
+      "yellow",
+      "shirt",
+      "well"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A little girl in a pink dress is standing close by, her eyes sparkling with delight.",
+    "objects": [
+      "pink",
+      "little",
+      "dress",
+      "her",
+      "girl",
+      "close",
+      "delight",
+      "eyes"
+    ],
+    "actions": [
+      "standing",
+      "sparkling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A little girl in a pink dress is standing close by, her eyes sparkling with delight.",
+    "objects": [
+      "pink",
+      "little",
+      "dress",
+      "her",
+      "girl",
+      "close",
+      "delight",
+      "eyes"
+    ],
+    "actions": [
+      "standing",
+      "sparkling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A little girl in a pink dress is standing close by, her eyes sparkling with delight.",
+    "objects": [
+      "pink",
+      "little",
+      "dress",
+      "her",
+      "girl",
+      "close",
+      "delight",
+      "eyes"
+    ],
+    "actions": [
+      "standing",
+      "sparkling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "In the background, a little boy in a red shirt is playing with a small yellow balloon, his focus on the girl as well.",
+    "objects": [
+      "small",
+      "boy",
+      "yellow",
+      "little",
+      "shirt",
+      "well",
+      "balloon",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "focus",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, a little boy in a red shirt is playing with a small yellow balloon, his focus on the girl as well.",
+    "objects": [
+      "small",
+      "boy",
+      "yellow",
+      "little",
+      "shirt",
+      "well",
+      "balloon",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "focus",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, a little boy in a red shirt is playing with a small yellow balloon, his focus on the girl as well.",
+    "objects": [
+      "small",
+      "boy",
+      "yellow",
+      "little",
+      "shirt",
+      "well",
+      "balloon",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "focus",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is set against a backdrop of a room filled with balloons in various colors, adding to the festive atmosphere.",
+    "objects": [
+      "backdrop",
+      "set",
+      "against",
+      "room",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "colors",
+      "filled",
+      "adding",
+      "balloons"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is set against a backdrop of a room filled with balloons in various colors, adding to the festive atmosphere.",
+    "objects": [
+      "backdrop",
+      "set",
+      "against",
+      "room",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "colors",
+      "filled",
+      "adding",
+      "balloons"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is set against a backdrop of a room filled with balloons in various colors, adding to the festive atmosphere.",
+    "objects": [
+      "backdrop",
+      "set",
+      "against",
+      "room",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "colors",
+      "filled",
+      "adding",
+      "balloons"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The television screen in the background shows a program playing, perhaps serving as a source of entertainment for the children.",
+    "objects": [
+      "screen",
+      "children",
+      "entertainment",
+      "source",
+      "program",
+      "television"
+    ],
+    "actions": [
+      "playing",
+      "serving",
+      "perhaps"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The television screen in the background shows a program playing, perhaps serving as a source of entertainment for the children.",
+    "objects": [
+      "screen",
+      "children",
+      "entertainment",
+      "source",
+      "program",
+      "television"
+    ],
+    "actions": [
+      "playing",
+      "serving",
+      "perhaps"
+    ],
+    "segment_id": 10
+  }
+]

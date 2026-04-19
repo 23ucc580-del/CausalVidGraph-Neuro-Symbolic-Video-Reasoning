@@ -1,0 +1,578 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young child is seen sitting on the floor of a kitchen, wearing a gray shirt and blue shorts, playing with a blue ball.",
+    "objects": [
+      "child",
+      "blue",
+      "gray",
+      "shirt",
+      "ball",
+      "young",
+      "floor",
+      "kitchen"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "playing",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young child is seen sitting on the floor of a kitchen, wearing a gray shirt and blue shorts, playing with a blue ball.",
+    "objects": [
+      "child",
+      "blue",
+      "gray",
+      "shirt",
+      "ball",
+      "young",
+      "floor",
+      "kitchen"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "playing",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young child is seen sitting on the floor of a kitchen, wearing a gray shirt and blue shorts, playing with a blue ball.",
+    "objects": [
+      "child",
+      "blue",
+      "gray",
+      "shirt",
+      "ball",
+      "young",
+      "floor",
+      "kitchen"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "playing",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a young child is seen sitting on the floor of a kitchen, wearing a gray shirt and blue shorts, playing with a blue ball.",
+    "objects": [
+      "child",
+      "blue",
+      "gray",
+      "shirt",
+      "ball",
+      "young",
+      "floor",
+      "kitchen"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "playing",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The child's feet are bare and he is smiling as he reaches for the ball with his left hand.",
+    "objects": [
+      "feet",
+      "ball",
+      "bare",
+      "his",
+      "hand"
+    ],
+    "actions": [
+      "reaches",
+      "child's",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child's feet are bare and he is smiling as he reaches for the ball with his left hand.",
+    "objects": [
+      "feet",
+      "ball",
+      "bare",
+      "his",
+      "hand"
+    ],
+    "actions": [
+      "reaches",
+      "child's",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child's feet are bare and he is smiling as he reaches for the ball with his left hand.",
+    "objects": [
+      "feet",
+      "ball",
+      "bare",
+      "his",
+      "hand"
+    ],
+    "actions": [
+      "reaches",
+      "child's",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child's feet are bare and he is smiling as he reaches for the ball with his left hand.",
+    "objects": [
+      "feet",
+      "ball",
+      "bare",
+      "his",
+      "hand"
+    ],
+    "actions": [
+      "reaches",
+      "child's",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another person is standing nearby, wearing a black shirt and jeans, observing the child.",
+    "objects": [
+      "black",
+      "nearby",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "observing",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another person is standing nearby, wearing a black shirt and jeans, observing the child.",
+    "objects": [
+      "black",
+      "nearby",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "observing",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another person is standing nearby, wearing a black shirt and jeans, observing the child.",
+    "objects": [
+      "black",
+      "nearby",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "observing",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another person is standing nearby, wearing a black shirt and jeans, observing the child.",
+    "objects": [
+      "black",
+      "nearby",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "observing",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The child is sitting on the floor near the oven, which is white, and the person is standing next to the countertop.",
+    "objects": [
+      "white",
+      "child",
+      "oven",
+      "which",
+      "countertop",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The child is sitting on the floor near the oven, which is white, and the person is standing next to the countertop.",
+    "objects": [
+      "white",
+      "child",
+      "oven",
+      "which",
+      "countertop",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The child is sitting on the floor near the oven, which is white, and the person is standing next to the countertop.",
+    "objects": [
+      "white",
+      "child",
+      "oven",
+      "which",
+      "countertop",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The child is sitting on the floor near the oven, which is white, and the person is standing next to the countertop.",
+    "objects": [
+      "white",
+      "child",
+      "oven",
+      "which",
+      "countertop",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The child appears to be in a happy mood, laughing and enjoying himself as he plays with the ball.",
+    "objects": [
+      "happy",
+      "child",
+      "ball",
+      "himself",
+      "mood"
+    ],
+    "actions": [
+      "plays",
+      "enjoying",
+      "laughing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The child appears to be in a happy mood, laughing and enjoying himself as he plays with the ball.",
+    "objects": [
+      "happy",
+      "child",
+      "ball",
+      "himself",
+      "mood"
+    ],
+    "actions": [
+      "plays",
+      "enjoying",
+      "laughing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The child appears to be in a happy mood, laughing and enjoying himself as he plays with the ball.",
+    "objects": [
+      "happy",
+      "child",
+      "ball",
+      "himself",
+      "mood"
+    ],
+    "actions": [
+      "plays",
+      "enjoying",
+      "laughing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The child appears to be in a happy mood, laughing and enjoying himself as he plays with the ball.",
+    "objects": [
+      "happy",
+      "child",
+      "ball",
+      "himself",
+      "mood"
+    ],
+    "actions": [
+      "plays",
+      "enjoying",
+      "laughing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene is set in a home kitchen, with the child's position on the floor and the presence of the oven and countertop indicating a domestic setting.",
+    "objects": [
+      "domestic",
+      "home",
+      "oven",
+      "position",
+      "presence",
+      "set",
+      "countertop",
+      "floor"
+    ],
+    "actions": [
+      "child's",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene is set in a home kitchen, with the child's position on the floor and the presence of the oven and countertop indicating a domestic setting.",
+    "objects": [
+      "domestic",
+      "home",
+      "oven",
+      "position",
+      "presence",
+      "set",
+      "countertop",
+      "floor"
+    ],
+    "actions": [
+      "child's",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene is set in a home kitchen, with the child's position on the floor and the presence of the oven and countertop indicating a domestic setting.",
+    "objects": [
+      "domestic",
+      "home",
+      "oven",
+      "position",
+      "presence",
+      "set",
+      "countertop",
+      "floor"
+    ],
+    "actions": [
+      "child's",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene is set in a home kitchen, with the child's position on the floor and the presence of the oven and countertop indicating a domestic setting.",
+    "objects": [
+      "domestic",
+      "home",
+      "oven",
+      "position",
+      "presence",
+      "set",
+      "countertop",
+      "floor"
+    ],
+    "actions": [
+      "child's",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The child's playful interaction with the ball suggests a playful moment, and the observer's presence adds a sense of companionship to the scene.",
+    "objects": [
+      "sense",
+      "ball",
+      "presence",
+      "interaction",
+      "moment",
+      "playful",
+      "companionship",
+      "adds"
+    ],
+    "actions": [
+      "suggests",
+      "child's",
+      "observer's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The child's playful interaction with the ball suggests a playful moment, and the observer's presence adds a sense of companionship to the scene.",
+    "objects": [
+      "sense",
+      "ball",
+      "presence",
+      "interaction",
+      "moment",
+      "playful",
+      "companionship",
+      "adds"
+    ],
+    "actions": [
+      "suggests",
+      "child's",
+      "observer's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The child's playful interaction with the ball suggests a playful moment, and the observer's presence adds a sense of companionship to the scene.",
+    "objects": [
+      "sense",
+      "ball",
+      "presence",
+      "interaction",
+      "moment",
+      "playful",
+      "companionship",
+      "adds"
+    ],
+    "actions": [
+      "suggests",
+      "child's",
+      "observer's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The child's playful interaction with the ball suggests a playful moment, and the observer's presence adds a sense of companionship to the scene.",
+    "objects": [
+      "sense",
+      "ball",
+      "presence",
+      "interaction",
+      "moment",
+      "playful",
+      "companionship",
+      "adds"
+    ],
+    "actions": [
+      "suggests",
+      "child's",
+      "observer's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The overall atmosphere is one of joy and comfort.",
+    "objects": [
+      "one",
+      "comfort",
+      "overall",
+      "atmosphere",
+      "joy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The overall atmosphere is one of joy and comfort.",
+    "objects": [
+      "one",
+      "comfort",
+      "overall",
+      "atmosphere",
+      "joy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere is one of joy and comfort.",
+    "objects": [
+      "one",
+      "comfort",
+      "overall",
+      "atmosphere",
+      "joy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere is one of joy and comfort.",
+    "objects": [
+      "one",
+      "comfort",
+      "overall",
+      "atmosphere",
+      "joy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

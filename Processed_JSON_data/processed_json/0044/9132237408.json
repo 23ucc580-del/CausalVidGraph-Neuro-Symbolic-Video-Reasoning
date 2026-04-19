@@ -1,0 +1,504 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a man standing on a street, dressed in a black hoodie, blue jeans, and black gloves.",
+    "objects": [
+      "man",
+      "street",
+      "hoodie",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "gloves",
+      "dressed",
+      "begins",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a man standing on a street, dressed in a black hoodie, blue jeans, and black gloves.",
+    "objects": [
+      "man",
+      "street",
+      "hoodie",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "gloves",
+      "dressed",
+      "begins",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "He is wearing a black beanie and is holding a black umbrella.",
+    "objects": [
+      "umbrella",
+      "beanie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "He is wearing a black beanie and is holding a black umbrella.",
+    "objects": [
+      "umbrella",
+      "beanie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Another man, dressed in a black jacket, blue jeans, and black gloves, is standing next to him.",
+    "objects": [
+      "man",
+      "blue",
+      "jacket",
+      "him",
+      "black"
+    ],
+    "actions": [
+      "gloves",
+      "dressed",
+      "jeans",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "Another man, dressed in a black jacket, blue jeans, and black gloves, is standing next to him.",
+    "objects": [
+      "man",
+      "blue",
+      "jacket",
+      "him",
+      "black"
+    ],
+    "actions": [
+      "gloves",
+      "dressed",
+      "jeans",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "Both men are looking down at the ground, seemingly inspecting something.",
+    "objects": [
+      "men",
+      "seemingly",
+      "ground",
+      "both"
+    ],
+    "actions": [
+      "inspecting",
+      "something",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "Both men are looking down at the ground, seemingly inspecting something.",
+    "objects": [
+      "men",
+      "seemingly",
+      "ground",
+      "both"
+    ],
+    "actions": [
+      "inspecting",
+      "something",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The man in the black hoodie bends down to pick up a brown leaf from the road.",
+    "objects": [
+      "man",
+      "leaf",
+      "road",
+      "hoodie",
+      "brown",
+      "from",
+      "pick",
+      "black"
+    ],
+    "actions": [
+      "bends"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The man in the black hoodie bends down to pick up a brown leaf from the road.",
+    "objects": [
+      "man",
+      "leaf",
+      "road",
+      "hoodie",
+      "brown",
+      "from",
+      "pick",
+      "black"
+    ],
+    "actions": [
+      "bends"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "He then looks up and smiles at the camera.",
+    "objects": [
+      "then"
+    ],
+    "actions": [
+      "looks",
+      "smiles"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "He then looks up and smiles at the camera.",
+    "objects": [
+      "then"
+    ],
+    "actions": [
+      "looks",
+      "smiles"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "He is holding a black umbrella and a blue jacket.",
+    "objects": [
+      "jacket",
+      "umbrella",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "He is holding a black umbrella and a blue jacket.",
+    "objects": [
+      "jacket",
+      "umbrella",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then shows the other man, who is also holding a black umbrella.",
+    "objects": [
+      "umbrella",
+      "man",
+      "who",
+      "other",
+      "then",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then shows the other man, who is also holding a black umbrella.",
+    "objects": [
+      "umbrella",
+      "man",
+      "who",
+      "other",
+      "then",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "He is wearing a blue jeans and a black beanie.",
+    "objects": [
+      "beanie",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "He is wearing a blue jeans and a black beanie.",
+    "objects": [
+      "beanie",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the black hoodie looks back and smiles at the camera.",
+    "objects": [
+      "hoodie",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "looks",
+      "smiles"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the black hoodie looks back and smiles at the camera.",
+    "objects": [
+      "hoodie",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "looks",
+      "smiles"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then shows the first man, who is wearing a blue jacket and a black beanie, smiling at the camera while holding a black umbrella.",
+    "objects": [
+      "first",
+      "umbrella",
+      "man",
+      "who",
+      "beanie",
+      "blue",
+      "while",
+      "then"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then shows the first man, who is wearing a blue jacket and a black beanie, smiling at the camera while holding a black umbrella.",
+    "objects": [
+      "first",
+      "umbrella",
+      "man",
+      "who",
+      "beanie",
+      "blue",
+      "while",
+      "then"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "He is dressed in blue jeans and a black glove.",
+    "objects": [
+      "glove",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "He is dressed in blue jeans and a black glove.",
+    "objects": [
+      "glove",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the black jacket is wearing a black beanie and a blue jeans.",
+    "objects": [
+      "man",
+      "beanie",
+      "blue",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the black jacket is wearing a black beanie and a blue jeans.",
+    "objects": [
+      "man",
+      "beanie",
+      "blue",
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "He is holding a black umbrella.",
+    "objects": [
+      "umbrella",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "He is holding a black umbrella.",
+    "objects": [
+      "umbrella",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then shows the first man again, who is wearing a blue jeans and a black glove, smiling at the camera while holding a black umbrella.",
+    "objects": [
+      "first",
+      "umbrella",
+      "again",
+      "man",
+      "who",
+      "glove",
+      "blue",
+      "while"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "holding",
+      "jeans"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then shows the first man again, who is wearing a blue jeans and a black glove, smiling at the camera while holding a black umbrella.",
+    "objects": [
+      "first",
+      "umbrella",
+      "again",
+      "man",
+      "who",
+      "glove",
+      "blue",
+      "while"
+    ],
+    "actions": [
+      "smiling",
+      "wearing",
+      "holding",
+      "jeans"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "He is dressed in a blue jacket and a black beanie.",
+    "objects": [
+      "jacket",
+      "beanie",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "He is dressed in a blue jacket and a black beanie.",
+    "objects": [
+      "jacket",
+      "beanie",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 15
+  }
+]

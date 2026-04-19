@@ -1,0 +1,588 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video depicts a tranquil scene of ducks and people enjoying a sunny day on a pond.",
+    "objects": [
+      "people",
+      "tranquil",
+      "pond",
+      "day",
+      "sunny",
+      "this"
+    ],
+    "actions": [
+      "ducks",
+      "depicts",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video depicts a tranquil scene of ducks and people enjoying a sunny day on a pond.",
+    "objects": [
+      "people",
+      "tranquil",
+      "pond",
+      "day",
+      "sunny",
+      "this"
+    ],
+    "actions": [
+      "ducks",
+      "depicts",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video starts with two ducks, one larger and one smaller, swimming in the water.",
+    "objects": [
+      "one",
+      "two",
+      "smaller",
+      "larger",
+      "water"
+    ],
+    "actions": [
+      "swimming",
+      "ducks",
+      "starts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The video starts with two ducks, one larger and one smaller, swimming in the water.",
+    "objects": [
+      "one",
+      "two",
+      "smaller",
+      "larger",
+      "water"
+    ],
+    "actions": [
+      "swimming",
+      "ducks",
+      "starts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The smaller duck is more active, while the larger one seems to be resting.",
+    "objects": [
+      "one",
+      "duck",
+      "active",
+      "while",
+      "smaller",
+      "larger",
+      "more"
+    ],
+    "actions": [
+      "seems",
+      "resting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The smaller duck is more active, while the larger one seems to be resting.",
+    "objects": [
+      "one",
+      "duck",
+      "active",
+      "while",
+      "smaller",
+      "larger",
+      "more"
+    ],
+    "actions": [
+      "seems",
+      "resting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The pond is surrounded by lush greenery with a variety of lily pads scattered throughout, adding a touch of nature's beauty to the scene.",
+    "objects": [
+      "greenery",
+      "variety",
+      "lily",
+      "throughout",
+      "lush",
+      "pond",
+      "touch",
+      "beauty"
+    ],
+    "actions": [
+      "nature's",
+      "surrounded",
+      "adding",
+      "scattered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The pond is surrounded by lush greenery with a variety of lily pads scattered throughout, adding a touch of nature's beauty to the scene.",
+    "objects": [
+      "greenery",
+      "variety",
+      "lily",
+      "throughout",
+      "lush",
+      "pond",
+      "touch",
+      "beauty"
+    ],
+    "actions": [
+      "nature's",
+      "surrounded",
+      "adding",
+      "scattered"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "As the video progresses, we see more ducks, some smaller and some larger, swimming in the water.",
+    "objects": [
+      "smaller",
+      "some",
+      "see",
+      "larger",
+      "more",
+      "water"
+    ],
+    "actions": [
+      "progresses",
+      "swimming",
+      "ducks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "As the video progresses, we see more ducks, some smaller and some larger, swimming in the water.",
+    "objects": [
+      "smaller",
+      "some",
+      "see",
+      "larger",
+      "more",
+      "water"
+    ],
+    "actions": [
+      "progresses",
+      "swimming",
+      "ducks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The ducks appear to be at ease, with their heads above water, suggesting they are either looking for food or simply enjoying the water.",
+    "objects": [
+      "appear",
+      "their",
+      "they",
+      "either",
+      "simply",
+      "above",
+      "ease",
+      "food"
+    ],
+    "actions": [
+      "looking",
+      "suggesting",
+      "heads",
+      "ducks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The ducks appear to be at ease, with their heads above water, suggesting they are either looking for food or simply enjoying the water.",
+    "objects": [
+      "appear",
+      "their",
+      "they",
+      "either",
+      "simply",
+      "above",
+      "ease",
+      "food"
+    ],
+    "actions": [
+      "looking",
+      "suggesting",
+      "heads",
+      "ducks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "In the foreground, a small group of people are standing on the bank of the pond, seemingly observing the ducks.",
+    "objects": [
+      "people",
+      "small",
+      "pond",
+      "seemingly",
+      "bank",
+      "group"
+    ],
+    "actions": [
+      "observing",
+      "standing",
+      "ducks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "In the foreground, a small group of people are standing on the bank of the pond, seemingly observing the ducks.",
+    "objects": [
+      "people",
+      "small",
+      "pond",
+      "seemingly",
+      "bank",
+      "group"
+    ],
+    "actions": [
+      "observing",
+      "standing",
+      "ducks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "One of them is holding a dog on a leash, which adds a playful element to the scene.",
+    "objects": [
+      "one",
+      "leash",
+      "dog",
+      "them",
+      "which",
+      "element",
+      "playful",
+      "adds"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "One of them is holding a dog on a leash, which adds a playful element to the scene.",
+    "objects": [
+      "one",
+      "leash",
+      "dog",
+      "them",
+      "which",
+      "element",
+      "playful",
+      "adds"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The people are dressed in casual attire, suitable for a day out in the park.",
+    "objects": [
+      "suitable",
+      "people",
+      "attire",
+      "casual",
+      "out",
+      "park",
+      "day"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The people are dressed in casual attire, suitable for a day out in the park.",
+    "objects": [
+      "suitable",
+      "people",
+      "attire",
+      "casual",
+      "out",
+      "park",
+      "day"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "They appear relaxed and happy, enjoying the view of the ducks and the serene atmosphere.",
+    "objects": [
+      "they",
+      "appear",
+      "happy",
+      "serene",
+      "atmosphere"
+    ],
+    "actions": [
+      "ducks",
+      "relaxed",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "They appear relaxed and happy, enjoying the view of the ducks and the serene atmosphere.",
+    "objects": [
+      "they",
+      "appear",
+      "happy",
+      "serene",
+      "atmosphere"
+    ],
+    "actions": [
+      "ducks",
+      "relaxed",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The video ends with a shot of a group of people in a small boat, floating on the pond.",
+    "objects": [
+      "small",
+      "people",
+      "boat",
+      "pond",
+      "ends",
+      "group"
+    ],
+    "actions": [
+      "floating"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The video ends with a shot of a group of people in a small boat, floating on the pond.",
+    "objects": [
+      "small",
+      "people",
+      "boat",
+      "pond",
+      "ends",
+      "group"
+    ],
+    "actions": [
+      "floating"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The boat is moving along the water, and the people are wearing life jackets for safety.",
+    "objects": [
+      "along",
+      "people",
+      "boat",
+      "safety",
+      "life",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "moving",
+      "jackets"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The boat is moving along the water, and the people are wearing life jackets for safety.",
+    "objects": [
+      "along",
+      "people",
+      "boat",
+      "safety",
+      "life",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "moving",
+      "jackets"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "This indicates that the pond might be deeper than it appears from the bank, and they are taking precautions.",
+    "objects": [
+      "they",
+      "deeper",
+      "than",
+      "pond",
+      "from",
+      "that",
+      "bank",
+      "might"
+    ],
+    "actions": [
+      "indicates",
+      "taking",
+      "precautions"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "This indicates that the pond might be deeper than it appears from the bank, and they are taking precautions.",
+    "objects": [
+      "they",
+      "deeper",
+      "than",
+      "pond",
+      "from",
+      "that",
+      "bank",
+      "might"
+    ],
+    "actions": [
+      "indicates",
+      "taking",
+      "precautions"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The boat's movement adds a dynamic element to the otherwise peaceful scene.",
+    "objects": [
+      "peaceful",
+      "otherwise",
+      "element",
+      "movement",
+      "dynamic",
+      "adds"
+    ],
+    "actions": [
+      "boat's"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The boat's movement adds a dynamic element to the otherwise peaceful scene.",
+    "objects": [
+      "peaceful",
+      "otherwise",
+      "element",
+      "movement",
+      "dynamic",
+      "adds"
+    ],
+    "actions": [
+      "boat's"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Throughout the video, the colors are vibrant and the lighting is bright, highlighting the natural beauty of the pond and the ducks.",
+    "objects": [
+      "natural",
+      "vibrant",
+      "throughout",
+      "pond",
+      "bright",
+      "beauty"
+    ],
+    "actions": [
+      "ducks",
+      "colors",
+      "lighting",
+      "highlighting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Throughout the video, the colors are vibrant and the lighting is bright, highlighting the natural beauty of the pond and the ducks.",
+    "objects": [
+      "natural",
+      "vibrant",
+      "throughout",
+      "pond",
+      "bright",
+      "beauty"
+    ],
+    "actions": [
+      "ducks",
+      "colors",
+      "lighting",
+      "highlighting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The combination of the people, ducks, and the pond creates a harmonious balance, showcasing a delightful day out in nature.",
+    "objects": [
+      "people",
+      "balance",
+      "pond",
+      "delightful",
+      "combination",
+      "out",
+      "nature",
+      "day"
+    ],
+    "actions": [
+      "showcasing",
+      "ducks",
+      "creates",
+      "harmonious"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The combination of the people, ducks, and the pond creates a harmonious balance, showcasing a delightful day out in nature.",
+    "objects": [
+      "people",
+      "balance",
+      "pond",
+      "delightful",
+      "combination",
+      "out",
+      "nature",
+      "day"
+    ],
+    "actions": [
+      "showcasing",
+      "ducks",
+      "creates",
+      "harmonious"
+    ],
+    "segment_id": 15
+  }
+]

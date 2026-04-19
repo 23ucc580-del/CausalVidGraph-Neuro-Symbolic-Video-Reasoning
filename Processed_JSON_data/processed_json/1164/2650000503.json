@@ -1,0 +1,542 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a tranquil scene at a ranch where a group of people are interacting with horses.",
+    "objects": [
+      "ranch",
+      "people",
+      "group",
+      "where",
+      "tranquil"
+    ],
+    "actions": [
+      "depicts",
+      "horses",
+      "interacting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a tranquil scene at a ranch where a group of people are interacting with horses.",
+    "objects": [
+      "ranch",
+      "people",
+      "group",
+      "where",
+      "tranquil"
+    ],
+    "actions": [
+      "depicts",
+      "horses",
+      "interacting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a tranquil scene at a ranch where a group of people are interacting with horses.",
+    "objects": [
+      "ranch",
+      "people",
+      "group",
+      "where",
+      "tranquil"
+    ],
+    "actions": [
+      "depicts",
+      "horses",
+      "interacting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a tranquil scene at a ranch where a group of people are interacting with horses.",
+    "objects": [
+      "ranch",
+      "people",
+      "group",
+      "where",
+      "tranquil"
+    ],
+    "actions": [
+      "depicts",
+      "horses",
+      "interacting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the foreground, a woman in a blue hoodie is holding the reins of a white horse, guiding it along the fenced area, while a young girl in a red hoodie is sitting on a horse behind her.",
+    "objects": [
+      "white",
+      "blue",
+      "horse",
+      "her",
+      "while",
+      "young",
+      "area",
+      "girl"
+    ],
+    "actions": [
+      "fenced",
+      "guiding",
+      "red",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, a woman in a blue hoodie is holding the reins of a white horse, guiding it along the fenced area, while a young girl in a red hoodie is sitting on a horse behind her.",
+    "objects": [
+      "white",
+      "blue",
+      "horse",
+      "her",
+      "while",
+      "young",
+      "area",
+      "girl"
+    ],
+    "actions": [
+      "fenced",
+      "guiding",
+      "red",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, a woman in a blue hoodie is holding the reins of a white horse, guiding it along the fenced area, while a young girl in a red hoodie is sitting on a horse behind her.",
+    "objects": [
+      "white",
+      "blue",
+      "horse",
+      "her",
+      "while",
+      "young",
+      "area",
+      "girl"
+    ],
+    "actions": [
+      "fenced",
+      "guiding",
+      "red",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, a woman in a blue hoodie is holding the reins of a white horse, guiding it along the fenced area, while a young girl in a red hoodie is sitting on a horse behind her.",
+    "objects": [
+      "white",
+      "blue",
+      "horse",
+      "her",
+      "while",
+      "young",
+      "area",
+      "girl"
+    ],
+    "actions": [
+      "fenced",
+      "guiding",
+      "red",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The horse is calm and well-behaved, walking along the fence.",
+    "objects": [
+      "calm",
+      "along",
+      "fence",
+      "horse"
+    ],
+    "actions": [
+      "well-behaved",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The horse is calm and well-behaved, walking along the fence.",
+    "objects": [
+      "calm",
+      "along",
+      "fence",
+      "horse"
+    ],
+    "actions": [
+      "well-behaved",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The horse is calm and well-behaved, walking along the fence.",
+    "objects": [
+      "calm",
+      "along",
+      "fence",
+      "horse"
+    ],
+    "actions": [
+      "well-behaved",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The horse is calm and well-behaved, walking along the fence.",
+    "objects": [
+      "calm",
+      "along",
+      "fence",
+      "horse"
+    ],
+    "actions": [
+      "well-behaved",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman leads the horse towards the right side of the frame, and the girl follows her lead.",
+    "objects": [
+      "horse",
+      "her",
+      "side",
+      "girl",
+      "woman",
+      "lead"
+    ],
+    "actions": [
+      "leads",
+      "towards",
+      "follows"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman leads the horse towards the right side of the frame, and the girl follows her lead.",
+    "objects": [
+      "horse",
+      "her",
+      "side",
+      "girl",
+      "woman",
+      "lead"
+    ],
+    "actions": [
+      "leads",
+      "towards",
+      "follows"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman leads the horse towards the right side of the frame, and the girl follows her lead.",
+    "objects": [
+      "horse",
+      "her",
+      "side",
+      "girl",
+      "woman",
+      "lead"
+    ],
+    "actions": [
+      "leads",
+      "towards",
+      "follows"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman leads the horse towards the right side of the frame, and the girl follows her lead.",
+    "objects": [
+      "horse",
+      "her",
+      "side",
+      "girl",
+      "woman",
+      "lead"
+    ],
+    "actions": [
+      "leads",
+      "towards",
+      "follows"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, another person wearing a cowboy hat is also leading a white horse, with another child on its back.",
+    "objects": [
+      "white",
+      "horse",
+      "its",
+      "child",
+      "cowboy",
+      "hat"
+    ],
+    "actions": [
+      "leading",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, another person wearing a cowboy hat is also leading a white horse, with another child on its back.",
+    "objects": [
+      "white",
+      "horse",
+      "its",
+      "child",
+      "cowboy",
+      "hat"
+    ],
+    "actions": [
+      "leading",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, another person wearing a cowboy hat is also leading a white horse, with another child on its back.",
+    "objects": [
+      "white",
+      "horse",
+      "its",
+      "child",
+      "cowboy",
+      "hat"
+    ],
+    "actions": [
+      "leading",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, another person wearing a cowboy hat is also leading a white horse, with another child on its back.",
+    "objects": [
+      "white",
+      "horse",
+      "its",
+      "child",
+      "cowboy",
+      "hat"
+    ],
+    "actions": [
+      "leading",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The horses are calm and well-behaved, walking along the fence.",
+    "objects": [
+      "calm",
+      "along",
+      "fence"
+    ],
+    "actions": [
+      "well-behaved",
+      "horses",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The horses are calm and well-behaved, walking along the fence.",
+    "objects": [
+      "calm",
+      "along",
+      "fence"
+    ],
+    "actions": [
+      "well-behaved",
+      "horses",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The horses are calm and well-behaved, walking along the fence.",
+    "objects": [
+      "calm",
+      "along",
+      "fence"
+    ],
+    "actions": [
+      "well-behaved",
+      "horses",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The horses are calm and well-behaved, walking along the fence.",
+    "objects": [
+      "calm",
+      "along",
+      "fence"
+    ],
+    "actions": [
+      "well-behaved",
+      "horses",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman leading the white horse turns towards the left side of the frame and walks away.",
+    "objects": [
+      "white",
+      "horse",
+      "away",
+      "side",
+      "woman"
+    ],
+    "actions": [
+      "walks",
+      "leading",
+      "towards",
+      "turns"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman leading the white horse turns towards the left side of the frame and walks away.",
+    "objects": [
+      "white",
+      "horse",
+      "away",
+      "side",
+      "woman"
+    ],
+    "actions": [
+      "walks",
+      "leading",
+      "towards",
+      "turns"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman leading the white horse turns towards the left side of the frame and walks away.",
+    "objects": [
+      "white",
+      "horse",
+      "away",
+      "side",
+      "woman"
+    ],
+    "actions": [
+      "walks",
+      "leading",
+      "towards",
+      "turns"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman leading the white horse turns towards the left side of the frame and walks away.",
+    "objects": [
+      "white",
+      "horse",
+      "away",
+      "side",
+      "woman"
+    ],
+    "actions": [
+      "walks",
+      "leading",
+      "towards",
+      "turns"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is peaceful, with the horses' movements being controlled by the handlers.",
+    "objects": [
+      "peaceful"
+    ],
+    "actions": [
+      "handlers",
+      "controlled",
+      "movements",
+      "being"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is peaceful, with the horses' movements being controlled by the handlers.",
+    "objects": [
+      "peaceful"
+    ],
+    "actions": [
+      "handlers",
+      "controlled",
+      "movements",
+      "being"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is peaceful, with the horses' movements being controlled by the handlers.",
+    "objects": [
+      "peaceful"
+    ],
+    "actions": [
+      "handlers",
+      "controlled",
+      "movements",
+      "being"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is peaceful, with the horses' movements being controlled by the handlers.",
+    "objects": [
+      "peaceful"
+    ],
+    "actions": [
+      "handlers",
+      "controlled",
+      "movements",
+      "being"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young child is seen playing the piano, with their small hands pressing the keys.",
+    "objects": [
+      "keys",
+      "small",
+      "young",
+      "child",
+      "their",
+      "piano"
+    ],
+    "actions": [
+      "hands",
+      "playing",
+      "pressing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young child is seen playing the piano, with their small hands pressing the keys.",
+    "objects": [
+      "keys",
+      "small",
+      "young",
+      "child",
+      "their",
+      "piano"
+    ],
+    "actions": [
+      "hands",
+      "playing",
+      "pressing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young child is seen playing the piano, with their small hands pressing the keys.",
+    "objects": [
+      "keys",
+      "small",
+      "young",
+      "child",
+      "their",
+      "piano"
+    ],
+    "actions": [
+      "hands",
+      "playing",
+      "pressing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a young child is seen playing the piano, with their small hands pressing the keys.",
+    "objects": [
+      "keys",
+      "small",
+      "young",
+      "child",
+      "their",
+      "piano"
+    ],
+    "actions": [
+      "hands",
+      "playing",
+      "pressing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is wearing a striped shirt with red and white stripes.",
+    "objects": [
+      "white",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "stripes",
+      "wearing",
+      "red",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is wearing a striped shirt with red and white stripes.",
+    "objects": [
+      "white",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "stripes",
+      "wearing",
+      "red",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child is wearing a striped shirt with red and white stripes.",
+    "objects": [
+      "white",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "stripes",
+      "wearing",
+      "red",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child is wearing a striped shirt with red and white stripes.",
+    "objects": [
+      "white",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "stripes",
+      "wearing",
+      "red",
+      "striped"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Behind the child, an adult, who appears to be a woman, is holding them in their arms, providing support and possibly guiding their playing.",
+    "objects": [
+      "adult",
+      "support",
+      "child",
+      "them",
+      "behind",
+      "arms",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "providing",
+      "guiding",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Behind the child, an adult, who appears to be a woman, is holding them in their arms, providing support and possibly guiding their playing.",
+    "objects": [
+      "adult",
+      "support",
+      "child",
+      "them",
+      "behind",
+      "arms",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "providing",
+      "guiding",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Behind the child, an adult, who appears to be a woman, is holding them in their arms, providing support and possibly guiding their playing.",
+    "objects": [
+      "adult",
+      "support",
+      "child",
+      "them",
+      "behind",
+      "arms",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "providing",
+      "guiding",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Behind the child, an adult, who appears to be a woman, is holding them in their arms, providing support and possibly guiding their playing.",
+    "objects": [
+      "adult",
+      "support",
+      "child",
+      "them",
+      "behind",
+      "arms",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "providing",
+      "guiding",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The adult is wearing a gray top and has a pink cloth in their hands, possibly a baby blanket or a small toy.",
+    "objects": [
+      "pink",
+      "toy",
+      "top",
+      "has",
+      "gray",
+      "adult",
+      "small",
+      "blanket"
+    ],
+    "actions": [
+      "hands",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The adult is wearing a gray top and has a pink cloth in their hands, possibly a baby blanket or a small toy.",
+    "objects": [
+      "pink",
+      "toy",
+      "top",
+      "has",
+      "gray",
+      "adult",
+      "small",
+      "blanket"
+    ],
+    "actions": [
+      "hands",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The adult is wearing a gray top and has a pink cloth in their hands, possibly a baby blanket or a small toy.",
+    "objects": [
+      "pink",
+      "toy",
+      "top",
+      "has",
+      "gray",
+      "adult",
+      "small",
+      "blanket"
+    ],
+    "actions": [
+      "hands",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The adult is wearing a gray top and has a pink cloth in their hands, possibly a baby blanket or a small toy.",
+    "objects": [
+      "pink",
+      "toy",
+      "top",
+      "has",
+      "gray",
+      "adult",
+      "small",
+      "blanket"
+    ],
+    "actions": [
+      "hands",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene is set in a room with a white wall and a window visible in the background.",
+    "objects": [
+      "white",
+      "room",
+      "set",
+      "wall",
+      "window"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene is set in a room with a white wall and a window visible in the background.",
+    "objects": [
+      "white",
+      "room",
+      "set",
+      "wall",
+      "window"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene is set in a room with a white wall and a window visible in the background.",
+    "objects": [
+      "white",
+      "room",
+      "set",
+      "wall",
+      "window"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene is set in a room with a white wall and a window visible in the background.",
+    "objects": [
+      "white",
+      "room",
+      "set",
+      "wall",
+      "window"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The child is smiling and seems to be enjoying the activity, while the adult is watching attentively and smiling back.",
+    "objects": [
+      "attentively",
+      "adult",
+      "while",
+      "child",
+      "activity"
+    ],
+    "actions": [
+      "watching",
+      "smiling",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The child is smiling and seems to be enjoying the activity, while the adult is watching attentively and smiling back.",
+    "objects": [
+      "attentively",
+      "adult",
+      "while",
+      "child",
+      "activity"
+    ],
+    "actions": [
+      "watching",
+      "smiling",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The child is smiling and seems to be enjoying the activity, while the adult is watching attentively and smiling back.",
+    "objects": [
+      "attentively",
+      "adult",
+      "while",
+      "child",
+      "activity"
+    ],
+    "actions": [
+      "watching",
+      "smiling",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The child is smiling and seems to be enjoying the activity, while the adult is watching attentively and smiling back.",
+    "objects": [
+      "attentively",
+      "adult",
+      "while",
+      "child",
+      "activity"
+    ],
+    "actions": [
+      "watching",
+      "smiling",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The child's face is lit up with joy, and the adult's face is lit up with a warm smile, suggesting a bonding moment between the two.",
+    "objects": [
+      "warm",
+      "between",
+      "two",
+      "joy",
+      "smile",
+      "moment",
+      "lit",
+      "face"
+    ],
+    "actions": [
+      "bonding",
+      "adult's",
+      "child's",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The child's face is lit up with joy, and the adult's face is lit up with a warm smile, suggesting a bonding moment between the two.",
+    "objects": [
+      "warm",
+      "between",
+      "two",
+      "joy",
+      "smile",
+      "moment",
+      "lit",
+      "face"
+    ],
+    "actions": [
+      "bonding",
+      "adult's",
+      "child's",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The child's face is lit up with joy, and the adult's face is lit up with a warm smile, suggesting a bonding moment between the two.",
+    "objects": [
+      "warm",
+      "between",
+      "two",
+      "joy",
+      "smile",
+      "moment",
+      "lit",
+      "face"
+    ],
+    "actions": [
+      "bonding",
+      "adult's",
+      "child's",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The child's face is lit up with joy, and the adult's face is lit up with a warm smile, suggesting a bonding moment between the two.",
+    "objects": [
+      "warm",
+      "between",
+      "two",
+      "joy",
+      "smile",
+      "moment",
+      "lit",
+      "face"
+    ],
+    "actions": [
+      "bonding",
+      "adult's",
+      "child's",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The atmosphere is warm and playful, with the child's laughter adding to the overall lightheartedness of the scene.",
+    "objects": [
+      "warm",
+      "playful",
+      "laughter",
+      "overall",
+      "atmosphere"
+    ],
+    "actions": [
+      "lightheartedness",
+      "adding",
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The atmosphere is warm and playful, with the child's laughter adding to the overall lightheartedness of the scene.",
+    "objects": [
+      "warm",
+      "playful",
+      "laughter",
+      "overall",
+      "atmosphere"
+    ],
+    "actions": [
+      "lightheartedness",
+      "adding",
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The atmosphere is warm and playful, with the child's laughter adding to the overall lightheartedness of the scene.",
+    "objects": [
+      "warm",
+      "playful",
+      "laughter",
+      "overall",
+      "atmosphere"
+    ],
+    "actions": [
+      "lightheartedness",
+      "adding",
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The atmosphere is warm and playful, with the child's laughter adding to the overall lightheartedness of the scene.",
+    "objects": [
+      "warm",
+      "playful",
+      "laughter",
+      "overall",
+      "atmosphere"
+    ],
+    "actions": [
+      "lightheartedness",
+      "adding",
+      "child's"
+    ],
+    "segment_id": 7
+  }
+]

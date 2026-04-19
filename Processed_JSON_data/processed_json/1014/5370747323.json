@@ -1,0 +1,562 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a lively beach scene with a group of people walking along the boardwalk.",
+    "objects": [
+      "along",
+      "beach",
+      "boardwalk",
+      "people",
+      "lively",
+      "see",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a lively beach scene with a group of people walking along the boardwalk.",
+    "objects": [
+      "along",
+      "beach",
+      "boardwalk",
+      "people",
+      "lively",
+      "see",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The sidewalk is lined with houses and the ocean is visible in the background.",
+    "objects": [
+      "sidewalk",
+      "ocean"
+    ],
+    "actions": [
+      "houses",
+      "lined"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The sidewalk is lined with houses and the ocean is visible in the background.",
+    "objects": [
+      "sidewalk",
+      "ocean"
+    ],
+    "actions": [
+      "houses",
+      "lined"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "One woman is seen walking her dog on a leash, which is a tan and white color.",
+    "objects": [
+      "one",
+      "white",
+      "woman",
+      "tan",
+      "leash",
+      "color",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "One woman is seen walking her dog on a leash, which is a tan and white color.",
+    "objects": [
+      "one",
+      "white",
+      "woman",
+      "tan",
+      "leash",
+      "color",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "Another woman is walking her dog on a leash, which is a brown and white color.",
+    "objects": [
+      "white",
+      "woman",
+      "leash",
+      "color",
+      "dog",
+      "her",
+      "which",
+      "brown"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "Another woman is walking her dog on a leash, which is a brown and white color.",
+    "objects": [
+      "white",
+      "woman",
+      "leash",
+      "color",
+      "dog",
+      "her",
+      "which",
+      "brown"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A man is walking his dog on a leash, which is black and white in color.",
+    "objects": [
+      "white",
+      "black",
+      "leash",
+      "color",
+      "dog",
+      "which",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A man is walking his dog on a leash, which is black and white in color.",
+    "objects": [
+      "white",
+      "black",
+      "leash",
+      "color",
+      "dog",
+      "which",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman wearing a blue hoodie is walking her dog on a leash, and a man in a black shirt is also walking his dog on a leash.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "leash",
+      "shirt",
+      "dog",
+      "her",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman wearing a blue hoodie is walking her dog on a leash, and a man in a black shirt is also walking his dog on a leash.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "leash",
+      "shirt",
+      "dog",
+      "her",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The man wearing a blue shirt is walking with his dog on a leash.",
+    "objects": [
+      "blue",
+      "shirt",
+      "leash",
+      "dog",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The man wearing a blue shirt is walking with his dog on a leash.",
+    "objects": [
+      "blue",
+      "shirt",
+      "leash",
+      "dog",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "Additionally, there is a man in a black hat who is walking his dog on a leash.",
+    "objects": [
+      "there",
+      "black",
+      "leash",
+      "who",
+      "hat",
+      "his",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "Additionally, there is a man in a black hat who is walking his dog on a leash.",
+    "objects": [
+      "there",
+      "black",
+      "leash",
+      "who",
+      "hat",
+      "his",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a white shirt is also walking her dog on a leash.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "leash",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a white shirt is also walking her dog on a leash.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "leash",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a black shirt is walking with his dog on a skateboard, and a woman in a white shirt is walking with her dog on a skateboard.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "skateboard",
+      "dog",
+      "her",
+      "his"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a black shirt is walking with his dog on a skateboard, and a woman in a white shirt is walking with her dog on a skateboard.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "skateboard",
+      "dog",
+      "her",
+      "his"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a person wearing a black shirt who is walking with their dog on a leash and a man in a white shirt who is walking with his dog on a skateboard.",
+    "objects": [
+      "their",
+      "there",
+      "white",
+      "black",
+      "shirt",
+      "leash",
+      "skateboard",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a person wearing a black shirt who is walking with their dog on a leash and a man in a white shirt who is walking with his dog on a skateboard.",
+    "objects": [
+      "their",
+      "there",
+      "white",
+      "black",
+      "shirt",
+      "leash",
+      "skateboard",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman in a white shirt is walking with her dog on a leash, and a man in a black shirt is walking with his dog on a skateboard.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "leash",
+      "skateboard",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman in a white shirt is walking with her dog on a leash, and a man in a black shirt is walking with his dog on a skateboard.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "leash",
+      "skateboard",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman in a white shirt is walking with her dog on a leash, and a man in a black shirt is walking with his dog on a skateboard.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "leash",
+      "skateboard",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman in a white shirt is walking with her dog on a leash, and a man in a black shirt is walking with his dog on a skateboard.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "leash",
+      "skateboard",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman in a blue shirt is walking her dog on a leash, and a man in a white shirt is walking his dog on a skateboard.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "leash",
+      "skateboard",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman in a blue shirt is walking her dog on a leash, and a man in a white shirt is walking his dog on a skateboard.",
+    "objects": [
+      "white",
+      "woman",
+      "blue",
+      "shirt",
+      "leash",
+      "skateboard",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A woman in a black shirt is walking her dog on a leash, and a man in a white shirt is walking with his dog on a skateboard.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "leash",
+      "skateboard",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A woman in a black shirt is walking her dog on a leash, and a man in a white shirt is walking with his dog on a skateboard.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "leash",
+      "skateboard",
+      "dog",
+      "her"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a black hat is walking with his dog on a leash.",
+    "objects": [
+      "black",
+      "leash",
+      "dog",
+      "hat",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a black hat is walking with his dog on a leash.",
+    "objects": [
+      "black",
+      "leash",
+      "dog",
+      "hat",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 15
+  }
+]

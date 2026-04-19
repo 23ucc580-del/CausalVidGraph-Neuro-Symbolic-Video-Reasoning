@@ -1,0 +1,531 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man and a woman are seen walking with their dog on a leash.",
+    "objects": [
+      "woman",
+      "man",
+      "their",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man and a woman are seen walking with their dog on a leash.",
+    "objects": [
+      "woman",
+      "man",
+      "their",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man and a woman are seen walking with their dog on a leash.",
+    "objects": [
+      "woman",
+      "man",
+      "their",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The man is wearing a blue hoodie and holding a leash in his right hand, while the woman is wearing a pink jacket and holding a leash in her left hand.",
+    "objects": [
+      "woman",
+      "man",
+      "hoodie",
+      "blue",
+      "leash",
+      "hand",
+      "while",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a blue hoodie and holding a leash in his right hand, while the woman is wearing a pink jacket and holding a leash in her left hand.",
+    "objects": [
+      "woman",
+      "man",
+      "hoodie",
+      "blue",
+      "leash",
+      "hand",
+      "while",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a blue hoodie and holding a leash in his right hand, while the woman is wearing a pink jacket and holding a leash in her left hand.",
+    "objects": [
+      "woman",
+      "man",
+      "hoodie",
+      "blue",
+      "leash",
+      "hand",
+      "while",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog is black and white and is walking on a leash.",
+    "objects": [
+      "black",
+      "white",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog is black and white and is walking on a leash.",
+    "objects": [
+      "black",
+      "white",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog is black and white and is walking on a leash.",
+    "objects": [
+      "black",
+      "white",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are walking in a large field, with trees and a tent in the background.",
+    "objects": [
+      "they",
+      "tent",
+      "field",
+      "large"
+    ],
+    "actions": [
+      "walking",
+      "trees"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They are walking in a large field, with trees and a tent in the background.",
+    "objects": [
+      "they",
+      "tent",
+      "field",
+      "large"
+    ],
+    "actions": [
+      "walking",
+      "trees"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They are walking in a large field, with trees and a tent in the background.",
+    "objects": [
+      "they",
+      "tent",
+      "field",
+      "large"
+    ],
+    "actions": [
+      "walking",
+      "trees"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A person is standing on a wooden bench, wearing a red hoodie and holding a ball.",
+    "objects": [
+      "bench",
+      "ball",
+      "hoodie",
+      "wooden"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A person is standing on a wooden bench, wearing a red hoodie and holding a ball.",
+    "objects": [
+      "bench",
+      "ball",
+      "hoodie",
+      "wooden"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A person is standing on a wooden bench, wearing a red hoodie and holding a ball.",
+    "objects": [
+      "bench",
+      "ball",
+      "hoodie",
+      "wooden"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "There is another person standing on the ground, wearing a blue jacket and holding a ball.",
+    "objects": [
+      "there",
+      "blue",
+      "jacket",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "There is another person standing on the ground, wearing a blue jacket and holding a ball.",
+    "objects": [
+      "there",
+      "blue",
+      "jacket",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "There is another person standing on the ground, wearing a blue jacket and holding a ball.",
+    "objects": [
+      "there",
+      "blue",
+      "jacket",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The dog is standing on a wooden bench, walking on its hind legs, and the man is wearing a blue hoodie and holding a leash.",
+    "objects": [
+      "man",
+      "wooden",
+      "hoodie",
+      "blue",
+      "leash",
+      "hind",
+      "bench",
+      "legs"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The dog is standing on a wooden bench, walking on its hind legs, and the man is wearing a blue hoodie and holding a leash.",
+    "objects": [
+      "man",
+      "wooden",
+      "hoodie",
+      "blue",
+      "leash",
+      "hind",
+      "bench",
+      "legs"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The dog is standing on a wooden bench, walking on its hind legs, and the man is wearing a blue hoodie and holding a leash.",
+    "objects": [
+      "man",
+      "wooden",
+      "hoodie",
+      "blue",
+      "leash",
+      "hind",
+      "bench",
+      "legs"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman is wearing a red jacket and holding a ball.",
+    "objects": [
+      "jacket",
+      "woman",
+      "ball"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman is wearing a red jacket and holding a ball.",
+    "objects": [
+      "jacket",
+      "woman",
+      "ball"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman is wearing a red jacket and holding a ball.",
+    "objects": [
+      "jacket",
+      "woman",
+      "ball"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is standing on a wooden bench, wearing a blue hoodie, and holding a ball.",
+    "objects": [
+      "man",
+      "wooden",
+      "hoodie",
+      "blue",
+      "bench",
+      "ball"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is standing on a wooden bench, wearing a blue hoodie, and holding a ball.",
+    "objects": [
+      "man",
+      "wooden",
+      "hoodie",
+      "blue",
+      "bench",
+      "ball"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is standing on a wooden bench, wearing a blue hoodie, and holding a ball.",
+    "objects": [
+      "man",
+      "wooden",
+      "hoodie",
+      "blue",
+      "bench",
+      "ball"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog is black and white and walking on a leash.",
+    "objects": [
+      "black",
+      "white",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog is black and white and walking on a leash.",
+    "objects": [
+      "black",
+      "white",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog is black and white and walking on a leash.",
+    "objects": [
+      "black",
+      "white",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The man is holding a leash in his right hand and wearing a blue hoodie.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "leash",
+      "hand",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The man is holding a leash in his right hand and wearing a blue hoodie.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "leash",
+      "hand",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

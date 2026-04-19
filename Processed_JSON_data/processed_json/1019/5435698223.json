@@ -1,0 +1,613 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is enjoying a snowy day outdoors.",
+    "objects": [
+      "snowy",
+      "day",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is enjoying a snowy day outdoors.",
+    "objects": [
+      "snowy",
+      "day",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people is enjoying a snowy day outdoors.",
+    "objects": [
+      "snowy",
+      "day",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "enjoying",
+      "outdoors"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a young boy in a blue hoodie standing next to a silver car, watching another boy in a pink hoodie and a girl in a red hoodie.",
+    "objects": [
+      "boy",
+      "pink",
+      "blue",
+      "silver",
+      "girl",
+      "hoodie",
+      "car",
+      "young"
+    ],
+    "actions": [
+      "opens",
+      "standing",
+      "watching",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with a young boy in a blue hoodie standing next to a silver car, watching another boy in a pink hoodie and a girl in a red hoodie.",
+    "objects": [
+      "boy",
+      "pink",
+      "blue",
+      "silver",
+      "girl",
+      "hoodie",
+      "car",
+      "young"
+    ],
+    "actions": [
+      "opens",
+      "standing",
+      "watching",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with a young boy in a blue hoodie standing next to a silver car, watching another boy in a pink hoodie and a girl in a red hoodie.",
+    "objects": [
+      "boy",
+      "pink",
+      "blue",
+      "silver",
+      "girl",
+      "hoodie",
+      "car",
+      "young"
+    ],
+    "actions": [
+      "opens",
+      "standing",
+      "watching",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The boy in the pink hoodie is riding a large sled down a small hill, while the boy in the blue hoodie watches from the car.",
+    "objects": [
+      "large",
+      "small",
+      "boy",
+      "pink",
+      "while",
+      "blue",
+      "from",
+      "hoodie"
+    ],
+    "actions": [
+      "sled",
+      "watches",
+      "riding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The boy in the pink hoodie is riding a large sled down a small hill, while the boy in the blue hoodie watches from the car.",
+    "objects": [
+      "large",
+      "small",
+      "boy",
+      "pink",
+      "while",
+      "blue",
+      "from",
+      "hoodie"
+    ],
+    "actions": [
+      "sled",
+      "watches",
+      "riding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The boy in the pink hoodie is riding a large sled down a small hill, while the boy in the blue hoodie watches from the car.",
+    "objects": [
+      "large",
+      "small",
+      "boy",
+      "pink",
+      "while",
+      "blue",
+      "from",
+      "hoodie"
+    ],
+    "actions": [
+      "sled",
+      "watches",
+      "riding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The girl in the red hoodie is seated on a large sled, also being pulled down the hill by the boy in the pink hoodie.",
+    "objects": [
+      "large",
+      "boy",
+      "pink",
+      "hoodie",
+      "hill",
+      "girl"
+    ],
+    "actions": [
+      "red",
+      "being",
+      "sled",
+      "seated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The girl in the red hoodie is seated on a large sled, also being pulled down the hill by the boy in the pink hoodie.",
+    "objects": [
+      "large",
+      "boy",
+      "pink",
+      "hoodie",
+      "hill",
+      "girl"
+    ],
+    "actions": [
+      "red",
+      "being",
+      "sled",
+      "seated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The girl in the red hoodie is seated on a large sled, also being pulled down the hill by the boy in the pink hoodie.",
+    "objects": [
+      "large",
+      "boy",
+      "pink",
+      "hoodie",
+      "hill",
+      "girl"
+    ],
+    "actions": [
+      "red",
+      "being",
+      "sled",
+      "seated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The boy in the blue hoodie then walks towards the car, which is parked on the side of the hill.",
+    "objects": [
+      "boy",
+      "blue",
+      "which",
+      "car",
+      "hoodie",
+      "side",
+      "hill",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "walks",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The boy in the blue hoodie then walks towards the car, which is parked on the side of the hill.",
+    "objects": [
+      "boy",
+      "blue",
+      "which",
+      "car",
+      "hoodie",
+      "side",
+      "hill",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "walks",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The boy in the blue hoodie then walks towards the car, which is parked on the side of the hill.",
+    "objects": [
+      "boy",
+      "blue",
+      "which",
+      "car",
+      "hoodie",
+      "side",
+      "hill",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "walks",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "As the scene unfolds, a man in a blue jacket and hat walks up the hill, carrying a child in a blue snowsuit.",
+    "objects": [
+      "child",
+      "jacket",
+      "blue",
+      "snowsuit",
+      "hat",
+      "hill",
+      "man"
+    ],
+    "actions": [
+      "carrying",
+      "walks",
+      "unfolds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "As the scene unfolds, a man in a blue jacket and hat walks up the hill, carrying a child in a blue snowsuit.",
+    "objects": [
+      "child",
+      "jacket",
+      "blue",
+      "snowsuit",
+      "hat",
+      "hill",
+      "man"
+    ],
+    "actions": [
+      "carrying",
+      "walks",
+      "unfolds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "As the scene unfolds, a man in a blue jacket and hat walks up the hill, carrying a child in a blue snowsuit.",
+    "objects": [
+      "child",
+      "jacket",
+      "blue",
+      "snowsuit",
+      "hat",
+      "hill",
+      "man"
+    ],
+    "actions": [
+      "carrying",
+      "walks",
+      "unfolds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The man and child are then joined by a girl in a pink snowsuit, and they all begin riding their sleds down the hill together.",
+    "objects": [
+      "they",
+      "their",
+      "pink",
+      "child",
+      "begin",
+      "snowsuit",
+      "hill",
+      "girl"
+    ],
+    "actions": [
+      "sleds",
+      "joined",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The man and child are then joined by a girl in a pink snowsuit, and they all begin riding their sleds down the hill together.",
+    "objects": [
+      "they",
+      "their",
+      "pink",
+      "child",
+      "begin",
+      "snowsuit",
+      "hill",
+      "girl"
+    ],
+    "actions": [
+      "sleds",
+      "joined",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The man and child are then joined by a girl in a pink snowsuit, and they all begin riding their sleds down the hill together.",
+    "objects": [
+      "they",
+      "their",
+      "pink",
+      "child",
+      "begin",
+      "snowsuit",
+      "hill",
+      "girl"
+    ],
+    "actions": [
+      "sleds",
+      "joined",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is holding the child securely on his sled, ensuring a safe ride.",
+    "objects": [
+      "securely",
+      "safe",
+      "ride",
+      "child",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "sled",
+      "ensuring",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is holding the child securely on his sled, ensuring a safe ride.",
+    "objects": [
+      "securely",
+      "safe",
+      "ride",
+      "child",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "sled",
+      "ensuring",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is holding the child securely on his sled, ensuring a safe ride.",
+    "objects": [
+      "securely",
+      "safe",
+      "ride",
+      "child",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "sled",
+      "ensuring",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The group continues to ride down the hill, with the boy in the pink hoodie pulling the sleds of the girl and the child.",
+    "objects": [
+      "boy",
+      "ride",
+      "pink",
+      "child",
+      "hoodie",
+      "hill",
+      "girl",
+      "group"
+    ],
+    "actions": [
+      "continues",
+      "sleds",
+      "pulling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The group continues to ride down the hill, with the boy in the pink hoodie pulling the sleds of the girl and the child.",
+    "objects": [
+      "boy",
+      "ride",
+      "pink",
+      "child",
+      "hoodie",
+      "hill",
+      "girl",
+      "group"
+    ],
+    "actions": [
+      "continues",
+      "sleds",
+      "pulling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The group continues to ride down the hill, with the boy in the pink hoodie pulling the sleds of the girl and the child.",
+    "objects": [
+      "boy",
+      "ride",
+      "pink",
+      "child",
+      "hoodie",
+      "hill",
+      "girl",
+      "group"
+    ],
+    "actions": [
+      "continues",
+      "sleds",
+      "pulling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The video captures a joyful winter day, with people of all ages enjoying the snow and each other's company.",
+    "objects": [
+      "snow",
+      "each",
+      "people",
+      "ages",
+      "joyful",
+      "winter",
+      "company",
+      "day"
+    ],
+    "actions": [
+      "other's",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The video captures a joyful winter day, with people of all ages enjoying the snow and each other's company.",
+    "objects": [
+      "snow",
+      "each",
+      "people",
+      "ages",
+      "joyful",
+      "winter",
+      "company",
+      "day"
+    ],
+    "actions": [
+      "other's",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The video captures a joyful winter day, with people of all ages enjoying the snow and each other's company.",
+    "objects": [
+      "snow",
+      "each",
+      "people",
+      "ages",
+      "joyful",
+      "winter",
+      "company",
+      "day"
+    ],
+    "actions": [
+      "other's",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The colors of their clothing contrast against the white snow, making for a visually pleasing scene.",
+    "objects": [
+      "their",
+      "visually",
+      "snow",
+      "white",
+      "contrast",
+      "against"
+    ],
+    "actions": [
+      "clothing",
+      "colors",
+      "pleasing",
+      "making"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The colors of their clothing contrast against the white snow, making for a visually pleasing scene.",
+    "objects": [
+      "their",
+      "visually",
+      "snow",
+      "white",
+      "contrast",
+      "against"
+    ],
+    "actions": [
+      "clothing",
+      "colors",
+      "pleasing",
+      "making"
+    ],
+    "segment_id": 10
+  }
+]

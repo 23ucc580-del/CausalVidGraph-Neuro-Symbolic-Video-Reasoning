@@ -1,0 +1,598 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a man dressed in a blue shirt and black jacket seated at a piano in a dimly lit bar.",
+    "objects": [
+      "bar",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "see",
+      "lit",
+      "dimly"
+    ],
+    "actions": [
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a man dressed in a blue shirt and black jacket seated at a piano in a dimly lit bar.",
+    "objects": [
+      "bar",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "see",
+      "lit",
+      "dimly"
+    ],
+    "actions": [
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a man dressed in a blue shirt and black jacket seated at a piano in a dimly lit bar.",
+    "objects": [
+      "bar",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "see",
+      "lit",
+      "dimly"
+    ],
+    "actions": [
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a man dressed in a blue shirt and black jacket seated at a piano in a dimly lit bar.",
+    "objects": [
+      "bar",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "see",
+      "lit",
+      "dimly"
+    ],
+    "actions": [
+      "dressed",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He's playing the keyboard with his hands, creating a melodious tune that fills the room.",
+    "objects": [
+      "keyboard",
+      "that",
+      "his",
+      "tune",
+      "room"
+    ],
+    "actions": [
+      "hands",
+      "melodious",
+      "creating",
+      "fills"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He's playing the keyboard with his hands, creating a melodious tune that fills the room.",
+    "objects": [
+      "keyboard",
+      "that",
+      "his",
+      "tune",
+      "room"
+    ],
+    "actions": [
+      "hands",
+      "melodious",
+      "creating",
+      "fills"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He's playing the keyboard with his hands, creating a melodious tune that fills the room.",
+    "objects": [
+      "keyboard",
+      "that",
+      "his",
+      "tune",
+      "room"
+    ],
+    "actions": [
+      "hands",
+      "melodious",
+      "creating",
+      "fills"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He's playing the keyboard with his hands, creating a melodious tune that fills the room.",
+    "objects": [
+      "keyboard",
+      "that",
+      "his",
+      "tune",
+      "room"
+    ],
+    "actions": [
+      "hands",
+      "melodious",
+      "creating",
+      "fills"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "His voice is miked, and he's singing along, adding a touch of soul to the music.",
+    "objects": [
+      "along",
+      "touch",
+      "his",
+      "voice",
+      "soul",
+      "music"
+    ],
+    "actions": [
+      "miked",
+      "adding",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "His voice is miked, and he's singing along, adding a touch of soul to the music.",
+    "objects": [
+      "along",
+      "touch",
+      "his",
+      "voice",
+      "soul",
+      "music"
+    ],
+    "actions": [
+      "miked",
+      "adding",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "His voice is miked, and he's singing along, adding a touch of soul to the music.",
+    "objects": [
+      "along",
+      "touch",
+      "his",
+      "voice",
+      "soul",
+      "music"
+    ],
+    "actions": [
+      "miked",
+      "adding",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "His voice is miked, and he's singing along, adding a touch of soul to the music.",
+    "objects": [
+      "along",
+      "touch",
+      "his",
+      "voice",
+      "soul",
+      "music"
+    ],
+    "actions": [
+      "miked",
+      "adding",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Behind him, a poster of a map of Boston hangs on the wall, adding a rustic charm to the setting.",
+    "objects": [
+      "boston",
+      "wall",
+      "poster",
+      "behind",
+      "charm",
+      "him",
+      "rustic",
+      "map"
+    ],
+    "actions": [
+      "hangs",
+      "adding",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Behind him, a poster of a map of Boston hangs on the wall, adding a rustic charm to the setting.",
+    "objects": [
+      "boston",
+      "wall",
+      "poster",
+      "behind",
+      "charm",
+      "him",
+      "rustic",
+      "map"
+    ],
+    "actions": [
+      "hangs",
+      "adding",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Behind him, a poster of a map of Boston hangs on the wall, adding a rustic charm to the setting.",
+    "objects": [
+      "boston",
+      "wall",
+      "poster",
+      "behind",
+      "charm",
+      "him",
+      "rustic",
+      "map"
+    ],
+    "actions": [
+      "hangs",
+      "adding",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Behind him, a poster of a map of Boston hangs on the wall, adding a rustic charm to the setting.",
+    "objects": [
+      "boston",
+      "wall",
+      "poster",
+      "behind",
+      "charm",
+      "him",
+      "rustic",
+      "map"
+    ],
+    "actions": [
+      "hangs",
+      "adding",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The bar is decorated with various posters and signs, adding to the ambiance.",
+    "objects": [
+      "bar",
+      "ambiance"
+    ],
+    "actions": [
+      "posters",
+      "signs",
+      "adding",
+      "decorated"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The bar is decorated with various posters and signs, adding to the ambiance.",
+    "objects": [
+      "bar",
+      "ambiance"
+    ],
+    "actions": [
+      "posters",
+      "signs",
+      "adding",
+      "decorated"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The bar is decorated with various posters and signs, adding to the ambiance.",
+    "objects": [
+      "bar",
+      "ambiance"
+    ],
+    "actions": [
+      "posters",
+      "signs",
+      "adding",
+      "decorated"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The bar is decorated with various posters and signs, adding to the ambiance.",
+    "objects": [
+      "bar",
+      "ambiance"
+    ],
+    "actions": [
+      "posters",
+      "signs",
+      "adding",
+      "decorated"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a black shirt and red hair is seated at the bar, holding a glass of beer, enjoying the man's performance.",
+    "objects": [
+      "bar",
+      "hair",
+      "woman",
+      "black",
+      "shirt",
+      "performance",
+      "beer",
+      "glass"
+    ],
+    "actions": [
+      "man's",
+      "red",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a black shirt and red hair is seated at the bar, holding a glass of beer, enjoying the man's performance.",
+    "objects": [
+      "bar",
+      "hair",
+      "woman",
+      "black",
+      "shirt",
+      "performance",
+      "beer",
+      "glass"
+    ],
+    "actions": [
+      "man's",
+      "red",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman in a black shirt and red hair is seated at the bar, holding a glass of beer, enjoying the man's performance.",
+    "objects": [
+      "bar",
+      "hair",
+      "woman",
+      "black",
+      "shirt",
+      "performance",
+      "beer",
+      "glass"
+    ],
+    "actions": [
+      "man's",
+      "red",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman in a black shirt and red hair is seated at the bar, holding a glass of beer, enjoying the man's performance.",
+    "objects": [
+      "bar",
+      "hair",
+      "woman",
+      "black",
+      "shirt",
+      "performance",
+      "beer",
+      "glass"
+    ],
+    "actions": [
+      "man's",
+      "red",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "She seems to be lost in the rhythm of the music, her gaze fixed on the man playing the piano.",
+    "objects": [
+      "she",
+      "lost",
+      "gaze",
+      "rhythm",
+      "her",
+      "music",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "seems",
+      "playing",
+      "fixed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "She seems to be lost in the rhythm of the music, her gaze fixed on the man playing the piano.",
+    "objects": [
+      "she",
+      "lost",
+      "gaze",
+      "rhythm",
+      "her",
+      "music",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "seems",
+      "playing",
+      "fixed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "She seems to be lost in the rhythm of the music, her gaze fixed on the man playing the piano.",
+    "objects": [
+      "she",
+      "lost",
+      "gaze",
+      "rhythm",
+      "her",
+      "music",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "seems",
+      "playing",
+      "fixed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "She seems to be lost in the rhythm of the music, her gaze fixed on the man playing the piano.",
+    "objects": [
+      "she",
+      "lost",
+      "gaze",
+      "rhythm",
+      "her",
+      "music",
+      "man",
+      "piano"
+    ],
+    "actions": [
+      "seems",
+      "playing",
+      "fixed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is intimate and serene, with the man's focus solely on the music and the woman's engagement with the performance.",
+    "objects": [
+      "solely",
+      "serene",
+      "intimate",
+      "performance",
+      "engagement",
+      "music"
+    ],
+    "actions": [
+      "woman's",
+      "focus",
+      "man's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is intimate and serene, with the man's focus solely on the music and the woman's engagement with the performance.",
+    "objects": [
+      "solely",
+      "serene",
+      "intimate",
+      "performance",
+      "engagement",
+      "music"
+    ],
+    "actions": [
+      "woman's",
+      "focus",
+      "man's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is intimate and serene, with the man's focus solely on the music and the woman's engagement with the performance.",
+    "objects": [
+      "solely",
+      "serene",
+      "intimate",
+      "performance",
+      "engagement",
+      "music"
+    ],
+    "actions": [
+      "woman's",
+      "focus",
+      "man's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is intimate and serene, with the man's focus solely on the music and the woman's engagement with the performance.",
+    "objects": [
+      "solely",
+      "serene",
+      "intimate",
+      "performance",
+      "engagement",
+      "music"
+    ],
+    "actions": [
+      "woman's",
+      "focus",
+      "man's"
+    ],
+    "segment_id": 7
+  }
+]

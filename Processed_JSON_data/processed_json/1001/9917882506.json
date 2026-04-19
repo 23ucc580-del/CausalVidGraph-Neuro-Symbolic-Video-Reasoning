@@ -1,0 +1,559 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of children playing with bikes inside a large, open building with high ceilings and a metal roof.",
+    "objects": [
+      "large",
+      "high",
+      "open",
+      "roof",
+      "children",
+      "see",
+      "inside",
+      "metal"
+    ],
+    "actions": [
+      "playing",
+      "bikes",
+      "building",
+      "ceilings"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of children playing with bikes inside a large, open building with high ceilings and a metal roof.",
+    "objects": [
+      "large",
+      "high",
+      "open",
+      "roof",
+      "children",
+      "see",
+      "inside",
+      "metal"
+    ],
+    "actions": [
+      "playing",
+      "bikes",
+      "building",
+      "ceilings"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of children playing with bikes inside a large, open building with high ceilings and a metal roof.",
+    "objects": [
+      "large",
+      "high",
+      "open",
+      "roof",
+      "children",
+      "see",
+      "inside",
+      "metal"
+    ],
+    "actions": [
+      "playing",
+      "bikes",
+      "building",
+      "ceilings"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The area appears to be an indoor cycling or bike park.",
+    "objects": [
+      "park",
+      "indoor",
+      "bike",
+      "area"
+    ],
+    "actions": [
+      "cycling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The area appears to be an indoor cycling or bike park.",
+    "objects": [
+      "park",
+      "indoor",
+      "bike",
+      "area"
+    ],
+    "actions": [
+      "cycling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The area appears to be an indoor cycling or bike park.",
+    "objects": [
+      "park",
+      "indoor",
+      "bike",
+      "area"
+    ],
+    "actions": [
+      "cycling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The children are wearing helmets, and some of them are wearing blue hoodies.",
+    "objects": [
+      "some",
+      "them",
+      "blue",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "helmets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The children are wearing helmets, and some of them are wearing blue hoodies.",
+    "objects": [
+      "some",
+      "them",
+      "blue",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "helmets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The children are wearing helmets, and some of them are wearing blue hoodies.",
+    "objects": [
+      "some",
+      "them",
+      "blue",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "helmets"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene opens with a little girl riding a bicycle, wearing a blue hoodie and a white helmet.",
+    "objects": [
+      "white",
+      "blue",
+      "little",
+      "hoodie",
+      "helmet",
+      "girl",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "opens",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene opens with a little girl riding a bicycle, wearing a blue hoodie and a white helmet.",
+    "objects": [
+      "white",
+      "blue",
+      "little",
+      "hoodie",
+      "helmet",
+      "girl",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "opens",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene opens with a little girl riding a bicycle, wearing a blue hoodie and a white helmet.",
+    "objects": [
+      "white",
+      "blue",
+      "little",
+      "hoodie",
+      "helmet",
+      "girl",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "opens",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "She is smiling and seems to be having fun.",
+    "objects": [
+      "fun",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "having",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "She is smiling and seems to be having fun.",
+    "objects": [
+      "fun",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "having",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "She is smiling and seems to be having fun.",
+    "objects": [
+      "fun",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "having",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Next to her, another little girl is riding a bicycle with training wheels, wearing a pink dress and a white helmet.",
+    "objects": [
+      "white",
+      "pink",
+      "little",
+      "dress",
+      "her",
+      "helmet",
+      "girl",
+      "bicycle"
+    ],
+    "actions": [
+      "wheels",
+      "wearing",
+      "training",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Next to her, another little girl is riding a bicycle with training wheels, wearing a pink dress and a white helmet.",
+    "objects": [
+      "white",
+      "pink",
+      "little",
+      "dress",
+      "her",
+      "helmet",
+      "girl",
+      "bicycle"
+    ],
+    "actions": [
+      "wheels",
+      "wearing",
+      "training",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Next to her, another little girl is riding a bicycle with training wheels, wearing a pink dress and a white helmet.",
+    "objects": [
+      "white",
+      "pink",
+      "little",
+      "dress",
+      "her",
+      "helmet",
+      "girl",
+      "bicycle"
+    ],
+    "actions": [
+      "wheels",
+      "wearing",
+      "training",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "They are both moving around the space, riding their bikes, and interacting with each other.",
+    "objects": [
+      "they",
+      "their",
+      "each",
+      "both",
+      "other",
+      "space",
+      "around"
+    ],
+    "actions": [
+      "moving",
+      "bikes",
+      "interacting",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "They are both moving around the space, riding their bikes, and interacting with each other.",
+    "objects": [
+      "they",
+      "their",
+      "each",
+      "both",
+      "other",
+      "space",
+      "around"
+    ],
+    "actions": [
+      "moving",
+      "bikes",
+      "interacting",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "They are both moving around the space, riding their bikes, and interacting with each other.",
+    "objects": [
+      "they",
+      "their",
+      "each",
+      "both",
+      "other",
+      "space",
+      "around"
+    ],
+    "actions": [
+      "moving",
+      "bikes",
+      "interacting",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A boy in a blue shirt and a white helmet is also present, riding a bicycle and laughing.",
+    "objects": [
+      "boy",
+      "white",
+      "blue",
+      "shirt",
+      "helmet",
+      "bicycle",
+      "present"
+    ],
+    "actions": [
+      "laughing",
+      "riding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A boy in a blue shirt and a white helmet is also present, riding a bicycle and laughing.",
+    "objects": [
+      "boy",
+      "white",
+      "blue",
+      "shirt",
+      "helmet",
+      "bicycle",
+      "present"
+    ],
+    "actions": [
+      "laughing",
+      "riding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A boy in a blue shirt and a white helmet is also present, riding a bicycle and laughing.",
+    "objects": [
+      "boy",
+      "white",
+      "blue",
+      "shirt",
+      "helmet",
+      "bicycle",
+      "present"
+    ],
+    "actions": [
+      "laughing",
+      "riding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The children seem to be enjoying themselves and having a good time.",
+    "objects": [
+      "good",
+      "seem",
+      "children",
+      "time"
+    ],
+    "actions": [
+      "having",
+      "themselves",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The children seem to be enjoying themselves and having a good time.",
+    "objects": [
+      "good",
+      "seem",
+      "children",
+      "time"
+    ],
+    "actions": [
+      "having",
+      "themselves",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The children seem to be enjoying themselves and having a good time.",
+    "objects": [
+      "good",
+      "seem",
+      "children",
+      "time"
+    ],
+    "actions": [
+      "having",
+      "themselves",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The setting is brightly lit, suggesting it is daytime.",
+    "objects": [
+      "lit",
+      "daytime",
+      "brightly"
+    ],
+    "actions": [
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The setting is brightly lit, suggesting it is daytime.",
+    "objects": [
+      "lit",
+      "daytime",
+      "brightly"
+    ],
+    "actions": [
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The setting is brightly lit, suggesting it is daytime.",
+    "objects": [
+      "lit",
+      "daytime",
+      "brightly"
+    ],
+    "actions": [
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere is one of fun and playfulness, with the children enjoying their time on the bikes.",
+    "objects": [
+      "one",
+      "their",
+      "children",
+      "fun",
+      "overall",
+      "atmosphere",
+      "time"
+    ],
+    "actions": [
+      "playfulness",
+      "bikes",
+      "enjoying"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere is one of fun and playfulness, with the children enjoying their time on the bikes.",
+    "objects": [
+      "one",
+      "their",
+      "children",
+      "fun",
+      "overall",
+      "atmosphere",
+      "time"
+    ],
+    "actions": [
+      "playfulness",
+      "bikes",
+      "enjoying"
+    ],
+    "segment_id": 10
+  }
+]

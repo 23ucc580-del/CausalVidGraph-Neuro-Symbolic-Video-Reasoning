@@ -1,0 +1,509 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is lying on a couch with his arm extended in front of him.",
+    "objects": [
+      "couch",
+      "man",
+      "his",
+      "him",
+      "arm"
+    ],
+    "actions": [
+      "lying",
+      "extended"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is lying on a couch with his arm extended in front of him.",
+    "objects": [
+      "couch",
+      "man",
+      "his",
+      "him",
+      "arm"
+    ],
+    "actions": [
+      "lying",
+      "extended"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man is lying on a couch with his arm extended in front of him.",
+    "objects": [
+      "couch",
+      "man",
+      "his",
+      "him",
+      "arm"
+    ],
+    "actions": [
+      "lying",
+      "extended"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "He is wearing a white t-shirt and has a bandage on his head.",
+    "objects": [
+      "bandage",
+      "white",
+      "has",
+      "his",
+      "head"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He is wearing a white t-shirt and has a bandage on his head.",
+    "objects": [
+      "bandage",
+      "white",
+      "has",
+      "his",
+      "head"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a white t-shirt and has a bandage on his head.",
+    "objects": [
+      "bandage",
+      "white",
+      "has",
+      "his",
+      "head"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A clear plastic tube is connected to his arm, and a drip bag hangs from it.",
+    "objects": [
+      "tube",
+      "his",
+      "plastic",
+      "bag",
+      "from",
+      "drip",
+      "clear",
+      "arm"
+    ],
+    "actions": [
+      "connected",
+      "hangs"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A clear plastic tube is connected to his arm, and a drip bag hangs from it.",
+    "objects": [
+      "tube",
+      "his",
+      "plastic",
+      "bag",
+      "from",
+      "drip",
+      "clear",
+      "arm"
+    ],
+    "actions": [
+      "connected",
+      "hangs"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A clear plastic tube is connected to his arm, and a drip bag hangs from it.",
+    "objects": [
+      "tube",
+      "his",
+      "plastic",
+      "bag",
+      "from",
+      "drip",
+      "clear",
+      "arm"
+    ],
+    "actions": [
+      "connected",
+      "hangs"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is also wearing a blue hoodie and a white undershirt.",
+    "objects": [
+      "undershirt",
+      "white",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "He is also wearing a blue hoodie and a white undershirt.",
+    "objects": [
+      "undershirt",
+      "white",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "He is also wearing a blue hoodie and a white undershirt.",
+    "objects": [
+      "undershirt",
+      "white",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A man is sitting on a red couch next to him and is holding a phone to his ear.",
+    "objects": [
+      "couch",
+      "phone",
+      "man",
+      "his",
+      "him",
+      "ear"
+    ],
+    "actions": [
+      "holding",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A man is sitting on a red couch next to him and is holding a phone to his ear.",
+    "objects": [
+      "couch",
+      "phone",
+      "man",
+      "his",
+      "him",
+      "ear"
+    ],
+    "actions": [
+      "holding",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A man is sitting on a red couch next to him and is holding a phone to his ear.",
+    "objects": [
+      "couch",
+      "phone",
+      "man",
+      "his",
+      "him",
+      "ear"
+    ],
+    "actions": [
+      "holding",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "He is wearing a black shirt with a white undershirt and a white t-shirt.",
+    "objects": [
+      "undershirt",
+      "white",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "He is wearing a black shirt with a white undershirt and a white t-shirt.",
+    "objects": [
+      "undershirt",
+      "white",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "He is wearing a black shirt with a white undershirt and a white t-shirt.",
+    "objects": [
+      "undershirt",
+      "white",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A man is standing in the background, wearing a black hoodie and a white shirt.",
+    "objects": [
+      "white",
+      "man",
+      "shirt",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A man is standing in the background, wearing a black hoodie and a white shirt.",
+    "objects": [
+      "white",
+      "man",
+      "shirt",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A man is standing in the background, wearing a black hoodie and a white shirt.",
+    "objects": [
+      "white",
+      "man",
+      "shirt",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The man lying on the couch is talking on the phone, holding the phone to his ear.",
+    "objects": [
+      "couch",
+      "phone",
+      "man",
+      "his",
+      "ear"
+    ],
+    "actions": [
+      "talking",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The man lying on the couch is talking on the phone, holding the phone to his ear.",
+    "objects": [
+      "couch",
+      "phone",
+      "man",
+      "his",
+      "ear"
+    ],
+    "actions": [
+      "talking",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The man lying on the couch is talking on the phone, holding the phone to his ear.",
+    "objects": [
+      "couch",
+      "phone",
+      "man",
+      "his",
+      "ear"
+    ],
+    "actions": [
+      "talking",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The man sitting on the couch is also holding the phone to his ear.",
+    "objects": [
+      "couch",
+      "phone",
+      "man",
+      "his",
+      "ear"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The man sitting on the couch is also holding the phone to his ear.",
+    "objects": [
+      "couch",
+      "phone",
+      "man",
+      "his",
+      "ear"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The man sitting on the couch is also holding the phone to his ear.",
+    "objects": [
+      "couch",
+      "phone",
+      "man",
+      "his",
+      "ear"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The man standing is looking down at the man lying on the couch.",
+    "objects": [
+      "couch",
+      "man"
+    ],
+    "actions": [
+      "lying",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The man standing is looking down at the man lying on the couch.",
+    "objects": [
+      "couch",
+      "man"
+    ],
+    "actions": [
+      "lying",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The man standing is looking down at the man lying on the couch.",
+    "objects": [
+      "couch",
+      "man"
+    ],
+    "actions": [
+      "lying",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is indoors, and there is a blue wall behind the couch.",
+    "objects": [
+      "couch",
+      "blue",
+      "there",
+      "wall",
+      "behind"
+    ],
+    "actions": [
+      "indoors"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is indoors, and there is a blue wall behind the couch.",
+    "objects": [
+      "couch",
+      "blue",
+      "there",
+      "wall",
+      "behind"
+    ],
+    "actions": [
+      "indoors"
+    ],
+    "segment_id": 10
+  }
+]

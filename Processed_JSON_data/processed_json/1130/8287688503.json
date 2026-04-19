@@ -1,0 +1,578 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a stage performance with multiple individuals dressed in costumes and wearing various hats.",
+    "objects": [
+      "hats",
+      "performance",
+      "multiple",
+      "stage"
+    ],
+    "actions": [
+      "dressed",
+      "costumes",
+      "depicts",
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a stage performance with multiple individuals dressed in costumes and wearing various hats.",
+    "objects": [
+      "hats",
+      "performance",
+      "multiple",
+      "stage"
+    ],
+    "actions": [
+      "dressed",
+      "costumes",
+      "depicts",
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a stage performance with multiple individuals dressed in costumes and wearing various hats.",
+    "objects": [
+      "hats",
+      "performance",
+      "multiple",
+      "stage"
+    ],
+    "actions": [
+      "dressed",
+      "costumes",
+      "depicts",
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a stage performance with multiple individuals dressed in costumes and wearing various hats.",
+    "objects": [
+      "hats",
+      "performance",
+      "multiple",
+      "stage"
+    ],
+    "actions": [
+      "dressed",
+      "costumes",
+      "depicts",
+      "individuals"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "At the front of the stage, there is a man in a blue hoodie sitting in a chair, holding a microphone and speaking to the audience.",
+    "objects": [
+      "blue",
+      "stage",
+      "audience",
+      "man",
+      "microphone",
+      "there",
+      "hoodie",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "speaking",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "At the front of the stage, there is a man in a blue hoodie sitting in a chair, holding a microphone and speaking to the audience.",
+    "objects": [
+      "blue",
+      "stage",
+      "audience",
+      "man",
+      "microphone",
+      "there",
+      "hoodie",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "speaking",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "At the front of the stage, there is a man in a blue hoodie sitting in a chair, holding a microphone and speaking to the audience.",
+    "objects": [
+      "blue",
+      "stage",
+      "audience",
+      "man",
+      "microphone",
+      "there",
+      "hoodie",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "speaking",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "At the front of the stage, there is a man in a blue hoodie sitting in a chair, holding a microphone and speaking to the audience.",
+    "objects": [
+      "blue",
+      "stage",
+      "audience",
+      "man",
+      "microphone",
+      "there",
+      "hoodie",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "speaking",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another man in a white shirt is standing nearby, holding a microphone and appears to be singing.",
+    "objects": [
+      "white",
+      "man",
+      "microphone",
+      "shirt",
+      "nearby"
+    ],
+    "actions": [
+      "singing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another man in a white shirt is standing nearby, holding a microphone and appears to be singing.",
+    "objects": [
+      "white",
+      "man",
+      "microphone",
+      "shirt",
+      "nearby"
+    ],
+    "actions": [
+      "singing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another man in a white shirt is standing nearby, holding a microphone and appears to be singing.",
+    "objects": [
+      "white",
+      "man",
+      "microphone",
+      "shirt",
+      "nearby"
+    ],
+    "actions": [
+      "singing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another man in a white shirt is standing nearby, holding a microphone and appears to be singing.",
+    "objects": [
+      "white",
+      "man",
+      "microphone",
+      "shirt",
+      "nearby"
+    ],
+    "actions": [
+      "singing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A woman in a white dress and a man in a black hat are also present on stage, with the woman holding a microphone and the man in the black hat holding a microphone.",
+    "objects": [
+      "white",
+      "present",
+      "stage",
+      "man",
+      "microphone",
+      "dress",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A woman in a white dress and a man in a black hat are also present on stage, with the woman holding a microphone and the man in the black hat holding a microphone.",
+    "objects": [
+      "white",
+      "present",
+      "stage",
+      "man",
+      "microphone",
+      "dress",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A woman in a white dress and a man in a black hat are also present on stage, with the woman holding a microphone and the man in the black hat holding a microphone.",
+    "objects": [
+      "white",
+      "present",
+      "stage",
+      "man",
+      "microphone",
+      "dress",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman in a white dress and a man in a black hat are also present on stage, with the woman holding a microphone and the man in the black hat holding a microphone.",
+    "objects": [
+      "white",
+      "present",
+      "stage",
+      "man",
+      "microphone",
+      "dress",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Behind the man in the blue hoodie, there is a man in a white shirt and a man in a white hat, with the man in the white hat holding a microphone.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "microphone",
+      "shirt",
+      "there",
+      "behind",
+      "hoodie"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Behind the man in the blue hoodie, there is a man in a white shirt and a man in a white hat, with the man in the white hat holding a microphone.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "microphone",
+      "shirt",
+      "there",
+      "behind",
+      "hoodie"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Behind the man in the blue hoodie, there is a man in a white shirt and a man in a white hat, with the man in the white hat holding a microphone.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "microphone",
+      "shirt",
+      "there",
+      "behind",
+      "hoodie"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Behind the man in the blue hoodie, there is a man in a white shirt and a man in a white hat, with the man in the white hat holding a microphone.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "microphone",
+      "shirt",
+      "there",
+      "behind",
+      "hoodie"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "To the left of the stage, there is a man in a blue hat sitting in a chair, wearing a blue hoodie and holding a microphone.",
+    "objects": [
+      "blue",
+      "stage",
+      "man",
+      "microphone",
+      "there",
+      "hoodie",
+      "chair",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "To the left of the stage, there is a man in a blue hat sitting in a chair, wearing a blue hoodie and holding a microphone.",
+    "objects": [
+      "blue",
+      "stage",
+      "man",
+      "microphone",
+      "there",
+      "hoodie",
+      "chair",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "To the left of the stage, there is a man in a blue hat sitting in a chair, wearing a blue hoodie and holding a microphone.",
+    "objects": [
+      "blue",
+      "stage",
+      "man",
+      "microphone",
+      "there",
+      "hoodie",
+      "chair",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "To the left of the stage, there is a man in a blue hat sitting in a chair, wearing a blue hoodie and holding a microphone.",
+    "objects": [
+      "blue",
+      "stage",
+      "man",
+      "microphone",
+      "there",
+      "hoodie",
+      "chair",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "Behind him, there is a man in a white shirt and a woman in a blue hat, with the man in the white shirt holding a microphone and the woman in the blue hat holding a microphone.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "microphone",
+      "him",
+      "shirt",
+      "there",
+      "behind"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "Behind him, there is a man in a white shirt and a woman in a blue hat, with the man in the white shirt holding a microphone and the woman in the blue hat holding a microphone.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "microphone",
+      "him",
+      "shirt",
+      "there",
+      "behind"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "Behind him, there is a man in a white shirt and a woman in a blue hat, with the man in the white shirt holding a microphone and the woman in the blue hat holding a microphone.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "microphone",
+      "him",
+      "shirt",
+      "there",
+      "behind"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "Behind him, there is a man in a white shirt and a woman in a blue hat, with the man in the white shirt holding a microphone and the woman in the blue hat holding a microphone.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "microphone",
+      "him",
+      "shirt",
+      "there",
+      "behind"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the blue hat is looking down at the floor, and the woman in the blue hat is looking up at the man in the blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "hoodie",
+      "floor",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the blue hat is looking down at the floor, and the woman in the blue hat is looking up at the man in the blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "hoodie",
+      "floor",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the blue hat is looking down at the floor, and the woman in the blue hat is looking up at the man in the blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "hoodie",
+      "floor",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the blue hat is looking down at the floor, and the woman in the blue hat is looking up at the man in the blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "hoodie",
+      "floor",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  }
+]

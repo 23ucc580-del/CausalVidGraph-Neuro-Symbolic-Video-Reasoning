@@ -1,0 +1,490 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is sitting on a motorcycle in a wooded area.",
+    "objects": [
+      "man",
+      "area",
+      "motorcycle"
+    ],
+    "actions": [
+      "sitting",
+      "wooded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is sitting on a motorcycle in a wooded area.",
+    "objects": [
+      "man",
+      "area",
+      "motorcycle"
+    ],
+    "actions": [
+      "sitting",
+      "wooded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man is sitting on a motorcycle in a wooded area.",
+    "objects": [
+      "man",
+      "area",
+      "motorcycle"
+    ],
+    "actions": [
+      "sitting",
+      "wooded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man is sitting on a motorcycle in a wooded area.",
+    "objects": [
+      "man",
+      "area",
+      "motorcycle"
+    ],
+    "actions": [
+      "sitting",
+      "wooded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a man is sitting on a motorcycle in a wooded area.",
+    "objects": [
+      "man",
+      "area",
+      "motorcycle"
+    ],
+    "actions": [
+      "sitting",
+      "wooded"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a white shirt, black pants, and a black helmet.",
+    "objects": [
+      "black",
+      "white",
+      "shirt",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is wearing a white shirt, black pants, and a black helmet.",
+    "objects": [
+      "black",
+      "white",
+      "shirt",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is wearing a white shirt, black pants, and a black helmet.",
+    "objects": [
+      "black",
+      "white",
+      "shirt",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is wearing a white shirt, black pants, and a black helmet.",
+    "objects": [
+      "black",
+      "white",
+      "shirt",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "He is wearing a white shirt, black pants, and a black helmet.",
+    "objects": [
+      "black",
+      "white",
+      "shirt",
+      "helmet"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "Another man stands nearby, also wearing a white shirt and black helmet.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "helmet",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another man stands nearby, also wearing a white shirt and black helmet.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "helmet",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man stands nearby, also wearing a white shirt and black helmet.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "helmet",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man stands nearby, also wearing a white shirt and black helmet.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "helmet",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "Another man stands nearby, also wearing a white shirt and black helmet.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "helmet",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "They are both holding gloves in their hands.",
+    "objects": [
+      "they",
+      "their",
+      "both"
+    ],
+    "actions": [
+      "gloves",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They are both holding gloves in their hands.",
+    "objects": [
+      "they",
+      "their",
+      "both"
+    ],
+    "actions": [
+      "gloves",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "They are both holding gloves in their hands.",
+    "objects": [
+      "they",
+      "their",
+      "both"
+    ],
+    "actions": [
+      "gloves",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "They are both holding gloves in their hands.",
+    "objects": [
+      "they",
+      "their",
+      "both"
+    ],
+    "actions": [
+      "gloves",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "They are both holding gloves in their hands.",
+    "objects": [
+      "they",
+      "their",
+      "both"
+    ],
+    "actions": [
+      "gloves",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "There are several cars parked nearby, including a white truck and a white van.",
+    "objects": [
+      "truck",
+      "there",
+      "white",
+      "cars",
+      "several",
+      "nearby",
+      "van"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "There are several cars parked nearby, including a white truck and a white van.",
+    "objects": [
+      "truck",
+      "there",
+      "white",
+      "cars",
+      "several",
+      "nearby",
+      "van"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "There are several cars parked nearby, including a white truck and a white van.",
+    "objects": [
+      "truck",
+      "there",
+      "white",
+      "cars",
+      "several",
+      "nearby",
+      "van"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "There are several cars parked nearby, including a white truck and a white van.",
+    "objects": [
+      "truck",
+      "there",
+      "white",
+      "cars",
+      "several",
+      "nearby",
+      "van"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "There are several cars parked nearby, including a white truck and a white van.",
+    "objects": [
+      "truck",
+      "there",
+      "white",
+      "cars",
+      "several",
+      "nearby",
+      "van"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, a camper is visible, and a man is cooking on a camping grill.",
+    "objects": [
+      "man",
+      "grill",
+      "camper"
+    ],
+    "actions": [
+      "camping",
+      "cooking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, a camper is visible, and a man is cooking on a camping grill.",
+    "objects": [
+      "man",
+      "grill",
+      "camper"
+    ],
+    "actions": [
+      "camping",
+      "cooking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "In the background, a camper is visible, and a man is cooking on a camping grill.",
+    "objects": [
+      "man",
+      "grill",
+      "camper"
+    ],
+    "actions": [
+      "camping",
+      "cooking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, a camper is visible, and a man is cooking on a camping grill.",
+    "objects": [
+      "man",
+      "grill",
+      "camper"
+    ],
+    "actions": [
+      "camping",
+      "cooking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, a camper is visible, and a man is cooking on a camping grill.",
+    "objects": [
+      "man",
+      "grill",
+      "camper"
+    ],
+    "actions": [
+      "camping",
+      "cooking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The environment is surrounded by trees and the sky is clear.",
+    "objects": [
+      "sky",
+      "clear",
+      "environment"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The environment is surrounded by trees and the sky is clear.",
+    "objects": [
+      "sky",
+      "clear",
+      "environment"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 6
+  }
+]

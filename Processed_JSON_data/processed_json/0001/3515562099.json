@@ -1,0 +1,496 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a close-up shot of a white bathroom with a tiled floor and white walls.",
+    "objects": [
+      "bathroom",
+      "floor",
+      "white"
+    ],
+    "actions": [
+      "starts",
+      "tiled",
+      "walls"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the background, there is a black and white cat lying on a white cat bed.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "there"
+    ],
+    "actions": [
+      "bed",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The camera then pans to a white bathtub with a white shower curtain, and in the foreground, we see a black and white cat sitting on a white cat bed.",
+    "objects": [
+      "cat",
+      "white",
+      "then",
+      "black",
+      "bathtub",
+      "shower",
+      "curtain",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "bed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene then shifts to a black and white cat lying on a white bed, with another black and white cat lying on a white bed in the foreground.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "A third black and white cat is sitting on a white bed in the background.",
+    "objects": [
+      "third",
+      "cat",
+      "white",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "bed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then returns to the first cat, who is now lying on the white cat bed.",
+    "objects": [
+      "cat",
+      "white",
+      "then",
+      "now",
+      "first",
+      "who"
+    ],
+    "actions": [
+      "returns",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then shows a black and white cat lying on a white bed in the background, and a black and white cat sitting on a white bed in the foreground.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then moves to a black and white cat lying on a white cat bed.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "moves",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then returns to the first cat, who is lying on the white cat bed again.",
+    "objects": [
+      "cat",
+      "white",
+      "then",
+      "first",
+      "who",
+      "again"
+    ],
+    "actions": [
+      "returns",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene then shifts to a black and white cat lying on a white bed in the background.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then shows a black and white cat sitting on a white bed in the foreground.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "bed"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then moves to a black and white cat lying on a white bed in the background.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "moves",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then returns to the first cat, who is lying on the white cat bed.",
+    "objects": [
+      "cat",
+      "white",
+      "then",
+      "first",
+      "who"
+    ],
+    "actions": [
+      "returns",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then shows a black and white cat lying on a white bed in the background.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "bed",
+      "lying"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then moves to a black and white cat sitting on a white bed in the foreground.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "moves",
+      "sitting",
+      "bed"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then returns to the first cat, who is lying on the white cat bed.",
+    "objects": [
+      "cat",
+      "white",
+      "then",
+      "first",
+      "who"
+    ],
+    "actions": [
+      "returns",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then shifts to a black and white cat lying on a white bed in the background.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then shows a black and white cat sitting on a white bed in the foreground.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "bed"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then moves to a black and white cat lying on a white bed in the background.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "moves",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then returns to the first cat, who is lying on the white cat bed.",
+    "objects": [
+      "cat",
+      "white",
+      "then",
+      "first",
+      "who"
+    ],
+    "actions": [
+      "returns",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene then shifts to a black and white cat lying on a white bed in the background.",
+    "objects": [
+      "black",
+      "cat",
+      "white",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "bed",
+      "lying"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The cat is wearing a black collar with a bell on it.",
+    "objects": [
+      "collar",
+      "cat",
+      "bell",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 31
+  }
+]

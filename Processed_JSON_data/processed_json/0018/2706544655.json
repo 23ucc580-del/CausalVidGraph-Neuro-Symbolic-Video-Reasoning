@@ -1,0 +1,511 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a man sitting at a table, wearing a white jacket, with a plate of food in front of him.",
+    "objects": [
+      "jacket",
+      "white",
+      "him",
+      "table",
+      "man",
+      "plate",
+      "food",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a man sitting at a table, wearing a white jacket, with a plate of food in front of him.",
+    "objects": [
+      "jacket",
+      "white",
+      "him",
+      "table",
+      "man",
+      "plate",
+      "food",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a man sitting at a table, wearing a white jacket, with a plate of food in front of him.",
+    "objects": [
+      "jacket",
+      "white",
+      "him",
+      "table",
+      "man",
+      "plate",
+      "food",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a man sitting at a table, wearing a white jacket, with a plate of food in front of him.",
+    "objects": [
+      "jacket",
+      "white",
+      "him",
+      "table",
+      "man",
+      "plate",
+      "food",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In this video, we see a man sitting at a table, wearing a white jacket, with a plate of food in front of him.",
+    "objects": [
+      "jacket",
+      "white",
+      "him",
+      "table",
+      "man",
+      "plate",
+      "food",
+      "see"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "He is holding a fork and appears to be eating.",
+    "objects": [
+      "fork"
+    ],
+    "actions": [
+      "eating",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is holding a fork and appears to be eating.",
+    "objects": [
+      "fork"
+    ],
+    "actions": [
+      "eating",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is holding a fork and appears to be eating.",
+    "objects": [
+      "fork"
+    ],
+    "actions": [
+      "eating",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is holding a fork and appears to be eating.",
+    "objects": [
+      "fork"
+    ],
+    "actions": [
+      "eating",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "He is holding a fork and appears to be eating.",
+    "objects": [
+      "fork"
+    ],
+    "actions": [
+      "eating",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "A woman is also present in the scene, wearing a white shirt, and is holding a plate of food.",
+    "objects": [
+      "shirt",
+      "white",
+      "present",
+      "plate",
+      "food",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman is also present in the scene, wearing a white shirt, and is holding a plate of food.",
+    "objects": [
+      "shirt",
+      "white",
+      "present",
+      "plate",
+      "food",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A woman is also present in the scene, wearing a white shirt, and is holding a plate of food.",
+    "objects": [
+      "shirt",
+      "white",
+      "present",
+      "plate",
+      "food",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "A woman is also present in the scene, wearing a white shirt, and is holding a plate of food.",
+    "objects": [
+      "shirt",
+      "white",
+      "present",
+      "plate",
+      "food",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "A woman is also present in the scene, wearing a white shirt, and is holding a plate of food.",
+    "objects": [
+      "shirt",
+      "white",
+      "present",
+      "plate",
+      "food",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "Another man is seen eating at the table, wearing a black shirt and a blue hoodie.",
+    "objects": [
+      "shirt",
+      "blue",
+      "table",
+      "black",
+      "man",
+      "hoodie"
+    ],
+    "actions": [
+      "eating",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another man is seen eating at the table, wearing a black shirt and a blue hoodie.",
+    "objects": [
+      "shirt",
+      "blue",
+      "table",
+      "black",
+      "man",
+      "hoodie"
+    ],
+    "actions": [
+      "eating",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "Another man is seen eating at the table, wearing a black shirt and a blue hoodie.",
+    "objects": [
+      "shirt",
+      "blue",
+      "table",
+      "black",
+      "man",
+      "hoodie"
+    ],
+    "actions": [
+      "eating",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "Another man is seen eating at the table, wearing a black shirt and a blue hoodie.",
+    "objects": [
+      "shirt",
+      "blue",
+      "table",
+      "black",
+      "man",
+      "hoodie"
+    ],
+    "actions": [
+      "eating",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "Another man is seen eating at the table, wearing a black shirt and a blue hoodie.",
+    "objects": [
+      "shirt",
+      "blue",
+      "table",
+      "black",
+      "man",
+      "hoodie"
+    ],
+    "actions": [
+      "eating",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a basket of food, a silver can, and a bowl of food on the table.",
+    "objects": [
+      "table",
+      "there",
+      "food",
+      "basket",
+      "bowl",
+      "can",
+      "silver"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a basket of food, a silver can, and a bowl of food on the table.",
+    "objects": [
+      "table",
+      "there",
+      "food",
+      "basket",
+      "bowl",
+      "can",
+      "silver"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "There is a basket of food, a silver can, and a bowl of food on the table.",
+    "objects": [
+      "table",
+      "there",
+      "food",
+      "basket",
+      "bowl",
+      "can",
+      "silver"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "There is a basket of food, a silver can, and a bowl of food on the table.",
+    "objects": [
+      "table",
+      "there",
+      "food",
+      "basket",
+      "bowl",
+      "can",
+      "silver"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "There is a basket of food, a silver can, and a bowl of food on the table.",
+    "objects": [
+      "table",
+      "there",
+      "food",
+      "basket",
+      "bowl",
+      "can",
+      "silver"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the white jacket is also holding a plate of food.",
+    "objects": [
+      "jacket",
+      "white",
+      "man",
+      "plate",
+      "food"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the white jacket is also holding a plate of food.",
+    "objects": [
+      "jacket",
+      "white",
+      "man",
+      "plate",
+      "food"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the white jacket is also holding a plate of food.",
+    "objects": [
+      "jacket",
+      "white",
+      "man",
+      "plate",
+      "food"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the white jacket is also holding a plate of food.",
+    "objects": [
+      "jacket",
+      "white",
+      "man",
+      "plate",
+      "food"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the white jacket is also holding a plate of food.",
+    "objects": [
+      "jacket",
+      "white",
+      "man",
+      "plate",
+      "food"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene takes place in a restaurant.",
+    "objects": [
+      "restaurant",
+      "place"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene takes place in a restaurant.",
+    "objects": [
+      "restaurant",
+      "place"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 6
+  }
+]

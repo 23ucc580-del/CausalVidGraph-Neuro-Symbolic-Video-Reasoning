@@ -1,0 +1,572 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a young child sitting in a playpen, holding a yellow toy car with both hands.",
+    "objects": [
+      "see",
+      "toy",
+      "car",
+      "both",
+      "young",
+      "child",
+      "yellow",
+      "playpen"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a young child sitting in a playpen, holding a yellow toy car with both hands.",
+    "objects": [
+      "see",
+      "toy",
+      "car",
+      "both",
+      "young",
+      "child",
+      "yellow",
+      "playpen"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a young child sitting in a playpen, holding a yellow toy car with both hands.",
+    "objects": [
+      "see",
+      "toy",
+      "car",
+      "both",
+      "young",
+      "child",
+      "yellow",
+      "playpen"
+    ],
+    "actions": [
+      "hands",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The child is wearing a blue hoodie and appears to be engaged in playing with the toy car.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "child",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is wearing a blue hoodie and appears to be engaged in playing with the toy car.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "child",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is wearing a blue hoodie and appears to be engaged in playing with the toy car.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "child",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans to the side, revealing a person sitting on the couch, watching the child play.",
+    "objects": [
+      "couch",
+      "side",
+      "pans",
+      "child",
+      "play",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "revealing",
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then pans to the side, revealing a person sitting on the couch, watching the child play.",
+    "objects": [
+      "couch",
+      "side",
+      "pans",
+      "child",
+      "play",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "revealing",
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then pans to the side, revealing a person sitting on the couch, watching the child play.",
+    "objects": [
+      "couch",
+      "side",
+      "pans",
+      "child",
+      "play",
+      "then"
+    ],
+    "actions": [
+      "sitting",
+      "revealing",
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The person on the couch is wearing a green shirt and seems to be observing the child's playful actions.",
+    "objects": [
+      "couch",
+      "playful",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "actions",
+      "seems",
+      "observing",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The person on the couch is wearing a green shirt and seems to be observing the child's playful actions.",
+    "objects": [
+      "couch",
+      "playful",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "actions",
+      "seems",
+      "observing",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The person on the couch is wearing a green shirt and seems to be observing the child's playful actions.",
+    "objects": [
+      "couch",
+      "playful",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "actions",
+      "seems",
+      "observing",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The child continues to play with the toy car, turning it around in their hands.",
+    "objects": [
+      "car",
+      "toy",
+      "around",
+      "child",
+      "their",
+      "play"
+    ],
+    "actions": [
+      "continues",
+      "hands",
+      "turning"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The child continues to play with the toy car, turning it around in their hands.",
+    "objects": [
+      "car",
+      "toy",
+      "around",
+      "child",
+      "their",
+      "play"
+    ],
+    "actions": [
+      "continues",
+      "hands",
+      "turning"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The child continues to play with the toy car, turning it around in their hands.",
+    "objects": [
+      "car",
+      "toy",
+      "around",
+      "child",
+      "their",
+      "play"
+    ],
+    "actions": [
+      "continues",
+      "hands",
+      "turning"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then focuses on the child again, and we see them wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "again",
+      "child",
+      "them",
+      "hoodie",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "focuses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then focuses on the child again, and we see them wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "again",
+      "child",
+      "them",
+      "hoodie",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "focuses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then focuses on the child again, and we see them wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "again",
+      "child",
+      "them",
+      "hoodie",
+      "see",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "focuses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The person on the couch remains in the background, still observing the child.",
+    "objects": [
+      "still",
+      "couch",
+      "child"
+    ],
+    "actions": [
+      "observing",
+      "remains"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The person on the couch remains in the background, still observing the child.",
+    "objects": [
+      "still",
+      "couch",
+      "child"
+    ],
+    "actions": [
+      "observing",
+      "remains"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The person on the couch remains in the background, still observing the child.",
+    "objects": [
+      "still",
+      "couch",
+      "child"
+    ],
+    "actions": [
+      "observing",
+      "remains"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The child turns the toy car around one last time and then turns their attention towards the camera.",
+    "objects": [
+      "car",
+      "toy",
+      "around",
+      "attention",
+      "child",
+      "one",
+      "time",
+      "their"
+    ],
+    "actions": [
+      "towards",
+      "turns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The child turns the toy car around one last time and then turns their attention towards the camera.",
+    "objects": [
+      "car",
+      "toy",
+      "around",
+      "attention",
+      "child",
+      "one",
+      "time",
+      "their"
+    ],
+    "actions": [
+      "towards",
+      "turns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The child turns the toy car around one last time and then turns their attention towards the camera.",
+    "objects": [
+      "car",
+      "toy",
+      "around",
+      "attention",
+      "child",
+      "one",
+      "time",
+      "their"
+    ],
+    "actions": [
+      "towards",
+      "turns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then pans back to the person on the couch, who is now wearing a pink shirt.",
+    "objects": [
+      "couch",
+      "pink",
+      "pans",
+      "shirt",
+      "now",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then pans back to the person on the couch, who is now wearing a pink shirt.",
+    "objects": [
+      "couch",
+      "pink",
+      "pans",
+      "shirt",
+      "now",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then pans back to the person on the couch, who is now wearing a pink shirt.",
+    "objects": [
+      "couch",
+      "pink",
+      "pans",
+      "shirt",
+      "now",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The child looks up at the camera, seemingly aware of the presence of the camera, and continues to observe the child's actions.",
+    "objects": [
+      "observe",
+      "aware",
+      "presence",
+      "child",
+      "seemingly"
+    ],
+    "actions": [
+      "continues",
+      "looks",
+      "child's",
+      "actions"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The child looks up at the camera, seemingly aware of the presence of the camera, and continues to observe the child's actions.",
+    "objects": [
+      "observe",
+      "aware",
+      "presence",
+      "child",
+      "seemingly"
+    ],
+    "actions": [
+      "continues",
+      "looks",
+      "child's",
+      "actions"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The child looks up at the camera, seemingly aware of the presence of the camera, and continues to observe the child's actions.",
+    "objects": [
+      "observe",
+      "aware",
+      "presence",
+      "child",
+      "seemingly"
+    ],
+    "actions": [
+      "continues",
+      "looks",
+      "child's",
+      "actions"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is a simple one of a child playing with a toy car while being observed by an adult in a room setting.",
+    "objects": [
+      "car",
+      "toy",
+      "room",
+      "adult",
+      "while",
+      "child",
+      "one",
+      "simple"
+    ],
+    "actions": [
+      "setting",
+      "playing",
+      "observed",
+      "being"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is a simple one of a child playing with a toy car while being observed by an adult in a room setting.",
+    "objects": [
+      "car",
+      "toy",
+      "room",
+      "adult",
+      "while",
+      "child",
+      "one",
+      "simple"
+    ],
+    "actions": [
+      "setting",
+      "playing",
+      "observed",
+      "being"
+    ],
+    "segment_id": 10
+  }
+]

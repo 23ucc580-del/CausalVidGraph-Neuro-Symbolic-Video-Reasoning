@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a dog walking on a leash in a room, while a person is standing nearby, wearing black sneakers.",
+    "objects": [
+      "while",
+      "black",
+      "leash",
+      "see",
+      "dog",
+      "room",
+      "nearby",
+      "this"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "walking",
+      "sneakers"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a dog walking on a leash in a room, while a person is standing nearby, wearing black sneakers.",
+    "objects": [
+      "while",
+      "black",
+      "leash",
+      "see",
+      "dog",
+      "room",
+      "nearby",
+      "this"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "walking",
+      "sneakers"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a dog walking on a leash in a room, while a person is standing nearby, wearing black sneakers.",
+    "objects": [
+      "while",
+      "black",
+      "leash",
+      "see",
+      "dog",
+      "room",
+      "nearby",
+      "this"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "walking",
+      "sneakers"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a dog walking on a leash in a room, while a person is standing nearby, wearing black sneakers.",
+    "objects": [
+      "while",
+      "black",
+      "leash",
+      "see",
+      "dog",
+      "room",
+      "nearby",
+      "this"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "walking",
+      "sneakers"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The dog is primarily white and brown, and appears to be looking down.",
+    "objects": [
+      "brown",
+      "dog",
+      "primarily",
+      "white"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog is primarily white and brown, and appears to be looking down.",
+    "objects": [
+      "brown",
+      "dog",
+      "primarily",
+      "white"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog is primarily white and brown, and appears to be looking down.",
+    "objects": [
+      "brown",
+      "dog",
+      "primarily",
+      "white"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog is primarily white and brown, and appears to be looking down.",
+    "objects": [
+      "brown",
+      "dog",
+      "primarily",
+      "white"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The person is also wearing a black t-shirt and blue jeans.",
+    "objects": [
+      "black",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The person is also wearing a black t-shirt and blue jeans.",
+    "objects": [
+      "black",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The person is also wearing a black t-shirt and blue jeans.",
+    "objects": [
+      "black",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The person is also wearing a black t-shirt and blue jeans.",
+    "objects": [
+      "black",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The room has a tiled floor, and there are some food bowls visible.",
+    "objects": [
+      "there",
+      "has",
+      "some",
+      "food",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "tiled",
+      "bowls"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The room has a tiled floor, and there are some food bowls visible.",
+    "objects": [
+      "there",
+      "has",
+      "some",
+      "food",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "tiled",
+      "bowls"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The room has a tiled floor, and there are some food bowls visible.",
+    "objects": [
+      "there",
+      "has",
+      "some",
+      "food",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "tiled",
+      "bowls"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The room has a tiled floor, and there are some food bowls visible.",
+    "objects": [
+      "there",
+      "has",
+      "some",
+      "food",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "tiled",
+      "bowls"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "There is also a blue and white striped blanket on the floor.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "floor",
+      "blanket"
+    ],
+    "actions": [
+      "striped"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "There is also a blue and white striped blanket on the floor.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "floor",
+      "blanket"
+    ],
+    "actions": [
+      "striped"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "There is also a blue and white striped blanket on the floor.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "floor",
+      "blanket"
+    ],
+    "actions": [
+      "striped"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "There is also a blue and white striped blanket on the floor.",
+    "objects": [
+      "there",
+      "white",
+      "blue",
+      "floor",
+      "blanket"
+    ],
+    "actions": [
+      "striped"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A person in a blue shirt and blue jeans is walking past the room, and another person in black sneakers is also present.",
+    "objects": [
+      "room",
+      "black",
+      "blue",
+      "shirt",
+      "past",
+      "present"
+    ],
+    "actions": [
+      "sneakers",
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A person in a blue shirt and blue jeans is walking past the room, and another person in black sneakers is also present.",
+    "objects": [
+      "room",
+      "black",
+      "blue",
+      "shirt",
+      "past",
+      "present"
+    ],
+    "actions": [
+      "sneakers",
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A person in a blue shirt and blue jeans is walking past the room, and another person in black sneakers is also present.",
+    "objects": [
+      "room",
+      "black",
+      "blue",
+      "shirt",
+      "past",
+      "present"
+    ],
+    "actions": [
+      "sneakers",
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A person in a blue shirt and blue jeans is walking past the room, and another person in black sneakers is also present.",
+    "objects": [
+      "room",
+      "black",
+      "blue",
+      "shirt",
+      "past",
+      "present"
+    ],
+    "actions": [
+      "sneakers",
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The dog continues to walk around on the leash, while a person in a pink shirt and blue jeans is walking away.",
+    "objects": [
+      "walk",
+      "pink",
+      "while",
+      "away",
+      "blue",
+      "leash",
+      "shirt",
+      "around"
+    ],
+    "actions": [
+      "continues",
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog continues to walk around on the leash, while a person in a pink shirt and blue jeans is walking away.",
+    "objects": [
+      "walk",
+      "pink",
+      "while",
+      "away",
+      "blue",
+      "leash",
+      "shirt",
+      "around"
+    ],
+    "actions": [
+      "continues",
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog continues to walk around on the leash, while a person in a pink shirt and blue jeans is walking away.",
+    "objects": [
+      "walk",
+      "pink",
+      "while",
+      "away",
+      "blue",
+      "leash",
+      "shirt",
+      "around"
+    ],
+    "actions": [
+      "continues",
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog continues to walk around on the leash, while a person in a pink shirt and blue jeans is walking away.",
+    "objects": [
+      "walk",
+      "pink",
+      "while",
+      "away",
+      "blue",
+      "leash",
+      "shirt",
+      "around"
+    ],
+    "actions": [
+      "continues",
+      "jeans",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "There is also a person in a white shirt and jeans present in the room.",
+    "objects": [
+      "there",
+      "white",
+      "shirt",
+      "room",
+      "present"
+    ],
+    "actions": [
+      "jeans"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "There is also a person in a white shirt and jeans present in the room.",
+    "objects": [
+      "there",
+      "white",
+      "shirt",
+      "room",
+      "present"
+    ],
+    "actions": [
+      "jeans"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "There is also a person in a white shirt and jeans present in the room.",
+    "objects": [
+      "there",
+      "white",
+      "shirt",
+      "room",
+      "present"
+    ],
+    "actions": [
+      "jeans"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "There is also a person in a white shirt and jeans present in the room.",
+    "objects": [
+      "there",
+      "white",
+      "shirt",
+      "room",
+      "present"
+    ],
+    "actions": [
+      "jeans"
+    ],
+    "segment_id": 7
+  }
+]

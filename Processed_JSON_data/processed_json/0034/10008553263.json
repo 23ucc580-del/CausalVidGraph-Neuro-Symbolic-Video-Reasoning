@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there is a woman standing on a stage, singing into a microphone.",
+    "objects": [
+      "stage",
+      "microphone",
+      "there",
+      "woman",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there is a woman standing on a stage, singing into a microphone.",
+    "objects": [
+      "stage",
+      "microphone",
+      "there",
+      "woman",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there is a woman standing on a stage, singing into a microphone.",
+    "objects": [
+      "stage",
+      "microphone",
+      "there",
+      "woman",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there is a woman standing on a stage, singing into a microphone.",
+    "objects": [
+      "stage",
+      "microphone",
+      "there",
+      "woman",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is dressed in a white and red outfit with a colorful headband on her head, and she appears to be performing in front of a crowd.",
+    "objects": [
+      "her",
+      "white",
+      "crowd",
+      "she",
+      "colorful",
+      "outfit",
+      "headband",
+      "head"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "performing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is dressed in a white and red outfit with a colorful headband on her head, and she appears to be performing in front of a crowd.",
+    "objects": [
+      "her",
+      "white",
+      "crowd",
+      "she",
+      "colorful",
+      "outfit",
+      "headband",
+      "head"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "performing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is dressed in a white and red outfit with a colorful headband on her head, and she appears to be performing in front of a crowd.",
+    "objects": [
+      "her",
+      "white",
+      "crowd",
+      "she",
+      "colorful",
+      "outfit",
+      "headband",
+      "head"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "performing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is dressed in a white and red outfit with a colorful headband on her head, and she appears to be performing in front of a crowd.",
+    "objects": [
+      "her",
+      "white",
+      "crowd",
+      "she",
+      "colorful",
+      "outfit",
+      "headband",
+      "head"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "performing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The stage has a green banner with white text that reads \"DPR\".",
+    "objects": [
+      "text",
+      "white",
+      "stage",
+      "has",
+      "that",
+      "green",
+      "banner"
+    ],
+    "actions": [
+      "reads"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The stage has a green banner with white text that reads \"DPR\".",
+    "objects": [
+      "text",
+      "white",
+      "stage",
+      "has",
+      "that",
+      "green",
+      "banner"
+    ],
+    "actions": [
+      "reads"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The stage has a green banner with white text that reads \"DPR\".",
+    "objects": [
+      "text",
+      "white",
+      "stage",
+      "has",
+      "that",
+      "green",
+      "banner"
+    ],
+    "actions": [
+      "reads"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The stage has a green banner with white text that reads \"DPR\".",
+    "objects": [
+      "text",
+      "white",
+      "stage",
+      "has",
+      "that",
+      "green",
+      "banner"
+    ],
+    "actions": [
+      "reads"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is holding a microphone in her right hand and her left hand is raised in a fist.",
+    "objects": [
+      "her",
+      "fist",
+      "microphone",
+      "woman",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "raised"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is holding a microphone in her right hand and her left hand is raised in a fist.",
+    "objects": [
+      "her",
+      "fist",
+      "microphone",
+      "woman",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "raised"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is holding a microphone in her right hand and her left hand is raised in a fist.",
+    "objects": [
+      "her",
+      "fist",
+      "microphone",
+      "woman",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "raised"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is holding a microphone in her right hand and her left hand is raised in a fist.",
+    "objects": [
+      "her",
+      "fist",
+      "microphone",
+      "woman",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "raised"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The audience can be seen in the background, clapping and cheering.",
+    "objects": [
+      "audience",
+      "can"
+    ],
+    "actions": [
+      "clapping",
+      "cheering"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The audience can be seen in the background, clapping and cheering.",
+    "objects": [
+      "audience",
+      "can"
+    ],
+    "actions": [
+      "clapping",
+      "cheering"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The audience can be seen in the background, clapping and cheering.",
+    "objects": [
+      "audience",
+      "can"
+    ],
+    "actions": [
+      "clapping",
+      "cheering"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The audience can be seen in the background, clapping and cheering.",
+    "objects": [
+      "audience",
+      "can"
+    ],
+    "actions": [
+      "clapping",
+      "cheering"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman's performance is energetic and engaging, with her expressive singing and energetic body language.",
+    "objects": [
+      "her",
+      "language",
+      "expressive",
+      "energetic",
+      "body",
+      "performance"
+    ],
+    "actions": [
+      "singing",
+      "woman's",
+      "engaging"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman's performance is energetic and engaging, with her expressive singing and energetic body language.",
+    "objects": [
+      "her",
+      "language",
+      "expressive",
+      "energetic",
+      "body",
+      "performance"
+    ],
+    "actions": [
+      "singing",
+      "woman's",
+      "engaging"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman's performance is energetic and engaging, with her expressive singing and energetic body language.",
+    "objects": [
+      "her",
+      "language",
+      "expressive",
+      "energetic",
+      "body",
+      "performance"
+    ],
+    "actions": [
+      "singing",
+      "woman's",
+      "engaging"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman's performance is energetic and engaging, with her expressive singing and energetic body language.",
+    "objects": [
+      "her",
+      "language",
+      "expressive",
+      "energetic",
+      "body",
+      "performance"
+    ],
+    "actions": [
+      "singing",
+      "woman's",
+      "engaging"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The setting is a concert or event stage, with the focus on the performer and her performance.",
+    "objects": [
+      "her",
+      "stage",
+      "concert",
+      "performance",
+      "event",
+      "performer"
+    ],
+    "actions": [
+      "setting",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The setting is a concert or event stage, with the focus on the performer and her performance.",
+    "objects": [
+      "her",
+      "stage",
+      "concert",
+      "performance",
+      "event",
+      "performer"
+    ],
+    "actions": [
+      "setting",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The setting is a concert or event stage, with the focus on the performer and her performance.",
+    "objects": [
+      "her",
+      "stage",
+      "concert",
+      "performance",
+      "event",
+      "performer"
+    ],
+    "actions": [
+      "setting",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The setting is a concert or event stage, with the focus on the performer and her performance.",
+    "objects": [
+      "her",
+      "stage",
+      "concert",
+      "performance",
+      "event",
+      "performer"
+    ],
+    "actions": [
+      "setting",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The crowd seems to be enjoying her performance, adding to the lively atmosphere.",
+    "objects": [
+      "her",
+      "lively",
+      "crowd",
+      "atmosphere",
+      "performance"
+    ],
+    "actions": [
+      "adding",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The crowd seems to be enjoying her performance, adding to the lively atmosphere.",
+    "objects": [
+      "her",
+      "lively",
+      "crowd",
+      "atmosphere",
+      "performance"
+    ],
+    "actions": [
+      "adding",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The crowd seems to be enjoying her performance, adding to the lively atmosphere.",
+    "objects": [
+      "her",
+      "lively",
+      "crowd",
+      "atmosphere",
+      "performance"
+    ],
+    "actions": [
+      "adding",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The crowd seems to be enjoying her performance, adding to the lively atmosphere.",
+    "objects": [
+      "her",
+      "lively",
+      "crowd",
+      "atmosphere",
+      "performance"
+    ],
+    "actions": [
+      "adding",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 7
+  }
+]

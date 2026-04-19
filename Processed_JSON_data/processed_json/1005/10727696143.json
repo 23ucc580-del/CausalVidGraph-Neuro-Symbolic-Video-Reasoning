@@ -1,0 +1,576 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a young boy in a blue hoodie standing in front of a fireplace.",
+    "objects": [
+      "boy",
+      "blue",
+      "hoodie",
+      "young",
+      "fireplace"
+    ],
+    "actions": [
+      "begins",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a young boy in a blue hoodie standing in front of a fireplace.",
+    "objects": [
+      "boy",
+      "blue",
+      "hoodie",
+      "young",
+      "fireplace"
+    ],
+    "actions": [
+      "begins",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "He appears to be playing with a small toy while a woman in a red shirt and pink pants walks by, seemingly unnoticed.",
+    "objects": [
+      "small",
+      "woman",
+      "while",
+      "pink",
+      "shirt",
+      "seemingly",
+      "toy"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "unnoticed",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "He appears to be playing with a small toy while a woman in a red shirt and pink pants walks by, seemingly unnoticed.",
+    "objects": [
+      "small",
+      "woman",
+      "while",
+      "pink",
+      "shirt",
+      "seemingly",
+      "toy"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "unnoticed",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The boy then walks away, and a girl in a black shirt with a red scarf enters the frame, also seemingly unnoticed by the boy.",
+    "objects": [
+      "boy",
+      "away",
+      "black",
+      "shirt",
+      "seemingly",
+      "girl",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "enters",
+      "walks",
+      "unnoticed",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The boy then walks away, and a girl in a black shirt with a red scarf enters the frame, also seemingly unnoticed by the boy.",
+    "objects": [
+      "boy",
+      "away",
+      "black",
+      "shirt",
+      "seemingly",
+      "girl",
+      "then",
+      "scarf"
+    ],
+    "actions": [
+      "enters",
+      "walks",
+      "unnoticed",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans to the right, showing a woman in a black shirt and gray pants walking by, followed by the boy returning to the fireplace.",
+    "objects": [
+      "boy",
+      "woman",
+      "pans",
+      "black",
+      "shirt",
+      "gray",
+      "then",
+      "fireplace"
+    ],
+    "actions": [
+      "followed",
+      "returning",
+      "pants",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then pans to the right, showing a woman in a black shirt and gray pants walking by, followed by the boy returning to the fireplace.",
+    "objects": [
+      "boy",
+      "woman",
+      "pans",
+      "black",
+      "shirt",
+      "gray",
+      "then",
+      "fireplace"
+    ],
+    "actions": [
+      "followed",
+      "returning",
+      "pants",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "He then walks away again, and the camera pans back to the left, showing a woman in a blue shirt walking by.",
+    "objects": [
+      "woman",
+      "away",
+      "pans",
+      "blue",
+      "shirt",
+      "then",
+      "again"
+    ],
+    "actions": [
+      "walks",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "He then walks away again, and the camera pans back to the left, showing a woman in a blue shirt walking by.",
+    "objects": [
+      "woman",
+      "away",
+      "pans",
+      "blue",
+      "shirt",
+      "then",
+      "again"
+    ],
+    "actions": [
+      "walks",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The boy is then seen playing with a remote control in the living room, and he stands in front of a fireplace, looking at the camera.",
+    "objects": [
+      "boy",
+      "control",
+      "remote",
+      "room",
+      "then",
+      "fireplace"
+    ],
+    "actions": [
+      "playing",
+      "looking",
+      "living",
+      "stands"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The boy is then seen playing with a remote control in the living room, and he stands in front of a fireplace, looking at the camera.",
+    "objects": [
+      "boy",
+      "control",
+      "remote",
+      "room",
+      "then",
+      "fireplace"
+    ],
+    "actions": [
+      "playing",
+      "looking",
+      "living",
+      "stands"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "He appears to be playing with a toy, possibly a train, and is wearing a blue hoodie.",
+    "objects": [
+      "possibly",
+      "blue",
+      "hoodie",
+      "toy",
+      "train"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "He appears to be playing with a toy, possibly a train, and is wearing a blue hoodie.",
+    "objects": [
+      "possibly",
+      "blue",
+      "hoodie",
+      "toy",
+      "train"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "He is holding the remote control in his right hand.",
+    "objects": [
+      "hand",
+      "his",
+      "remote",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "He is holding the remote control in his right hand.",
+    "objects": [
+      "hand",
+      "his",
+      "remote",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The woman in the red shirt and pink pants walks by again, and the camera pans to the right, showing a woman in a black shirt and gray pants walking by.",
+    "objects": [
+      "pink",
+      "pans",
+      "woman",
+      "black",
+      "shirt",
+      "gray",
+      "again"
+    ],
+    "actions": [
+      "walks",
+      "pants",
+      "walking",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman in the red shirt and pink pants walks by again, and the camera pans to the right, showing a woman in a black shirt and gray pants walking by.",
+    "objects": [
+      "pink",
+      "pans",
+      "woman",
+      "black",
+      "shirt",
+      "gray",
+      "again"
+    ],
+    "actions": [
+      "walks",
+      "pants",
+      "walking",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy then walks away again, and the camera pans to the left, showing a woman in a blue shirt walking by.",
+    "objects": [
+      "boy",
+      "woman",
+      "away",
+      "pans",
+      "blue",
+      "shirt",
+      "then",
+      "again"
+    ],
+    "actions": [
+      "walks",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy then walks away again, and the camera pans to the left, showing a woman in a blue shirt walking by.",
+    "objects": [
+      "boy",
+      "woman",
+      "away",
+      "pans",
+      "blue",
+      "shirt",
+      "then",
+      "again"
+    ],
+    "actions": [
+      "walks",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The boy is then seen standing in the living room, holding a toy, possibly a toy car, and wearing a blue hoodie.",
+    "objects": [
+      "boy",
+      "possibly",
+      "blue",
+      "toy",
+      "car",
+      "hoodie",
+      "room",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "living",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The boy is then seen standing in the living room, holding a toy, possibly a toy car, and wearing a blue hoodie.",
+    "objects": [
+      "boy",
+      "possibly",
+      "blue",
+      "toy",
+      "car",
+      "hoodie",
+      "room",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "living",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "He appears to be playing with it and looking at the camera.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "playing",
+      "looking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "He appears to be playing with it and looking at the camera.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "playing",
+      "looking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman in the red shirt and pink pants walks by again, and the camera pans to the right, showing a woman in a black shirt and gray pants walking by.",
+    "objects": [
+      "pink",
+      "pans",
+      "woman",
+      "black",
+      "shirt",
+      "gray",
+      "again"
+    ],
+    "actions": [
+      "walks",
+      "pants",
+      "walking",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman in the red shirt and pink pants walks by again, and the camera pans to the right, showing a woman in a black shirt and gray pants walking by.",
+    "objects": [
+      "pink",
+      "pans",
+      "woman",
+      "black",
+      "shirt",
+      "gray",
+      "again"
+    ],
+    "actions": [
+      "walks",
+      "pants",
+      "walking",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The boy walks away again, and the camera pans back to the left, showing a woman in a blue shirt walking by.",
+    "objects": [
+      "boy",
+      "woman",
+      "away",
+      "pans",
+      "blue",
+      "shirt",
+      "again"
+    ],
+    "actions": [
+      "walks",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The boy walks away again, and the camera pans back to the left, showing a woman in a blue shirt walking by.",
+    "objects": [
+      "boy",
+      "woman",
+      "away",
+      "pans",
+      "blue",
+      "shirt",
+      "again"
+    ],
+    "actions": [
+      "walks",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The video ends with the boy standing in the living room, wearing a blue hoodie and looking at the camera.",
+    "objects": [
+      "boy",
+      "blue",
+      "ends",
+      "hoodie",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "standing",
+      "living"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The video ends with the boy standing in the living room, wearing a blue hoodie and looking at the camera.",
+    "objects": [
+      "boy",
+      "blue",
+      "ends",
+      "hoodie",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "standing",
+      "living"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "He is holding a toy, possibly a toy train, and appears to be playing with it.",
+    "objects": [
+      "possibly",
+      "toy",
+      "train"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "He is holding a toy, possibly a toy train, and appears to be playing with it.",
+    "objects": [
+      "possibly",
+      "toy",
+      "train"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

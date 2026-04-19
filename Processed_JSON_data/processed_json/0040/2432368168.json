@@ -1,0 +1,522 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people standing around a gaming machine, which is a large arcade-style game with a large screen displaying a video game.",
+    "objects": [
+      "machine",
+      "screen",
+      "large",
+      "group",
+      "which",
+      "see",
+      "people",
+      "game"
+    ],
+    "actions": [
+      "gaming",
+      "standing",
+      "displaying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people standing around a gaming machine, which is a large arcade-style game with a large screen displaying a video game.",
+    "objects": [
+      "machine",
+      "screen",
+      "large",
+      "group",
+      "which",
+      "see",
+      "people",
+      "game"
+    ],
+    "actions": [
+      "gaming",
+      "standing",
+      "displaying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The machine is located on a carpeted floor, and there is a purple wall in the background.",
+    "objects": [
+      "machine",
+      "floor",
+      "wall",
+      "purple",
+      "there"
+    ],
+    "actions": [
+      "carpeted",
+      "located"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The machine is located on a carpeted floor, and there is a purple wall in the background.",
+    "objects": [
+      "machine",
+      "floor",
+      "wall",
+      "purple",
+      "there"
+    ],
+    "actions": [
+      "carpeted",
+      "located"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A man in a blue hoodie is standing to the left of the machine, while a woman in a black shirt is standing to the right.",
+    "objects": [
+      "shirt",
+      "machine",
+      "blue",
+      "man",
+      "black",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "A man in a blue hoodie is standing to the left of the machine, while a woman in a black shirt is standing to the right.",
+    "objects": [
+      "shirt",
+      "machine",
+      "blue",
+      "man",
+      "black",
+      "woman",
+      "hoodie",
+      "while"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "Both are wearing casual clothing.",
+    "objects": [
+      "casual",
+      "both"
+    ],
+    "actions": [
+      "clothing",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "Both are wearing casual clothing.",
+    "objects": [
+      "casual",
+      "both"
+    ],
+    "actions": [
+      "clothing",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman in the black shirt is holding a controller in her right hand and is smiling.",
+    "objects": [
+      "her",
+      "shirt",
+      "black",
+      "controller",
+      "woman",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman in the black shirt is holding a controller in her right hand and is smiling.",
+    "objects": [
+      "her",
+      "shirt",
+      "black",
+      "controller",
+      "woman",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "She is leaning on the machine, and there is a silver car behind her.",
+    "objects": [
+      "her",
+      "machine",
+      "behind",
+      "there",
+      "she",
+      "car",
+      "silver"
+    ],
+    "actions": [
+      "leaning"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "She is leaning on the machine, and there is a silver car behind her.",
+    "objects": [
+      "her",
+      "machine",
+      "behind",
+      "there",
+      "she",
+      "car",
+      "silver"
+    ],
+    "actions": [
+      "leaning"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man is standing next to her, wearing a red jacket and holding a controller.",
+    "objects": [
+      "her",
+      "jacket",
+      "controller",
+      "man"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man is standing next to her, wearing a red jacket and holding a controller.",
+    "objects": [
+      "her",
+      "jacket",
+      "controller",
+      "man"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "He is smiling and looking at the camera.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "He is smiling and looking at the camera.",
+    "objects": [
+      "entity"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the blue hoodie is standing slightly behind the woman in the black shirt, and he is also holding a controller.",
+    "objects": [
+      "shirt",
+      "blue",
+      "behind",
+      "man",
+      "black",
+      "hoodie",
+      "controller",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the blue hoodie is standing slightly behind the woman in the black shirt, and he is also holding a controller.",
+    "objects": [
+      "shirt",
+      "blue",
+      "behind",
+      "man",
+      "black",
+      "hoodie",
+      "controller",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "His expression is neutral.",
+    "objects": [
+      "neutral",
+      "expression",
+      "his"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "His expression is neutral.",
+    "objects": [
+      "neutral",
+      "expression",
+      "his"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "There is another man in a white shirt standing behind the woman in the black shirt, and he is looking at the machine.",
+    "objects": [
+      "shirt",
+      "machine",
+      "white",
+      "behind",
+      "man",
+      "there",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "There is another man in a white shirt standing behind the woman in the black shirt, and he is looking at the machine.",
+    "objects": [
+      "shirt",
+      "machine",
+      "white",
+      "behind",
+      "man",
+      "there",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "He is wearing a backpack.",
+    "objects": [
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "He is wearing a backpack.",
+    "objects": [
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman in the black shirt is wearing a red jacket, and she is smiling and looking at the camera.",
+    "objects": [
+      "shirt",
+      "jacket",
+      "black",
+      "she",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "smiling",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman in the black shirt is wearing a red jacket, and she is smiling and looking at the camera.",
+    "objects": [
+      "shirt",
+      "jacket",
+      "black",
+      "she",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "smiling",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the white shirt is holding a controller, and his expression is neutral.",
+    "objects": [
+      "shirt",
+      "expression",
+      "neutral",
+      "white",
+      "man",
+      "controller",
+      "his"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the white shirt is holding a controller, and his expression is neutral.",
+    "objects": [
+      "shirt",
+      "expression",
+      "neutral",
+      "white",
+      "man",
+      "controller",
+      "his"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman in the black shirt is wearing a black jacket and smiling, looking at the camera.",
+    "objects": [
+      "black",
+      "jacket",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "smiling",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman in the black shirt is wearing a black jacket and smiling, looking at the camera.",
+    "objects": [
+      "black",
+      "jacket",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "smiling",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the red jacket is looking down, and the woman in the black shirt is wearing a black jacket.",
+    "objects": [
+      "shirt",
+      "jacket",
+      "black",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the red jacket is looking down, and the woman in the black shirt is wearing a black jacket.",
+    "objects": [
+      "shirt",
+      "jacket",
+      "black",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 15
+  }
+]

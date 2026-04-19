@@ -1,0 +1,622 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of four men are gathered in a restaurant, engaged in a lively discussion.",
+    "objects": [
+      "discussion",
+      "men",
+      "lively",
+      "four",
+      "restaurant",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of four men are gathered in a restaurant, engaged in a lively discussion.",
+    "objects": [
+      "discussion",
+      "men",
+      "lively",
+      "four",
+      "restaurant",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of four men are gathered in a restaurant, engaged in a lively discussion.",
+    "objects": [
+      "discussion",
+      "men",
+      "lively",
+      "four",
+      "restaurant",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "Two of them are seated at a table, with one man wearing a blue shirt holding a phone, presumably showing something on it to the others.",
+    "objects": [
+      "blue",
+      "phone",
+      "man",
+      "shirt",
+      "presumably",
+      "one",
+      "them",
+      "table"
+    ],
+    "actions": [
+      "others",
+      "something",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Two of them are seated at a table, with one man wearing a blue shirt holding a phone, presumably showing something on it to the others.",
+    "objects": [
+      "blue",
+      "phone",
+      "man",
+      "shirt",
+      "presumably",
+      "one",
+      "them",
+      "table"
+    ],
+    "actions": [
+      "others",
+      "something",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two of them are seated at a table, with one man wearing a blue shirt holding a phone, presumably showing something on it to the others.",
+    "objects": [
+      "blue",
+      "phone",
+      "man",
+      "shirt",
+      "presumably",
+      "one",
+      "them",
+      "table"
+    ],
+    "actions": [
+      "others",
+      "something",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The third man, wearing a white shirt, is pointing towards something in the air with excitement.",
+    "objects": [
+      "white",
+      "excitement",
+      "man",
+      "shirt",
+      "air",
+      "third"
+    ],
+    "actions": [
+      "something",
+      "towards",
+      "wearing",
+      "pointing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The third man, wearing a white shirt, is pointing towards something in the air with excitement.",
+    "objects": [
+      "white",
+      "excitement",
+      "man",
+      "shirt",
+      "air",
+      "third"
+    ],
+    "actions": [
+      "something",
+      "towards",
+      "wearing",
+      "pointing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The third man, wearing a white shirt, is pointing towards something in the air with excitement.",
+    "objects": [
+      "white",
+      "excitement",
+      "man",
+      "shirt",
+      "air",
+      "third"
+    ],
+    "actions": [
+      "something",
+      "towards",
+      "wearing",
+      "pointing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The fourth man, in a plaid shirt, stands up from his chair and walks towards the phone-holding man, possibly to get a better view or join in on the conversation.",
+    "objects": [
+      "man",
+      "plaid",
+      "his",
+      "chair",
+      "better",
+      "shirt",
+      "conversation",
+      "get"
+    ],
+    "actions": [
+      "walks",
+      "towards",
+      "phone-holding",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The fourth man, in a plaid shirt, stands up from his chair and walks towards the phone-holding man, possibly to get a better view or join in on the conversation.",
+    "objects": [
+      "man",
+      "plaid",
+      "his",
+      "chair",
+      "better",
+      "shirt",
+      "conversation",
+      "get"
+    ],
+    "actions": [
+      "walks",
+      "towards",
+      "phone-holding",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The fourth man, in a plaid shirt, stands up from his chair and walks towards the phone-holding man, possibly to get a better view or join in on the conversation.",
+    "objects": [
+      "man",
+      "plaid",
+      "his",
+      "chair",
+      "better",
+      "shirt",
+      "conversation",
+      "get"
+    ],
+    "actions": [
+      "walks",
+      "towards",
+      "phone-holding",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in the blue shirt is speaking animatedly, perhaps explaining or demonstrating something on the phone's screen.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "screen",
+      "animatedly"
+    ],
+    "actions": [
+      "explaining",
+      "something",
+      "speaking",
+      "perhaps"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in the blue shirt is speaking animatedly, perhaps explaining or demonstrating something on the phone's screen.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "screen",
+      "animatedly"
+    ],
+    "actions": [
+      "explaining",
+      "something",
+      "speaking",
+      "perhaps"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the blue shirt is speaking animatedly, perhaps explaining or demonstrating something on the phone's screen.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "screen",
+      "animatedly"
+    ],
+    "actions": [
+      "explaining",
+      "something",
+      "speaking",
+      "perhaps"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the white shirt seems to be the center of attention, with the others listening attentively.",
+    "objects": [
+      "white",
+      "attentively",
+      "man",
+      "attention",
+      "shirt",
+      "center"
+    ],
+    "actions": [
+      "others",
+      "listening",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the white shirt seems to be the center of attention, with the others listening attentively.",
+    "objects": [
+      "white",
+      "attentively",
+      "man",
+      "attention",
+      "shirt",
+      "center"
+    ],
+    "actions": [
+      "others",
+      "listening",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the white shirt seems to be the center of attention, with the others listening attentively.",
+    "objects": [
+      "white",
+      "attentively",
+      "man",
+      "attention",
+      "shirt",
+      "center"
+    ],
+    "actions": [
+      "others",
+      "listening",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The restaurant has a warm ambiance, with wooden floors and dim lighting that creates a cozy atmosphere.",
+    "objects": [
+      "warm",
+      "cozy",
+      "dim",
+      "wooden",
+      "ambiance",
+      "has",
+      "that",
+      "restaurant"
+    ],
+    "actions": [
+      "creates",
+      "floors",
+      "lighting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The restaurant has a warm ambiance, with wooden floors and dim lighting that creates a cozy atmosphere.",
+    "objects": [
+      "warm",
+      "cozy",
+      "dim",
+      "wooden",
+      "ambiance",
+      "has",
+      "that",
+      "restaurant"
+    ],
+    "actions": [
+      "creates",
+      "floors",
+      "lighting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The restaurant has a warm ambiance, with wooden floors and dim lighting that creates a cozy atmosphere.",
+    "objects": [
+      "warm",
+      "cozy",
+      "dim",
+      "wooden",
+      "ambiance",
+      "has",
+      "that",
+      "restaurant"
+    ],
+    "actions": [
+      "creates",
+      "floors",
+      "lighting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The man in the blue shirt holds a phone, and the man in the white shirt points towards something in the air, indicating that they might be discussing something on the phone's screen.",
+    "objects": [
+      "white",
+      "phone",
+      "blue",
+      "man",
+      "shirt",
+      "that",
+      "screen",
+      "air"
+    ],
+    "actions": [
+      "something",
+      "towards",
+      "indicating",
+      "holds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The man in the blue shirt holds a phone, and the man in the white shirt points towards something in the air, indicating that they might be discussing something on the phone's screen.",
+    "objects": [
+      "white",
+      "phone",
+      "blue",
+      "man",
+      "shirt",
+      "that",
+      "screen",
+      "air"
+    ],
+    "actions": [
+      "something",
+      "towards",
+      "indicating",
+      "holds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The man in the blue shirt holds a phone, and the man in the white shirt points towards something in the air, indicating that they might be discussing something on the phone's screen.",
+    "objects": [
+      "white",
+      "phone",
+      "blue",
+      "man",
+      "shirt",
+      "that",
+      "screen",
+      "air"
+    ],
+    "actions": [
+      "something",
+      "towards",
+      "indicating",
+      "holds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the plaid shirt stands up, possibly to get a better view of the object of interest.",
+    "objects": [
+      "man",
+      "plaid",
+      "better",
+      "shirt",
+      "object",
+      "get",
+      "interest",
+      "possibly"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the plaid shirt stands up, possibly to get a better view of the object of interest.",
+    "objects": [
+      "man",
+      "plaid",
+      "better",
+      "shirt",
+      "object",
+      "get",
+      "interest",
+      "possibly"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the plaid shirt stands up, possibly to get a better view of the object of interest.",
+    "objects": [
+      "man",
+      "plaid",
+      "better",
+      "shirt",
+      "object",
+      "get",
+      "interest",
+      "possibly"
+    ],
+    "actions": [
+      "stands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the blue shirt is speaking animatedly, while the man in the white shirt is listening intently, suggesting that the phone is the focus of their discussion.",
+    "objects": [
+      "white",
+      "blue",
+      "phone",
+      "discussion",
+      "man",
+      "while",
+      "shirt",
+      "that"
+    ],
+    "actions": [
+      "listening",
+      "speaking",
+      "focus",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the blue shirt is speaking animatedly, while the man in the white shirt is listening intently, suggesting that the phone is the focus of their discussion.",
+    "objects": [
+      "white",
+      "blue",
+      "phone",
+      "discussion",
+      "man",
+      "while",
+      "shirt",
+      "that"
+    ],
+    "actions": [
+      "listening",
+      "speaking",
+      "focus",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the blue shirt is speaking animatedly, while the man in the white shirt is listening intently, suggesting that the phone is the focus of their discussion.",
+    "objects": [
+      "white",
+      "blue",
+      "phone",
+      "discussion",
+      "man",
+      "while",
+      "shirt",
+      "that"
+    ],
+    "actions": [
+      "listening",
+      "speaking",
+      "focus",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the blue shirt holds a phone, and the man in the white shirt points towards something in the air.",
+    "objects": [
+      "white",
+      "phone",
+      "blue",
+      "man",
+      "shirt",
+      "air"
+    ],
+    "actions": [
+      "something",
+      "towards",
+      "holds",
+      "points"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the blue shirt holds a phone, and the man in the white shirt points towards something in the air.",
+    "objects": [
+      "white",
+      "phone",
+      "blue",
+      "man",
+      "shirt",
+      "air"
+    ],
+    "actions": [
+      "something",
+      "towards",
+      "holds",
+      "points"
+    ],
+    "segment_id": 10
+  }
+]

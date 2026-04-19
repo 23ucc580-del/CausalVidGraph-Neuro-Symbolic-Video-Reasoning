@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a young boy with blonde hair and blue eyes is the main subject.",
+    "objects": [
+      "hair",
+      "blonde",
+      "boy",
+      "main",
+      "blue",
+      "young",
+      "this",
+      "subject"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a young boy with blonde hair and blue eyes is the main subject.",
+    "objects": [
+      "hair",
+      "blonde",
+      "boy",
+      "main",
+      "blue",
+      "young",
+      "this",
+      "subject"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a young boy with blonde hair and blue eyes is the main subject.",
+    "objects": [
+      "hair",
+      "blonde",
+      "boy",
+      "main",
+      "blue",
+      "young",
+      "this",
+      "subject"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "He is wearing a red hoodie and appears to be in a living room, standing in front of a window with a curtain and a lamp.",
+    "objects": [
+      "lamp",
+      "window",
+      "hoodie",
+      "curtain",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "living",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He is wearing a red hoodie and appears to be in a living room, standing in front of a window with a curtain and a lamp.",
+    "objects": [
+      "lamp",
+      "window",
+      "hoodie",
+      "curtain",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "living",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a red hoodie and appears to be in a living room, standing in front of a window with a curtain and a lamp.",
+    "objects": [
+      "lamp",
+      "window",
+      "hoodie",
+      "curtain",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "living",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He has blue food on his face and seems to be looking towards the camera with a smile.",
+    "objects": [
+      "face",
+      "blue",
+      "has",
+      "his",
+      "food",
+      "smile"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He has blue food on his face and seems to be looking towards the camera with a smile.",
+    "objects": [
+      "face",
+      "blue",
+      "has",
+      "his",
+      "food",
+      "smile"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He has blue food on his face and seems to be looking towards the camera with a smile.",
+    "objects": [
+      "face",
+      "blue",
+      "has",
+      "his",
+      "food",
+      "smile"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Behind him, there is a potted plant and a red ball.",
+    "objects": [
+      "behind",
+      "there",
+      "plant",
+      "him",
+      "ball"
+    ],
+    "actions": [
+      "potted",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Behind him, there is a potted plant and a red ball.",
+    "objects": [
+      "behind",
+      "there",
+      "plant",
+      "him",
+      "ball"
+    ],
+    "actions": [
+      "potted",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Behind him, there is a potted plant and a red ball.",
+    "objects": [
+      "behind",
+      "there",
+      "plant",
+      "him",
+      "ball"
+    ],
+    "actions": [
+      "potted",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "To the left of him, there is a person wearing a blue hoodie and a black jacket, holding a blue object in their hands.",
+    "objects": [
+      "their",
+      "there",
+      "black",
+      "him",
+      "blue",
+      "jacket",
+      "hoodie",
+      "object"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "To the left of him, there is a person wearing a blue hoodie and a black jacket, holding a blue object in their hands.",
+    "objects": [
+      "their",
+      "there",
+      "black",
+      "him",
+      "blue",
+      "jacket",
+      "hoodie",
+      "object"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "To the left of him, there is a person wearing a blue hoodie and a black jacket, holding a blue object in their hands.",
+    "objects": [
+      "their",
+      "there",
+      "black",
+      "him",
+      "blue",
+      "jacket",
+      "hoodie",
+      "object"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The person is not visible to the camera.",
+    "objects": [
+      "not"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The person is not visible to the camera.",
+    "objects": [
+      "not"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The person is not visible to the camera.",
+    "objects": [
+      "not"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy's smile seems to be directed towards them.",
+    "objects": [
+      "them",
+      "smile"
+    ],
+    "actions": [
+      "seems",
+      "boy's",
+      "towards",
+      "directed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy's smile seems to be directed towards them.",
+    "objects": [
+      "them",
+      "smile"
+    ],
+    "actions": [
+      "seems",
+      "boy's",
+      "towards",
+      "directed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The boy's smile seems to be directed towards them.",
+    "objects": [
+      "them",
+      "smile"
+    ],
+    "actions": [
+      "seems",
+      "boy's",
+      "towards",
+      "directed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "On the right side, there is a person wearing a red hoodie and a black jacket, holding a red object, and the person is not visible to the camera.",
+    "objects": [
+      "there",
+      "black",
+      "jacket",
+      "not",
+      "hoodie",
+      "side",
+      "object"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "On the right side, there is a person wearing a red hoodie and a black jacket, holding a red object, and the person is not visible to the camera.",
+    "objects": [
+      "there",
+      "black",
+      "jacket",
+      "not",
+      "hoodie",
+      "side",
+      "object"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "On the right side, there is a person wearing a red hoodie and a black jacket, holding a red object, and the person is not visible to the camera.",
+    "objects": [
+      "there",
+      "black",
+      "jacket",
+      "not",
+      "hoodie",
+      "side",
+      "object"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The boy appears to be enjoying the blue food on his face, and the camera angle suggests he is the main focus of the video.",
+    "objects": [
+      "boy",
+      "main",
+      "face",
+      "blue",
+      "his",
+      "food"
+    ],
+    "actions": [
+      "suggests",
+      "focus",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The boy appears to be enjoying the blue food on his face, and the camera angle suggests he is the main focus of the video.",
+    "objects": [
+      "boy",
+      "main",
+      "face",
+      "blue",
+      "his",
+      "food"
+    ],
+    "actions": [
+      "suggests",
+      "focus",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The boy appears to be enjoying the blue food on his face, and the camera angle suggests he is the main focus of the video.",
+    "objects": [
+      "boy",
+      "main",
+      "face",
+      "blue",
+      "his",
+      "food"
+    ],
+    "actions": [
+      "suggests",
+      "focus",
+      "enjoying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The room has a casual and comfortable atmosphere, with the curtains providing a soft lighting effect.",
+    "objects": [
+      "soft",
+      "casual",
+      "has",
+      "comfortable",
+      "room",
+      "effect",
+      "atmosphere"
+    ],
+    "actions": [
+      "providing",
+      "lighting",
+      "curtains"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The room has a casual and comfortable atmosphere, with the curtains providing a soft lighting effect.",
+    "objects": [
+      "soft",
+      "casual",
+      "has",
+      "comfortable",
+      "room",
+      "effect",
+      "atmosphere"
+    ],
+    "actions": [
+      "providing",
+      "lighting",
+      "curtains"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The room has a casual and comfortable atmosphere, with the curtains providing a soft lighting effect.",
+    "objects": [
+      "soft",
+      "casual",
+      "has",
+      "comfortable",
+      "room",
+      "effect",
+      "atmosphere"
+    ],
+    "actions": [
+      "providing",
+      "lighting",
+      "curtains"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The potted plant behind the boy adds a touch of nature to the indoor setting.",
+    "objects": [
+      "indoor",
+      "behind",
+      "boy",
+      "plant",
+      "touch",
+      "nature",
+      "adds"
+    ],
+    "actions": [
+      "potted",
+      "setting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The potted plant behind the boy adds a touch of nature to the indoor setting.",
+    "objects": [
+      "indoor",
+      "behind",
+      "boy",
+      "plant",
+      "touch",
+      "nature",
+      "adds"
+    ],
+    "actions": [
+      "potted",
+      "setting"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is standing on a stage, holding a guitar in his hands.",
+    "objects": [
+      "stage",
+      "man",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is standing on a stage, holding a guitar in his hands.",
+    "objects": [
+      "stage",
+      "man",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man is standing on a stage, holding a guitar in his hands.",
+    "objects": [
+      "stage",
+      "man",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man is standing on a stage, holding a guitar in his hands.",
+    "objects": [
+      "stage",
+      "man",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a man is standing on a stage, holding a guitar in his hands.",
+    "objects": [
+      "stage",
+      "man",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "hands",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a black shirt and appears to be singing into a microphone.",
+    "objects": [
+      "black",
+      "microphone",
+      "shirt",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is wearing a black shirt and appears to be singing into a microphone.",
+    "objects": [
+      "black",
+      "microphone",
+      "shirt",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is wearing a black shirt and appears to be singing into a microphone.",
+    "objects": [
+      "black",
+      "microphone",
+      "shirt",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is wearing a black shirt and appears to be singing into a microphone.",
+    "objects": [
+      "black",
+      "microphone",
+      "shirt",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "He is wearing a black shirt and appears to be singing into a microphone.",
+    "objects": [
+      "black",
+      "microphone",
+      "shirt",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "Behind him, there is a music stand with a black guitar amp on it.",
+    "objects": [
+      "behind",
+      "there",
+      "amp",
+      "stand",
+      "black",
+      "him",
+      "guitar",
+      "music"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Behind him, there is a music stand with a black guitar amp on it.",
+    "objects": [
+      "behind",
+      "there",
+      "amp",
+      "stand",
+      "black",
+      "him",
+      "guitar",
+      "music"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Behind him, there is a music stand with a black guitar amp on it.",
+    "objects": [
+      "behind",
+      "there",
+      "amp",
+      "stand",
+      "black",
+      "him",
+      "guitar",
+      "music"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "Behind him, there is a music stand with a black guitar amp on it.",
+    "objects": [
+      "behind",
+      "there",
+      "amp",
+      "stand",
+      "black",
+      "him",
+      "guitar",
+      "music"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "Behind him, there is a music stand with a black guitar amp on it.",
+    "objects": [
+      "behind",
+      "there",
+      "amp",
+      "stand",
+      "black",
+      "him",
+      "guitar",
+      "music"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, there is a drummer playing a set of drums, wearing a white shirt and black pants.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "drummer",
+      "shirt",
+      "set"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "pants",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, there is a drummer playing a set of drums, wearing a white shirt and black pants.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "drummer",
+      "shirt",
+      "set"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "pants",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, there is a drummer playing a set of drums, wearing a white shirt and black pants.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "drummer",
+      "shirt",
+      "set"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "pants",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, there is a drummer playing a set of drums, wearing a white shirt and black pants.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "drummer",
+      "shirt",
+      "set"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "pants",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, there is a drummer playing a set of drums, wearing a white shirt and black pants.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "drummer",
+      "shirt",
+      "set"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "pants",
+      "drums"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman is also present, wearing a white shirt and holding a microphone.",
+    "objects": [
+      "white",
+      "woman",
+      "microphone",
+      "shirt",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman is also present, wearing a white shirt and holding a microphone.",
+    "objects": [
+      "white",
+      "woman",
+      "microphone",
+      "shirt",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman is also present, wearing a white shirt and holding a microphone.",
+    "objects": [
+      "white",
+      "woman",
+      "microphone",
+      "shirt",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman is also present, wearing a white shirt and holding a microphone.",
+    "objects": [
+      "white",
+      "woman",
+      "microphone",
+      "shirt",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "A woman is also present, wearing a white shirt and holding a microphone.",
+    "objects": [
+      "white",
+      "woman",
+      "microphone",
+      "shirt",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "She is standing on the right side of the stage, seemingly singing or speaking into the microphone as well.",
+    "objects": [
+      "she",
+      "into",
+      "microphone",
+      "well",
+      "seemingly",
+      "side",
+      "stage"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "She is standing on the right side of the stage, seemingly singing or speaking into the microphone as well.",
+    "objects": [
+      "she",
+      "into",
+      "microphone",
+      "well",
+      "seemingly",
+      "side",
+      "stage"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "She is standing on the right side of the stage, seemingly singing or speaking into the microphone as well.",
+    "objects": [
+      "she",
+      "into",
+      "microphone",
+      "well",
+      "seemingly",
+      "side",
+      "stage"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "She is standing on the right side of the stage, seemingly singing or speaking into the microphone as well.",
+    "objects": [
+      "she",
+      "into",
+      "microphone",
+      "well",
+      "seemingly",
+      "side",
+      "stage"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "She is standing on the right side of the stage, seemingly singing or speaking into the microphone as well.",
+    "objects": [
+      "she",
+      "into",
+      "microphone",
+      "well",
+      "seemingly",
+      "side",
+      "stage"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The stage has a black background with a spotlight shining down on the performers.",
+    "objects": [
+      "stage",
+      "black",
+      "spotlight",
+      "has"
+    ],
+    "actions": [
+      "shining",
+      "performers"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The stage has a black background with a spotlight shining down on the performers.",
+    "objects": [
+      "stage",
+      "black",
+      "spotlight",
+      "has"
+    ],
+    "actions": [
+      "shining",
+      "performers"
+    ],
+    "segment_id": 6
+  }
+]

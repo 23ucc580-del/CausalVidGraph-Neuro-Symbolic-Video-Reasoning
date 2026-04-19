@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered on a stage.",
+    "objects": [
+      "stage",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered on a stage.",
+    "objects": [
+      "stage",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are gathered on a stage.",
+    "objects": [
+      "stage",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people are gathered on a stage.",
+    "objects": [
+      "stage",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman in a light blue hoodie is speaking to the audience, her voice loud and clear, while a man in a black shirt stands behind her, attentively listening.",
+    "objects": [
+      "attentively",
+      "behind",
+      "loud",
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "audience"
+    ],
+    "actions": [
+      "listening",
+      "speaking",
+      "stands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A woman in a light blue hoodie is speaking to the audience, her voice loud and clear, while a man in a black shirt stands behind her, attentively listening.",
+    "objects": [
+      "attentively",
+      "behind",
+      "loud",
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "audience"
+    ],
+    "actions": [
+      "listening",
+      "speaking",
+      "stands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman in a light blue hoodie is speaking to the audience, her voice loud and clear, while a man in a black shirt stands behind her, attentively listening.",
+    "objects": [
+      "attentively",
+      "behind",
+      "loud",
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "audience"
+    ],
+    "actions": [
+      "listening",
+      "speaking",
+      "stands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman in a light blue hoodie is speaking to the audience, her voice loud and clear, while a man in a black shirt stands behind her, attentively listening.",
+    "objects": [
+      "attentively",
+      "behind",
+      "loud",
+      "woman",
+      "while",
+      "black",
+      "blue",
+      "audience"
+    ],
+    "actions": [
+      "listening",
+      "speaking",
+      "stands"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Nearby, a woman in a pink shirt is holding a snake, her hand gently cradling the reptile's body.",
+    "objects": [
+      "body",
+      "pink",
+      "woman",
+      "shirt",
+      "snake",
+      "her",
+      "gently",
+      "nearby"
+    ],
+    "actions": [
+      "reptile's",
+      "cradling",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Nearby, a woman in a pink shirt is holding a snake, her hand gently cradling the reptile's body.",
+    "objects": [
+      "body",
+      "pink",
+      "woman",
+      "shirt",
+      "snake",
+      "her",
+      "gently",
+      "nearby"
+    ],
+    "actions": [
+      "reptile's",
+      "cradling",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Nearby, a woman in a pink shirt is holding a snake, her hand gently cradling the reptile's body.",
+    "objects": [
+      "body",
+      "pink",
+      "woman",
+      "shirt",
+      "snake",
+      "her",
+      "gently",
+      "nearby"
+    ],
+    "actions": [
+      "reptile's",
+      "cradling",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Nearby, a woman in a pink shirt is holding a snake, her hand gently cradling the reptile's body.",
+    "objects": [
+      "body",
+      "pink",
+      "woman",
+      "shirt",
+      "snake",
+      "her",
+      "gently",
+      "nearby"
+    ],
+    "actions": [
+      "reptile's",
+      "cradling",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man in a green shirt stands nearby, his gaze fixed on the woman's speech, while a woman in a purple shirt stands behind him, her attention seemingly drawn elsewhere.",
+    "objects": [
+      "behind",
+      "attention",
+      "woman",
+      "while",
+      "gaze",
+      "him",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "fixed",
+      "woman's",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man in a green shirt stands nearby, his gaze fixed on the woman's speech, while a woman in a purple shirt stands behind him, her attention seemingly drawn elsewhere.",
+    "objects": [
+      "behind",
+      "attention",
+      "woman",
+      "while",
+      "gaze",
+      "him",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "fixed",
+      "woman's",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another man in a green shirt stands nearby, his gaze fixed on the woman's speech, while a woman in a purple shirt stands behind him, her attention seemingly drawn elsewhere.",
+    "objects": [
+      "behind",
+      "attention",
+      "woman",
+      "while",
+      "gaze",
+      "him",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "fixed",
+      "woman's",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another man in a green shirt stands nearby, his gaze fixed on the woman's speech, while a woman in a purple shirt stands behind him, her attention seemingly drawn elsewhere.",
+    "objects": [
+      "behind",
+      "attention",
+      "woman",
+      "while",
+      "gaze",
+      "him",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "fixed",
+      "woman's",
+      "stands"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The audience, a mix of people, watches the performance with varying degrees of interest.",
+    "objects": [
+      "people",
+      "audience",
+      "performance",
+      "mix",
+      "interest"
+    ],
+    "actions": [
+      "degrees",
+      "varying",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The audience, a mix of people, watches the performance with varying degrees of interest.",
+    "objects": [
+      "people",
+      "audience",
+      "performance",
+      "mix",
+      "interest"
+    ],
+    "actions": [
+      "degrees",
+      "varying",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The audience, a mix of people, watches the performance with varying degrees of interest.",
+    "objects": [
+      "people",
+      "audience",
+      "performance",
+      "mix",
+      "interest"
+    ],
+    "actions": [
+      "degrees",
+      "varying",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The audience, a mix of people, watches the performance with varying degrees of interest.",
+    "objects": [
+      "people",
+      "audience",
+      "performance",
+      "mix",
+      "interest"
+    ],
+    "actions": [
+      "degrees",
+      "varying",
+      "watches"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Some stand close to the stage, while others sit further back, all focused on the performance.",
+    "objects": [
+      "sit",
+      "stand",
+      "while",
+      "further",
+      "performance",
+      "some",
+      "stage",
+      "close"
+    ],
+    "actions": [
+      "focused",
+      "others"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Some stand close to the stage, while others sit further back, all focused on the performance.",
+    "objects": [
+      "sit",
+      "stand",
+      "while",
+      "further",
+      "performance",
+      "some",
+      "stage",
+      "close"
+    ],
+    "actions": [
+      "focused",
+      "others"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Some stand close to the stage, while others sit further back, all focused on the performance.",
+    "objects": [
+      "sit",
+      "stand",
+      "while",
+      "further",
+      "performance",
+      "some",
+      "stage",
+      "close"
+    ],
+    "actions": [
+      "focused",
+      "others"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Some stand close to the stage, while others sit further back, all focused on the performance.",
+    "objects": [
+      "sit",
+      "stand",
+      "while",
+      "further",
+      "performance",
+      "some",
+      "stage",
+      "close"
+    ],
+    "actions": [
+      "focused",
+      "others"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The stage is adorned with a black curtain, and the lighting is dim, casting a warm glow on the scene.",
+    "objects": [
+      "black",
+      "dim",
+      "warm",
+      "curtain",
+      "glow",
+      "stage"
+    ],
+    "actions": [
+      "adorned",
+      "lighting",
+      "casting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The stage is adorned with a black curtain, and the lighting is dim, casting a warm glow on the scene.",
+    "objects": [
+      "black",
+      "dim",
+      "warm",
+      "curtain",
+      "glow",
+      "stage"
+    ],
+    "actions": [
+      "adorned",
+      "lighting",
+      "casting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The stage is adorned with a black curtain, and the lighting is dim, casting a warm glow on the scene.",
+    "objects": [
+      "black",
+      "dim",
+      "warm",
+      "curtain",
+      "glow",
+      "stage"
+    ],
+    "actions": [
+      "adorned",
+      "lighting",
+      "casting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The stage is adorned with a black curtain, and the lighting is dim, casting a warm glow on the scene.",
+    "objects": [
+      "black",
+      "dim",
+      "warm",
+      "curtain",
+      "glow",
+      "stage"
+    ],
+    "actions": [
+      "adorned",
+      "lighting",
+      "casting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The atmosphere is one of anticipation and engagement, as the audience watches the woman's performance with bated breath.",
+    "objects": [
+      "one",
+      "anticipation",
+      "audience",
+      "performance",
+      "breath",
+      "engagement",
+      "atmosphere"
+    ],
+    "actions": [
+      "woman's",
+      "watches",
+      "bated"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The atmosphere is one of anticipation and engagement, as the audience watches the woman's performance with bated breath.",
+    "objects": [
+      "one",
+      "anticipation",
+      "audience",
+      "performance",
+      "breath",
+      "engagement",
+      "atmosphere"
+    ],
+    "actions": [
+      "woman's",
+      "watches",
+      "bated"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The atmosphere is one of anticipation and engagement, as the audience watches the woman's performance with bated breath.",
+    "objects": [
+      "one",
+      "anticipation",
+      "audience",
+      "performance",
+      "breath",
+      "engagement",
+      "atmosphere"
+    ],
+    "actions": [
+      "woman's",
+      "watches",
+      "bated"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The atmosphere is one of anticipation and engagement, as the audience watches the woman's performance with bated breath.",
+    "objects": [
+      "one",
+      "anticipation",
+      "audience",
+      "performance",
+      "breath",
+      "engagement",
+      "atmosphere"
+    ],
+    "actions": [
+      "woman's",
+      "watches",
+      "bated"
+    ],
+    "segment_id": 7
+  }
+]

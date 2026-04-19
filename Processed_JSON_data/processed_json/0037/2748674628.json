@@ -1,0 +1,572 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a view of a table with a laptop on it, accompanied by a blue mug.",
+    "objects": [
+      "laptop",
+      "table",
+      "mug",
+      "blue"
+    ],
+    "actions": [
+      "begins",
+      "accompanied"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a view of a table with a laptop on it, accompanied by a blue mug.",
+    "objects": [
+      "laptop",
+      "table",
+      "mug",
+      "blue"
+    ],
+    "actions": [
+      "begins",
+      "accompanied"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "A man is seated at the table, wearing a blue hoodie and smiling.",
+    "objects": [
+      "table",
+      "hoodie",
+      "blue",
+      "man"
+    ],
+    "actions": [
+      "seated",
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "A man is seated at the table, wearing a blue hoodie and smiling.",
+    "objects": [
+      "table",
+      "hoodie",
+      "blue",
+      "man"
+    ],
+    "actions": [
+      "seated",
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "He appears to be working or studying on the laptop, which is open.",
+    "objects": [
+      "laptop",
+      "which",
+      "open"
+    ],
+    "actions": [
+      "working",
+      "studying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "He appears to be working or studying on the laptop, which is open.",
+    "objects": [
+      "laptop",
+      "which",
+      "open"
+    ],
+    "actions": [
+      "working",
+      "studying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The setting seems to be a public space, possibly a cafe or a shared workspace.",
+    "objects": [
+      "space",
+      "workspace",
+      "cafe",
+      "possibly",
+      "public"
+    ],
+    "actions": [
+      "setting",
+      "shared",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The setting seems to be a public space, possibly a cafe or a shared workspace.",
+    "objects": [
+      "space",
+      "workspace",
+      "cafe",
+      "possibly",
+      "public"
+    ],
+    "actions": [
+      "setting",
+      "shared",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The laptop is on and the screen displays a notification, suggesting that the man is either working on a task or waiting for a response.",
+    "objects": [
+      "screen",
+      "laptop",
+      "task",
+      "response",
+      "man",
+      "that",
+      "either",
+      "notification"
+    ],
+    "actions": [
+      "displays",
+      "working",
+      "waiting",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The laptop is on and the screen displays a notification, suggesting that the man is either working on a task or waiting for a response.",
+    "objects": [
+      "screen",
+      "laptop",
+      "task",
+      "response",
+      "man",
+      "that",
+      "either",
+      "notification"
+    ],
+    "actions": [
+      "displays",
+      "working",
+      "waiting",
+      "suggesting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then pans around to show other people in the vicinity, including a woman walking nearby, who seems to be carrying a handbag.",
+    "objects": [
+      "show",
+      "nearby",
+      "handbag",
+      "vicinity",
+      "then",
+      "who",
+      "other",
+      "woman"
+    ],
+    "actions": [
+      "carrying",
+      "walking",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then pans around to show other people in the vicinity, including a woman walking nearby, who seems to be carrying a handbag.",
+    "objects": [
+      "show",
+      "nearby",
+      "handbag",
+      "vicinity",
+      "then",
+      "who",
+      "other",
+      "woman"
+    ],
+    "actions": [
+      "carrying",
+      "walking",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The man and woman are both dressed in casual attire, with the woman wearing a dress and the man in a hoodie.",
+    "objects": [
+      "dress",
+      "both",
+      "man",
+      "attire",
+      "woman",
+      "casual",
+      "hoodie"
+    ],
+    "actions": [
+      "dressed",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The man and woman are both dressed in casual attire, with the woman wearing a dress and the man in a hoodie.",
+    "objects": [
+      "dress",
+      "both",
+      "man",
+      "attire",
+      "woman",
+      "casual",
+      "hoodie"
+    ],
+    "actions": [
+      "dressed",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "There is also a man wearing a blue hoodie who is seen sitting at a table in the background.",
+    "objects": [
+      "blue",
+      "table",
+      "man",
+      "there",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "There is also a man wearing a blue hoodie who is seen sitting at a table in the background.",
+    "objects": [
+      "blue",
+      "table",
+      "man",
+      "there",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman in a bikini top is seen walking past the camera, which adds a casual and relaxed vibe to the scene.",
+    "objects": [
+      "top",
+      "adds",
+      "past",
+      "bikini",
+      "which",
+      "woman",
+      "casual",
+      "vibe"
+    ],
+    "actions": [
+      "walking",
+      "relaxed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman in a bikini top is seen walking past the camera, which adds a casual and relaxed vibe to the scene.",
+    "objects": [
+      "top",
+      "adds",
+      "past",
+      "bikini",
+      "which",
+      "woman",
+      "casual",
+      "vibe"
+    ],
+    "actions": [
+      "walking",
+      "relaxed"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then pans to a man sitting at a table, holding a blue mug, dressed in a blue hoodie, and smiling.",
+    "objects": [
+      "blue",
+      "then",
+      "table",
+      "man",
+      "mug",
+      "hoodie",
+      "pans"
+    ],
+    "actions": [
+      "dressed",
+      "sitting",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then pans to a man sitting at a table, holding a blue mug, dressed in a blue hoodie, and smiling.",
+    "objects": [
+      "blue",
+      "then",
+      "table",
+      "man",
+      "mug",
+      "hoodie",
+      "pans"
+    ],
+    "actions": [
+      "dressed",
+      "sitting",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "There is another man wearing a blue hoodie seated at a table, looking at his phone.",
+    "objects": [
+      "blue",
+      "table",
+      "phone",
+      "man",
+      "there",
+      "hoodie",
+      "his"
+    ],
+    "actions": [
+      "seated",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "There is another man wearing a blue hoodie seated at a table, looking at his phone.",
+    "objects": [
+      "blue",
+      "table",
+      "phone",
+      "man",
+      "there",
+      "hoodie",
+      "his"
+    ],
+    "actions": [
+      "seated",
+      "looking",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then shifts to a view of a man in a blue hoodie, standing and talking to someone, with a woman in a dress walking by.",
+    "objects": [
+      "blue",
+      "then",
+      "someone",
+      "dress",
+      "man",
+      "woman",
+      "hoodie"
+    ],
+    "actions": [
+      "shifts",
+      "standing",
+      "walking",
+      "talking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then shifts to a view of a man in a blue hoodie, standing and talking to someone, with a woman in a dress walking by.",
+    "objects": [
+      "blue",
+      "then",
+      "someone",
+      "dress",
+      "man",
+      "woman",
+      "hoodie"
+    ],
+    "actions": [
+      "shifts",
+      "standing",
+      "walking",
+      "talking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is wearing a blue hoodie and appears to be engaged in a conversation with the woman.",
+    "objects": [
+      "blue",
+      "man",
+      "woman",
+      "conversation",
+      "hoodie"
+    ],
+    "actions": [
+      "engaged",
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is wearing a blue hoodie and appears to be engaged in a conversation with the woman.",
+    "objects": [
+      "blue",
+      "man",
+      "woman",
+      "conversation",
+      "hoodie"
+    ],
+    "actions": [
+      "engaged",
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then shifts to a woman in a bikini top walking by, who is also in a blue hoodie.",
+    "objects": [
+      "blue",
+      "top",
+      "then",
+      "bikini",
+      "woman",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "shifts",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then shifts to a woman in a bikini top walking by, who is also in a blue hoodie.",
+    "objects": [
+      "blue",
+      "top",
+      "then",
+      "bikini",
+      "woman",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "shifts",
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the blue hoodie is seen walking past the camera, with a woman in a dress walking by.",
+    "objects": [
+      "blue",
+      "dress",
+      "man",
+      "past",
+      "woman",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the blue hoodie is seen walking past the camera, with a woman in a dress walking by.",
+    "objects": [
+      "blue",
+      "dress",
+      "man",
+      "past",
+      "woman",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera then pans to a man sitting at a table, holding a blue mug and wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "then",
+      "table",
+      "man",
+      "mug",
+      "hoodie",
+      "pans"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera then pans to a man sitting at a table, holding a blue mug and wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "then",
+      "table",
+      "man",
+      "mug",
+      "hoodie",
+      "pans"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 15
+  }
+]

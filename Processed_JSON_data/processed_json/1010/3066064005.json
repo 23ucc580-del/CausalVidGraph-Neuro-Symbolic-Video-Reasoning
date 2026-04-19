@@ -1,0 +1,606 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively gathering of three women in a cozy living room, possibly a family home, with a piano in the background.",
+    "objects": [
+      "three",
+      "home",
+      "possibly",
+      "lively",
+      "family",
+      "cozy",
+      "room",
+      "women"
+    ],
+    "actions": [
+      "living",
+      "depicts",
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively gathering of three women in a cozy living room, possibly a family home, with a piano in the background.",
+    "objects": [
+      "three",
+      "home",
+      "possibly",
+      "lively",
+      "family",
+      "cozy",
+      "room",
+      "women"
+    ],
+    "actions": [
+      "living",
+      "depicts",
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively gathering of three women in a cozy living room, possibly a family home, with a piano in the background.",
+    "objects": [
+      "three",
+      "home",
+      "possibly",
+      "lively",
+      "family",
+      "cozy",
+      "room",
+      "women"
+    ],
+    "actions": [
+      "living",
+      "depicts",
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively gathering of three women in a cozy living room, possibly a family home, with a piano in the background.",
+    "objects": [
+      "three",
+      "home",
+      "possibly",
+      "lively",
+      "family",
+      "cozy",
+      "room",
+      "women"
+    ],
+    "actions": [
+      "living",
+      "depicts",
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The atmosphere is warm and intimate, with soft lighting and a wooden floor.",
+    "objects": [
+      "soft",
+      "intimate",
+      "warm",
+      "wooden",
+      "floor",
+      "atmosphere"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The atmosphere is warm and intimate, with soft lighting and a wooden floor.",
+    "objects": [
+      "soft",
+      "intimate",
+      "warm",
+      "wooden",
+      "floor",
+      "atmosphere"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The atmosphere is warm and intimate, with soft lighting and a wooden floor.",
+    "objects": [
+      "soft",
+      "intimate",
+      "warm",
+      "wooden",
+      "floor",
+      "atmosphere"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The atmosphere is warm and intimate, with soft lighting and a wooden floor.",
+    "objects": [
+      "soft",
+      "intimate",
+      "warm",
+      "wooden",
+      "floor",
+      "atmosphere"
+    ],
+    "actions": [
+      "lighting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The room is decorated with various decorative items including a large, cartoonish poster of a man in a suit and tie and a smaller poster of a woman in a red dress, both leaning against a wall.",
+    "objects": [
+      "large",
+      "wall",
+      "poster",
+      "both",
+      "suit",
+      "woman",
+      "decorative",
+      "smaller"
+    ],
+    "actions": [
+      "red",
+      "decorated",
+      "items",
+      "leaning"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The room is decorated with various decorative items including a large, cartoonish poster of a man in a suit and tie and a smaller poster of a woman in a red dress, both leaning against a wall.",
+    "objects": [
+      "large",
+      "wall",
+      "poster",
+      "both",
+      "suit",
+      "woman",
+      "decorative",
+      "smaller"
+    ],
+    "actions": [
+      "red",
+      "decorated",
+      "items",
+      "leaning"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The room is decorated with various decorative items including a large, cartoonish poster of a man in a suit and tie and a smaller poster of a woman in a red dress, both leaning against a wall.",
+    "objects": [
+      "large",
+      "wall",
+      "poster",
+      "both",
+      "suit",
+      "woman",
+      "decorative",
+      "smaller"
+    ],
+    "actions": [
+      "red",
+      "decorated",
+      "items",
+      "leaning"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The room is decorated with various decorative items including a large, cartoonish poster of a man in a suit and tie and a smaller poster of a woman in a red dress, both leaning against a wall.",
+    "objects": [
+      "large",
+      "wall",
+      "poster",
+      "both",
+      "suit",
+      "woman",
+      "decorative",
+      "smaller"
+    ],
+    "actions": [
+      "red",
+      "decorated",
+      "items",
+      "leaning"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "One woman is wearing a red jacket, the second is in a blue sweater, and the third is in a black top.",
+    "objects": [
+      "one",
+      "woman",
+      "jacket",
+      "black",
+      "blue",
+      "sweater",
+      "top",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "One woman is wearing a red jacket, the second is in a blue sweater, and the third is in a black top.",
+    "objects": [
+      "one",
+      "woman",
+      "jacket",
+      "black",
+      "blue",
+      "sweater",
+      "top",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "One woman is wearing a red jacket, the second is in a blue sweater, and the third is in a black top.",
+    "objects": [
+      "one",
+      "woman",
+      "jacket",
+      "black",
+      "blue",
+      "sweater",
+      "top",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "One woman is wearing a red jacket, the second is in a blue sweater, and the third is in a black top.",
+    "objects": [
+      "one",
+      "woman",
+      "jacket",
+      "black",
+      "blue",
+      "sweater",
+      "top",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They are engaged in conversation, smiling and laughing, suggesting a joyful interaction.",
+    "objects": [
+      "they",
+      "conversation",
+      "joyful",
+      "interaction"
+    ],
+    "actions": [
+      "laughing",
+      "engaged",
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "They are engaged in conversation, smiling and laughing, suggesting a joyful interaction.",
+    "objects": [
+      "they",
+      "conversation",
+      "joyful",
+      "interaction"
+    ],
+    "actions": [
+      "laughing",
+      "engaged",
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "They are engaged in conversation, smiling and laughing, suggesting a joyful interaction.",
+    "objects": [
+      "they",
+      "conversation",
+      "joyful",
+      "interaction"
+    ],
+    "actions": [
+      "laughing",
+      "engaged",
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "They are engaged in conversation, smiling and laughing, suggesting a joyful interaction.",
+    "objects": [
+      "they",
+      "conversation",
+      "joyful",
+      "interaction"
+    ],
+    "actions": [
+      "laughing",
+      "engaged",
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A younger woman in a blue sweater is holding a glass of wine, and another woman in a black shirt is holding a plate of food.",
+    "objects": [
+      "younger",
+      "woman",
+      "black",
+      "blue",
+      "sweater",
+      "shirt",
+      "plate",
+      "wine"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A younger woman in a blue sweater is holding a glass of wine, and another woman in a black shirt is holding a plate of food.",
+    "objects": [
+      "younger",
+      "woman",
+      "black",
+      "blue",
+      "sweater",
+      "shirt",
+      "plate",
+      "wine"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A younger woman in a blue sweater is holding a glass of wine, and another woman in a black shirt is holding a plate of food.",
+    "objects": [
+      "younger",
+      "woman",
+      "black",
+      "blue",
+      "sweater",
+      "shirt",
+      "plate",
+      "wine"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A younger woman in a blue sweater is holding a glass of wine, and another woman in a black shirt is holding a plate of food.",
+    "objects": [
+      "younger",
+      "woman",
+      "black",
+      "blue",
+      "sweater",
+      "shirt",
+      "plate",
+      "wine"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "One woman is wearing a red dress and sitting at a table, while a woman in a black jacket is standing at a different table, and another woman in a red dress is standing in the room.",
+    "objects": [
+      "one",
+      "room",
+      "table",
+      "woman",
+      "while",
+      "black",
+      "jacket",
+      "different"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "One woman is wearing a red dress and sitting at a table, while a woman in a black jacket is standing at a different table, and another woman in a red dress is standing in the room.",
+    "objects": [
+      "one",
+      "room",
+      "table",
+      "woman",
+      "while",
+      "black",
+      "jacket",
+      "different"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "One woman is wearing a red dress and sitting at a table, while a woman in a black jacket is standing at a different table, and another woman in a red dress is standing in the room.",
+    "objects": [
+      "one",
+      "room",
+      "table",
+      "woman",
+      "while",
+      "black",
+      "jacket",
+      "different"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "One woman is wearing a red dress and sitting at a table, while a woman in a black jacket is standing at a different table, and another woman in a red dress is standing in the room.",
+    "objects": [
+      "one",
+      "room",
+      "table",
+      "woman",
+      "while",
+      "black",
+      "jacket",
+      "different"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "There are multiple objects in the scene such as a wine glass, a plate of food, a wine bottle, and a bowl, which contribute to the homely and comfortable setting.",
+    "objects": [
+      "contribute",
+      "there",
+      "bottle",
+      "bowl",
+      "multiple",
+      "comfortable",
+      "plate",
+      "which"
+    ],
+    "actions": [
+      "objects",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "There are multiple objects in the scene such as a wine glass, a plate of food, a wine bottle, and a bowl, which contribute to the homely and comfortable setting.",
+    "objects": [
+      "contribute",
+      "there",
+      "bottle",
+      "bowl",
+      "multiple",
+      "comfortable",
+      "plate",
+      "which"
+    ],
+    "actions": [
+      "objects",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "There are multiple objects in the scene such as a wine glass, a plate of food, a wine bottle, and a bowl, which contribute to the homely and comfortable setting.",
+    "objects": [
+      "contribute",
+      "there",
+      "bottle",
+      "bowl",
+      "multiple",
+      "comfortable",
+      "plate",
+      "which"
+    ],
+    "actions": [
+      "objects",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "There are multiple objects in the scene such as a wine glass, a plate of food, a wine bottle, and a bowl, which contribute to the homely and comfortable setting.",
+    "objects": [
+      "contribute",
+      "there",
+      "bottle",
+      "bowl",
+      "multiple",
+      "comfortable",
+      "plate",
+      "which"
+    ],
+    "actions": [
+      "objects",
+      "setting"
+    ],
+    "segment_id": 7
+  }
+]

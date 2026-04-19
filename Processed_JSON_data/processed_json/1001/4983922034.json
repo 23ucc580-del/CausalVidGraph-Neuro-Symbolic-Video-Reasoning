@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a group of people and their dogs walking along a snow-covered road.",
+    "objects": [
+      "their",
+      "along",
+      "people",
+      "dogs",
+      "road",
+      "group"
+    ],
+    "actions": [
+      "snow-covered",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a group of people and their dogs walking along a snow-covered road.",
+    "objects": [
+      "their",
+      "along",
+      "people",
+      "dogs",
+      "road",
+      "group"
+    ],
+    "actions": [
+      "snow-covered",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a group of people and their dogs walking along a snow-covered road.",
+    "objects": [
+      "their",
+      "along",
+      "people",
+      "dogs",
+      "road",
+      "group"
+    ],
+    "actions": [
+      "snow-covered",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video shows a group of people and their dogs walking along a snow-covered road.",
+    "objects": [
+      "their",
+      "along",
+      "people",
+      "dogs",
+      "road",
+      "group"
+    ],
+    "actions": [
+      "snow-covered",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is serene and quiet, with the dogs frolicking in the snow and the people enjoying the outdoors.",
+    "objects": [
+      "snow",
+      "people",
+      "serene",
+      "quiet",
+      "dogs"
+    ],
+    "actions": [
+      "outdoors",
+      "enjoying",
+      "frolicking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is serene and quiet, with the dogs frolicking in the snow and the people enjoying the outdoors.",
+    "objects": [
+      "snow",
+      "people",
+      "serene",
+      "quiet",
+      "dogs"
+    ],
+    "actions": [
+      "outdoors",
+      "enjoying",
+      "frolicking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene is serene and quiet, with the dogs frolicking in the snow and the people enjoying the outdoors.",
+    "objects": [
+      "snow",
+      "people",
+      "serene",
+      "quiet",
+      "dogs"
+    ],
+    "actions": [
+      "outdoors",
+      "enjoying",
+      "frolicking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene is serene and quiet, with the dogs frolicking in the snow and the people enjoying the outdoors.",
+    "objects": [
+      "snow",
+      "people",
+      "serene",
+      "quiet",
+      "dogs"
+    ],
+    "actions": [
+      "outdoors",
+      "enjoying",
+      "frolicking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "In the foreground, we see a man walking on the road with a dog, while another man and his dog are walking on the snow-covered road in the background.",
+    "objects": [
+      "while",
+      "see",
+      "dog",
+      "his",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "snow-covered",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the foreground, we see a man walking on the road with a dog, while another man and his dog are walking on the snow-covered road in the background.",
+    "objects": [
+      "while",
+      "see",
+      "dog",
+      "his",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "snow-covered",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "In the foreground, we see a man walking on the road with a dog, while another man and his dog are walking on the snow-covered road in the background.",
+    "objects": [
+      "while",
+      "see",
+      "dog",
+      "his",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "snow-covered",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "In the foreground, we see a man walking on the road with a dog, while another man and his dog are walking on the snow-covered road in the background.",
+    "objects": [
+      "while",
+      "see",
+      "dog",
+      "his",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "snow-covered",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in the foreground is wearing a blue hoodie and a red hat, and he is holding a leash with a dog in his hand.",
+    "objects": [
+      "blue",
+      "leash",
+      "dog",
+      "hat",
+      "hoodie",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in the foreground is wearing a blue hoodie and a red hat, and he is holding a leash with a dog in his hand.",
+    "objects": [
+      "blue",
+      "leash",
+      "dog",
+      "hat",
+      "hoodie",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the foreground is wearing a blue hoodie and a red hat, and he is holding a leash with a dog in his hand.",
+    "objects": [
+      "blue",
+      "leash",
+      "dog",
+      "hat",
+      "hoodie",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the foreground is wearing a blue hoodie and a red hat, and he is holding a leash with a dog in his hand.",
+    "objects": [
+      "blue",
+      "leash",
+      "dog",
+      "hat",
+      "hoodie",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the background is wearing a blue jacket and also holding a leash with a dog in his hand.",
+    "objects": [
+      "jacket",
+      "blue",
+      "leash",
+      "dog",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the background is wearing a blue jacket and also holding a leash with a dog in his hand.",
+    "objects": [
+      "jacket",
+      "blue",
+      "leash",
+      "dog",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the background is wearing a blue jacket and also holding a leash with a dog in his hand.",
+    "objects": [
+      "jacket",
+      "blue",
+      "leash",
+      "dog",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the background is wearing a blue jacket and also holding a leash with a dog in his hand.",
+    "objects": [
+      "jacket",
+      "blue",
+      "leash",
+      "dog",
+      "his",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The dogs are brown and black in color, and they seem to be having a great time running and playing in the snow.",
+    "objects": [
+      "they",
+      "snow",
+      "black",
+      "great",
+      "color",
+      "seem",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "playing",
+      "having",
+      "running"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The dogs are brown and black in color, and they seem to be having a great time running and playing in the snow.",
+    "objects": [
+      "they",
+      "snow",
+      "black",
+      "great",
+      "color",
+      "seem",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "playing",
+      "having",
+      "running"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The dogs are brown and black in color, and they seem to be having a great time running and playing in the snow.",
+    "objects": [
+      "they",
+      "snow",
+      "black",
+      "great",
+      "color",
+      "seem",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "playing",
+      "having",
+      "running"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The dogs are brown and black in color, and they seem to be having a great time running and playing in the snow.",
+    "objects": [
+      "they",
+      "snow",
+      "black",
+      "great",
+      "color",
+      "seem",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "playing",
+      "having",
+      "running"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The road is surrounded by trees and bushes, and there is a car parked on the side of the road.",
+    "objects": [
+      "road",
+      "there",
+      "car",
+      "side"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "bushes",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The road is surrounded by trees and bushes, and there is a car parked on the side of the road.",
+    "objects": [
+      "road",
+      "there",
+      "car",
+      "side"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "bushes",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The road is surrounded by trees and bushes, and there is a car parked on the side of the road.",
+    "objects": [
+      "road",
+      "there",
+      "car",
+      "side"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "bushes",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The road is surrounded by trees and bushes, and there is a car parked on the side of the road.",
+    "objects": [
+      "road",
+      "there",
+      "car",
+      "side"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "bushes",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The dogs appear to be playing and having a good time in the snow.",
+    "objects": [
+      "appear",
+      "good",
+      "snow",
+      "dogs",
+      "time"
+    ],
+    "actions": [
+      "playing",
+      "having"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The dogs appear to be playing and having a good time in the snow.",
+    "objects": [
+      "appear",
+      "good",
+      "snow",
+      "dogs",
+      "time"
+    ],
+    "actions": [
+      "playing",
+      "having"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The dogs appear to be playing and having a good time in the snow.",
+    "objects": [
+      "appear",
+      "good",
+      "snow",
+      "dogs",
+      "time"
+    ],
+    "actions": [
+      "playing",
+      "having"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The dogs appear to be playing and having a good time in the snow.",
+    "objects": [
+      "appear",
+      "good",
+      "snow",
+      "dogs",
+      "time"
+    ],
+    "actions": [
+      "playing",
+      "having"
+    ],
+    "segment_id": 7
+  }
+]

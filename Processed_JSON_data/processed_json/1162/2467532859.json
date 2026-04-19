@@ -1,0 +1,596 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a group of men in a parking lot, with one woman sitting on a chair and another woman standing nearby.",
+    "objects": [
+      "men",
+      "one",
+      "lot",
+      "nearby",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "sitting",
+      "parking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a group of men in a parking lot, with one woman sitting on a chair and another woman standing nearby.",
+    "objects": [
+      "men",
+      "one",
+      "lot",
+      "nearby",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "sitting",
+      "parking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a group of men in a parking lot, with one woman sitting on a chair and another woman standing nearby.",
+    "objects": [
+      "men",
+      "one",
+      "lot",
+      "nearby",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "sitting",
+      "parking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a group of men in a parking lot, with one woman sitting on a chair and another woman standing nearby.",
+    "objects": [
+      "men",
+      "one",
+      "lot",
+      "nearby",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "sitting",
+      "parking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video depicts a group of men in a parking lot, with one woman sitting on a chair and another woman standing nearby.",
+    "objects": [
+      "men",
+      "one",
+      "lot",
+      "nearby",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "sitting",
+      "parking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The video depicts a group of men in a parking lot, with one woman sitting on a chair and another woman standing nearby.",
+    "objects": [
+      "men",
+      "one",
+      "lot",
+      "nearby",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "sitting",
+      "parking",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman on the chair is wearing a blue jacket and has her legs crossed, while the woman standing next to her is wearing a red shirt and black pants.",
+    "objects": [
+      "blue",
+      "legs",
+      "has",
+      "her",
+      "while",
+      "shirt",
+      "jacket",
+      "chair"
+    ],
+    "actions": [
+      "crossed",
+      "red",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman on the chair is wearing a blue jacket and has her legs crossed, while the woman standing next to her is wearing a red shirt and black pants.",
+    "objects": [
+      "blue",
+      "legs",
+      "has",
+      "her",
+      "while",
+      "shirt",
+      "jacket",
+      "chair"
+    ],
+    "actions": [
+      "crossed",
+      "red",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman on the chair is wearing a blue jacket and has her legs crossed, while the woman standing next to her is wearing a red shirt and black pants.",
+    "objects": [
+      "blue",
+      "legs",
+      "has",
+      "her",
+      "while",
+      "shirt",
+      "jacket",
+      "chair"
+    ],
+    "actions": [
+      "crossed",
+      "red",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman on the chair is wearing a blue jacket and has her legs crossed, while the woman standing next to her is wearing a red shirt and black pants.",
+    "objects": [
+      "blue",
+      "legs",
+      "has",
+      "her",
+      "while",
+      "shirt",
+      "jacket",
+      "chair"
+    ],
+    "actions": [
+      "crossed",
+      "red",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman on the chair is wearing a blue jacket and has her legs crossed, while the woman standing next to her is wearing a red shirt and black pants.",
+    "objects": [
+      "blue",
+      "legs",
+      "has",
+      "her",
+      "while",
+      "shirt",
+      "jacket",
+      "chair"
+    ],
+    "actions": [
+      "crossed",
+      "red",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman on the chair is wearing a blue jacket and has her legs crossed, while the woman standing next to her is wearing a red shirt and black pants.",
+    "objects": [
+      "blue",
+      "legs",
+      "has",
+      "her",
+      "while",
+      "shirt",
+      "jacket",
+      "chair"
+    ],
+    "actions": [
+      "crossed",
+      "red",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 12,
+    "description": "Both women are barefoot.",
+    "objects": [
+      "barefoot",
+      "women",
+      "both"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "Both women are barefoot.",
+    "objects": [
+      "barefoot",
+      "women",
+      "both"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "Both women are barefoot.",
+    "objects": [
+      "barefoot",
+      "women",
+      "both"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "Both women are barefoot.",
+    "objects": [
+      "barefoot",
+      "women",
+      "both"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 16,
+    "description": "Both women are barefoot.",
+    "objects": [
+      "barefoot",
+      "women",
+      "both"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 17,
+    "description": "Both women are barefoot.",
+    "objects": [
+      "barefoot",
+      "women",
+      "both"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a red shirt is sitting on the ground and holding a red object, and another man in a red shirt and black pants is standing, holding a blue object.",
+    "objects": [
+      "ground",
+      "blue",
+      "man",
+      "shirt",
+      "object",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a red shirt is sitting on the ground and holding a red object, and another man in a red shirt and black pants is standing, holding a blue object.",
+    "objects": [
+      "ground",
+      "blue",
+      "man",
+      "shirt",
+      "object",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a red shirt is sitting on the ground and holding a red object, and another man in a red shirt and black pants is standing, holding a blue object.",
+    "objects": [
+      "ground",
+      "blue",
+      "man",
+      "shirt",
+      "object",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a red shirt is sitting on the ground and holding a red object, and another man in a red shirt and black pants is standing, holding a blue object.",
+    "objects": [
+      "ground",
+      "blue",
+      "man",
+      "shirt",
+      "object",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a red shirt is sitting on the ground and holding a red object, and another man in a red shirt and black pants is standing, holding a blue object.",
+    "objects": [
+      "ground",
+      "blue",
+      "man",
+      "shirt",
+      "object",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a red shirt is sitting on the ground and holding a red object, and another man in a red shirt and black pants is standing, holding a blue object.",
+    "objects": [
+      "ground",
+      "blue",
+      "man",
+      "shirt",
+      "object",
+      "black"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the red shirt is talking to the woman sitting on the chair, and the man in the blue hoodie is walking past the group.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "past",
+      "hoodie",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "talking",
+      "sitting",
+      "red",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the red shirt is talking to the woman sitting on the chair, and the man in the blue hoodie is walking past the group.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "past",
+      "hoodie",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "talking",
+      "sitting",
+      "red",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the red shirt is talking to the woman sitting on the chair, and the man in the blue hoodie is walking past the group.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "past",
+      "hoodie",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "talking",
+      "sitting",
+      "red",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the red shirt is talking to the woman sitting on the chair, and the man in the blue hoodie is walking past the group.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "past",
+      "hoodie",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "talking",
+      "sitting",
+      "red",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the red shirt is talking to the woman sitting on the chair, and the man in the blue hoodie is walking past the group.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "past",
+      "hoodie",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "talking",
+      "sitting",
+      "red",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the red shirt is talking to the woman sitting on the chair, and the man in the blue hoodie is walking past the group.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "past",
+      "hoodie",
+      "chair",
+      "woman",
+      "group"
+    ],
+    "actions": [
+      "talking",
+      "sitting",
+      "red",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene appears to be casual and relaxed, with no apparent action taking place.",
+    "objects": [
+      "place",
+      "apparent",
+      "casual",
+      "action"
+    ],
+    "actions": [
+      "taking",
+      "relaxed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene appears to be casual and relaxed, with no apparent action taking place.",
+    "objects": [
+      "place",
+      "apparent",
+      "casual",
+      "action"
+    ],
+    "actions": [
+      "taking",
+      "relaxed"
+    ],
+    "segment_id": 5
+  }
+]

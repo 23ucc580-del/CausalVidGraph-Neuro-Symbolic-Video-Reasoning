@@ -1,0 +1,662 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively musical performance, possibly at a restaurant or bar, where a group of four musicians are playing various instruments.",
+    "objects": [
+      "bar",
+      "where",
+      "musical",
+      "possibly",
+      "performance",
+      "lively",
+      "restaurant",
+      "four"
+    ],
+    "actions": [
+      "playing",
+      "musicians",
+      "depicts",
+      "instruments"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively musical performance, possibly at a restaurant or bar, where a group of four musicians are playing various instruments.",
+    "objects": [
+      "bar",
+      "where",
+      "musical",
+      "possibly",
+      "performance",
+      "lively",
+      "restaurant",
+      "four"
+    ],
+    "actions": [
+      "playing",
+      "musicians",
+      "depicts",
+      "instruments"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene is filled with energy and passion as the performers showcase their talents.",
+    "objects": [
+      "their",
+      "showcase",
+      "energy",
+      "passion"
+    ],
+    "actions": [
+      "filled",
+      "performers",
+      "talents"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is filled with energy and passion as the performers showcase their talents.",
+    "objects": [
+      "their",
+      "showcase",
+      "energy",
+      "passion"
+    ],
+    "actions": [
+      "filled",
+      "performers",
+      "talents"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A man wearing a black suit and holding a saxophone is passionately playing his instrument, his fingers dancing across the keys, his body swaying with the rhythm.",
+    "objects": [
+      "body",
+      "suit",
+      "black",
+      "across",
+      "instrument",
+      "rhythm",
+      "passionately",
+      "saxophone"
+    ],
+    "actions": [
+      "wearing",
+      "fingers",
+      "holding",
+      "dancing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "A man wearing a black suit and holding a saxophone is passionately playing his instrument, his fingers dancing across the keys, his body swaying with the rhythm.",
+    "objects": [
+      "body",
+      "suit",
+      "black",
+      "across",
+      "instrument",
+      "rhythm",
+      "passionately",
+      "saxophone"
+    ],
+    "actions": [
+      "wearing",
+      "fingers",
+      "holding",
+      "dancing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "Another man in a suit and tie is playing a flute, his fingers expertly maneuvering the instrument as he produces a melodious tune.",
+    "objects": [
+      "suit",
+      "flute",
+      "instrument",
+      "tie",
+      "expertly",
+      "his",
+      "tune",
+      "man"
+    ],
+    "actions": [
+      "maneuvering",
+      "fingers",
+      "melodious",
+      "produces"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "Another man in a suit and tie is playing a flute, his fingers expertly maneuvering the instrument as he produces a melodious tune.",
+    "objects": [
+      "suit",
+      "flute",
+      "instrument",
+      "tie",
+      "expertly",
+      "his",
+      "tune",
+      "man"
+    ],
+    "actions": [
+      "maneuvering",
+      "fingers",
+      "melodious",
+      "produces"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A man in a black suit is standing with his hands clasped together, his eyes closed in concentration, as he plays the drums with a steady beat.",
+    "objects": [
+      "suit",
+      "beat",
+      "black",
+      "his",
+      "man",
+      "steady",
+      "concentration",
+      "together"
+    ],
+    "actions": [
+      "standing",
+      "hands",
+      "drums",
+      "closed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A man in a black suit is standing with his hands clasped together, his eyes closed in concentration, as he plays the drums with a steady beat.",
+    "objects": [
+      "suit",
+      "beat",
+      "black",
+      "his",
+      "man",
+      "steady",
+      "concentration",
+      "together"
+    ],
+    "actions": [
+      "standing",
+      "hands",
+      "drums",
+      "closed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "A woman in a black dress and a red scarf is playing the piano, her fingers dancing across the keys as she creates a beautiful melody.",
+    "objects": [
+      "she",
+      "woman",
+      "melody",
+      "black",
+      "across",
+      "her",
+      "keys",
+      "scarf"
+    ],
+    "actions": [
+      "red",
+      "fingers",
+      "dancing",
+      "creates"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman in a black dress and a red scarf is playing the piano, her fingers dancing across the keys as she creates a beautiful melody.",
+    "objects": [
+      "she",
+      "woman",
+      "melody",
+      "black",
+      "across",
+      "her",
+      "keys",
+      "scarf"
+    ],
+    "actions": [
+      "red",
+      "fingers",
+      "dancing",
+      "creates"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a black suit and tie is playing the guitar, his fingers moving fluidly over the frets as he strums out a captivating tune.",
+    "objects": [
+      "suit",
+      "black",
+      "guitar",
+      "tie",
+      "out",
+      "his",
+      "tune",
+      "man"
+    ],
+    "actions": [
+      "fingers",
+      "frets",
+      "captivating",
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a black suit and tie is playing the guitar, his fingers moving fluidly over the frets as he strums out a captivating tune.",
+    "objects": [
+      "suit",
+      "black",
+      "guitar",
+      "tie",
+      "out",
+      "his",
+      "tune",
+      "man"
+    ],
+    "actions": [
+      "fingers",
+      "frets",
+      "captivating",
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a blue hoodie is standing up, his hands on his hips as he listens to the music with a smile on his face.",
+    "objects": [
+      "hips",
+      "blue",
+      "face",
+      "smile",
+      "his",
+      "hoodie",
+      "man",
+      "music"
+    ],
+    "actions": [
+      "listens",
+      "standing",
+      "hands"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a blue hoodie is standing up, his hands on his hips as he listens to the music with a smile on his face.",
+    "objects": [
+      "hips",
+      "blue",
+      "face",
+      "smile",
+      "his",
+      "hoodie",
+      "man",
+      "music"
+    ],
+    "actions": [
+      "listens",
+      "standing",
+      "hands"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a suit is standing with his hands on his hips, his head tilted to the side as he listens with a smile on his face.",
+    "objects": [
+      "hips",
+      "suit",
+      "face",
+      "smile",
+      "his",
+      "side",
+      "man",
+      "head"
+    ],
+    "actions": [
+      "listens",
+      "tilted",
+      "standing",
+      "hands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a suit is standing with his hands on his hips, his head tilted to the side as he listens with a smile on his face.",
+    "objects": [
+      "hips",
+      "suit",
+      "face",
+      "smile",
+      "his",
+      "side",
+      "man",
+      "head"
+    ],
+    "actions": [
+      "listens",
+      "tilted",
+      "standing",
+      "hands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a black suit and tie is standing with his hands on his hips, his head turned to the side as he listens with a smile on his face.",
+    "objects": [
+      "hips",
+      "suit",
+      "black",
+      "face",
+      "smile",
+      "tie",
+      "his",
+      "side"
+    ],
+    "actions": [
+      "listens",
+      "turned",
+      "standing",
+      "hands"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a black suit and tie is standing with his hands on his hips, his head turned to the side as he listens with a smile on his face.",
+    "objects": [
+      "hips",
+      "suit",
+      "black",
+      "face",
+      "smile",
+      "tie",
+      "his",
+      "side"
+    ],
+    "actions": [
+      "listens",
+      "turned",
+      "standing",
+      "hands"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a black suit is standing with his hands clasped together, his eyes closed in concentration as he listens with a smile on his face.",
+    "objects": [
+      "suit",
+      "black",
+      "face",
+      "smile",
+      "his",
+      "man",
+      "concentration",
+      "together"
+    ],
+    "actions": [
+      "standing",
+      "hands",
+      "closed",
+      "listens"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a black suit is standing with his hands clasped together, his eyes closed in concentration as he listens with a smile on his face.",
+    "objects": [
+      "suit",
+      "black",
+      "face",
+      "smile",
+      "his",
+      "man",
+      "concentration",
+      "together"
+    ],
+    "actions": [
+      "standing",
+      "hands",
+      "closed",
+      "listens"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman in a black dress is standing with her hands on her hips, her eyes closed in concentration as she listens with a smile on her face.",
+    "objects": [
+      "hips",
+      "she",
+      "woman",
+      "black",
+      "face",
+      "her",
+      "dress",
+      "concentration"
+    ],
+    "actions": [
+      "closed",
+      "standing",
+      "hands",
+      "listens"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman in a black dress is standing with her hands on her hips, her eyes closed in concentration as she listens with a smile on her face.",
+    "objects": [
+      "hips",
+      "she",
+      "woman",
+      "black",
+      "face",
+      "her",
+      "dress",
+      "concentration"
+    ],
+    "actions": [
+      "closed",
+      "standing",
+      "hands",
+      "listens"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a black suit is standing with his hands clasped together, his head tilted to the side as he listens with a smile on his face.",
+    "objects": [
+      "suit",
+      "black",
+      "face",
+      "smile",
+      "head",
+      "his",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "hands",
+      "tilted",
+      "listens"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a black suit is standing with his hands clasped together, his head tilted to the side as he listens with a smile on his face.",
+    "objects": [
+      "suit",
+      "black",
+      "face",
+      "smile",
+      "head",
+      "his",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "hands",
+      "tilted",
+      "listens"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a black suit is standing with his hands on his hips, his eyes closed in concentration as he listens with a smile on his face.",
+    "objects": [
+      "hips",
+      "suit",
+      "black",
+      "face",
+      "his",
+      "man",
+      "concentration",
+      "smile"
+    ],
+    "actions": [
+      "closed",
+      "standing",
+      "hands",
+      "listens"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a black suit is standing with his hands on his hips, his eyes closed in concentration as he listens with a smile on his face.",
+    "objects": [
+      "hips",
+      "suit",
+      "black",
+      "face",
+      "his",
+      "man",
+      "concentration",
+      "smile"
+    ],
+    "actions": [
+      "closed",
+      "standing",
+      "hands",
+      "listens"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A man in a black suit is standing with his hands on his hips, his head turned to the side as he listens with a smile on his face.",
+    "objects": [
+      "hips",
+      "suit",
+      "black",
+      "face",
+      "smile",
+      "his",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "listens",
+      "turned",
+      "standing",
+      "hands"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A man in a black suit is standing with his hands on his hips, his head turned to the side as he listens with a smile on his face.",
+    "objects": [
+      "hips",
+      "suit",
+      "black",
+      "face",
+      "smile",
+      "his",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "listens",
+      "turned",
+      "standing",
+      "hands"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a blue shirt is standing with his hands on his hips, his eyes closed in concentration as he listens with a smile on his face.",
+    "objects": [
+      "hips",
+      "blue",
+      "face",
+      "shirt",
+      "his",
+      "man",
+      "concentration",
+      "smile"
+    ],
+    "actions": [
+      "closed",
+      "standing",
+      "hands",
+      "listens"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a blue shirt is standing with his hands on his hips, his eyes closed in concentration as he listens with a smile on his face.",
+    "objects": [
+      "hips",
+      "blue",
+      "face",
+      "shirt",
+      "his",
+      "man",
+      "concentration",
+      "smile"
+    ],
+    "actions": [
+      "closed",
+      "standing",
+      "hands",
+      "listens"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video showcases a live music performance featuring a man playing the guitar, a man playing the cello, and a man playing the drums.",
+    "objects": [
+      "guitar",
+      "performance",
+      "live",
+      "music",
+      "man",
+      "cello"
+    ],
+    "actions": [
+      "playing",
+      "drums",
+      "showcases",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video showcases a live music performance featuring a man playing the guitar, a man playing the cello, and a man playing the drums.",
+    "objects": [
+      "guitar",
+      "performance",
+      "live",
+      "music",
+      "man",
+      "cello"
+    ],
+    "actions": [
+      "playing",
+      "drums",
+      "showcases",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video showcases a live music performance featuring a man playing the guitar, a man playing the cello, and a man playing the drums.",
+    "objects": [
+      "guitar",
+      "performance",
+      "live",
+      "music",
+      "man",
+      "cello"
+    ],
+    "actions": [
+      "playing",
+      "drums",
+      "showcases",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video showcases a live music performance featuring a man playing the guitar, a man playing the cello, and a man playing the drums.",
+    "objects": [
+      "guitar",
+      "performance",
+      "live",
+      "music",
+      "man",
+      "cello"
+    ],
+    "actions": [
+      "playing",
+      "drums",
+      "showcases",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man playing the guitar is wearing a blue jacket and holding a guitar.",
+    "objects": [
+      "man",
+      "jacket",
+      "blue",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man playing the guitar is wearing a blue jacket and holding a guitar.",
+    "objects": [
+      "man",
+      "jacket",
+      "blue",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man playing the guitar is wearing a blue jacket and holding a guitar.",
+    "objects": [
+      "man",
+      "jacket",
+      "blue",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man playing the guitar is wearing a blue jacket and holding a guitar.",
+    "objects": [
+      "man",
+      "jacket",
+      "blue",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man playing the cello is sitting down and holding a cello.",
+    "objects": [
+      "man",
+      "cello"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man playing the cello is sitting down and holding a cello.",
+    "objects": [
+      "man",
+      "cello"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man playing the cello is sitting down and holding a cello.",
+    "objects": [
+      "man",
+      "cello"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man playing the cello is sitting down and holding a cello.",
+    "objects": [
+      "man",
+      "cello"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man playing the drums is wearing a black hat and holding drumsticks.",
+    "objects": [
+      "man",
+      "hat",
+      "black"
+    ],
+    "actions": [
+      "drums",
+      "wearing",
+      "holding",
+      "drumsticks"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man playing the drums is wearing a black hat and holding drumsticks.",
+    "objects": [
+      "man",
+      "hat",
+      "black"
+    ],
+    "actions": [
+      "drums",
+      "wearing",
+      "holding",
+      "drumsticks"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man playing the drums is wearing a black hat and holding drumsticks.",
+    "objects": [
+      "man",
+      "hat",
+      "black"
+    ],
+    "actions": [
+      "drums",
+      "wearing",
+      "holding",
+      "drumsticks"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man playing the drums is wearing a black hat and holding drumsticks.",
+    "objects": [
+      "man",
+      "hat",
+      "black"
+    ],
+    "actions": [
+      "drums",
+      "wearing",
+      "holding",
+      "drumsticks"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man playing the guitar is also holding a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man playing the guitar is also holding a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man playing the guitar is also holding a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man playing the guitar is also holding a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man wearing a hat is singing into a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "hat",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man wearing a hat is singing into a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "hat",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man wearing a hat is singing into a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "hat",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man wearing a hat is singing into a microphone.",
+    "objects": [
+      "man",
+      "microphone",
+      "hat",
+      "into"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man playing the drums is sitting behind the man playing the guitar.",
+    "objects": [
+      "man",
+      "behind",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "drums"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man playing the drums is sitting behind the man playing the guitar.",
+    "objects": [
+      "man",
+      "behind",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "drums"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man playing the drums is sitting behind the man playing the guitar.",
+    "objects": [
+      "man",
+      "behind",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "drums"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man playing the drums is sitting behind the man playing the guitar.",
+    "objects": [
+      "man",
+      "behind",
+      "guitar"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "drums"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man holding the microphone is wearing a white shirt.",
+    "objects": [
+      "man",
+      "microphone",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man holding the microphone is wearing a white shirt.",
+    "objects": [
+      "man",
+      "microphone",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man holding the microphone is wearing a white shirt.",
+    "objects": [
+      "man",
+      "microphone",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man holding the microphone is wearing a white shirt.",
+    "objects": [
+      "man",
+      "microphone",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

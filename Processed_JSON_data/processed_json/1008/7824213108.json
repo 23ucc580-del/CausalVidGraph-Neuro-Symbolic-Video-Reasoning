@@ -1,0 +1,522 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man and a young child at an indoor play area.",
+    "objects": [
+      "indoor",
+      "child",
+      "young",
+      "see",
+      "man",
+      "play",
+      "area"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man and a young child at an indoor play area.",
+    "objects": [
+      "indoor",
+      "child",
+      "young",
+      "see",
+      "man",
+      "play",
+      "area"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man and a young child at an indoor play area.",
+    "objects": [
+      "indoor",
+      "child",
+      "young",
+      "see",
+      "man",
+      "play",
+      "area"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The man, wearing a blue hoodie, is pushing a small, blue car, and the child is sitting in a blue car.",
+    "objects": [
+      "small",
+      "child",
+      "blue",
+      "car",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "pushing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man, wearing a blue hoodie, is pushing a small, blue car, and the child is sitting in a blue car.",
+    "objects": [
+      "small",
+      "child",
+      "blue",
+      "car",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "pushing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man, wearing a blue hoodie, is pushing a small, blue car, and the child is sitting in a blue car.",
+    "objects": [
+      "small",
+      "child",
+      "blue",
+      "car",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "pushing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are playing on a track that has a yellow gate, and there is a silver car on the track.",
+    "objects": [
+      "they",
+      "there",
+      "track",
+      "yellow",
+      "has",
+      "silver",
+      "that",
+      "gate"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "They are playing on a track that has a yellow gate, and there is a silver car on the track.",
+    "objects": [
+      "they",
+      "there",
+      "track",
+      "yellow",
+      "has",
+      "silver",
+      "that",
+      "gate"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "They are playing on a track that has a yellow gate, and there is a silver car on the track.",
+    "objects": [
+      "they",
+      "there",
+      "track",
+      "yellow",
+      "has",
+      "silver",
+      "that",
+      "gate"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "There is a walkway with a yellow sign and a blue sign, and a red car on the track as well.",
+    "objects": [
+      "walkway",
+      "there",
+      "track",
+      "blue",
+      "yellow",
+      "well",
+      "car",
+      "sign"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "There is a walkway with a yellow sign and a blue sign, and a red car on the track as well.",
+    "objects": [
+      "walkway",
+      "there",
+      "track",
+      "blue",
+      "yellow",
+      "well",
+      "car",
+      "sign"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "There is a walkway with a yellow sign and a blue sign, and a red car on the track as well.",
+    "objects": [
+      "walkway",
+      "there",
+      "track",
+      "blue",
+      "yellow",
+      "well",
+      "car",
+      "sign"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The child is wearing a pink top and the man is holding a blue car.",
+    "objects": [
+      "pink",
+      "child",
+      "blue",
+      "top",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The child is wearing a pink top and the man is holding a blue car.",
+    "objects": [
+      "pink",
+      "child",
+      "blue",
+      "top",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The child is wearing a pink top and the man is holding a blue car.",
+    "objects": [
+      "pink",
+      "child",
+      "blue",
+      "top",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "There is a yellow sign on the walkway, and the child is wearing blue pants.",
+    "objects": [
+      "walkway",
+      "there",
+      "child",
+      "yellow",
+      "blue",
+      "sign"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "There is a yellow sign on the walkway, and the child is wearing blue pants.",
+    "objects": [
+      "walkway",
+      "there",
+      "child",
+      "yellow",
+      "blue",
+      "sign"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "There is a yellow sign on the walkway, and the child is wearing blue pants.",
+    "objects": [
+      "walkway",
+      "there",
+      "child",
+      "yellow",
+      "blue",
+      "sign"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is also holding a blue car.",
+    "objects": [
+      "man",
+      "blue",
+      "car"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is also holding a blue car.",
+    "objects": [
+      "man",
+      "blue",
+      "car"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is also holding a blue car.",
+    "objects": [
+      "man",
+      "blue",
+      "car"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The child is sitting in the blue car, and there is a blue car on the walkway as well.",
+    "objects": [
+      "walkway",
+      "there",
+      "child",
+      "blue",
+      "well",
+      "car"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The child is sitting in the blue car, and there is a blue car on the walkway as well.",
+    "objects": [
+      "walkway",
+      "there",
+      "child",
+      "blue",
+      "well",
+      "car"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The child is sitting in the blue car, and there is a blue car on the walkway as well.",
+    "objects": [
+      "walkway",
+      "there",
+      "child",
+      "blue",
+      "well",
+      "car"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is pushing the blue car, and there is a silver car on the track.",
+    "objects": [
+      "there",
+      "track",
+      "blue",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "pushing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is pushing the blue car, and there is a silver car on the track.",
+    "objects": [
+      "there",
+      "track",
+      "blue",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "pushing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is pushing the blue car, and there is a silver car on the track.",
+    "objects": [
+      "there",
+      "track",
+      "blue",
+      "silver",
+      "car",
+      "man"
+    ],
+    "actions": [
+      "pushing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The child is wearing a blue top and a blue hoodie.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "top",
+      "child"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The child is wearing a blue top and a blue hoodie.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "top",
+      "child"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The child is wearing a blue top and a blue hoodie.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "top",
+      "child"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The man is wearing a blue top and a blue hoodie.",
+    "objects": [
+      "man",
+      "blue",
+      "hoodie",
+      "top"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The man is wearing a blue top and a blue hoodie.",
+    "objects": [
+      "man",
+      "blue",
+      "hoodie",
+      "top"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 10
+  }
+]

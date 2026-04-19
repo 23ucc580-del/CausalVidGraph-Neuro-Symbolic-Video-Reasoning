@@ -1,0 +1,536 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people, possibly friends, gathered in a motel room.",
+    "objects": [
+      "people",
+      "possibly",
+      "see",
+      "motel",
+      "room",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "friends",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people, possibly friends, gathered in a motel room.",
+    "objects": [
+      "people",
+      "possibly",
+      "see",
+      "motel",
+      "room",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "friends",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people, possibly friends, gathered in a motel room.",
+    "objects": [
+      "people",
+      "possibly",
+      "see",
+      "motel",
+      "room",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "friends",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "Two individuals are seated on a bed, engaged in a conversation.",
+    "objects": [
+      "conversation",
+      "two"
+    ],
+    "actions": [
+      "engaged",
+      "bed",
+      "seated",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Two individuals are seated on a bed, engaged in a conversation.",
+    "objects": [
+      "conversation",
+      "two"
+    ],
+    "actions": [
+      "engaged",
+      "bed",
+      "seated",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two individuals are seated on a bed, engaged in a conversation.",
+    "objects": [
+      "conversation",
+      "two"
+    ],
+    "actions": [
+      "engaged",
+      "bed",
+      "seated",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One person is wearing a blue hoodie and the other is dressed in a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "blue",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "One person is wearing a blue hoodie and the other is dressed in a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "blue",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "One person is wearing a blue hoodie and the other is dressed in a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "blue",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They seem to be in the middle of a casual chat.",
+    "objects": [
+      "they",
+      "middle",
+      "casual",
+      "seem",
+      "chat"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They seem to be in the middle of a casual chat.",
+    "objects": [
+      "they",
+      "middle",
+      "casual",
+      "seem",
+      "chat"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They seem to be in the middle of a casual chat.",
+    "objects": [
+      "they",
+      "middle",
+      "casual",
+      "seem",
+      "chat"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Meanwhile, on the other bed, two more individuals are seated and are looking at a television.",
+    "objects": [
+      "other",
+      "two",
+      "more",
+      "meanwhile",
+      "television"
+    ],
+    "actions": [
+      "looking",
+      "bed",
+      "seated",
+      "individuals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Meanwhile, on the other bed, two more individuals are seated and are looking at a television.",
+    "objects": [
+      "other",
+      "two",
+      "more",
+      "meanwhile",
+      "television"
+    ],
+    "actions": [
+      "looking",
+      "bed",
+      "seated",
+      "individuals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Meanwhile, on the other bed, two more individuals are seated and are looking at a television.",
+    "objects": [
+      "other",
+      "two",
+      "more",
+      "meanwhile",
+      "television"
+    ],
+    "actions": [
+      "looking",
+      "bed",
+      "seated",
+      "individuals"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "One person is wearing a white shirt and the other is in a black shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "One person is wearing a white shirt and the other is in a black shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "One person is wearing a white shirt and the other is in a black shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "They appear to be watching something on the screen.",
+    "objects": [
+      "they",
+      "appear",
+      "screen"
+    ],
+    "actions": [
+      "something",
+      "watching"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "They appear to be watching something on the screen.",
+    "objects": [
+      "they",
+      "appear",
+      "screen"
+    ],
+    "actions": [
+      "something",
+      "watching"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "They appear to be watching something on the screen.",
+    "objects": [
+      "they",
+      "appear",
+      "screen"
+    ],
+    "actions": [
+      "something",
+      "watching"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "In the foreground, there are two individuals who seem to be in the middle of an activity.",
+    "objects": [
+      "activity",
+      "there",
+      "two",
+      "middle",
+      "who",
+      "seem"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "In the foreground, there are two individuals who seem to be in the middle of an activity.",
+    "objects": [
+      "activity",
+      "there",
+      "two",
+      "middle",
+      "who",
+      "seem"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "In the foreground, there are two individuals who seem to be in the middle of an activity.",
+    "objects": [
+      "activity",
+      "there",
+      "two",
+      "middle",
+      "who",
+      "seem"
+    ],
+    "actions": [
+      "individuals"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "One person is wearing a black shirt and appears to be in the process of getting up from a bed, perhaps to reach for something.",
+    "objects": [
+      "one",
+      "reach",
+      "black",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "wearing",
+      "something",
+      "bed",
+      "perhaps"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "One person is wearing a black shirt and appears to be in the process of getting up from a bed, perhaps to reach for something.",
+    "objects": [
+      "one",
+      "reach",
+      "black",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "wearing",
+      "something",
+      "bed",
+      "perhaps"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "One person is wearing a black shirt and appears to be in the process of getting up from a bed, perhaps to reach for something.",
+    "objects": [
+      "one",
+      "reach",
+      "black",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "wearing",
+      "something",
+      "bed",
+      "perhaps"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The other person is wearing a white shirt and seems to be sitting on the edge of the bed, possibly waiting for the first person to finish.",
+    "objects": [
+      "edge",
+      "other",
+      "white",
+      "finish",
+      "possibly",
+      "shirt",
+      "first"
+    ],
+    "actions": [
+      "seems",
+      "wearing",
+      "sitting",
+      "waiting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The other person is wearing a white shirt and seems to be sitting on the edge of the bed, possibly waiting for the first person to finish.",
+    "objects": [
+      "edge",
+      "other",
+      "white",
+      "finish",
+      "possibly",
+      "shirt",
+      "first"
+    ],
+    "actions": [
+      "seems",
+      "wearing",
+      "sitting",
+      "waiting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The other person is wearing a white shirt and seems to be sitting on the edge of the bed, possibly waiting for the first person to finish.",
+    "objects": [
+      "edge",
+      "other",
+      "white",
+      "finish",
+      "possibly",
+      "shirt",
+      "first"
+    ],
+    "actions": [
+      "seems",
+      "wearing",
+      "sitting",
+      "waiting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The room itself is simple, with a beige color scheme and a small television set mounted on the wall.",
+    "objects": [
+      "wall",
+      "beige",
+      "small",
+      "scheme",
+      "color",
+      "set",
+      "room",
+      "simple"
+    ],
+    "actions": [
+      "mounted"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The room itself is simple, with a beige color scheme and a small television set mounted on the wall.",
+    "objects": [
+      "wall",
+      "beige",
+      "small",
+      "scheme",
+      "color",
+      "set",
+      "room",
+      "simple"
+    ],
+    "actions": [
+      "mounted"
+    ],
+    "segment_id": 10
+  }
+]

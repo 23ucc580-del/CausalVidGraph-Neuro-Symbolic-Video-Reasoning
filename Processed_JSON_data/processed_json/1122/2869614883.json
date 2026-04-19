@@ -1,0 +1,562 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of children are playing in a backyard.",
+    "objects": [
+      "children",
+      "backyard",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of children are playing in a backyard.",
+    "objects": [
+      "children",
+      "backyard",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of children are playing in a backyard.",
+    "objects": [
+      "children",
+      "backyard",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of children are playing in a backyard.",
+    "objects": [
+      "children",
+      "backyard",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One child is seen climbing up a wooden slide while another child is in a small pool, enjoying the water.",
+    "objects": [
+      "pool",
+      "wooden",
+      "small",
+      "while",
+      "water",
+      "child",
+      "one",
+      "slide"
+    ],
+    "actions": [
+      "climbing",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One child is seen climbing up a wooden slide while another child is in a small pool, enjoying the water.",
+    "objects": [
+      "pool",
+      "wooden",
+      "small",
+      "while",
+      "water",
+      "child",
+      "one",
+      "slide"
+    ],
+    "actions": [
+      "climbing",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One child is seen climbing up a wooden slide while another child is in a small pool, enjoying the water.",
+    "objects": [
+      "pool",
+      "wooden",
+      "small",
+      "while",
+      "water",
+      "child",
+      "one",
+      "slide"
+    ],
+    "actions": [
+      "climbing",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One child is seen climbing up a wooden slide while another child is in a small pool, enjoying the water.",
+    "objects": [
+      "pool",
+      "wooden",
+      "small",
+      "while",
+      "water",
+      "child",
+      "one",
+      "slide"
+    ],
+    "actions": [
+      "climbing",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A little girl is also seen climbing up the slide, while a baby is in the pool, floating on a blue mat.",
+    "objects": [
+      "blue",
+      "mat",
+      "pool",
+      "while",
+      "girl",
+      "slide",
+      "baby",
+      "little"
+    ],
+    "actions": [
+      "climbing",
+      "floating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A little girl is also seen climbing up the slide, while a baby is in the pool, floating on a blue mat.",
+    "objects": [
+      "blue",
+      "mat",
+      "pool",
+      "while",
+      "girl",
+      "slide",
+      "baby",
+      "little"
+    ],
+    "actions": [
+      "climbing",
+      "floating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A little girl is also seen climbing up the slide, while a baby is in the pool, floating on a blue mat.",
+    "objects": [
+      "blue",
+      "mat",
+      "pool",
+      "while",
+      "girl",
+      "slide",
+      "baby",
+      "little"
+    ],
+    "actions": [
+      "climbing",
+      "floating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A little girl is also seen climbing up the slide, while a baby is in the pool, floating on a blue mat.",
+    "objects": [
+      "blue",
+      "mat",
+      "pool",
+      "while",
+      "girl",
+      "slide",
+      "baby",
+      "little"
+    ],
+    "actions": [
+      "climbing",
+      "floating"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A young boy is seen climbing up the slide, and a little girl is playing in the pool.",
+    "objects": [
+      "pool",
+      "young",
+      "boy",
+      "girl",
+      "slide",
+      "little"
+    ],
+    "actions": [
+      "climbing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A young boy is seen climbing up the slide, and a little girl is playing in the pool.",
+    "objects": [
+      "pool",
+      "young",
+      "boy",
+      "girl",
+      "slide",
+      "little"
+    ],
+    "actions": [
+      "climbing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A young boy is seen climbing up the slide, and a little girl is playing in the pool.",
+    "objects": [
+      "pool",
+      "young",
+      "boy",
+      "girl",
+      "slide",
+      "little"
+    ],
+    "actions": [
+      "climbing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A young boy is seen climbing up the slide, and a little girl is playing in the pool.",
+    "objects": [
+      "pool",
+      "young",
+      "boy",
+      "girl",
+      "slide",
+      "little"
+    ],
+    "actions": [
+      "climbing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A yellow and black toy car is parked next to a blue pool, and a blue trampoline is situated next to a pool.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "pool",
+      "trampoline",
+      "yellow",
+      "black"
+    ],
+    "actions": [
+      "situated",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A yellow and black toy car is parked next to a blue pool, and a blue trampoline is situated next to a pool.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "pool",
+      "trampoline",
+      "yellow",
+      "black"
+    ],
+    "actions": [
+      "situated",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A yellow and black toy car is parked next to a blue pool, and a blue trampoline is situated next to a pool.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "pool",
+      "trampoline",
+      "yellow",
+      "black"
+    ],
+    "actions": [
+      "situated",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A yellow and black toy car is parked next to a blue pool, and a blue trampoline is situated next to a pool.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "pool",
+      "trampoline",
+      "yellow",
+      "black"
+    ],
+    "actions": [
+      "situated",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A young boy is standing near a slide, while a little girl is playing in the pool, and another child is standing near a slide.",
+    "objects": [
+      "pool",
+      "while",
+      "young",
+      "child",
+      "boy",
+      "girl",
+      "slide",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A young boy is standing near a slide, while a little girl is playing in the pool, and another child is standing near a slide.",
+    "objects": [
+      "pool",
+      "while",
+      "young",
+      "child",
+      "boy",
+      "girl",
+      "slide",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A young boy is standing near a slide, while a little girl is playing in the pool, and another child is standing near a slide.",
+    "objects": [
+      "pool",
+      "while",
+      "young",
+      "child",
+      "boy",
+      "girl",
+      "slide",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A young boy is standing near a slide, while a little girl is playing in the pool, and another child is standing near a slide.",
+    "objects": [
+      "pool",
+      "while",
+      "young",
+      "child",
+      "boy",
+      "girl",
+      "slide",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A yellow and black toy car is parked near a blue trampoline, and a young boy is standing near a slide.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "trampoline",
+      "young",
+      "slide",
+      "yellow",
+      "boy"
+    ],
+    "actions": [
+      "standing",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A yellow and black toy car is parked near a blue trampoline, and a young boy is standing near a slide.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "trampoline",
+      "young",
+      "slide",
+      "yellow",
+      "boy"
+    ],
+    "actions": [
+      "standing",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A yellow and black toy car is parked near a blue trampoline, and a young boy is standing near a slide.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "trampoline",
+      "young",
+      "slide",
+      "yellow",
+      "boy"
+    ],
+    "actions": [
+      "standing",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A yellow and black toy car is parked near a blue trampoline, and a young boy is standing near a slide.",
+    "objects": [
+      "car",
+      "blue",
+      "toy",
+      "trampoline",
+      "young",
+      "slide",
+      "yellow",
+      "boy"
+    ],
+    "actions": [
+      "standing",
+      "parked"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "A little girl is standing near a trampoline, and another child is playing in the pool.",
+    "objects": [
+      "pool",
+      "trampoline",
+      "child",
+      "girl",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "A little girl is standing near a trampoline, and another child is playing in the pool.",
+    "objects": [
+      "pool",
+      "trampoline",
+      "child",
+      "girl",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "A little girl is standing near a trampoline, and another child is playing in the pool.",
+    "objects": [
+      "pool",
+      "trampoline",
+      "child",
+      "girl",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "A little girl is standing near a trampoline, and another child is playing in the pool.",
+    "objects": [
+      "pool",
+      "trampoline",
+      "child",
+      "girl",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 7
+  }
+]

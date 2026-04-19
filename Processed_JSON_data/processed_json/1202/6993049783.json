@@ -1,0 +1,599 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a group of people in a desert setting, navigating through a flooded river.",
+    "objects": [
+      "river",
+      "people",
+      "group",
+      "desert",
+      "through"
+    ],
+    "actions": [
+      "depicts",
+      "flooded",
+      "setting",
+      "navigating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a group of people in a desert setting, navigating through a flooded river.",
+    "objects": [
+      "river",
+      "people",
+      "group",
+      "desert",
+      "through"
+    ],
+    "actions": [
+      "depicts",
+      "flooded",
+      "setting",
+      "navigating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a group of people in a desert setting, navigating through a flooded river.",
+    "objects": [
+      "river",
+      "people",
+      "group",
+      "desert",
+      "through"
+    ],
+    "actions": [
+      "depicts",
+      "flooded",
+      "setting",
+      "navigating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a white car driving through the flooded area, with the people inside it.",
+    "objects": [
+      "white",
+      "car",
+      "people",
+      "inside",
+      "area",
+      "through"
+    ],
+    "actions": [
+      "flooded",
+      "opens",
+      "driving"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with a white car driving through the flooded area, with the people inside it.",
+    "objects": [
+      "white",
+      "car",
+      "people",
+      "inside",
+      "area",
+      "through"
+    ],
+    "actions": [
+      "flooded",
+      "opens",
+      "driving"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with a white car driving through the flooded area, with the people inside it.",
+    "objects": [
+      "white",
+      "car",
+      "people",
+      "inside",
+      "area",
+      "through"
+    ],
+    "actions": [
+      "flooded",
+      "opens",
+      "driving"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One person is standing in the car, holding a camera, capturing the view from the window, while the driver is maneuvering the vehicle through the water.",
+    "objects": [
+      "vehicle",
+      "car",
+      "driver",
+      "while",
+      "water",
+      "one",
+      "window",
+      "from"
+    ],
+    "actions": [
+      "maneuvering",
+      "holding",
+      "standing",
+      "capturing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "One person is standing in the car, holding a camera, capturing the view from the window, while the driver is maneuvering the vehicle through the water.",
+    "objects": [
+      "vehicle",
+      "car",
+      "driver",
+      "while",
+      "water",
+      "one",
+      "window",
+      "from"
+    ],
+    "actions": [
+      "maneuvering",
+      "holding",
+      "standing",
+      "capturing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "One person is standing in the car, holding a camera, capturing the view from the window, while the driver is maneuvering the vehicle through the water.",
+    "objects": [
+      "vehicle",
+      "car",
+      "driver",
+      "while",
+      "water",
+      "one",
+      "window",
+      "from"
+    ],
+    "actions": [
+      "maneuvering",
+      "holding",
+      "standing",
+      "capturing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The car is a compact SUV with a visible cargo rack on its back.",
+    "objects": [
+      "cargo",
+      "car",
+      "compact",
+      "suv",
+      "its",
+      "rack"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The car is a compact SUV with a visible cargo rack on its back.",
+    "objects": [
+      "cargo",
+      "car",
+      "compact",
+      "suv",
+      "its",
+      "rack"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The car is a compact SUV with a visible cargo rack on its back.",
+    "objects": [
+      "cargo",
+      "car",
+      "compact",
+      "suv",
+      "its",
+      "rack"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "As the car advances, it encounters another car, a white SUV, which is also trying to navigate through the flooded area.",
+    "objects": [
+      "white",
+      "car",
+      "which",
+      "suv",
+      "area",
+      "navigate",
+      "through"
+    ],
+    "actions": [
+      "trying",
+      "encounters",
+      "flooded",
+      "advances"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "As the car advances, it encounters another car, a white SUV, which is also trying to navigate through the flooded area.",
+    "objects": [
+      "white",
+      "car",
+      "which",
+      "suv",
+      "area",
+      "navigate",
+      "through"
+    ],
+    "actions": [
+      "trying",
+      "encounters",
+      "flooded",
+      "advances"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "As the car advances, it encounters another car, a white SUV, which is also trying to navigate through the flooded area.",
+    "objects": [
+      "white",
+      "car",
+      "which",
+      "suv",
+      "area",
+      "navigate",
+      "through"
+    ],
+    "actions": [
+      "trying",
+      "encounters",
+      "flooded",
+      "advances"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The second car is being driven by a man wearing a blue hoodie and holding a camera, possibly capturing the scene or documenting the journey.",
+    "objects": [
+      "car",
+      "blue",
+      "man",
+      "journey",
+      "hoodie",
+      "driven",
+      "second",
+      "possibly"
+    ],
+    "actions": [
+      "documenting",
+      "holding",
+      "capturing",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The second car is being driven by a man wearing a blue hoodie and holding a camera, possibly capturing the scene or documenting the journey.",
+    "objects": [
+      "car",
+      "blue",
+      "man",
+      "journey",
+      "hoodie",
+      "driven",
+      "second",
+      "possibly"
+    ],
+    "actions": [
+      "documenting",
+      "holding",
+      "capturing",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The second car is being driven by a man wearing a blue hoodie and holding a camera, possibly capturing the scene or documenting the journey.",
+    "objects": [
+      "car",
+      "blue",
+      "man",
+      "journey",
+      "hoodie",
+      "driven",
+      "second",
+      "possibly"
+    ],
+    "actions": [
+      "documenting",
+      "holding",
+      "capturing",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The first car passes by the second one and continues driving through the water.",
+    "objects": [
+      "car",
+      "water",
+      "one",
+      "second",
+      "first",
+      "through"
+    ],
+    "actions": [
+      "continues",
+      "passes",
+      "driving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The first car passes by the second one and continues driving through the water.",
+    "objects": [
+      "car",
+      "water",
+      "one",
+      "second",
+      "first",
+      "through"
+    ],
+    "actions": [
+      "continues",
+      "passes",
+      "driving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The first car passes by the second one and continues driving through the water.",
+    "objects": [
+      "car",
+      "water",
+      "one",
+      "second",
+      "first",
+      "through"
+    ],
+    "actions": [
+      "continues",
+      "passes",
+      "driving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The second car follows the first, and the two cars are seen driving through the water side by side.",
+    "objects": [
+      "second",
+      "car",
+      "water",
+      "side",
+      "two",
+      "cars",
+      "first",
+      "through"
+    ],
+    "actions": [
+      "follows",
+      "driving"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The second car follows the first, and the two cars are seen driving through the water side by side.",
+    "objects": [
+      "second",
+      "car",
+      "water",
+      "side",
+      "two",
+      "cars",
+      "first",
+      "through"
+    ],
+    "actions": [
+      "follows",
+      "driving"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The second car follows the first, and the two cars are seen driving through the water side by side.",
+    "objects": [
+      "second",
+      "car",
+      "water",
+      "side",
+      "two",
+      "cars",
+      "first",
+      "through"
+    ],
+    "actions": [
+      "follows",
+      "driving"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The riverbed is lined with bushes, and there's a mountain in the distance, suggesting a rugged terrain.",
+    "objects": [
+      "terrain",
+      "distance",
+      "mountain"
+    ],
+    "actions": [
+      "rugged",
+      "lined",
+      "riverbed",
+      "there's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The riverbed is lined with bushes, and there's a mountain in the distance, suggesting a rugged terrain.",
+    "objects": [
+      "terrain",
+      "distance",
+      "mountain"
+    ],
+    "actions": [
+      "rugged",
+      "lined",
+      "riverbed",
+      "there's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The riverbed is lined with bushes, and there's a mountain in the distance, suggesting a rugged terrain.",
+    "objects": [
+      "terrain",
+      "distance",
+      "mountain"
+    ],
+    "actions": [
+      "rugged",
+      "lined",
+      "riverbed",
+      "there's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The people are dressed in casual clothing, appropriate for the outdoor activity, and the vehicles are equipped with roof racks for carrying luggage.",
+    "objects": [
+      "appropriate",
+      "roof",
+      "luggage",
+      "casual",
+      "people",
+      "activity",
+      "outdoor"
+    ],
+    "actions": [
+      "clothing",
+      "carrying",
+      "dressed",
+      "racks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The people are dressed in casual clothing, appropriate for the outdoor activity, and the vehicles are equipped with roof racks for carrying luggage.",
+    "objects": [
+      "appropriate",
+      "roof",
+      "luggage",
+      "casual",
+      "people",
+      "activity",
+      "outdoor"
+    ],
+    "actions": [
+      "clothing",
+      "carrying",
+      "dressed",
+      "racks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The people are dressed in casual clothing, appropriate for the outdoor activity, and the vehicles are equipped with roof racks for carrying luggage.",
+    "objects": [
+      "appropriate",
+      "roof",
+      "luggage",
+      "casual",
+      "people",
+      "activity",
+      "outdoor"
+    ],
+    "actions": [
+      "clothing",
+      "carrying",
+      "dressed",
+      "racks"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures the adventurous spirit of traveling in a challenging environment and the camaraderie of the people involved in the journey.",
+    "objects": [
+      "camaraderie",
+      "people",
+      "spirit",
+      "journey",
+      "environment"
+    ],
+    "actions": [
+      "adventurous",
+      "challenging",
+      "traveling",
+      "involved"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures the adventurous spirit of traveling in a challenging environment and the camaraderie of the people involved in the journey.",
+    "objects": [
+      "camaraderie",
+      "people",
+      "spirit",
+      "journey",
+      "environment"
+    ],
+    "actions": [
+      "adventurous",
+      "challenging",
+      "traveling",
+      "involved"
+    ],
+    "segment_id": 10
+  }
+]

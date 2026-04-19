@@ -1,0 +1,478 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man and a dog are in a kitchen.",
+    "objects": [
+      "man",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man and a dog are in a kitchen.",
+    "objects": [
+      "man",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man and a dog are in a kitchen.",
+    "objects": [
+      "man",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man and a dog are in a kitchen.",
+    "objects": [
+      "man",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a man and a dog are in a kitchen.",
+    "objects": [
+      "man",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "In the video, a man and a dog are in a kitchen.",
+    "objects": [
+      "man",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is standing and the dog is sitting on the floor.",
+    "objects": [
+      "floor",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is standing and the dog is sitting on the floor.",
+    "objects": [
+      "floor",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is standing and the dog is sitting on the floor.",
+    "objects": [
+      "floor",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is standing and the dog is sitting on the floor.",
+    "objects": [
+      "floor",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The man is standing and the dog is sitting on the floor.",
+    "objects": [
+      "floor",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 11,
+    "description": "The man is standing and the dog is sitting on the floor.",
+    "objects": [
+      "floor",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is wearing a white t-shirt and black shorts, and holding a plate in his right hand.",
+    "objects": [
+      "black",
+      "white",
+      "man",
+      "hand",
+      "his",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is wearing a white t-shirt and black shorts, and holding a plate in his right hand.",
+    "objects": [
+      "black",
+      "white",
+      "man",
+      "hand",
+      "his",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The man is wearing a white t-shirt and black shorts, and holding a plate in his right hand.",
+    "objects": [
+      "black",
+      "white",
+      "man",
+      "hand",
+      "his",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is wearing a white t-shirt and black shorts, and holding a plate in his right hand.",
+    "objects": [
+      "black",
+      "white",
+      "man",
+      "hand",
+      "his",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is wearing a white t-shirt and black shorts, and holding a plate in his right hand.",
+    "objects": [
+      "black",
+      "white",
+      "man",
+      "hand",
+      "his",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is wearing a white t-shirt and black shorts, and holding a plate in his right hand.",
+    "objects": [
+      "black",
+      "white",
+      "man",
+      "hand",
+      "his",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 18,
+    "description": "The dog is wearing a collar and sitting on the kitchen floor.",
+    "objects": [
+      "floor",
+      "collar",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The dog is wearing a collar and sitting on the kitchen floor.",
+    "objects": [
+      "floor",
+      "collar",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The dog is wearing a collar and sitting on the kitchen floor.",
+    "objects": [
+      "floor",
+      "collar",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 21,
+    "description": "The dog is wearing a collar and sitting on the kitchen floor.",
+    "objects": [
+      "floor",
+      "collar",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 22,
+    "description": "The dog is wearing a collar and sitting on the kitchen floor.",
+    "objects": [
+      "floor",
+      "collar",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 23,
+    "description": "The dog is wearing a collar and sitting on the kitchen floor.",
+    "objects": [
+      "floor",
+      "collar",
+      "kitchen",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 24,
+    "description": "The dog is looking up at the man, who appears to be feeding it.",
+    "objects": [
+      "who",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "feeding",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog is looking up at the man, who appears to be feeding it.",
+    "objects": [
+      "who",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "feeding",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog is looking up at the man, who appears to be feeding it.",
+    "objects": [
+      "who",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "feeding",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog is looking up at the man, who appears to be feeding it.",
+    "objects": [
+      "who",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "feeding",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog is looking up at the man, who appears to be feeding it.",
+    "objects": [
+      "who",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "feeding",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog is looking up at the man, who appears to be feeding it.",
+    "objects": [
+      "who",
+      "man",
+      "dog"
+    ],
+    "actions": [
+      "feeding",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 30,
+    "description": "There is also a person standing in the kitchen who is wearing a black hoodie.",
+    "objects": [
+      "kitchen",
+      "who",
+      "hoodie",
+      "there",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 31,
+    "description": "There is also a person standing in the kitchen who is wearing a black hoodie.",
+    "objects": [
+      "kitchen",
+      "who",
+      "hoodie",
+      "there",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "wearing"
+    ],
+    "segment_id": 5
+  }
+]

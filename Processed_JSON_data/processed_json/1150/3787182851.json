@@ -1,0 +1,461 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered in a room, engaged in a lively game of rock, paper, scissors.",
+    "objects": [
+      "game",
+      "room",
+      "rock",
+      "lively",
+      "people",
+      "paper",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "scissors",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The game is being played with enthusiasm and laughter, as the participants display their competitive spirit.",
+    "objects": [
+      "game",
+      "enthusiasm",
+      "laughter",
+      "spirit",
+      "their",
+      "display",
+      "competitive"
+    ],
+    "actions": [
+      "participants",
+      "played",
+      "being"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The players are standing and holding hands out, ready for the next round.",
+    "objects": [
+      "out",
+      "round",
+      "ready"
+    ],
+    "actions": [
+      "players",
+      "hands",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "A man and a woman are playing, with the man on the left wearing a white shirt and the woman on the right wearing a green shirt.",
+    "objects": [
+      "white",
+      "man",
+      "green",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a blue shirt.",
+    "objects": [
+      "white",
+      "blue",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The man on the left is holding a white paper in his hand and the man on the right is holding a scissor.",
+    "objects": [
+      "white",
+      "hand",
+      "man",
+      "his",
+      "scissor",
+      "paper"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The man on the left is wearing a white hat, and the man on the right is wearing a white shirt.",
+    "objects": [
+      "white",
+      "man",
+      "hat",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a red shirt.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "A man is holding a scissor in his hand and is wearing a white shirt.",
+    "objects": [
+      "white",
+      "hand",
+      "man",
+      "his",
+      "scissor",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a blue shirt.",
+    "objects": [
+      "white",
+      "blue",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman on the left is wearing a blue shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "blue",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The man on the left is wearing a blue shirt and the man on the right is wearing a white shirt.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The man on the left is wearing a white shirt and the man on the right is wearing a white shirt.",
+    "objects": [
+      "white",
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The man on the left is wearing a white shirt and the man on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "man",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a white shirt.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a white shirt.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a white shirt.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a white shirt.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a white shirt.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a white shirt.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a white shirt.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman on the left is wearing a white shirt and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 31
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a lively equestrian activity in a park-like setting.",
+    "objects": [
+      "activity",
+      "equestrian",
+      "lively"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a lively equestrian activity in a park-like setting.",
+    "objects": [
+      "activity",
+      "equestrian",
+      "lively"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a lively equestrian activity in a park-like setting.",
+    "objects": [
+      "activity",
+      "equestrian",
+      "lively"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video shows a lively equestrian activity in a park-like setting.",
+    "objects": [
+      "activity",
+      "equestrian",
+      "lively"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A group of people, including children, are seen riding horses.",
+    "objects": [
+      "children",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "horses",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A group of people, including children, are seen riding horses.",
+    "objects": [
+      "children",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "horses",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A group of people, including children, are seen riding horses.",
+    "objects": [
+      "children",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "horses",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A group of people, including children, are seen riding horses.",
+    "objects": [
+      "children",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "horses",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene is filled with excitement and activity as they navigate around a course.",
+    "objects": [
+      "they",
+      "activity",
+      "course",
+      "navigate",
+      "around",
+      "excitement"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene is filled with excitement and activity as they navigate around a course.",
+    "objects": [
+      "they",
+      "activity",
+      "course",
+      "navigate",
+      "around",
+      "excitement"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene is filled with excitement and activity as they navigate around a course.",
+    "objects": [
+      "they",
+      "activity",
+      "course",
+      "navigate",
+      "around",
+      "excitement"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene is filled with excitement and activity as they navigate around a course.",
+    "objects": [
+      "they",
+      "activity",
+      "course",
+      "navigate",
+      "around",
+      "excitement"
+    ],
+    "actions": [
+      "filled"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The children are wearing helmets and blue hoodies, while the adults are wearing white shirts.",
+    "objects": [
+      "while",
+      "blue",
+      "children",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "shirts",
+      "adults"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The children are wearing helmets and blue hoodies, while the adults are wearing white shirts.",
+    "objects": [
+      "while",
+      "blue",
+      "children",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "shirts",
+      "adults"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The children are wearing helmets and blue hoodies, while the adults are wearing white shirts.",
+    "objects": [
+      "while",
+      "blue",
+      "children",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "shirts",
+      "adults"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The children are wearing helmets and blue hoodies, while the adults are wearing white shirts.",
+    "objects": [
+      "while",
+      "blue",
+      "children",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "shirts",
+      "adults"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Some riders are holding the reins of their horses, guiding them around the course.",
+    "objects": [
+      "their",
+      "course",
+      "some",
+      "around",
+      "them"
+    ],
+    "actions": [
+      "riders",
+      "holding",
+      "reins",
+      "horses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Some riders are holding the reins of their horses, guiding them around the course.",
+    "objects": [
+      "their",
+      "course",
+      "some",
+      "around",
+      "them"
+    ],
+    "actions": [
+      "riders",
+      "holding",
+      "reins",
+      "horses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Some riders are holding the reins of their horses, guiding them around the course.",
+    "objects": [
+      "their",
+      "course",
+      "some",
+      "around",
+      "them"
+    ],
+    "actions": [
+      "riders",
+      "holding",
+      "reins",
+      "horses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Some riders are holding the reins of their horses, guiding them around the course.",
+    "objects": [
+      "their",
+      "course",
+      "some",
+      "around",
+      "them"
+    ],
+    "actions": [
+      "riders",
+      "holding",
+      "reins",
+      "horses"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "One adult is seen helping a young rider, while another adult and a child are talking to each other.",
+    "objects": [
+      "one",
+      "each",
+      "other",
+      "child",
+      "while",
+      "rider",
+      "adult",
+      "young"
+    ],
+    "actions": [
+      "talking",
+      "helping"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "One adult is seen helping a young rider, while another adult and a child are talking to each other.",
+    "objects": [
+      "one",
+      "each",
+      "other",
+      "child",
+      "while",
+      "rider",
+      "adult",
+      "young"
+    ],
+    "actions": [
+      "talking",
+      "helping"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "One adult is seen helping a young rider, while another adult and a child are talking to each other.",
+    "objects": [
+      "one",
+      "each",
+      "other",
+      "child",
+      "while",
+      "rider",
+      "adult",
+      "young"
+    ],
+    "actions": [
+      "talking",
+      "helping"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "One adult is seen helping a young rider, while another adult and a child are talking to each other.",
+    "objects": [
+      "one",
+      "each",
+      "other",
+      "child",
+      "while",
+      "rider",
+      "adult",
+      "young"
+    ],
+    "actions": [
+      "talking",
+      "helping"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The riders are dressed in casual equestrian wear, and the horses are of various colors.",
+    "objects": [
+      "casual",
+      "wear",
+      "equestrian"
+    ],
+    "actions": [
+      "dressed",
+      "riders",
+      "horses",
+      "colors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The riders are dressed in casual equestrian wear, and the horses are of various colors.",
+    "objects": [
+      "casual",
+      "wear",
+      "equestrian"
+    ],
+    "actions": [
+      "dressed",
+      "riders",
+      "horses",
+      "colors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The riders are dressed in casual equestrian wear, and the horses are of various colors.",
+    "objects": [
+      "casual",
+      "wear",
+      "equestrian"
+    ],
+    "actions": [
+      "dressed",
+      "riders",
+      "horses",
+      "colors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The riders are dressed in casual equestrian wear, and the horses are of various colors.",
+    "objects": [
+      "casual",
+      "wear",
+      "equestrian"
+    ],
+    "actions": [
+      "dressed",
+      "riders",
+      "horses",
+      "colors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The park is surrounded by lush greenery, with a few trees visible in the background.",
+    "objects": [
+      "few",
+      "greenery",
+      "park",
+      "lush"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The park is surrounded by lush greenery, with a few trees visible in the background.",
+    "objects": [
+      "few",
+      "greenery",
+      "park",
+      "lush"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The park is surrounded by lush greenery, with a few trees visible in the background.",
+    "objects": [
+      "few",
+      "greenery",
+      "park",
+      "lush"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The park is surrounded by lush greenery, with a few trees visible in the background.",
+    "objects": [
+      "few",
+      "greenery",
+      "park",
+      "lush"
+    ],
+    "actions": [
+      "trees",
+      "surrounded"
+    ],
+    "segment_id": 7
+  }
+]

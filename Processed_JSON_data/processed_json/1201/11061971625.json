@@ -1,0 +1,560 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively scene of children engaged in various activities on a wooden floor.",
+    "objects": [
+      "wooden",
+      "floor",
+      "children",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively scene of children engaged in various activities on a wooden floor.",
+    "objects": [
+      "wooden",
+      "floor",
+      "children",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively scene of children engaged in various activities on a wooden floor.",
+    "objects": [
+      "wooden",
+      "floor",
+      "children",
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A young boy, dressed in a blue shirt and white shorts, is holding a model ship with a blue hull and gold mast.",
+    "objects": [
+      "white",
+      "blue",
+      "gold",
+      "young",
+      "shirt",
+      "mast",
+      "ship",
+      "boy"
+    ],
+    "actions": [
+      "holding",
+      "shorts",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A young boy, dressed in a blue shirt and white shorts, is holding a model ship with a blue hull and gold mast.",
+    "objects": [
+      "white",
+      "blue",
+      "gold",
+      "young",
+      "shirt",
+      "mast",
+      "ship",
+      "boy"
+    ],
+    "actions": [
+      "holding",
+      "shorts",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A young boy, dressed in a blue shirt and white shorts, is holding a model ship with a blue hull and gold mast.",
+    "objects": [
+      "white",
+      "blue",
+      "gold",
+      "young",
+      "shirt",
+      "mast",
+      "ship",
+      "boy"
+    ],
+    "actions": [
+      "holding",
+      "shorts",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He seems to be intrigued by the intricate details of the ship.",
+    "objects": [
+      "intricate",
+      "ship"
+    ],
+    "actions": [
+      "intrigued",
+      "details",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He seems to be intrigued by the intricate details of the ship.",
+    "objects": [
+      "intricate",
+      "ship"
+    ],
+    "actions": [
+      "intrigued",
+      "details",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He seems to be intrigued by the intricate details of the ship.",
+    "objects": [
+      "intricate",
+      "ship"
+    ],
+    "actions": [
+      "intrigued",
+      "details",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A girl, wearing a white shirt and blue shorts, is also present in the scene.",
+    "objects": [
+      "white",
+      "blue",
+      "present",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A girl, wearing a white shirt and blue shorts, is also present in the scene.",
+    "objects": [
+      "white",
+      "blue",
+      "present",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A girl, wearing a white shirt and blue shorts, is also present in the scene.",
+    "objects": [
+      "white",
+      "blue",
+      "present",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "She is holding a toy sailboat, attentively examining it, and appears to be focused on the details of the toy.",
+    "objects": [
+      "attentively",
+      "toy",
+      "she",
+      "sailboat"
+    ],
+    "actions": [
+      "examining",
+      "focused",
+      "holding",
+      "details"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "She is holding a toy sailboat, attentively examining it, and appears to be focused on the details of the toy.",
+    "objects": [
+      "attentively",
+      "toy",
+      "she",
+      "sailboat"
+    ],
+    "actions": [
+      "examining",
+      "focused",
+      "holding",
+      "details"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "She is holding a toy sailboat, attentively examining it, and appears to be focused on the details of the toy.",
+    "objects": [
+      "attentively",
+      "toy",
+      "she",
+      "sailboat"
+    ],
+    "actions": [
+      "examining",
+      "focused",
+      "holding",
+      "details"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Another boy, wearing a white shirt and black shorts, is playing with a toy car.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "shirt",
+      "boy",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Another boy, wearing a white shirt and black shorts, is playing with a toy car.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "shirt",
+      "boy",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Another boy, wearing a white shirt and black shorts, is playing with a toy car.",
+    "objects": [
+      "white",
+      "car",
+      "toy",
+      "shirt",
+      "boy",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts",
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "He seems to be enjoying the motion of the toy.",
+    "objects": [
+      "motion",
+      "toy"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "He seems to be enjoying the motion of the toy.",
+    "objects": [
+      "motion",
+      "toy"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "He seems to be enjoying the motion of the toy.",
+    "objects": [
+      "motion",
+      "toy"
+    ],
+    "actions": [
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Meanwhile, a young girl in a black shirt and white shorts is holding a toy sailboat, perhaps lost in the imaginary world of the toy ship.",
+    "objects": [
+      "imaginary",
+      "white",
+      "toy",
+      "world",
+      "sailboat",
+      "lost",
+      "meanwhile",
+      "young"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Meanwhile, a young girl in a black shirt and white shorts is holding a toy sailboat, perhaps lost in the imaginary world of the toy ship.",
+    "objects": [
+      "imaginary",
+      "white",
+      "toy",
+      "world",
+      "sailboat",
+      "lost",
+      "meanwhile",
+      "young"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Meanwhile, a young girl in a black shirt and white shorts is holding a toy sailboat, perhaps lost in the imaginary world of the toy ship.",
+    "objects": [
+      "imaginary",
+      "white",
+      "toy",
+      "world",
+      "sailboat",
+      "lost",
+      "meanwhile",
+      "young"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A boy in a red shirt and black shorts is holding a toy sailboat, his attention drawn to the ship's design.",
+    "objects": [
+      "toy",
+      "design",
+      "attention",
+      "sailboat",
+      "his",
+      "shirt",
+      "drawn",
+      "boy"
+    ],
+    "actions": [
+      "holding",
+      "ship's",
+      "red",
+      "shorts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A boy in a red shirt and black shorts is holding a toy sailboat, his attention drawn to the ship's design.",
+    "objects": [
+      "toy",
+      "design",
+      "attention",
+      "sailboat",
+      "his",
+      "shirt",
+      "drawn",
+      "boy"
+    ],
+    "actions": [
+      "holding",
+      "ship's",
+      "red",
+      "shorts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A boy in a red shirt and black shorts is holding a toy sailboat, his attention drawn to the ship's design.",
+    "objects": [
+      "toy",
+      "design",
+      "attention",
+      "sailboat",
+      "his",
+      "shirt",
+      "drawn",
+      "boy"
+    ],
+    "actions": [
+      "holding",
+      "ship's",
+      "red",
+      "shorts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "Lastly, a girl in a black shirt is holding a toy sailboat, possibly contemplating the ship's structure.",
+    "objects": [
+      "toy",
+      "sailboat",
+      "lastly",
+      "shirt",
+      "girl",
+      "structure",
+      "black",
+      "possibly"
+    ],
+    "actions": [
+      "ship's",
+      "holding",
+      "contemplating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "Lastly, a girl in a black shirt is holding a toy sailboat, possibly contemplating the ship's structure.",
+    "objects": [
+      "toy",
+      "sailboat",
+      "lastly",
+      "shirt",
+      "girl",
+      "structure",
+      "black",
+      "possibly"
+    ],
+    "actions": [
+      "ship's",
+      "holding",
+      "contemplating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "Lastly, a girl in a black shirt is holding a toy sailboat, possibly contemplating the ship's structure.",
+    "objects": [
+      "toy",
+      "sailboat",
+      "lastly",
+      "shirt",
+      "girl",
+      "structure",
+      "black",
+      "possibly"
+    ],
+    "actions": [
+      "ship's",
+      "holding",
+      "contemplating"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is filled with a sense of curiosity and fascination as the children explore the details of their toys.",
+    "objects": [
+      "explore",
+      "toys",
+      "curiosity",
+      "sense",
+      "fascination",
+      "their",
+      "children"
+    ],
+    "actions": [
+      "filled",
+      "details"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is filled with a sense of curiosity and fascination as the children explore the details of their toys.",
+    "objects": [
+      "explore",
+      "toys",
+      "curiosity",
+      "sense",
+      "fascination",
+      "their",
+      "children"
+    ],
+    "actions": [
+      "filled",
+      "details"
+    ],
+    "segment_id": 10
+  }
+]

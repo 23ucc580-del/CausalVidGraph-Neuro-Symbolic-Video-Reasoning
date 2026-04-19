@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people in a restaurant, preparing and serving food.",
+    "objects": [
+      "restaurant",
+      "people",
+      "see",
+      "group",
+      "food"
+    ],
+    "actions": [
+      "serving",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people in a restaurant, preparing and serving food.",
+    "objects": [
+      "restaurant",
+      "people",
+      "see",
+      "group",
+      "food"
+    ],
+    "actions": [
+      "serving",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of people in a restaurant, preparing and serving food.",
+    "objects": [
+      "restaurant",
+      "people",
+      "see",
+      "group",
+      "food"
+    ],
+    "actions": [
+      "serving",
+      "preparing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The main focus is on a man dressed in a white chef's uniform, who is cutting into a large roasted pig with a knife.",
+    "objects": [
+      "man",
+      "white",
+      "main",
+      "who",
+      "knife",
+      "uniform",
+      "into",
+      "pig"
+    ],
+    "actions": [
+      "dressed",
+      "focus",
+      "cutting",
+      "chef's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The main focus is on a man dressed in a white chef's uniform, who is cutting into a large roasted pig with a knife.",
+    "objects": [
+      "man",
+      "white",
+      "main",
+      "who",
+      "knife",
+      "uniform",
+      "into",
+      "pig"
+    ],
+    "actions": [
+      "dressed",
+      "focus",
+      "cutting",
+      "chef's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The main focus is on a man dressed in a white chef's uniform, who is cutting into a large roasted pig with a knife.",
+    "objects": [
+      "man",
+      "white",
+      "main",
+      "who",
+      "knife",
+      "uniform",
+      "into",
+      "pig"
+    ],
+    "actions": [
+      "dressed",
+      "focus",
+      "cutting",
+      "chef's"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is holding a plate of food in his left hand and wearing a white hat.",
+    "objects": [
+      "white",
+      "hand",
+      "hat",
+      "his",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He is holding a plate of food in his left hand and wearing a white hat.",
+    "objects": [
+      "white",
+      "hand",
+      "hat",
+      "his",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He is holding a plate of food in his left hand and wearing a white hat.",
+    "objects": [
+      "white",
+      "hand",
+      "hat",
+      "his",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is using a knife to cut through the meat, which is on a silver platter.",
+    "objects": [
+      "which",
+      "through",
+      "silver",
+      "platter",
+      "cut",
+      "knife",
+      "meat"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "He is using a knife to cut through the meat, which is on a silver platter.",
+    "objects": [
+      "which",
+      "through",
+      "silver",
+      "platter",
+      "cut",
+      "knife",
+      "meat"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "He is using a knife to cut through the meat, which is on a silver platter.",
+    "objects": [
+      "which",
+      "through",
+      "silver",
+      "platter",
+      "cut",
+      "knife",
+      "meat"
+    ],
+    "actions": [
+      "using"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man in the background is wearing a black shirt and holding a plate of food.",
+    "objects": [
+      "black",
+      "man",
+      "shirt",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man in the background is wearing a black shirt and holding a plate of food.",
+    "objects": [
+      "black",
+      "man",
+      "shirt",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Another man in the background is wearing a black shirt and holding a plate of food.",
+    "objects": [
+      "black",
+      "man",
+      "shirt",
+      "food",
+      "plate"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The chef's uniform consists of a white hat, white jacket, and white pants.",
+    "objects": [
+      "hat",
+      "jacket",
+      "white",
+      "uniform"
+    ],
+    "actions": [
+      "pants",
+      "chef's",
+      "consists"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The chef's uniform consists of a white hat, white jacket, and white pants.",
+    "objects": [
+      "hat",
+      "jacket",
+      "white",
+      "uniform"
+    ],
+    "actions": [
+      "pants",
+      "chef's",
+      "consists"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The chef's uniform consists of a white hat, white jacket, and white pants.",
+    "objects": [
+      "hat",
+      "jacket",
+      "white",
+      "uniform"
+    ],
+    "actions": [
+      "pants",
+      "chef's",
+      "consists"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "There is a person in the background wearing a blue shirt who is holding a glass of water.",
+    "objects": [
+      "water",
+      "who",
+      "blue",
+      "glass",
+      "shirt",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "There is a person in the background wearing a blue shirt who is holding a glass of water.",
+    "objects": [
+      "water",
+      "who",
+      "blue",
+      "glass",
+      "shirt",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a person in the background wearing a blue shirt who is holding a glass of water.",
+    "objects": [
+      "water",
+      "who",
+      "blue",
+      "glass",
+      "shirt",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a black shirt is standing at the counter, and another person in a grey hoodie is sitting at a table with a plate of food.",
+    "objects": [
+      "plate",
+      "woman",
+      "hoodie",
+      "table",
+      "grey",
+      "shirt",
+      "counter",
+      "food"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman in a black shirt is standing at the counter, and another person in a grey hoodie is sitting at a table with a plate of food.",
+    "objects": [
+      "plate",
+      "woman",
+      "hoodie",
+      "table",
+      "grey",
+      "shirt",
+      "counter",
+      "food"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman in a black shirt is standing at the counter, and another person in a grey hoodie is sitting at a table with a plate of food.",
+    "objects": [
+      "plate",
+      "woman",
+      "hoodie",
+      "table",
+      "grey",
+      "shirt",
+      "counter",
+      "food"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a blue shirt is standing next to the woman, while a man in a black jacket is sitting at the counter, holding a plate of food.",
+    "objects": [
+      "plate",
+      "woman",
+      "man",
+      "blue",
+      "while",
+      "shirt",
+      "jacket",
+      "counter"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a blue shirt is standing next to the woman, while a man in a black jacket is sitting at the counter, holding a plate of food.",
+    "objects": [
+      "plate",
+      "woman",
+      "man",
+      "blue",
+      "while",
+      "shirt",
+      "jacket",
+      "counter"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a blue shirt is standing next to the woman, while a man in a black jacket is sitting at the counter, holding a plate of food.",
+    "objects": [
+      "plate",
+      "woman",
+      "man",
+      "blue",
+      "while",
+      "shirt",
+      "jacket",
+      "counter"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "Lastly, a woman in a black shirt is sitting at the counter with a plate of food.",
+    "objects": [
+      "plate",
+      "woman",
+      "lastly",
+      "shirt",
+      "counter",
+      "food",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "Lastly, a woman in a black shirt is sitting at the counter with a plate of food.",
+    "objects": [
+      "plate",
+      "woman",
+      "lastly",
+      "shirt",
+      "counter",
+      "food",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "Lastly, a woman in a black shirt is sitting at the counter with a plate of food.",
+    "objects": [
+      "plate",
+      "woman",
+      "lastly",
+      "shirt",
+      "counter",
+      "food",
+      "black"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is set in a restaurant with people dressed in different colors of clothing, engaging in various activities such as preparing and serving food, standing and sitting at the counter.",
+    "objects": [
+      "different",
+      "restaurant",
+      "such",
+      "people",
+      "counter",
+      "food",
+      "set"
+    ],
+    "actions": [
+      "activities",
+      "dressed",
+      "serving",
+      "sitting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is set in a restaurant with people dressed in different colors of clothing, engaging in various activities such as preparing and serving food, standing and sitting at the counter.",
+    "objects": [
+      "different",
+      "restaurant",
+      "such",
+      "people",
+      "counter",
+      "food",
+      "set"
+    ],
+    "actions": [
+      "activities",
+      "dressed",
+      "serving",
+      "sitting"
+    ],
+    "segment_id": 10
+  }
+]

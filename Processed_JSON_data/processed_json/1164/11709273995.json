@@ -1,0 +1,562 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people in a gym, engaged in various activities.",
+    "objects": [
+      "gym",
+      "see",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people in a gym, engaged in various activities.",
+    "objects": [
+      "gym",
+      "see",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of people in a gym, engaged in various activities.",
+    "objects": [
+      "gym",
+      "see",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a group of people in a gym, engaged in various activities.",
+    "objects": [
+      "gym",
+      "see",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The main focus is on a man in a blue hoodie and another man in a blue shirt.",
+    "objects": [
+      "blue",
+      "main",
+      "man",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The main focus is on a man in a blue hoodie and another man in a blue shirt.",
+    "objects": [
+      "blue",
+      "main",
+      "man",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The main focus is on a man in a blue hoodie and another man in a blue shirt.",
+    "objects": [
+      "blue",
+      "main",
+      "man",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The main focus is on a man in a blue hoodie and another man in a blue shirt.",
+    "objects": [
+      "blue",
+      "main",
+      "man",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man in the blue hoodie is helping a young boy in a black shirt with red hair, who is in a precarious position on a set of uneven bars.",
+    "objects": [
+      "blue",
+      "man",
+      "who",
+      "position",
+      "young",
+      "shirt",
+      "set",
+      "uneven"
+    ],
+    "actions": [
+      "precarious",
+      "red",
+      "helping"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man in the blue hoodie is helping a young boy in a black shirt with red hair, who is in a precarious position on a set of uneven bars.",
+    "objects": [
+      "blue",
+      "man",
+      "who",
+      "position",
+      "young",
+      "shirt",
+      "set",
+      "uneven"
+    ],
+    "actions": [
+      "precarious",
+      "red",
+      "helping"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man in the blue hoodie is helping a young boy in a black shirt with red hair, who is in a precarious position on a set of uneven bars.",
+    "objects": [
+      "blue",
+      "man",
+      "who",
+      "position",
+      "young",
+      "shirt",
+      "set",
+      "uneven"
+    ],
+    "actions": [
+      "precarious",
+      "red",
+      "helping"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man in the blue hoodie is helping a young boy in a black shirt with red hair, who is in a precarious position on a set of uneven bars.",
+    "objects": [
+      "blue",
+      "man",
+      "who",
+      "position",
+      "young",
+      "shirt",
+      "set",
+      "uneven"
+    ],
+    "actions": [
+      "precarious",
+      "red",
+      "helping"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "He is holding the boy's hands and guiding him as he tries to balance.",
+    "objects": [
+      "balance",
+      "him"
+    ],
+    "actions": [
+      "guiding",
+      "holding",
+      "hands",
+      "boy's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "He is holding the boy's hands and guiding him as he tries to balance.",
+    "objects": [
+      "balance",
+      "him"
+    ],
+    "actions": [
+      "guiding",
+      "holding",
+      "hands",
+      "boy's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "He is holding the boy's hands and guiding him as he tries to balance.",
+    "objects": [
+      "balance",
+      "him"
+    ],
+    "actions": [
+      "guiding",
+      "holding",
+      "hands",
+      "boy's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "He is holding the boy's hands and guiding him as he tries to balance.",
+    "objects": [
+      "balance",
+      "him"
+    ],
+    "actions": [
+      "guiding",
+      "holding",
+      "hands",
+      "boy's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Meanwhile, the man in the blue shirt is watching the interaction and appears to be ready to assist if needed.",
+    "objects": [
+      "blue",
+      "assist",
+      "interaction",
+      "ready",
+      "man",
+      "meanwhile",
+      "shirt"
+    ],
+    "actions": [
+      "needed",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Meanwhile, the man in the blue shirt is watching the interaction and appears to be ready to assist if needed.",
+    "objects": [
+      "blue",
+      "assist",
+      "interaction",
+      "ready",
+      "man",
+      "meanwhile",
+      "shirt"
+    ],
+    "actions": [
+      "needed",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Meanwhile, the man in the blue shirt is watching the interaction and appears to be ready to assist if needed.",
+    "objects": [
+      "blue",
+      "assist",
+      "interaction",
+      "ready",
+      "man",
+      "meanwhile",
+      "shirt"
+    ],
+    "actions": [
+      "needed",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Meanwhile, the man in the blue shirt is watching the interaction and appears to be ready to assist if needed.",
+    "objects": [
+      "blue",
+      "assist",
+      "interaction",
+      "ready",
+      "man",
+      "meanwhile",
+      "shirt"
+    ],
+    "actions": [
+      "needed",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "There are also other individuals in the background, one wearing a yellow shirt and another in a blue shirt, standing by a beam.",
+    "objects": [
+      "blue",
+      "other",
+      "shirt",
+      "one",
+      "there",
+      "yellow",
+      "beam"
+    ],
+    "actions": [
+      "individuals",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "There are also other individuals in the background, one wearing a yellow shirt and another in a blue shirt, standing by a beam.",
+    "objects": [
+      "blue",
+      "other",
+      "shirt",
+      "one",
+      "there",
+      "yellow",
+      "beam"
+    ],
+    "actions": [
+      "individuals",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "There are also other individuals in the background, one wearing a yellow shirt and another in a blue shirt, standing by a beam.",
+    "objects": [
+      "blue",
+      "other",
+      "shirt",
+      "one",
+      "there",
+      "yellow",
+      "beam"
+    ],
+    "actions": [
+      "individuals",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "There are also other individuals in the background, one wearing a yellow shirt and another in a blue shirt, standing by a beam.",
+    "objects": [
+      "blue",
+      "other",
+      "shirt",
+      "one",
+      "there",
+      "yellow",
+      "beam"
+    ],
+    "actions": [
+      "individuals",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The gym itself is well-lit, with multiple gymnastics equipment visible, including the uneven bars that the boy is on and other apparatus.",
+    "objects": [
+      "itself",
+      "multiple",
+      "gym",
+      "other",
+      "uneven",
+      "equipment",
+      "bars",
+      "that"
+    ],
+    "actions": [
+      "apparatus",
+      "gymnastics"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The gym itself is well-lit, with multiple gymnastics equipment visible, including the uneven bars that the boy is on and other apparatus.",
+    "objects": [
+      "itself",
+      "multiple",
+      "gym",
+      "other",
+      "uneven",
+      "equipment",
+      "bars",
+      "that"
+    ],
+    "actions": [
+      "apparatus",
+      "gymnastics"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The gym itself is well-lit, with multiple gymnastics equipment visible, including the uneven bars that the boy is on and other apparatus.",
+    "objects": [
+      "itself",
+      "multiple",
+      "gym",
+      "other",
+      "uneven",
+      "equipment",
+      "bars",
+      "that"
+    ],
+    "actions": [
+      "apparatus",
+      "gymnastics"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The gym itself is well-lit, with multiple gymnastics equipment visible, including the uneven bars that the boy is on and other apparatus.",
+    "objects": [
+      "itself",
+      "multiple",
+      "gym",
+      "other",
+      "uneven",
+      "equipment",
+      "bars",
+      "that"
+    ],
+    "actions": [
+      "apparatus",
+      "gymnastics"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is active and dynamic, with the individuals involved in different activities, and the gym's equipment adding to the overall atmosphere.",
+    "objects": [
+      "different",
+      "atmosphere",
+      "dynamic",
+      "active",
+      "equipment",
+      "overall"
+    ],
+    "actions": [
+      "adding",
+      "involved",
+      "activities",
+      "gym's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is active and dynamic, with the individuals involved in different activities, and the gym's equipment adding to the overall atmosphere.",
+    "objects": [
+      "different",
+      "atmosphere",
+      "dynamic",
+      "active",
+      "equipment",
+      "overall"
+    ],
+    "actions": [
+      "adding",
+      "involved",
+      "activities",
+      "gym's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is active and dynamic, with the individuals involved in different activities, and the gym's equipment adding to the overall atmosphere.",
+    "objects": [
+      "different",
+      "atmosphere",
+      "dynamic",
+      "active",
+      "equipment",
+      "overall"
+    ],
+    "actions": [
+      "adding",
+      "involved",
+      "activities",
+      "gym's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is active and dynamic, with the individuals involved in different activities, and the gym's equipment adding to the overall atmosphere.",
+    "objects": [
+      "different",
+      "atmosphere",
+      "dynamic",
+      "active",
+      "equipment",
+      "overall"
+    ],
+    "actions": [
+      "adding",
+      "involved",
+      "activities",
+      "gym's"
+    ],
+    "segment_id": 7
+  }
+]

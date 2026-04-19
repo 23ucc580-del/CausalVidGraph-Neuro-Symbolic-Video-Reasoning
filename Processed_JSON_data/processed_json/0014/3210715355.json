@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a joyful winter scene with two young boys skiing on a mountain slope.",
+    "objects": [
+      "slope",
+      "mountain",
+      "winter",
+      "boys",
+      "joyful",
+      "two",
+      "young"
+    ],
+    "actions": [
+      "skiing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a joyful winter scene with two young boys skiing on a mountain slope.",
+    "objects": [
+      "slope",
+      "mountain",
+      "winter",
+      "boys",
+      "joyful",
+      "two",
+      "young"
+    ],
+    "actions": [
+      "skiing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a joyful winter scene with two young boys skiing on a mountain slope.",
+    "objects": [
+      "slope",
+      "mountain",
+      "winter",
+      "boys",
+      "joyful",
+      "two",
+      "young"
+    ],
+    "actions": [
+      "skiing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a joyful winter scene with two young boys skiing on a mountain slope.",
+    "objects": [
+      "slope",
+      "mountain",
+      "winter",
+      "boys",
+      "joyful",
+      "two",
+      "young"
+    ],
+    "actions": [
+      "skiing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The boy in the blue jacket is skiing down the slope, his body leaning forward in anticipation of the thrill of the descent.",
+    "objects": [
+      "forward",
+      "anticipation",
+      "slope",
+      "boy",
+      "jacket",
+      "blue",
+      "descent",
+      "thrill"
+    ],
+    "actions": [
+      "skiing",
+      "leaning"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The boy in the blue jacket is skiing down the slope, his body leaning forward in anticipation of the thrill of the descent.",
+    "objects": [
+      "forward",
+      "anticipation",
+      "slope",
+      "boy",
+      "jacket",
+      "blue",
+      "descent",
+      "thrill"
+    ],
+    "actions": [
+      "skiing",
+      "leaning"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The boy in the blue jacket is skiing down the slope, his body leaning forward in anticipation of the thrill of the descent.",
+    "objects": [
+      "forward",
+      "anticipation",
+      "slope",
+      "boy",
+      "jacket",
+      "blue",
+      "descent",
+      "thrill"
+    ],
+    "actions": [
+      "skiing",
+      "leaning"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The boy in the blue jacket is skiing down the slope, his body leaning forward in anticipation of the thrill of the descent.",
+    "objects": [
+      "forward",
+      "anticipation",
+      "slope",
+      "boy",
+      "jacket",
+      "blue",
+      "descent",
+      "thrill"
+    ],
+    "actions": [
+      "skiing",
+      "leaning"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is wearing a blue jacket and a helmet, holding ski poles, and wearing goggles.",
+    "objects": [
+      "ski",
+      "blue",
+      "jacket",
+      "helmet"
+    ],
+    "actions": [
+      "goggles",
+      "holding",
+      "poles",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is wearing a blue jacket and a helmet, holding ski poles, and wearing goggles.",
+    "objects": [
+      "ski",
+      "blue",
+      "jacket",
+      "helmet"
+    ],
+    "actions": [
+      "goggles",
+      "holding",
+      "poles",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is wearing a blue jacket and a helmet, holding ski poles, and wearing goggles.",
+    "objects": [
+      "ski",
+      "blue",
+      "jacket",
+      "helmet"
+    ],
+    "actions": [
+      "goggles",
+      "holding",
+      "poles",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is wearing a blue jacket and a helmet, holding ski poles, and wearing goggles.",
+    "objects": [
+      "ski",
+      "blue",
+      "jacket",
+      "helmet"
+    ],
+    "actions": [
+      "goggles",
+      "holding",
+      "poles",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The other boy, in the red jacket, is skiing uphill, his body angled towards the sky, perhaps in an attempt to catch his breath or maintain balance.",
+    "objects": [
+      "boy",
+      "jacket",
+      "balance",
+      "attempt",
+      "breath",
+      "catch",
+      "sky",
+      "other"
+    ],
+    "actions": [
+      "red",
+      "angled",
+      "towards",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The other boy, in the red jacket, is skiing uphill, his body angled towards the sky, perhaps in an attempt to catch his breath or maintain balance.",
+    "objects": [
+      "boy",
+      "jacket",
+      "balance",
+      "attempt",
+      "breath",
+      "catch",
+      "sky",
+      "other"
+    ],
+    "actions": [
+      "red",
+      "angled",
+      "towards",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The other boy, in the red jacket, is skiing uphill, his body angled towards the sky, perhaps in an attempt to catch his breath or maintain balance.",
+    "objects": [
+      "boy",
+      "jacket",
+      "balance",
+      "attempt",
+      "breath",
+      "catch",
+      "sky",
+      "other"
+    ],
+    "actions": [
+      "red",
+      "angled",
+      "towards",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The other boy, in the red jacket, is skiing uphill, his body angled towards the sky, perhaps in an attempt to catch his breath or maintain balance.",
+    "objects": [
+      "boy",
+      "jacket",
+      "balance",
+      "attempt",
+      "breath",
+      "catch",
+      "sky",
+      "other"
+    ],
+    "actions": [
+      "red",
+      "angled",
+      "towards",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "He too is wearing a helmet and goggles.",
+    "objects": [
+      "too",
+      "helmet"
+    ],
+    "actions": [
+      "goggles",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "He too is wearing a helmet and goggles.",
+    "objects": [
+      "too",
+      "helmet"
+    ],
+    "actions": [
+      "goggles",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "He too is wearing a helmet and goggles.",
+    "objects": [
+      "too",
+      "helmet"
+    ],
+    "actions": [
+      "goggles",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "He too is wearing a helmet and goggles.",
+    "objects": [
+      "too",
+      "helmet"
+    ],
+    "actions": [
+      "goggles",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Both boys are smiling, their faces lit up with the excitement of the sport.",
+    "objects": [
+      "their",
+      "boys",
+      "both",
+      "excitement",
+      "lit",
+      "sport"
+    ],
+    "actions": [
+      "smiling",
+      "faces"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Both boys are smiling, their faces lit up with the excitement of the sport.",
+    "objects": [
+      "their",
+      "boys",
+      "both",
+      "excitement",
+      "lit",
+      "sport"
+    ],
+    "actions": [
+      "smiling",
+      "faces"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Both boys are smiling, their faces lit up with the excitement of the sport.",
+    "objects": [
+      "their",
+      "boys",
+      "both",
+      "excitement",
+      "lit",
+      "sport"
+    ],
+    "actions": [
+      "smiling",
+      "faces"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Both boys are smiling, their faces lit up with the excitement of the sport.",
+    "objects": [
+      "their",
+      "boys",
+      "both",
+      "excitement",
+      "lit",
+      "sport"
+    ],
+    "actions": [
+      "smiling",
+      "faces"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera angle suggests they are being filmed by someone off-camera, capturing their enjoyment of the skiing activity.",
+    "objects": [
+      "their",
+      "activity",
+      "someone",
+      "enjoyment",
+      "they"
+    ],
+    "actions": [
+      "filmed",
+      "being",
+      "capturing",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera angle suggests they are being filmed by someone off-camera, capturing their enjoyment of the skiing activity.",
+    "objects": [
+      "their",
+      "activity",
+      "someone",
+      "enjoyment",
+      "they"
+    ],
+    "actions": [
+      "filmed",
+      "being",
+      "capturing",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera angle suggests they are being filmed by someone off-camera, capturing their enjoyment of the skiing activity.",
+    "objects": [
+      "their",
+      "activity",
+      "someone",
+      "enjoyment",
+      "they"
+    ],
+    "actions": [
+      "filmed",
+      "being",
+      "capturing",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera angle suggests they are being filmed by someone off-camera, capturing their enjoyment of the skiing activity.",
+    "objects": [
+      "their",
+      "activity",
+      "someone",
+      "enjoyment",
+      "they"
+    ],
+    "actions": [
+      "filmed",
+      "being",
+      "capturing",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The snow-covered mountain slope and the clear sky in the background provide a beautiful backdrop for the action.",
+    "objects": [
+      "backdrop",
+      "slope",
+      "action",
+      "beautiful",
+      "provide",
+      "sky",
+      "clear",
+      "mountain"
+    ],
+    "actions": [
+      "snow-covered"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The snow-covered mountain slope and the clear sky in the background provide a beautiful backdrop for the action.",
+    "objects": [
+      "backdrop",
+      "slope",
+      "action",
+      "beautiful",
+      "provide",
+      "sky",
+      "clear",
+      "mountain"
+    ],
+    "actions": [
+      "snow-covered"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The snow-covered mountain slope and the clear sky in the background provide a beautiful backdrop for the action.",
+    "objects": [
+      "backdrop",
+      "slope",
+      "action",
+      "beautiful",
+      "provide",
+      "sky",
+      "clear",
+      "mountain"
+    ],
+    "actions": [
+      "snow-covered"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The snow-covered mountain slope and the clear sky in the background provide a beautiful backdrop for the action.",
+    "objects": [
+      "backdrop",
+      "slope",
+      "action",
+      "beautiful",
+      "provide",
+      "sky",
+      "clear",
+      "mountain"
+    ],
+    "actions": [
+      "snow-covered"
+    ],
+    "segment_id": 7
+  }
+]

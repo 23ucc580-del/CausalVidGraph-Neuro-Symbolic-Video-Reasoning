@@ -1,0 +1,580 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are two men engaged in a woodcutting activity in a backyard.",
+    "objects": [
+      "activity",
+      "there",
+      "two",
+      "men",
+      "backyard"
+    ],
+    "actions": [
+      "engaged",
+      "woodcutting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are two men engaged in a woodcutting activity in a backyard.",
+    "objects": [
+      "activity",
+      "there",
+      "two",
+      "men",
+      "backyard"
+    ],
+    "actions": [
+      "engaged",
+      "woodcutting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are two men engaged in a woodcutting activity in a backyard.",
+    "objects": [
+      "activity",
+      "there",
+      "two",
+      "men",
+      "backyard"
+    ],
+    "actions": [
+      "engaged",
+      "woodcutting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "One man is holding a chainsaw and is in the process of cutting a log of wood, while the other man is holding a chainsaw and a piece of wood, presumably to use as a support or to hold the log in place.",
+    "objects": [
+      "one",
+      "wood",
+      "piece",
+      "log",
+      "other",
+      "use",
+      "chainsaw",
+      "presumably"
+    ],
+    "actions": [
+      "cutting",
+      "holding",
+      "process"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "One man is holding a chainsaw and is in the process of cutting a log of wood, while the other man is holding a chainsaw and a piece of wood, presumably to use as a support or to hold the log in place.",
+    "objects": [
+      "one",
+      "wood",
+      "piece",
+      "log",
+      "other",
+      "use",
+      "chainsaw",
+      "presumably"
+    ],
+    "actions": [
+      "cutting",
+      "holding",
+      "process"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One man is holding a chainsaw and is in the process of cutting a log of wood, while the other man is holding a chainsaw and a piece of wood, presumably to use as a support or to hold the log in place.",
+    "objects": [
+      "one",
+      "wood",
+      "piece",
+      "log",
+      "other",
+      "use",
+      "chainsaw",
+      "presumably"
+    ],
+    "actions": [
+      "cutting",
+      "holding",
+      "process"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are both dressed casually, with one wearing a blue hoodie and the other wearing a red shirt.",
+    "objects": [
+      "they",
+      "casually",
+      "one",
+      "other",
+      "both",
+      "blue",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "They are both dressed casually, with one wearing a blue hoodie and the other wearing a red shirt.",
+    "objects": [
+      "they",
+      "casually",
+      "one",
+      "other",
+      "both",
+      "blue",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "They are both dressed casually, with one wearing a blue hoodie and the other wearing a red shirt.",
+    "objects": [
+      "they",
+      "casually",
+      "one",
+      "other",
+      "both",
+      "blue",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene takes place in a fenced-in backyard, with a wooden fence and a house in the background.",
+    "objects": [
+      "place",
+      "house",
+      "backyard",
+      "wooden",
+      "fence"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene takes place in a fenced-in backyard, with a wooden fence and a house in the background.",
+    "objects": [
+      "place",
+      "house",
+      "backyard",
+      "wooden",
+      "fence"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene takes place in a fenced-in backyard, with a wooden fence and a house in the background.",
+    "objects": [
+      "place",
+      "house",
+      "backyard",
+      "wooden",
+      "fence"
+    ],
+    "actions": [
+      "takes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The wooden fence is made of vertical slats, and the house has a white exterior with a brown roof.",
+    "objects": [
+      "white",
+      "made",
+      "roof",
+      "has",
+      "house",
+      "vertical",
+      "wooden",
+      "exterior"
+    ],
+    "actions": [
+      "slats"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The wooden fence is made of vertical slats, and the house has a white exterior with a brown roof.",
+    "objects": [
+      "white",
+      "made",
+      "roof",
+      "has",
+      "house",
+      "vertical",
+      "wooden",
+      "exterior"
+    ],
+    "actions": [
+      "slats"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The wooden fence is made of vertical slats, and the house has a white exterior with a brown roof.",
+    "objects": [
+      "white",
+      "made",
+      "roof",
+      "has",
+      "house",
+      "vertical",
+      "wooden",
+      "exterior"
+    ],
+    "actions": [
+      "slats"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The men are standing on a patch of grass, and the sun is shining brightly in the sky, indicating it's a clear day.",
+    "objects": [
+      "patch",
+      "men",
+      "brightly",
+      "sun",
+      "clear",
+      "day",
+      "grass",
+      "sky"
+    ],
+    "actions": [
+      "standing",
+      "indicating",
+      "shining"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The men are standing on a patch of grass, and the sun is shining brightly in the sky, indicating it's a clear day.",
+    "objects": [
+      "patch",
+      "men",
+      "brightly",
+      "sun",
+      "clear",
+      "day",
+      "grass",
+      "sky"
+    ],
+    "actions": [
+      "standing",
+      "indicating",
+      "shining"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The men are standing on a patch of grass, and the sun is shining brightly in the sky, indicating it's a clear day.",
+    "objects": [
+      "patch",
+      "men",
+      "brightly",
+      "sun",
+      "clear",
+      "day",
+      "grass",
+      "sky"
+    ],
+    "actions": [
+      "standing",
+      "indicating",
+      "shining"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "One of the men is wearing a blue hoodie and a white shirt, while the other is wearing a red shirt and a black cap.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "while",
+      "black",
+      "men",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "One of the men is wearing a blue hoodie and a white shirt, while the other is wearing a red shirt and a black cap.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "while",
+      "black",
+      "men",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "One of the men is wearing a blue hoodie and a white shirt, while the other is wearing a red shirt and a black cap.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "while",
+      "black",
+      "men",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Both men are focused on their task, indicating the importance of the woodcutting activity.",
+    "objects": [
+      "their",
+      "activity",
+      "both",
+      "men",
+      "importance",
+      "task"
+    ],
+    "actions": [
+      "focused",
+      "indicating",
+      "woodcutting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Both men are focused on their task, indicating the importance of the woodcutting activity.",
+    "objects": [
+      "their",
+      "activity",
+      "both",
+      "men",
+      "importance",
+      "task"
+    ],
+    "actions": [
+      "focused",
+      "indicating",
+      "woodcutting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Both men are focused on their task, indicating the importance of the woodcutting activity.",
+    "objects": [
+      "their",
+      "activity",
+      "both",
+      "men",
+      "importance",
+      "task"
+    ],
+    "actions": [
+      "focused",
+      "indicating",
+      "woodcutting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The chainsaws they are using are silver and black in color.",
+    "objects": [
+      "they",
+      "black",
+      "color",
+      "silver"
+    ],
+    "actions": [
+      "using",
+      "chainsaws"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The chainsaws they are using are silver and black in color.",
+    "objects": [
+      "they",
+      "black",
+      "color",
+      "silver"
+    ],
+    "actions": [
+      "using",
+      "chainsaws"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The chainsaws they are using are silver and black in color.",
+    "objects": [
+      "they",
+      "black",
+      "color",
+      "silver"
+    ],
+    "actions": [
+      "using",
+      "chainsaws"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The men are performing their task with precision, indicating their experience in handling such equipment.",
+    "objects": [
+      "their",
+      "experience",
+      "men",
+      "equipment",
+      "task",
+      "precision",
+      "such"
+    ],
+    "actions": [
+      "handling",
+      "indicating",
+      "performing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The men are performing their task with precision, indicating their experience in handling such equipment.",
+    "objects": [
+      "their",
+      "experience",
+      "men",
+      "equipment",
+      "task",
+      "precision",
+      "such"
+    ],
+    "actions": [
+      "handling",
+      "indicating",
+      "performing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The men are performing their task with precision, indicating their experience in handling such equipment.",
+    "objects": [
+      "their",
+      "experience",
+      "men",
+      "equipment",
+      "task",
+      "precision",
+      "such"
+    ],
+    "actions": [
+      "handling",
+      "indicating",
+      "performing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere is one of a relaxed, leisurely day spent in the backyard, with the men enjoying their work.",
+    "objects": [
+      "one",
+      "their",
+      "leisurely",
+      "spent",
+      "men",
+      "work",
+      "backyard",
+      "day"
+    ],
+    "actions": [
+      "relaxed",
+      "enjoying"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere is one of a relaxed, leisurely day spent in the backyard, with the men enjoying their work.",
+    "objects": [
+      "one",
+      "their",
+      "leisurely",
+      "spent",
+      "men",
+      "work",
+      "backyard",
+      "day"
+    ],
+    "actions": [
+      "relaxed",
+      "enjoying"
+    ],
+    "segment_id": 10
+  }
+]

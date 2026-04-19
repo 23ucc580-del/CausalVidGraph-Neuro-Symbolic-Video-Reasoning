@@ -1,0 +1,541 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a lively musical performance in a restaurant setting.",
+    "objects": [
+      "musical",
+      "lively",
+      "performance",
+      "see",
+      "restaurant",
+      "this"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a lively musical performance in a restaurant setting.",
+    "objects": [
+      "musical",
+      "lively",
+      "performance",
+      "see",
+      "restaurant",
+      "this"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a lively musical performance in a restaurant setting.",
+    "objects": [
+      "musical",
+      "lively",
+      "performance",
+      "see",
+      "restaurant",
+      "this"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The stage is filled with musicians, and the audience is seated around dining tables, enjoying the show.",
+    "objects": [
+      "stage",
+      "around",
+      "show",
+      "audience"
+    ],
+    "actions": [
+      "filled",
+      "dining",
+      "musicians",
+      "tables"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The stage is filled with musicians, and the audience is seated around dining tables, enjoying the show.",
+    "objects": [
+      "stage",
+      "around",
+      "show",
+      "audience"
+    ],
+    "actions": [
+      "filled",
+      "dining",
+      "musicians",
+      "tables"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The stage is filled with musicians, and the audience is seated around dining tables, enjoying the show.",
+    "objects": [
+      "stage",
+      "around",
+      "show",
+      "audience"
+    ],
+    "actions": [
+      "filled",
+      "dining",
+      "musicians",
+      "tables"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man in a suit is singing into a microphone, while a woman in a black top and jeans is playing the cellophane.",
+    "objects": [
+      "suit",
+      "into",
+      "while",
+      "woman",
+      "black",
+      "microphone",
+      "top",
+      "cellophane"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A man in a suit is singing into a microphone, while a woman in a black top and jeans is playing the cellophane.",
+    "objects": [
+      "suit",
+      "into",
+      "while",
+      "woman",
+      "black",
+      "microphone",
+      "top",
+      "cellophane"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A man in a suit is singing into a microphone, while a woman in a black top and jeans is playing the cellophane.",
+    "objects": [
+      "suit",
+      "into",
+      "while",
+      "woman",
+      "black",
+      "microphone",
+      "top",
+      "cellophane"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "jeans"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another woman is standing nearby, playing the guitar.",
+    "objects": [
+      "nearby",
+      "guitar",
+      "woman"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Another woman is standing nearby, playing the guitar.",
+    "objects": [
+      "nearby",
+      "guitar",
+      "woman"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Another woman is standing nearby, playing the guitar.",
+    "objects": [
+      "nearby",
+      "guitar",
+      "woman"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a hat is singing with a microphone, and a woman in a red shirt is also singing into a microphone.",
+    "objects": [
+      "woman",
+      "into",
+      "microphone",
+      "shirt",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a hat is singing with a microphone, and a woman in a red shirt is also singing into a microphone.",
+    "objects": [
+      "woman",
+      "into",
+      "microphone",
+      "shirt",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a hat is singing with a microphone, and a woman in a red shirt is also singing into a microphone.",
+    "objects": [
+      "woman",
+      "into",
+      "microphone",
+      "shirt",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a suit is playing the saxophone, and a man in a black hat is playing the drums.",
+    "objects": [
+      "suit",
+      "black",
+      "saxophone",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "drums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a suit is playing the saxophone, and a man in a black hat is playing the drums.",
+    "objects": [
+      "suit",
+      "black",
+      "saxophone",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "drums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a suit is playing the saxophone, and a man in a black hat is playing the drums.",
+    "objects": [
+      "suit",
+      "black",
+      "saxophone",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "drums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The band is being watched by a woman in a black shirt, a man in a grey shirt, and a man in a white shirt.",
+    "objects": [
+      "band",
+      "white",
+      "woman",
+      "black",
+      "grey",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "watched",
+      "being"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The band is being watched by a woman in a black shirt, a man in a grey shirt, and a man in a white shirt.",
+    "objects": [
+      "band",
+      "white",
+      "woman",
+      "black",
+      "grey",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "watched",
+      "being"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The band is being watched by a woman in a black shirt, a man in a grey shirt, and a man in a white shirt.",
+    "objects": [
+      "band",
+      "white",
+      "woman",
+      "black",
+      "grey",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "watched",
+      "being"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a grey shirt is also watching the performance.",
+    "objects": [
+      "performance",
+      "grey",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman in a grey shirt is also watching the performance.",
+    "objects": [
+      "performance",
+      "grey",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman in a grey shirt is also watching the performance.",
+    "objects": [
+      "performance",
+      "grey",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "There are several water bottles on the tables, and a blue bottle can be seen on one of the tables.",
+    "objects": [
+      "one",
+      "there",
+      "can",
+      "blue",
+      "bottle",
+      "several",
+      "water"
+    ],
+    "actions": [
+      "tables",
+      "bottles"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "There are several water bottles on the tables, and a blue bottle can be seen on one of the tables.",
+    "objects": [
+      "one",
+      "there",
+      "can",
+      "blue",
+      "bottle",
+      "several",
+      "water"
+    ],
+    "actions": [
+      "tables",
+      "bottles"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "There are several water bottles on the tables, and a blue bottle can be seen on one of the tables.",
+    "objects": [
+      "one",
+      "there",
+      "can",
+      "blue",
+      "bottle",
+      "several",
+      "water"
+    ],
+    "actions": [
+      "tables",
+      "bottles"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The musicians are wearing various clothing items like hoodies, jeans, and hats, and the instruments include a cellophane, saxophone, guitar, and drums.",
+    "objects": [
+      "guitar",
+      "hats",
+      "saxophone",
+      "include",
+      "cellophane",
+      "like"
+    ],
+    "actions": [
+      "items",
+      "drums",
+      "wearing",
+      "clothing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The musicians are wearing various clothing items like hoodies, jeans, and hats, and the instruments include a cellophane, saxophone, guitar, and drums.",
+    "objects": [
+      "guitar",
+      "hats",
+      "saxophone",
+      "include",
+      "cellophane",
+      "like"
+    ],
+    "actions": [
+      "items",
+      "drums",
+      "wearing",
+      "clothing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The musicians are wearing various clothing items like hoodies, jeans, and hats, and the instruments include a cellophane, saxophone, guitar, and drums.",
+    "objects": [
+      "guitar",
+      "hats",
+      "saxophone",
+      "include",
+      "cellophane",
+      "like"
+    ],
+    "actions": [
+      "items",
+      "drums",
+      "wearing",
+      "clothing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The audience is dressed in casual clothing, with some wearing jeans and t-shirts.",
+    "objects": [
+      "casual",
+      "some",
+      "audience"
+    ],
+    "actions": [
+      "t-shirts",
+      "clothing",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The audience is dressed in casual clothing, with some wearing jeans and t-shirts.",
+    "objects": [
+      "casual",
+      "some",
+      "audience"
+    ],
+    "actions": [
+      "t-shirts",
+      "clothing",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 10
+  }
+]

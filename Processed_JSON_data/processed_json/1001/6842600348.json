@@ -1,0 +1,517 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of musicians playing an energetic and lively song on a stage.",
+    "objects": [
+      "energetic",
+      "lively",
+      "see",
+      "song",
+      "stage",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "musicians"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of musicians playing an energetic and lively song on a stage.",
+    "objects": [
+      "energetic",
+      "lively",
+      "see",
+      "song",
+      "stage",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "musicians"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of musicians playing an energetic and lively song on a stage.",
+    "objects": [
+      "energetic",
+      "lively",
+      "see",
+      "song",
+      "stage",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "playing",
+      "musicians"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "There are six individuals visible in the frame, each engaged in different actions.",
+    "objects": [
+      "six",
+      "each",
+      "there",
+      "different"
+    ],
+    "actions": [
+      "actions",
+      "engaged",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "There are six individuals visible in the frame, each engaged in different actions.",
+    "objects": [
+      "six",
+      "each",
+      "there",
+      "different"
+    ],
+    "actions": [
+      "actions",
+      "engaged",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "There are six individuals visible in the frame, each engaged in different actions.",
+    "objects": [
+      "six",
+      "each",
+      "there",
+      "different"
+    ],
+    "actions": [
+      "actions",
+      "engaged",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The lead singer is standing in the center, wearing a black shirt and is passionately singing into the microphone.",
+    "objects": [
+      "into",
+      "black",
+      "singer",
+      "microphone",
+      "shirt",
+      "passionately",
+      "center",
+      "lead"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The lead singer is standing in the center, wearing a black shirt and is passionately singing into the microphone.",
+    "objects": [
+      "into",
+      "black",
+      "singer",
+      "microphone",
+      "shirt",
+      "passionately",
+      "center",
+      "lead"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The lead singer is standing in the center, wearing a black shirt and is passionately singing into the microphone.",
+    "objects": [
+      "into",
+      "black",
+      "singer",
+      "microphone",
+      "shirt",
+      "passionately",
+      "center",
+      "lead"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another singer is on the left side of the frame, also wearing a black shirt and is singing along.",
+    "objects": [
+      "along",
+      "black",
+      "singer",
+      "shirt",
+      "side"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Another singer is on the left side of the frame, also wearing a black shirt and is singing along.",
+    "objects": [
+      "along",
+      "black",
+      "singer",
+      "shirt",
+      "side"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Another singer is on the left side of the frame, also wearing a black shirt and is singing along.",
+    "objects": [
+      "along",
+      "black",
+      "singer",
+      "shirt",
+      "side"
+    ],
+    "actions": [
+      "wearing",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A musician is playing the guitar, positioned in the center of the frame.",
+    "objects": [
+      "center",
+      "guitar",
+      "musician"
+    ],
+    "actions": [
+      "playing",
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A musician is playing the guitar, positioned in the center of the frame.",
+    "objects": [
+      "center",
+      "guitar",
+      "musician"
+    ],
+    "actions": [
+      "playing",
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A musician is playing the guitar, positioned in the center of the frame.",
+    "objects": [
+      "center",
+      "guitar",
+      "musician"
+    ],
+    "actions": [
+      "playing",
+      "positioned"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A musician is playing the drums on the right side of the frame.",
+    "objects": [
+      "side",
+      "musician"
+    ],
+    "actions": [
+      "playing",
+      "drums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A musician is playing the drums on the right side of the frame.",
+    "objects": [
+      "side",
+      "musician"
+    ],
+    "actions": [
+      "playing",
+      "drums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A musician is playing the drums on the right side of the frame.",
+    "objects": [
+      "side",
+      "musician"
+    ],
+    "actions": [
+      "playing",
+      "drums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "Another musician is on the left side of the frame, also playing the guitar.",
+    "objects": [
+      "guitar",
+      "side",
+      "musician"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "Another musician is on the left side of the frame, also playing the guitar.",
+    "objects": [
+      "guitar",
+      "side",
+      "musician"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "Another musician is on the left side of the frame, also playing the guitar.",
+    "objects": [
+      "guitar",
+      "side",
+      "musician"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The last musician is standing in the center, holding a microphone and singing.",
+    "objects": [
+      "last",
+      "microphone",
+      "center",
+      "musician"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The last musician is standing in the center, holding a microphone and singing.",
+    "objects": [
+      "last",
+      "microphone",
+      "center",
+      "musician"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The last musician is standing in the center, holding a microphone and singing.",
+    "objects": [
+      "last",
+      "microphone",
+      "center",
+      "musician"
+    ],
+    "actions": [
+      "singing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The stage is lit with stage lights, creating a vibrant atmosphere.",
+    "objects": [
+      "stage",
+      "lit",
+      "vibrant",
+      "atmosphere"
+    ],
+    "actions": [
+      "lights",
+      "creating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The stage is lit with stage lights, creating a vibrant atmosphere.",
+    "objects": [
+      "stage",
+      "lit",
+      "vibrant",
+      "atmosphere"
+    ],
+    "actions": [
+      "lights",
+      "creating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The stage is lit with stage lights, creating a vibrant atmosphere.",
+    "objects": [
+      "stage",
+      "lit",
+      "vibrant",
+      "atmosphere"
+    ],
+    "actions": [
+      "lights",
+      "creating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The musicians are dressed in casual attire suitable for a live performance, with no mention of specific clothing details.",
+    "objects": [
+      "specific",
+      "suitable",
+      "attire",
+      "casual",
+      "performance",
+      "mention",
+      "live"
+    ],
+    "actions": [
+      "clothing",
+      "dressed",
+      "musicians",
+      "details"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The musicians are dressed in casual attire suitable for a live performance, with no mention of specific clothing details.",
+    "objects": [
+      "specific",
+      "suitable",
+      "attire",
+      "casual",
+      "performance",
+      "mention",
+      "live"
+    ],
+    "actions": [
+      "clothing",
+      "dressed",
+      "musicians",
+      "details"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The musicians are dressed in casual attire suitable for a live performance, with no mention of specific clothing details.",
+    "objects": [
+      "specific",
+      "suitable",
+      "attire",
+      "casual",
+      "performance",
+      "mention",
+      "live"
+    ],
+    "actions": [
+      "clothing",
+      "dressed",
+      "musicians",
+      "details"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The performance is vivid and engaging, capturing the energy of live music.",
+    "objects": [
+      "vivid",
+      "performance",
+      "live",
+      "music",
+      "energy"
+    ],
+    "actions": [
+      "capturing",
+      "engaging"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The performance is vivid and engaging, capturing the energy of live music.",
+    "objects": [
+      "vivid",
+      "performance",
+      "live",
+      "music",
+      "energy"
+    ],
+    "actions": [
+      "capturing",
+      "engaging"
+    ],
+    "segment_id": 10
+  }
+]

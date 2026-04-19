@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a chaotic scene from a the play \"Brooklyn Horror\".",
+    "objects": [
+      "from",
+      "play",
+      "this",
+      "chaotic"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a chaotic scene from a the play \"Brooklyn Horror\".",
+    "objects": [
+      "from",
+      "play",
+      "this",
+      "chaotic"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a chaotic scene from a the play \"Brooklyn Horror\".",
+    "objects": [
+      "from",
+      "play",
+      "this",
+      "chaotic"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the opening scene, we see three individuals standing on a stage, each holding a different object.",
+    "objects": [
+      "three",
+      "each",
+      "see",
+      "different",
+      "object",
+      "stage"
+    ],
+    "actions": [
+      "opening",
+      "holding",
+      "individuals",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "In the opening scene, we see three individuals standing on a stage, each holding a different object.",
+    "objects": [
+      "three",
+      "each",
+      "see",
+      "different",
+      "object",
+      "stage"
+    ],
+    "actions": [
+      "opening",
+      "holding",
+      "individuals",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the opening scene, we see three individuals standing on a stage, each holding a different object.",
+    "objects": [
+      "three",
+      "each",
+      "see",
+      "different",
+      "object",
+      "stage"
+    ],
+    "actions": [
+      "opening",
+      "holding",
+      "individuals",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The first person is holding a red object, the second person is holding a silver object, and the third person is holding a black object.",
+    "objects": [
+      "black",
+      "silver",
+      "third",
+      "object",
+      "second",
+      "first"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The first person is holding a red object, the second person is holding a silver object, and the third person is holding a black object.",
+    "objects": [
+      "black",
+      "silver",
+      "third",
+      "object",
+      "second",
+      "first"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The first person is holding a red object, the second person is holding a silver object, and the third person is holding a black object.",
+    "objects": [
+      "black",
+      "silver",
+      "third",
+      "object",
+      "second",
+      "first"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The second scene shows two people fighting on the stage.",
+    "objects": [
+      "stage",
+      "second",
+      "people",
+      "two"
+    ],
+    "actions": [
+      "fighting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The second scene shows two people fighting on the stage.",
+    "objects": [
+      "stage",
+      "second",
+      "people",
+      "two"
+    ],
+    "actions": [
+      "fighting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The second scene shows two people fighting on the stage.",
+    "objects": [
+      "stage",
+      "second",
+      "people",
+      "two"
+    ],
+    "actions": [
+      "fighting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "One person is wearing a white shirt and the other is wearing a black jacket.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "black",
+      "jacket",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "One person is wearing a white shirt and the other is wearing a black jacket.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "black",
+      "jacket",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "One person is wearing a white shirt and the other is wearing a black jacket.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "black",
+      "jacket",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The person in the black jacket is holding a silver object, while the person in the white shirt is holding a red object.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "jacket",
+      "shirt",
+      "silver",
+      "object"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The person in the black jacket is holding a silver object, while the person in the white shirt is holding a red object.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "jacket",
+      "shirt",
+      "silver",
+      "object"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The person in the black jacket is holding a silver object, while the person in the white shirt is holding a red object.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "jacket",
+      "shirt",
+      "silver",
+      "object"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "In the third scene, two individuals are standing on the stage, one dressed in a white shirt and the other in a blue jacket.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "two",
+      "jacket",
+      "blue",
+      "shirt",
+      "third"
+    ],
+    "actions": [
+      "dressed",
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "In the third scene, two individuals are standing on the stage, one dressed in a white shirt and the other in a blue jacket.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "two",
+      "jacket",
+      "blue",
+      "shirt",
+      "third"
+    ],
+    "actions": [
+      "dressed",
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "In the third scene, two individuals are standing on the stage, one dressed in a white shirt and the other in a blue jacket.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "two",
+      "jacket",
+      "blue",
+      "shirt",
+      "third"
+    ],
+    "actions": [
+      "dressed",
+      "standing",
+      "individuals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The person in the white shirt is holding a silver object, and the person in the blue jacket is holding a black object.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "blue",
+      "shirt",
+      "silver",
+      "object"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The person in the white shirt is holding a silver object, and the person in the blue jacket is holding a black object.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "blue",
+      "shirt",
+      "silver",
+      "object"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The person in the white shirt is holding a silver object, and the person in the blue jacket is holding a black object.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "blue",
+      "shirt",
+      "silver",
+      "object"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The final scene features three people standing on the stage.",
+    "objects": [
+      "three",
+      "final",
+      "people",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "features"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The final scene features three people standing on the stage.",
+    "objects": [
+      "three",
+      "final",
+      "people",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "features"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The final scene features three people standing on the stage.",
+    "objects": [
+      "three",
+      "final",
+      "people",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "features"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "One person is wearing a white shirt, another is in a black jacket, and the third is in a white shirt.",
+    "objects": [
+      "one",
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "third"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "One person is wearing a white shirt, another is in a black jacket, and the third is in a white shirt.",
+    "objects": [
+      "one",
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "third"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "One person is wearing a white shirt, another is in a black jacket, and the third is in a white shirt.",
+    "objects": [
+      "one",
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "third"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The person in the white shirt is holding a silver object, the person in the black jacket is holding a red object, and the person in the white shirt is holding a black object.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "silver",
+      "object"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The person in the white shirt is holding a silver object, the person in the black jacket is holding a red object, and the person in the white shirt is holding a black object.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "silver",
+      "object"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 10
+  }
+]

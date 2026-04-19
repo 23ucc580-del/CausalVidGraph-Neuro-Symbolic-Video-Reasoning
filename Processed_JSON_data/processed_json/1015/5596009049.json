@@ -1,0 +1,602 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a close-up shot of a Dunkin' Donuts coffee cup, with the words \"Dunkin' Donuts\" written in white text on a brown background, and the iconic Dunkin' Donuts logo featuring a coffee cup and a donut in white text, set against a red background.",
+    "objects": [
+      "written",
+      "white",
+      "text",
+      "against",
+      "iconic",
+      "logo",
+      "cup",
+      "donut"
+    ],
+    "actions": [
+      "donuts",
+      "red",
+      "opens",
+      "words"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a close-up shot of a Dunkin' Donuts coffee cup, with the words \"Dunkin' Donuts\" written in white text on a brown background, and the iconic Dunkin' Donuts logo featuring a coffee cup and a donut in white text, set against a red background.",
+    "objects": [
+      "written",
+      "white",
+      "text",
+      "against",
+      "iconic",
+      "logo",
+      "cup",
+      "donut"
+    ],
+    "actions": [
+      "donuts",
+      "red",
+      "opens",
+      "words"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video opens with a close-up shot of a Dunkin' Donuts coffee cup, with the words \"Dunkin' Donuts\" written in white text on a brown background, and the iconic Dunkin' Donuts logo featuring a coffee cup and a donut in white text, set against a red background.",
+    "objects": [
+      "written",
+      "white",
+      "text",
+      "against",
+      "iconic",
+      "logo",
+      "cup",
+      "donut"
+    ],
+    "actions": [
+      "donuts",
+      "red",
+      "opens",
+      "words"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A person is seen holding the cup, presumably a customer, with a hand reaching towards it.",
+    "objects": [
+      "hand",
+      "customer",
+      "cup",
+      "presumably"
+    ],
+    "actions": [
+      "towards",
+      "reaching",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A person is seen holding the cup, presumably a customer, with a hand reaching towards it.",
+    "objects": [
+      "hand",
+      "customer",
+      "cup",
+      "presumably"
+    ],
+    "actions": [
+      "towards",
+      "reaching",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A person is seen holding the cup, presumably a customer, with a hand reaching towards it.",
+    "objects": [
+      "hand",
+      "customer",
+      "cup",
+      "presumably"
+    ],
+    "actions": [
+      "towards",
+      "reaching",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The background is a window with a blurred view of the outside, suggesting the cup is placed on a counter or table.",
+    "objects": [
+      "table",
+      "outside",
+      "counter",
+      "cup",
+      "window"
+    ],
+    "actions": [
+      "placed",
+      "blurred",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The background is a window with a blurred view of the outside, suggesting the cup is placed on a counter or table.",
+    "objects": [
+      "table",
+      "outside",
+      "counter",
+      "cup",
+      "window"
+    ],
+    "actions": [
+      "placed",
+      "blurred",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The background is a window with a blurred view of the outside, suggesting the cup is placed on a counter or table.",
+    "objects": [
+      "table",
+      "outside",
+      "counter",
+      "cup",
+      "window"
+    ],
+    "actions": [
+      "placed",
+      "blurred",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene then transitions to a person, presumably an employee, placing a brown donut with a hole in the middle into the coffee cup, adding to the beverage.",
+    "objects": [
+      "employee",
+      "hole",
+      "presumably",
+      "middle",
+      "into",
+      "beverage",
+      "cup",
+      "donut"
+    ],
+    "actions": [
+      "transitions",
+      "adding",
+      "placing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene then transitions to a person, presumably an employee, placing a brown donut with a hole in the middle into the coffee cup, adding to the beverage.",
+    "objects": [
+      "employee",
+      "hole",
+      "presumably",
+      "middle",
+      "into",
+      "beverage",
+      "cup",
+      "donut"
+    ],
+    "actions": [
+      "transitions",
+      "adding",
+      "placing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene then transitions to a person, presumably an employee, placing a brown donut with a hole in the middle into the coffee cup, adding to the beverage.",
+    "objects": [
+      "employee",
+      "hole",
+      "presumably",
+      "middle",
+      "into",
+      "beverage",
+      "cup",
+      "donut"
+    ],
+    "actions": [
+      "transitions",
+      "adding",
+      "placing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then pans to the outside, where we see the store's exterior.",
+    "objects": [
+      "where",
+      "pans",
+      "outside",
+      "see",
+      "exterior",
+      "then"
+    ],
+    "actions": [
+      "store's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then pans to the outside, where we see the store's exterior.",
+    "objects": [
+      "where",
+      "pans",
+      "outside",
+      "see",
+      "exterior",
+      "then"
+    ],
+    "actions": [
+      "store's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then pans to the outside, where we see the store's exterior.",
+    "objects": [
+      "where",
+      "pans",
+      "outside",
+      "see",
+      "exterior",
+      "then"
+    ],
+    "actions": [
+      "store's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The window is adorned with a red awning and a blue sign that reads \"Dunkin' Donuts\".",
+    "objects": [
+      "window",
+      "that",
+      "blue",
+      "sign"
+    ],
+    "actions": [
+      "reads",
+      "adorned",
+      "awning",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The window is adorned with a red awning and a blue sign that reads \"Dunkin' Donuts\".",
+    "objects": [
+      "window",
+      "that",
+      "blue",
+      "sign"
+    ],
+    "actions": [
+      "reads",
+      "adorned",
+      "awning",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The window is adorned with a red awning and a blue sign that reads \"Dunkin' Donuts\".",
+    "objects": [
+      "window",
+      "that",
+      "blue",
+      "sign"
+    ],
+    "actions": [
+      "reads",
+      "adorned",
+      "awning",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then focuses on a customer, a woman, who is seated at a table, holding a cup of coffee.",
+    "objects": [
+      "customer",
+      "table",
+      "woman",
+      "who",
+      "cup",
+      "then",
+      "coffee"
+    ],
+    "actions": [
+      "holding",
+      "seated",
+      "focuses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then focuses on a customer, a woman, who is seated at a table, holding a cup of coffee.",
+    "objects": [
+      "customer",
+      "table",
+      "woman",
+      "who",
+      "cup",
+      "then",
+      "coffee"
+    ],
+    "actions": [
+      "holding",
+      "seated",
+      "focuses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then focuses on a customer, a woman, who is seated at a table, holding a cup of coffee.",
+    "objects": [
+      "customer",
+      "table",
+      "woman",
+      "who",
+      "cup",
+      "then",
+      "coffee"
+    ],
+    "actions": [
+      "holding",
+      "seated",
+      "focuses"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "She is wearing a blue jacket and smiling, suggesting she is enjoying her beverage.",
+    "objects": [
+      "she",
+      "jacket",
+      "blue",
+      "beverage",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying",
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "She is wearing a blue jacket and smiling, suggesting she is enjoying her beverage.",
+    "objects": [
+      "she",
+      "jacket",
+      "blue",
+      "beverage",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying",
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "She is wearing a blue jacket and smiling, suggesting she is enjoying her beverage.",
+    "objects": [
+      "she",
+      "jacket",
+      "blue",
+      "beverage",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying",
+      "suggesting",
+      "smiling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then returns to the exterior, where a blue car is parked on the street outside the store, and a person is walking, seemingly a customer, towards the entrance of the store.",
+    "objects": [
+      "customer",
+      "store",
+      "where",
+      "street",
+      "entrance",
+      "blue",
+      "outside",
+      "seemingly"
+    ],
+    "actions": [
+      "towards",
+      "parked",
+      "walking",
+      "returns"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then returns to the exterior, where a blue car is parked on the street outside the store, and a person is walking, seemingly a customer, towards the entrance of the store.",
+    "objects": [
+      "customer",
+      "store",
+      "where",
+      "street",
+      "entrance",
+      "blue",
+      "outside",
+      "seemingly"
+    ],
+    "actions": [
+      "towards",
+      "parked",
+      "walking",
+      "returns"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then returns to the exterior, where a blue car is parked on the street outside the store, and a person is walking, seemingly a customer, towards the entrance of the store.",
+    "objects": [
+      "customer",
+      "store",
+      "where",
+      "street",
+      "entrance",
+      "blue",
+      "outside",
+      "seemingly"
+    ],
+    "actions": [
+      "towards",
+      "parked",
+      "walking",
+      "returns"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera then focuses on a person wearing a black shirt, possibly an employee, who is smiling and holding a coffee cup.",
+    "objects": [
+      "employee",
+      "black",
+      "possibly",
+      "shirt",
+      "who",
+      "cup",
+      "then",
+      "coffee"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "focuses",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then focuses on a person wearing a black shirt, possibly an employee, who is smiling and holding a coffee cup.",
+    "objects": [
+      "employee",
+      "black",
+      "possibly",
+      "shirt",
+      "who",
+      "cup",
+      "then",
+      "coffee"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "focuses",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then focuses on a person wearing a black shirt, possibly an employee, who is smiling and holding a coffee cup.",
+    "objects": [
+      "employee",
+      "black",
+      "possibly",
+      "shirt",
+      "who",
+      "cup",
+      "then",
+      "coffee"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "focuses",
+      "smiling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The video ends with a blurred image of the store's exterior, likely to emphasize the welcoming and cozy atmosphere of the Dunkin' Donuts store.",
+    "objects": [
+      "image",
+      "store",
+      "atmosphere",
+      "ends",
+      "exterior",
+      "cozy",
+      "likely",
+      "emphasize"
+    ],
+    "actions": [
+      "welcoming",
+      "store's",
+      "donuts",
+      "blurred"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The video ends with a blurred image of the store's exterior, likely to emphasize the welcoming and cozy atmosphere of the Dunkin' Donuts store.",
+    "objects": [
+      "image",
+      "store",
+      "atmosphere",
+      "ends",
+      "exterior",
+      "cozy",
+      "likely",
+      "emphasize"
+    ],
+    "actions": [
+      "welcoming",
+      "store's",
+      "donuts",
+      "blurred"
+    ],
+    "segment_id": 10
+  }
+]

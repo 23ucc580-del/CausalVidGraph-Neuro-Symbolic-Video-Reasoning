@@ -1,0 +1,578 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features two children, a girl and a boy, standing in a room.",
+    "objects": [
+      "room",
+      "boy",
+      "two",
+      "children",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features two children, a girl and a boy, standing in a room.",
+    "objects": [
+      "room",
+      "boy",
+      "two",
+      "children",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video features two children, a girl and a boy, standing in a room.",
+    "objects": [
+      "room",
+      "boy",
+      "two",
+      "children",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video features two children, a girl and a boy, standing in a room.",
+    "objects": [
+      "room",
+      "boy",
+      "two",
+      "children",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The girl is wearing a blue shirt and black pants, while the boy is dressed in a white shirt and grey pants.",
+    "objects": [
+      "boy",
+      "white",
+      "while",
+      "black",
+      "blue",
+      "grey",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The girl is wearing a blue shirt and black pants, while the boy is dressed in a white shirt and grey pants.",
+    "objects": [
+      "boy",
+      "white",
+      "while",
+      "black",
+      "blue",
+      "grey",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The girl is wearing a blue shirt and black pants, while the boy is dressed in a white shirt and grey pants.",
+    "objects": [
+      "boy",
+      "white",
+      "while",
+      "black",
+      "blue",
+      "grey",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The girl is wearing a blue shirt and black pants, while the boy is dressed in a white shirt and grey pants.",
+    "objects": [
+      "boy",
+      "white",
+      "while",
+      "black",
+      "blue",
+      "grey",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are holding hands, suggesting a sense of closeness and friendship between them.",
+    "objects": [
+      "they",
+      "sense",
+      "them",
+      "friendship",
+      "between"
+    ],
+    "actions": [
+      "hands",
+      "closeness",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are holding hands, suggesting a sense of closeness and friendship between them.",
+    "objects": [
+      "they",
+      "sense",
+      "them",
+      "friendship",
+      "between"
+    ],
+    "actions": [
+      "hands",
+      "closeness",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are holding hands, suggesting a sense of closeness and friendship between them.",
+    "objects": [
+      "they",
+      "sense",
+      "them",
+      "friendship",
+      "between"
+    ],
+    "actions": [
+      "hands",
+      "closeness",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are holding hands, suggesting a sense of closeness and friendship between them.",
+    "objects": [
+      "they",
+      "sense",
+      "them",
+      "friendship",
+      "between"
+    ],
+    "actions": [
+      "hands",
+      "closeness",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The room they are in is well-lit with natural light coming in from a window.",
+    "objects": [
+      "they",
+      "natural",
+      "from",
+      "window",
+      "light",
+      "room"
+    ],
+    "actions": [
+      "coming"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The room they are in is well-lit with natural light coming in from a window.",
+    "objects": [
+      "they",
+      "natural",
+      "from",
+      "window",
+      "light",
+      "room"
+    ],
+    "actions": [
+      "coming"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The room they are in is well-lit with natural light coming in from a window.",
+    "objects": [
+      "they",
+      "natural",
+      "from",
+      "window",
+      "light",
+      "room"
+    ],
+    "actions": [
+      "coming"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The room they are in is well-lit with natural light coming in from a window.",
+    "objects": [
+      "they",
+      "natural",
+      "from",
+      "window",
+      "light",
+      "room"
+    ],
+    "actions": [
+      "coming"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The girl is also holding a white object, possibly a toy or a piece of clothing, which she seems to be playing with.",
+    "objects": [
+      "piece",
+      "white",
+      "she",
+      "possibly",
+      "which",
+      "object",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "clothing",
+      "playing",
+      "holding",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The girl is also holding a white object, possibly a toy or a piece of clothing, which she seems to be playing with.",
+    "objects": [
+      "piece",
+      "white",
+      "she",
+      "possibly",
+      "which",
+      "object",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "clothing",
+      "playing",
+      "holding",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The girl is also holding a white object, possibly a toy or a piece of clothing, which she seems to be playing with.",
+    "objects": [
+      "piece",
+      "white",
+      "she",
+      "possibly",
+      "which",
+      "object",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "clothing",
+      "playing",
+      "holding",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The girl is also holding a white object, possibly a toy or a piece of clothing, which she seems to be playing with.",
+    "objects": [
+      "piece",
+      "white",
+      "she",
+      "possibly",
+      "which",
+      "object",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "clothing",
+      "playing",
+      "holding",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, there is a white couch and a chair, indicating a comfortable and homely setting.",
+    "objects": [
+      "there",
+      "white",
+      "comfortable",
+      "couch",
+      "homely",
+      "chair"
+    ],
+    "actions": [
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, there is a white couch and a chair, indicating a comfortable and homely setting.",
+    "objects": [
+      "there",
+      "white",
+      "comfortable",
+      "couch",
+      "homely",
+      "chair"
+    ],
+    "actions": [
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, there is a white couch and a chair, indicating a comfortable and homely setting.",
+    "objects": [
+      "there",
+      "white",
+      "comfortable",
+      "couch",
+      "homely",
+      "chair"
+    ],
+    "actions": [
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, there is a white couch and a chair, indicating a comfortable and homely setting.",
+    "objects": [
+      "there",
+      "white",
+      "comfortable",
+      "couch",
+      "homely",
+      "chair"
+    ],
+    "actions": [
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The children seem to be engaged in playful behavior, with the girl laughing and the boy smiling, indicating a playful atmosphere.",
+    "objects": [
+      "boy",
+      "children",
+      "atmosphere",
+      "behavior",
+      "seem",
+      "girl",
+      "playful"
+    ],
+    "actions": [
+      "smiling",
+      "engaged",
+      "indicating",
+      "laughing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The children seem to be engaged in playful behavior, with the girl laughing and the boy smiling, indicating a playful atmosphere.",
+    "objects": [
+      "boy",
+      "children",
+      "atmosphere",
+      "behavior",
+      "seem",
+      "girl",
+      "playful"
+    ],
+    "actions": [
+      "smiling",
+      "engaged",
+      "indicating",
+      "laughing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The children seem to be engaged in playful behavior, with the girl laughing and the boy smiling, indicating a playful atmosphere.",
+    "objects": [
+      "boy",
+      "children",
+      "atmosphere",
+      "behavior",
+      "seem",
+      "girl",
+      "playful"
+    ],
+    "actions": [
+      "smiling",
+      "engaged",
+      "indicating",
+      "laughing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The children seem to be engaged in playful behavior, with the girl laughing and the boy smiling, indicating a playful atmosphere.",
+    "objects": [
+      "boy",
+      "children",
+      "atmosphere",
+      "behavior",
+      "seem",
+      "girl",
+      "playful"
+    ],
+    "actions": [
+      "smiling",
+      "engaged",
+      "indicating",
+      "laughing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is peaceful and intimate, capturing a moment of innocent childhood joy.",
+    "objects": [
+      "childhood",
+      "innocent",
+      "intimate",
+      "peaceful",
+      "moment",
+      "joy"
+    ],
+    "actions": [
+      "capturing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is peaceful and intimate, capturing a moment of innocent childhood joy.",
+    "objects": [
+      "childhood",
+      "innocent",
+      "intimate",
+      "peaceful",
+      "moment",
+      "joy"
+    ],
+    "actions": [
+      "capturing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is peaceful and intimate, capturing a moment of innocent childhood joy.",
+    "objects": [
+      "childhood",
+      "innocent",
+      "intimate",
+      "peaceful",
+      "moment",
+      "joy"
+    ],
+    "actions": [
+      "capturing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is peaceful and intimate, capturing a moment of innocent childhood joy.",
+    "objects": [
+      "childhood",
+      "innocent",
+      "intimate",
+      "peaceful",
+      "moment",
+      "joy"
+    ],
+    "actions": [
+      "capturing"
+    ],
+    "segment_id": 7
+  }
+]

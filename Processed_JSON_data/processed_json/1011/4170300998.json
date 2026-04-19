@@ -1,0 +1,510 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a person is walking their dog on a snowy day.",
+    "objects": [
+      "their",
+      "dog",
+      "day",
+      "snowy"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a person is walking their dog on a snowy day.",
+    "objects": [
+      "their",
+      "dog",
+      "day",
+      "snowy"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a person is walking their dog on a snowy day.",
+    "objects": [
+      "their",
+      "dog",
+      "day",
+      "snowy"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a person is walking their dog on a snowy day.",
+    "objects": [
+      "their",
+      "dog",
+      "day",
+      "snowy"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a person is walking their dog on a snowy day.",
+    "objects": [
+      "their",
+      "dog",
+      "day",
+      "snowy"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog is on a leash held by two hands, and the person is wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "two",
+      "black",
+      "jacket",
+      "leash",
+      "dog",
+      "held"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog is on a leash held by two hands, and the person is wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "two",
+      "black",
+      "jacket",
+      "leash",
+      "dog",
+      "held"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog is on a leash held by two hands, and the person is wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "two",
+      "black",
+      "jacket",
+      "leash",
+      "dog",
+      "held"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog is on a leash held by two hands, and the person is wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "two",
+      "black",
+      "jacket",
+      "leash",
+      "dog",
+      "held"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog is on a leash held by two hands, and the person is wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "two",
+      "black",
+      "jacket",
+      "leash",
+      "dog",
+      "held"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "Another person is also walking their dog, and they are wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "their",
+      "they",
+      "jacket",
+      "black",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "walking",
+      "shoes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another person is also walking their dog, and they are wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "their",
+      "they",
+      "jacket",
+      "black",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "walking",
+      "shoes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another person is also walking their dog, and they are wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "their",
+      "they",
+      "jacket",
+      "black",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "walking",
+      "shoes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "Another person is also walking their dog, and they are wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "their",
+      "they",
+      "jacket",
+      "black",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "walking",
+      "shoes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "Another person is also walking their dog, and they are wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "their",
+      "they",
+      "jacket",
+      "black",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "walking",
+      "shoes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The dog is a light brown color, and it is being pulled by a leash held by two hands.",
+    "objects": [
+      "two",
+      "leash",
+      "color",
+      "dog",
+      "light",
+      "held",
+      "brown"
+    ],
+    "actions": [
+      "hands",
+      "pulled",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The dog is a light brown color, and it is being pulled by a leash held by two hands.",
+    "objects": [
+      "two",
+      "leash",
+      "color",
+      "dog",
+      "light",
+      "held",
+      "brown"
+    ],
+    "actions": [
+      "hands",
+      "pulled",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The dog is a light brown color, and it is being pulled by a leash held by two hands.",
+    "objects": [
+      "two",
+      "leash",
+      "color",
+      "dog",
+      "light",
+      "held",
+      "brown"
+    ],
+    "actions": [
+      "hands",
+      "pulled",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The dog is a light brown color, and it is being pulled by a leash held by two hands.",
+    "objects": [
+      "two",
+      "leash",
+      "color",
+      "dog",
+      "light",
+      "held",
+      "brown"
+    ],
+    "actions": [
+      "hands",
+      "pulled",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The dog is a light brown color, and it is being pulled by a leash held by two hands.",
+    "objects": [
+      "two",
+      "leash",
+      "color",
+      "dog",
+      "light",
+      "held",
+      "brown"
+    ],
+    "actions": [
+      "hands",
+      "pulled",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The person is also wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "black",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The person is also wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "black",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The person is also wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "black",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The person is also wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "black",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The person is also wearing a black jacket, black pants, and black shoes.",
+    "objects": [
+      "black",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "shoes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog is wearing a harness.",
+    "objects": [
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "harness"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog is wearing a harness.",
+    "objects": [
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "harness"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog is wearing a harness.",
+    "objects": [
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "harness"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog is wearing a harness.",
+    "objects": [
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "harness"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog is wearing a harness.",
+    "objects": [
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "harness"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The dogs are being walked on a snowy sidewalk.",
+    "objects": [
+      "dogs",
+      "sidewalk",
+      "snowy"
+    ],
+    "actions": [
+      "walked",
+      "being"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The dogs are being walked on a snowy sidewalk.",
+    "objects": [
+      "dogs",
+      "sidewalk",
+      "snowy"
+    ],
+    "actions": [
+      "walked",
+      "being"
+    ],
+    "segment_id": 6
+  }
+]

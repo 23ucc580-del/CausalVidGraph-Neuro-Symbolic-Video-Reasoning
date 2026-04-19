@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a black and white shot of a man walking on a city street.",
+    "objects": [
+      "man",
+      "white",
+      "street",
+      "city",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a black and white shot of a man walking on a city street.",
+    "objects": [
+      "man",
+      "white",
+      "street",
+      "city",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "He is wearing a black hoodie and carrying a guitar case.",
+    "objects": [
+      "guitar",
+      "case",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "carrying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "He is wearing a black hoodie and carrying a guitar case.",
+    "objects": [
+      "guitar",
+      "case",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "carrying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "As he walks, he passes by a blue car and a man in a blue shirt sitting on a chair.",
+    "objects": [
+      "chair",
+      "man",
+      "car",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "passes",
+      "walks",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "As he walks, he passes by a blue car and a man in a blue shirt sitting on a chair.",
+    "objects": [
+      "chair",
+      "man",
+      "car",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "passes",
+      "walks",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The man in the black hoodie then enters a building, where he encounters another man wearing a white shirt and black hat.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "where",
+      "hat",
+      "then",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "enters",
+      "wearing",
+      "building",
+      "encounters"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The man in the black hoodie then enters a building, where he encounters another man wearing a white shirt and black hat.",
+    "objects": [
+      "man",
+      "white",
+      "hoodie",
+      "where",
+      "hat",
+      "then",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "enters",
+      "wearing",
+      "building",
+      "encounters"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "They both seem to be in a hurry, as they move quickly through the room.",
+    "objects": [
+      "through",
+      "both",
+      "hurry",
+      "they",
+      "move",
+      "quickly",
+      "seem",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "They both seem to be in a hurry, as they move quickly through the room.",
+    "objects": [
+      "through",
+      "both",
+      "hurry",
+      "they",
+      "move",
+      "quickly",
+      "seem",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The man in the white shirt is holding a black guitar case.",
+    "objects": [
+      "white",
+      "man",
+      "case",
+      "shirt",
+      "guitar",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The man in the white shirt is holding a black guitar case.",
+    "objects": [
+      "white",
+      "man",
+      "case",
+      "shirt",
+      "guitar",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The first man then leaves the building, continuing his walk down the street.",
+    "objects": [
+      "first",
+      "man",
+      "street",
+      "walk",
+      "then",
+      "his"
+    ],
+    "actions": [
+      "building",
+      "leaves",
+      "continuing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The first man then leaves the building, continuing his walk down the street.",
+    "objects": [
+      "first",
+      "man",
+      "street",
+      "walk",
+      "then",
+      "his"
+    ],
+    "actions": [
+      "building",
+      "leaves",
+      "continuing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "Outside, the man in the black hoodie is now seen walking on the sidewalk, still carrying the guitar case.",
+    "objects": [
+      "still",
+      "man",
+      "hoodie",
+      "case",
+      "outside",
+      "now",
+      "guitar",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "carrying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "Outside, the man in the black hoodie is now seen walking on the sidewalk, still carrying the guitar case.",
+    "objects": [
+      "still",
+      "man",
+      "hoodie",
+      "case",
+      "outside",
+      "now",
+      "guitar",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "carrying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "He passes a man in a red shirt who is standing outside a building.",
+    "objects": [
+      "who",
+      "man",
+      "outside",
+      "shirt"
+    ],
+    "actions": [
+      "passes",
+      "building",
+      "standing",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "He passes a man in a red shirt who is standing outside a building.",
+    "objects": [
+      "who",
+      "man",
+      "outside",
+      "shirt"
+    ],
+    "actions": [
+      "passes",
+      "building",
+      "standing",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the red shirt is holding a skateboard.",
+    "objects": [
+      "skateboard",
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the red shirt is holding a skateboard.",
+    "objects": [
+      "skateboard",
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The first man then turns around a corner, entering another building, and we see him entering the back of a room where a man in a blue shirt is standing.",
+    "objects": [
+      "first",
+      "corner",
+      "man",
+      "see",
+      "where",
+      "blue",
+      "then",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "turns",
+      "building",
+      "entering"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The first man then turns around a corner, entering another building, and we see him entering the back of a room where a man in a blue shirt is standing.",
+    "objects": [
+      "first",
+      "corner",
+      "man",
+      "see",
+      "where",
+      "blue",
+      "then",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "turns",
+      "building",
+      "entering"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The man in the blue shirt is wearing a black cap and holding a black guitar case.",
+    "objects": [
+      "man",
+      "blue",
+      "case",
+      "shirt",
+      "guitar",
+      "cap",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The man in the blue shirt is wearing a black cap and holding a black guitar case.",
+    "objects": [
+      "man",
+      "blue",
+      "case",
+      "shirt",
+      "guitar",
+      "cap",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The first man looks around the room, possibly in search of something.",
+    "objects": [
+      "first",
+      "man",
+      "around",
+      "search",
+      "possibly",
+      "room"
+    ],
+    "actions": [
+      "something",
+      "looks"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The first man looks around the room, possibly in search of something.",
+    "objects": [
+      "first",
+      "man",
+      "around",
+      "search",
+      "possibly",
+      "room"
+    ],
+    "actions": [
+      "something",
+      "looks"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "Back outside, the man in the black hoodie is seen walking down the street again.",
+    "objects": [
+      "again",
+      "street",
+      "man",
+      "hoodie",
+      "outside",
+      "black"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "Back outside, the man in the black hoodie is seen walking down the street again.",
+    "objects": [
+      "again",
+      "street",
+      "man",
+      "hoodie",
+      "outside",
+      "black"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "He passes another man in a white shirt, who is also walking.",
+    "objects": [
+      "white",
+      "who",
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "passes"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "He passes another man in a white shirt, who is also walking.",
+    "objects": [
+      "white",
+      "who",
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "walking",
+      "passes"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the white shirt is holding a skateboard.",
+    "objects": [
+      "white",
+      "skateboard",
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the white shirt is holding a skateboard.",
+    "objects": [
+      "white",
+      "skateboard",
+      "man",
+      "shirt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

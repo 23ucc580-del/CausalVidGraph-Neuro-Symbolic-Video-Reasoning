@@ -1,0 +1,580 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a tranquil scene in a rural area, with a paved road that leads to a dead-end street.",
+    "objects": [
+      "tranquil",
+      "street",
+      "that",
+      "road",
+      "area",
+      "rural"
+    ],
+    "actions": [
+      "leads",
+      "paved",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a tranquil scene in a rural area, with a paved road that leads to a dead-end street.",
+    "objects": [
+      "tranquil",
+      "street",
+      "that",
+      "road",
+      "area",
+      "rural"
+    ],
+    "actions": [
+      "leads",
+      "paved",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a tranquil scene in a rural area, with a paved road that leads to a dead-end street.",
+    "objects": [
+      "tranquil",
+      "street",
+      "that",
+      "road",
+      "area",
+      "rural"
+    ],
+    "actions": [
+      "leads",
+      "paved",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a tranquil scene in a rural area, with a paved road that leads to a dead-end street.",
+    "objects": [
+      "tranquil",
+      "street",
+      "that",
+      "road",
+      "area",
+      "rural"
+    ],
+    "actions": [
+      "leads",
+      "paved",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video depicts a tranquil scene in a rural area, with a paved road that leads to a dead-end street.",
+    "objects": [
+      "tranquil",
+      "street",
+      "that",
+      "road",
+      "area",
+      "rural"
+    ],
+    "actions": [
+      "leads",
+      "paved",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The video depicts a tranquil scene in a rural area, with a paved road that leads to a dead-end street.",
+    "objects": [
+      "tranquil",
+      "street",
+      "that",
+      "road",
+      "area",
+      "rural"
+    ],
+    "actions": [
+      "leads",
+      "paved",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 6,
+    "description": "A car is seen driving down the road, and a person is riding a bicycle down the same road.",
+    "objects": [
+      "road",
+      "bicycle",
+      "same",
+      "car"
+    ],
+    "actions": [
+      "driving",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A car is seen driving down the road, and a person is riding a bicycle down the same road.",
+    "objects": [
+      "road",
+      "bicycle",
+      "same",
+      "car"
+    ],
+    "actions": [
+      "driving",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A car is seen driving down the road, and a person is riding a bicycle down the same road.",
+    "objects": [
+      "road",
+      "bicycle",
+      "same",
+      "car"
+    ],
+    "actions": [
+      "driving",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "A car is seen driving down the road, and a person is riding a bicycle down the same road.",
+    "objects": [
+      "road",
+      "bicycle",
+      "same",
+      "car"
+    ],
+    "actions": [
+      "driving",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "A car is seen driving down the road, and a person is riding a bicycle down the same road.",
+    "objects": [
+      "road",
+      "bicycle",
+      "same",
+      "car"
+    ],
+    "actions": [
+      "driving",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 11,
+    "description": "A car is seen driving down the road, and a person is riding a bicycle down the same road.",
+    "objects": [
+      "road",
+      "bicycle",
+      "same",
+      "car"
+    ],
+    "actions": [
+      "driving",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 12,
+    "description": "The car is silver and is driving in the opposite direction, while the cyclist is wearing a blue shirt.",
+    "objects": [
+      "cyclist",
+      "while",
+      "blue",
+      "shirt",
+      "silver",
+      "direction",
+      "car",
+      "opposite"
+    ],
+    "actions": [
+      "driving",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The car is silver and is driving in the opposite direction, while the cyclist is wearing a blue shirt.",
+    "objects": [
+      "cyclist",
+      "while",
+      "blue",
+      "shirt",
+      "silver",
+      "direction",
+      "car",
+      "opposite"
+    ],
+    "actions": [
+      "driving",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The car is silver and is driving in the opposite direction, while the cyclist is wearing a blue shirt.",
+    "objects": [
+      "cyclist",
+      "while",
+      "blue",
+      "shirt",
+      "silver",
+      "direction",
+      "car",
+      "opposite"
+    ],
+    "actions": [
+      "driving",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The car is silver and is driving in the opposite direction, while the cyclist is wearing a blue shirt.",
+    "objects": [
+      "cyclist",
+      "while",
+      "blue",
+      "shirt",
+      "silver",
+      "direction",
+      "car",
+      "opposite"
+    ],
+    "actions": [
+      "driving",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 16,
+    "description": "The car is silver and is driving in the opposite direction, while the cyclist is wearing a blue shirt.",
+    "objects": [
+      "cyclist",
+      "while",
+      "blue",
+      "shirt",
+      "silver",
+      "direction",
+      "car",
+      "opposite"
+    ],
+    "actions": [
+      "driving",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 17,
+    "description": "The car is silver and is driving in the opposite direction, while the cyclist is wearing a blue shirt.",
+    "objects": [
+      "cyclist",
+      "while",
+      "blue",
+      "shirt",
+      "silver",
+      "direction",
+      "car",
+      "opposite"
+    ],
+    "actions": [
+      "driving",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman is seen walking down the same road, wearing a white skirt and a yellow top, holding a purple umbrella.",
+    "objects": [
+      "white",
+      "woman",
+      "purple",
+      "umbrella",
+      "same",
+      "yellow",
+      "top",
+      "skirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman is seen walking down the same road, wearing a white skirt and a yellow top, holding a purple umbrella.",
+    "objects": [
+      "white",
+      "woman",
+      "purple",
+      "umbrella",
+      "same",
+      "yellow",
+      "top",
+      "skirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman is seen walking down the same road, wearing a white skirt and a yellow top, holding a purple umbrella.",
+    "objects": [
+      "white",
+      "woman",
+      "purple",
+      "umbrella",
+      "same",
+      "yellow",
+      "top",
+      "skirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman is seen walking down the same road, wearing a white skirt and a yellow top, holding a purple umbrella.",
+    "objects": [
+      "white",
+      "woman",
+      "purple",
+      "umbrella",
+      "same",
+      "yellow",
+      "top",
+      "skirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman is seen walking down the same road, wearing a white skirt and a yellow top, holding a purple umbrella.",
+    "objects": [
+      "white",
+      "woman",
+      "purple",
+      "umbrella",
+      "same",
+      "yellow",
+      "top",
+      "skirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman is seen walking down the same road, wearing a white skirt and a yellow top, holding a purple umbrella.",
+    "objects": [
+      "white",
+      "woman",
+      "purple",
+      "umbrella",
+      "same",
+      "yellow",
+      "top",
+      "skirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 24,
+    "description": "The setting is peaceful and idyllic, with a wooden fence to the left side of the road and trees and greenery surrounding the area.",
+    "objects": [
+      "greenery",
+      "peaceful",
+      "idyllic",
+      "wooden",
+      "side",
+      "road",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "trees",
+      "surrounding",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The setting is peaceful and idyllic, with a wooden fence to the left side of the road and trees and greenery surrounding the area.",
+    "objects": [
+      "greenery",
+      "peaceful",
+      "idyllic",
+      "wooden",
+      "side",
+      "road",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "trees",
+      "surrounding",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 26,
+    "description": "The setting is peaceful and idyllic, with a wooden fence to the left side of the road and trees and greenery surrounding the area.",
+    "objects": [
+      "greenery",
+      "peaceful",
+      "idyllic",
+      "wooden",
+      "side",
+      "road",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "trees",
+      "surrounding",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 27,
+    "description": "The setting is peaceful and idyllic, with a wooden fence to the left side of the road and trees and greenery surrounding the area.",
+    "objects": [
+      "greenery",
+      "peaceful",
+      "idyllic",
+      "wooden",
+      "side",
+      "road",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "trees",
+      "surrounding",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 28,
+    "description": "The setting is peaceful and idyllic, with a wooden fence to the left side of the road and trees and greenery surrounding the area.",
+    "objects": [
+      "greenery",
+      "peaceful",
+      "idyllic",
+      "wooden",
+      "side",
+      "road",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "trees",
+      "surrounding",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 29,
+    "description": "The setting is peaceful and idyllic, with a wooden fence to the left side of the road and trees and greenery surrounding the area.",
+    "objects": [
+      "greenery",
+      "peaceful",
+      "idyllic",
+      "wooden",
+      "side",
+      "road",
+      "area",
+      "fence"
+    ],
+    "actions": [
+      "trees",
+      "surrounding",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures the simplicity and serenity of a small-town life.",
+    "objects": [
+      "serenity",
+      "life",
+      "simplicity"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures the simplicity and serenity of a small-town life.",
+    "objects": [
+      "serenity",
+      "life",
+      "simplicity"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  }
+]

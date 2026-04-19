@@ -1,0 +1,556 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a close-up shot of a group of women posing for the camera.",
+    "objects": [
+      "women",
+      "group"
+    ],
+    "actions": [
+      "begins",
+      "posing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "They are dressed in lingerie, and one of them is holding a pair of blue panties.",
+    "objects": [
+      "they",
+      "one",
+      "lingerie",
+      "blue",
+      "them",
+      "pair"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "panties"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "As the camera pans out, we see the women in a room, each engaged in different activities.",
+    "objects": [
+      "each",
+      "pans",
+      "see",
+      "out",
+      "different",
+      "room",
+      "women"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "One woman is standing near a closet, holding a blue hoodie, while another is talking on the phone.",
+    "objects": [
+      "one",
+      "closet",
+      "woman",
+      "while",
+      "blue",
+      "phone",
+      "hoodie"
+    ],
+    "actions": [
+      "talking",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The third woman is in the kitchen, preparing a meal, and the fourth is sitting at a table, smiling.",
+    "objects": [
+      "table",
+      "meal",
+      "woman",
+      "fourth",
+      "third",
+      "kitchen"
+    ],
+    "actions": [
+      "sitting",
+      "preparing",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The fifth woman is standing in the room, holding a red bag.",
+    "objects": [
+      "room",
+      "woman",
+      "bag",
+      "fifth"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The sixth woman is in the bedroom, standing next to a bed, and the seventh is standing in the bathroom, holding a towel.",
+    "objects": [
+      "sixth",
+      "woman",
+      "towel",
+      "bedroom",
+      "bathroom",
+      "seventh"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "bed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The eighth woman is in the room, talking on the phone, and the ninth is in the kitchen, holding a red wine glass.",
+    "objects": [
+      "eighth",
+      "woman",
+      "glass",
+      "ninth",
+      "phone",
+      "wine",
+      "room",
+      "kitchen"
+    ],
+    "actions": [
+      "talking",
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The tenth woman is in the room, holding a blue bowl, and the eleventh is standing in the bathroom, holding a blue towel.",
+    "objects": [
+      "woman",
+      "blue",
+      "towel",
+      "tenth",
+      "bowl",
+      "bathroom",
+      "room",
+      "eleventh"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The twelfth woman is in the room, holding a red scarf, and the thirteenth is in the kitchen, holding a red vase.",
+    "objects": [
+      "twelfth",
+      "woman",
+      "vase",
+      "scarf",
+      "room",
+      "kitchen",
+      "thirteenth"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The fourteenth woman is standing in the room, holding a red bag, and the fifteenth is standing in the bathroom, holding a blue towel.",
+    "objects": [
+      "fifteenth",
+      "fourteenth",
+      "woman",
+      "blue",
+      "towel",
+      "bag",
+      "bathroom",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The sixteenth woman is in the bedroom, holding a red pillow, and the seventeenth is standing in the room, holding a red cup.",
+    "objects": [
+      "seventeenth",
+      "pillow",
+      "woman",
+      "bedroom",
+      "cup",
+      "room",
+      "sixteenth"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The eighteenth is in the kitchen, holding a red wine glass, and the nineteenth is standing in the bathroom, holding a blue towel.",
+    "objects": [
+      "eighteenth",
+      "kitchen",
+      "blue",
+      "towel",
+      "bathroom",
+      "nineteenth",
+      "wine",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The twentieth woman is in the room, holding a red towel, and the twentieth is standing in the bathroom, holding a red vase.",
+    "objects": [
+      "twentieth",
+      "woman",
+      "towel",
+      "vase",
+      "bathroom",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The twenty-first is in the room, holding a blue hoodie, and the twenty-second is standing in the kitchen, holding a red bowl.",
+    "objects": [
+      "blue",
+      "bowl",
+      "hoodie",
+      "room",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The twenty-third is in the bedroom, holding a red pillow, and the twenty-fourth is standing in the bathroom, holding a blue towel.",
+    "objects": [
+      "pillow",
+      "blue",
+      "towel",
+      "bedroom",
+      "bathroom"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The twenty-fifth is in the room, holding a red wine glass, and the twenty-sixth is standing in the kitchen, holding a red vase.",
+    "objects": [
+      "glass",
+      "vase",
+      "wine",
+      "room",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The twenty-seventh is in the room, holding a red towel, and the twenty-eighth is standing in the bathroom, holding a blue hoodie.",
+    "objects": [
+      "blue",
+      "towel",
+      "bathroom",
+      "hoodie",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The twenty-ninth is in the bedroom, holding a red pillow, and the thirty-first is standing in the kitchen, holding a red bowl.",
+    "objects": [
+      "bedroom",
+      "pillow",
+      "kitchen",
+      "bowl"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The thirty-second is in the bathroom, holding a red towel, and the thirty-third is standing in the room, holding a red vase.",
+    "objects": [
+      "bathroom",
+      "room",
+      "towel",
+      "vase"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The thirty-fourth is in the room, holding a red wine glass, and the thirty-fifth is standing in the bedroom, holding a red pillow.",
+    "objects": [
+      "pillow",
+      "bedroom",
+      "wine",
+      "room",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The thirty-sixth is in the kitchen, holding a red bag, and the thirty-seventh is standing in the bathroom, holding a blue towel.",
+    "objects": [
+      "blue",
+      "towel",
+      "bag",
+      "bathroom",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The thirty-eighth is in the room, holding a red towel, and the thirty-ninth is standing in the kitchen, holding a red bowl.",
+    "objects": [
+      "room",
+      "kitchen",
+      "towel",
+      "bowl"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The forty-first is in the room, holding a red wine glass, and the forty-second is standing in the bathroom, holding a blue towel.",
+    "objects": [
+      "blue",
+      "towel",
+      "bathroom",
+      "wine",
+      "room",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The forty-third is in the bedroom, holding a red pillow, and the forty-fourth is standing in the room, holding a red towel.",
+    "objects": [
+      "bedroom",
+      "room",
+      "pillow",
+      "towel"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The forty-fifth is in the kitchen, holding a red bowl, and the forty-sixth is standing in the bathroom, holding a red vase.",
+    "objects": [
+      "bathroom",
+      "vase",
+      "kitchen",
+      "bowl"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The forty-seventh is in the room, holding a red towel, and the forty-eighth is standing in the kitchen, holding a red wine glass.",
+    "objects": [
+      "glass",
+      "towel",
+      "wine",
+      "room",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The forty-ninth is in the bedroom, holding a red pillow, and the fifty-first is standing in the bathroom, holding a blue towel.",
+    "objects": [
+      "pillow",
+      "blue",
+      "towel",
+      "bedroom",
+      "bathroom"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The fifty-second is in the room, holding a red bag, and the fifty-third is standing in the kitchen, holding a red bowl.",
+    "objects": [
+      "room",
+      "kitchen",
+      "bowl",
+      "bag"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The fifty-fourth is in the bedroom, holding a red pillow, and the fifty-fifth is standing in the bathroom, holding a red vase.",
+    "objects": [
+      "bedroom",
+      "pillow",
+      "vase",
+      "bathroom"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The fifty-sixth is in the room, holding a red towel, and the fifty-seventh is standing in the kitchen, holding a red wine glass.",
+    "objects": [
+      "glass",
+      "towel",
+      "wine",
+      "room",
+      "kitchen"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The fifty-eighth is in the bedroom, holding a red pillow, and the fifty-ninth is standing in the bathroom, holding a blue hoodie.",
+    "objects": [
+      "pillow",
+      "blue",
+      "bedroom",
+      "bathroom",
+      "hoodie"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 31
+  }
+]

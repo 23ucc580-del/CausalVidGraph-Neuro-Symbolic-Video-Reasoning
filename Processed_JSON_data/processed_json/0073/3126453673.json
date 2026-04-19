@@ -1,0 +1,526 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a man standing in a room, wearing a blue hoodie and holding a controller.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "controller",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a man standing in a room, wearing a blue hoodie and holding a controller.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "controller",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video starts with a man standing in a room, wearing a blue hoodie and holding a controller.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "controller",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video starts with a man standing in a room, wearing a blue hoodie and holding a controller.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "controller",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is laughing and appears to be enjoying himself.",
+    "objects": [
+      "himself"
+    ],
+    "actions": [
+      "enjoying",
+      "laughing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is laughing and appears to be enjoying himself.",
+    "objects": [
+      "himself"
+    ],
+    "actions": [
+      "enjoying",
+      "laughing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is laughing and appears to be enjoying himself.",
+    "objects": [
+      "himself"
+    ],
+    "actions": [
+      "enjoying",
+      "laughing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is laughing and appears to be enjoying himself.",
+    "objects": [
+      "himself"
+    ],
+    "actions": [
+      "enjoying",
+      "laughing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then shifts to a woman in a red dress, standing behind him.",
+    "objects": [
+      "behind",
+      "woman",
+      "dress",
+      "then",
+      "him"
+    ],
+    "actions": [
+      "standing",
+      "shifts",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then shifts to a woman in a red dress, standing behind him.",
+    "objects": [
+      "behind",
+      "woman",
+      "dress",
+      "then",
+      "him"
+    ],
+    "actions": [
+      "standing",
+      "shifts",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then shifts to a woman in a red dress, standing behind him.",
+    "objects": [
+      "behind",
+      "woman",
+      "dress",
+      "then",
+      "him"
+    ],
+    "actions": [
+      "standing",
+      "shifts",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then shifts to a woman in a red dress, standing behind him.",
+    "objects": [
+      "behind",
+      "woman",
+      "dress",
+      "then",
+      "him"
+    ],
+    "actions": [
+      "standing",
+      "shifts",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "She is also laughing and seems to be enjoying herself as well.",
+    "objects": [
+      "she",
+      "well",
+      "herself"
+    ],
+    "actions": [
+      "enjoying",
+      "seems",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "She is also laughing and seems to be enjoying herself as well.",
+    "objects": [
+      "she",
+      "well",
+      "herself"
+    ],
+    "actions": [
+      "enjoying",
+      "seems",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "She is also laughing and seems to be enjoying herself as well.",
+    "objects": [
+      "she",
+      "well",
+      "herself"
+    ],
+    "actions": [
+      "enjoying",
+      "seems",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "She is also laughing and seems to be enjoying herself as well.",
+    "objects": [
+      "she",
+      "well",
+      "herself"
+    ],
+    "actions": [
+      "enjoying",
+      "seems",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They are both playing a game, as indicated by the presence of a large screen in front of them displaying the game they are playing.",
+    "objects": [
+      "them",
+      "presence",
+      "both",
+      "they",
+      "screen",
+      "game",
+      "large"
+    ],
+    "actions": [
+      "playing",
+      "indicated",
+      "displaying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "They are both playing a game, as indicated by the presence of a large screen in front of them displaying the game they are playing.",
+    "objects": [
+      "them",
+      "presence",
+      "both",
+      "they",
+      "screen",
+      "game",
+      "large"
+    ],
+    "actions": [
+      "playing",
+      "indicated",
+      "displaying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "They are both playing a game, as indicated by the presence of a large screen in front of them displaying the game they are playing.",
+    "objects": [
+      "them",
+      "presence",
+      "both",
+      "they",
+      "screen",
+      "game",
+      "large"
+    ],
+    "actions": [
+      "playing",
+      "indicated",
+      "displaying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "They are both playing a game, as indicated by the presence of a large screen in front of them displaying the game they are playing.",
+    "objects": [
+      "them",
+      "presence",
+      "both",
+      "they",
+      "screen",
+      "game",
+      "large"
+    ],
+    "actions": [
+      "playing",
+      "indicated",
+      "displaying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman is holding a microphone, possibly for the game's commentary or to interact with the audience.",
+    "objects": [
+      "woman",
+      "microphone",
+      "audience",
+      "commentary",
+      "interact",
+      "possibly"
+    ],
+    "actions": [
+      "game's",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman is holding a microphone, possibly for the game's commentary or to interact with the audience.",
+    "objects": [
+      "woman",
+      "microphone",
+      "audience",
+      "commentary",
+      "interact",
+      "possibly"
+    ],
+    "actions": [
+      "game's",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman is holding a microphone, possibly for the game's commentary or to interact with the audience.",
+    "objects": [
+      "woman",
+      "microphone",
+      "audience",
+      "commentary",
+      "interact",
+      "possibly"
+    ],
+    "actions": [
+      "game's",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman is holding a microphone, possibly for the game's commentary or to interact with the audience.",
+    "objects": [
+      "woman",
+      "microphone",
+      "audience",
+      "commentary",
+      "interact",
+      "possibly"
+    ],
+    "actions": [
+      "game's",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is holding a controller, suggesting he is actively participating in the game.",
+    "objects": [
+      "actively",
+      "game",
+      "controller",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "participating",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is holding a controller, suggesting he is actively participating in the game.",
+    "objects": [
+      "actively",
+      "game",
+      "controller",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "participating",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is holding a controller, suggesting he is actively participating in the game.",
+    "objects": [
+      "actively",
+      "game",
+      "controller",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "participating",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is holding a controller, suggesting he is actively participating in the game.",
+    "objects": [
+      "actively",
+      "game",
+      "controller",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "participating",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is lively, with both individuals enjoying themselves and the game they are playing.",
+    "objects": [
+      "lively",
+      "game",
+      "they",
+      "both"
+    ],
+    "actions": [
+      "enjoying",
+      "themselves",
+      "playing",
+      "individuals"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is lively, with both individuals enjoying themselves and the game they are playing.",
+    "objects": [
+      "lively",
+      "game",
+      "they",
+      "both"
+    ],
+    "actions": [
+      "enjoying",
+      "themselves",
+      "playing",
+      "individuals"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is lively, with both individuals enjoying themselves and the game they are playing.",
+    "objects": [
+      "lively",
+      "game",
+      "they",
+      "both"
+    ],
+    "actions": [
+      "enjoying",
+      "themselves",
+      "playing",
+      "individuals"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is lively, with both individuals enjoying themselves and the game they are playing.",
+    "objects": [
+      "lively",
+      "game",
+      "they",
+      "both"
+    ],
+    "actions": [
+      "enjoying",
+      "themselves",
+      "playing",
+      "individuals"
+    ],
+    "segment_id": 7
+  }
+]

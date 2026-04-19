@@ -1,0 +1,530 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is seen wearing a yellow shirt and standing in a room, speaking directly to the camera.",
+    "objects": [
+      "room",
+      "directly",
+      "yellow",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "speaking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is seen wearing a yellow shirt and standing in a room, speaking directly to the camera.",
+    "objects": [
+      "room",
+      "directly",
+      "yellow",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "speaking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man is seen wearing a yellow shirt and standing in a room, speaking directly to the camera.",
+    "objects": [
+      "room",
+      "directly",
+      "yellow",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "speaking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man is seen wearing a yellow shirt and standing in a room, speaking directly to the camera.",
+    "objects": [
+      "room",
+      "directly",
+      "yellow",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "speaking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is surrounded by a group of people who are also wearing jackets and are engaged in various activities.",
+    "objects": [
+      "who",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "engaged",
+      "wearing",
+      "activities"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is surrounded by a group of people who are also wearing jackets and are engaged in various activities.",
+    "objects": [
+      "who",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "engaged",
+      "wearing",
+      "activities"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is surrounded by a group of people who are also wearing jackets and are engaged in various activities.",
+    "objects": [
+      "who",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "engaged",
+      "wearing",
+      "activities"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is surrounded by a group of people who are also wearing jackets and are engaged in various activities.",
+    "objects": [
+      "who",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "engaged",
+      "wearing",
+      "activities"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Some are playing video games, while others are standing and chatting.",
+    "objects": [
+      "some",
+      "while"
+    ],
+    "actions": [
+      "standing",
+      "others",
+      "games",
+      "chatting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Some are playing video games, while others are standing and chatting.",
+    "objects": [
+      "some",
+      "while"
+    ],
+    "actions": [
+      "standing",
+      "others",
+      "games",
+      "chatting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Some are playing video games, while others are standing and chatting.",
+    "objects": [
+      "some",
+      "while"
+    ],
+    "actions": [
+      "standing",
+      "others",
+      "games",
+      "chatting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Some are playing video games, while others are standing and chatting.",
+    "objects": [
+      "some",
+      "while"
+    ],
+    "actions": [
+      "standing",
+      "others",
+      "games",
+      "chatting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A woman is seen playing a video game, and a man in a white shirt is standing next to her.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "game",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A woman is seen playing a video game, and a man in a white shirt is standing next to her.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "game",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A woman is seen playing a video game, and a man in a white shirt is standing next to her.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "game",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman is seen playing a video game, and a man in a white shirt is standing next to her.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "game",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another man is standing in the background, smiling at the camera.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Another man is standing in the background, smiling at the camera.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Another man is standing in the background, smiling at the camera.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Another man is standing in the background, smiling at the camera.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a white shirt is sitting, and a man in a black shirt is standing near a vending machine.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "machine",
+      "man"
+    ],
+    "actions": [
+      "vending",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a white shirt is sitting, and a man in a black shirt is standing near a vending machine.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "machine",
+      "man"
+    ],
+    "actions": [
+      "vending",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a white shirt is sitting, and a man in a black shirt is standing near a vending machine.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "machine",
+      "man"
+    ],
+    "actions": [
+      "vending",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a white shirt is sitting, and a man in a black shirt is standing near a vending machine.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "machine",
+      "man"
+    ],
+    "actions": [
+      "vending",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "Additionally, a woman in a black shirt is standing near a vending machine and a man in a blue shirt is standing nearby.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "nearby",
+      "machine",
+      "man",
+      "additionally"
+    ],
+    "actions": [
+      "vending",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "Additionally, a woman in a black shirt is standing near a vending machine and a man in a blue shirt is standing nearby.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "nearby",
+      "machine",
+      "man",
+      "additionally"
+    ],
+    "actions": [
+      "vending",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "Additionally, a woman in a black shirt is standing near a vending machine and a man in a blue shirt is standing nearby.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "nearby",
+      "machine",
+      "man",
+      "additionally"
+    ],
+    "actions": [
+      "vending",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "Additionally, a woman in a black shirt is standing near a vending machine and a man in a blue shirt is standing nearby.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "nearby",
+      "machine",
+      "man",
+      "additionally"
+    ],
+    "actions": [
+      "vending",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "There is a woman in a black shirt who is standing, and a man in a blue hoodie is walking in the room.",
+    "objects": [
+      "room",
+      "there",
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "There is a woman in a black shirt who is standing, and a man in a blue hoodie is walking in the room.",
+    "objects": [
+      "room",
+      "there",
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "There is a woman in a black shirt who is standing, and a man in a blue hoodie is walking in the room.",
+    "objects": [
+      "room",
+      "there",
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "There is a woman in a black shirt who is standing, and a man in a blue hoodie is walking in the room.",
+    "objects": [
+      "room",
+      "there",
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hoodie"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 7
+  }
+]

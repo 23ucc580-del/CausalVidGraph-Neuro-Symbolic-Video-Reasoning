@@ -1,0 +1,573 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of men gathered outdoors, likely in a garden or park setting.",
+    "objects": [
+      "men",
+      "see",
+      "garden",
+      "park",
+      "likely",
+      "group"
+    ],
+    "actions": [
+      "setting",
+      "gathered",
+      "outdoors"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "One man is prominently wearing a black suit with a white shirt and a blue flower, possibly indicating a formal occasion or a special event.",
+    "objects": [
+      "one",
+      "white",
+      "suit",
+      "prominently",
+      "black",
+      "possibly",
+      "blue",
+      "special"
+    ],
+    "actions": [
+      "wearing",
+      "indicating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "Another man is wearing a suit and a tie, also smiling at the camera, seemingly in a happy mood.",
+    "objects": [
+      "happy",
+      "suit",
+      "tie",
+      "seemingly",
+      "man",
+      "mood"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "A third man is wearing a white shirt and a red tie, standing behind the other two men, and appears to be taking a picture of the two men in front.",
+    "objects": [
+      "behind",
+      "white",
+      "other",
+      "two",
+      "picture",
+      "men",
+      "shirt",
+      "tie"
+    ],
+    "actions": [
+      "wearing",
+      "taking",
+      "standing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The fourth man is standing slightly behind and to the side, wearing a black suit and a red tie, holding a camera and smiling at the two men.",
+    "objects": [
+      "behind",
+      "suit",
+      "two",
+      "black",
+      "men",
+      "fourth",
+      "tie",
+      "side"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The fifth man, wearing a suit and a red tie, stands next to the third man, also smiling and holding a camera.",
+    "objects": [
+      "suit",
+      "fifth",
+      "tie",
+      "third",
+      "man"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "stands"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The sixth man is standing in the background, wearing a suit and a red tie, and seems to be smiling.",
+    "objects": [
+      "sixth",
+      "man",
+      "tie",
+      "suit"
+    ],
+    "actions": [
+      "seems",
+      "standing",
+      "red",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The seventh man is wearing a suit and a white shirt, holding a camera and also smiling.",
+    "objects": [
+      "white",
+      "suit",
+      "shirt",
+      "seventh",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The eighth man is wearing a suit and a red tie, standing slightly behind and to the side, and is also smiling.",
+    "objects": [
+      "eighth",
+      "behind",
+      "suit",
+      "tie",
+      "side",
+      "man",
+      "slightly"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The ninth man is standing in the background, wearing a suit and a red tie, holding a camera and smiling.",
+    "objects": [
+      "tie",
+      "man",
+      "suit",
+      "ninth"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The tenth man is wearing a suit and a white shirt, standing slightly behind and to the side, and also smiling.",
+    "objects": [
+      "behind",
+      "white",
+      "suit",
+      "tenth",
+      "shirt",
+      "side",
+      "man",
+      "slightly"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The eleventh man is wearing a suit and a red tie, standing in the background, and is smiling.",
+    "objects": [
+      "tie",
+      "man",
+      "suit",
+      "eleventh"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The twelfth man is wearing a suit and a red tie, standing next to the tenth man, and is also smiling.",
+    "objects": [
+      "suit",
+      "twelfth",
+      "tenth",
+      "tie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The thirteenth man is wearing a suit and a red tie, standing in the background, and is smiling.",
+    "objects": [
+      "tie",
+      "man",
+      "thirteenth",
+      "suit"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The fourteenth man is wearing a suit and a white shirt, standing next to the twelfth man, and is also smiling.",
+    "objects": [
+      "white",
+      "suit",
+      "fourteenth",
+      "twelfth",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The fifteenth man is wearing a suit and a red tie, standing slightly behind and to the side, and is smiling.",
+    "objects": [
+      "fifteenth",
+      "behind",
+      "suit",
+      "tie",
+      "side",
+      "man",
+      "slightly"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The sixteenth man is wearing a suit and a red tie, standing in the background, and is smiling.",
+    "objects": [
+      "tie",
+      "man",
+      "sixteenth",
+      "suit"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The seventeenth man is wearing a suit and a red tie, standing slightly behind and to the side, and is smiling.",
+    "objects": [
+      "seventeenth",
+      "behind",
+      "suit",
+      "tie",
+      "side",
+      "man",
+      "slightly"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The eighteenth man is wearing a suit and a white shirt, standing next to the seventeenth man, and is also smiling.",
+    "objects": [
+      "seventeenth",
+      "white",
+      "suit",
+      "shirt",
+      "eighteenth",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The nineteenth man is wearing a suit and a red tie, standing in the background, and is smiling.",
+    "objects": [
+      "tie",
+      "man",
+      "suit",
+      "nineteenth"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The twentieth man is wearing a suit and a red tie, standing next to the nineteenth man, and is also smiling.",
+    "objects": [
+      "twentieth",
+      "suit",
+      "tie",
+      "nineteenth",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The twenty-first man is wearing a suit and a white shirt, standing in the background, and is smiling.",
+    "objects": [
+      "shirt",
+      "man",
+      "white",
+      "suit"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The twenty-second man is wearing a suit and a red tie, standing slightly behind and to the side, and is also smiling.",
+    "objects": [
+      "behind",
+      "suit",
+      "tie",
+      "side",
+      "man",
+      "slightly"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The twenty-third man is wearing a suit and a white shirt, standing in the background, and is smiling.",
+    "objects": [
+      "shirt",
+      "man",
+      "white",
+      "suit"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The twenty-fourth man is wearing a suit and a red tie, standing next to the twenty-third man, and is also smiling.",
+    "objects": [
+      "tie",
+      "man",
+      "suit"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The twenty-fifth man is wearing a suit and a red tie, standing in the background, and is smiling.",
+    "objects": [
+      "tie",
+      "man",
+      "suit"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The twenty-sixth man is wearing a suit and a white shirt, standing slightly behind and to the side, and is smiling.",
+    "objects": [
+      "behind",
+      "white",
+      "suit",
+      "shirt",
+      "side",
+      "man",
+      "slightly"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The twenty-seventh man is wearing a suit and a red tie, standing next to the twenty-sixth man, and is also smiling.",
+    "objects": [
+      "tie",
+      "man",
+      "suit"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The twenty-eighth man is wearing a suit and a white shirt, standing in the background, and is smiling.",
+    "objects": [
+      "shirt",
+      "man",
+      "white",
+      "suit"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The twenty-ninth man is wearing a suit and a red tie, standing slightly behind and to the side, and is also smiling.",
+    "objects": [
+      "behind",
+      "suit",
+      "tie",
+      "side",
+      "man",
+      "slightly"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The thirtieth man is wearing a suit and a red tie, standing next to the twenty-ninth man, and is smiling.",
+    "objects": [
+      "tie",
+      "thirtieth",
+      "man",
+      "suit"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The thirty-first man is wearing a suit and a white shirt, standing in the background, and is smiling.",
+    "objects": [
+      "shirt",
+      "man",
+      "white",
+      "suit"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 31
+  }
+]

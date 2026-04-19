@@ -1,0 +1,551 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people enjoying a day on the slopes of a snowy mountain.",
+    "objects": [
+      "mountain",
+      "people",
+      "see",
+      "snowy",
+      "day",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "enjoying",
+      "slopes"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The first scene shows two individuals, both dressed in ski gear and equipped with skis, skiing downhill.",
+    "objects": [
+      "both",
+      "two",
+      "ski",
+      "skis",
+      "gear",
+      "first",
+      "downhill"
+    ],
+    "actions": [
+      "dressed",
+      "individuals",
+      "skiing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "One of them is wearing a yellow jacket and the other is in a black coat.",
+    "objects": [
+      "one",
+      "other",
+      "jacket",
+      "black",
+      "yellow",
+      "coat",
+      "them"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "They are both holding ski poles and appear to be in motion.",
+    "objects": [
+      "they",
+      "appear",
+      "motion",
+      "both",
+      "ski"
+    ],
+    "actions": [
+      "holding",
+      "poles"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The next scene features another person, who is also wearing ski gear and is holding ski poles.",
+    "objects": [
+      "gear",
+      "who",
+      "ski"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "poles",
+      "features"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "This person is wearing a white jacket and is standing still, possibly observing the first two skiers or waiting for their turn.",
+    "objects": [
+      "their",
+      "white",
+      "two",
+      "jacket",
+      "possibly",
+      "turn",
+      "first",
+      "this"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "skiers",
+      "waiting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The third scene features a person in a white jacket and black pants, also holding ski poles, standing in the snow.",
+    "objects": [
+      "snow",
+      "white",
+      "jacket",
+      "black",
+      "ski",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding",
+      "features"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The fourth scene shows a person in a blue jacket skiing downhill, and the fifth scene shows another person in a white jacket and black pants, also skiing downhill.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "blue",
+      "fourth",
+      "fifth",
+      "downhill"
+    ],
+    "actions": [
+      "pants",
+      "skiing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The sixth scene features a person in a blue jacket and black pants, standing still in the snow.",
+    "objects": [
+      "sixth",
+      "snow",
+      "jacket",
+      "black",
+      "blue",
+      "still"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "features"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The seventh scene shows a person in a white jacket and black pants, holding ski poles, standing in the snow.",
+    "objects": [
+      "snow",
+      "white",
+      "jacket",
+      "black",
+      "ski",
+      "seventh"
+    ],
+    "actions": [
+      "poles",
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The eighth scene shows another person in a black jacket, standing in the snow, and the ninth scene features a person in a white jacket, holding ski poles, standing in the snow.",
+    "objects": [
+      "snow",
+      "eighth",
+      "white",
+      "black",
+      "jacket",
+      "ski",
+      "ninth"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "poles",
+      "features"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The tenth scene displays a person in a black jacket, standing in the snow, and the eleventh scene shows a person in a white jacket, wearing ski gear and holding ski poles.",
+    "objects": [
+      "snow",
+      "white",
+      "black",
+      "jacket",
+      "ski",
+      "tenth",
+      "gear",
+      "eleventh"
+    ],
+    "actions": [
+      "standing",
+      "displays",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The twelfth scene shows a person in a black jacket, standing in the snow, and the thirteenth scene features a person in a white jacket and black pants, wearing ski gear and holding ski poles.",
+    "objects": [
+      "snow",
+      "white",
+      "twelfth",
+      "black",
+      "jacket",
+      "ski",
+      "gear",
+      "thirteenth"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The fourteenth scene shows a person in a blue jacket, standing in the snow.",
+    "objects": [
+      "snow",
+      "jacket",
+      "blue",
+      "fourteenth"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The fifteenth scene displays a person in a white jacket, holding ski poles, standing in the snow.",
+    "objects": [
+      "fifteenth",
+      "snow",
+      "white",
+      "jacket",
+      "ski"
+    ],
+    "actions": [
+      "poles",
+      "standing",
+      "holding",
+      "displays"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The sixteenth scene features a person in a black jacket, wearing ski gear and holding ski poles.",
+    "objects": [
+      "black",
+      "jacket",
+      "ski",
+      "gear",
+      "sixteenth"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "poles",
+      "features"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The seventeenth scene shows a person in a white jacket and black pants, holding ski poles, standing in the snow.",
+    "objects": [
+      "seventeenth",
+      "snow",
+      "white",
+      "jacket",
+      "black",
+      "ski"
+    ],
+    "actions": [
+      "poles",
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The eighteenth scene displays a person in a black jacket, standing in the snow.",
+    "objects": [
+      "black",
+      "jacket",
+      "snow",
+      "eighteenth"
+    ],
+    "actions": [
+      "standing",
+      "displays"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The nineteenth scene features a person in a white jacket and black pants, wearing ski gear and holding ski poles.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "ski",
+      "nineteenth",
+      "gear"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "holding",
+      "features"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The twentieth scene shows a person in a black jacket, holding ski poles, standing in the snow.",
+    "objects": [
+      "snow",
+      "twentieth",
+      "black",
+      "jacket",
+      "ski"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "poles"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The twenty-first scene displays a person in a white jacket, wearing ski gear and holding ski poles.",
+    "objects": [
+      "gear",
+      "jacket",
+      "ski",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "displays",
+      "poles"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The twenty-second scene features a person in a black jacket, standing in the snow.",
+    "objects": [
+      "black",
+      "jacket",
+      "snow"
+    ],
+    "actions": [
+      "standing",
+      "features"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The twenty-third scene shows a person in a white jacket and black pants, wearing ski gear and holding ski poles.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "ski",
+      "gear"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "holding",
+      "poles"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The twenty-fourth scene displays a person in a black jacket, standing in the snow.",
+    "objects": [
+      "black",
+      "jacket",
+      "snow"
+    ],
+    "actions": [
+      "standing",
+      "displays"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The twenty-fifth scene features a person in a white jacket, wearing ski gear and holding ski poles.",
+    "objects": [
+      "gear",
+      "jacket",
+      "ski",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "poles",
+      "features"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The twenty-sixth scene shows a person in a black jacket, standing in the snow.",
+    "objects": [
+      "black",
+      "jacket",
+      "snow"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The twenty-seventh scene displays a person in a white jacket and black pants, wearing ski gear and holding ski poles.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "ski",
+      "gear"
+    ],
+    "actions": [
+      "pants",
+      "displays",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The twenty-eighth scene features a person in a black jacket, standing in the snow.",
+    "objects": [
+      "black",
+      "jacket",
+      "snow"
+    ],
+    "actions": [
+      "standing",
+      "features"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The twenty-nineth scene shows a person in a white jacket, wearing ski gear and holding ski poles.",
+    "objects": [
+      "gear",
+      "jacket",
+      "ski",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "poles"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The twenty-twentieth scene displays a person in a black jacket, standing in the snow.",
+    "objects": [
+      "black",
+      "jacket",
+      "snow"
+    ],
+    "actions": [
+      "standing",
+      "displays"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The twenty-twenty-first scene features a person in a white jacket and black pants, wearing ski gear and holding ski poles.",
+    "objects": [
+      "white",
+      "jacket",
+      "black",
+      "ski",
+      "gear"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "holding",
+      "features"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The twenty-twenty-second scene shows a person in a black jacket, standing in the snow.",
+    "objects": [
+      "black",
+      "jacket",
+      "snow"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 31
+  }
+]

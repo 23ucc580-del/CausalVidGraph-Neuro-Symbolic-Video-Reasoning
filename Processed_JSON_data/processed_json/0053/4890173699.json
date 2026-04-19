@@ -1,0 +1,561 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man wearing a blue shirt is seen petting a tiger that is lying on the ground.",
+    "objects": [
+      "man",
+      "blue",
+      "ground",
+      "shirt",
+      "that",
+      "tiger"
+    ],
+    "actions": [
+      "wearing",
+      "lying",
+      "petting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man wearing a blue shirt is seen petting a tiger that is lying on the ground.",
+    "objects": [
+      "man",
+      "blue",
+      "ground",
+      "shirt",
+      "that",
+      "tiger"
+    ],
+    "actions": [
+      "wearing",
+      "lying",
+      "petting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man wearing a blue shirt is seen petting a tiger that is lying on the ground.",
+    "objects": [
+      "man",
+      "blue",
+      "ground",
+      "shirt",
+      "that",
+      "tiger"
+    ],
+    "actions": [
+      "wearing",
+      "lying",
+      "petting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The tiger is a large, brown and black striped creature with a white belly, and its eyes are closed.",
+    "objects": [
+      "white",
+      "eyes",
+      "large",
+      "brown",
+      "creature",
+      "belly",
+      "its",
+      "tiger"
+    ],
+    "actions": [
+      "striped",
+      "closed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The tiger is a large, brown and black striped creature with a white belly, and its eyes are closed.",
+    "objects": [
+      "white",
+      "eyes",
+      "large",
+      "brown",
+      "creature",
+      "belly",
+      "its",
+      "tiger"
+    ],
+    "actions": [
+      "striped",
+      "closed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The tiger is a large, brown and black striped creature with a white belly, and its eyes are closed.",
+    "objects": [
+      "white",
+      "eyes",
+      "large",
+      "brown",
+      "creature",
+      "belly",
+      "its",
+      "tiger"
+    ],
+    "actions": [
+      "striped",
+      "closed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man has his hand on the tiger's head, which is resting on the ground.",
+    "objects": [
+      "which",
+      "has",
+      "man",
+      "hand",
+      "head",
+      "his",
+      "ground"
+    ],
+    "actions": [
+      "tiger's",
+      "resting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The man has his hand on the tiger's head, which is resting on the ground.",
+    "objects": [
+      "which",
+      "has",
+      "man",
+      "hand",
+      "head",
+      "his",
+      "ground"
+    ],
+    "actions": [
+      "tiger's",
+      "resting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The man has his hand on the tiger's head, which is resting on the ground.",
+    "objects": [
+      "which",
+      "has",
+      "man",
+      "hand",
+      "head",
+      "his",
+      "ground"
+    ],
+    "actions": [
+      "tiger's",
+      "resting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The tiger's paws are visible, and it appears to be in a calm state, possibly sleeping.",
+    "objects": [
+      "calm",
+      "state",
+      "possibly",
+      "paws"
+    ],
+    "actions": [
+      "tiger's",
+      "sleeping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The tiger's paws are visible, and it appears to be in a calm state, possibly sleeping.",
+    "objects": [
+      "calm",
+      "state",
+      "possibly",
+      "paws"
+    ],
+    "actions": [
+      "tiger's",
+      "sleeping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The tiger's paws are visible, and it appears to be in a calm state, possibly sleeping.",
+    "objects": [
+      "calm",
+      "state",
+      "possibly",
+      "paws"
+    ],
+    "actions": [
+      "tiger's",
+      "sleeping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The man's blue shirt contrasts with the tiger's brown fur, and he seems to be enjoying the interaction with the animal.",
+    "objects": [
+      "animal",
+      "blue",
+      "brown",
+      "shirt",
+      "interaction",
+      "fur"
+    ],
+    "actions": [
+      "seems",
+      "man's",
+      "contrasts",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The man's blue shirt contrasts with the tiger's brown fur, and he seems to be enjoying the interaction with the animal.",
+    "objects": [
+      "animal",
+      "blue",
+      "brown",
+      "shirt",
+      "interaction",
+      "fur"
+    ],
+    "actions": [
+      "seems",
+      "man's",
+      "contrasts",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The man's blue shirt contrasts with the tiger's brown fur, and he seems to be enjoying the interaction with the animal.",
+    "objects": [
+      "animal",
+      "blue",
+      "brown",
+      "shirt",
+      "interaction",
+      "fur"
+    ],
+    "actions": [
+      "seems",
+      "man's",
+      "contrasts",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The tiger's body is stretched out on the ground, and the man is standing close to it.",
+    "objects": [
+      "out",
+      "man",
+      "body",
+      "close",
+      "ground"
+    ],
+    "actions": [
+      "stretched",
+      "standing",
+      "tiger's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The tiger's body is stretched out on the ground, and the man is standing close to it.",
+    "objects": [
+      "out",
+      "man",
+      "body",
+      "close",
+      "ground"
+    ],
+    "actions": [
+      "stretched",
+      "standing",
+      "tiger's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The tiger's body is stretched out on the ground, and the man is standing close to it.",
+    "objects": [
+      "out",
+      "man",
+      "body",
+      "close",
+      "ground"
+    ],
+    "actions": [
+      "stretched",
+      "standing",
+      "tiger's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The tiger appears relaxed and at ease in the man's presence.",
+    "objects": [
+      "ease",
+      "tiger",
+      "presence"
+    ],
+    "actions": [
+      "man's",
+      "relaxed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The tiger appears relaxed and at ease in the man's presence.",
+    "objects": [
+      "ease",
+      "tiger",
+      "presence"
+    ],
+    "actions": [
+      "man's",
+      "relaxed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The tiger appears relaxed and at ease in the man's presence.",
+    "objects": [
+      "ease",
+      "tiger",
+      "presence"
+    ],
+    "actions": [
+      "man's",
+      "relaxed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "There are no other people or objects visible in the scene, and the focus is solely on the man and the tiger.",
+    "objects": [
+      "man",
+      "people",
+      "other",
+      "tiger",
+      "solely",
+      "there"
+    ],
+    "actions": [
+      "objects",
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "There are no other people or objects visible in the scene, and the focus is solely on the man and the tiger.",
+    "objects": [
+      "man",
+      "people",
+      "other",
+      "tiger",
+      "solely",
+      "there"
+    ],
+    "actions": [
+      "objects",
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "There are no other people or objects visible in the scene, and the focus is solely on the man and the tiger.",
+    "objects": [
+      "man",
+      "people",
+      "other",
+      "tiger",
+      "solely",
+      "there"
+    ],
+    "actions": [
+      "objects",
+      "focus"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The tiger's eyes are closed, suggesting it may be resting or in a tranquil state.",
+    "objects": [
+      "state",
+      "may",
+      "eyes",
+      "tranquil"
+    ],
+    "actions": [
+      "closed",
+      "suggesting",
+      "tiger's",
+      "resting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The tiger's eyes are closed, suggesting it may be resting or in a tranquil state.",
+    "objects": [
+      "state",
+      "may",
+      "eyes",
+      "tranquil"
+    ],
+    "actions": [
+      "closed",
+      "suggesting",
+      "tiger's",
+      "resting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The tiger's eyes are closed, suggesting it may be resting or in a tranquil state.",
+    "objects": [
+      "state",
+      "may",
+      "eyes",
+      "tranquil"
+    ],
+    "actions": [
+      "closed",
+      "suggesting",
+      "tiger's",
+      "resting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The man's hand is on the tiger's head, indicating a sense of trust and familiarity between them.",
+    "objects": [
+      "between",
+      "familiarity",
+      "sense",
+      "them",
+      "hand",
+      "head",
+      "trust"
+    ],
+    "actions": [
+      "indicating",
+      "man's",
+      "tiger's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The man's hand is on the tiger's head, indicating a sense of trust and familiarity between them.",
+    "objects": [
+      "between",
+      "familiarity",
+      "sense",
+      "them",
+      "hand",
+      "head",
+      "trust"
+    ],
+    "actions": [
+      "indicating",
+      "man's",
+      "tiger's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The man's hand is on the tiger's head, indicating a sense of trust and familiarity between them.",
+    "objects": [
+      "between",
+      "familiarity",
+      "sense",
+      "them",
+      "hand",
+      "head",
+      "trust"
+    ],
+    "actions": [
+      "indicating",
+      "man's",
+      "tiger's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The tiger's paws are visible, and it is lying on the ground, possibly on a mat or cushioned surface, providing a comfortable resting spot.",
+    "objects": [
+      "spot",
+      "surface",
+      "mat",
+      "comfortable",
+      "paws",
+      "possibly",
+      "ground"
+    ],
+    "actions": [
+      "providing",
+      "lying",
+      "resting",
+      "tiger's"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The tiger's paws are visible, and it is lying on the ground, possibly on a mat or cushioned surface, providing a comfortable resting spot.",
+    "objects": [
+      "spot",
+      "surface",
+      "mat",
+      "comfortable",
+      "paws",
+      "possibly",
+      "ground"
+    ],
+    "actions": [
+      "providing",
+      "lying",
+      "resting",
+      "tiger's"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is seen holding a leash in his right hand while wearing a red shirt and jeans, with a black and white dog on a leash.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "leash",
+      "shirt",
+      "dog",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "holding",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is seen holding a leash in his right hand while wearing a red shirt and jeans, with a black and white dog on a leash.",
+    "objects": [
+      "white",
+      "while",
+      "black",
+      "leash",
+      "shirt",
+      "dog",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "holding",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The dog is running around in a dog park with several obstacles and tents in the background.",
+    "objects": [
+      "around",
+      "dog",
+      "park",
+      "several"
+    ],
+    "actions": [
+      "obstacles",
+      "running",
+      "tents"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The dog is running around in a dog park with several obstacles and tents in the background.",
+    "objects": [
+      "around",
+      "dog",
+      "park",
+      "several"
+    ],
+    "actions": [
+      "obstacles",
+      "running",
+      "tents"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is standing on a patch of grass surrounded by the dog park.",
+    "objects": [
+      "patch",
+      "dog",
+      "park",
+      "grass",
+      "man"
+    ],
+    "actions": [
+      "surrounded",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is standing on a patch of grass surrounded by the dog park.",
+    "objects": [
+      "patch",
+      "dog",
+      "park",
+      "grass",
+      "man"
+    ],
+    "actions": [
+      "surrounded",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "Another man is wearing a blue shirt and black pants, and he is walking with a dog on a leash.",
+    "objects": [
+      "black",
+      "blue",
+      "shirt",
+      "leash",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "Another man is wearing a blue shirt and black pants, and he is walking with a dog on a leash.",
+    "objects": [
+      "black",
+      "blue",
+      "shirt",
+      "leash",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog is white with black spots, and it is also on a leash.",
+    "objects": [
+      "black",
+      "dog",
+      "white",
+      "leash"
+    ],
+    "actions": [
+      "spots"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog is white with black spots, and it is also on a leash.",
+    "objects": [
+      "black",
+      "dog",
+      "white",
+      "leash"
+    ],
+    "actions": [
+      "spots"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The dog is jumping over a pole in the dog park, and the man is wearing a red shirt and holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "pole",
+      "shirt",
+      "dog",
+      "park",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "jumping",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The dog is jumping over a pole in the dog park, and the man is wearing a red shirt and holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "pole",
+      "shirt",
+      "dog",
+      "park",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "jumping",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog is black and white with a red collar.",
+    "objects": [
+      "black",
+      "dog",
+      "collar",
+      "white"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog is black and white with a red collar.",
+    "objects": [
+      "black",
+      "dog",
+      "collar",
+      "white"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "Additionally, there is a man wearing a white shirt and black pants, holding a frisbee, standing on the grass in the dog park.",
+    "objects": [
+      "frisbee",
+      "there",
+      "white",
+      "black",
+      "shirt",
+      "dog",
+      "park",
+      "grass"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "Additionally, there is a man wearing a white shirt and black pants, holding a frisbee, standing on the grass in the dog park.",
+    "objects": [
+      "frisbee",
+      "there",
+      "white",
+      "black",
+      "shirt",
+      "dog",
+      "park",
+      "grass"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a black shirt and blue jeans is standing with a dog on a leash.",
+    "objects": [
+      "black",
+      "blue",
+      "shirt",
+      "leash",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a black shirt and blue jeans is standing with a dog on a leash.",
+    "objects": [
+      "black",
+      "blue",
+      "shirt",
+      "leash",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The dog is brown and black and is also on a leash.",
+    "objects": [
+      "black",
+      "brown",
+      "dog",
+      "leash"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The dog is brown and black and is also on a leash.",
+    "objects": [
+      "black",
+      "brown",
+      "dog",
+      "leash"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a red shirt is wearing jeans and holding a frisbee.",
+    "objects": [
+      "man",
+      "frisbee",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a red shirt is wearing jeans and holding a frisbee.",
+    "objects": [
+      "man",
+      "frisbee",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The dog is black and white, and it is also on a leash.",
+    "objects": [
+      "black",
+      "dog",
+      "white",
+      "leash"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The dog is black and white, and it is also on a leash.",
+    "objects": [
+      "black",
+      "dog",
+      "white",
+      "leash"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a white shirt and blue jeans is standing on the grass with a frisbee.",
+    "objects": [
+      "frisbee",
+      "white",
+      "blue",
+      "shirt",
+      "grass",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a white shirt and blue jeans is standing on the grass with a frisbee.",
+    "objects": [
+      "frisbee",
+      "white",
+      "blue",
+      "shirt",
+      "grass",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a blue hoodie is wearing jeans and holding a frisbee, and he is standing on the grass in the dog park.",
+    "objects": [
+      "frisbee",
+      "blue",
+      "dog",
+      "hoodie",
+      "park",
+      "grass",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a blue hoodie is wearing jeans and holding a frisbee, and he is standing on the grass in the dog park.",
+    "objects": [
+      "frisbee",
+      "blue",
+      "dog",
+      "hoodie",
+      "park",
+      "grass",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A man in a red shirt is wearing jeans and holding a frisbee, standing on the grass in the dog park.",
+    "objects": [
+      "frisbee",
+      "shirt",
+      "dog",
+      "park",
+      "grass",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A man in a red shirt is wearing jeans and holding a frisbee, standing on the grass in the dog park.",
+    "objects": [
+      "frisbee",
+      "shirt",
+      "dog",
+      "park",
+      "grass",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a black shirt is standing with a frisbee in the dog park.",
+    "objects": [
+      "frisbee",
+      "black",
+      "shirt",
+      "dog",
+      "park",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a black shirt is standing with a frisbee in the dog park.",
+    "objects": [
+      "frisbee",
+      "black",
+      "shirt",
+      "dog",
+      "park",
+      "man"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 15
+  }
+]

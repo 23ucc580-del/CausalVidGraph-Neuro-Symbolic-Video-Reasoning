@@ -1,0 +1,593 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are engaged in various activities in a bustling city street scene.",
+    "objects": [
+      "group",
+      "street",
+      "people",
+      "city"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "bustling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are engaged in various activities in a bustling city street scene.",
+    "objects": [
+      "group",
+      "street",
+      "people",
+      "city"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "bustling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are engaged in various activities in a bustling city street scene.",
+    "objects": [
+      "group",
+      "street",
+      "people",
+      "city"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "bustling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A man wearing a white shirt and blue jeans is seen riding a bicycle down the street, while a man in a white shirt and blue jeans is standing on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "street",
+      "bicycle",
+      "blue",
+      "while",
+      "shirt",
+      "sidewalk"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "standing",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A man wearing a white shirt and blue jeans is seen riding a bicycle down the street, while a man in a white shirt and blue jeans is standing on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "street",
+      "bicycle",
+      "blue",
+      "while",
+      "shirt",
+      "sidewalk"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "standing",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A man wearing a white shirt and blue jeans is seen riding a bicycle down the street, while a man in a white shirt and blue jeans is standing on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "street",
+      "bicycle",
+      "blue",
+      "while",
+      "shirt",
+      "sidewalk"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "standing",
+      "riding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Another man in a white shirt is walking on the sidewalk, and a man in a red jacket is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "Another man in a white shirt is walking on the sidewalk, and a man in a red jacket is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "Another man in a white shirt is walking on the sidewalk, and a man in a red jacket is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A man in a white shirt and blue jeans is walking on the sidewalk, and a man in a tan shirt is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "bicycle",
+      "shirt",
+      "sidewalk",
+      "tan"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A man in a white shirt and blue jeans is walking on the sidewalk, and a man in a tan shirt is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "bicycle",
+      "shirt",
+      "sidewalk",
+      "tan"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A man in a white shirt and blue jeans is walking on the sidewalk, and a man in a tan shirt is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "bicycle",
+      "shirt",
+      "sidewalk",
+      "tan"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a white shirt and blue jeans is standing on the sidewalk, and a man in a red jacket is walking on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a white shirt and blue jeans is standing on the sidewalk, and a man in a red jacket is walking on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a white shirt and blue jeans is standing on the sidewalk, and a man in a red jacket is walking on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a white shirt is riding a bicycle, and a man in a tan shirt is standing on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "sidewalk",
+      "tan"
+    ],
+    "actions": [
+      "standing",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a white shirt is riding a bicycle, and a man in a tan shirt is standing on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "sidewalk",
+      "tan"
+    ],
+    "actions": [
+      "standing",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a white shirt is riding a bicycle, and a man in a tan shirt is standing on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "sidewalk",
+      "tan"
+    ],
+    "actions": [
+      "standing",
+      "riding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a white shirt and blue jeans is walking on the sidewalk, and a man in a red jacket is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "riding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a white shirt and blue jeans is walking on the sidewalk, and a man in a red jacket is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "riding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a white shirt and blue jeans is walking on the sidewalk, and a man in a red jacket is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "jeans",
+      "riding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a white shirt and blue jeans is standing on the sidewalk, and a man in a tan shirt is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "bicycle",
+      "shirt",
+      "sidewalk",
+      "tan"
+    ],
+    "actions": [
+      "standing",
+      "jeans",
+      "riding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a white shirt and blue jeans is standing on the sidewalk, and a man in a tan shirt is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "bicycle",
+      "shirt",
+      "sidewalk",
+      "tan"
+    ],
+    "actions": [
+      "standing",
+      "jeans",
+      "riding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a white shirt and blue jeans is standing on the sidewalk, and a man in a tan shirt is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "blue",
+      "bicycle",
+      "shirt",
+      "sidewalk",
+      "tan"
+    ],
+    "actions": [
+      "standing",
+      "jeans",
+      "riding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a white shirt is riding a bicycle, and a man in a red jacket is walking on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a white shirt is riding a bicycle, and a man in a red jacket is walking on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a white shirt is riding a bicycle, and a man in a red jacket is walking on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a white shirt is walking on the sidewalk, and a man in a red jacket is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "A man in a white shirt is walking on the sidewalk, and a man in a red jacket is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "A man in a white shirt is walking on the sidewalk, and a man in a red jacket is riding a bicycle.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a white shirt is riding a bicycle, and a man in a red jacket is walking on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a white shirt is riding a bicycle, and a man in a red jacket is walking on the sidewalk.",
+    "objects": [
+      "white",
+      "man",
+      "bicycle",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "walking",
+      "riding",
+      "red"
+    ],
+    "segment_id": 10
+  }
+]

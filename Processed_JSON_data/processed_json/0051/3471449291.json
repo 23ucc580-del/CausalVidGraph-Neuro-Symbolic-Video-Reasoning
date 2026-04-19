@@ -1,0 +1,622 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a festive scene where a group of people, including children and adults, are gathered around a dining table to celebrate a birthday.",
+    "objects": [
+      "festive",
+      "birthday",
+      "people",
+      "celebrate",
+      "where",
+      "group",
+      "table",
+      "around"
+    ],
+    "actions": [
+      "gathered",
+      "dining",
+      "adults",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a festive scene where a group of people, including children and adults, are gathered around a dining table to celebrate a birthday.",
+    "objects": [
+      "festive",
+      "birthday",
+      "people",
+      "celebrate",
+      "where",
+      "group",
+      "table",
+      "around"
+    ],
+    "actions": [
+      "gathered",
+      "dining",
+      "adults",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a festive scene where a group of people, including children and adults, are gathered around a dining table to celebrate a birthday.",
+    "objects": [
+      "festive",
+      "birthday",
+      "people",
+      "celebrate",
+      "where",
+      "group",
+      "table",
+      "around"
+    ],
+    "actions": [
+      "gathered",
+      "dining",
+      "adults",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a festive scene where a group of people, including children and adults, are gathered around a dining table to celebrate a birthday.",
+    "objects": [
+      "festive",
+      "birthday",
+      "people",
+      "celebrate",
+      "where",
+      "group",
+      "table",
+      "around"
+    ],
+    "actions": [
+      "gathered",
+      "dining",
+      "adults",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the foreground, a woman dressed in a red top and glasses is seen placing a lit candle on a cake.",
+    "objects": [
+      "woman",
+      "lit",
+      "cake",
+      "candle",
+      "top"
+    ],
+    "actions": [
+      "glasses",
+      "dressed",
+      "placing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, a woman dressed in a red top and glasses is seen placing a lit candle on a cake.",
+    "objects": [
+      "woman",
+      "lit",
+      "cake",
+      "candle",
+      "top"
+    ],
+    "actions": [
+      "glasses",
+      "dressed",
+      "placing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, a woman dressed in a red top and glasses is seen placing a lit candle on a cake.",
+    "objects": [
+      "woman",
+      "lit",
+      "cake",
+      "candle",
+      "top"
+    ],
+    "actions": [
+      "glasses",
+      "dressed",
+      "placing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, a woman dressed in a red top and glasses is seen placing a lit candle on a cake.",
+    "objects": [
+      "woman",
+      "lit",
+      "cake",
+      "candle",
+      "top"
+    ],
+    "actions": [
+      "glasses",
+      "dressed",
+      "placing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "She is holding a knife in her other hand, indicating that she is likely in the process of cutting the cake.",
+    "objects": [
+      "likely",
+      "she",
+      "cake",
+      "other",
+      "knife",
+      "hand",
+      "her",
+      "that"
+    ],
+    "actions": [
+      "indicating",
+      "holding",
+      "process",
+      "cutting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "She is holding a knife in her other hand, indicating that she is likely in the process of cutting the cake.",
+    "objects": [
+      "likely",
+      "she",
+      "cake",
+      "other",
+      "knife",
+      "hand",
+      "her",
+      "that"
+    ],
+    "actions": [
+      "indicating",
+      "holding",
+      "process",
+      "cutting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "She is holding a knife in her other hand, indicating that she is likely in the process of cutting the cake.",
+    "objects": [
+      "likely",
+      "she",
+      "cake",
+      "other",
+      "knife",
+      "hand",
+      "her",
+      "that"
+    ],
+    "actions": [
+      "indicating",
+      "holding",
+      "process",
+      "cutting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "She is holding a knife in her other hand, indicating that she is likely in the process of cutting the cake.",
+    "objects": [
+      "likely",
+      "she",
+      "cake",
+      "other",
+      "knife",
+      "hand",
+      "her",
+      "that"
+    ],
+    "actions": [
+      "indicating",
+      "holding",
+      "process",
+      "cutting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The table is laden with various items associated with the celebration, including a birthday cake with lit candles, a cake server, and a cake knife.",
+    "objects": [
+      "birthday",
+      "lit",
+      "cake",
+      "server",
+      "knife",
+      "laden",
+      "table",
+      "celebration"
+    ],
+    "actions": [
+      "candles",
+      "items",
+      "associated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The table is laden with various items associated with the celebration, including a birthday cake with lit candles, a cake server, and a cake knife.",
+    "objects": [
+      "birthday",
+      "lit",
+      "cake",
+      "server",
+      "knife",
+      "laden",
+      "table",
+      "celebration"
+    ],
+    "actions": [
+      "candles",
+      "items",
+      "associated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The table is laden with various items associated with the celebration, including a birthday cake with lit candles, a cake server, and a cake knife.",
+    "objects": [
+      "birthday",
+      "lit",
+      "cake",
+      "server",
+      "knife",
+      "laden",
+      "table",
+      "celebration"
+    ],
+    "actions": [
+      "candles",
+      "items",
+      "associated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The table is laden with various items associated with the celebration, including a birthday cake with lit candles, a cake server, and a cake knife.",
+    "objects": [
+      "birthday",
+      "lit",
+      "cake",
+      "server",
+      "knife",
+      "laden",
+      "table",
+      "celebration"
+    ],
+    "actions": [
+      "candles",
+      "items",
+      "associated"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A young boy in a blue hoodie is sitting at the table, watching the cake-cutting process with anticipation.",
+    "objects": [
+      "hoodie",
+      "anticipation",
+      "blue",
+      "young",
+      "table",
+      "boy"
+    ],
+    "actions": [
+      "cake-cutting",
+      "process",
+      "watching",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A young boy in a blue hoodie is sitting at the table, watching the cake-cutting process with anticipation.",
+    "objects": [
+      "hoodie",
+      "anticipation",
+      "blue",
+      "young",
+      "table",
+      "boy"
+    ],
+    "actions": [
+      "cake-cutting",
+      "process",
+      "watching",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A young boy in a blue hoodie is sitting at the table, watching the cake-cutting process with anticipation.",
+    "objects": [
+      "hoodie",
+      "anticipation",
+      "blue",
+      "young",
+      "table",
+      "boy"
+    ],
+    "actions": [
+      "cake-cutting",
+      "process",
+      "watching",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A young boy in a blue hoodie is sitting at the table, watching the cake-cutting process with anticipation.",
+    "objects": [
+      "hoodie",
+      "anticipation",
+      "blue",
+      "young",
+      "table",
+      "boy"
+    ],
+    "actions": [
+      "cake-cutting",
+      "process",
+      "watching",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, other people are engaged in various activities such as a woman in a black top holding a cake server, a child in a striped shirt sitting at the table, and a woman in a white top holding a cake server.",
+    "objects": [
+      "woman",
+      "white",
+      "people",
+      "such",
+      "cake",
+      "child",
+      "other",
+      "server"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "activities",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, other people are engaged in various activities such as a woman in a black top holding a cake server, a child in a striped shirt sitting at the table, and a woman in a white top holding a cake server.",
+    "objects": [
+      "woman",
+      "white",
+      "people",
+      "such",
+      "cake",
+      "child",
+      "other",
+      "server"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "activities",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, other people are engaged in various activities such as a woman in a black top holding a cake server, a child in a striped shirt sitting at the table, and a woman in a white top holding a cake server.",
+    "objects": [
+      "woman",
+      "white",
+      "people",
+      "such",
+      "cake",
+      "child",
+      "other",
+      "server"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "activities",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, other people are engaged in various activities such as a woman in a black top holding a cake server, a child in a striped shirt sitting at the table, and a woman in a white top holding a cake server.",
+    "objects": [
+      "woman",
+      "white",
+      "people",
+      "such",
+      "cake",
+      "child",
+      "other",
+      "server"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "activities",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There's also a person in a gray shirt sitting at the table with a cake server in their hand.",
+    "objects": [
+      "their",
+      "cake",
+      "gray",
+      "server",
+      "hand",
+      "table",
+      "shirt"
+    ],
+    "actions": [
+      "there's",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There's also a person in a gray shirt sitting at the table with a cake server in their hand.",
+    "objects": [
+      "their",
+      "cake",
+      "gray",
+      "server",
+      "hand",
+      "table",
+      "shirt"
+    ],
+    "actions": [
+      "there's",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There's also a person in a gray shirt sitting at the table with a cake server in their hand.",
+    "objects": [
+      "their",
+      "cake",
+      "gray",
+      "server",
+      "hand",
+      "table",
+      "shirt"
+    ],
+    "actions": [
+      "there's",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There's also a person in a gray shirt sitting at the table with a cake server in their hand.",
+    "objects": [
+      "their",
+      "cake",
+      "gray",
+      "server",
+      "hand",
+      "table",
+      "shirt"
+    ],
+    "actions": [
+      "there's",
+      "sitting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is filled with excitement and anticipation, with everyone eagerly waiting for the cake to be served.",
+    "objects": [
+      "excitement",
+      "everyone",
+      "cake",
+      "anticipation",
+      "eagerly"
+    ],
+    "actions": [
+      "waiting",
+      "filled",
+      "served"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is filled with excitement and anticipation, with everyone eagerly waiting for the cake to be served.",
+    "objects": [
+      "excitement",
+      "everyone",
+      "cake",
+      "anticipation",
+      "eagerly"
+    ],
+    "actions": [
+      "waiting",
+      "filled",
+      "served"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is filled with excitement and anticipation, with everyone eagerly waiting for the cake to be served.",
+    "objects": [
+      "excitement",
+      "everyone",
+      "cake",
+      "anticipation",
+      "eagerly"
+    ],
+    "actions": [
+      "waiting",
+      "filled",
+      "served"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is filled with excitement and anticipation, with everyone eagerly waiting for the cake to be served.",
+    "objects": [
+      "excitement",
+      "everyone",
+      "cake",
+      "anticipation",
+      "eagerly"
+    ],
+    "actions": [
+      "waiting",
+      "filled",
+      "served"
+    ],
+    "segment_id": 7
+  }
+]

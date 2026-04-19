@@ -1,0 +1,486 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a woman and a young boy playing with a dog in a garage.",
+    "objects": [
+      "garage",
+      "boy",
+      "woman",
+      "dog",
+      "young"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a woman and a young boy playing with a dog in a garage.",
+    "objects": [
+      "garage",
+      "boy",
+      "woman",
+      "dog",
+      "young"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a woman and a young boy playing with a dog in a garage.",
+    "objects": [
+      "garage",
+      "boy",
+      "woman",
+      "dog",
+      "young"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video shows a woman and a young boy playing with a dog in a garage.",
+    "objects": [
+      "garage",
+      "boy",
+      "woman",
+      "dog",
+      "young"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is wearing a black tank top and blue jeans, and she is holding a ball.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "blue",
+      "top",
+      "ball"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is wearing a black tank top and blue jeans, and she is holding a ball.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "blue",
+      "top",
+      "ball"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is wearing a black tank top and blue jeans, and she is holding a ball.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "blue",
+      "top",
+      "ball"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is wearing a black tank top and blue jeans, and she is holding a ball.",
+    "objects": [
+      "tank",
+      "she",
+      "woman",
+      "black",
+      "blue",
+      "top",
+      "ball"
+    ],
+    "actions": [
+      "wearing",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The young boy is wearing a blue shirt and is also holding a ball.",
+    "objects": [
+      "boy",
+      "blue",
+      "shirt",
+      "ball",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The young boy is wearing a blue shirt and is also holding a ball.",
+    "objects": [
+      "boy",
+      "blue",
+      "shirt",
+      "ball",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The young boy is wearing a blue shirt and is also holding a ball.",
+    "objects": [
+      "boy",
+      "blue",
+      "shirt",
+      "ball",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The young boy is wearing a blue shirt and is also holding a ball.",
+    "objects": [
+      "boy",
+      "blue",
+      "shirt",
+      "ball",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog is brown and white.",
+    "objects": [
+      "brown",
+      "dog",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog is brown and white.",
+    "objects": [
+      "brown",
+      "dog",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The dog is brown and white.",
+    "objects": [
+      "brown",
+      "dog",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The dog is brown and white.",
+    "objects": [
+      "brown",
+      "dog",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The woman is also holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman is also holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman is also holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman is also holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The garage has an open door, and the car inside is silver.",
+    "objects": [
+      "garage",
+      "open",
+      "has",
+      "silver",
+      "inside",
+      "car",
+      "door"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The garage has an open door, and the car inside is silver.",
+    "objects": [
+      "garage",
+      "open",
+      "has",
+      "silver",
+      "inside",
+      "car",
+      "door"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The garage has an open door, and the car inside is silver.",
+    "objects": [
+      "garage",
+      "open",
+      "has",
+      "silver",
+      "inside",
+      "car",
+      "door"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The garage has an open door, and the car inside is silver.",
+    "objects": [
+      "garage",
+      "open",
+      "has",
+      "silver",
+      "inside",
+      "car",
+      "door"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman throws the ball to the dog and the dog catches it.",
+    "objects": [
+      "ball",
+      "dog",
+      "woman"
+    ],
+    "actions": [
+      "catches",
+      "throws"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman throws the ball to the dog and the dog catches it.",
+    "objects": [
+      "ball",
+      "dog",
+      "woman"
+    ],
+    "actions": [
+      "catches",
+      "throws"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman throws the ball to the dog and the dog catches it.",
+    "objects": [
+      "ball",
+      "dog",
+      "woman"
+    ],
+    "actions": [
+      "catches",
+      "throws"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman throws the ball to the dog and the dog catches it.",
+    "objects": [
+      "ball",
+      "dog",
+      "woman"
+    ],
+    "actions": [
+      "catches",
+      "throws"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The boy throws the frisbee, and the dog jumps up to catch it.",
+    "objects": [
+      "frisbee",
+      "dog",
+      "boy",
+      "catch"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The boy throws the frisbee, and the dog jumps up to catch it.",
+    "objects": [
+      "frisbee",
+      "dog",
+      "boy",
+      "catch"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The boy throws the frisbee, and the dog jumps up to catch it.",
+    "objects": [
+      "frisbee",
+      "dog",
+      "boy",
+      "catch"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The boy throws the frisbee, and the dog jumps up to catch it.",
+    "objects": [
+      "frisbee",
+      "dog",
+      "boy",
+      "catch"
+    ],
+    "actions": [
+      "jumps",
+      "throws"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a baby girl who is crying.",
+    "objects": [
+      "girl",
+      "see",
+      "who",
+      "baby"
+    ],
+    "actions": [
+      "crying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a baby girl who is crying.",
+    "objects": [
+      "girl",
+      "see",
+      "who",
+      "baby"
+    ],
+    "actions": [
+      "crying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a baby girl who is crying.",
+    "objects": [
+      "girl",
+      "see",
+      "who",
+      "baby"
+    ],
+    "actions": [
+      "crying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a baby girl who is crying.",
+    "objects": [
+      "girl",
+      "see",
+      "who",
+      "baby"
+    ],
+    "actions": [
+      "crying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a pink and white onesie and has a pacifier in her mouth.",
+    "objects": [
+      "white",
+      "mouth",
+      "pink",
+      "has",
+      "her",
+      "pacifier",
+      "onesie",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a pink and white onesie and has a pacifier in her mouth.",
+    "objects": [
+      "white",
+      "mouth",
+      "pink",
+      "has",
+      "her",
+      "pacifier",
+      "onesie",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is wearing a pink and white onesie and has a pacifier in her mouth.",
+    "objects": [
+      "white",
+      "mouth",
+      "pink",
+      "has",
+      "her",
+      "pacifier",
+      "onesie",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is wearing a pink and white onesie and has a pacifier in her mouth.",
+    "objects": [
+      "white",
+      "mouth",
+      "pink",
+      "has",
+      "her",
+      "pacifier",
+      "onesie",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby's expression is one of sadness, with her eyes welling up and tears streaming down her cheeks.",
+    "objects": [
+      "eyes",
+      "her",
+      "expression",
+      "one"
+    ],
+    "actions": [
+      "tears",
+      "sadness",
+      "baby's",
+      "welling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby's expression is one of sadness, with her eyes welling up and tears streaming down her cheeks.",
+    "objects": [
+      "eyes",
+      "her",
+      "expression",
+      "one"
+    ],
+    "actions": [
+      "tears",
+      "sadness",
+      "baby's",
+      "welling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The baby's expression is one of sadness, with her eyes welling up and tears streaming down her cheeks.",
+    "objects": [
+      "eyes",
+      "her",
+      "expression",
+      "one"
+    ],
+    "actions": [
+      "tears",
+      "sadness",
+      "baby's",
+      "welling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The baby's expression is one of sadness, with her eyes welling up and tears streaming down her cheeks.",
+    "objects": [
+      "eyes",
+      "her",
+      "expression",
+      "one"
+    ],
+    "actions": [
+      "tears",
+      "sadness",
+      "baby's",
+      "welling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "She is sitting in a car seat, which is black with a silver car visible in the background.",
+    "objects": [
+      "seat",
+      "car",
+      "which",
+      "silver",
+      "black",
+      "she"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "She is sitting in a car seat, which is black with a silver car visible in the background.",
+    "objects": [
+      "seat",
+      "car",
+      "which",
+      "silver",
+      "black",
+      "she"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "She is sitting in a car seat, which is black with a silver car visible in the background.",
+    "objects": [
+      "seat",
+      "car",
+      "which",
+      "silver",
+      "black",
+      "she"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "She is sitting in a car seat, which is black with a silver car visible in the background.",
+    "objects": [
+      "seat",
+      "car",
+      "which",
+      "silver",
+      "black",
+      "she"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A person is holding her in their arms, attempting to comfort her.",
+    "objects": [
+      "their",
+      "her",
+      "arms",
+      "comfort"
+    ],
+    "actions": [
+      "attempting",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A person is holding her in their arms, attempting to comfort her.",
+    "objects": [
+      "their",
+      "her",
+      "arms",
+      "comfort"
+    ],
+    "actions": [
+      "attempting",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A person is holding her in their arms, attempting to comfort her.",
+    "objects": [
+      "their",
+      "her",
+      "arms",
+      "comfort"
+    ],
+    "actions": [
+      "attempting",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A person is holding her in their arms, attempting to comfort her.",
+    "objects": [
+      "their",
+      "her",
+      "arms",
+      "comfort"
+    ],
+    "actions": [
+      "attempting",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The person is wearing a blue hoodie and is gently swaying the baby back and forth to calm her down.",
+    "objects": [
+      "blue",
+      "calm",
+      "her",
+      "gently",
+      "hoodie",
+      "forth",
+      "baby"
+    ],
+    "actions": [
+      "swaying",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The person is wearing a blue hoodie and is gently swaying the baby back and forth to calm her down.",
+    "objects": [
+      "blue",
+      "calm",
+      "her",
+      "gently",
+      "hoodie",
+      "forth",
+      "baby"
+    ],
+    "actions": [
+      "swaying",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The person is wearing a blue hoodie and is gently swaying the baby back and forth to calm her down.",
+    "objects": [
+      "blue",
+      "calm",
+      "her",
+      "gently",
+      "hoodie",
+      "forth",
+      "baby"
+    ],
+    "actions": [
+      "swaying",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The person is wearing a blue hoodie and is gently swaying the baby back and forth to calm her down.",
+    "objects": [
+      "blue",
+      "calm",
+      "her",
+      "gently",
+      "hoodie",
+      "forth",
+      "baby"
+    ],
+    "actions": [
+      "swaying",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The car seat has a yellow and red car seatbelt, and there is a teddy bear next to the baby.",
+    "objects": [
+      "seat",
+      "car",
+      "has",
+      "teddy",
+      "bear",
+      "there",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The car seat has a yellow and red car seatbelt, and there is a teddy bear next to the baby.",
+    "objects": [
+      "seat",
+      "car",
+      "has",
+      "teddy",
+      "bear",
+      "there",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The car seat has a yellow and red car seatbelt, and there is a teddy bear next to the baby.",
+    "objects": [
+      "seat",
+      "car",
+      "has",
+      "teddy",
+      "bear",
+      "there",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The car seat has a yellow and red car seatbelt, and there is a teddy bear next to the baby.",
+    "objects": [
+      "seat",
+      "car",
+      "has",
+      "teddy",
+      "bear",
+      "there",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene captures a heartwarming moment of a parent or caregiver soothing a distressed child in a car seat.",
+    "objects": [
+      "seat",
+      "car",
+      "child",
+      "parent",
+      "caregiver",
+      "moment"
+    ],
+    "actions": [
+      "heartwarming",
+      "soothing",
+      "distressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene captures a heartwarming moment of a parent or caregiver soothing a distressed child in a car seat.",
+    "objects": [
+      "seat",
+      "car",
+      "child",
+      "parent",
+      "caregiver",
+      "moment"
+    ],
+    "actions": [
+      "heartwarming",
+      "soothing",
+      "distressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene captures a heartwarming moment of a parent or caregiver soothing a distressed child in a car seat.",
+    "objects": [
+      "seat",
+      "car",
+      "child",
+      "parent",
+      "caregiver",
+      "moment"
+    ],
+    "actions": [
+      "heartwarming",
+      "soothing",
+      "distressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene captures a heartwarming moment of a parent or caregiver soothing a distressed child in a car seat.",
+    "objects": [
+      "seat",
+      "car",
+      "child",
+      "parent",
+      "caregiver",
+      "moment"
+    ],
+    "actions": [
+      "heartwarming",
+      "soothing",
+      "distressed"
+    ],
+    "segment_id": 7
+  }
+]

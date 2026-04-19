@@ -1,0 +1,492 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a baby is standing in front of a washing machine.",
+    "objects": [
+      "baby",
+      "machine"
+    ],
+    "actions": [
+      "standing",
+      "washing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a baby is standing in front of a washing machine.",
+    "objects": [
+      "baby",
+      "machine"
+    ],
+    "actions": [
+      "standing",
+      "washing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a baby is standing in front of a washing machine.",
+    "objects": [
+      "baby",
+      "machine"
+    ],
+    "actions": [
+      "standing",
+      "washing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a baby is standing in front of a washing machine.",
+    "objects": [
+      "baby",
+      "machine"
+    ],
+    "actions": [
+      "standing",
+      "washing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a baby is standing in front of a washing machine.",
+    "objects": [
+      "baby",
+      "machine"
+    ],
+    "actions": [
+      "standing",
+      "washing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby is wearing a green shirt and blue pants.",
+    "objects": [
+      "baby",
+      "blue",
+      "shirt",
+      "green"
+    ],
+    "actions": [
+      "pants",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby is wearing a green shirt and blue pants.",
+    "objects": [
+      "baby",
+      "blue",
+      "shirt",
+      "green"
+    ],
+    "actions": [
+      "pants",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby is wearing a green shirt and blue pants.",
+    "objects": [
+      "baby",
+      "blue",
+      "shirt",
+      "green"
+    ],
+    "actions": [
+      "pants",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby is wearing a green shirt and blue pants.",
+    "objects": [
+      "baby",
+      "blue",
+      "shirt",
+      "green"
+    ],
+    "actions": [
+      "pants",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby is wearing a green shirt and blue pants.",
+    "objects": [
+      "baby",
+      "blue",
+      "shirt",
+      "green"
+    ],
+    "actions": [
+      "pants",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The baby is smiling and appears to be looking at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The baby is smiling and appears to be looking at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby is smiling and appears to be looking at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby is smiling and appears to be looking at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby is smiling and appears to be looking at the camera.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "smiling",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby's hands are on the edge of the washing machine, and they are also holding a green toy, which seems to be a part of the machine.",
+    "objects": [
+      "machine",
+      "edge",
+      "part",
+      "toy",
+      "which",
+      "green",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "holding",
+      "seems",
+      "washing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby's hands are on the edge of the washing machine, and they are also holding a green toy, which seems to be a part of the machine.",
+    "objects": [
+      "machine",
+      "edge",
+      "part",
+      "toy",
+      "which",
+      "green",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "holding",
+      "seems",
+      "washing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby's hands are on the edge of the washing machine, and they are also holding a green toy, which seems to be a part of the machine.",
+    "objects": [
+      "machine",
+      "edge",
+      "part",
+      "toy",
+      "which",
+      "green",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "holding",
+      "seems",
+      "washing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The baby's hands are on the edge of the washing machine, and they are also holding a green toy, which seems to be a part of the machine.",
+    "objects": [
+      "machine",
+      "edge",
+      "part",
+      "toy",
+      "which",
+      "green",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "holding",
+      "seems",
+      "washing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The baby's hands are on the edge of the washing machine, and they are also holding a green toy, which seems to be a part of the machine.",
+    "objects": [
+      "machine",
+      "edge",
+      "part",
+      "toy",
+      "which",
+      "green",
+      "they"
+    ],
+    "actions": [
+      "baby's",
+      "holding",
+      "seems",
+      "washing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "A person is standing behind the baby, wearing a blue hoodie, and the person is holding a white plastic object.",
+    "objects": [
+      "blue",
+      "object",
+      "white",
+      "behind",
+      "plastic",
+      "baby",
+      "hoodie"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "A person is standing behind the baby, wearing a blue hoodie, and the person is holding a white plastic object.",
+    "objects": [
+      "blue",
+      "object",
+      "white",
+      "behind",
+      "plastic",
+      "baby",
+      "hoodie"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "A person is standing behind the baby, wearing a blue hoodie, and the person is holding a white plastic object.",
+    "objects": [
+      "blue",
+      "object",
+      "white",
+      "behind",
+      "plastic",
+      "baby",
+      "hoodie"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "A person is standing behind the baby, wearing a blue hoodie, and the person is holding a white plastic object.",
+    "objects": [
+      "blue",
+      "object",
+      "white",
+      "behind",
+      "plastic",
+      "baby",
+      "hoodie"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "A person is standing behind the baby, wearing a blue hoodie, and the person is holding a white plastic object.",
+    "objects": [
+      "blue",
+      "object",
+      "white",
+      "behind",
+      "plastic",
+      "baby",
+      "hoodie"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The baby is standing on a silver dishwasher.",
+    "objects": [
+      "baby",
+      "dishwasher",
+      "silver"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The baby is standing on a silver dishwasher.",
+    "objects": [
+      "baby",
+      "dishwasher",
+      "silver"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The baby is standing on a silver dishwasher.",
+    "objects": [
+      "baby",
+      "dishwasher",
+      "silver"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The baby is standing on a silver dishwasher.",
+    "objects": [
+      "baby",
+      "dishwasher",
+      "silver"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The baby is standing on a silver dishwasher.",
+    "objects": [
+      "baby",
+      "dishwasher",
+      "silver"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby is holding a green toy and looking at the camera with a smile.",
+    "objects": [
+      "baby",
+      "toy",
+      "smile",
+      "green"
+    ],
+    "actions": [
+      "holding",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby is holding a green toy and looking at the camera with a smile.",
+    "objects": [
+      "baby",
+      "toy",
+      "smile",
+      "green"
+    ],
+    "actions": [
+      "holding",
+      "looking"
+    ],
+    "segment_id": 6
+  }
+]

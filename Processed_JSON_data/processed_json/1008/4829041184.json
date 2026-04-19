@@ -1,0 +1,535 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a black dog is seen walking on a wooden floor within a home.",
+    "objects": [
+      "home",
+      "black",
+      "within",
+      "dog",
+      "wooden",
+      "floor",
+      "this"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a black dog is seen walking on a wooden floor within a home.",
+    "objects": [
+      "home",
+      "black",
+      "within",
+      "dog",
+      "wooden",
+      "floor",
+      "this"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a black dog is seen walking on a wooden floor within a home.",
+    "objects": [
+      "home",
+      "black",
+      "within",
+      "dog",
+      "wooden",
+      "floor",
+      "this"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The dog appears to be focused on a blue water bottle that is lying on the floor.",
+    "objects": [
+      "blue",
+      "bottle",
+      "that",
+      "dog",
+      "floor",
+      "water"
+    ],
+    "actions": [
+      "focused",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The dog appears to be focused on a blue water bottle that is lying on the floor.",
+    "objects": [
+      "blue",
+      "bottle",
+      "that",
+      "dog",
+      "floor",
+      "water"
+    ],
+    "actions": [
+      "focused",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog appears to be focused on a blue water bottle that is lying on the floor.",
+    "objects": [
+      "blue",
+      "bottle",
+      "that",
+      "dog",
+      "floor",
+      "water"
+    ],
+    "actions": [
+      "focused",
+      "lying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog's attention seems to be captured by the bottle as it walks towards it.",
+    "objects": [
+      "bottle",
+      "attention"
+    ],
+    "actions": [
+      "seems",
+      "towards",
+      "captured",
+      "walks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog's attention seems to be captured by the bottle as it walks towards it.",
+    "objects": [
+      "bottle",
+      "attention"
+    ],
+    "actions": [
+      "seems",
+      "towards",
+      "captured",
+      "walks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog's attention seems to be captured by the bottle as it walks towards it.",
+    "objects": [
+      "bottle",
+      "attention"
+    ],
+    "actions": [
+      "seems",
+      "towards",
+      "captured",
+      "walks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The room is furnished with a black chair and a white refrigerator.",
+    "objects": [
+      "refrigerator",
+      "white",
+      "black",
+      "room",
+      "chair"
+    ],
+    "actions": [
+      "furnished"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The room is furnished with a black chair and a white refrigerator.",
+    "objects": [
+      "refrigerator",
+      "white",
+      "black",
+      "room",
+      "chair"
+    ],
+    "actions": [
+      "furnished"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The room is furnished with a black chair and a white refrigerator.",
+    "objects": [
+      "refrigerator",
+      "white",
+      "black",
+      "room",
+      "chair"
+    ],
+    "actions": [
+      "furnished"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A person holding a white object, possibly a toy or a treat, walks towards the dog.",
+    "objects": [
+      "white",
+      "possibly",
+      "dog",
+      "object",
+      "treat",
+      "toy"
+    ],
+    "actions": [
+      "towards",
+      "walks",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A person holding a white object, possibly a toy or a treat, walks towards the dog.",
+    "objects": [
+      "white",
+      "possibly",
+      "dog",
+      "object",
+      "treat",
+      "toy"
+    ],
+    "actions": [
+      "towards",
+      "walks",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A person holding a white object, possibly a toy or a treat, walks towards the dog.",
+    "objects": [
+      "white",
+      "possibly",
+      "dog",
+      "object",
+      "treat",
+      "toy"
+    ],
+    "actions": [
+      "towards",
+      "walks",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The person is wearing a blue hoodie and seems to be encouraging the dog to interact with the object.",
+    "objects": [
+      "blue",
+      "interact",
+      "dog",
+      "hoodie",
+      "object"
+    ],
+    "actions": [
+      "wearing",
+      "seems",
+      "encouraging"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The person is wearing a blue hoodie and seems to be encouraging the dog to interact with the object.",
+    "objects": [
+      "blue",
+      "interact",
+      "dog",
+      "hoodie",
+      "object"
+    ],
+    "actions": [
+      "wearing",
+      "seems",
+      "encouraging"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The person is wearing a blue hoodie and seems to be encouraging the dog to interact with the object.",
+    "objects": [
+      "blue",
+      "interact",
+      "dog",
+      "hoodie",
+      "object"
+    ],
+    "actions": [
+      "wearing",
+      "seems",
+      "encouraging"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The dog continues to walk towards the bottle, sniffing and examining it.",
+    "objects": [
+      "walk",
+      "dog",
+      "bottle"
+    ],
+    "actions": [
+      "towards",
+      "continues",
+      "examining",
+      "sniffing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The dog continues to walk towards the bottle, sniffing and examining it.",
+    "objects": [
+      "walk",
+      "dog",
+      "bottle"
+    ],
+    "actions": [
+      "towards",
+      "continues",
+      "examining",
+      "sniffing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The dog continues to walk towards the bottle, sniffing and examining it.",
+    "objects": [
+      "walk",
+      "dog",
+      "bottle"
+    ],
+    "actions": [
+      "towards",
+      "continues",
+      "examining",
+      "sniffing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The person then picks up the bottle, and the dog follows them.",
+    "objects": [
+      "dog",
+      "then",
+      "them",
+      "bottle"
+    ],
+    "actions": [
+      "picks",
+      "follows"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The person then picks up the bottle, and the dog follows them.",
+    "objects": [
+      "dog",
+      "then",
+      "them",
+      "bottle"
+    ],
+    "actions": [
+      "picks",
+      "follows"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The person then picks up the bottle, and the dog follows them.",
+    "objects": [
+      "dog",
+      "then",
+      "them",
+      "bottle"
+    ],
+    "actions": [
+      "picks",
+      "follows"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The dog seems to be curious about the bottle and is walking alongside the person, following them.",
+    "objects": [
+      "alongside",
+      "bottle",
+      "about",
+      "dog",
+      "them"
+    ],
+    "actions": [
+      "seems",
+      "curious",
+      "following",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog seems to be curious about the bottle and is walking alongside the person, following them.",
+    "objects": [
+      "alongside",
+      "bottle",
+      "about",
+      "dog",
+      "them"
+    ],
+    "actions": [
+      "seems",
+      "curious",
+      "following",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog seems to be curious about the bottle and is walking alongside the person, following them.",
+    "objects": [
+      "alongside",
+      "bottle",
+      "about",
+      "dog",
+      "them"
+    ],
+    "actions": [
+      "seems",
+      "curious",
+      "following",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The room appears to be a comfortable and lived-in space with a few everyday objects scattered around.",
+    "objects": [
+      "everyday",
+      "comfortable",
+      "space",
+      "around",
+      "room",
+      "few"
+    ],
+    "actions": [
+      "objects",
+      "scattered"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The room appears to be a comfortable and lived-in space with a few everyday objects scattered around.",
+    "objects": [
+      "everyday",
+      "comfortable",
+      "space",
+      "around",
+      "room",
+      "few"
+    ],
+    "actions": [
+      "objects",
+      "scattered"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The room appears to be a comfortable and lived-in space with a few everyday objects scattered around.",
+    "objects": [
+      "everyday",
+      "comfortable",
+      "space",
+      "around",
+      "room",
+      "few"
+    ],
+    "actions": [
+      "objects",
+      "scattered"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The dog's behavior suggests curiosity, and the person's interaction with the dog seems to be gentle and positive.",
+    "objects": [
+      "positive",
+      "dog",
+      "behavior",
+      "interaction",
+      "curiosity",
+      "gentle"
+    ],
+    "actions": [
+      "seems",
+      "suggests",
+      "dog's",
+      "person's"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The dog's behavior suggests curiosity, and the person's interaction with the dog seems to be gentle and positive.",
+    "objects": [
+      "positive",
+      "dog",
+      "behavior",
+      "interaction",
+      "curiosity",
+      "gentle"
+    ],
+    "actions": [
+      "seems",
+      "suggests",
+      "dog's",
+      "person's"
+    ],
+    "segment_id": 10
+  }
+]

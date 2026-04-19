@@ -1,0 +1,604 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video depicts a group of individuals, likely practicing martial arts or participating in a martial arts class, gathered together in a gym or training facility.",
+    "objects": [
+      "together",
+      "this",
+      "martial",
+      "likely",
+      "group",
+      "facility",
+      "gym",
+      "arts"
+    ],
+    "actions": [
+      "depicts",
+      "individuals",
+      "participating",
+      "class"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video depicts a group of individuals, likely practicing martial arts or participating in a martial arts class, gathered together in a gym or training facility.",
+    "objects": [
+      "together",
+      "this",
+      "martial",
+      "likely",
+      "group",
+      "facility",
+      "gym",
+      "arts"
+    ],
+    "actions": [
+      "depicts",
+      "individuals",
+      "participating",
+      "class"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video depicts a group of individuals, likely practicing martial arts or participating in a martial arts class, gathered together in a gym or training facility.",
+    "objects": [
+      "together",
+      "this",
+      "martial",
+      "likely",
+      "group",
+      "facility",
+      "gym",
+      "arts"
+    ],
+    "actions": [
+      "depicts",
+      "individuals",
+      "participating",
+      "class"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is lively and filled with energy, with the participants engaging in various physical activities such as kicks, punches, and blocks.",
+    "objects": [
+      "energy",
+      "lively",
+      "such",
+      "physical"
+    ],
+    "actions": [
+      "punches",
+      "engaging",
+      "blocks",
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is lively and filled with energy, with the participants engaging in various physical activities such as kicks, punches, and blocks.",
+    "objects": [
+      "energy",
+      "lively",
+      "such",
+      "physical"
+    ],
+    "actions": [
+      "punches",
+      "engaging",
+      "blocks",
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is lively and filled with energy, with the participants engaging in various physical activities such as kicks, punches, and blocks.",
+    "objects": [
+      "energy",
+      "lively",
+      "such",
+      "physical"
+    ],
+    "actions": [
+      "punches",
+      "engaging",
+      "blocks",
+      "filled"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The focus of the video is on a young man in a martial arts uniform, who is demonstrating a technique to a young boy who is also wearing a martial arts uniform.",
+    "objects": [
+      "boy",
+      "martial",
+      "uniform",
+      "technique",
+      "man",
+      "who",
+      "arts",
+      "young"
+    ],
+    "actions": [
+      "demonstrating",
+      "focus",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The focus of the video is on a young man in a martial arts uniform, who is demonstrating a technique to a young boy who is also wearing a martial arts uniform.",
+    "objects": [
+      "boy",
+      "martial",
+      "uniform",
+      "technique",
+      "man",
+      "who",
+      "arts",
+      "young"
+    ],
+    "actions": [
+      "demonstrating",
+      "focus",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The focus of the video is on a young man in a martial arts uniform, who is demonstrating a technique to a young boy who is also wearing a martial arts uniform.",
+    "objects": [
+      "boy",
+      "martial",
+      "uniform",
+      "technique",
+      "man",
+      "who",
+      "arts",
+      "young"
+    ],
+    "actions": [
+      "demonstrating",
+      "focus",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The young man is wearing a black belt, suggesting he is an advanced student, and is showing the boy a move.",
+    "objects": [
+      "belt",
+      "boy",
+      "student",
+      "move",
+      "black",
+      "man",
+      "young"
+    ],
+    "actions": [
+      "advanced",
+      "suggesting",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The young man is wearing a black belt, suggesting he is an advanced student, and is showing the boy a move.",
+    "objects": [
+      "belt",
+      "boy",
+      "student",
+      "move",
+      "black",
+      "man",
+      "young"
+    ],
+    "actions": [
+      "advanced",
+      "suggesting",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The young man is wearing a black belt, suggesting he is an advanced student, and is showing the boy a move.",
+    "objects": [
+      "belt",
+      "boy",
+      "student",
+      "move",
+      "black",
+      "man",
+      "young"
+    ],
+    "actions": [
+      "advanced",
+      "suggesting",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "He is holding a padded bag that is presumably used for training purposes, possibly to teach him how to block a punch or kick.",
+    "objects": [
+      "presumably",
+      "block",
+      "him",
+      "how",
+      "teach",
+      "that",
+      "possibly",
+      "bag"
+    ],
+    "actions": [
+      "used",
+      "purposes",
+      "padded",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "He is holding a padded bag that is presumably used for training purposes, possibly to teach him how to block a punch or kick.",
+    "objects": [
+      "presumably",
+      "block",
+      "him",
+      "how",
+      "teach",
+      "that",
+      "possibly",
+      "bag"
+    ],
+    "actions": [
+      "used",
+      "purposes",
+      "padded",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "He is holding a padded bag that is presumably used for training purposes, possibly to teach him how to block a punch or kick.",
+    "objects": [
+      "presumably",
+      "block",
+      "him",
+      "how",
+      "teach",
+      "that",
+      "possibly",
+      "bag"
+    ],
+    "actions": [
+      "used",
+      "purposes",
+      "padded",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The young boy is wearing a white belt, indicating he is a student and is being taught how to block.",
+    "objects": [
+      "belt",
+      "boy",
+      "block",
+      "white",
+      "student",
+      "how",
+      "taught",
+      "young"
+    ],
+    "actions": [
+      "indicating",
+      "being",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The young boy is wearing a white belt, indicating he is a student and is being taught how to block.",
+    "objects": [
+      "belt",
+      "boy",
+      "block",
+      "white",
+      "student",
+      "how",
+      "taught",
+      "young"
+    ],
+    "actions": [
+      "indicating",
+      "being",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The young boy is wearing a white belt, indicating he is a student and is being taught how to block.",
+    "objects": [
+      "belt",
+      "boy",
+      "block",
+      "white",
+      "student",
+      "how",
+      "taught",
+      "young"
+    ],
+    "actions": [
+      "indicating",
+      "being",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, there are other students practicing various techniques, including kicks, punches, and blocks.",
+    "objects": [
+      "other",
+      "there"
+    ],
+    "actions": [
+      "punches",
+      "students",
+      "techniques",
+      "blocks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, there are other students practicing various techniques, including kicks, punches, and blocks.",
+    "objects": [
+      "other",
+      "there"
+    ],
+    "actions": [
+      "punches",
+      "students",
+      "techniques",
+      "blocks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, there are other students practicing various techniques, including kicks, punches, and blocks.",
+    "objects": [
+      "other",
+      "there"
+    ],
+    "actions": [
+      "punches",
+      "students",
+      "techniques",
+      "blocks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "They are dressed in martial arts uniforms, which consist of a white gi top and black belt.",
+    "objects": [
+      "belt",
+      "white",
+      "consist",
+      "top",
+      "martial",
+      "black",
+      "which",
+      "they"
+    ],
+    "actions": [
+      "dressed",
+      "uniforms"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "They are dressed in martial arts uniforms, which consist of a white gi top and black belt.",
+    "objects": [
+      "belt",
+      "white",
+      "consist",
+      "top",
+      "martial",
+      "black",
+      "which",
+      "they"
+    ],
+    "actions": [
+      "dressed",
+      "uniforms"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "They are dressed in martial arts uniforms, which consist of a white gi top and black belt.",
+    "objects": [
+      "belt",
+      "white",
+      "consist",
+      "top",
+      "martial",
+      "black",
+      "which",
+      "they"
+    ],
+    "actions": [
+      "dressed",
+      "uniforms"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Some students are holding padded bags, while others are holding pads to practice punches and kicks.",
+    "objects": [
+      "practice",
+      "some",
+      "pads",
+      "bags",
+      "while"
+    ],
+    "actions": [
+      "punches",
+      "students",
+      "kicks",
+      "padded"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Some students are holding padded bags, while others are holding pads to practice punches and kicks.",
+    "objects": [
+      "practice",
+      "some",
+      "pads",
+      "bags",
+      "while"
+    ],
+    "actions": [
+      "punches",
+      "students",
+      "kicks",
+      "padded"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Some students are holding padded bags, while others are holding pads to practice punches and kicks.",
+    "objects": [
+      "practice",
+      "some",
+      "pads",
+      "bags",
+      "while"
+    ],
+    "actions": [
+      "punches",
+      "students",
+      "kicks",
+      "padded"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The atmosphere is one of focus and dedication, with the students fully engaged in their training.",
+    "objects": [
+      "dedication",
+      "one",
+      "fully",
+      "their",
+      "atmosphere"
+    ],
+    "actions": [
+      "training",
+      "students",
+      "focus",
+      "engaged"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The atmosphere is one of focus and dedication, with the students fully engaged in their training.",
+    "objects": [
+      "dedication",
+      "one",
+      "fully",
+      "their",
+      "atmosphere"
+    ],
+    "actions": [
+      "training",
+      "students",
+      "focus",
+      "engaged"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The atmosphere is one of focus and dedication, with the students fully engaged in their training.",
+    "objects": [
+      "dedication",
+      "one",
+      "fully",
+      "their",
+      "atmosphere"
+    ],
+    "actions": [
+      "training",
+      "students",
+      "focus",
+      "engaged"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures the intensity of martial arts training and the camaraderie among the students as they support and encourage each other.",
+    "objects": [
+      "support",
+      "they",
+      "martial",
+      "encourage",
+      "other",
+      "intensity",
+      "camaraderie",
+      "arts"
+    ],
+    "actions": [
+      "students",
+      "training"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures the intensity of martial arts training and the camaraderie among the students as they support and encourage each other.",
+    "objects": [
+      "support",
+      "they",
+      "martial",
+      "encourage",
+      "other",
+      "intensity",
+      "camaraderie",
+      "arts"
+    ],
+    "actions": [
+      "students",
+      "training"
+    ],
+    "segment_id": 10
+  }
+]

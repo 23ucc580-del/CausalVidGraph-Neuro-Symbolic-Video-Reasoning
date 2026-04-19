@@ -1,0 +1,555 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of four musicians is performing on a sidewalk.",
+    "objects": [
+      "sidewalk",
+      "group",
+      "four"
+    ],
+    "actions": [
+      "performing",
+      "musicians"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of four musicians is performing on a sidewalk.",
+    "objects": [
+      "sidewalk",
+      "group",
+      "four"
+    ],
+    "actions": [
+      "performing",
+      "musicians"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of four musicians is performing on a sidewalk.",
+    "objects": [
+      "sidewalk",
+      "group",
+      "four"
+    ],
+    "actions": [
+      "performing",
+      "musicians"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "Three of them are wearing purple shirts and the fourth is in a blue dress.",
+    "objects": [
+      "fourth",
+      "three",
+      "purple",
+      "them",
+      "dress",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "shirts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Three of them are wearing purple shirts and the fourth is in a blue dress.",
+    "objects": [
+      "fourth",
+      "three",
+      "purple",
+      "them",
+      "dress",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "shirts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Three of them are wearing purple shirts and the fourth is in a blue dress.",
+    "objects": [
+      "fourth",
+      "three",
+      "purple",
+      "them",
+      "dress",
+      "blue"
+    ],
+    "actions": [
+      "wearing",
+      "shirts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are playing a variety of instruments, including guitars and violins, and one of them is wearing a hat.",
+    "objects": [
+      "them",
+      "hat",
+      "they",
+      "one",
+      "variety"
+    ],
+    "actions": [
+      "guitars",
+      "wearing",
+      "violins",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "They are playing a variety of instruments, including guitars and violins, and one of them is wearing a hat.",
+    "objects": [
+      "them",
+      "hat",
+      "they",
+      "one",
+      "variety"
+    ],
+    "actions": [
+      "guitars",
+      "wearing",
+      "violins",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "They are playing a variety of instruments, including guitars and violins, and one of them is wearing a hat.",
+    "objects": [
+      "them",
+      "hat",
+      "they",
+      "one",
+      "variety"
+    ],
+    "actions": [
+      "guitars",
+      "wearing",
+      "violins",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene opens with the group in a street performance, playing music.",
+    "objects": [
+      "music",
+      "group",
+      "street",
+      "performance"
+    ],
+    "actions": [
+      "playing",
+      "opens"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene opens with the group in a street performance, playing music.",
+    "objects": [
+      "music",
+      "group",
+      "street",
+      "performance"
+    ],
+    "actions": [
+      "playing",
+      "opens"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene opens with the group in a street performance, playing music.",
+    "objects": [
+      "music",
+      "group",
+      "street",
+      "performance"
+    ],
+    "actions": [
+      "playing",
+      "opens"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The performers are focused on their instruments, creating a lively atmosphere.",
+    "objects": [
+      "lively",
+      "their",
+      "atmosphere"
+    ],
+    "actions": [
+      "focused",
+      "instruments",
+      "creating",
+      "performers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The performers are focused on their instruments, creating a lively atmosphere.",
+    "objects": [
+      "lively",
+      "their",
+      "atmosphere"
+    ],
+    "actions": [
+      "focused",
+      "instruments",
+      "creating",
+      "performers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The performers are focused on their instruments, creating a lively atmosphere.",
+    "objects": [
+      "lively",
+      "their",
+      "atmosphere"
+    ],
+    "actions": [
+      "focused",
+      "instruments",
+      "creating",
+      "performers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The street is lined with shops and businesses, and people can be seen walking by, enjoying the music.",
+    "objects": [
+      "music",
+      "can",
+      "street",
+      "people"
+    ],
+    "actions": [
+      "walking",
+      "enjoying",
+      "lined",
+      "shops"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The street is lined with shops and businesses, and people can be seen walking by, enjoying the music.",
+    "objects": [
+      "music",
+      "can",
+      "street",
+      "people"
+    ],
+    "actions": [
+      "walking",
+      "enjoying",
+      "lined",
+      "shops"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The street is lined with shops and businesses, and people can be seen walking by, enjoying the music.",
+    "objects": [
+      "music",
+      "can",
+      "street",
+      "people"
+    ],
+    "actions": [
+      "walking",
+      "enjoying",
+      "lined",
+      "shops"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The musicians are positioned on the sidewalk, with their instruments on display, attracting the attention of passersby.",
+    "objects": [
+      "display",
+      "their",
+      "attention",
+      "passersby",
+      "sidewalk"
+    ],
+    "actions": [
+      "attracting",
+      "instruments",
+      "musicians",
+      "positioned"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The musicians are positioned on the sidewalk, with their instruments on display, attracting the attention of passersby.",
+    "objects": [
+      "display",
+      "their",
+      "attention",
+      "passersby",
+      "sidewalk"
+    ],
+    "actions": [
+      "attracting",
+      "instruments",
+      "musicians",
+      "positioned"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The musicians are positioned on the sidewalk, with their instruments on display, attracting the attention of passersby.",
+    "objects": [
+      "display",
+      "their",
+      "attention",
+      "passersby",
+      "sidewalk"
+    ],
+    "actions": [
+      "attracting",
+      "instruments",
+      "musicians",
+      "positioned"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The sound of the instruments fills the air, drawing people to the performance.",
+    "objects": [
+      "air",
+      "performance",
+      "sound",
+      "people"
+    ],
+    "actions": [
+      "drawing",
+      "fills",
+      "instruments"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The sound of the instruments fills the air, drawing people to the performance.",
+    "objects": [
+      "air",
+      "performance",
+      "sound",
+      "people"
+    ],
+    "actions": [
+      "drawing",
+      "fills",
+      "instruments"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The sound of the instruments fills the air, drawing people to the performance.",
+    "objects": [
+      "air",
+      "performance",
+      "sound",
+      "people"
+    ],
+    "actions": [
+      "drawing",
+      "fills",
+      "instruments"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "As the video progresses, the group's passion for music becomes more evident, with each musician deeply engrossed in their playing.",
+    "objects": [
+      "deeply",
+      "each",
+      "their",
+      "musician",
+      "music",
+      "more",
+      "passion",
+      "evident"
+    ],
+    "actions": [
+      "engrossed",
+      "playing",
+      "progresses",
+      "becomes"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "As the video progresses, the group's passion for music becomes more evident, with each musician deeply engrossed in their playing.",
+    "objects": [
+      "deeply",
+      "each",
+      "their",
+      "musician",
+      "music",
+      "more",
+      "passion",
+      "evident"
+    ],
+    "actions": [
+      "engrossed",
+      "playing",
+      "progresses",
+      "becomes"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "As the video progresses, the group's passion for music becomes more evident, with each musician deeply engrossed in their playing.",
+    "objects": [
+      "deeply",
+      "each",
+      "their",
+      "musician",
+      "music",
+      "more",
+      "passion",
+      "evident"
+    ],
+    "actions": [
+      "engrossed",
+      "playing",
+      "progresses",
+      "becomes"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The rhythm of their performance is infectious, with the crowd's energy growing as they enjoy the impromptu performance.",
+    "objects": [
+      "rhythm",
+      "their",
+      "performance",
+      "they",
+      "enjoy",
+      "impromptu",
+      "energy"
+    ],
+    "actions": [
+      "growing",
+      "crowd's",
+      "infectious"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The rhythm of their performance is infectious, with the crowd's energy growing as they enjoy the impromptu performance.",
+    "objects": [
+      "rhythm",
+      "their",
+      "performance",
+      "they",
+      "enjoy",
+      "impromptu",
+      "energy"
+    ],
+    "actions": [
+      "growing",
+      "crowd's",
+      "infectious"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The rhythm of their performance is infectious, with the crowd's energy growing as they enjoy the impromptu performance.",
+    "objects": [
+      "rhythm",
+      "their",
+      "performance",
+      "they",
+      "enjoy",
+      "impromptu",
+      "energy"
+    ],
+    "actions": [
+      "growing",
+      "crowd's",
+      "infectious"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The street becomes a bustling hub of activity, with more people stopping to appreciate the impromptu music.",
+    "objects": [
+      "street",
+      "people",
+      "activity",
+      "appreciate",
+      "music",
+      "more",
+      "impromptu",
+      "hub"
+    ],
+    "actions": [
+      "bustling",
+      "becomes",
+      "stopping"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The street becomes a bustling hub of activity, with more people stopping to appreciate the impromptu music.",
+    "objects": [
+      "street",
+      "people",
+      "activity",
+      "appreciate",
+      "music",
+      "more",
+      "impromptu",
+      "hub"
+    ],
+    "actions": [
+      "bustling",
+      "becomes",
+      "stopping"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of children playing outside on a sunny day.",
+    "objects": [
+      "outside",
+      "sunny",
+      "group",
+      "children",
+      "see",
+      "day"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of children playing outside on a sunny day.",
+    "objects": [
+      "outside",
+      "sunny",
+      "group",
+      "children",
+      "see",
+      "day"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of children playing outside on a sunny day.",
+    "objects": [
+      "outside",
+      "sunny",
+      "group",
+      "children",
+      "see",
+      "day"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a group of children playing outside on a sunny day.",
+    "objects": [
+      "outside",
+      "sunny",
+      "group",
+      "children",
+      "see",
+      "day"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One little girl in a colorful dress is holding a bucket and smiling at the camera.",
+    "objects": [
+      "one",
+      "bucket",
+      "little",
+      "dress",
+      "girl",
+      "colorful"
+    ],
+    "actions": [
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One little girl in a colorful dress is holding a bucket and smiling at the camera.",
+    "objects": [
+      "one",
+      "bucket",
+      "little",
+      "dress",
+      "girl",
+      "colorful"
+    ],
+    "actions": [
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One little girl in a colorful dress is holding a bucket and smiling at the camera.",
+    "objects": [
+      "one",
+      "bucket",
+      "little",
+      "dress",
+      "girl",
+      "colorful"
+    ],
+    "actions": [
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One little girl in a colorful dress is holding a bucket and smiling at the camera.",
+    "objects": [
+      "one",
+      "bucket",
+      "little",
+      "dress",
+      "girl",
+      "colorful"
+    ],
+    "actions": [
+      "holding",
+      "smiling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A little boy in a blue hoodie is also present, wearing a blue shirt, and is holding a blue bucket.",
+    "objects": [
+      "shirt",
+      "boy",
+      "blue",
+      "little",
+      "present",
+      "bucket",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A little boy in a blue hoodie is also present, wearing a blue shirt, and is holding a blue bucket.",
+    "objects": [
+      "shirt",
+      "boy",
+      "blue",
+      "little",
+      "present",
+      "bucket",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A little boy in a blue hoodie is also present, wearing a blue shirt, and is holding a blue bucket.",
+    "objects": [
+      "shirt",
+      "boy",
+      "blue",
+      "little",
+      "present",
+      "bucket",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A little boy in a blue hoodie is also present, wearing a blue shirt, and is holding a blue bucket.",
+    "objects": [
+      "shirt",
+      "boy",
+      "blue",
+      "little",
+      "present",
+      "bucket",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another little girl in a blue dress is standing next to the boy, holding a blue bucket.",
+    "objects": [
+      "boy",
+      "blue",
+      "little",
+      "dress",
+      "girl",
+      "bucket"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another little girl in a blue dress is standing next to the boy, holding a blue bucket.",
+    "objects": [
+      "boy",
+      "blue",
+      "little",
+      "dress",
+      "girl",
+      "bucket"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another little girl in a blue dress is standing next to the boy, holding a blue bucket.",
+    "objects": [
+      "boy",
+      "blue",
+      "little",
+      "dress",
+      "girl",
+      "bucket"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another little girl in a blue dress is standing next to the boy, holding a blue bucket.",
+    "objects": [
+      "boy",
+      "blue",
+      "little",
+      "dress",
+      "girl",
+      "bucket"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a white shirt is standing nearby, helping the children.",
+    "objects": [
+      "shirt",
+      "nearby",
+      "white",
+      "man",
+      "children"
+    ],
+    "actions": [
+      "standing",
+      "helping"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a white shirt is standing nearby, helping the children.",
+    "objects": [
+      "shirt",
+      "nearby",
+      "white",
+      "man",
+      "children"
+    ],
+    "actions": [
+      "standing",
+      "helping"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a white shirt is standing nearby, helping the children.",
+    "objects": [
+      "shirt",
+      "nearby",
+      "white",
+      "man",
+      "children"
+    ],
+    "actions": [
+      "standing",
+      "helping"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a white shirt is standing nearby, helping the children.",
+    "objects": [
+      "shirt",
+      "nearby",
+      "white",
+      "man",
+      "children"
+    ],
+    "actions": [
+      "standing",
+      "helping"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, there is a woman wearing a white shirt, holding a baby.",
+    "objects": [
+      "shirt",
+      "white",
+      "there",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, there is a woman wearing a white shirt, holding a baby.",
+    "objects": [
+      "shirt",
+      "white",
+      "there",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, there is a woman wearing a white shirt, holding a baby.",
+    "objects": [
+      "shirt",
+      "white",
+      "there",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, there is a woman wearing a white shirt, holding a baby.",
+    "objects": [
+      "shirt",
+      "white",
+      "there",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A young girl in a rainbow dress is walking towards the group.",
+    "objects": [
+      "dress",
+      "rainbow",
+      "group",
+      "girl",
+      "young"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A young girl in a rainbow dress is walking towards the group.",
+    "objects": [
+      "dress",
+      "rainbow",
+      "group",
+      "girl",
+      "young"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A young girl in a rainbow dress is walking towards the group.",
+    "objects": [
+      "dress",
+      "rainbow",
+      "group",
+      "girl",
+      "young"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A young girl in a rainbow dress is walking towards the group.",
+    "objects": [
+      "dress",
+      "rainbow",
+      "group",
+      "girl",
+      "young"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is lively and full of joy, with the children engaging in outdoor activities on a bright day.",
+    "objects": [
+      "outdoor",
+      "lively",
+      "children",
+      "bright",
+      "full",
+      "joy",
+      "day"
+    ],
+    "actions": [
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is lively and full of joy, with the children engaging in outdoor activities on a bright day.",
+    "objects": [
+      "outdoor",
+      "lively",
+      "children",
+      "bright",
+      "full",
+      "joy",
+      "day"
+    ],
+    "actions": [
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is lively and full of joy, with the children engaging in outdoor activities on a bright day.",
+    "objects": [
+      "outdoor",
+      "lively",
+      "children",
+      "bright",
+      "full",
+      "joy",
+      "day"
+    ],
+    "actions": [
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is lively and full of joy, with the children engaging in outdoor activities on a bright day.",
+    "objects": [
+      "outdoor",
+      "lively",
+      "children",
+      "bright",
+      "full",
+      "joy",
+      "day"
+    ],
+    "actions": [
+      "activities",
+      "engaging"
+    ],
+    "segment_id": 7
+  }
+]

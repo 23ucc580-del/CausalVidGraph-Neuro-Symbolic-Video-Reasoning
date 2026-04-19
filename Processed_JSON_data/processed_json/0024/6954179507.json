@@ -1,0 +1,594 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a large ship docked at a pier, with a mountainous landscape visible in the distance.",
+    "objects": [
+      "distance",
+      "ship",
+      "landscape",
+      "see",
+      "large",
+      "pier"
+    ],
+    "actions": [
+      "docked",
+      "mountainous"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a large ship docked at a pier, with a mountainous landscape visible in the distance.",
+    "objects": [
+      "distance",
+      "ship",
+      "landscape",
+      "see",
+      "large",
+      "pier"
+    ],
+    "actions": [
+      "docked",
+      "mountainous"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a large ship docked at a pier, with a mountainous landscape visible in the distance.",
+    "objects": [
+      "distance",
+      "ship",
+      "landscape",
+      "see",
+      "large",
+      "pier"
+    ],
+    "actions": [
+      "docked",
+      "mountainous"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a large ship docked at a pier, with a mountainous landscape visible in the distance.",
+    "objects": [
+      "distance",
+      "ship",
+      "landscape",
+      "see",
+      "large",
+      "pier"
+    ],
+    "actions": [
+      "docked",
+      "mountainous"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "Two individuals are standing on the pier, wearing orange life jackets and high-visibility vests.",
+    "objects": [
+      "orange",
+      "life",
+      "two",
+      "pier"
+    ],
+    "actions": [
+      "standing",
+      "jackets",
+      "individuals",
+      "vests"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two individuals are standing on the pier, wearing orange life jackets and high-visibility vests.",
+    "objects": [
+      "orange",
+      "life",
+      "two",
+      "pier"
+    ],
+    "actions": [
+      "standing",
+      "jackets",
+      "individuals",
+      "vests"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Two individuals are standing on the pier, wearing orange life jackets and high-visibility vests.",
+    "objects": [
+      "orange",
+      "life",
+      "two",
+      "pier"
+    ],
+    "actions": [
+      "standing",
+      "jackets",
+      "individuals",
+      "vests"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "Two individuals are standing on the pier, wearing orange life jackets and high-visibility vests.",
+    "objects": [
+      "orange",
+      "life",
+      "two",
+      "pier"
+    ],
+    "actions": [
+      "standing",
+      "jackets",
+      "individuals",
+      "vests"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "One of them is holding a red pole, and the other is holding a black pole with a red hook.",
+    "objects": [
+      "hook",
+      "one",
+      "them",
+      "pole",
+      "black",
+      "other"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One of them is holding a red pole, and the other is holding a black pole with a red hook.",
+    "objects": [
+      "hook",
+      "one",
+      "them",
+      "pole",
+      "black",
+      "other"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "One of them is holding a red pole, and the other is holding a black pole with a red hook.",
+    "objects": [
+      "hook",
+      "one",
+      "them",
+      "pole",
+      "black",
+      "other"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "One of them is holding a red pole, and the other is holding a black pole with a red hook.",
+    "objects": [
+      "hook",
+      "one",
+      "them",
+      "pole",
+      "black",
+      "other"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "They are inspecting the ship, seemingly checking its structural integrity and safety.",
+    "objects": [
+      "its",
+      "ship",
+      "structural",
+      "integrity",
+      "they",
+      "safety",
+      "seemingly"
+    ],
+    "actions": [
+      "checking",
+      "inspecting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "They are inspecting the ship, seemingly checking its structural integrity and safety.",
+    "objects": [
+      "its",
+      "ship",
+      "structural",
+      "integrity",
+      "they",
+      "safety",
+      "seemingly"
+    ],
+    "actions": [
+      "checking",
+      "inspecting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "They are inspecting the ship, seemingly checking its structural integrity and safety.",
+    "objects": [
+      "its",
+      "ship",
+      "structural",
+      "integrity",
+      "they",
+      "safety",
+      "seemingly"
+    ],
+    "actions": [
+      "checking",
+      "inspecting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "They are inspecting the ship, seemingly checking its structural integrity and safety.",
+    "objects": [
+      "its",
+      "ship",
+      "structural",
+      "integrity",
+      "they",
+      "safety",
+      "seemingly"
+    ],
+    "actions": [
+      "checking",
+      "inspecting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the foreground, there is a yellow crane with a red hook, and a black boat with a red and white striped hull is docked nearby.",
+    "objects": [
+      "yellow",
+      "hook",
+      "boat",
+      "nearby",
+      "white",
+      "crane",
+      "hull",
+      "black"
+    ],
+    "actions": [
+      "red",
+      "docked",
+      "striped"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "In the foreground, there is a yellow crane with a red hook, and a black boat with a red and white striped hull is docked nearby.",
+    "objects": [
+      "yellow",
+      "hook",
+      "boat",
+      "nearby",
+      "white",
+      "crane",
+      "hull",
+      "black"
+    ],
+    "actions": [
+      "red",
+      "docked",
+      "striped"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "In the foreground, there is a yellow crane with a red hook, and a black boat with a red and white striped hull is docked nearby.",
+    "objects": [
+      "yellow",
+      "hook",
+      "boat",
+      "nearby",
+      "white",
+      "crane",
+      "hull",
+      "black"
+    ],
+    "actions": [
+      "red",
+      "docked",
+      "striped"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "In the foreground, there is a yellow crane with a red hook, and a black boat with a red and white striped hull is docked nearby.",
+    "objects": [
+      "yellow",
+      "hook",
+      "boat",
+      "nearby",
+      "white",
+      "crane",
+      "hull",
+      "black"
+    ],
+    "actions": [
+      "red",
+      "docked",
+      "striped"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene suggests a routine safety inspection or maintenance check, given the presence of the safety gear and equipment.",
+    "objects": [
+      "inspection",
+      "check",
+      "presence",
+      "routine",
+      "gear",
+      "equipment",
+      "maintenance",
+      "given"
+    ],
+    "actions": [
+      "suggests"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene suggests a routine safety inspection or maintenance check, given the presence of the safety gear and equipment.",
+    "objects": [
+      "inspection",
+      "check",
+      "presence",
+      "routine",
+      "gear",
+      "equipment",
+      "maintenance",
+      "given"
+    ],
+    "actions": [
+      "suggests"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene suggests a routine safety inspection or maintenance check, given the presence of the safety gear and equipment.",
+    "objects": [
+      "inspection",
+      "check",
+      "presence",
+      "routine",
+      "gear",
+      "equipment",
+      "maintenance",
+      "given"
+    ],
+    "actions": [
+      "suggests"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene suggests a routine safety inspection or maintenance check, given the presence of the safety gear and equipment.",
+    "objects": [
+      "inspection",
+      "check",
+      "presence",
+      "routine",
+      "gear",
+      "equipment",
+      "maintenance",
+      "given"
+    ],
+    "actions": [
+      "suggests"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The individuals appear to be professionals, likely crew members or maritime personnel, going about their duties with a sense of purpose and attentiveness.",
+    "objects": [
+      "purpose",
+      "their",
+      "maritime",
+      "appear",
+      "likely",
+      "personnel",
+      "about",
+      "crew"
+    ],
+    "actions": [
+      "professionals",
+      "individuals",
+      "attentiveness",
+      "going"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The individuals appear to be professionals, likely crew members or maritime personnel, going about their duties with a sense of purpose and attentiveness.",
+    "objects": [
+      "purpose",
+      "their",
+      "maritime",
+      "appear",
+      "likely",
+      "personnel",
+      "about",
+      "crew"
+    ],
+    "actions": [
+      "professionals",
+      "individuals",
+      "attentiveness",
+      "going"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The individuals appear to be professionals, likely crew members or maritime personnel, going about their duties with a sense of purpose and attentiveness.",
+    "objects": [
+      "purpose",
+      "their",
+      "maritime",
+      "appear",
+      "likely",
+      "personnel",
+      "about",
+      "crew"
+    ],
+    "actions": [
+      "professionals",
+      "individuals",
+      "attentiveness",
+      "going"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The individuals appear to be professionals, likely crew members or maritime personnel, going about their duties with a sense of purpose and attentiveness.",
+    "objects": [
+      "purpose",
+      "their",
+      "maritime",
+      "appear",
+      "likely",
+      "personnel",
+      "about",
+      "crew"
+    ],
+    "actions": [
+      "professionals",
+      "individuals",
+      "attentiveness",
+      "going"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The surrounding environment is serene with a clear sky and calm waters, indicating a typical day in the maritime industry.",
+    "objects": [
+      "calm",
+      "maritime",
+      "serene",
+      "typical",
+      "sky",
+      "industry",
+      "environment",
+      "clear"
+    ],
+    "actions": [
+      "indicating",
+      "surrounding",
+      "waters"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The surrounding environment is serene with a clear sky and calm waters, indicating a typical day in the maritime industry.",
+    "objects": [
+      "calm",
+      "maritime",
+      "serene",
+      "typical",
+      "sky",
+      "industry",
+      "environment",
+      "clear"
+    ],
+    "actions": [
+      "indicating",
+      "surrounding",
+      "waters"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The surrounding environment is serene with a clear sky and calm waters, indicating a typical day in the maritime industry.",
+    "objects": [
+      "calm",
+      "maritime",
+      "serene",
+      "typical",
+      "sky",
+      "industry",
+      "environment",
+      "clear"
+    ],
+    "actions": [
+      "indicating",
+      "surrounding",
+      "waters"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The surrounding environment is serene with a clear sky and calm waters, indicating a typical day in the maritime industry.",
+    "objects": [
+      "calm",
+      "maritime",
+      "serene",
+      "typical",
+      "sky",
+      "industry",
+      "environment",
+      "clear"
+    ],
+    "actions": [
+      "indicating",
+      "surrounding",
+      "waters"
+    ],
+    "segment_id": 7
+  }
+]

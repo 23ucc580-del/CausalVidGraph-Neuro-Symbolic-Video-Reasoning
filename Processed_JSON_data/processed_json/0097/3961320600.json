@@ -1,0 +1,590 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a serene day at the beach, where a family of three is enjoying a leisurely outing.",
+    "objects": [
+      "serene",
+      "three",
+      "family",
+      "where",
+      "day",
+      "leisurely",
+      "beach"
+    ],
+    "actions": [
+      "enjoying",
+      "outing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a serene day at the beach, where a family of three is enjoying a leisurely outing.",
+    "objects": [
+      "serene",
+      "three",
+      "family",
+      "where",
+      "day",
+      "leisurely",
+      "beach"
+    ],
+    "actions": [
+      "enjoying",
+      "outing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a serene day at the beach, where a family of three is enjoying a leisurely outing.",
+    "objects": [
+      "serene",
+      "three",
+      "family",
+      "where",
+      "day",
+      "leisurely",
+      "beach"
+    ],
+    "actions": [
+      "enjoying",
+      "outing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a serene day at the beach, where a family of three is enjoying a leisurely outing.",
+    "objects": [
+      "serene",
+      "three",
+      "family",
+      "where",
+      "day",
+      "leisurely",
+      "beach"
+    ],
+    "actions": [
+      "enjoying",
+      "outing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The father is wearing a blue hoodie and a baseball cap, while the mother is dressed in a green jacket.",
+    "objects": [
+      "baseball",
+      "father",
+      "hoodie",
+      "green",
+      "blue",
+      "mother",
+      "while",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The father is wearing a blue hoodie and a baseball cap, while the mother is dressed in a green jacket.",
+    "objects": [
+      "baseball",
+      "father",
+      "hoodie",
+      "green",
+      "blue",
+      "mother",
+      "while",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The father is wearing a blue hoodie and a baseball cap, while the mother is dressed in a green jacket.",
+    "objects": [
+      "baseball",
+      "father",
+      "hoodie",
+      "green",
+      "blue",
+      "mother",
+      "while",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The father is wearing a blue hoodie and a baseball cap, while the mother is dressed in a green jacket.",
+    "objects": [
+      "baseball",
+      "father",
+      "hoodie",
+      "green",
+      "blue",
+      "mother",
+      "while",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are holding hands, a gesture of love and unity, as they walk along the beach.",
+    "objects": [
+      "along",
+      "gesture",
+      "walk",
+      "they",
+      "beach",
+      "unity",
+      "love"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are holding hands, a gesture of love and unity, as they walk along the beach.",
+    "objects": [
+      "along",
+      "gesture",
+      "walk",
+      "they",
+      "beach",
+      "unity",
+      "love"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are holding hands, a gesture of love and unity, as they walk along the beach.",
+    "objects": [
+      "along",
+      "gesture",
+      "walk",
+      "they",
+      "beach",
+      "unity",
+      "love"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are holding hands, a gesture of love and unity, as they walk along the beach.",
+    "objects": [
+      "along",
+      "gesture",
+      "walk",
+      "they",
+      "beach",
+      "unity",
+      "love"
+    ],
+    "actions": [
+      "holding",
+      "hands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The daughter, wearing a white shirt and a helmet, is seen riding a silver scooter, a symbol of independence and exploration.",
+    "objects": [
+      "helmet",
+      "white",
+      "silver",
+      "scooter",
+      "independence",
+      "exploration",
+      "symbol",
+      "daughter"
+    ],
+    "actions": [
+      "wearing",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The daughter, wearing a white shirt and a helmet, is seen riding a silver scooter, a symbol of independence and exploration.",
+    "objects": [
+      "helmet",
+      "white",
+      "silver",
+      "scooter",
+      "independence",
+      "exploration",
+      "symbol",
+      "daughter"
+    ],
+    "actions": [
+      "wearing",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The daughter, wearing a white shirt and a helmet, is seen riding a silver scooter, a symbol of independence and exploration.",
+    "objects": [
+      "helmet",
+      "white",
+      "silver",
+      "scooter",
+      "independence",
+      "exploration",
+      "symbol",
+      "daughter"
+    ],
+    "actions": [
+      "wearing",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The daughter, wearing a white shirt and a helmet, is seen riding a silver scooter, a symbol of independence and exploration.",
+    "objects": [
+      "helmet",
+      "white",
+      "silver",
+      "scooter",
+      "independence",
+      "exploration",
+      "symbol",
+      "daughter"
+    ],
+    "actions": [
+      "wearing",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The dog, a companion in their journey, is wearing a red collar and tag.",
+    "objects": [
+      "companion",
+      "their",
+      "tag",
+      "collar",
+      "journey",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The dog, a companion in their journey, is wearing a red collar and tag.",
+    "objects": [
+      "companion",
+      "their",
+      "tag",
+      "collar",
+      "journey",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The dog, a companion in their journey, is wearing a red collar and tag.",
+    "objects": [
+      "companion",
+      "their",
+      "tag",
+      "collar",
+      "journey",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The dog, a companion in their journey, is wearing a red collar and tag.",
+    "objects": [
+      "companion",
+      "their",
+      "tag",
+      "collar",
+      "journey",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The sandy beach and the vast expanse of water provide a picturesque backdrop for this family moment.",
+    "objects": [
+      "this",
+      "water",
+      "family",
+      "backdrop",
+      "expanse",
+      "vast",
+      "moment",
+      "beach"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The sandy beach and the vast expanse of water provide a picturesque backdrop for this family moment.",
+    "objects": [
+      "this",
+      "water",
+      "family",
+      "backdrop",
+      "expanse",
+      "vast",
+      "moment",
+      "beach"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The sandy beach and the vast expanse of water provide a picturesque backdrop for this family moment.",
+    "objects": [
+      "this",
+      "water",
+      "family",
+      "backdrop",
+      "expanse",
+      "vast",
+      "moment",
+      "beach"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The sandy beach and the vast expanse of water provide a picturesque backdrop for this family moment.",
+    "objects": [
+      "this",
+      "water",
+      "family",
+      "backdrop",
+      "expanse",
+      "vast",
+      "moment",
+      "beach"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The father is also holding a red ball, possibly a toy for his daughter, symbolizing play and joy.",
+    "objects": [
+      "possibly",
+      "joy",
+      "father",
+      "play",
+      "ball",
+      "daughter",
+      "his",
+      "toy"
+    ],
+    "actions": [
+      "symbolizing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The father is also holding a red ball, possibly a toy for his daughter, symbolizing play and joy.",
+    "objects": [
+      "possibly",
+      "joy",
+      "father",
+      "play",
+      "ball",
+      "daughter",
+      "his",
+      "toy"
+    ],
+    "actions": [
+      "symbolizing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The father is also holding a red ball, possibly a toy for his daughter, symbolizing play and joy.",
+    "objects": [
+      "possibly",
+      "joy",
+      "father",
+      "play",
+      "ball",
+      "daughter",
+      "his",
+      "toy"
+    ],
+    "actions": [
+      "symbolizing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The father is also holding a red ball, possibly a toy for his daughter, symbolizing play and joy.",
+    "objects": [
+      "possibly",
+      "joy",
+      "father",
+      "play",
+      "ball",
+      "daughter",
+      "his",
+      "toy"
+    ],
+    "actions": [
+      "symbolizing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is a harmonious blend of family bonding, playful activities, and appreciation of nature's beauty.",
+    "objects": [
+      "family",
+      "appreciation",
+      "beauty",
+      "blend",
+      "playful"
+    ],
+    "actions": [
+      "bonding",
+      "activities",
+      "harmonious",
+      "nature's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is a harmonious blend of family bonding, playful activities, and appreciation of nature's beauty.",
+    "objects": [
+      "family",
+      "appreciation",
+      "beauty",
+      "blend",
+      "playful"
+    ],
+    "actions": [
+      "bonding",
+      "activities",
+      "harmonious",
+      "nature's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is a harmonious blend of family bonding, playful activities, and appreciation of nature's beauty.",
+    "objects": [
+      "family",
+      "appreciation",
+      "beauty",
+      "blend",
+      "playful"
+    ],
+    "actions": [
+      "bonding",
+      "activities",
+      "harmonious",
+      "nature's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is a harmonious blend of family bonding, playful activities, and appreciation of nature's beauty.",
+    "objects": [
+      "family",
+      "appreciation",
+      "beauty",
+      "blend",
+      "playful"
+    ],
+    "actions": [
+      "bonding",
+      "activities",
+      "harmonious",
+      "nature's"
+    ],
+    "segment_id": 7
+  }
+]

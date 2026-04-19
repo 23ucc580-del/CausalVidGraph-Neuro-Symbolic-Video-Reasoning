@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a group of people are gathered around a dining table, celebrating a birthday.",
+    "objects": [
+      "table",
+      "people",
+      "around",
+      "this",
+      "birthday",
+      "group"
+    ],
+    "actions": [
+      "celebrating",
+      "gathered",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a group of people are gathered around a dining table, celebrating a birthday.",
+    "objects": [
+      "table",
+      "people",
+      "around",
+      "this",
+      "birthday",
+      "group"
+    ],
+    "actions": [
+      "celebrating",
+      "gathered",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "A man is holding a cake with lit candles, and he is surrounded by a group of adults and children.",
+    "objects": [
+      "children",
+      "cake",
+      "lit",
+      "man",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "holding",
+      "candles",
+      "adults"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "A man is holding a cake with lit candles, and he is surrounded by a group of adults and children.",
+    "objects": [
+      "children",
+      "cake",
+      "lit",
+      "man",
+      "group"
+    ],
+    "actions": [
+      "surrounded",
+      "holding",
+      "candles",
+      "adults"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a black shirt and glasses.",
+    "objects": [
+      "shirt",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a black shirt and glasses.",
+    "objects": [
+      "shirt",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman, who is sitting at the table, is holding a young boy.",
+    "objects": [
+      "table",
+      "boy",
+      "woman",
+      "who",
+      "young"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman, who is sitting at the table, is holding a young boy.",
+    "objects": [
+      "table",
+      "boy",
+      "woman",
+      "who",
+      "young"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman is wearing a black shirt and a blue hat.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman is wearing a black shirt and a blue hat.",
+    "objects": [
+      "woman",
+      "black",
+      "blue",
+      "shirt",
+      "hat"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The boy, who is sitting on the man's lap, is wearing a black shirt and a blue hat.",
+    "objects": [
+      "boy",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hat",
+      "lap"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "man's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The boy, who is sitting on the man's lap, is wearing a black shirt and a blue hat.",
+    "objects": [
+      "boy",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hat",
+      "lap"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "man's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is holding a child who is wearing a red shirt and blue pants.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "who",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "pants",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is holding a child who is wearing a red shirt and blue pants.",
+    "objects": [
+      "child",
+      "blue",
+      "shirt",
+      "who",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "pants",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The child is blowing out the candles on the cake while the woman looks on.",
+    "objects": [
+      "woman",
+      "while",
+      "child",
+      "cake",
+      "out"
+    ],
+    "actions": [
+      "blowing",
+      "candles",
+      "looks"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The child is blowing out the candles on the cake while the woman looks on.",
+    "objects": [
+      "woman",
+      "while",
+      "child",
+      "cake",
+      "out"
+    ],
+    "actions": [
+      "blowing",
+      "candles",
+      "looks"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "There is a young girl standing in the background, wearing a red dress and blue pants.",
+    "objects": [
+      "there",
+      "young",
+      "blue",
+      "dress",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "There is a young girl standing in the background, wearing a red dress and blue pants.",
+    "objects": [
+      "there",
+      "young",
+      "blue",
+      "dress",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a black shirt is holding a young boy in a black shirt.",
+    "objects": [
+      "boy",
+      "young",
+      "black",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a black shirt is holding a young boy in a black shirt.",
+    "objects": [
+      "boy",
+      "young",
+      "black",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The young boy is blowing out the candles on the cake while a man in a black hat is watching.",
+    "objects": [
+      "boy",
+      "while",
+      "black",
+      "cake",
+      "out",
+      "hat",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "blowing",
+      "candles",
+      "watching"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The young boy is blowing out the candles on the cake while a man in a black hat is watching.",
+    "objects": [
+      "boy",
+      "while",
+      "black",
+      "cake",
+      "out",
+      "hat",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "blowing",
+      "candles",
+      "watching"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The man in the black hat is holding a child in a black shirt.",
+    "objects": [
+      "child",
+      "black",
+      "shirt",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The man in the black hat is holding a child in a black shirt.",
+    "objects": [
+      "child",
+      "black",
+      "shirt",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The child in the black shirt is blowing out the candles on the cake while a man in a blue hat is smiling.",
+    "objects": [
+      "child",
+      "while",
+      "black",
+      "blue",
+      "cake",
+      "shirt",
+      "out",
+      "hat"
+    ],
+    "actions": [
+      "blowing",
+      "candles",
+      "smiling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The child in the black shirt is blowing out the candles on the cake while a man in a blue hat is smiling.",
+    "objects": [
+      "child",
+      "while",
+      "black",
+      "blue",
+      "cake",
+      "shirt",
+      "out",
+      "hat"
+    ],
+    "actions": [
+      "blowing",
+      "candles",
+      "smiling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the black shirt is wearing glasses and holding the young boy.",
+    "objects": [
+      "boy",
+      "young",
+      "black",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the black shirt is wearing glasses and holding the young boy.",
+    "objects": [
+      "boy",
+      "young",
+      "black",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The young boy is wearing a blue hat and holding the man's hand.",
+    "objects": [
+      "boy",
+      "blue",
+      "hat",
+      "young",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "man's"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The young boy is wearing a blue hat and holding the man's hand.",
+    "objects": [
+      "boy",
+      "blue",
+      "hat",
+      "young",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "man's"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The man is holding a young girl in a red dress.",
+    "objects": [
+      "girl",
+      "man",
+      "dress",
+      "young"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The man is holding a young girl in a red dress.",
+    "objects": [
+      "girl",
+      "man",
+      "dress",
+      "young"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 15
+  }
+]

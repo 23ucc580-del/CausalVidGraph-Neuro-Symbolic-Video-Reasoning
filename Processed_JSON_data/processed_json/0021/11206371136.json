@@ -1,0 +1,578 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman with long black hair and a black sweater is standing in front of a bulletin board.",
+    "objects": [
+      "long",
+      "hair",
+      "bulletin",
+      "sweater",
+      "black",
+      "board",
+      "woman"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman with long black hair and a black sweater is standing in front of a bulletin board.",
+    "objects": [
+      "long",
+      "hair",
+      "bulletin",
+      "sweater",
+      "black",
+      "board",
+      "woman"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman with long black hair and a black sweater is standing in front of a bulletin board.",
+    "objects": [
+      "long",
+      "hair",
+      "bulletin",
+      "sweater",
+      "black",
+      "board",
+      "woman"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman with long black hair and a black sweater is standing in front of a bulletin board.",
+    "objects": [
+      "long",
+      "hair",
+      "bulletin",
+      "sweater",
+      "black",
+      "board",
+      "woman"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is smiling and appears to be engaged in a conversation with someone off-camera.",
+    "objects": [
+      "someone",
+      "she",
+      "conversation"
+    ],
+    "actions": [
+      "smiling",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is smiling and appears to be engaged in a conversation with someone off-camera.",
+    "objects": [
+      "someone",
+      "she",
+      "conversation"
+    ],
+    "actions": [
+      "smiling",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is smiling and appears to be engaged in a conversation with someone off-camera.",
+    "objects": [
+      "someone",
+      "she",
+      "conversation"
+    ],
+    "actions": [
+      "smiling",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is smiling and appears to be engaged in a conversation with someone off-camera.",
+    "objects": [
+      "someone",
+      "she",
+      "conversation"
+    ],
+    "actions": [
+      "smiling",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "She is holding a small plant, which is a key object in the scene.",
+    "objects": [
+      "small",
+      "object",
+      "key",
+      "plant",
+      "which",
+      "she"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "She is holding a small plant, which is a key object in the scene.",
+    "objects": [
+      "small",
+      "object",
+      "key",
+      "plant",
+      "which",
+      "she"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "She is holding a small plant, which is a key object in the scene.",
+    "objects": [
+      "small",
+      "object",
+      "key",
+      "plant",
+      "which",
+      "she"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "She is holding a small plant, which is a key object in the scene.",
+    "objects": [
+      "small",
+      "object",
+      "key",
+      "plant",
+      "which",
+      "she"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The bulletin board is adorned with several papers and drawings, including one of a tree and another of a flower.",
+    "objects": [
+      "several",
+      "one",
+      "bulletin",
+      "tree",
+      "board",
+      "flower"
+    ],
+    "actions": [
+      "papers",
+      "adorned",
+      "drawings"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The bulletin board is adorned with several papers and drawings, including one of a tree and another of a flower.",
+    "objects": [
+      "several",
+      "one",
+      "bulletin",
+      "tree",
+      "board",
+      "flower"
+    ],
+    "actions": [
+      "papers",
+      "adorned",
+      "drawings"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The bulletin board is adorned with several papers and drawings, including one of a tree and another of a flower.",
+    "objects": [
+      "several",
+      "one",
+      "bulletin",
+      "tree",
+      "board",
+      "flower"
+    ],
+    "actions": [
+      "papers",
+      "adorned",
+      "drawings"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The bulletin board is adorned with several papers and drawings, including one of a tree and another of a flower.",
+    "objects": [
+      "several",
+      "one",
+      "bulletin",
+      "tree",
+      "board",
+      "flower"
+    ],
+    "actions": [
+      "papers",
+      "adorned",
+      "drawings"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The woman's black sweater contrasts with the blue hoodie of another person who is seen in the background, walking away from the bulletin board.",
+    "objects": [
+      "blue",
+      "bulletin",
+      "sweater",
+      "from",
+      "away",
+      "black",
+      "board",
+      "who"
+    ],
+    "actions": [
+      "woman's",
+      "walking",
+      "contrasts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman's black sweater contrasts with the blue hoodie of another person who is seen in the background, walking away from the bulletin board.",
+    "objects": [
+      "blue",
+      "bulletin",
+      "sweater",
+      "from",
+      "away",
+      "black",
+      "board",
+      "who"
+    ],
+    "actions": [
+      "woman's",
+      "walking",
+      "contrasts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman's black sweater contrasts with the blue hoodie of another person who is seen in the background, walking away from the bulletin board.",
+    "objects": [
+      "blue",
+      "bulletin",
+      "sweater",
+      "from",
+      "away",
+      "black",
+      "board",
+      "who"
+    ],
+    "actions": [
+      "woman's",
+      "walking",
+      "contrasts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman's black sweater contrasts with the blue hoodie of another person who is seen in the background, walking away from the bulletin board.",
+    "objects": [
+      "blue",
+      "bulletin",
+      "sweater",
+      "from",
+      "away",
+      "black",
+      "board",
+      "who"
+    ],
+    "actions": [
+      "woman's",
+      "walking",
+      "contrasts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene suggests a casual, friendly atmosphere, with the woman in the black sweater and hoodie being the main focus.",
+    "objects": [
+      "sweater",
+      "friendly",
+      "black",
+      "woman",
+      "atmosphere",
+      "casual",
+      "hoodie",
+      "main"
+    ],
+    "actions": [
+      "being",
+      "suggests",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene suggests a casual, friendly atmosphere, with the woman in the black sweater and hoodie being the main focus.",
+    "objects": [
+      "sweater",
+      "friendly",
+      "black",
+      "woman",
+      "atmosphere",
+      "casual",
+      "hoodie",
+      "main"
+    ],
+    "actions": [
+      "being",
+      "suggests",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene suggests a casual, friendly atmosphere, with the woman in the black sweater and hoodie being the main focus.",
+    "objects": [
+      "sweater",
+      "friendly",
+      "black",
+      "woman",
+      "atmosphere",
+      "casual",
+      "hoodie",
+      "main"
+    ],
+    "actions": [
+      "being",
+      "suggests",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene suggests a casual, friendly atmosphere, with the woman in the black sweater and hoodie being the main focus.",
+    "objects": [
+      "sweater",
+      "friendly",
+      "black",
+      "woman",
+      "atmosphere",
+      "casual",
+      "hoodie",
+      "main"
+    ],
+    "actions": [
+      "being",
+      "suggests",
+      "focus"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The presence of the plant held by the woman in the black sweater adds a touch of nature to the indoor setting.",
+    "objects": [
+      "plant",
+      "sweater",
+      "nature",
+      "presence",
+      "black",
+      "adds",
+      "held",
+      "woman"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The presence of the plant held by the woman in the black sweater adds a touch of nature to the indoor setting.",
+    "objects": [
+      "plant",
+      "sweater",
+      "nature",
+      "presence",
+      "black",
+      "adds",
+      "held",
+      "woman"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The presence of the plant held by the woman in the black sweater adds a touch of nature to the indoor setting.",
+    "objects": [
+      "plant",
+      "sweater",
+      "nature",
+      "presence",
+      "black",
+      "adds",
+      "held",
+      "woman"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The presence of the plant held by the woman in the black sweater adds a touch of nature to the indoor setting.",
+    "objects": [
+      "plant",
+      "sweater",
+      "nature",
+      "presence",
+      "black",
+      "adds",
+      "held",
+      "woman"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The other person in the background, wearing a blue hoodie, is walking away from the bulletin board, perhaps indicating a break from the conversation or a different topic of discussion.",
+    "objects": [
+      "blue",
+      "different",
+      "discussion",
+      "bulletin",
+      "from",
+      "away",
+      "topic",
+      "board"
+    ],
+    "actions": [
+      "indicating",
+      "perhaps",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The other person in the background, wearing a blue hoodie, is walking away from the bulletin board, perhaps indicating a break from the conversation or a different topic of discussion.",
+    "objects": [
+      "blue",
+      "different",
+      "discussion",
+      "bulletin",
+      "from",
+      "away",
+      "topic",
+      "board"
+    ],
+    "actions": [
+      "indicating",
+      "perhaps",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The other person in the background, wearing a blue hoodie, is walking away from the bulletin board, perhaps indicating a break from the conversation or a different topic of discussion.",
+    "objects": [
+      "blue",
+      "different",
+      "discussion",
+      "bulletin",
+      "from",
+      "away",
+      "topic",
+      "board"
+    ],
+    "actions": [
+      "indicating",
+      "perhaps",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The other person in the background, wearing a blue hoodie, is walking away from the bulletin board, perhaps indicating a break from the conversation or a different topic of discussion.",
+    "objects": [
+      "blue",
+      "different",
+      "discussion",
+      "bulletin",
+      "from",
+      "away",
+      "topic",
+      "board"
+    ],
+    "actions": [
+      "indicating",
+      "perhaps",
+      "walking",
+      "wearing"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,535 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered in a courtyard in front of a white brick house with a sloped roof.",
+    "objects": [
+      "white",
+      "brick",
+      "roof",
+      "people",
+      "house",
+      "courtyard",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "sloped"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered in a courtyard in front of a white brick house with a sloped roof.",
+    "objects": [
+      "white",
+      "brick",
+      "roof",
+      "people",
+      "house",
+      "courtyard",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "sloped"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are gathered in a courtyard in front of a white brick house with a sloped roof.",
+    "objects": [
+      "white",
+      "brick",
+      "roof",
+      "people",
+      "house",
+      "courtyard",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "sloped"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The courtyard is bordered by a wooden fence with a metal gate and is surrounded by other houses.",
+    "objects": [
+      "fence",
+      "gate",
+      "metal",
+      "wooden",
+      "other",
+      "courtyard"
+    ],
+    "actions": [
+      "bordered",
+      "surrounded",
+      "houses"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The courtyard is bordered by a wooden fence with a metal gate and is surrounded by other houses.",
+    "objects": [
+      "fence",
+      "gate",
+      "metal",
+      "wooden",
+      "other",
+      "courtyard"
+    ],
+    "actions": [
+      "bordered",
+      "surrounded",
+      "houses"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The courtyard is bordered by a wooden fence with a metal gate and is surrounded by other houses.",
+    "objects": [
+      "fence",
+      "gate",
+      "metal",
+      "wooden",
+      "other",
+      "courtyard"
+    ],
+    "actions": [
+      "bordered",
+      "surrounded",
+      "houses"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "There are two adults and two children present in the scene.",
+    "objects": [
+      "there",
+      "children",
+      "two",
+      "present"
+    ],
+    "actions": [
+      "adults"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "There are two adults and two children present in the scene.",
+    "objects": [
+      "there",
+      "children",
+      "two",
+      "present"
+    ],
+    "actions": [
+      "adults"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "There are two adults and two children present in the scene.",
+    "objects": [
+      "there",
+      "children",
+      "two",
+      "present"
+    ],
+    "actions": [
+      "adults"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The adults are a man and a woman, both dressed in dark clothing.",
+    "objects": [
+      "man",
+      "woman",
+      "dark",
+      "both"
+    ],
+    "actions": [
+      "clothing",
+      "adults",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The adults are a man and a woman, both dressed in dark clothing.",
+    "objects": [
+      "man",
+      "woman",
+      "dark",
+      "both"
+    ],
+    "actions": [
+      "clothing",
+      "adults",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The adults are a man and a woman, both dressed in dark clothing.",
+    "objects": [
+      "man",
+      "woman",
+      "dark",
+      "both"
+    ],
+    "actions": [
+      "clothing",
+      "adults",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is holding a ball, which she throws to a young boy standing on the grass.",
+    "objects": [
+      "which",
+      "grass",
+      "young",
+      "ball",
+      "boy",
+      "woman",
+      "she"
+    ],
+    "actions": [
+      "throws",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is holding a ball, which she throws to a young boy standing on the grass.",
+    "objects": [
+      "which",
+      "grass",
+      "young",
+      "ball",
+      "boy",
+      "woman",
+      "she"
+    ],
+    "actions": [
+      "throws",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is holding a ball, which she throws to a young boy standing on the grass.",
+    "objects": [
+      "which",
+      "grass",
+      "young",
+      "ball",
+      "boy",
+      "woman",
+      "she"
+    ],
+    "actions": [
+      "throws",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The boy is wearing a blue hoodie and is smiling.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "boy"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy is wearing a blue hoodie and is smiling.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "boy"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy is wearing a blue hoodie and is smiling.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "boy"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "Another boy, dressed in a blue jacket, is walking away from the scene.",
+    "objects": [
+      "blue",
+      "away",
+      "jacket",
+      "boy",
+      "from"
+    ],
+    "actions": [
+      "walking",
+      "dressed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "Another boy, dressed in a blue jacket, is walking away from the scene.",
+    "objects": [
+      "blue",
+      "away",
+      "jacket",
+      "boy",
+      "from"
+    ],
+    "actions": [
+      "walking",
+      "dressed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "Another boy, dressed in a blue jacket, is walking away from the scene.",
+    "objects": [
+      "blue",
+      "away",
+      "jacket",
+      "boy",
+      "from"
+    ],
+    "actions": [
+      "walking",
+      "dressed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "A little girl is sitting on the ground, and a little boy is kneeling in the grass, also wearing a blue jacket.",
+    "objects": [
+      "ground",
+      "blue",
+      "boy",
+      "girl",
+      "jacket",
+      "grass",
+      "little"
+    ],
+    "actions": [
+      "kneeling",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "A little girl is sitting on the ground, and a little boy is kneeling in the grass, also wearing a blue jacket.",
+    "objects": [
+      "ground",
+      "blue",
+      "boy",
+      "girl",
+      "jacket",
+      "grass",
+      "little"
+    ],
+    "actions": [
+      "kneeling",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "A little girl is sitting on the ground, and a little boy is kneeling in the grass, also wearing a blue jacket.",
+    "objects": [
+      "ground",
+      "blue",
+      "boy",
+      "girl",
+      "jacket",
+      "grass",
+      "little"
+    ],
+    "actions": [
+      "kneeling",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "A man wearing a black jacket is standing on the sidewalk, watching the woman throw the ball.",
+    "objects": [
+      "man",
+      "jacket",
+      "sidewalk",
+      "ball",
+      "throw",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "watching",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "A man wearing a black jacket is standing on the sidewalk, watching the woman throw the ball.",
+    "objects": [
+      "man",
+      "jacket",
+      "sidewalk",
+      "ball",
+      "throw",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "watching",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "A man wearing a black jacket is standing on the sidewalk, watching the woman throw the ball.",
+    "objects": [
+      "man",
+      "jacket",
+      "sidewalk",
+      "ball",
+      "throw",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "watching",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "A bicycle is parked next to a blue house, and a person is walking by it.",
+    "objects": [
+      "blue",
+      "house",
+      "bicycle"
+    ],
+    "actions": [
+      "walking",
+      "parked"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "A bicycle is parked next to a blue house, and a person is walking by it.",
+    "objects": [
+      "blue",
+      "house",
+      "bicycle"
+    ],
+    "actions": [
+      "walking",
+      "parked"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "A bicycle is parked next to a blue house, and a person is walking by it.",
+    "objects": [
+      "blue",
+      "house",
+      "bicycle"
+    ],
+    "actions": [
+      "walking",
+      "parked"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Additionally, a bicycle is parked on the roadside, and a car is parked in front of the white house.",
+    "objects": [
+      "white",
+      "car",
+      "additionally",
+      "house",
+      "bicycle",
+      "roadside"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Additionally, a bicycle is parked on the roadside, and a car is parked in front of the white house.",
+    "objects": [
+      "white",
+      "car",
+      "additionally",
+      "house",
+      "bicycle",
+      "roadside"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 10
+  }
+]

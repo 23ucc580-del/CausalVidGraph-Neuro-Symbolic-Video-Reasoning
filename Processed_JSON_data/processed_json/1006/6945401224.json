@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a construction site with scaffolding and a large building under construction.",
+    "objects": [
+      "large",
+      "construction",
+      "site",
+      "under"
+    ],
+    "actions": [
+      "building",
+      "scaffolding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a construction site with scaffolding and a large building under construction.",
+    "objects": [
+      "large",
+      "construction",
+      "site",
+      "under"
+    ],
+    "actions": [
+      "building",
+      "scaffolding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a construction site with scaffolding and a large building under construction.",
+    "objects": [
+      "large",
+      "construction",
+      "site",
+      "under"
+    ],
+    "actions": [
+      "building",
+      "scaffolding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video shows a construction site with scaffolding and a large building under construction.",
+    "objects": [
+      "large",
+      "construction",
+      "site",
+      "under"
+    ],
+    "actions": [
+      "building",
+      "scaffolding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the first scene, a man is standing on a scaffolding, wearing a blue hoodie and holding a tool belt.",
+    "objects": [
+      "tool",
+      "blue",
+      "belt",
+      "hoodie",
+      "man",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "scaffolding",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the first scene, a man is standing on a scaffolding, wearing a blue hoodie and holding a tool belt.",
+    "objects": [
+      "tool",
+      "blue",
+      "belt",
+      "hoodie",
+      "man",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "scaffolding",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the first scene, a man is standing on a scaffolding, wearing a blue hoodie and holding a tool belt.",
+    "objects": [
+      "tool",
+      "blue",
+      "belt",
+      "hoodie",
+      "man",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "scaffolding",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the first scene, a man is standing on a scaffolding, wearing a blue hoodie and holding a tool belt.",
+    "objects": [
+      "tool",
+      "blue",
+      "belt",
+      "hoodie",
+      "man",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "scaffolding",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He appears to be a worker and is watching over the construction.",
+    "objects": [
+      "construction",
+      "over",
+      "worker"
+    ],
+    "actions": [
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He appears to be a worker and is watching over the construction.",
+    "objects": [
+      "construction",
+      "over",
+      "worker"
+    ],
+    "actions": [
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He appears to be a worker and is watching over the construction.",
+    "objects": [
+      "construction",
+      "over",
+      "worker"
+    ],
+    "actions": [
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He appears to be a worker and is watching over the construction.",
+    "objects": [
+      "construction",
+      "over",
+      "worker"
+    ],
+    "actions": [
+      "watching"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "In the second scene, a man in a silver car is driving by the site, observing the ongoing work.",
+    "objects": [
+      "work",
+      "silver",
+      "car",
+      "second",
+      "man",
+      "site"
+    ],
+    "actions": [
+      "driving",
+      "observing",
+      "ongoing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "In the second scene, a man in a silver car is driving by the site, observing the ongoing work.",
+    "objects": [
+      "work",
+      "silver",
+      "car",
+      "second",
+      "man",
+      "site"
+    ],
+    "actions": [
+      "driving",
+      "observing",
+      "ongoing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "In the second scene, a man in a silver car is driving by the site, observing the ongoing work.",
+    "objects": [
+      "work",
+      "silver",
+      "car",
+      "second",
+      "man",
+      "site"
+    ],
+    "actions": [
+      "driving",
+      "observing",
+      "ongoing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "In the second scene, a man in a silver car is driving by the site, observing the ongoing work.",
+    "objects": [
+      "work",
+      "silver",
+      "car",
+      "second",
+      "man",
+      "site"
+    ],
+    "actions": [
+      "driving",
+      "observing",
+      "ongoing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The third scene features a man standing on the scaffolding, dressed in a black shirt, holding a tool belt, and looking up at the building.",
+    "objects": [
+      "black",
+      "belt",
+      "shirt",
+      "third",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The third scene features a man standing on the scaffolding, dressed in a black shirt, holding a tool belt, and looking up at the building.",
+    "objects": [
+      "black",
+      "belt",
+      "shirt",
+      "third",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The third scene features a man standing on the scaffolding, dressed in a black shirt, holding a tool belt, and looking up at the building.",
+    "objects": [
+      "black",
+      "belt",
+      "shirt",
+      "third",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The third scene features a man standing on the scaffolding, dressed in a black shirt, holding a tool belt, and looking up at the building.",
+    "objects": [
+      "black",
+      "belt",
+      "shirt",
+      "third",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "He seems to be an inspector or a worker overseeing the construction process.",
+    "objects": [
+      "inspector",
+      "construction",
+      "worker"
+    ],
+    "actions": [
+      "seems",
+      "overseeing",
+      "process"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "He seems to be an inspector or a worker overseeing the construction process.",
+    "objects": [
+      "inspector",
+      "construction",
+      "worker"
+    ],
+    "actions": [
+      "seems",
+      "overseeing",
+      "process"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "He seems to be an inspector or a worker overseeing the construction process.",
+    "objects": [
+      "inspector",
+      "construction",
+      "worker"
+    ],
+    "actions": [
+      "seems",
+      "overseeing",
+      "process"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "He seems to be an inspector or a worker overseeing the construction process.",
+    "objects": [
+      "inspector",
+      "construction",
+      "worker"
+    ],
+    "actions": [
+      "seems",
+      "overseeing",
+      "process"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The fourth scene shows a man in a black shirt, wearing a safety harness and holding a tool belt, standing on the scaffolding, inspecting the building work.",
+    "objects": [
+      "black",
+      "fourth",
+      "belt",
+      "shirt",
+      "work",
+      "safety",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "holding",
+      "building"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The fourth scene shows a man in a black shirt, wearing a safety harness and holding a tool belt, standing on the scaffolding, inspecting the building work.",
+    "objects": [
+      "black",
+      "fourth",
+      "belt",
+      "shirt",
+      "work",
+      "safety",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "holding",
+      "building"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The fourth scene shows a man in a black shirt, wearing a safety harness and holding a tool belt, standing on the scaffolding, inspecting the building work.",
+    "objects": [
+      "black",
+      "fourth",
+      "belt",
+      "shirt",
+      "work",
+      "safety",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "holding",
+      "building"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The fourth scene shows a man in a black shirt, wearing a safety harness and holding a tool belt, standing on the scaffolding, inspecting the building work.",
+    "objects": [
+      "black",
+      "fourth",
+      "belt",
+      "shirt",
+      "work",
+      "safety",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "holding",
+      "building"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The fifth scene features a man in a red shirt, also wearing a safety harness and holding a tool belt, standing on the scaffolding and looking at the building.",
+    "objects": [
+      "belt",
+      "shirt",
+      "fifth",
+      "safety",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The fifth scene features a man in a red shirt, also wearing a safety harness and holding a tool belt, standing on the scaffolding and looking at the building.",
+    "objects": [
+      "belt",
+      "shirt",
+      "fifth",
+      "safety",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The fifth scene features a man in a red shirt, also wearing a safety harness and holding a tool belt, standing on the scaffolding and looking at the building.",
+    "objects": [
+      "belt",
+      "shirt",
+      "fifth",
+      "safety",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The fifth scene features a man in a red shirt, also wearing a safety harness and holding a tool belt, standing on the scaffolding and looking at the building.",
+    "objects": [
+      "belt",
+      "shirt",
+      "fifth",
+      "safety",
+      "man",
+      "tool"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "looking"
+    ],
+    "segment_id": 7
+  }
+]

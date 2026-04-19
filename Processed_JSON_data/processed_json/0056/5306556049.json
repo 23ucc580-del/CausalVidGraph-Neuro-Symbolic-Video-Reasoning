@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of young children is playing on the floor of a room.",
+    "objects": [
+      "floor",
+      "group",
+      "young",
+      "children",
+      "room"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of young children is playing on the floor of a room.",
+    "objects": [
+      "floor",
+      "group",
+      "young",
+      "children",
+      "room"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of young children is playing on the floor of a room.",
+    "objects": [
+      "floor",
+      "group",
+      "young",
+      "children",
+      "room"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of young children is playing on the floor of a room.",
+    "objects": [
+      "floor",
+      "group",
+      "young",
+      "children",
+      "room"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One child, wearing a blue hoodie, is holding a toy while another child, dressed in pink pants, is seated on the floor.",
+    "objects": [
+      "floor",
+      "hoodie",
+      "child",
+      "blue",
+      "while",
+      "one",
+      "pink",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One child, wearing a blue hoodie, is holding a toy while another child, dressed in pink pants, is seated on the floor.",
+    "objects": [
+      "floor",
+      "hoodie",
+      "child",
+      "blue",
+      "while",
+      "one",
+      "pink",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One child, wearing a blue hoodie, is holding a toy while another child, dressed in pink pants, is seated on the floor.",
+    "objects": [
+      "floor",
+      "hoodie",
+      "child",
+      "blue",
+      "while",
+      "one",
+      "pink",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One child, wearing a blue hoodie, is holding a toy while another child, dressed in pink pants, is seated on the floor.",
+    "objects": [
+      "floor",
+      "hoodie",
+      "child",
+      "blue",
+      "while",
+      "one",
+      "pink",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A third child, wearing a yellow shirt, is playing with a toy.",
+    "objects": [
+      "child",
+      "yellow",
+      "shirt",
+      "toy",
+      "third"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A third child, wearing a yellow shirt, is playing with a toy.",
+    "objects": [
+      "child",
+      "yellow",
+      "shirt",
+      "toy",
+      "third"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A third child, wearing a yellow shirt, is playing with a toy.",
+    "objects": [
+      "child",
+      "yellow",
+      "shirt",
+      "toy",
+      "third"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A third child, wearing a yellow shirt, is playing with a toy.",
+    "objects": [
+      "child",
+      "yellow",
+      "shirt",
+      "toy",
+      "third"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A child in a striped shirt is standing next to the first child, holding a toy.",
+    "objects": [
+      "first",
+      "child",
+      "toy",
+      "shirt"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A child in a striped shirt is standing next to the first child, holding a toy.",
+    "objects": [
+      "first",
+      "child",
+      "toy",
+      "shirt"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A child in a striped shirt is standing next to the first child, holding a toy.",
+    "objects": [
+      "first",
+      "child",
+      "toy",
+      "shirt"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A child in a striped shirt is standing next to the first child, holding a toy.",
+    "objects": [
+      "first",
+      "child",
+      "toy",
+      "shirt"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A child in a black shirt is standing near a black and white toy, and another child in a blue shirt is sitting on the floor.",
+    "objects": [
+      "floor",
+      "white",
+      "child",
+      "blue",
+      "shirt",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A child in a black shirt is standing near a black and white toy, and another child in a blue shirt is sitting on the floor.",
+    "objects": [
+      "floor",
+      "white",
+      "child",
+      "blue",
+      "shirt",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A child in a black shirt is standing near a black and white toy, and another child in a blue shirt is sitting on the floor.",
+    "objects": [
+      "floor",
+      "white",
+      "child",
+      "blue",
+      "shirt",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A child in a black shirt is standing near a black and white toy, and another child in a blue shirt is sitting on the floor.",
+    "objects": [
+      "floor",
+      "white",
+      "child",
+      "blue",
+      "shirt",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Additionally, a child in a striped shirt is sitting on the floor and holding a toy, and another child in a black shirt is standing next to the second child.",
+    "objects": [
+      "floor",
+      "child",
+      "additionally",
+      "second",
+      "shirt",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Additionally, a child in a striped shirt is sitting on the floor and holding a toy, and another child in a black shirt is standing next to the second child.",
+    "objects": [
+      "floor",
+      "child",
+      "additionally",
+      "second",
+      "shirt",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Additionally, a child in a striped shirt is sitting on the floor and holding a toy, and another child in a black shirt is standing next to the second child.",
+    "objects": [
+      "floor",
+      "child",
+      "additionally",
+      "second",
+      "shirt",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Additionally, a child in a striped shirt is sitting on the floor and holding a toy, and another child in a black shirt is standing next to the second child.",
+    "objects": [
+      "floor",
+      "child",
+      "additionally",
+      "second",
+      "shirt",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There is also a child in a yellow shirt standing next to the third child, holding a toy, and another child in a striped shirt is standing near a toy.",
+    "objects": [
+      "child",
+      "toy",
+      "yellow",
+      "shirt",
+      "there",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There is also a child in a yellow shirt standing next to the third child, holding a toy, and another child in a striped shirt is standing near a toy.",
+    "objects": [
+      "child",
+      "toy",
+      "yellow",
+      "shirt",
+      "there",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There is also a child in a yellow shirt standing next to the third child, holding a toy, and another child in a striped shirt is standing near a toy.",
+    "objects": [
+      "child",
+      "toy",
+      "yellow",
+      "shirt",
+      "there",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There is also a child in a yellow shirt standing next to the third child, holding a toy, and another child in a striped shirt is standing near a toy.",
+    "objects": [
+      "child",
+      "toy",
+      "yellow",
+      "shirt",
+      "there",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "striped"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "Lastly, a child in a striped shirt is sitting on the floor and holding a toy.",
+    "objects": [
+      "floor",
+      "lastly",
+      "child",
+      "shirt",
+      "toy"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "Lastly, a child in a striped shirt is sitting on the floor and holding a toy.",
+    "objects": [
+      "floor",
+      "lastly",
+      "child",
+      "shirt",
+      "toy"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "Lastly, a child in a striped shirt is sitting on the floor and holding a toy.",
+    "objects": [
+      "floor",
+      "lastly",
+      "child",
+      "shirt",
+      "toy"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "Lastly, a child in a striped shirt is sitting on the floor and holding a toy.",
+    "objects": [
+      "floor",
+      "lastly",
+      "child",
+      "shirt",
+      "toy"
+    ],
+    "actions": [
+      "striped",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 7
+  }
+]

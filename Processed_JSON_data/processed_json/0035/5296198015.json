@@ -1,0 +1,555 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video depicts a wedding ceremony taking place in a church.",
+    "objects": [
+      "church",
+      "this",
+      "ceremony",
+      "place"
+    ],
+    "actions": [
+      "wedding",
+      "taking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video depicts a wedding ceremony taking place in a church.",
+    "objects": [
+      "church",
+      "this",
+      "ceremony",
+      "place"
+    ],
+    "actions": [
+      "wedding",
+      "taking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video depicts a wedding ceremony taking place in a church.",
+    "objects": [
+      "church",
+      "this",
+      "ceremony",
+      "place"
+    ],
+    "actions": [
+      "wedding",
+      "taking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a man and a woman, both dressed in formal attire, walking down an aisle.",
+    "objects": [
+      "formal",
+      "both",
+      "aisle",
+      "man",
+      "attire",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "walking",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with a man and a woman, both dressed in formal attire, walking down an aisle.",
+    "objects": [
+      "formal",
+      "both",
+      "aisle",
+      "man",
+      "attire",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "walking",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with a man and a woman, both dressed in formal attire, walking down an aisle.",
+    "objects": [
+      "formal",
+      "both",
+      "aisle",
+      "man",
+      "attire",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "walking",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is holding a bouquet of flowers and wearing a white strapless dress, while the man is wearing a tuxedo and a boutonniere.",
+    "objects": [
+      "white",
+      "dress",
+      "boutonniere",
+      "man",
+      "tuxedo",
+      "woman",
+      "bouquet",
+      "while"
+    ],
+    "actions": [
+      "strapless",
+      "flowers",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is holding a bouquet of flowers and wearing a white strapless dress, while the man is wearing a tuxedo and a boutonniere.",
+    "objects": [
+      "white",
+      "dress",
+      "boutonniere",
+      "man",
+      "tuxedo",
+      "woman",
+      "bouquet",
+      "while"
+    ],
+    "actions": [
+      "strapless",
+      "flowers",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman is holding a bouquet of flowers and wearing a white strapless dress, while the man is wearing a tuxedo and a boutonniere.",
+    "objects": [
+      "white",
+      "dress",
+      "boutonniere",
+      "man",
+      "tuxedo",
+      "woman",
+      "bouquet",
+      "while"
+    ],
+    "actions": [
+      "strapless",
+      "flowers",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are walking towards the altar, passing by pews and other guests.",
+    "objects": [
+      "pews",
+      "they",
+      "altar",
+      "other"
+    ],
+    "actions": [
+      "guests",
+      "towards",
+      "passing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They are walking towards the altar, passing by pews and other guests.",
+    "objects": [
+      "pews",
+      "they",
+      "altar",
+      "other"
+    ],
+    "actions": [
+      "guests",
+      "towards",
+      "passing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They are walking towards the altar, passing by pews and other guests.",
+    "objects": [
+      "pews",
+      "they",
+      "altar",
+      "other"
+    ],
+    "actions": [
+      "guests",
+      "towards",
+      "passing",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "As they approach the altar, the man takes the woman's hand and leads her forward.",
+    "objects": [
+      "her",
+      "forward",
+      "approach",
+      "man",
+      "hand",
+      "they",
+      "altar"
+    ],
+    "actions": [
+      "takes",
+      "woman's",
+      "leads"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "As they approach the altar, the man takes the woman's hand and leads her forward.",
+    "objects": [
+      "her",
+      "forward",
+      "approach",
+      "man",
+      "hand",
+      "they",
+      "altar"
+    ],
+    "actions": [
+      "takes",
+      "woman's",
+      "leads"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "As they approach the altar, the man takes the woman's hand and leads her forward.",
+    "objects": [
+      "her",
+      "forward",
+      "approach",
+      "man",
+      "hand",
+      "they",
+      "altar"
+    ],
+    "actions": [
+      "takes",
+      "woman's",
+      "leads"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The man then kneels and presents the bouquet to the woman.",
+    "objects": [
+      "bouquet",
+      "then",
+      "woman",
+      "man"
+    ],
+    "actions": [
+      "presents",
+      "kneels"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The man then kneels and presents the bouquet to the woman.",
+    "objects": [
+      "bouquet",
+      "then",
+      "woman",
+      "man"
+    ],
+    "actions": [
+      "presents",
+      "kneels"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The man then kneels and presents the bouquet to the woman.",
+    "objects": [
+      "bouquet",
+      "then",
+      "woman",
+      "man"
+    ],
+    "actions": [
+      "presents",
+      "kneels"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman accepts it, smiles, and they both stand up.",
+    "objects": [
+      "they",
+      "both",
+      "stand",
+      "woman"
+    ],
+    "actions": [
+      "accepts",
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman accepts it, smiles, and they both stand up.",
+    "objects": [
+      "they",
+      "both",
+      "stand",
+      "woman"
+    ],
+    "actions": [
+      "accepts",
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman accepts it, smiles, and they both stand up.",
+    "objects": [
+      "they",
+      "both",
+      "stand",
+      "woman"
+    ],
+    "actions": [
+      "accepts",
+      "smiles"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The video then shows the couple walking down the a hallway together, still holding hands.",
+    "objects": [
+      "together",
+      "then",
+      "still",
+      "couple",
+      "hallway"
+    ],
+    "actions": [
+      "hands",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The video then shows the couple walking down the a hallway together, still holding hands.",
+    "objects": [
+      "together",
+      "then",
+      "still",
+      "couple",
+      "hallway"
+    ],
+    "actions": [
+      "hands",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The video then shows the couple walking down the a hallway together, still holding hands.",
+    "objects": [
+      "together",
+      "then",
+      "still",
+      "couple",
+      "hallway"
+    ],
+    "actions": [
+      "hands",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is wearing a tuxedo and a boutonniere, and the woman is in her wedding dress, with her hair styled in an updo.",
+    "objects": [
+      "her",
+      "hair",
+      "updo",
+      "dress",
+      "boutonniere",
+      "tuxedo",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "wedding",
+      "styled",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is wearing a tuxedo and a boutonniere, and the woman is in her wedding dress, with her hair styled in an updo.",
+    "objects": [
+      "her",
+      "hair",
+      "updo",
+      "dress",
+      "boutonniere",
+      "tuxedo",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "wedding",
+      "styled",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is wearing a tuxedo and a boutonniere, and the woman is in her wedding dress, with her hair styled in an updo.",
+    "objects": [
+      "her",
+      "hair",
+      "updo",
+      "dress",
+      "boutonniere",
+      "tuxedo",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "wedding",
+      "styled",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "They are walking past a door and are now in a hallway.",
+    "objects": [
+      "door",
+      "now",
+      "past",
+      "hallway",
+      "they"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "They are walking past a door and are now in a hallway.",
+    "objects": [
+      "door",
+      "now",
+      "past",
+      "hallway",
+      "they"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "They are walking past a door and are now in a hallway.",
+    "objects": [
+      "door",
+      "now",
+      "past",
+      "hallway",
+      "they"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The couple then returns to the altar, and the woman is seen holding a bouquet of flowers.",
+    "objects": [
+      "then",
+      "couple",
+      "woman",
+      "bouquet",
+      "altar"
+    ],
+    "actions": [
+      "returns",
+      "holding",
+      "flowers"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The couple then returns to the altar, and the woman is seen holding a bouquet of flowers.",
+    "objects": [
+      "then",
+      "couple",
+      "woman",
+      "bouquet",
+      "altar"
+    ],
+    "actions": [
+      "returns",
+      "holding",
+      "flowers"
+    ],
+    "segment_id": 10
+  }
+]

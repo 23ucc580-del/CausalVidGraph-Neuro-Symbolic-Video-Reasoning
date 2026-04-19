@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a little girl with blonde hair sitting at a dining table.",
+    "objects": [
+      "hair",
+      "blonde",
+      "table",
+      "little",
+      "see",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a little girl with blonde hair sitting at a dining table.",
+    "objects": [
+      "hair",
+      "blonde",
+      "table",
+      "little",
+      "see",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a little girl with blonde hair sitting at a dining table.",
+    "objects": [
+      "hair",
+      "blonde",
+      "table",
+      "little",
+      "see",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a little girl with blonde hair sitting at a dining table.",
+    "objects": [
+      "hair",
+      "blonde",
+      "table",
+      "little",
+      "see",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a blue hoodie and appears to be upset.",
+    "objects": [
+      "blue",
+      "upset",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a blue hoodie and appears to be upset.",
+    "objects": [
+      "blue",
+      "upset",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is wearing a blue hoodie and appears to be upset.",
+    "objects": [
+      "blue",
+      "upset",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is wearing a blue hoodie and appears to be upset.",
+    "objects": [
+      "blue",
+      "upset",
+      "hoodie",
+      "she"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "She is holding a spoon, which she is using to eat a bowl of food.",
+    "objects": [
+      "eat",
+      "she",
+      "bowl",
+      "which",
+      "spoon",
+      "food"
+    ],
+    "actions": [
+      "using",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "She is holding a spoon, which she is using to eat a bowl of food.",
+    "objects": [
+      "eat",
+      "she",
+      "bowl",
+      "which",
+      "spoon",
+      "food"
+    ],
+    "actions": [
+      "using",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "She is holding a spoon, which she is using to eat a bowl of food.",
+    "objects": [
+      "eat",
+      "she",
+      "bowl",
+      "which",
+      "spoon",
+      "food"
+    ],
+    "actions": [
+      "using",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "She is holding a spoon, which she is using to eat a bowl of food.",
+    "objects": [
+      "eat",
+      "she",
+      "bowl",
+      "which",
+      "spoon",
+      "food"
+    ],
+    "actions": [
+      "using",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "There are other people in the video as well, including a person wearing a black shirt who is sitting at the table with a red chair, another person wearing a blue shirt who is sitting in a red chair, and another person wearing a black shirt who is sitting in a red chair.",
+    "objects": [
+      "other",
+      "there",
+      "people",
+      "table",
+      "black",
+      "blue",
+      "well",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "There are other people in the video as well, including a person wearing a black shirt who is sitting at the table with a red chair, another person wearing a blue shirt who is sitting in a red chair, and another person wearing a black shirt who is sitting in a red chair.",
+    "objects": [
+      "other",
+      "there",
+      "people",
+      "table",
+      "black",
+      "blue",
+      "well",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "There are other people in the video as well, including a person wearing a black shirt who is sitting at the table with a red chair, another person wearing a blue shirt who is sitting in a red chair, and another person wearing a black shirt who is sitting in a red chair.",
+    "objects": [
+      "other",
+      "there",
+      "people",
+      "table",
+      "black",
+      "blue",
+      "well",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "There are other people in the video as well, including a person wearing a black shirt who is sitting at the table with a red chair, another person wearing a blue shirt who is sitting in a red chair, and another person wearing a black shirt who is sitting in a red chair.",
+    "objects": [
+      "other",
+      "there",
+      "people",
+      "table",
+      "black",
+      "blue",
+      "well",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The girl with blonde hair is pointing at something while looking at the camera, and there is also a person sitting in a red chair who is pointing at something off-camera.",
+    "objects": [
+      "hair",
+      "blonde",
+      "there",
+      "while",
+      "who",
+      "girl",
+      "chair"
+    ],
+    "actions": [
+      "pointing",
+      "red",
+      "something",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The girl with blonde hair is pointing at something while looking at the camera, and there is also a person sitting in a red chair who is pointing at something off-camera.",
+    "objects": [
+      "hair",
+      "blonde",
+      "there",
+      "while",
+      "who",
+      "girl",
+      "chair"
+    ],
+    "actions": [
+      "pointing",
+      "red",
+      "something",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The girl with blonde hair is pointing at something while looking at the camera, and there is also a person sitting in a red chair who is pointing at something off-camera.",
+    "objects": [
+      "hair",
+      "blonde",
+      "there",
+      "while",
+      "who",
+      "girl",
+      "chair"
+    ],
+    "actions": [
+      "pointing",
+      "red",
+      "something",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The girl with blonde hair is pointing at something while looking at the camera, and there is also a person sitting in a red chair who is pointing at something off-camera.",
+    "objects": [
+      "hair",
+      "blonde",
+      "there",
+      "while",
+      "who",
+      "girl",
+      "chair"
+    ],
+    "actions": [
+      "pointing",
+      "red",
+      "something",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a person in a red hoodie who is sitting in a red chair, and another person in a black shirt who is standing in the kitchen.",
+    "objects": [
+      "there",
+      "black",
+      "shirt",
+      "who",
+      "hoodie",
+      "kitchen",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a person in a red hoodie who is sitting in a red chair, and another person in a black shirt who is standing in the kitchen.",
+    "objects": [
+      "there",
+      "black",
+      "shirt",
+      "who",
+      "hoodie",
+      "kitchen",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "There is a person in a red hoodie who is sitting in a red chair, and another person in a black shirt who is standing in the kitchen.",
+    "objects": [
+      "there",
+      "black",
+      "shirt",
+      "who",
+      "hoodie",
+      "kitchen",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "There is a person in a red hoodie who is sitting in a red chair, and another person in a black shirt who is standing in the kitchen.",
+    "objects": [
+      "there",
+      "black",
+      "shirt",
+      "who",
+      "hoodie",
+      "kitchen",
+      "chair"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "Additionally, there is a person in a black shirt who is standing in the kitchen.",
+    "objects": [
+      "there",
+      "black",
+      "shirt",
+      "who",
+      "additionally",
+      "kitchen"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "Additionally, there is a person in a black shirt who is standing in the kitchen.",
+    "objects": [
+      "there",
+      "black",
+      "shirt",
+      "who",
+      "additionally",
+      "kitchen"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "Additionally, there is a person in a black shirt who is standing in the kitchen.",
+    "objects": [
+      "there",
+      "black",
+      "shirt",
+      "who",
+      "additionally",
+      "kitchen"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "Additionally, there is a person in a black shirt who is standing in the kitchen.",
+    "objects": [
+      "there",
+      "black",
+      "shirt",
+      "who",
+      "additionally",
+      "kitchen"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "Lastly, a person wearing a blue shirt is standing in the kitchen.",
+    "objects": [
+      "blue",
+      "kitchen",
+      "lastly",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "Lastly, a person wearing a blue shirt is standing in the kitchen.",
+    "objects": [
+      "blue",
+      "kitchen",
+      "lastly",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "Lastly, a person wearing a blue shirt is standing in the kitchen.",
+    "objects": [
+      "blue",
+      "kitchen",
+      "lastly",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "Lastly, a person wearing a blue shirt is standing in the kitchen.",
+    "objects": [
+      "blue",
+      "kitchen",
+      "lastly",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a close-up shot of a piano keyboard, then transitions to a person wearing a blue hoodie playing the instrument.",
+    "objects": [
+      "keyboard",
+      "blue",
+      "instrument",
+      "hoodie",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "transitions",
+      "wearing",
+      "starts",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a close-up shot of a piano keyboard, then transitions to a person wearing a blue hoodie playing the instrument.",
+    "objects": [
+      "keyboard",
+      "blue",
+      "instrument",
+      "hoodie",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "transitions",
+      "wearing",
+      "starts",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The camera then pans to the right, revealing a person in a brown shirt playing the piano alongside them.",
+    "objects": [
+      "pans",
+      "alongside",
+      "shirt",
+      "them",
+      "brown",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "revealing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The camera then pans to the right, revealing a person in a brown shirt playing the piano alongside them.",
+    "objects": [
+      "pans",
+      "alongside",
+      "shirt",
+      "them",
+      "brown",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "revealing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene then changes to the left, where we see a person wearing a brown shirt and a black jacket playing the piano.",
+    "objects": [
+      "where",
+      "black",
+      "jacket",
+      "shirt",
+      "see",
+      "brown",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "changes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene then changes to the left, where we see a person wearing a brown shirt and a black jacket playing the piano.",
+    "objects": [
+      "where",
+      "black",
+      "jacket",
+      "shirt",
+      "see",
+      "brown",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "changes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans to the right again, revealing a person in a brown shirt and a white shirt playing the piano.",
+    "objects": [
+      "white",
+      "pans",
+      "shirt",
+      "brown",
+      "then",
+      "piano",
+      "again"
+    ],
+    "actions": [
+      "playing",
+      "revealing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then pans to the right again, revealing a person in a brown shirt and a white shirt playing the piano.",
+    "objects": [
+      "white",
+      "pans",
+      "shirt",
+      "brown",
+      "then",
+      "piano",
+      "again"
+    ],
+    "actions": [
+      "playing",
+      "revealing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then pans to the left, and we see a person wearing a white shirt playing the piano.",
+    "objects": [
+      "white",
+      "pans",
+      "shirt",
+      "see",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then pans to the left, and we see a person wearing a white shirt playing the piano.",
+    "objects": [
+      "white",
+      "pans",
+      "shirt",
+      "see",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene then changes to the right, showing a person in a white shirt and a black jacket playing the piano.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "changes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene then changes to the right, showing a person in a white shirt and a black jacket playing the piano.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "shirt",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "changes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Finally, the camera pans back to the left, revealing a person in a white shirt and a black jacket playing the piano.",
+    "objects": [
+      "white",
+      "finally",
+      "black",
+      "pans",
+      "jacket",
+      "shirt",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "revealing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Finally, the camera pans back to the left, revealing a person in a white shirt and a black jacket playing the piano.",
+    "objects": [
+      "white",
+      "finally",
+      "black",
+      "pans",
+      "jacket",
+      "shirt",
+      "piano"
+    ],
+    "actions": [
+      "playing",
+      "revealing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "Throughout the video, we see a person in a blue hoodie playing the piano in the foreground.",
+    "objects": [
+      "blue",
+      "throughout",
+      "see",
+      "hoodie",
+      "piano"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "Throughout the video, we see a person in a blue hoodie playing the piano in the foreground.",
+    "objects": [
+      "blue",
+      "throughout",
+      "see",
+      "hoodie",
+      "piano"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera zooms in on the keyboard, then pans to the right to show a person in a brown shirt playing the piano.",
+    "objects": [
+      "show",
+      "keyboard",
+      "pans",
+      "shirt",
+      "brown",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "zooms",
+      "playing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera zooms in on the keyboard, then pans to the right to show a person in a brown shirt playing the piano.",
+    "objects": [
+      "show",
+      "keyboard",
+      "pans",
+      "shirt",
+      "brown",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "zooms",
+      "playing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then zooms in on the keyboard again and pans to the right to show a person in a brown shirt and a white shirt playing the piano.",
+    "objects": [
+      "show",
+      "white",
+      "keyboard",
+      "pans",
+      "shirt",
+      "brown",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "zooms",
+      "playing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then zooms in on the keyboard again and pans to the right to show a person in a brown shirt and a white shirt playing the piano.",
+    "objects": [
+      "show",
+      "white",
+      "keyboard",
+      "pans",
+      "shirt",
+      "brown",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "zooms",
+      "playing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then pans back to the left to show a person in a white shirt playing the piano.",
+    "objects": [
+      "show",
+      "white",
+      "pans",
+      "shirt",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then pans back to the left to show a person in a white shirt playing the piano.",
+    "objects": [
+      "show",
+      "white",
+      "pans",
+      "shirt",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera zooms in on the keyboard again and pans to the right to show a person in a white shirt and a black jacket playing the piano.",
+    "objects": [
+      "show",
+      "white",
+      "keyboard",
+      "pans",
+      "black",
+      "jacket",
+      "shirt",
+      "piano"
+    ],
+    "actions": [
+      "zooms",
+      "playing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera zooms in on the keyboard again and pans to the right to show a person in a white shirt and a black jacket playing the piano.",
+    "objects": [
+      "show",
+      "white",
+      "keyboard",
+      "pans",
+      "black",
+      "jacket",
+      "shirt",
+      "piano"
+    ],
+    "actions": [
+      "zooms",
+      "playing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then pans back to the left to show a person in a white shirt and a black jacket playing the piano.",
+    "objects": [
+      "show",
+      "white",
+      "pans",
+      "black",
+      "jacket",
+      "shirt",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then pans back to the left to show a person in a white shirt and a black jacket playing the piano.",
+    "objects": [
+      "show",
+      "white",
+      "pans",
+      "black",
+      "jacket",
+      "shirt",
+      "then",
+      "piano"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The video captures the essence of the players' focus and dedication to the instrument, with their hands moving gracefully across the keys.",
+    "objects": [
+      "their",
+      "across",
+      "instrument",
+      "dedication",
+      "keys",
+      "gracefully",
+      "essence"
+    ],
+    "actions": [
+      "hands",
+      "moving",
+      "focus"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The video captures the essence of the players' focus and dedication to the instrument, with their hands moving gracefully across the keys.",
+    "objects": [
+      "their",
+      "across",
+      "instrument",
+      "dedication",
+      "keys",
+      "gracefully",
+      "essence"
+    ],
+    "actions": [
+      "hands",
+      "moving",
+      "focus"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The background is dimly lit, and the focus is solely on the piano players, highlighting the beauty of their music.",
+    "objects": [
+      "their",
+      "solely",
+      "lit",
+      "dimly",
+      "beauty",
+      "music",
+      "piano"
+    ],
+    "actions": [
+      "players",
+      "focus",
+      "highlighting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The background is dimly lit, and the focus is solely on the piano players, highlighting the beauty of their music.",
+    "objects": [
+      "their",
+      "solely",
+      "lit",
+      "dimly",
+      "beauty",
+      "music",
+      "piano"
+    ],
+    "actions": [
+      "players",
+      "focus",
+      "highlighting"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The video conveys a sense of harmony and unity through the shared passion for playing the instrument.",
+    "objects": [
+      "unity",
+      "passion",
+      "instrument",
+      "sense",
+      "through",
+      "harmony"
+    ],
+    "actions": [
+      "playing",
+      "conveys",
+      "shared"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The video conveys a sense of harmony and unity through the shared passion for playing the instrument.",
+    "objects": [
+      "unity",
+      "passion",
+      "instrument",
+      "sense",
+      "through",
+      "harmony"
+    ],
+    "actions": [
+      "playing",
+      "conveys",
+      "shared"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are four people standing outside on a bricked walkway.",
+    "objects": [
+      "walkway",
+      "there",
+      "people",
+      "outside",
+      "four"
+    ],
+    "actions": [
+      "bricked",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are four people standing outside on a bricked walkway.",
+    "objects": [
+      "walkway",
+      "there",
+      "people",
+      "outside",
+      "four"
+    ],
+    "actions": [
+      "bricked",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are four people standing outside on a bricked walkway.",
+    "objects": [
+      "walkway",
+      "there",
+      "people",
+      "outside",
+      "four"
+    ],
+    "actions": [
+      "bricked",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The setting appears to be a school or college campus, with buildings visible in the background.",
+    "objects": [
+      "college",
+      "school"
+    ],
+    "actions": [
+      "buildings",
+      "campus",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The setting appears to be a school or college campus, with buildings visible in the background.",
+    "objects": [
+      "college",
+      "school"
+    ],
+    "actions": [
+      "buildings",
+      "campus",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The setting appears to be a school or college campus, with buildings visible in the background.",
+    "objects": [
+      "college",
+      "school"
+    ],
+    "actions": [
+      "buildings",
+      "campus",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The first person is wearing a gray jacket and a black beanie, holding a red backpack.",
+    "objects": [
+      "jacket",
+      "black",
+      "gray",
+      "beanie",
+      "first",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The first person is wearing a gray jacket and a black beanie, holding a red backpack.",
+    "objects": [
+      "jacket",
+      "black",
+      "gray",
+      "beanie",
+      "first",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The first person is wearing a gray jacket and a black beanie, holding a red backpack.",
+    "objects": [
+      "jacket",
+      "black",
+      "gray",
+      "beanie",
+      "first",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are facing away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "facing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They are facing away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "facing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They are facing away from the camera.",
+    "objects": [
+      "they",
+      "from",
+      "away"
+    ],
+    "actions": [
+      "facing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The second person is wearing a black jacket, a white shirt, and a blue beanie, and they are also facing away from the camera.",
+    "objects": [
+      "they",
+      "white",
+      "away",
+      "jacket",
+      "black",
+      "blue",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "wearing",
+      "facing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The second person is wearing a black jacket, a white shirt, and a blue beanie, and they are also facing away from the camera.",
+    "objects": [
+      "they",
+      "white",
+      "away",
+      "jacket",
+      "black",
+      "blue",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "wearing",
+      "facing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The second person is wearing a black jacket, a white shirt, and a blue beanie, and they are also facing away from the camera.",
+    "objects": [
+      "they",
+      "white",
+      "away",
+      "jacket",
+      "black",
+      "blue",
+      "shirt",
+      "from"
+    ],
+    "actions": [
+      "wearing",
+      "facing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The third person is wearing a gray jacket, a black hat, and holding a red backpack.",
+    "objects": [
+      "jacket",
+      "black",
+      "gray",
+      "hat",
+      "third",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The third person is wearing a gray jacket, a black hat, and holding a red backpack.",
+    "objects": [
+      "jacket",
+      "black",
+      "gray",
+      "hat",
+      "third",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The third person is wearing a gray jacket, a black hat, and holding a red backpack.",
+    "objects": [
+      "jacket",
+      "black",
+      "gray",
+      "hat",
+      "third",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "They are facing the camera.",
+    "objects": [
+      "they"
+    ],
+    "actions": [
+      "facing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "They are facing the camera.",
+    "objects": [
+      "they"
+    ],
+    "actions": [
+      "facing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "They are facing the camera.",
+    "objects": [
+      "they"
+    ],
+    "actions": [
+      "facing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The fourth person is wearing a black jacket, a white shirt, and a black beanie, and is also facing the camera.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "fourth",
+      "shirt",
+      "beanie"
+    ],
+    "actions": [
+      "wearing",
+      "facing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The fourth person is wearing a black jacket, a white shirt, and a black beanie, and is also facing the camera.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "fourth",
+      "shirt",
+      "beanie"
+    ],
+    "actions": [
+      "wearing",
+      "facing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The fourth person is wearing a black jacket, a white shirt, and a black beanie, and is also facing the camera.",
+    "objects": [
+      "white",
+      "black",
+      "jacket",
+      "fourth",
+      "shirt",
+      "beanie"
+    ],
+    "actions": [
+      "wearing",
+      "facing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The first person is wearing glasses and has a serious expression, while the second person is smiling.",
+    "objects": [
+      "while",
+      "has",
+      "second",
+      "first",
+      "expression"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "serious",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The first person is wearing glasses and has a serious expression, while the second person is smiling.",
+    "objects": [
+      "while",
+      "has",
+      "second",
+      "first",
+      "expression"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "serious",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The first person is wearing glasses and has a serious expression, while the second person is smiling.",
+    "objects": [
+      "while",
+      "has",
+      "second",
+      "first",
+      "expression"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "serious",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The third person is wearing a backpack and the fourth person is wearing a beanie and holding a bag.",
+    "objects": [
+      "fourth",
+      "bag",
+      "beanie",
+      "third",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The third person is wearing a backpack and the fourth person is wearing a beanie and holding a bag.",
+    "objects": [
+      "fourth",
+      "bag",
+      "beanie",
+      "third",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The third person is wearing a backpack and the fourth person is wearing a beanie and holding a bag.",
+    "objects": [
+      "fourth",
+      "bag",
+      "beanie",
+      "third",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures a casual moment on a school or college campus, with the group of people standing and interacting with each other.",
+    "objects": [
+      "college",
+      "each",
+      "people",
+      "other",
+      "casual",
+      "moment",
+      "school",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "interacting",
+      "campus"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures a casual moment on a school or college campus, with the group of people standing and interacting with each other.",
+    "objects": [
+      "college",
+      "each",
+      "people",
+      "other",
+      "casual",
+      "moment",
+      "school",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "interacting",
+      "campus"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,532 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a young girl, dressed in a pink hoodie and blue shorts, standing in a room.",
+    "objects": [
+      "room",
+      "pink",
+      "young",
+      "blue",
+      "hoodie",
+      "girl"
+    ],
+    "actions": [
+      "opens",
+      "standing",
+      "dressed",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a young girl, dressed in a pink hoodie and blue shorts, standing in a room.",
+    "objects": [
+      "room",
+      "pink",
+      "young",
+      "blue",
+      "hoodie",
+      "girl"
+    ],
+    "actions": [
+      "opens",
+      "standing",
+      "dressed",
+      "shorts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "She is holding a plastic bag in her hand and appears to be playing with a toy.",
+    "objects": [
+      "plastic",
+      "she",
+      "bag",
+      "her",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "She is holding a plastic bag in her hand and appears to be playing with a toy.",
+    "objects": [
+      "plastic",
+      "she",
+      "bag",
+      "her",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is filled with various objects, including a drum set, a chair, and a shelf.",
+    "objects": [
+      "drum",
+      "shelf",
+      "set",
+      "room",
+      "chair"
+    ],
+    "actions": [
+      "filled",
+      "objects"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is filled with various objects, including a drum set, a chair, and a shelf.",
+    "objects": [
+      "drum",
+      "shelf",
+      "set",
+      "room",
+      "chair"
+    ],
+    "actions": [
+      "filled",
+      "objects"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "In the background, a woman and a baby are playing with a toy, while a boy, wearing a green shirt, is standing in front of the same shelf.",
+    "objects": [
+      "boy",
+      "woman",
+      "while",
+      "same",
+      "green",
+      "shirt",
+      "shelf",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "In the background, a woman and a baby are playing with a toy, while a boy, wearing a green shirt, is standing in front of the same shelf.",
+    "objects": [
+      "boy",
+      "woman",
+      "while",
+      "same",
+      "green",
+      "shirt",
+      "shelf",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene then shifts to a different room where two girls are playing with toys.",
+    "objects": [
+      "two",
+      "where",
+      "toys",
+      "different",
+      "room",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "playing",
+      "girls"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene then shifts to a different room where two girls are playing with toys.",
+    "objects": [
+      "two",
+      "where",
+      "toys",
+      "different",
+      "room",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "playing",
+      "girls"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "One is wearing a pink hoodie and holding a toy, while the other is wearing a green shirt and holding a plastic bag.",
+    "objects": [
+      "one",
+      "plastic",
+      "other",
+      "pink",
+      "while",
+      "green",
+      "shirt",
+      "bag"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "One is wearing a pink hoodie and holding a toy, while the other is wearing a green shirt and holding a plastic bag.",
+    "objects": [
+      "one",
+      "plastic",
+      "other",
+      "pink",
+      "while",
+      "green",
+      "shirt",
+      "bag"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The setting is a living room, with a drum set in the background and a baby playing with a toy nearby.",
+    "objects": [
+      "drum",
+      "toy",
+      "nearby",
+      "set",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "playing",
+      "living",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The setting is a living room, with a drum set in the background and a baby playing with a toy nearby.",
+    "objects": [
+      "drum",
+      "toy",
+      "nearby",
+      "set",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "playing",
+      "living",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The video then cuts to a young girl, wearing a pink dress, standing in a room.",
+    "objects": [
+      "room",
+      "cuts",
+      "pink",
+      "young",
+      "dress",
+      "girl",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The video then cuts to a young girl, wearing a pink dress, standing in a room.",
+    "objects": [
+      "room",
+      "cuts",
+      "pink",
+      "young",
+      "dress",
+      "girl",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "She is playing with a toy and appears to be in the middle of a playful activity.",
+    "objects": [
+      "activity",
+      "she",
+      "middle",
+      "toy",
+      "playful"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "She is playing with a toy and appears to be in the middle of a playful activity.",
+    "objects": [
+      "activity",
+      "she",
+      "middle",
+      "toy",
+      "playful"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, a boy is standing in front of a shelf, holding a toy.",
+    "objects": [
+      "shelf",
+      "toy",
+      "boy"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, a boy is standing in front of a shelf, holding a toy.",
+    "objects": [
+      "shelf",
+      "toy",
+      "boy"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene then switches to a different room where a young girl is standing in front of a shelf, holding a toy.",
+    "objects": [
+      "room",
+      "where",
+      "shelf",
+      "girl",
+      "toy",
+      "different",
+      "young",
+      "then"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "switches"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene then switches to a different room where a young girl is standing in front of a shelf, holding a toy.",
+    "objects": [
+      "room",
+      "where",
+      "shelf",
+      "girl",
+      "toy",
+      "different",
+      "young",
+      "then"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "switches"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The setting is a living room, with a drum set in the background.",
+    "objects": [
+      "room",
+      "drum",
+      "set"
+    ],
+    "actions": [
+      "living",
+      "setting"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The setting is a living room, with a drum set in the background.",
+    "objects": [
+      "room",
+      "drum",
+      "set"
+    ],
+    "actions": [
+      "living",
+      "setting"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The video ends with a young girl, wearing a pink hoodie, standing in a room.",
+    "objects": [
+      "room",
+      "pink",
+      "young",
+      "ends",
+      "hoodie",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The video ends with a young girl, wearing a pink hoodie, standing in a room.",
+    "objects": [
+      "room",
+      "pink",
+      "young",
+      "ends",
+      "hoodie",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "She is playing with a toy and appears to be enjoying herself.",
+    "objects": [
+      "toy",
+      "herself",
+      "she"
+    ],
+    "actions": [
+      "playing",
+      "enjoying"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "She is playing with a toy and appears to be enjoying herself.",
+    "objects": [
+      "toy",
+      "herself",
+      "she"
+    ],
+    "actions": [
+      "playing",
+      "enjoying"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, a woman is holding a plastic bag.",
+    "objects": [
+      "plastic",
+      "bag",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, a woman is holding a plastic bag.",
+    "objects": [
+      "plastic",
+      "bag",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The setting is a living room with a chair in the background.",
+    "objects": [
+      "room",
+      "chair"
+    ],
+    "actions": [
+      "living",
+      "setting"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The setting is a living room with a chair in the background.",
+    "objects": [
+      "room",
+      "chair"
+    ],
+    "actions": [
+      "living",
+      "setting"
+    ],
+    "segment_id": 15
+  }
+]

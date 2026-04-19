@@ -1,0 +1,650 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a playful scene of two cats interacting with each other on a bed.",
+    "objects": [
+      "playful",
+      "each",
+      "cats",
+      "other",
+      "two"
+    ],
+    "actions": [
+      "depicts",
+      "bed",
+      "interacting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a playful scene of two cats interacting with each other on a bed.",
+    "objects": [
+      "playful",
+      "each",
+      "cats",
+      "other",
+      "two"
+    ],
+    "actions": [
+      "depicts",
+      "bed",
+      "interacting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the first scene, one cat is standing on the bed, holding a toy in its mouth, seemingly in the middle of playing with it.",
+    "objects": [
+      "mouth",
+      "toy",
+      "middle",
+      "its",
+      "one",
+      "cat",
+      "seemingly",
+      "first"
+    ],
+    "actions": [
+      "bed",
+      "playing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "In the first scene, one cat is standing on the bed, holding a toy in its mouth, seemingly in the middle of playing with it.",
+    "objects": [
+      "mouth",
+      "toy",
+      "middle",
+      "its",
+      "one",
+      "cat",
+      "seemingly",
+      "first"
+    ],
+    "actions": [
+      "bed",
+      "playing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The other cat is lying on the bed, appearing to be the target of the playful interaction.",
+    "objects": [
+      "playful",
+      "interaction",
+      "other",
+      "target",
+      "cat"
+    ],
+    "actions": [
+      "bed",
+      "appearing",
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The other cat is lying on the bed, appearing to be the target of the playful interaction.",
+    "objects": [
+      "playful",
+      "interaction",
+      "other",
+      "target",
+      "cat"
+    ],
+    "actions": [
+      "bed",
+      "appearing",
+      "lying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The second scene shows the same cat, now sitting on the bed, engaging in playful behavior with the same toy, which seems to be a pink rubber chicken.",
+    "objects": [
+      "playful",
+      "toy",
+      "pink",
+      "which",
+      "chicken",
+      "rubber",
+      "now",
+      "same"
+    ],
+    "actions": [
+      "bed",
+      "engaging",
+      "sitting",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The second scene shows the same cat, now sitting on the bed, engaging in playful behavior with the same toy, which seems to be a pink rubber chicken.",
+    "objects": [
+      "playful",
+      "toy",
+      "pink",
+      "which",
+      "chicken",
+      "rubber",
+      "now",
+      "same"
+    ],
+    "actions": [
+      "bed",
+      "engaging",
+      "sitting",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The third scene shows the first cat standing on the bed, now holding a pink rubber chicken, seemingly ready to attack the second cat who is still lying on the bed.",
+    "objects": [
+      "pink",
+      "ready",
+      "chicken",
+      "attack",
+      "who",
+      "rubber",
+      "now",
+      "cat"
+    ],
+    "actions": [
+      "bed",
+      "lying",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The third scene shows the first cat standing on the bed, now holding a pink rubber chicken, seemingly ready to attack the second cat who is still lying on the bed.",
+    "objects": [
+      "pink",
+      "ready",
+      "chicken",
+      "attack",
+      "who",
+      "rubber",
+      "now",
+      "cat"
+    ],
+    "actions": [
+      "bed",
+      "lying",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The fourth scene shows the first cat in a playful stance, holding the pink rubber chicken, now seemingly attempting to pounce on the second cat, who is sitting on the bed.",
+    "objects": [
+      "playful",
+      "pink",
+      "chicken",
+      "who",
+      "rubber",
+      "pounce",
+      "now",
+      "cat"
+    ],
+    "actions": [
+      "bed",
+      "attempting",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The fourth scene shows the first cat in a playful stance, holding the pink rubber chicken, now seemingly attempting to pounce on the second cat, who is sitting on the bed.",
+    "objects": [
+      "playful",
+      "pink",
+      "chicken",
+      "who",
+      "rubber",
+      "pounce",
+      "now",
+      "cat"
+    ],
+    "actions": [
+      "bed",
+      "attempting",
+      "holding",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The fifth scene features both cats on the bed, with the second cat lying down and the first cat standing, holding the pink rubber chicken and looking ready to play or attack.",
+    "objects": [
+      "pink",
+      "fifth",
+      "both",
+      "chicken",
+      "ready",
+      "attack",
+      "cats",
+      "rubber"
+    ],
+    "actions": [
+      "looking",
+      "lying",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The fifth scene features both cats on the bed, with the second cat lying down and the first cat standing, holding the pink rubber chicken and looking ready to play or attack.",
+    "objects": [
+      "pink",
+      "fifth",
+      "both",
+      "chicken",
+      "ready",
+      "attack",
+      "cats",
+      "rubber"
+    ],
+    "actions": [
+      "looking",
+      "lying",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The sixth scene shows the first cat standing on the bed, now holding a toy and playing with the second cat who is lying on the bed, displaying a playful behavior.",
+    "objects": [
+      "sixth",
+      "toy",
+      "playful",
+      "who",
+      "now",
+      "cat",
+      "second",
+      "first"
+    ],
+    "actions": [
+      "displaying",
+      "lying",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The sixth scene shows the first cat standing on the bed, now holding a toy and playing with the second cat who is lying on the bed, displaying a playful behavior.",
+    "objects": [
+      "sixth",
+      "toy",
+      "playful",
+      "who",
+      "now",
+      "cat",
+      "second",
+      "first"
+    ],
+    "actions": [
+      "displaying",
+      "lying",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The seventh scene shows the first cat on the bed, holding the pink rubber chicken and playfully pouncing on the second cat who is still lying on the bed.",
+    "objects": [
+      "pink",
+      "playfully",
+      "chicken",
+      "still",
+      "who",
+      "rubber",
+      "cat",
+      "seventh"
+    ],
+    "actions": [
+      "bed",
+      "pouncing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The seventh scene shows the first cat on the bed, holding the pink rubber chicken and playfully pouncing on the second cat who is still lying on the bed.",
+    "objects": [
+      "pink",
+      "playfully",
+      "chicken",
+      "still",
+      "who",
+      "rubber",
+      "cat",
+      "seventh"
+    ],
+    "actions": [
+      "bed",
+      "pouncing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The eighth scene shows the first cat in a playful stance, holding the pink rubber chicken and about to attack the second cat who is sitting on the bed.",
+    "objects": [
+      "playful",
+      "pink",
+      "eighth",
+      "chicken",
+      "attack",
+      "who",
+      "rubber",
+      "cat"
+    ],
+    "actions": [
+      "bed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The eighth scene shows the first cat in a playful stance, holding the pink rubber chicken and about to attack the second cat who is sitting on the bed.",
+    "objects": [
+      "playful",
+      "pink",
+      "eighth",
+      "chicken",
+      "attack",
+      "who",
+      "rubber",
+      "cat"
+    ],
+    "actions": [
+      "bed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The ninth scene shows the first cat on the bed, now holding the pink rubber chicken and about to play or attack the second cat who is still lying on the bed.",
+    "objects": [
+      "pink",
+      "ninth",
+      "chicken",
+      "attack",
+      "still",
+      "who",
+      "rubber",
+      "now"
+    ],
+    "actions": [
+      "bed",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The ninth scene shows the first cat on the bed, now holding the pink rubber chicken and about to play or attack the second cat who is still lying on the bed.",
+    "objects": [
+      "pink",
+      "ninth",
+      "chicken",
+      "attack",
+      "still",
+      "who",
+      "rubber",
+      "now"
+    ],
+    "actions": [
+      "bed",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The tenth scene features the first cat on the bed, holding the pink rubber chicken and playing with the second cat who is still lying on the bed.",
+    "objects": [
+      "tenth",
+      "pink",
+      "chicken",
+      "who",
+      "rubber",
+      "cat",
+      "still",
+      "second"
+    ],
+    "actions": [
+      "lying",
+      "holding",
+      "features",
+      "bed"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The tenth scene features the first cat on the bed, holding the pink rubber chicken and playing with the second cat who is still lying on the bed.",
+    "objects": [
+      "tenth",
+      "pink",
+      "chicken",
+      "who",
+      "rubber",
+      "cat",
+      "still",
+      "second"
+    ],
+    "actions": [
+      "lying",
+      "holding",
+      "features",
+      "bed"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The eleventh scene shows the first cat in a playful stance, holding the pink rubber chicken and ready to attack the second cat who is sitting on the bed.",
+    "objects": [
+      "playful",
+      "eleventh",
+      "pink",
+      "ready",
+      "chicken",
+      "attack",
+      "who",
+      "rubber"
+    ],
+    "actions": [
+      "bed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The eleventh scene shows the first cat in a playful stance, holding the pink rubber chicken and ready to attack the second cat who is sitting on the bed.",
+    "objects": [
+      "playful",
+      "eleventh",
+      "pink",
+      "ready",
+      "chicken",
+      "attack",
+      "who",
+      "rubber"
+    ],
+    "actions": [
+      "bed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The twelfth scene shows the first cat on the bed, holding the pink rubber chicken and playfully pouncing on the second cat who is still lying on the bed.",
+    "objects": [
+      "twelfth",
+      "pink",
+      "playfully",
+      "chicken",
+      "who",
+      "rubber",
+      "cat",
+      "still"
+    ],
+    "actions": [
+      "bed",
+      "pouncing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The twelfth scene shows the first cat on the bed, holding the pink rubber chicken and playfully pouncing on the second cat who is still lying on the bed.",
+    "objects": [
+      "twelfth",
+      "pink",
+      "playfully",
+      "chicken",
+      "who",
+      "rubber",
+      "cat",
+      "still"
+    ],
+    "actions": [
+      "bed",
+      "pouncing",
+      "lying",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The thirteenth scene shows the first cat in a playful stance, holding the pink rubber chicken and about to play or attack the second cat who is sitting on the bed.",
+    "objects": [
+      "playful",
+      "pink",
+      "chicken",
+      "attack",
+      "who",
+      "thirteenth",
+      "rubber",
+      "cat"
+    ],
+    "actions": [
+      "bed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The thirteenth scene shows the first cat in a playful stance, holding the pink rubber chicken and about to play or attack the second cat who is sitting on the bed.",
+    "objects": [
+      "playful",
+      "pink",
+      "chicken",
+      "attack",
+      "who",
+      "thirteenth",
+      "rubber",
+      "cat"
+    ],
+    "actions": [
+      "bed",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The fourteenth scene features the first cat on the bed, holding the pink rubber chicken and playing with the second cat who is still lying on the bed.",
+    "objects": [
+      "pink",
+      "chicken",
+      "who",
+      "rubber",
+      "fourteenth",
+      "cat",
+      "still",
+      "second"
+    ],
+    "actions": [
+      "lying",
+      "holding",
+      "features",
+      "bed"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The fourteenth scene features the first cat on the bed, holding the pink rubber chicken and playing with the second cat who is still lying on the bed.",
+    "objects": [
+      "pink",
+      "chicken",
+      "who",
+      "rubber",
+      "fourteenth",
+      "cat",
+      "still",
+      "second"
+    ],
+    "actions": [
+      "lying",
+      "holding",
+      "features",
+      "bed"
+    ],
+    "segment_id": 15
+  }
+]

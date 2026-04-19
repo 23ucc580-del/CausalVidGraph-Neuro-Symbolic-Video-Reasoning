@@ -1,0 +1,514 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a man and a baby are seen in a room.",
+    "objects": [
+      "man",
+      "this",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a man and a baby are seen in a room.",
+    "objects": [
+      "man",
+      "this",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a man and a baby are seen in a room.",
+    "objects": [
+      "man",
+      "this",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, a man and a baby are seen in a room.",
+    "objects": [
+      "man",
+      "this",
+      "room",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a blue shirt and holding a brown guitar.",
+    "objects": [
+      "blue",
+      "guitar",
+      "man",
+      "shirt",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a blue shirt and holding a brown guitar.",
+    "objects": [
+      "blue",
+      "guitar",
+      "man",
+      "shirt",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is wearing a blue shirt and holding a brown guitar.",
+    "objects": [
+      "blue",
+      "guitar",
+      "man",
+      "shirt",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is wearing a blue shirt and holding a brown guitar.",
+    "objects": [
+      "blue",
+      "guitar",
+      "man",
+      "shirt",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is sitting on the floor while playing the guitar.",
+    "objects": [
+      "while",
+      "floor",
+      "guitar"
+    ],
+    "actions": [
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is sitting on the floor while playing the guitar.",
+    "objects": [
+      "while",
+      "floor",
+      "guitar"
+    ],
+    "actions": [
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is sitting on the floor while playing the guitar.",
+    "objects": [
+      "while",
+      "floor",
+      "guitar"
+    ],
+    "actions": [
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is sitting on the floor while playing the guitar.",
+    "objects": [
+      "while",
+      "floor",
+      "guitar"
+    ],
+    "actions": [
+      "sitting",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The baby is wearing a white shirt and is sitting in the man's lap, also playing the guitar.",
+    "objects": [
+      "white",
+      "guitar",
+      "lap",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "man's",
+      "sitting",
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby is wearing a white shirt and is sitting in the man's lap, also playing the guitar.",
+    "objects": [
+      "white",
+      "guitar",
+      "lap",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "man's",
+      "sitting",
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The baby is wearing a white shirt and is sitting in the man's lap, also playing the guitar.",
+    "objects": [
+      "white",
+      "guitar",
+      "lap",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "man's",
+      "sitting",
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby is wearing a white shirt and is sitting in the man's lap, also playing the guitar.",
+    "objects": [
+      "white",
+      "guitar",
+      "lap",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "man's",
+      "sitting",
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby seems to be enjoying the music and is moving his hands in a rhythmic manner, as if he is dancing or playing along.",
+    "objects": [
+      "rhythmic",
+      "his",
+      "manner",
+      "music",
+      "along",
+      "baby"
+    ],
+    "actions": [
+      "moving",
+      "dancing",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby seems to be enjoying the music and is moving his hands in a rhythmic manner, as if he is dancing or playing along.",
+    "objects": [
+      "rhythmic",
+      "his",
+      "manner",
+      "music",
+      "along",
+      "baby"
+    ],
+    "actions": [
+      "moving",
+      "dancing",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The baby seems to be enjoying the music and is moving his hands in a rhythmic manner, as if he is dancing or playing along.",
+    "objects": [
+      "rhythmic",
+      "his",
+      "manner",
+      "music",
+      "along",
+      "baby"
+    ],
+    "actions": [
+      "moving",
+      "dancing",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The baby seems to be enjoying the music and is moving his hands in a rhythmic manner, as if he is dancing or playing along.",
+    "objects": [
+      "rhythmic",
+      "his",
+      "manner",
+      "music",
+      "along",
+      "baby"
+    ],
+    "actions": [
+      "moving",
+      "dancing",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man appears to be focused on the guitar, lost in the music.",
+    "objects": [
+      "man",
+      "lost",
+      "guitar",
+      "music"
+    ],
+    "actions": [
+      "focused"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man appears to be focused on the guitar, lost in the music.",
+    "objects": [
+      "man",
+      "lost",
+      "guitar",
+      "music"
+    ],
+    "actions": [
+      "focused"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man appears to be focused on the guitar, lost in the music.",
+    "objects": [
+      "man",
+      "lost",
+      "guitar",
+      "music"
+    ],
+    "actions": [
+      "focused"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man appears to be focused on the guitar, lost in the music.",
+    "objects": [
+      "man",
+      "lost",
+      "guitar",
+      "music"
+    ],
+    "actions": [
+      "focused"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene suggests a cozy and intimate moment between the man and the baby, with the man providing a musical experience for the baby.",
+    "objects": [
+      "cozy",
+      "musical",
+      "between",
+      "man",
+      "moment",
+      "intimate",
+      "baby",
+      "experience"
+    ],
+    "actions": [
+      "providing",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene suggests a cozy and intimate moment between the man and the baby, with the man providing a musical experience for the baby.",
+    "objects": [
+      "cozy",
+      "musical",
+      "between",
+      "man",
+      "moment",
+      "intimate",
+      "baby",
+      "experience"
+    ],
+    "actions": [
+      "providing",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene suggests a cozy and intimate moment between the man and the baby, with the man providing a musical experience for the baby.",
+    "objects": [
+      "cozy",
+      "musical",
+      "between",
+      "man",
+      "moment",
+      "intimate",
+      "baby",
+      "experience"
+    ],
+    "actions": [
+      "providing",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene suggests a cozy and intimate moment between the man and the baby, with the man providing a musical experience for the baby.",
+    "objects": [
+      "cozy",
+      "musical",
+      "between",
+      "man",
+      "moment",
+      "intimate",
+      "baby",
+      "experience"
+    ],
+    "actions": [
+      "providing",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The video captures a heartwarming scene of a bonding moment between the two.",
+    "objects": [
+      "between",
+      "two",
+      "moment"
+    ],
+    "actions": [
+      "heartwarming",
+      "bonding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The video captures a heartwarming scene of a bonding moment between the two.",
+    "objects": [
+      "between",
+      "two",
+      "moment"
+    ],
+    "actions": [
+      "heartwarming",
+      "bonding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The video captures a heartwarming scene of a bonding moment between the two.",
+    "objects": [
+      "between",
+      "two",
+      "moment"
+    ],
+    "actions": [
+      "heartwarming",
+      "bonding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The video captures a heartwarming scene of a bonding moment between the two.",
+    "objects": [
+      "between",
+      "two",
+      "moment"
+    ],
+    "actions": [
+      "heartwarming",
+      "bonding"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a close-up shot of a bird perched on a wire.",
+    "objects": [
+      "wire",
+      "bird"
+    ],
+    "actions": [
+      "opens",
+      "perched"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a close-up shot of a bird perched on a wire.",
+    "objects": [
+      "wire",
+      "bird"
+    ],
+    "actions": [
+      "opens",
+      "perched"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video opens with a close-up shot of a bird perched on a wire.",
+    "objects": [
+      "wire",
+      "bird"
+    ],
+    "actions": [
+      "opens",
+      "perched"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The bird, with its vibrant colors of red, blue, and yellow, appears to be in a state of rest or alertness.",
+    "objects": [
+      "its",
+      "bird",
+      "state",
+      "blue",
+      "vibrant",
+      "yellow",
+      "rest"
+    ],
+    "actions": [
+      "colors",
+      "alertness",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The bird, with its vibrant colors of red, blue, and yellow, appears to be in a state of rest or alertness.",
+    "objects": [
+      "its",
+      "bird",
+      "state",
+      "blue",
+      "vibrant",
+      "yellow",
+      "rest"
+    ],
+    "actions": [
+      "colors",
+      "alertness",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The bird, with its vibrant colors of red, blue, and yellow, appears to be in a state of rest or alertness.",
+    "objects": [
+      "its",
+      "bird",
+      "state",
+      "blue",
+      "vibrant",
+      "yellow",
+      "rest"
+    ],
+    "actions": [
+      "colors",
+      "alertness",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then pans out to reveal another bird, also perched on the same wire, slightly behind and to the left of the first bird.",
+    "objects": [
+      "wire",
+      "behind",
+      "reveal",
+      "bird",
+      "pans",
+      "same",
+      "out",
+      "first"
+    ],
+    "actions": [
+      "perched"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then pans out to reveal another bird, also perched on the same wire, slightly behind and to the left of the first bird.",
+    "objects": [
+      "wire",
+      "behind",
+      "reveal",
+      "bird",
+      "pans",
+      "same",
+      "out",
+      "first"
+    ],
+    "actions": [
+      "perched"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then pans out to reveal another bird, also perched on the same wire, slightly behind and to the left of the first bird.",
+    "objects": [
+      "wire",
+      "behind",
+      "reveal",
+      "bird",
+      "pans",
+      "same",
+      "out",
+      "first"
+    ],
+    "actions": [
+      "perched"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "This second bird seems to be looking in the opposite direction, perhaps observing its surroundings or waiting for something.",
+    "objects": [
+      "its",
+      "bird",
+      "direction",
+      "opposite",
+      "second",
+      "this"
+    ],
+    "actions": [
+      "seems",
+      "something",
+      "looking",
+      "waiting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "This second bird seems to be looking in the opposite direction, perhaps observing its surroundings or waiting for something.",
+    "objects": [
+      "its",
+      "bird",
+      "direction",
+      "opposite",
+      "second",
+      "this"
+    ],
+    "actions": [
+      "seems",
+      "something",
+      "looking",
+      "waiting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "This second bird seems to be looking in the opposite direction, perhaps observing its surroundings or waiting for something.",
+    "objects": [
+      "its",
+      "bird",
+      "direction",
+      "opposite",
+      "second",
+      "this"
+    ],
+    "actions": [
+      "seems",
+      "something",
+      "looking",
+      "waiting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The first bird remains still, while the second bird appears to be in a state of anticipation.",
+    "objects": [
+      "anticipation",
+      "bird",
+      "while",
+      "state",
+      "second",
+      "first",
+      "still"
+    ],
+    "actions": [
+      "remains"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The first bird remains still, while the second bird appears to be in a state of anticipation.",
+    "objects": [
+      "anticipation",
+      "bird",
+      "while",
+      "state",
+      "second",
+      "first",
+      "still"
+    ],
+    "actions": [
+      "remains"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The first bird remains still, while the second bird appears to be in a state of anticipation.",
+    "objects": [
+      "anticipation",
+      "bird",
+      "while",
+      "state",
+      "second",
+      "first",
+      "still"
+    ],
+    "actions": [
+      "remains"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then pans out further to reveal a wire with multiple birds on it, each engaged in their own activities.",
+    "objects": [
+      "their",
+      "wire",
+      "each",
+      "own",
+      "reveal",
+      "pans",
+      "further",
+      "multiple"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "birds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then pans out further to reveal a wire with multiple birds on it, each engaged in their own activities.",
+    "objects": [
+      "their",
+      "wire",
+      "each",
+      "own",
+      "reveal",
+      "pans",
+      "further",
+      "multiple"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "birds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then pans out further to reveal a wire with multiple birds on it, each engaged in their own activities.",
+    "objects": [
+      "their",
+      "wire",
+      "each",
+      "own",
+      "reveal",
+      "pans",
+      "further",
+      "multiple"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "birds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "Some are sitting, some are standing, and one is in flight.",
+    "objects": [
+      "some",
+      "flight",
+      "one"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "Some are sitting, some are standing, and one is in flight.",
+    "objects": [
+      "some",
+      "flight",
+      "one"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "Some are sitting, some are standing, and one is in flight.",
+    "objects": [
+      "some",
+      "flight",
+      "one"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene is a lively display of nature's inhabitants.",
+    "objects": [
+      "display",
+      "lively"
+    ],
+    "actions": [
+      "inhabitants",
+      "nature's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene is a lively display of nature's inhabitants.",
+    "objects": [
+      "display",
+      "lively"
+    ],
+    "actions": [
+      "inhabitants",
+      "nature's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene is a lively display of nature's inhabitants.",
+    "objects": [
+      "display",
+      "lively"
+    ],
+    "actions": [
+      "inhabitants",
+      "nature's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The colors of the birds vary, with some displaying red, blue, and yellow hues.",
+    "objects": [
+      "vary",
+      "blue",
+      "yellow",
+      "some",
+      "hues"
+    ],
+    "actions": [
+      "colors",
+      "birds",
+      "red",
+      "displaying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The colors of the birds vary, with some displaying red, blue, and yellow hues.",
+    "objects": [
+      "vary",
+      "blue",
+      "yellow",
+      "some",
+      "hues"
+    ],
+    "actions": [
+      "colors",
+      "birds",
+      "red",
+      "displaying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The colors of the birds vary, with some displaying red, blue, and yellow hues.",
+    "objects": [
+      "vary",
+      "blue",
+      "yellow",
+      "some",
+      "hues"
+    ],
+    "actions": [
+      "colors",
+      "birds",
+      "red",
+      "displaying"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The wire they are perched on is gray, contrasting with the vivid colors of the birds.",
+    "objects": [
+      "they",
+      "vivid",
+      "wire",
+      "gray"
+    ],
+    "actions": [
+      "colors",
+      "contrasting",
+      "birds",
+      "perched"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The wire they are perched on is gray, contrasting with the vivid colors of the birds.",
+    "objects": [
+      "they",
+      "vivid",
+      "wire",
+      "gray"
+    ],
+    "actions": [
+      "colors",
+      "contrasting",
+      "birds",
+      "perched"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The wire they are perched on is gray, contrasting with the vivid colors of the birds.",
+    "objects": [
+      "they",
+      "vivid",
+      "wire",
+      "gray"
+    ],
+    "actions": [
+      "colors",
+      "contrasting",
+      "birds",
+      "perched"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The birds appear to be in various states of alertness or rest.",
+    "objects": [
+      "appear",
+      "rest"
+    ],
+    "actions": [
+      "states",
+      "alertness",
+      "birds"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The birds appear to be in various states of alertness or rest.",
+    "objects": [
+      "appear",
+      "rest"
+    ],
+    "actions": [
+      "states",
+      "alertness",
+      "birds"
+    ],
+    "segment_id": 10
+  }
+]

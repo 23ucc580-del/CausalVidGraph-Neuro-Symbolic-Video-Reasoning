@@ -1,0 +1,594 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a lively scene of people gathered in a room with wooden floors and a stage area, where a man in a blue shirt and a woman in a black shirt are performing a dance routine.",
+    "objects": [
+      "blue",
+      "dance",
+      "room",
+      "wooden",
+      "stage",
+      "routine",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "gathered",
+      "floors",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a lively scene of people gathered in a room with wooden floors and a stage area, where a man in a blue shirt and a woman in a black shirt are performing a dance routine.",
+    "objects": [
+      "blue",
+      "dance",
+      "room",
+      "wooden",
+      "stage",
+      "routine",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "gathered",
+      "floors",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a lively scene of people gathered in a room with wooden floors and a stage area, where a man in a blue shirt and a woman in a black shirt are performing a dance routine.",
+    "objects": [
+      "blue",
+      "dance",
+      "room",
+      "wooden",
+      "stage",
+      "routine",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "gathered",
+      "floors",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a lively scene of people gathered in a room with wooden floors and a stage area, where a man in a blue shirt and a woman in a black shirt are performing a dance routine.",
+    "objects": [
+      "blue",
+      "dance",
+      "room",
+      "wooden",
+      "stage",
+      "routine",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "gathered",
+      "floors",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a red shirt and the woman is wearing a black shirt.",
+    "objects": [
+      "man",
+      "black",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a red shirt and the woman is wearing a black shirt.",
+    "objects": [
+      "man",
+      "black",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is wearing a red shirt and the woman is wearing a black shirt.",
+    "objects": [
+      "man",
+      "black",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is wearing a red shirt and the woman is wearing a black shirt.",
+    "objects": [
+      "man",
+      "black",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A man in a black shirt is sitting on the ground, and a woman in a black shirt is standing nearby, while another woman in a red shirt is watching the performance.",
+    "objects": [
+      "ground",
+      "man",
+      "while",
+      "performance",
+      "shirt",
+      "nearby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "watching",
+      "sitting",
+      "red",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A man in a black shirt is sitting on the ground, and a woman in a black shirt is standing nearby, while another woman in a red shirt is watching the performance.",
+    "objects": [
+      "ground",
+      "man",
+      "while",
+      "performance",
+      "shirt",
+      "nearby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "watching",
+      "sitting",
+      "red",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A man in a black shirt is sitting on the ground, and a woman in a black shirt is standing nearby, while another woman in a red shirt is watching the performance.",
+    "objects": [
+      "ground",
+      "man",
+      "while",
+      "performance",
+      "shirt",
+      "nearby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "watching",
+      "sitting",
+      "red",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A man in a black shirt is sitting on the ground, and a woman in a black shirt is standing nearby, while another woman in a red shirt is watching the performance.",
+    "objects": [
+      "ground",
+      "man",
+      "while",
+      "performance",
+      "shirt",
+      "nearby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "watching",
+      "sitting",
+      "red",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a red shirt is standing at the edge of the stage area, and another man in a black shirt is standing in the room.",
+    "objects": [
+      "room",
+      "edge",
+      "stage",
+      "man",
+      "black",
+      "shirt",
+      "area"
+    ],
+    "actions": [
+      "red",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a red shirt is standing at the edge of the stage area, and another man in a black shirt is standing in the room.",
+    "objects": [
+      "room",
+      "edge",
+      "stage",
+      "man",
+      "black",
+      "shirt",
+      "area"
+    ],
+    "actions": [
+      "red",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a red shirt is standing at the edge of the stage area, and another man in a black shirt is standing in the room.",
+    "objects": [
+      "room",
+      "edge",
+      "stage",
+      "man",
+      "black",
+      "shirt",
+      "area"
+    ],
+    "actions": [
+      "red",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a red shirt is standing at the edge of the stage area, and another man in a black shirt is standing in the room.",
+    "objects": [
+      "room",
+      "edge",
+      "stage",
+      "man",
+      "black",
+      "shirt",
+      "area"
+    ],
+    "actions": [
+      "red",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The performers are energetically dancing and singing, with the man in the blue shirt holding a microphone, and the woman in the black shirt holding a black object.",
+    "objects": [
+      "blue",
+      "man",
+      "microphone",
+      "shirt",
+      "object",
+      "energetically",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "performers",
+      "dancing",
+      "holding",
+      "singing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The performers are energetically dancing and singing, with the man in the blue shirt holding a microphone, and the woman in the black shirt holding a black object.",
+    "objects": [
+      "blue",
+      "man",
+      "microphone",
+      "shirt",
+      "object",
+      "energetically",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "performers",
+      "dancing",
+      "holding",
+      "singing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The performers are energetically dancing and singing, with the man in the blue shirt holding a microphone, and the woman in the black shirt holding a black object.",
+    "objects": [
+      "blue",
+      "man",
+      "microphone",
+      "shirt",
+      "object",
+      "energetically",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "performers",
+      "dancing",
+      "holding",
+      "singing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The performers are energetically dancing and singing, with the man in the blue shirt holding a microphone, and the woman in the black shirt holding a black object.",
+    "objects": [
+      "blue",
+      "man",
+      "microphone",
+      "shirt",
+      "object",
+      "energetically",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "performers",
+      "dancing",
+      "holding",
+      "singing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman in the red shirt is wearing blue jeans and the man in the red shirt is wearing a hat.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman in the red shirt is wearing blue jeans and the man in the red shirt is wearing a hat.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman in the red shirt is wearing blue jeans and the man in the red shirt is wearing a hat.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman in the red shirt is wearing blue jeans and the man in the red shirt is wearing a hat.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the red shirt is holding a blue object, and the woman in the red shirt is wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "object",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the red shirt is holding a blue object, and the woman in the red shirt is wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "object",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the red shirt is holding a blue object, and the woman in the red shirt is wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "object",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the red shirt is holding a blue object, and the woman in the red shirt is wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "man",
+      "shirt",
+      "object",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the black shirt is holding a red object, and the woman in the black shirt is wearing a black hoodie.",
+    "objects": [
+      "man",
+      "shirt",
+      "object",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the black shirt is holding a red object, and the woman in the black shirt is wearing a black hoodie.",
+    "objects": [
+      "man",
+      "shirt",
+      "object",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the black shirt is holding a red object, and the woman in the black shirt is wearing a black hoodie.",
+    "objects": [
+      "man",
+      "shirt",
+      "object",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the black shirt is holding a red object, and the woman in the black shirt is wearing a black hoodie.",
+    "objects": [
+      "man",
+      "shirt",
+      "object",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

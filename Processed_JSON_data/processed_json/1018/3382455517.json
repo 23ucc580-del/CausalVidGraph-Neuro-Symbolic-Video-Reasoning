@@ -1,0 +1,518 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man wearing a blue hoodie is seen holding a green and yellow parrot in his hands.",
+    "objects": [
+      "blue",
+      "green",
+      "yellow",
+      "parrot",
+      "hoodie",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man wearing a blue hoodie is seen holding a green and yellow parrot in his hands.",
+    "objects": [
+      "blue",
+      "green",
+      "yellow",
+      "parrot",
+      "hoodie",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man wearing a blue hoodie is seen holding a green and yellow parrot in his hands.",
+    "objects": [
+      "blue",
+      "green",
+      "yellow",
+      "parrot",
+      "hoodie",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man wearing a blue hoodie is seen holding a green and yellow parrot in his hands.",
+    "objects": [
+      "blue",
+      "green",
+      "yellow",
+      "parrot",
+      "hoodie",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is also wearing a silver watch.",
+    "objects": [
+      "silver",
+      "man",
+      "watch"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is also wearing a silver watch.",
+    "objects": [
+      "silver",
+      "man",
+      "watch"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is also wearing a silver watch.",
+    "objects": [
+      "silver",
+      "man",
+      "watch"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is also wearing a silver watch.",
+    "objects": [
+      "silver",
+      "man",
+      "watch"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is seen sitting in a kitchen with a white countertop and a white stove.",
+    "objects": [
+      "stove",
+      "countertop",
+      "kitchen",
+      "white"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is seen sitting in a kitchen with a white countertop and a white stove.",
+    "objects": [
+      "stove",
+      "countertop",
+      "kitchen",
+      "white"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is seen sitting in a kitchen with a white countertop and a white stove.",
+    "objects": [
+      "stove",
+      "countertop",
+      "kitchen",
+      "white"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is seen sitting in a kitchen with a white countertop and a white stove.",
+    "objects": [
+      "stove",
+      "countertop",
+      "kitchen",
+      "white"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The bird is perched on the man's left hand, and it is green with blue and yellow markings.",
+    "objects": [
+      "bird",
+      "blue",
+      "green",
+      "yellow",
+      "hand"
+    ],
+    "actions": [
+      "markings",
+      "man's",
+      "perched"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The bird is perched on the man's left hand, and it is green with blue and yellow markings.",
+    "objects": [
+      "bird",
+      "blue",
+      "green",
+      "yellow",
+      "hand"
+    ],
+    "actions": [
+      "markings",
+      "man's",
+      "perched"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The bird is perched on the man's left hand, and it is green with blue and yellow markings.",
+    "objects": [
+      "bird",
+      "blue",
+      "green",
+      "yellow",
+      "hand"
+    ],
+    "actions": [
+      "markings",
+      "man's",
+      "perched"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The bird is perched on the man's left hand, and it is green with blue and yellow markings.",
+    "objects": [
+      "bird",
+      "blue",
+      "green",
+      "yellow",
+      "hand"
+    ],
+    "actions": [
+      "markings",
+      "man's",
+      "perched"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is holding a small object in his right hand that is silver in color.",
+    "objects": [
+      "small",
+      "silver",
+      "color",
+      "that",
+      "his",
+      "object",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is holding a small object in his right hand that is silver in color.",
+    "objects": [
+      "small",
+      "silver",
+      "color",
+      "that",
+      "his",
+      "object",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is holding a small object in his right hand that is silver in color.",
+    "objects": [
+      "small",
+      "silver",
+      "color",
+      "that",
+      "his",
+      "object",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is holding a small object in his right hand that is silver in color.",
+    "objects": [
+      "small",
+      "silver",
+      "color",
+      "that",
+      "his",
+      "object",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The bird is making sounds and moving its feet around while sitting on the man's hand.",
+    "objects": [
+      "its",
+      "bird",
+      "feet",
+      "while",
+      "around",
+      "hand"
+    ],
+    "actions": [
+      "man's",
+      "making",
+      "sitting",
+      "sounds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The bird is making sounds and moving its feet around while sitting on the man's hand.",
+    "objects": [
+      "its",
+      "bird",
+      "feet",
+      "while",
+      "around",
+      "hand"
+    ],
+    "actions": [
+      "man's",
+      "making",
+      "sitting",
+      "sounds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The bird is making sounds and moving its feet around while sitting on the man's hand.",
+    "objects": [
+      "its",
+      "bird",
+      "feet",
+      "while",
+      "around",
+      "hand"
+    ],
+    "actions": [
+      "man's",
+      "making",
+      "sitting",
+      "sounds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The bird is making sounds and moving its feet around while sitting on the man's hand.",
+    "objects": [
+      "its",
+      "bird",
+      "feet",
+      "while",
+      "around",
+      "hand"
+    ],
+    "actions": [
+      "man's",
+      "making",
+      "sitting",
+      "sounds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is talking to the bird and seems to be enjoying the interaction.",
+    "objects": [
+      "man",
+      "interaction",
+      "bird"
+    ],
+    "actions": [
+      "seems",
+      "talking",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is talking to the bird and seems to be enjoying the interaction.",
+    "objects": [
+      "man",
+      "interaction",
+      "bird"
+    ],
+    "actions": [
+      "seems",
+      "talking",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is talking to the bird and seems to be enjoying the interaction.",
+    "objects": [
+      "man",
+      "interaction",
+      "bird"
+    ],
+    "actions": [
+      "seems",
+      "talking",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is talking to the bird and seems to be enjoying the interaction.",
+    "objects": [
+      "man",
+      "interaction",
+      "bird"
+    ],
+    "actions": [
+      "seems",
+      "talking",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The bird is looking up at the man, and the man is looking down at the bird while holding it.",
+    "objects": [
+      "while",
+      "man",
+      "bird"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The bird is looking up at the man, and the man is looking down at the bird while holding it.",
+    "objects": [
+      "while",
+      "man",
+      "bird"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The bird is looking up at the man, and the man is looking down at the bird while holding it.",
+    "objects": [
+      "while",
+      "man",
+      "bird"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The bird is looking up at the man, and the man is looking down at the bird while holding it.",
+    "objects": [
+      "while",
+      "man",
+      "bird"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 7
+  }
+]

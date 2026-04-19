@@ -1,0 +1,606 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman and a young child are enjoying a day at the park, surrounded by the tranquility of nature.",
+    "objects": [
+      "tranquility",
+      "park",
+      "young",
+      "day",
+      "child",
+      "woman",
+      "nature"
+    ],
+    "actions": [
+      "surrounded",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman and a young child are enjoying a day at the park, surrounded by the tranquility of nature.",
+    "objects": [
+      "tranquility",
+      "park",
+      "young",
+      "day",
+      "child",
+      "woman",
+      "nature"
+    ],
+    "actions": [
+      "surrounded",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman and a young child are enjoying a day at the park, surrounded by the tranquility of nature.",
+    "objects": [
+      "tranquility",
+      "park",
+      "young",
+      "day",
+      "child",
+      "woman",
+      "nature"
+    ],
+    "actions": [
+      "surrounded",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman and a young child are enjoying a day at the park, surrounded by the tranquility of nature.",
+    "objects": [
+      "tranquility",
+      "park",
+      "young",
+      "day",
+      "child",
+      "woman",
+      "nature"
+    ],
+    "actions": [
+      "surrounded",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman, dressed in a black jacket and blue jeans, is holding a black leash attached to a small white dog that is standing on the grass.",
+    "objects": [
+      "white",
+      "blue",
+      "small",
+      "jacket",
+      "that",
+      "leash",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman, dressed in a black jacket and blue jeans, is holding a black leash attached to a small white dog that is standing on the grass.",
+    "objects": [
+      "white",
+      "blue",
+      "small",
+      "jacket",
+      "that",
+      "leash",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman, dressed in a black jacket and blue jeans, is holding a black leash attached to a small white dog that is standing on the grass.",
+    "objects": [
+      "white",
+      "blue",
+      "small",
+      "jacket",
+      "that",
+      "leash",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman, dressed in a black jacket and blue jeans, is holding a black leash attached to a small white dog that is standing on the grass.",
+    "objects": [
+      "white",
+      "blue",
+      "small",
+      "jacket",
+      "that",
+      "leash",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "standing",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The child, bundled up in a pink jacket and blue jeans, is holding a black leash attached to a black dog that is also on the grass.",
+    "objects": [
+      "blue",
+      "pink",
+      "child",
+      "jacket",
+      "that",
+      "leash",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "bundled",
+      "jeans",
+      "attached",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The child, bundled up in a pink jacket and blue jeans, is holding a black leash attached to a black dog that is also on the grass.",
+    "objects": [
+      "blue",
+      "pink",
+      "child",
+      "jacket",
+      "that",
+      "leash",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "bundled",
+      "jeans",
+      "attached",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The child, bundled up in a pink jacket and blue jeans, is holding a black leash attached to a black dog that is also on the grass.",
+    "objects": [
+      "blue",
+      "pink",
+      "child",
+      "jacket",
+      "that",
+      "leash",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "bundled",
+      "jeans",
+      "attached",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The child, bundled up in a pink jacket and blue jeans, is holding a black leash attached to a black dog that is also on the grass.",
+    "objects": [
+      "blue",
+      "pink",
+      "child",
+      "jacket",
+      "that",
+      "leash",
+      "dog",
+      "grass"
+    ],
+    "actions": [
+      "bundled",
+      "jeans",
+      "attached",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Both dogs are walking on the grass, enjoying the outdoor scenery.",
+    "objects": [
+      "scenery",
+      "both",
+      "grass",
+      "outdoor",
+      "dogs"
+    ],
+    "actions": [
+      "walking",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Both dogs are walking on the grass, enjoying the outdoor scenery.",
+    "objects": [
+      "scenery",
+      "both",
+      "grass",
+      "outdoor",
+      "dogs"
+    ],
+    "actions": [
+      "walking",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Both dogs are walking on the grass, enjoying the outdoor scenery.",
+    "objects": [
+      "scenery",
+      "both",
+      "grass",
+      "outdoor",
+      "dogs"
+    ],
+    "actions": [
+      "walking",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Both dogs are walking on the grass, enjoying the outdoor scenery.",
+    "objects": [
+      "scenery",
+      "both",
+      "grass",
+      "outdoor",
+      "dogs"
+    ],
+    "actions": [
+      "walking",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The woman's dog and the child's dog seem to be on a leisurely walk, with the woman leading her dog.",
+    "objects": [
+      "seem",
+      "her",
+      "walk",
+      "dog",
+      "woman",
+      "leisurely"
+    ],
+    "actions": [
+      "leading",
+      "woman's",
+      "child's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman's dog and the child's dog seem to be on a leisurely walk, with the woman leading her dog.",
+    "objects": [
+      "seem",
+      "her",
+      "walk",
+      "dog",
+      "woman",
+      "leisurely"
+    ],
+    "actions": [
+      "leading",
+      "woman's",
+      "child's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman's dog and the child's dog seem to be on a leisurely walk, with the woman leading her dog.",
+    "objects": [
+      "seem",
+      "her",
+      "walk",
+      "dog",
+      "woman",
+      "leisurely"
+    ],
+    "actions": [
+      "leading",
+      "woman's",
+      "child's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman's dog and the child's dog seem to be on a leisurely walk, with the woman leading her dog.",
+    "objects": [
+      "seem",
+      "her",
+      "walk",
+      "dog",
+      "woman",
+      "leisurely"
+    ],
+    "actions": [
+      "leading",
+      "woman's",
+      "child's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The child seems to be following the dog, and both dogs are looking up at something in the sky, perhaps intrigued by the birds flying above.",
+    "objects": [
+      "both",
+      "child",
+      "dog",
+      "above",
+      "sky",
+      "dogs"
+    ],
+    "actions": [
+      "intrigued",
+      "something",
+      "birds",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The child seems to be following the dog, and both dogs are looking up at something in the sky, perhaps intrigued by the birds flying above.",
+    "objects": [
+      "both",
+      "child",
+      "dog",
+      "above",
+      "sky",
+      "dogs"
+    ],
+    "actions": [
+      "intrigued",
+      "something",
+      "birds",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The child seems to be following the dog, and both dogs are looking up at something in the sky, perhaps intrigued by the birds flying above.",
+    "objects": [
+      "both",
+      "child",
+      "dog",
+      "above",
+      "sky",
+      "dogs"
+    ],
+    "actions": [
+      "intrigued",
+      "something",
+      "birds",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The child seems to be following the dog, and both dogs are looking up at something in the sky, perhaps intrigued by the birds flying above.",
+    "objects": [
+      "both",
+      "child",
+      "dog",
+      "above",
+      "sky",
+      "dogs"
+    ],
+    "actions": [
+      "intrigued",
+      "something",
+      "birds",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman and the child appear to be happy, smiling, enjoying their time together in the park.",
+    "objects": [
+      "park",
+      "child",
+      "happy",
+      "together",
+      "time",
+      "appear",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman and the child appear to be happy, smiling, enjoying their time together in the park.",
+    "objects": [
+      "park",
+      "child",
+      "happy",
+      "together",
+      "time",
+      "appear",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman and the child appear to be happy, smiling, enjoying their time together in the park.",
+    "objects": [
+      "park",
+      "child",
+      "happy",
+      "together",
+      "time",
+      "appear",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman and the child appear to be happy, smiling, enjoying their time together in the park.",
+    "objects": [
+      "park",
+      "child",
+      "happy",
+      "together",
+      "time",
+      "appear",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The park is lush with green grass and trees, and there are benches in the background, adding to the serene atmosphere of the scene.",
+    "objects": [
+      "atmosphere",
+      "park",
+      "green",
+      "lush",
+      "there",
+      "grass",
+      "serene"
+    ],
+    "actions": [
+      "adding",
+      "benches",
+      "trees"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The park is lush with green grass and trees, and there are benches in the background, adding to the serene atmosphere of the scene.",
+    "objects": [
+      "atmosphere",
+      "park",
+      "green",
+      "lush",
+      "there",
+      "grass",
+      "serene"
+    ],
+    "actions": [
+      "adding",
+      "benches",
+      "trees"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The park is lush with green grass and trees, and there are benches in the background, adding to the serene atmosphere of the scene.",
+    "objects": [
+      "atmosphere",
+      "park",
+      "green",
+      "lush",
+      "there",
+      "grass",
+      "serene"
+    ],
+    "actions": [
+      "adding",
+      "benches",
+      "trees"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The park is lush with green grass and trees, and there are benches in the background, adding to the serene atmosphere of the scene.",
+    "objects": [
+      "atmosphere",
+      "park",
+      "green",
+      "lush",
+      "there",
+      "grass",
+      "serene"
+    ],
+    "actions": [
+      "adding",
+      "benches",
+      "trees"
+    ],
+    "segment_id": 7
+  }
+]

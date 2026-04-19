@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively dining scene at a restaurant.",
+    "objects": [
+      "restaurant",
+      "lively"
+    ],
+    "actions": [
+      "depicts",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively dining scene at a restaurant.",
+    "objects": [
+      "restaurant",
+      "lively"
+    ],
+    "actions": [
+      "depicts",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively dining scene at a restaurant.",
+    "objects": [
+      "restaurant",
+      "lively"
+    ],
+    "actions": [
+      "depicts",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively dining scene at a restaurant.",
+    "objects": [
+      "restaurant",
+      "lively"
+    ],
+    "actions": [
+      "depicts",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A group of people, possibly a family, are seated around a table, engaged in a meal.",
+    "objects": [
+      "table",
+      "people",
+      "meal",
+      "possibly",
+      "family",
+      "around",
+      "group"
+    ],
+    "actions": [
+      "seated",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A group of people, possibly a family, are seated around a table, engaged in a meal.",
+    "objects": [
+      "table",
+      "people",
+      "meal",
+      "possibly",
+      "family",
+      "around",
+      "group"
+    ],
+    "actions": [
+      "seated",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A group of people, possibly a family, are seated around a table, engaged in a meal.",
+    "objects": [
+      "table",
+      "people",
+      "meal",
+      "possibly",
+      "family",
+      "around",
+      "group"
+    ],
+    "actions": [
+      "seated",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A group of people, possibly a family, are seated around a table, engaged in a meal.",
+    "objects": [
+      "table",
+      "people",
+      "meal",
+      "possibly",
+      "family",
+      "around",
+      "group"
+    ],
+    "actions": [
+      "seated",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man, presumably the father, is wearing a blue hoodie and is seen holding a bottle of beer.",
+    "objects": [
+      "presumably",
+      "father",
+      "blue",
+      "bottle",
+      "beer",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man, presumably the father, is wearing a blue hoodie and is seen holding a bottle of beer.",
+    "objects": [
+      "presumably",
+      "father",
+      "blue",
+      "bottle",
+      "beer",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man, presumably the father, is wearing a blue hoodie and is seen holding a bottle of beer.",
+    "objects": [
+      "presumably",
+      "father",
+      "blue",
+      "bottle",
+      "beer",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man, presumably the father, is wearing a blue hoodie and is seen holding a bottle of beer.",
+    "objects": [
+      "presumably",
+      "father",
+      "blue",
+      "bottle",
+      "beer",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman, likely the mother, is wearing a red blouse and is holding a spoon, perhaps indicating that they are in the middle of eating.",
+    "objects": [
+      "they",
+      "blouse",
+      "woman",
+      "middle",
+      "that",
+      "spoon",
+      "mother",
+      "likely"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman, likely the mother, is wearing a red blouse and is holding a spoon, perhaps indicating that they are in the middle of eating.",
+    "objects": [
+      "they",
+      "blouse",
+      "woman",
+      "middle",
+      "that",
+      "spoon",
+      "mother",
+      "likely"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman, likely the mother, is wearing a red blouse and is holding a spoon, perhaps indicating that they are in the middle of eating.",
+    "objects": [
+      "they",
+      "blouse",
+      "woman",
+      "middle",
+      "that",
+      "spoon",
+      "mother",
+      "likely"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman, likely the mother, is wearing a red blouse and is holding a spoon, perhaps indicating that they are in the middle of eating.",
+    "objects": [
+      "they",
+      "blouse",
+      "woman",
+      "middle",
+      "that",
+      "spoon",
+      "mother",
+      "likely"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another woman is also present, wearing a white shirt and is holding a spoon.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "spoon",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Another woman is also present, wearing a white shirt and is holding a spoon.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "spoon",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Another woman is also present, wearing a white shirt and is holding a spoon.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "spoon",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Another woman is also present, wearing a white shirt and is holding a spoon.",
+    "objects": [
+      "white",
+      "woman",
+      "shirt",
+      "spoon",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The focus of the scene is on a large pot of food, possibly a stew or soup, that is being cooked on a stove.",
+    "objects": [
+      "large",
+      "soup",
+      "pot",
+      "possibly",
+      "stove",
+      "stew",
+      "that",
+      "food"
+    ],
+    "actions": [
+      "focus",
+      "cooked",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The focus of the scene is on a large pot of food, possibly a stew or soup, that is being cooked on a stove.",
+    "objects": [
+      "large",
+      "soup",
+      "pot",
+      "possibly",
+      "stove",
+      "stew",
+      "that",
+      "food"
+    ],
+    "actions": [
+      "focus",
+      "cooked",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The focus of the scene is on a large pot of food, possibly a stew or soup, that is being cooked on a stove.",
+    "objects": [
+      "large",
+      "soup",
+      "pot",
+      "possibly",
+      "stove",
+      "stew",
+      "that",
+      "food"
+    ],
+    "actions": [
+      "focus",
+      "cooked",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The focus of the scene is on a large pot of food, possibly a stew or soup, that is being cooked on a stove.",
+    "objects": [
+      "large",
+      "soup",
+      "pot",
+      "possibly",
+      "stove",
+      "stew",
+      "that",
+      "food"
+    ],
+    "actions": [
+      "focus",
+      "cooked",
+      "being"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is standing behind the table, wearing a white shirt, and holding a spoon, suggesting he may be the one cooking the meal.",
+    "objects": [
+      "one",
+      "behind",
+      "white",
+      "table",
+      "meal",
+      "shirt",
+      "may",
+      "spoon"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is standing behind the table, wearing a white shirt, and holding a spoon, suggesting he may be the one cooking the meal.",
+    "objects": [
+      "one",
+      "behind",
+      "white",
+      "table",
+      "meal",
+      "shirt",
+      "may",
+      "spoon"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is standing behind the table, wearing a white shirt, and holding a spoon, suggesting he may be the one cooking the meal.",
+    "objects": [
+      "one",
+      "behind",
+      "white",
+      "table",
+      "meal",
+      "shirt",
+      "may",
+      "spoon"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is standing behind the table, wearing a white shirt, and holding a spoon, suggesting he may be the one cooking the meal.",
+    "objects": [
+      "one",
+      "behind",
+      "white",
+      "table",
+      "meal",
+      "shirt",
+      "may",
+      "spoon"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "holding",
+      "suggesting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman in the red blouse is seen holding a spoon as well.",
+    "objects": [
+      "blouse",
+      "well",
+      "spoon",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman in the red blouse is seen holding a spoon as well.",
+    "objects": [
+      "blouse",
+      "well",
+      "spoon",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman in the red blouse is seen holding a spoon as well.",
+    "objects": [
+      "blouse",
+      "well",
+      "spoon",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman in the red blouse is seen holding a spoon as well.",
+    "objects": [
+      "blouse",
+      "well",
+      "spoon",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "red"
+    ],
+    "segment_id": 7
+  }
+]

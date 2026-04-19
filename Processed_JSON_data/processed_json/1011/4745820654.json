@@ -1,0 +1,544 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features three kittens in a playful interaction on a couch with newspapers scattered around them.",
+    "objects": [
+      "three",
+      "around",
+      "them",
+      "couch",
+      "interaction",
+      "playful"
+    ],
+    "actions": [
+      "newspapers",
+      "scattered",
+      "kittens",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features three kittens in a playful interaction on a couch with newspapers scattered around them.",
+    "objects": [
+      "three",
+      "around",
+      "them",
+      "couch",
+      "interaction",
+      "playful"
+    ],
+    "actions": [
+      "newspapers",
+      "scattered",
+      "kittens",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The kittens are of varying colors - one is white, one is grey, and one is black.",
+    "objects": [
+      "one",
+      "black",
+      "white",
+      "grey"
+    ],
+    "actions": [
+      "colors",
+      "varying",
+      "kittens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The kittens are of varying colors - one is white, one is grey, and one is black.",
+    "objects": [
+      "one",
+      "black",
+      "white",
+      "grey"
+    ],
+    "actions": [
+      "colors",
+      "varying",
+      "kittens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The black kitten is on the left, the white kitten is in the middle, and the grey kitten is on the right.",
+    "objects": [
+      "kitten",
+      "white",
+      "middle",
+      "black",
+      "grey"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The black kitten is on the left, the white kitten is in the middle, and the grey kitten is on the right.",
+    "objects": [
+      "kitten",
+      "white",
+      "middle",
+      "black",
+      "grey"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The kitten in the middle is the one that starts playing with the newspapers.",
+    "objects": [
+      "middle",
+      "kitten",
+      "that",
+      "one"
+    ],
+    "actions": [
+      "playing",
+      "starts",
+      "newspapers"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The kitten in the middle is the one that starts playing with the newspapers.",
+    "objects": [
+      "middle",
+      "kitten",
+      "that",
+      "one"
+    ],
+    "actions": [
+      "playing",
+      "starts",
+      "newspapers"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "Initially, the kitten in the middle is holding a newspaper in its paws.",
+    "objects": [
+      "kitten",
+      "its",
+      "newspaper",
+      "middle",
+      "paws",
+      "initially"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "Initially, the kitten in the middle is holding a newspaper in its paws.",
+    "objects": [
+      "kitten",
+      "its",
+      "newspaper",
+      "middle",
+      "paws",
+      "initially"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The kitten on the right is lying down with its back to the camera, and the kitten in the middle is standing up, walking around, and trying to interact with the newspapers.",
+    "objects": [
+      "kitten",
+      "its",
+      "middle",
+      "interact",
+      "around"
+    ],
+    "actions": [
+      "standing",
+      "lying",
+      "newspapers",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The kitten on the right is lying down with its back to the camera, and the kitten in the middle is standing up, walking around, and trying to interact with the newspapers.",
+    "objects": [
+      "kitten",
+      "its",
+      "middle",
+      "interact",
+      "around"
+    ],
+    "actions": [
+      "standing",
+      "lying",
+      "newspapers",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The kitten on the left is lying down, facing the camera, and appears to be watching the other two kittens play.",
+    "objects": [
+      "play",
+      "kitten",
+      "other",
+      "two"
+    ],
+    "actions": [
+      "facing",
+      "lying",
+      "watching",
+      "kittens"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The kitten on the left is lying down, facing the camera, and appears to be watching the other two kittens play.",
+    "objects": [
+      "play",
+      "kitten",
+      "other",
+      "two"
+    ],
+    "actions": [
+      "facing",
+      "lying",
+      "watching",
+      "kittens"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The scene starts with a black kitten standing on the left side of the couch, looking at the other two kittens.",
+    "objects": [
+      "kitten",
+      "other",
+      "two",
+      "black",
+      "couch",
+      "side"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "starts",
+      "kittens"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The scene starts with a black kitten standing on the left side of the couch, looking at the other two kittens.",
+    "objects": [
+      "kitten",
+      "other",
+      "two",
+      "black",
+      "couch",
+      "side"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "starts",
+      "kittens"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The kitten in the middle is holding a newspaper in its paws, walking around, and the kitten on the right is lying down.",
+    "objects": [
+      "kitten",
+      "its",
+      "newspaper",
+      "middle",
+      "around",
+      "paws"
+    ],
+    "actions": [
+      "lying",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The kitten in the middle is holding a newspaper in its paws, walking around, and the kitten on the right is lying down.",
+    "objects": [
+      "kitten",
+      "its",
+      "newspaper",
+      "middle",
+      "around",
+      "paws"
+    ],
+    "actions": [
+      "lying",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The kitten in the middle begins to play with the newspapers, holding one in its mouth and the other in its paws.",
+    "objects": [
+      "one",
+      "kitten",
+      "its",
+      "mouth",
+      "other",
+      "middle",
+      "paws",
+      "play"
+    ],
+    "actions": [
+      "begins",
+      "holding",
+      "newspapers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The kitten in the middle begins to play with the newspapers, holding one in its mouth and the other in its paws.",
+    "objects": [
+      "one",
+      "kitten",
+      "its",
+      "mouth",
+      "other",
+      "middle",
+      "paws",
+      "play"
+    ],
+    "actions": [
+      "begins",
+      "holding",
+      "newspapers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The kitten on the left watches the middle kitten play.",
+    "objects": [
+      "middle",
+      "kitten",
+      "play"
+    ],
+    "actions": [
+      "watches"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The kitten on the left watches the middle kitten play.",
+    "objects": [
+      "middle",
+      "kitten",
+      "play"
+    ],
+    "actions": [
+      "watches"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The kitten on the right then lies down, facing the camera, and the kitten in the middle starts walking around.",
+    "objects": [
+      "kitten",
+      "lies",
+      "middle",
+      "around",
+      "then"
+    ],
+    "actions": [
+      "facing",
+      "starts",
+      "walking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The kitten on the right then lies down, facing the camera, and the kitten in the middle starts walking around.",
+    "objects": [
+      "kitten",
+      "lies",
+      "middle",
+      "around",
+      "then"
+    ],
+    "actions": [
+      "facing",
+      "starts",
+      "walking"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The kitten on the left continues to watch as the other two kittens play.",
+    "objects": [
+      "kitten",
+      "other",
+      "two",
+      "watch",
+      "play"
+    ],
+    "actions": [
+      "continues",
+      "kittens"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The kitten on the left continues to watch as the other two kittens play.",
+    "objects": [
+      "kitten",
+      "other",
+      "two",
+      "watch",
+      "play"
+    ],
+    "actions": [
+      "continues",
+      "kittens"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The kitten in the middle then starts to play with the newspapers, holding one in its mouth and the other in its paws.",
+    "objects": [
+      "one",
+      "kitten",
+      "its",
+      "mouth",
+      "other",
+      "middle",
+      "paws",
+      "play"
+    ],
+    "actions": [
+      "holding",
+      "starts",
+      "newspapers"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The kitten in the middle then starts to play with the newspapers, holding one in its mouth and the other in its paws.",
+    "objects": [
+      "one",
+      "kitten",
+      "its",
+      "mouth",
+      "other",
+      "middle",
+      "paws",
+      "play"
+    ],
+    "actions": [
+      "holding",
+      "starts",
+      "newspapers"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The kitten on the right lies down, facing the camera, and the kitten in the middle continues to walk around.",
+    "objects": [
+      "walk",
+      "kitten",
+      "lies",
+      "middle",
+      "around"
+    ],
+    "actions": [
+      "continues",
+      "facing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The kitten on the right lies down, facing the camera, and the kitten in the middle continues to walk around.",
+    "objects": [
+      "walk",
+      "kitten",
+      "lies",
+      "middle",
+      "around"
+    ],
+    "actions": [
+      "continues",
+      "facing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The kitten on the left watches as the other two kittens play.",
+    "objects": [
+      "play",
+      "kitten",
+      "other",
+      "two"
+    ],
+    "actions": [
+      "kittens",
+      "watches"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The kitten on the left watches as the other two kittens play.",
+    "objects": [
+      "play",
+      "kitten",
+      "other",
+      "two"
+    ],
+    "actions": [
+      "kittens",
+      "watches"
+    ],
+    "segment_id": 15
+  }
+]

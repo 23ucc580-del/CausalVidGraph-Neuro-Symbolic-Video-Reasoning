@@ -1,0 +1,612 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people gathered on a balcony, engaged in various activities.",
+    "objects": [
+      "this",
+      "people",
+      "balcony",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people gathered on a balcony, engaged in various activities.",
+    "objects": [
+      "this",
+      "people",
+      "balcony",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people gathered on a balcony, engaged in various activities.",
+    "objects": [
+      "this",
+      "people",
+      "balcony",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A young boy is standing in the center, looking up at the camera with a smile, wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "young",
+      "smile",
+      "hoodie",
+      "boy",
+      "center"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A young boy is standing in the center, looking up at the camera with a smile, wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "young",
+      "smile",
+      "hoodie",
+      "boy",
+      "center"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A young boy is standing in the center, looking up at the camera with a smile, wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "young",
+      "smile",
+      "hoodie",
+      "boy",
+      "center"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "To his right, a young girl is sitting, dressed in a blue dress and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "his",
+      "dress",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "stuffed",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "To his right, a young girl is sitting, dressed in a blue dress and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "his",
+      "dress",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "stuffed",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "To his right, a young girl is sitting, dressed in a blue dress and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "his",
+      "dress",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "sitting",
+      "holding",
+      "stuffed",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Beside her, an adult woman in a blue dress is standing, wearing a blue hoodie, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "beside",
+      "her",
+      "adult",
+      "dress",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "stuffed",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Beside her, an adult woman in a blue dress is standing, wearing a blue hoodie, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "beside",
+      "her",
+      "adult",
+      "dress",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "stuffed",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Beside her, an adult woman in a blue dress is standing, wearing a blue hoodie, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "beside",
+      "her",
+      "adult",
+      "dress",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "stuffed",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "To the left of the girl, an adult man is also standing, wearing a brown shirt, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "adult",
+      "man",
+      "shirt",
+      "girl",
+      "brown"
+    ],
+    "actions": [
+      "stuffed",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "To the left of the girl, an adult man is also standing, wearing a brown shirt, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "adult",
+      "man",
+      "shirt",
+      "girl",
+      "brown"
+    ],
+    "actions": [
+      "stuffed",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "To the left of the girl, an adult man is also standing, wearing a brown shirt, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "adult",
+      "man",
+      "shirt",
+      "girl",
+      "brown"
+    ],
+    "actions": [
+      "stuffed",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "In front of the boy, another young girl is sitting, wearing a blue dress, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "dress",
+      "young",
+      "girl",
+      "boy"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "In front of the boy, another young girl is sitting, wearing a blue dress, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "dress",
+      "young",
+      "girl",
+      "boy"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "In front of the boy, another young girl is sitting, wearing a blue dress, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "dress",
+      "young",
+      "girl",
+      "boy"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "On the left side of the scene, a young girl is standing, wearing a blue dress, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "side",
+      "dress",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "stuffed",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "On the left side of the scene, a young girl is standing, wearing a blue dress, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "side",
+      "dress",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "stuffed",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "On the left side of the scene, a young girl is standing, wearing a blue dress, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "side",
+      "dress",
+      "young",
+      "girl"
+    ],
+    "actions": [
+      "stuffed",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "On the right side of the scene, a young boy is sitting, wearing a brown shirt, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "side",
+      "young",
+      "shirt",
+      "boy",
+      "brown"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "On the right side of the scene, a young boy is sitting, wearing a brown shirt, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "side",
+      "young",
+      "shirt",
+      "boy",
+      "brown"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "On the right side of the scene, a young boy is sitting, wearing a brown shirt, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "side",
+      "young",
+      "shirt",
+      "boy",
+      "brown"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The man and the woman in the middle are also standing, wearing brown shirts and holding blue stuffed animals.",
+    "objects": [
+      "blue",
+      "middle",
+      "man",
+      "brown",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "stuffed",
+      "shirts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The man and the woman in the middle are also standing, wearing brown shirts and holding blue stuffed animals.",
+    "objects": [
+      "blue",
+      "middle",
+      "man",
+      "brown",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "stuffed",
+      "shirts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The man and the woman in the middle are also standing, wearing brown shirts and holding blue stuffed animals.",
+    "objects": [
+      "blue",
+      "middle",
+      "man",
+      "brown",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "stuffed",
+      "shirts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The girl in the center is sitting, wearing a brown dress, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "dress",
+      "girl",
+      "brown",
+      "center"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The girl in the center is sitting, wearing a brown dress, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "dress",
+      "girl",
+      "brown",
+      "center"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The girl in the center is sitting, wearing a brown dress, and holding a blue stuffed animal.",
+    "objects": [
+      "blue",
+      "animal",
+      "dress",
+      "girl",
+      "brown",
+      "center"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "stuffed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is a lively gathering of people, each with a blue stuffed animal in hand, enjoying their time on the balcony.",
+    "objects": [
+      "blue",
+      "animal",
+      "hand",
+      "each",
+      "people",
+      "lively",
+      "time",
+      "balcony"
+    ],
+    "actions": [
+      "gathering",
+      "stuffed",
+      "enjoying"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is a lively gathering of people, each with a blue stuffed animal in hand, enjoying their time on the balcony.",
+    "objects": [
+      "blue",
+      "animal",
+      "hand",
+      "each",
+      "people",
+      "lively",
+      "time",
+      "balcony"
+    ],
+    "actions": [
+      "gathering",
+      "stuffed",
+      "enjoying"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,618 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, an elderly man with gray hair and a blue shirt is seated on the ground, holding a flute.",
+    "objects": [
+      "hair",
+      "elderly",
+      "blue",
+      "flute",
+      "gray",
+      "shirt",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, an elderly man with gray hair and a blue shirt is seated on the ground, holding a flute.",
+    "objects": [
+      "hair",
+      "elderly",
+      "blue",
+      "flute",
+      "gray",
+      "shirt",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, an elderly man with gray hair and a blue shirt is seated on the ground, holding a flute.",
+    "objects": [
+      "hair",
+      "elderly",
+      "blue",
+      "flute",
+      "gray",
+      "shirt",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, an elderly man with gray hair and a blue shirt is seated on the ground, holding a flute.",
+    "objects": [
+      "hair",
+      "elderly",
+      "blue",
+      "flute",
+      "gray",
+      "shirt",
+      "man",
+      "ground"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is positioned in the center of the frame, with a young boy wearing a crown standing next to him.",
+    "objects": [
+      "boy",
+      "him",
+      "crown",
+      "center",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "positioned",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is positioned in the center of the frame, with a young boy wearing a crown standing next to him.",
+    "objects": [
+      "boy",
+      "him",
+      "crown",
+      "center",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "positioned",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is positioned in the center of the frame, with a young boy wearing a crown standing next to him.",
+    "objects": [
+      "boy",
+      "him",
+      "crown",
+      "center",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "positioned",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is positioned in the center of the frame, with a young boy wearing a crown standing next to him.",
+    "objects": [
+      "boy",
+      "him",
+      "crown",
+      "center",
+      "young"
+    ],
+    "actions": [
+      "wearing",
+      "positioned",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is playing the flute, producing a soothing tune, and the boy appears to be watching him with interest.",
+    "objects": [
+      "boy",
+      "him",
+      "flute",
+      "tune",
+      "man",
+      "interest"
+    ],
+    "actions": [
+      "playing",
+      "soothing",
+      "watching",
+      "producing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is playing the flute, producing a soothing tune, and the boy appears to be watching him with interest.",
+    "objects": [
+      "boy",
+      "him",
+      "flute",
+      "tune",
+      "man",
+      "interest"
+    ],
+    "actions": [
+      "playing",
+      "soothing",
+      "watching",
+      "producing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man is playing the flute, producing a soothing tune, and the boy appears to be watching him with interest.",
+    "objects": [
+      "boy",
+      "him",
+      "flute",
+      "tune",
+      "man",
+      "interest"
+    ],
+    "actions": [
+      "playing",
+      "soothing",
+      "watching",
+      "producing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man is playing the flute, producing a soothing tune, and the boy appears to be watching him with interest.",
+    "objects": [
+      "boy",
+      "him",
+      "flute",
+      "tune",
+      "man",
+      "interest"
+    ],
+    "actions": [
+      "playing",
+      "soothing",
+      "watching",
+      "producing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The boy is wearing a blue crown and a green outfit, while the man is dressed in a blue shirt and blue pants.",
+    "objects": [
+      "outfit",
+      "boy",
+      "while",
+      "blue",
+      "green",
+      "shirt",
+      "crown",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The boy is wearing a blue crown and a green outfit, while the man is dressed in a blue shirt and blue pants.",
+    "objects": [
+      "outfit",
+      "boy",
+      "while",
+      "blue",
+      "green",
+      "shirt",
+      "crown",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The boy is wearing a blue crown and a green outfit, while the man is dressed in a blue shirt and blue pants.",
+    "objects": [
+      "outfit",
+      "boy",
+      "while",
+      "blue",
+      "green",
+      "shirt",
+      "crown",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The boy is wearing a blue crown and a green outfit, while the man is dressed in a blue shirt and blue pants.",
+    "objects": [
+      "outfit",
+      "boy",
+      "while",
+      "blue",
+      "green",
+      "shirt",
+      "crown",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The setting appears to be a casual outdoor gathering or event, with several children and adults present, some of whom are wearing crowns on their heads.",
+    "objects": [
+      "their",
+      "casual",
+      "whom",
+      "children",
+      "several",
+      "event",
+      "some",
+      "outdoor"
+    ],
+    "actions": [
+      "crowns",
+      "wearing",
+      "gathering",
+      "heads"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The setting appears to be a casual outdoor gathering or event, with several children and adults present, some of whom are wearing crowns on their heads.",
+    "objects": [
+      "their",
+      "casual",
+      "whom",
+      "children",
+      "several",
+      "event",
+      "some",
+      "outdoor"
+    ],
+    "actions": [
+      "crowns",
+      "wearing",
+      "gathering",
+      "heads"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The setting appears to be a casual outdoor gathering or event, with several children and adults present, some of whom are wearing crowns on their heads.",
+    "objects": [
+      "their",
+      "casual",
+      "whom",
+      "children",
+      "several",
+      "event",
+      "some",
+      "outdoor"
+    ],
+    "actions": [
+      "crowns",
+      "wearing",
+      "gathering",
+      "heads"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The setting appears to be a casual outdoor gathering or event, with several children and adults present, some of whom are wearing crowns on their heads.",
+    "objects": [
+      "their",
+      "casual",
+      "whom",
+      "children",
+      "several",
+      "event",
+      "some",
+      "outdoor"
+    ],
+    "actions": [
+      "crowns",
+      "wearing",
+      "gathering",
+      "heads"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "One little girl is sitting on the ground, holding a toy, while a boy is standing next to her.",
+    "objects": [
+      "one",
+      "boy",
+      "while",
+      "little",
+      "her",
+      "girl",
+      "ground",
+      "toy"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "One little girl is sitting on the ground, holding a toy, while a boy is standing next to her.",
+    "objects": [
+      "one",
+      "boy",
+      "while",
+      "little",
+      "her",
+      "girl",
+      "ground",
+      "toy"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "One little girl is sitting on the ground, holding a toy, while a boy is standing next to her.",
+    "objects": [
+      "one",
+      "boy",
+      "while",
+      "little",
+      "her",
+      "girl",
+      "ground",
+      "toy"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "One little girl is sitting on the ground, holding a toy, while a boy is standing next to her.",
+    "objects": [
+      "one",
+      "boy",
+      "while",
+      "little",
+      "her",
+      "girl",
+      "ground",
+      "toy"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a blue shirt is holding a bottle, and a boy in a black shirt is standing near a drum.",
+    "objects": [
+      "boy",
+      "drum",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a blue shirt is holding a bottle, and a boy in a black shirt is standing near a drum.",
+    "objects": [
+      "boy",
+      "drum",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a blue shirt is holding a bottle, and a boy in a black shirt is standing near a drum.",
+    "objects": [
+      "boy",
+      "drum",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a blue shirt is holding a bottle, and a boy in a black shirt is standing near a drum.",
+    "objects": [
+      "boy",
+      "drum",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, a young boy wearing a yellow crown and a green shirt is standing, while a little girl in a pink dress is sitting on the ground.",
+    "objects": [
+      "boy",
+      "pink",
+      "while",
+      "yellow",
+      "green",
+      "little",
+      "shirt",
+      "crown"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, a young boy wearing a yellow crown and a green shirt is standing, while a little girl in a pink dress is sitting on the ground.",
+    "objects": [
+      "boy",
+      "pink",
+      "while",
+      "yellow",
+      "green",
+      "little",
+      "shirt",
+      "crown"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "In the background, a young boy wearing a yellow crown and a green shirt is standing, while a little girl in a pink dress is sitting on the ground.",
+    "objects": [
+      "boy",
+      "pink",
+      "while",
+      "yellow",
+      "green",
+      "little",
+      "shirt",
+      "crown"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "In the background, a young boy wearing a yellow crown and a green shirt is standing, while a little girl in a pink dress is sitting on the ground.",
+    "objects": [
+      "boy",
+      "pink",
+      "while",
+      "yellow",
+      "green",
+      "little",
+      "shirt",
+      "crown"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 7
+  }
+]

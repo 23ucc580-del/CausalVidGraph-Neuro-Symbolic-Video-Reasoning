@@ -1,0 +1,507 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a band is performing on stage.",
+    "objects": [
+      "band",
+      "stage"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a band is performing on stage.",
+    "objects": [
+      "band",
+      "stage"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a band is performing on stage.",
+    "objects": [
+      "band",
+      "stage"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The singer, wearing a blue t-shirt with a graphic design, is holding a microphone and singing into it.",
+    "objects": [
+      "microphone",
+      "singer",
+      "design",
+      "blue",
+      "into",
+      "graphic"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The singer, wearing a blue t-shirt with a graphic design, is holding a microphone and singing into it.",
+    "objects": [
+      "microphone",
+      "singer",
+      "design",
+      "blue",
+      "into",
+      "graphic"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The singer, wearing a blue t-shirt with a graphic design, is holding a microphone and singing into it.",
+    "objects": [
+      "microphone",
+      "singer",
+      "design",
+      "blue",
+      "into",
+      "graphic"
+    ],
+    "actions": [
+      "singing",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The guitarist, dressed in a black shirt, is also holding a microphone and playing his guitar.",
+    "objects": [
+      "microphone",
+      "guitarist",
+      "shirt",
+      "guitar",
+      "his",
+      "black"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The guitarist, dressed in a black shirt, is also holding a microphone and playing his guitar.",
+    "objects": [
+      "microphone",
+      "guitarist",
+      "shirt",
+      "guitar",
+      "his",
+      "black"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The guitarist, dressed in a black shirt, is also holding a microphone and playing his guitar.",
+    "objects": [
+      "microphone",
+      "guitarist",
+      "shirt",
+      "guitar",
+      "his",
+      "black"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The bassist, wearing a red shirt, is playing the bass guitar and also holding a microphone.",
+    "objects": [
+      "microphone",
+      "bass",
+      "shirt",
+      "guitar",
+      "bassist"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The bassist, wearing a red shirt, is playing the bass guitar and also holding a microphone.",
+    "objects": [
+      "microphone",
+      "bass",
+      "shirt",
+      "guitar",
+      "bassist"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The bassist, wearing a red shirt, is playing the bass guitar and also holding a microphone.",
+    "objects": [
+      "microphone",
+      "bass",
+      "shirt",
+      "guitar",
+      "bassist"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The drummer, dressed in a white shirt, is playing the drums and holding a microphone.",
+    "objects": [
+      "white",
+      "drummer",
+      "microphone",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "holding",
+      "drums"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The drummer, dressed in a white shirt, is playing the drums and holding a microphone.",
+    "objects": [
+      "white",
+      "drummer",
+      "microphone",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "holding",
+      "drums"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The drummer, dressed in a white shirt, is playing the drums and holding a microphone.",
+    "objects": [
+      "white",
+      "drummer",
+      "microphone",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "holding",
+      "drums"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The keyboardist, wearing a purple shirt, is playing the keyboard.",
+    "objects": [
+      "purple",
+      "keyboardist",
+      "keyboard",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The keyboardist, wearing a purple shirt, is playing the keyboard.",
+    "objects": [
+      "purple",
+      "keyboardist",
+      "keyboard",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The keyboardist, wearing a purple shirt, is playing the keyboard.",
+    "objects": [
+      "purple",
+      "keyboardist",
+      "keyboard",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The singer's hair is black, and he is singing with a passionate expression.",
+    "objects": [
+      "black",
+      "passionate",
+      "expression",
+      "hair"
+    ],
+    "actions": [
+      "singing",
+      "singer's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The singer's hair is black, and he is singing with a passionate expression.",
+    "objects": [
+      "black",
+      "passionate",
+      "expression",
+      "hair"
+    ],
+    "actions": [
+      "singing",
+      "singer's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The singer's hair is black, and he is singing with a passionate expression.",
+    "objects": [
+      "black",
+      "passionate",
+      "expression",
+      "hair"
+    ],
+    "actions": [
+      "singing",
+      "singer's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The guitarist's hair is black, and he is playing his guitar.",
+    "objects": [
+      "black",
+      "guitar",
+      "his",
+      "hair"
+    ],
+    "actions": [
+      "playing",
+      "guitarist's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The guitarist's hair is black, and he is playing his guitar.",
+    "objects": [
+      "black",
+      "guitar",
+      "his",
+      "hair"
+    ],
+    "actions": [
+      "playing",
+      "guitarist's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The guitarist's hair is black, and he is playing his guitar.",
+    "objects": [
+      "black",
+      "guitar",
+      "his",
+      "hair"
+    ],
+    "actions": [
+      "playing",
+      "guitarist's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The bassist's hair is black, and he is bending over to play the bass.",
+    "objects": [
+      "hair",
+      "play",
+      "over",
+      "bass",
+      "black"
+    ],
+    "actions": [
+      "bassist's",
+      "bending"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The bassist's hair is black, and he is bending over to play the bass.",
+    "objects": [
+      "hair",
+      "play",
+      "over",
+      "bass",
+      "black"
+    ],
+    "actions": [
+      "bassist's",
+      "bending"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The bassist's hair is black, and he is bending over to play the bass.",
+    "objects": [
+      "hair",
+      "play",
+      "over",
+      "bass",
+      "black"
+    ],
+    "actions": [
+      "bassist's",
+      "bending"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The drummer's hair is brown, and he is playing the drums with intensity.",
+    "objects": [
+      "brown",
+      "intensity",
+      "hair"
+    ],
+    "actions": [
+      "drummer's",
+      "drums",
+      "playing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The drummer's hair is brown, and he is playing the drums with intensity.",
+    "objects": [
+      "brown",
+      "intensity",
+      "hair"
+    ],
+    "actions": [
+      "drummer's",
+      "drums",
+      "playing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The drummer's hair is brown, and he is playing the drums with intensity.",
+    "objects": [
+      "brown",
+      "intensity",
+      "hair"
+    ],
+    "actions": [
+      "drummer's",
+      "drums",
+      "playing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The keyboardist's hair is black, and he is playing the keyboard.",
+    "objects": [
+      "black",
+      "keyboard",
+      "hair"
+    ],
+    "actions": [
+      "playing",
+      "keyboardist's"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The keyboardist's hair is black, and he is playing the keyboard.",
+    "objects": [
+      "black",
+      "keyboard",
+      "hair"
+    ],
+    "actions": [
+      "playing",
+      "keyboardist's"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered in a large, well-lit room, likely a gymnasium or a similar indoor sports facility.",
+    "objects": [
+      "large",
+      "indoor",
+      "similar",
+      "people",
+      "facility",
+      "gymnasium",
+      "room",
+      "likely"
+    ],
+    "actions": [
+      "gathered",
+      "sports"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered in a large, well-lit room, likely a gymnasium or a similar indoor sports facility.",
+    "objects": [
+      "large",
+      "indoor",
+      "similar",
+      "people",
+      "facility",
+      "gymnasium",
+      "room",
+      "likely"
+    ],
+    "actions": [
+      "gathered",
+      "sports"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The room is decorated with colorful balloons and a large screen is displayed on the wall.",
+    "objects": [
+      "large",
+      "wall",
+      "screen",
+      "colorful",
+      "room"
+    ],
+    "actions": [
+      "displayed",
+      "decorated",
+      "balloons"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The room is decorated with colorful balloons and a large screen is displayed on the wall.",
+    "objects": [
+      "large",
+      "wall",
+      "screen",
+      "colorful",
+      "room"
+    ],
+    "actions": [
+      "displayed",
+      "decorated",
+      "balloons"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is lively and festive, with a mix of individuals standing, walking, and interacting with one another.",
+    "objects": [
+      "mix",
+      "one",
+      "festive",
+      "lively"
+    ],
+    "actions": [
+      "standing",
+      "individuals",
+      "walking",
+      "interacting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is lively and festive, with a mix of individuals standing, walking, and interacting with one another.",
+    "objects": [
+      "mix",
+      "one",
+      "festive",
+      "lively"
+    ],
+    "actions": [
+      "standing",
+      "individuals",
+      "walking",
+      "interacting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "- Two individuals are standing in the middle of the room, engaged in conversation or watching something off-camera.",
+    "objects": [
+      "middle",
+      "room",
+      "conversation",
+      "two"
+    ],
+    "actions": [
+      "standing",
+      "engaged",
+      "something",
+      "individuals"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "- Two individuals are standing in the middle of the room, engaged in conversation or watching something off-camera.",
+    "objects": [
+      "middle",
+      "room",
+      "conversation",
+      "two"
+    ],
+    "actions": [
+      "standing",
+      "engaged",
+      "something",
+      "individuals"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "- A woman and a child are standing close to each other, with the woman possibly holding the child.",
+    "objects": [
+      "other",
+      "each",
+      "child",
+      "woman",
+      "possibly",
+      "close"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "- A woman and a child are standing close to each other, with the woman possibly holding the child.",
+    "objects": [
+      "other",
+      "each",
+      "child",
+      "woman",
+      "possibly",
+      "close"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "- A man and a young girl are standing in front of the screen, with the man possibly holding the child.",
+    "objects": [
+      "screen",
+      "child",
+      "young",
+      "possibly",
+      "girl",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "- A man and a young girl are standing in front of the screen, with the man possibly holding the child.",
+    "objects": [
+      "screen",
+      "child",
+      "young",
+      "possibly",
+      "girl",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "- A woman and a young boy are standing close together, with the woman holding the boy.",
+    "objects": [
+      "boy",
+      "woman",
+      "young",
+      "close",
+      "together"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "- A woman and a young boy are standing close together, with the woman holding the boy.",
+    "objects": [
+      "boy",
+      "woman",
+      "young",
+      "close",
+      "together"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "- Another woman and a young boy are standing near each other, with the woman holding the boy.",
+    "objects": [
+      "other",
+      "each",
+      "boy",
+      "woman",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "- Another woman and a young boy are standing near each other, with the woman holding the boy.",
+    "objects": [
+      "other",
+      "each",
+      "boy",
+      "woman",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "- There is a man and a young girl standing near each other, with the man holding the girl.",
+    "objects": [
+      "each",
+      "there",
+      "other",
+      "young",
+      "girl",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "- There is a man and a young girl standing near each other, with the man holding the girl.",
+    "objects": [
+      "each",
+      "there",
+      "other",
+      "young",
+      "girl",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "- A woman and a young boy are standing next to each other, with the woman holding the boy.",
+    "objects": [
+      "other",
+      "each",
+      "boy",
+      "woman",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "- A woman and a young boy are standing next to each other, with the woman holding the boy.",
+    "objects": [
+      "other",
+      "each",
+      "boy",
+      "woman",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "- A man and a young girl are standing near each other, with the man holding the girl.",
+    "objects": [
+      "each",
+      "other",
+      "young",
+      "girl",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "- A man and a young girl are standing near each other, with the man holding the girl.",
+    "objects": [
+      "each",
+      "other",
+      "young",
+      "girl",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "- A woman and a young boy are standing next to each other, with the woman holding the boy.",
+    "objects": [
+      "other",
+      "each",
+      "boy",
+      "woman",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "- A woman and a young boy are standing next to each other, with the woman holding the boy.",
+    "objects": [
+      "other",
+      "each",
+      "boy",
+      "woman",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "- There is a man and a young boy standing near each other, with the man holding the boy.",
+    "objects": [
+      "each",
+      "there",
+      "boy",
+      "other",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "- There is a man and a young boy standing near each other, with the man holding the boy.",
+    "objects": [
+      "each",
+      "there",
+      "boy",
+      "other",
+      "young",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "- A man and a young girl are standing next to each other, with the man holding the girl.",
+    "objects": [
+      "each",
+      "other",
+      "young",
+      "girl",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "- A man and a young girl are standing next to each other, with the man holding the girl.",
+    "objects": [
+      "each",
+      "other",
+      "young",
+      "girl",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "- A woman and a young boy are standing near each other, with the woman holding the boy.",
+    "objects": [
+      "other",
+      "each",
+      "boy",
+      "woman",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "- A woman and a young boy are standing near each other, with the woman holding the boy.",
+    "objects": [
+      "other",
+      "each",
+      "boy",
+      "woman",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "- A woman and a young boy are standing next to each other, with the woman holding the boy.",
+    "objects": [
+      "other",
+      "each",
+      "boy",
+      "woman",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "- A woman and a young boy are standing next to each other, with the woman holding the boy.",
+    "objects": [
+      "other",
+      "each",
+      "boy",
+      "woman",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

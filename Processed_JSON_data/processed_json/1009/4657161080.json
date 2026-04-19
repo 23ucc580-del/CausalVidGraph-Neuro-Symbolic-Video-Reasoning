@@ -1,0 +1,527 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people gathered on a stage, engaged in a musical performance.",
+    "objects": [
+      "people",
+      "musical",
+      "see",
+      "performance",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people gathered on a stage, engaged in a musical performance.",
+    "objects": [
+      "people",
+      "musical",
+      "see",
+      "performance",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of people gathered on a stage, engaged in a musical performance.",
+    "objects": [
+      "people",
+      "musical",
+      "see",
+      "performance",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The stage is adorned with various musical instruments, including a drum set, a keyboard, and a microphone.",
+    "objects": [
+      "drum",
+      "keyboard",
+      "musical",
+      "microphone",
+      "set",
+      "stage"
+    ],
+    "actions": [
+      "adorned",
+      "instruments"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The stage is adorned with various musical instruments, including a drum set, a keyboard, and a microphone.",
+    "objects": [
+      "drum",
+      "keyboard",
+      "musical",
+      "microphone",
+      "set",
+      "stage"
+    ],
+    "actions": [
+      "adorned",
+      "instruments"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The stage is adorned with various musical instruments, including a drum set, a keyboard, and a microphone.",
+    "objects": [
+      "drum",
+      "keyboard",
+      "musical",
+      "microphone",
+      "set",
+      "stage"
+    ],
+    "actions": [
+      "adorned",
+      "instruments"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man is playing the drums, while another man is playing the keyboard.",
+    "objects": [
+      "while",
+      "man",
+      "keyboard"
+    ],
+    "actions": [
+      "playing",
+      "drums"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A man is playing the drums, while another man is playing the keyboard.",
+    "objects": [
+      "while",
+      "man",
+      "keyboard"
+    ],
+    "actions": [
+      "playing",
+      "drums"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A man is playing the drums, while another man is playing the keyboard.",
+    "objects": [
+      "while",
+      "man",
+      "keyboard"
+    ],
+    "actions": [
+      "playing",
+      "drums"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "In the background, a woman is singing into a microphone.",
+    "objects": [
+      "microphone",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "In the background, a woman is singing into a microphone.",
+    "objects": [
+      "microphone",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "In the background, a woman is singing into a microphone.",
+    "objects": [
+      "microphone",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "On the left side of the stage, there is a man playing a stringed instrument, and a woman is also singing into a microphone.",
+    "objects": [
+      "there",
+      "woman",
+      "into",
+      "microphone",
+      "instrument",
+      "side",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "stringed",
+      "singing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "On the left side of the stage, there is a man playing a stringed instrument, and a woman is also singing into a microphone.",
+    "objects": [
+      "there",
+      "woman",
+      "into",
+      "microphone",
+      "instrument",
+      "side",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "stringed",
+      "singing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "On the left side of the stage, there is a man playing a stringed instrument, and a woman is also singing into a microphone.",
+    "objects": [
+      "there",
+      "woman",
+      "into",
+      "microphone",
+      "instrument",
+      "side",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "stringed",
+      "singing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "Another man is playing the flute.",
+    "objects": [
+      "man",
+      "flute"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "Another man is playing the flute.",
+    "objects": [
+      "man",
+      "flute"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "Another man is playing the flute.",
+    "objects": [
+      "man",
+      "flute"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The performers are all dressed in traditional Indian attire, with some wearing colorful outfits and others in more subdued tones.",
+    "objects": [
+      "attire",
+      "traditional",
+      "some",
+      "indian",
+      "colorful",
+      "more",
+      "all"
+    ],
+    "actions": [
+      "performers",
+      "others",
+      "wearing",
+      "outfits"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The performers are all dressed in traditional Indian attire, with some wearing colorful outfits and others in more subdued tones.",
+    "objects": [
+      "attire",
+      "traditional",
+      "some",
+      "indian",
+      "colorful",
+      "more",
+      "all"
+    ],
+    "actions": [
+      "performers",
+      "others",
+      "wearing",
+      "outfits"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The performers are all dressed in traditional Indian attire, with some wearing colorful outfits and others in more subdued tones.",
+    "objects": [
+      "attire",
+      "traditional",
+      "some",
+      "indian",
+      "colorful",
+      "more",
+      "all"
+    ],
+    "actions": [
+      "performers",
+      "others",
+      "wearing",
+      "outfits"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "One woman is wearing a blue dress, while another is in a white shirt and blue pants.",
+    "objects": [
+      "one",
+      "white",
+      "woman",
+      "while",
+      "blue",
+      "shirt",
+      "dress"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "One woman is wearing a blue dress, while another is in a white shirt and blue pants.",
+    "objects": [
+      "one",
+      "white",
+      "woman",
+      "while",
+      "blue",
+      "shirt",
+      "dress"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "One woman is wearing a blue dress, while another is in a white shirt and blue pants.",
+    "objects": [
+      "one",
+      "white",
+      "woman",
+      "while",
+      "blue",
+      "shirt",
+      "dress"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The drummer is holding a drumstick, and the keyboardist is holding a microphone.",
+    "objects": [
+      "keyboardist",
+      "drummer",
+      "drumstick",
+      "microphone"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The drummer is holding a drumstick, and the keyboardist is holding a microphone.",
+    "objects": [
+      "keyboardist",
+      "drummer",
+      "drumstick",
+      "microphone"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The drummer is holding a drumstick, and the keyboardist is holding a microphone.",
+    "objects": [
+      "keyboardist",
+      "drummer",
+      "drumstick",
+      "microphone"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the foreground is wearing a blue shirt and blue pants, while the woman in the background is in a yellow dress.",
+    "objects": [
+      "woman",
+      "while",
+      "blue",
+      "yellow",
+      "shirt",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The man in the foreground is wearing a blue shirt and blue pants, while the woman in the background is in a yellow dress.",
+    "objects": [
+      "woman",
+      "while",
+      "blue",
+      "yellow",
+      "shirt",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The man in the foreground is wearing a blue shirt and blue pants, while the woman in the background is in a yellow dress.",
+    "objects": [
+      "woman",
+      "while",
+      "blue",
+      "yellow",
+      "shirt",
+      "dress",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The performers are fully immersed in their music, creating a vibrant and lively atmosphere.",
+    "objects": [
+      "their",
+      "vibrant",
+      "lively",
+      "fully",
+      "music",
+      "atmosphere"
+    ],
+    "actions": [
+      "performers",
+      "creating",
+      "immersed"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The performers are fully immersed in their music, creating a vibrant and lively atmosphere.",
+    "objects": [
+      "their",
+      "vibrant",
+      "lively",
+      "fully",
+      "music",
+      "atmosphere"
+    ],
+    "actions": [
+      "performers",
+      "creating",
+      "immersed"
+    ],
+    "segment_id": 10
+  }
+]

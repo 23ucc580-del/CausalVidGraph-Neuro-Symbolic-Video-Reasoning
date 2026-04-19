@@ -1,0 +1,596 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man dressed in a black shirt and brown pants standing on a grassy golf course, holding a golf club and looking down at the ground.",
+    "objects": [
+      "man",
+      "grassy",
+      "golf",
+      "see",
+      "brown",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "holding",
+      "pants",
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man dressed in a black shirt and brown pants standing on a grassy golf course, holding a golf club and looking down at the ground.",
+    "objects": [
+      "man",
+      "grassy",
+      "golf",
+      "see",
+      "brown",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "holding",
+      "pants",
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man dressed in a black shirt and brown pants standing on a grassy golf course, holding a golf club and looking down at the ground.",
+    "objects": [
+      "man",
+      "grassy",
+      "golf",
+      "see",
+      "brown",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "holding",
+      "pants",
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man dressed in a black shirt and brown pants standing on a grassy golf course, holding a golf club and looking down at the ground.",
+    "objects": [
+      "man",
+      "grassy",
+      "golf",
+      "see",
+      "brown",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "holding",
+      "pants",
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a man dressed in a black shirt and brown pants standing on a grassy golf course, holding a golf club and looking down at the ground.",
+    "objects": [
+      "man",
+      "grassy",
+      "golf",
+      "see",
+      "brown",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "holding",
+      "pants",
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "In the video, we see a man dressed in a black shirt and brown pants standing on a grassy golf course, holding a golf club and looking down at the ground.",
+    "objects": [
+      "man",
+      "grassy",
+      "golf",
+      "see",
+      "brown",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "holding",
+      "pants",
+      "dressed",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 6,
+    "description": "Another man wearing a white shirt and blue shorts is also on the course, also holding a golf club and seemingly looking at the ground.",
+    "objects": [
+      "white",
+      "man",
+      "seemingly",
+      "golf",
+      "blue",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "looking",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "Another man wearing a white shirt and blue shorts is also on the course, also holding a golf club and seemingly looking at the ground.",
+    "objects": [
+      "white",
+      "man",
+      "seemingly",
+      "golf",
+      "blue",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "looking",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another man wearing a white shirt and blue shorts is also on the course, also holding a golf club and seemingly looking at the ground.",
+    "objects": [
+      "white",
+      "man",
+      "seemingly",
+      "golf",
+      "blue",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "looking",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "Another man wearing a white shirt and blue shorts is also on the course, also holding a golf club and seemingly looking at the ground.",
+    "objects": [
+      "white",
+      "man",
+      "seemingly",
+      "golf",
+      "blue",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "looking",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "Another man wearing a white shirt and blue shorts is also on the course, also holding a golf club and seemingly looking at the ground.",
+    "objects": [
+      "white",
+      "man",
+      "seemingly",
+      "golf",
+      "blue",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "looking",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 11,
+    "description": "Another man wearing a white shirt and blue shorts is also on the course, also holding a golf club and seemingly looking at the ground.",
+    "objects": [
+      "white",
+      "man",
+      "seemingly",
+      "golf",
+      "blue",
+      "shirt",
+      "club",
+      "course"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "looking",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 12,
+    "description": "The third man is wearing a green shirt and blue shorts and is standing next to the second man, also holding a golf club.",
+    "objects": [
+      "man",
+      "golf",
+      "green",
+      "blue",
+      "second",
+      "shirt",
+      "club",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The third man is wearing a green shirt and blue shorts and is standing next to the second man, also holding a golf club.",
+    "objects": [
+      "man",
+      "golf",
+      "green",
+      "blue",
+      "second",
+      "shirt",
+      "club",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The third man is wearing a green shirt and blue shorts and is standing next to the second man, also holding a golf club.",
+    "objects": [
+      "man",
+      "golf",
+      "green",
+      "blue",
+      "second",
+      "shirt",
+      "club",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The third man is wearing a green shirt and blue shorts and is standing next to the second man, also holding a golf club.",
+    "objects": [
+      "man",
+      "golf",
+      "green",
+      "blue",
+      "second",
+      "shirt",
+      "club",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 16,
+    "description": "The third man is wearing a green shirt and blue shorts and is standing next to the second man, also holding a golf club.",
+    "objects": [
+      "man",
+      "golf",
+      "green",
+      "blue",
+      "second",
+      "shirt",
+      "club",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 17,
+    "description": "The third man is wearing a green shirt and blue shorts and is standing next to the second man, also holding a golf club.",
+    "objects": [
+      "man",
+      "golf",
+      "green",
+      "blue",
+      "second",
+      "shirt",
+      "club",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 18,
+    "description": "All three men appear to be engaged in a game of golf.",
+    "objects": [
+      "all",
+      "three",
+      "golf",
+      "appear",
+      "men",
+      "game"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "All three men appear to be engaged in a game of golf.",
+    "objects": [
+      "all",
+      "three",
+      "golf",
+      "appear",
+      "men",
+      "game"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "All three men appear to be engaged in a game of golf.",
+    "objects": [
+      "all",
+      "three",
+      "golf",
+      "appear",
+      "men",
+      "game"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 21,
+    "description": "All three men appear to be engaged in a game of golf.",
+    "objects": [
+      "all",
+      "three",
+      "golf",
+      "appear",
+      "men",
+      "game"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 22,
+    "description": "All three men appear to be engaged in a game of golf.",
+    "objects": [
+      "all",
+      "three",
+      "golf",
+      "appear",
+      "men",
+      "game"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 23,
+    "description": "All three men appear to be engaged in a game of golf.",
+    "objects": [
+      "all",
+      "three",
+      "golf",
+      "appear",
+      "men",
+      "game"
+    ],
+    "actions": [
+      "engaged"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 24,
+    "description": "The golf course is lush with green grass and trees in the background.",
+    "objects": [
+      "golf",
+      "grass",
+      "green",
+      "lush",
+      "course"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The golf course is lush with green grass and trees in the background.",
+    "objects": [
+      "golf",
+      "grass",
+      "green",
+      "lush",
+      "course"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 26,
+    "description": "The golf course is lush with green grass and trees in the background.",
+    "objects": [
+      "golf",
+      "grass",
+      "green",
+      "lush",
+      "course"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 27,
+    "description": "The golf course is lush with green grass and trees in the background.",
+    "objects": [
+      "golf",
+      "grass",
+      "green",
+      "lush",
+      "course"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 28,
+    "description": "The golf course is lush with green grass and trees in the background.",
+    "objects": [
+      "golf",
+      "grass",
+      "green",
+      "lush",
+      "course"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 29,
+    "description": "The golf course is lush with green grass and trees in the background.",
+    "objects": [
+      "golf",
+      "grass",
+      "green",
+      "lush",
+      "course"
+    ],
+    "actions": [
+      "trees"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 30,
+    "description": "The sky is clear and blue, indicating it is a sunny day.",
+    "objects": [
+      "sunny",
+      "clear",
+      "sky",
+      "blue",
+      "day"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 31,
+    "description": "The sky is clear and blue, indicating it is a sunny day.",
+    "objects": [
+      "sunny",
+      "clear",
+      "sky",
+      "blue",
+      "day"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 5
+  }
+]

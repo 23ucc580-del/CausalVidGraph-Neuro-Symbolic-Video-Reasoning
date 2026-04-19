@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a woman dressed in a blue hoodie and black pants, standing on a sidewalk, engaged in a conversation on her cell phone.",
+    "objects": [
+      "blue",
+      "phone",
+      "her",
+      "conversation",
+      "sidewalk",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "standing",
+      "opens",
+      "pants"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a woman dressed in a blue hoodie and black pants, standing on a sidewalk, engaged in a conversation on her cell phone.",
+    "objects": [
+      "blue",
+      "phone",
+      "her",
+      "conversation",
+      "sidewalk",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "standing",
+      "opens",
+      "pants"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "She is holding a white paper, which could be a note, a receipt, or a document.",
+    "objects": [
+      "white",
+      "which",
+      "document",
+      "could",
+      "note",
+      "paper",
+      "she",
+      "receipt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "She is holding a white paper, which could be a note, a receipt, or a document.",
+    "objects": [
+      "white",
+      "which",
+      "document",
+      "could",
+      "note",
+      "paper",
+      "she",
+      "receipt"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "As she talks, a man, wearing a red jacket and blue jeans, approaches her from behind, holding a black cell phone in his hand, presumably to take a picture.",
+    "objects": [
+      "blue",
+      "phone",
+      "hand",
+      "her",
+      "man",
+      "his",
+      "take",
+      "presumably"
+    ],
+    "actions": [
+      "talks",
+      "approaches",
+      "red",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "As she talks, a man, wearing a red jacket and blue jeans, approaches her from behind, holding a black cell phone in his hand, presumably to take a picture.",
+    "objects": [
+      "blue",
+      "phone",
+      "hand",
+      "her",
+      "man",
+      "his",
+      "take",
+      "presumably"
+    ],
+    "actions": [
+      "talks",
+      "approaches",
+      "red",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman on the phone looks surprised and a bit startled by the man's sudden arrival.",
+    "objects": [
+      "phone",
+      "bit",
+      "arrival",
+      "woman",
+      "sudden"
+    ],
+    "actions": [
+      "startled",
+      "man's",
+      "looks",
+      "surprised"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman on the phone looks surprised and a bit startled by the man's sudden arrival.",
+    "objects": [
+      "phone",
+      "bit",
+      "arrival",
+      "woman",
+      "sudden"
+    ],
+    "actions": [
+      "startled",
+      "man's",
+      "looks",
+      "surprised"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then pans to another woman, who is wearing a red jacket and a white shirt, standing on the same sidewalk, holding a white paper, and talking on her cell phone.",
+    "objects": [
+      "white",
+      "paper",
+      "phone",
+      "her",
+      "pans",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "talking",
+      "holding",
+      "red",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then pans to another woman, who is wearing a red jacket and a white shirt, standing on the same sidewalk, holding a white paper, and talking on her cell phone.",
+    "objects": [
+      "white",
+      "paper",
+      "phone",
+      "her",
+      "pans",
+      "shirt",
+      "jacket",
+      "sidewalk"
+    ],
+    "actions": [
+      "talking",
+      "holding",
+      "red",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The man takes a photo of her, capturing the moment.",
+    "objects": [
+      "moment",
+      "her",
+      "man",
+      "photo"
+    ],
+    "actions": [
+      "takes",
+      "capturing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The man takes a photo of her, capturing the moment.",
+    "objects": [
+      "moment",
+      "her",
+      "man",
+      "photo"
+    ],
+    "actions": [
+      "takes",
+      "capturing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then pans back to the first woman, who is still on the phone, but she is now talking to a different person.",
+    "objects": [
+      "phone",
+      "different",
+      "who",
+      "pans",
+      "but",
+      "now",
+      "still",
+      "woman"
+    ],
+    "actions": [
+      "talking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then pans back to the first woman, who is still on the phone, but she is now talking to a different person.",
+    "objects": [
+      "phone",
+      "different",
+      "who",
+      "pans",
+      "but",
+      "now",
+      "still",
+      "woman"
+    ],
+    "actions": [
+      "talking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera zooms in on her face as she continues her conversation.",
+    "objects": [
+      "her",
+      "face",
+      "she",
+      "conversation"
+    ],
+    "actions": [
+      "continues",
+      "zooms"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera zooms in on her face as she continues her conversation.",
+    "objects": [
+      "her",
+      "face",
+      "she",
+      "conversation"
+    ],
+    "actions": [
+      "continues",
+      "zooms"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The second woman, now out of frame, is still holding her white paper.",
+    "objects": [
+      "white",
+      "paper",
+      "her",
+      "now",
+      "out",
+      "still",
+      "second",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The second woman, now out of frame, is still holding her white paper.",
+    "objects": [
+      "white",
+      "paper",
+      "her",
+      "now",
+      "out",
+      "still",
+      "second",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then pans to a third woman, wearing a white sweater and a blue shirt, standing on the same sidewalk, holding a white paper, and talking on her phone.",
+    "objects": [
+      "white",
+      "sweater",
+      "blue",
+      "paper",
+      "phone",
+      "her",
+      "pans",
+      "shirt"
+    ],
+    "actions": [
+      "talking",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then pans to a third woman, wearing a white sweater and a blue shirt, standing on the same sidewalk, holding a white paper, and talking on her phone.",
+    "objects": [
+      "white",
+      "sweater",
+      "blue",
+      "paper",
+      "phone",
+      "her",
+      "pans",
+      "shirt"
+    ],
+    "actions": [
+      "talking",
+      "wearing",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "She looks surprised by the man's interruption.",
+    "objects": [
+      "interruption",
+      "she"
+    ],
+    "actions": [
+      "man's",
+      "looks",
+      "surprised"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "She looks surprised by the man's interruption.",
+    "objects": [
+      "interruption",
+      "she"
+    ],
+    "actions": [
+      "man's",
+      "looks",
+      "surprised"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then shifts to a fourth woman, dressed in a red jacket and black pants, standing on the sidewalk, talking on her phone.",
+    "objects": [
+      "phone",
+      "her",
+      "jacket",
+      "sidewalk",
+      "fourth",
+      "black",
+      "woman",
+      "then"
+    ],
+    "actions": [
+      "talking",
+      "shifts",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then shifts to a fourth woman, dressed in a red jacket and black pants, standing on the sidewalk, talking on her phone.",
+    "objects": [
+      "phone",
+      "her",
+      "jacket",
+      "sidewalk",
+      "fourth",
+      "black",
+      "woman",
+      "then"
+    ],
+    "actions": [
+      "talking",
+      "shifts",
+      "dressed",
+      "red"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "She is holding a white paper, and she looks shocked by the man's action of taking her picture.",
+    "objects": [
+      "white",
+      "her",
+      "action",
+      "picture",
+      "paper",
+      "she"
+    ],
+    "actions": [
+      "man's",
+      "holding",
+      "shocked",
+      "looks"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "She is holding a white paper, and she looks shocked by the man's action of taking her picture.",
+    "objects": [
+      "white",
+      "her",
+      "action",
+      "picture",
+      "paper",
+      "she"
+    ],
+    "actions": [
+      "man's",
+      "holding",
+      "shocked",
+      "looks"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera zooms in on her face as she continues her conversation.",
+    "objects": [
+      "her",
+      "face",
+      "she",
+      "conversation"
+    ],
+    "actions": [
+      "continues",
+      "zooms"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The camera zooms in on her face as she continues her conversation.",
+    "objects": [
+      "her",
+      "face",
+      "she",
+      "conversation"
+    ],
+    "actions": [
+      "continues",
+      "zooms"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The man then takes a picture of her, capturing her reaction.",
+    "objects": [
+      "her",
+      "man",
+      "reaction",
+      "picture",
+      "then"
+    ],
+    "actions": [
+      "takes",
+      "capturing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The man then takes a picture of her, capturing her reaction.",
+    "objects": [
+      "her",
+      "man",
+      "reaction",
+      "picture",
+      "then"
+    ],
+    "actions": [
+      "takes",
+      "capturing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene then repeats with the third woman, now dressed in a red jacket and black pants, still on the sidewalk, talking on her phone.",
+    "objects": [
+      "phone",
+      "her",
+      "jacket",
+      "sidewalk",
+      "now",
+      "then",
+      "still",
+      "black"
+    ],
+    "actions": [
+      "talking",
+      "dressed",
+      "red",
+      "repeats"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene then repeats with the third woman, now dressed in a red jacket and black pants, still on the sidewalk, talking on her phone.",
+    "objects": [
+      "phone",
+      "her",
+      "jacket",
+      "sidewalk",
+      "now",
+      "then",
+      "still",
+      "black"
+    ],
+    "actions": [
+      "talking",
+      "dressed",
+      "red",
+      "repeats"
+    ],
+    "segment_id": 15
+  }
+]

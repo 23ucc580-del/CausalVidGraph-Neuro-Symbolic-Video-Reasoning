@@ -1,0 +1,523 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a lively gathering of people sitting around a room, engaged in conversation and play.",
+    "objects": [
+      "around",
+      "room",
+      "conversation",
+      "people",
+      "lively",
+      "play",
+      "see"
+    ],
+    "actions": [
+      "gathering",
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a lively gathering of people sitting around a room, engaged in conversation and play.",
+    "objects": [
+      "around",
+      "room",
+      "conversation",
+      "people",
+      "lively",
+      "play",
+      "see"
+    ],
+    "actions": [
+      "gathering",
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a lively gathering of people sitting around a room, engaged in conversation and play.",
+    "objects": [
+      "around",
+      "room",
+      "conversation",
+      "people",
+      "lively",
+      "play",
+      "see"
+    ],
+    "actions": [
+      "gathering",
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The atmosphere is casual and relaxed.",
+    "objects": [
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "relaxed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The atmosphere is casual and relaxed.",
+    "objects": [
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "relaxed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The atmosphere is casual and relaxed.",
+    "objects": [
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "relaxed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A young woman is the center of attention, sitting on a couch, holding a gift box.",
+    "objects": [
+      "couch",
+      "attention",
+      "young",
+      "box",
+      "gift",
+      "woman",
+      "center"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A young woman is the center of attention, sitting on a couch, holding a gift box.",
+    "objects": [
+      "couch",
+      "attention",
+      "young",
+      "box",
+      "gift",
+      "woman",
+      "center"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A young woman is the center of attention, sitting on a couch, holding a gift box.",
+    "objects": [
+      "couch",
+      "attention",
+      "young",
+      "box",
+      "gift",
+      "woman",
+      "center"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "She seems to be excited and is opening the box with her hands, revealing a toy inside.",
+    "objects": [
+      "toy",
+      "her",
+      "inside",
+      "box",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "hands",
+      "revealing",
+      "excited"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "She seems to be excited and is opening the box with her hands, revealing a toy inside.",
+    "objects": [
+      "toy",
+      "her",
+      "inside",
+      "box",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "hands",
+      "revealing",
+      "excited"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "She seems to be excited and is opening the box with her hands, revealing a toy inside.",
+    "objects": [
+      "toy",
+      "her",
+      "inside",
+      "box",
+      "she"
+    ],
+    "actions": [
+      "seems",
+      "hands",
+      "revealing",
+      "excited"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Her expression is one of surprise and joy, indicating that it's a special gift.",
+    "objects": [
+      "her",
+      "expression",
+      "special",
+      "joy",
+      "that",
+      "one",
+      "gift",
+      "surprise"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Her expression is one of surprise and joy, indicating that it's a special gift.",
+    "objects": [
+      "her",
+      "expression",
+      "special",
+      "joy",
+      "that",
+      "one",
+      "gift",
+      "surprise"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Her expression is one of surprise and joy, indicating that it's a special gift.",
+    "objects": [
+      "her",
+      "expression",
+      "special",
+      "joy",
+      "that",
+      "one",
+      "gift",
+      "surprise"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A man is sitting next to her, smiling and appears to be watching her with amusement.",
+    "objects": [
+      "amusement",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "smiling",
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A man is sitting next to her, smiling and appears to be watching her with amusement.",
+    "objects": [
+      "amusement",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "smiling",
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A man is sitting next to her, smiling and appears to be watching her with amusement.",
+    "objects": [
+      "amusement",
+      "her",
+      "man"
+    ],
+    "actions": [
+      "smiling",
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "He's wearing a white t-shirt and has a beard.",
+    "objects": [
+      "white",
+      "beard",
+      "has"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "He's wearing a white t-shirt and has a beard.",
+    "objects": [
+      "white",
+      "beard",
+      "has"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "He's wearing a white t-shirt and has a beard.",
+    "objects": [
+      "white",
+      "beard",
+      "has"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Another person, a boy, is also present in the scene, sitting on the couch and watching the woman open the gift.",
+    "objects": [
+      "couch",
+      "open",
+      "present",
+      "boy",
+      "gift",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Another person, a boy, is also present in the scene, sitting on the couch and watching the woman open the gift.",
+    "objects": [
+      "couch",
+      "open",
+      "present",
+      "boy",
+      "gift",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Another person, a boy, is also present in the scene, sitting on the couch and watching the woman open the gift.",
+    "objects": [
+      "couch",
+      "open",
+      "present",
+      "boy",
+      "gift",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "He's wearing a white shirt and a blue hoodie.",
+    "objects": [
+      "white",
+      "blue",
+      "hoodie",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "He's wearing a white shirt and a blue hoodie.",
+    "objects": [
+      "white",
+      "blue",
+      "hoodie",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "He's wearing a white shirt and a blue hoodie.",
+    "objects": [
+      "white",
+      "blue",
+      "hoodie",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The room is filled with various objects such as a silver car, a toy, a remote control, and a dog's head, suggesting a playful and festive environment.",
+    "objects": [
+      "such",
+      "car",
+      "toy",
+      "playful",
+      "room",
+      "festive",
+      "remote",
+      "silver"
+    ],
+    "actions": [
+      "dog's",
+      "filled",
+      "objects",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The room is filled with various objects such as a silver car, a toy, a remote control, and a dog's head, suggesting a playful and festive environment.",
+    "objects": [
+      "such",
+      "car",
+      "toy",
+      "playful",
+      "room",
+      "festive",
+      "remote",
+      "silver"
+    ],
+    "actions": [
+      "dog's",
+      "filled",
+      "objects",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The room is filled with various objects such as a silver car, a toy, a remote control, and a dog's head, suggesting a playful and festive environment.",
+    "objects": [
+      "such",
+      "car",
+      "toy",
+      "playful",
+      "room",
+      "festive",
+      "remote",
+      "silver"
+    ],
+    "actions": [
+      "dog's",
+      "filled",
+      "objects",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene conveys a sense of happiness and celebration.",
+    "objects": [
+      "celebration",
+      "sense"
+    ],
+    "actions": [
+      "happiness",
+      "conveys"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene conveys a sense of happiness and celebration.",
+    "objects": [
+      "celebration",
+      "sense"
+    ],
+    "actions": [
+      "happiness",
+      "conveys"
+    ],
+    "segment_id": 10
+  }
+]

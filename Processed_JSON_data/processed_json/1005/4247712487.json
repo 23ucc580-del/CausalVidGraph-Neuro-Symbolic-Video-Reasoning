@@ -1,0 +1,577 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a woman standing at a podium in a school setting, holding a piece of paper in her hand and reading it out loud.",
+    "objects": [
+      "paper",
+      "loud",
+      "podium",
+      "woman",
+      "see",
+      "out",
+      "her",
+      "piece"
+    ],
+    "actions": [
+      "reading",
+      "standing",
+      "holding",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a woman standing at a podium in a school setting, holding a piece of paper in her hand and reading it out loud.",
+    "objects": [
+      "paper",
+      "loud",
+      "podium",
+      "woman",
+      "see",
+      "out",
+      "her",
+      "piece"
+    ],
+    "actions": [
+      "reading",
+      "standing",
+      "holding",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a woman standing at a podium in a school setting, holding a piece of paper in her hand and reading it out loud.",
+    "objects": [
+      "paper",
+      "loud",
+      "podium",
+      "woman",
+      "see",
+      "out",
+      "her",
+      "piece"
+    ],
+    "actions": [
+      "reading",
+      "standing",
+      "holding",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The room is furnished with desks and chairs, and there is a large clock on the wall.",
+    "objects": [
+      "large",
+      "wall",
+      "there",
+      "room",
+      "clock"
+    ],
+    "actions": [
+      "furnished",
+      "chairs",
+      "desks"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is furnished with desks and chairs, and there is a large clock on the wall.",
+    "objects": [
+      "large",
+      "wall",
+      "there",
+      "room",
+      "clock"
+    ],
+    "actions": [
+      "furnished",
+      "chairs",
+      "desks"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is furnished with desks and chairs, and there is a large clock on the wall.",
+    "objects": [
+      "large",
+      "wall",
+      "there",
+      "room",
+      "clock"
+    ],
+    "actions": [
+      "furnished",
+      "chairs",
+      "desks"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man in a blue jacket and tie is standing in the room, while a man in a suit is also present, both of whom appear to be engaged in a conversation.",
+    "objects": [
+      "appear",
+      "room",
+      "both",
+      "suit",
+      "while",
+      "jacket",
+      "conversation",
+      "blue"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A man in a blue jacket and tie is standing in the room, while a man in a suit is also present, both of whom appear to be engaged in a conversation.",
+    "objects": [
+      "appear",
+      "room",
+      "both",
+      "suit",
+      "while",
+      "jacket",
+      "conversation",
+      "blue"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A man in a blue jacket and tie is standing in the room, while a man in a suit is also present, both of whom appear to be engaged in a conversation.",
+    "objects": [
+      "appear",
+      "room",
+      "both",
+      "suit",
+      "while",
+      "jacket",
+      "conversation",
+      "blue"
+    ],
+    "actions": [
+      "standing",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman in a black suit holds a book and walks over to the man in the suit, who is seated at a table.",
+    "objects": [
+      "table",
+      "suit",
+      "woman",
+      "black",
+      "who",
+      "book",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "walks",
+      "seated",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman in a black suit holds a book and walks over to the man in the suit, who is seated at a table.",
+    "objects": [
+      "table",
+      "suit",
+      "woman",
+      "black",
+      "who",
+      "book",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "walks",
+      "seated",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman in a black suit holds a book and walks over to the man in the suit, who is seated at a table.",
+    "objects": [
+      "table",
+      "suit",
+      "woman",
+      "black",
+      "who",
+      "book",
+      "man",
+      "over"
+    ],
+    "actions": [
+      "walks",
+      "seated",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in the blue jacket is also seated at a table, and he holds a folder.",
+    "objects": [
+      "table",
+      "jacket",
+      "blue",
+      "folder",
+      "man"
+    ],
+    "actions": [
+      "seated",
+      "holds"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in the blue jacket is also seated at a table, and he holds a folder.",
+    "objects": [
+      "table",
+      "jacket",
+      "blue",
+      "folder",
+      "man"
+    ],
+    "actions": [
+      "seated",
+      "holds"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in the blue jacket is also seated at a table, and he holds a folder.",
+    "objects": [
+      "table",
+      "jacket",
+      "blue",
+      "folder",
+      "man"
+    ],
+    "actions": [
+      "seated",
+      "holds"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in the suit shakes hands with the man in the blue jacket.",
+    "objects": [
+      "man",
+      "jacket",
+      "blue",
+      "suit"
+    ],
+    "actions": [
+      "hands",
+      "shakes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the suit shakes hands with the man in the blue jacket.",
+    "objects": [
+      "man",
+      "jacket",
+      "blue",
+      "suit"
+    ],
+    "actions": [
+      "hands",
+      "shakes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the suit shakes hands with the man in the blue jacket.",
+    "objects": [
+      "man",
+      "jacket",
+      "blue",
+      "suit"
+    ],
+    "actions": [
+      "hands",
+      "shakes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the blue jacket stands up, walks over to the woman in the black suit, and they engage in a conversation.",
+    "objects": [
+      "they",
+      "suit",
+      "woman",
+      "jacket",
+      "black",
+      "blue",
+      "conversation",
+      "engage"
+    ],
+    "actions": [
+      "walks",
+      "stands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the blue jacket stands up, walks over to the woman in the black suit, and they engage in a conversation.",
+    "objects": [
+      "they",
+      "suit",
+      "woman",
+      "jacket",
+      "black",
+      "blue",
+      "conversation",
+      "engage"
+    ],
+    "actions": [
+      "walks",
+      "stands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The man in the blue jacket stands up, walks over to the woman in the black suit, and they engage in a conversation.",
+    "objects": [
+      "they",
+      "suit",
+      "woman",
+      "jacket",
+      "black",
+      "blue",
+      "conversation",
+      "engage"
+    ],
+    "actions": [
+      "walks",
+      "stands"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman in the black suit returns to the podium, and the man in the blue jacket sits down.",
+    "objects": [
+      "suit",
+      "podium",
+      "woman",
+      "black",
+      "jacket",
+      "blue",
+      "man",
+      "sits"
+    ],
+    "actions": [
+      "returns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman in the black suit returns to the podium, and the man in the blue jacket sits down.",
+    "objects": [
+      "suit",
+      "podium",
+      "woman",
+      "black",
+      "jacket",
+      "blue",
+      "man",
+      "sits"
+    ],
+    "actions": [
+      "returns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman in the black suit returns to the podium, and the man in the blue jacket sits down.",
+    "objects": [
+      "suit",
+      "podium",
+      "woman",
+      "black",
+      "jacket",
+      "blue",
+      "man",
+      "sits"
+    ],
+    "actions": [
+      "returns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the suit holds a clipboard and walks over to the woman in the black suit, shaking her hand.",
+    "objects": [
+      "suit",
+      "woman",
+      "black",
+      "clipboard",
+      "her",
+      "man",
+      "over",
+      "hand"
+    ],
+    "actions": [
+      "walks",
+      "holds",
+      "shaking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the suit holds a clipboard and walks over to the woman in the black suit, shaking her hand.",
+    "objects": [
+      "suit",
+      "woman",
+      "black",
+      "clipboard",
+      "her",
+      "man",
+      "over",
+      "hand"
+    ],
+    "actions": [
+      "walks",
+      "holds",
+      "shaking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the suit holds a clipboard and walks over to the woman in the black suit, shaking her hand.",
+    "objects": [
+      "suit",
+      "woman",
+      "black",
+      "clipboard",
+      "her",
+      "man",
+      "over",
+      "hand"
+    ],
+    "actions": [
+      "walks",
+      "holds",
+      "shaking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "They both smile as they talk.",
+    "objects": [
+      "they",
+      "talk",
+      "both",
+      "smile"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "They both smile as they talk.",
+    "objects": [
+      "they",
+      "talk",
+      "both",
+      "smile"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "They both smile as they talk.",
+    "objects": [
+      "they",
+      "talk",
+      "both",
+      "smile"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in the blue jacket stands up and walks over to the man in the suit, shaking his hand.",
+    "objects": [
+      "suit",
+      "jacket",
+      "blue",
+      "his",
+      "man",
+      "over",
+      "hand"
+    ],
+    "actions": [
+      "walks",
+      "stands",
+      "shaking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in the blue jacket stands up and walks over to the man in the suit, shaking his hand.",
+    "objects": [
+      "suit",
+      "jacket",
+      "blue",
+      "his",
+      "man",
+      "over",
+      "hand"
+    ],
+    "actions": [
+      "walks",
+      "stands",
+      "shaking"
+    ],
+    "segment_id": 10
+  }
+]

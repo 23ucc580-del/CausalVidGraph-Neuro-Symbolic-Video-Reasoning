@@ -1,0 +1,622 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively concert scene featuring a band performing on stage.",
+    "objects": [
+      "band",
+      "stage",
+      "concert",
+      "lively"
+    ],
+    "actions": [
+      "performing",
+      "depicts",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively concert scene featuring a band performing on stage.",
+    "objects": [
+      "band",
+      "stage",
+      "concert",
+      "lively"
+    ],
+    "actions": [
+      "performing",
+      "depicts",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively concert scene featuring a band performing on stage.",
+    "objects": [
+      "band",
+      "stage",
+      "concert",
+      "lively"
+    ],
+    "actions": [
+      "performing",
+      "depicts",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively concert scene featuring a band performing on stage.",
+    "objects": [
+      "band",
+      "stage",
+      "concert",
+      "lively"
+    ],
+    "actions": [
+      "performing",
+      "depicts",
+      "featuring"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The band members, dressed in casual attire, are positioned in front of a backdrop of trees, creating a natural and relaxed atmosphere.",
+    "objects": [
+      "band",
+      "natural",
+      "attire",
+      "casual",
+      "backdrop",
+      "atmosphere"
+    ],
+    "actions": [
+      "dressed",
+      "positioned",
+      "relaxed",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The band members, dressed in casual attire, are positioned in front of a backdrop of trees, creating a natural and relaxed atmosphere.",
+    "objects": [
+      "band",
+      "natural",
+      "attire",
+      "casual",
+      "backdrop",
+      "atmosphere"
+    ],
+    "actions": [
+      "dressed",
+      "positioned",
+      "relaxed",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The band members, dressed in casual attire, are positioned in front of a backdrop of trees, creating a natural and relaxed atmosphere.",
+    "objects": [
+      "band",
+      "natural",
+      "attire",
+      "casual",
+      "backdrop",
+      "atmosphere"
+    ],
+    "actions": [
+      "dressed",
+      "positioned",
+      "relaxed",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The band members, dressed in casual attire, are positioned in front of a backdrop of trees, creating a natural and relaxed atmosphere.",
+    "objects": [
+      "band",
+      "natural",
+      "attire",
+      "casual",
+      "backdrop",
+      "atmosphere"
+    ],
+    "actions": [
+      "dressed",
+      "positioned",
+      "relaxed",
+      "trees"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The lead singer, wearing a blue hoodie, is passionately singing into a microphone, engaging the audience with his energetic performance.",
+    "objects": [
+      "into",
+      "singer",
+      "blue",
+      "microphone",
+      "energetic",
+      "audience",
+      "performance",
+      "passionately"
+    ],
+    "actions": [
+      "wearing",
+      "engaging",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The lead singer, wearing a blue hoodie, is passionately singing into a microphone, engaging the audience with his energetic performance.",
+    "objects": [
+      "into",
+      "singer",
+      "blue",
+      "microphone",
+      "energetic",
+      "audience",
+      "performance",
+      "passionately"
+    ],
+    "actions": [
+      "wearing",
+      "engaging",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The lead singer, wearing a blue hoodie, is passionately singing into a microphone, engaging the audience with his energetic performance.",
+    "objects": [
+      "into",
+      "singer",
+      "blue",
+      "microphone",
+      "energetic",
+      "audience",
+      "performance",
+      "passionately"
+    ],
+    "actions": [
+      "wearing",
+      "engaging",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The lead singer, wearing a blue hoodie, is passionately singing into a microphone, engaging the audience with his energetic performance.",
+    "objects": [
+      "into",
+      "singer",
+      "blue",
+      "microphone",
+      "energetic",
+      "audience",
+      "performance",
+      "passionately"
+    ],
+    "actions": [
+      "wearing",
+      "engaging",
+      "singing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The drummer, sporting a green jacket, is seated at a drum set, adding a dynamic element to the music.",
+    "objects": [
+      "drum",
+      "jacket",
+      "drummer",
+      "green",
+      "set",
+      "music",
+      "element",
+      "dynamic"
+    ],
+    "actions": [
+      "adding",
+      "seated",
+      "sporting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The drummer, sporting a green jacket, is seated at a drum set, adding a dynamic element to the music.",
+    "objects": [
+      "drum",
+      "jacket",
+      "drummer",
+      "green",
+      "set",
+      "music",
+      "element",
+      "dynamic"
+    ],
+    "actions": [
+      "adding",
+      "seated",
+      "sporting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The drummer, sporting a green jacket, is seated at a drum set, adding a dynamic element to the music.",
+    "objects": [
+      "drum",
+      "jacket",
+      "drummer",
+      "green",
+      "set",
+      "music",
+      "element",
+      "dynamic"
+    ],
+    "actions": [
+      "adding",
+      "seated",
+      "sporting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The drummer, sporting a green jacket, is seated at a drum set, adding a dynamic element to the music.",
+    "objects": [
+      "drum",
+      "jacket",
+      "drummer",
+      "green",
+      "set",
+      "music",
+      "element",
+      "dynamic"
+    ],
+    "actions": [
+      "adding",
+      "seated",
+      "sporting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The guitarist, dressed in a black shirt, is playing an electric guitar, his fingers strumming the strings, while the bassist, wearing a black hat, is holding a bass guitar, contributing to the rhythmic basslines.",
+    "objects": [
+      "rhythmic",
+      "while",
+      "black",
+      "electric",
+      "guitar",
+      "shirt",
+      "bassist",
+      "hat"
+    ],
+    "actions": [
+      "strings",
+      "fingers",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The guitarist, dressed in a black shirt, is playing an electric guitar, his fingers strumming the strings, while the bassist, wearing a black hat, is holding a bass guitar, contributing to the rhythmic basslines.",
+    "objects": [
+      "rhythmic",
+      "while",
+      "black",
+      "electric",
+      "guitar",
+      "shirt",
+      "bassist",
+      "hat"
+    ],
+    "actions": [
+      "strings",
+      "fingers",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The guitarist, dressed in a black shirt, is playing an electric guitar, his fingers strumming the strings, while the bassist, wearing a black hat, is holding a bass guitar, contributing to the rhythmic basslines.",
+    "objects": [
+      "rhythmic",
+      "while",
+      "black",
+      "electric",
+      "guitar",
+      "shirt",
+      "bassist",
+      "hat"
+    ],
+    "actions": [
+      "strings",
+      "fingers",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The guitarist, dressed in a black shirt, is playing an electric guitar, his fingers strumming the strings, while the bassist, wearing a black hat, is holding a bass guitar, contributing to the rhythmic basslines.",
+    "objects": [
+      "rhythmic",
+      "while",
+      "black",
+      "electric",
+      "guitar",
+      "shirt",
+      "bassist",
+      "hat"
+    ],
+    "actions": [
+      "strings",
+      "fingers",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The lighting on stage is dim, with spotlights shining on the performers, highlighting their presence against the dark backdrop.",
+    "objects": [
+      "their",
+      "dim",
+      "dark",
+      "backdrop",
+      "presence",
+      "against",
+      "stage"
+    ],
+    "actions": [
+      "performers",
+      "spotlights",
+      "shining",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The lighting on stage is dim, with spotlights shining on the performers, highlighting their presence against the dark backdrop.",
+    "objects": [
+      "their",
+      "dim",
+      "dark",
+      "backdrop",
+      "presence",
+      "against",
+      "stage"
+    ],
+    "actions": [
+      "performers",
+      "spotlights",
+      "shining",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The lighting on stage is dim, with spotlights shining on the performers, highlighting their presence against the dark backdrop.",
+    "objects": [
+      "their",
+      "dim",
+      "dark",
+      "backdrop",
+      "presence",
+      "against",
+      "stage"
+    ],
+    "actions": [
+      "performers",
+      "spotlights",
+      "shining",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The lighting on stage is dim, with spotlights shining on the performers, highlighting their presence against the dark backdrop.",
+    "objects": [
+      "their",
+      "dim",
+      "dark",
+      "backdrop",
+      "presence",
+      "against",
+      "stage"
+    ],
+    "actions": [
+      "performers",
+      "spotlights",
+      "shining",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The audience can be seen in the background, their faces blurred, suggesting they are enjoying the performance.",
+    "objects": [
+      "their",
+      "they",
+      "can",
+      "audience",
+      "performance"
+    ],
+    "actions": [
+      "faces",
+      "blurred",
+      "suggesting",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The audience can be seen in the background, their faces blurred, suggesting they are enjoying the performance.",
+    "objects": [
+      "their",
+      "they",
+      "can",
+      "audience",
+      "performance"
+    ],
+    "actions": [
+      "faces",
+      "blurred",
+      "suggesting",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The audience can be seen in the background, their faces blurred, suggesting they are enjoying the performance.",
+    "objects": [
+      "their",
+      "they",
+      "can",
+      "audience",
+      "performance"
+    ],
+    "actions": [
+      "faces",
+      "blurred",
+      "suggesting",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The audience can be seen in the background, their faces blurred, suggesting they are enjoying the performance.",
+    "objects": [
+      "their",
+      "they",
+      "can",
+      "audience",
+      "performance"
+    ],
+    "actions": [
+      "faces",
+      "blurred",
+      "suggesting",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is filled with the excitement of a live concert, with the band members fully immersed in their performance, captivating the audience's attention.",
+    "objects": [
+      "band",
+      "their",
+      "attention",
+      "performance",
+      "fully",
+      "excitement",
+      "live",
+      "concert"
+    ],
+    "actions": [
+      "filled",
+      "captivating",
+      "members",
+      "immersed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is filled with the excitement of a live concert, with the band members fully immersed in their performance, captivating the audience's attention.",
+    "objects": [
+      "band",
+      "their",
+      "attention",
+      "performance",
+      "fully",
+      "excitement",
+      "live",
+      "concert"
+    ],
+    "actions": [
+      "filled",
+      "captivating",
+      "members",
+      "immersed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is filled with the excitement of a live concert, with the band members fully immersed in their performance, captivating the audience's attention.",
+    "objects": [
+      "band",
+      "their",
+      "attention",
+      "performance",
+      "fully",
+      "excitement",
+      "live",
+      "concert"
+    ],
+    "actions": [
+      "filled",
+      "captivating",
+      "members",
+      "immersed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is filled with the excitement of a live concert, with the band members fully immersed in their performance, captivating the audience's attention.",
+    "objects": [
+      "band",
+      "their",
+      "attention",
+      "performance",
+      "fully",
+      "excitement",
+      "live",
+      "concert"
+    ],
+    "actions": [
+      "filled",
+      "captivating",
+      "members",
+      "immersed"
+    ],
+    "segment_id": 7
+  }
+]

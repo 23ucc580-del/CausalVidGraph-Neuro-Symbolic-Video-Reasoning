@@ -1,0 +1,505 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young child is seen sitting on a couch, wearing a blue hoodie, holding a tablet.",
+    "objects": [
+      "couch",
+      "blue",
+      "tablet",
+      "young",
+      "child",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young child is seen sitting on a couch, wearing a blue hoodie, holding a tablet.",
+    "objects": [
+      "couch",
+      "blue",
+      "tablet",
+      "young",
+      "child",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young child is seen sitting on a couch, wearing a blue hoodie, holding a tablet.",
+    "objects": [
+      "couch",
+      "blue",
+      "tablet",
+      "young",
+      "child",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The child is actively engaged in a drawing activity on the tablet, with the screen displaying a cartoon character.",
+    "objects": [
+      "cartoon",
+      "tablet",
+      "child",
+      "character",
+      "screen",
+      "actively",
+      "activity"
+    ],
+    "actions": [
+      "displaying",
+      "drawing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is actively engaged in a drawing activity on the tablet, with the screen displaying a cartoon character.",
+    "objects": [
+      "cartoon",
+      "tablet",
+      "child",
+      "character",
+      "screen",
+      "actively",
+      "activity"
+    ],
+    "actions": [
+      "displaying",
+      "drawing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is actively engaged in a drawing activity on the tablet, with the screen displaying a cartoon character.",
+    "objects": [
+      "cartoon",
+      "tablet",
+      "child",
+      "character",
+      "screen",
+      "actively",
+      "activity"
+    ],
+    "actions": [
+      "displaying",
+      "drawing",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The tablet is pink and has a stylus attached to it, which the child is using to draw on the screen.",
+    "objects": [
+      "pink",
+      "which",
+      "has",
+      "tablet",
+      "child",
+      "screen",
+      "draw"
+    ],
+    "actions": [
+      "stylus",
+      "attached",
+      "using"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The tablet is pink and has a stylus attached to it, which the child is using to draw on the screen.",
+    "objects": [
+      "pink",
+      "which",
+      "has",
+      "tablet",
+      "child",
+      "screen",
+      "draw"
+    ],
+    "actions": [
+      "stylus",
+      "attached",
+      "using"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The tablet is pink and has a stylus attached to it, which the child is using to draw on the screen.",
+    "objects": [
+      "pink",
+      "which",
+      "has",
+      "tablet",
+      "child",
+      "screen",
+      "draw"
+    ],
+    "actions": [
+      "stylus",
+      "attached",
+      "using"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The couch is brown and has a soft texture.",
+    "objects": [
+      "couch",
+      "soft",
+      "has",
+      "texture",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The couch is brown and has a soft texture.",
+    "objects": [
+      "couch",
+      "soft",
+      "has",
+      "texture",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The couch is brown and has a soft texture.",
+    "objects": [
+      "couch",
+      "soft",
+      "has",
+      "texture",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "In the background, there is a coffee table with a laptop on it.",
+    "objects": [
+      "coffee",
+      "there",
+      "laptop",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "In the background, there is a coffee table with a laptop on it.",
+    "objects": [
+      "coffee",
+      "there",
+      "laptop",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "In the background, there is a coffee table with a laptop on it.",
+    "objects": [
+      "coffee",
+      "there",
+      "laptop",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The laptop is white and appears to be on.",
+    "objects": [
+      "laptop",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The laptop is white and appears to be on.",
+    "objects": [
+      "laptop",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The laptop is white and appears to be on.",
+    "objects": [
+      "laptop",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The child is also wearing blue shorts with a distinctive pattern on them.",
+    "objects": [
+      "blue",
+      "pattern",
+      "child",
+      "them",
+      "distinctive"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The child is also wearing blue shorts with a distinctive pattern on them.",
+    "objects": [
+      "blue",
+      "pattern",
+      "child",
+      "them",
+      "distinctive"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The child is also wearing blue shorts with a distinctive pattern on them.",
+    "objects": [
+      "blue",
+      "pattern",
+      "child",
+      "them",
+      "distinctive"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The room has a carpeted floor and there are two couches in it.",
+    "objects": [
+      "room",
+      "has",
+      "there",
+      "floor",
+      "two"
+    ],
+    "actions": [
+      "couches",
+      "carpeted"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The room has a carpeted floor and there are two couches in it.",
+    "objects": [
+      "room",
+      "has",
+      "there",
+      "floor",
+      "two"
+    ],
+    "actions": [
+      "couches",
+      "carpeted"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The room has a carpeted floor and there are two couches in it.",
+    "objects": [
+      "room",
+      "has",
+      "there",
+      "floor",
+      "two"
+    ],
+    "actions": [
+      "couches",
+      "carpeted"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The child is looking at the camera and appears to be smiling, indicating a playful and joyful mood.",
+    "objects": [
+      "playful",
+      "mood",
+      "joyful",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "indicating",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The child is looking at the camera and appears to be smiling, indicating a playful and joyful mood.",
+    "objects": [
+      "playful",
+      "mood",
+      "joyful",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "indicating",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The child is looking at the camera and appears to be smiling, indicating a playful and joyful mood.",
+    "objects": [
+      "playful",
+      "mood",
+      "joyful",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "indicating",
+      "looking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is indoors, with a window and a lamp visible in the background.",
+    "objects": [
+      "lamp",
+      "window"
+    ],
+    "actions": [
+      "indoors"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is indoors, with a window and a lamp visible in the background.",
+    "objects": [
+      "lamp",
+      "window"
+    ],
+    "actions": [
+      "indoors"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is indoors, with a window and a lamp visible in the background.",
+    "objects": [
+      "lamp",
+      "window"
+    ],
+    "actions": [
+      "indoors"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The lighting in the room is bright and natural, suggesting a daytime setting.",
+    "objects": [
+      "bright",
+      "natural",
+      "daytime",
+      "room"
+    ],
+    "actions": [
+      "setting",
+      "suggesting",
+      "lighting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The lighting in the room is bright and natural, suggesting a daytime setting.",
+    "objects": [
+      "bright",
+      "natural",
+      "daytime",
+      "room"
+    ],
+    "actions": [
+      "setting",
+      "suggesting",
+      "lighting"
+    ],
+    "segment_id": 10
+  }
+]

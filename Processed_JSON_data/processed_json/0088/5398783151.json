@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a scene on a rural road where two reindeer, a mother and her calf, are walking in the middle of the road.",
+    "objects": [
+      "calf",
+      "reindeer",
+      "two",
+      "road",
+      "where",
+      "mother",
+      "rural",
+      "her"
+    ],
+    "actions": [
+      "walking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a scene on a rural road where two reindeer, a mother and her calf, are walking in the middle of the road.",
+    "objects": [
+      "calf",
+      "reindeer",
+      "two",
+      "road",
+      "where",
+      "mother",
+      "rural",
+      "her"
+    ],
+    "actions": [
+      "walking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a scene on a rural road where two reindeer, a mother and her calf, are walking in the middle of the road.",
+    "objects": [
+      "calf",
+      "reindeer",
+      "two",
+      "road",
+      "where",
+      "mother",
+      "rural",
+      "her"
+    ],
+    "actions": [
+      "walking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a scene on a rural road where two reindeer, a mother and her calf, are walking in the middle of the road.",
+    "objects": [
+      "calf",
+      "reindeer",
+      "two",
+      "road",
+      "where",
+      "mother",
+      "rural",
+      "her"
+    ],
+    "actions": [
+      "walking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "They are in close proximity to a car, and the mother reindeer is in the right lane while the calf is on the left lane.",
+    "objects": [
+      "calf",
+      "proximity",
+      "reindeer",
+      "car",
+      "lane",
+      "mother",
+      "while",
+      "they"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "They are in close proximity to a car, and the mother reindeer is in the right lane while the calf is on the left lane.",
+    "objects": [
+      "calf",
+      "proximity",
+      "reindeer",
+      "car",
+      "lane",
+      "mother",
+      "while",
+      "they"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are in close proximity to a car, and the mother reindeer is in the right lane while the calf is on the left lane.",
+    "objects": [
+      "calf",
+      "proximity",
+      "reindeer",
+      "car",
+      "lane",
+      "mother",
+      "while",
+      "they"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "They are in close proximity to a car, and the mother reindeer is in the right lane while the calf is on the left lane.",
+    "objects": [
+      "calf",
+      "proximity",
+      "reindeer",
+      "car",
+      "lane",
+      "mother",
+      "while",
+      "they"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The car is moving forward and is being driven by a person wearing a black shirt.",
+    "objects": [
+      "driven",
+      "forward",
+      "car",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "moving",
+      "wearing",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The car is moving forward and is being driven by a person wearing a black shirt.",
+    "objects": [
+      "driven",
+      "forward",
+      "car",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "moving",
+      "wearing",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The car is moving forward and is being driven by a person wearing a black shirt.",
+    "objects": [
+      "driven",
+      "forward",
+      "car",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "moving",
+      "wearing",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The car is moving forward and is being driven by a person wearing a black shirt.",
+    "objects": [
+      "driven",
+      "forward",
+      "car",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "moving",
+      "wearing",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The person is holding a camera and is taking a picture of the reindeer as they pass by.",
+    "objects": [
+      "reindeer",
+      "they",
+      "picture",
+      "pass"
+    ],
+    "actions": [
+      "holding",
+      "taking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The person is holding a camera and is taking a picture of the reindeer as they pass by.",
+    "objects": [
+      "reindeer",
+      "they",
+      "picture",
+      "pass"
+    ],
+    "actions": [
+      "holding",
+      "taking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The person is holding a camera and is taking a picture of the reindeer as they pass by.",
+    "objects": [
+      "reindeer",
+      "they",
+      "picture",
+      "pass"
+    ],
+    "actions": [
+      "holding",
+      "taking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The person is holding a camera and is taking a picture of the reindeer as they pass by.",
+    "objects": [
+      "reindeer",
+      "they",
+      "picture",
+      "pass"
+    ],
+    "actions": [
+      "holding",
+      "taking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene is a peaceful rural setting, with the road surrounded by a natural landscape.",
+    "objects": [
+      "landscape",
+      "peaceful",
+      "road",
+      "natural",
+      "rural"
+    ],
+    "actions": [
+      "surrounded",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene is a peaceful rural setting, with the road surrounded by a natural landscape.",
+    "objects": [
+      "landscape",
+      "peaceful",
+      "road",
+      "natural",
+      "rural"
+    ],
+    "actions": [
+      "surrounded",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene is a peaceful rural setting, with the road surrounded by a natural landscape.",
+    "objects": [
+      "landscape",
+      "peaceful",
+      "road",
+      "natural",
+      "rural"
+    ],
+    "actions": [
+      "surrounded",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene is a peaceful rural setting, with the road surrounded by a natural landscape.",
+    "objects": [
+      "landscape",
+      "peaceful",
+      "road",
+      "natural",
+      "rural"
+    ],
+    "actions": [
+      "surrounded",
+      "setting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The reindeer appear to be in a calm and relaxed state, moving along the road with no hurry.",
+    "objects": [
+      "along",
+      "state",
+      "reindeer",
+      "road",
+      "appear",
+      "calm",
+      "hurry"
+    ],
+    "actions": [
+      "moving",
+      "relaxed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The reindeer appear to be in a calm and relaxed state, moving along the road with no hurry.",
+    "objects": [
+      "along",
+      "state",
+      "reindeer",
+      "road",
+      "appear",
+      "calm",
+      "hurry"
+    ],
+    "actions": [
+      "moving",
+      "relaxed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The reindeer appear to be in a calm and relaxed state, moving along the road with no hurry.",
+    "objects": [
+      "along",
+      "state",
+      "reindeer",
+      "road",
+      "appear",
+      "calm",
+      "hurry"
+    ],
+    "actions": [
+      "moving",
+      "relaxed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The reindeer appear to be in a calm and relaxed state, moving along the road with no hurry.",
+    "objects": [
+      "along",
+      "state",
+      "reindeer",
+      "road",
+      "appear",
+      "calm",
+      "hurry"
+    ],
+    "actions": [
+      "moving",
+      "relaxed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The car is also in motion, moving at a steady pace.",
+    "objects": [
+      "car",
+      "motion",
+      "steady",
+      "pace"
+    ],
+    "actions": [
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The car is also in motion, moving at a steady pace.",
+    "objects": [
+      "car",
+      "motion",
+      "steady",
+      "pace"
+    ],
+    "actions": [
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The car is also in motion, moving at a steady pace.",
+    "objects": [
+      "car",
+      "motion",
+      "steady",
+      "pace"
+    ],
+    "actions": [
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The car is also in motion, moving at a steady pace.",
+    "objects": [
+      "car",
+      "motion",
+      "steady",
+      "pace"
+    ],
+    "actions": [
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The person behind the camera seems to be enjoying the moment, taking a photo to capture the sight of the animals in their natural habitat.",
+    "objects": [
+      "behind",
+      "capture",
+      "their",
+      "natural",
+      "photo",
+      "habitat",
+      "moment",
+      "sight"
+    ],
+    "actions": [
+      "enjoying",
+      "taking",
+      "animals",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The person behind the camera seems to be enjoying the moment, taking a photo to capture the sight of the animals in their natural habitat.",
+    "objects": [
+      "behind",
+      "capture",
+      "their",
+      "natural",
+      "photo",
+      "habitat",
+      "moment",
+      "sight"
+    ],
+    "actions": [
+      "enjoying",
+      "taking",
+      "animals",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The person behind the camera seems to be enjoying the moment, taking a photo to capture the sight of the animals in their natural habitat.",
+    "objects": [
+      "behind",
+      "capture",
+      "their",
+      "natural",
+      "photo",
+      "habitat",
+      "moment",
+      "sight"
+    ],
+    "actions": [
+      "enjoying",
+      "taking",
+      "animals",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The person behind the camera seems to be enjoying the moment, taking a photo to capture the sight of the animals in their natural habitat.",
+    "objects": [
+      "behind",
+      "capture",
+      "their",
+      "natural",
+      "photo",
+      "habitat",
+      "moment",
+      "sight"
+    ],
+    "actions": [
+      "enjoying",
+      "taking",
+      "animals",
+      "seems"
+    ],
+    "segment_id": 7
+  }
+]

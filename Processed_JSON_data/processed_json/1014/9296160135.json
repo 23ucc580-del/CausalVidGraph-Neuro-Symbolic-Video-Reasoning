@@ -1,0 +1,574 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a heartwarming scene of three women and two babies on a couch.",
+    "objects": [
+      "three",
+      "two",
+      "couch",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "heartwarming",
+      "babies"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a heartwarming scene of three women and two babies on a couch.",
+    "objects": [
+      "three",
+      "two",
+      "couch",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "heartwarming",
+      "babies"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a heartwarming scene of three women and two babies on a couch.",
+    "objects": [
+      "three",
+      "two",
+      "couch",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "heartwarming",
+      "babies"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "This video captures a heartwarming scene of three women and two babies on a couch.",
+    "objects": [
+      "three",
+      "two",
+      "couch",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "heartwarming",
+      "babies"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The women are dressed in casual clothing, with one wearing a blue hoodie and the other in a green shirt.",
+    "objects": [
+      "one",
+      "other",
+      "casual",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "women"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The women are dressed in casual clothing, with one wearing a blue hoodie and the other in a green shirt.",
+    "objects": [
+      "one",
+      "other",
+      "casual",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "women"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The women are dressed in casual clothing, with one wearing a blue hoodie and the other in a green shirt.",
+    "objects": [
+      "one",
+      "other",
+      "casual",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "women"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The women are dressed in casual clothing, with one wearing a blue hoodie and the other in a green shirt.",
+    "objects": [
+      "one",
+      "other",
+      "casual",
+      "blue",
+      "green",
+      "shirt",
+      "hoodie",
+      "women"
+    ],
+    "actions": [
+      "clothing",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The babies are dressed in cozy pajamas, adding to the warmth of the scene.",
+    "objects": [
+      "warmth",
+      "cozy"
+    ],
+    "actions": [
+      "babies",
+      "dressed",
+      "adding",
+      "pajamas"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The babies are dressed in cozy pajamas, adding to the warmth of the scene.",
+    "objects": [
+      "warmth",
+      "cozy"
+    ],
+    "actions": [
+      "babies",
+      "dressed",
+      "adding",
+      "pajamas"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The babies are dressed in cozy pajamas, adding to the warmth of the scene.",
+    "objects": [
+      "warmth",
+      "cozy"
+    ],
+    "actions": [
+      "babies",
+      "dressed",
+      "adding",
+      "pajamas"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The babies are dressed in cozy pajamas, adding to the warmth of the scene.",
+    "objects": [
+      "warmth",
+      "cozy"
+    ],
+    "actions": [
+      "babies",
+      "dressed",
+      "adding",
+      "pajamas"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The women are sitting closely together, creating an atmosphere of camaraderie and comfort.",
+    "objects": [
+      "closely",
+      "comfort",
+      "camaraderie",
+      "women",
+      "atmosphere",
+      "together"
+    ],
+    "actions": [
+      "sitting",
+      "creating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The women are sitting closely together, creating an atmosphere of camaraderie and comfort.",
+    "objects": [
+      "closely",
+      "comfort",
+      "camaraderie",
+      "women",
+      "atmosphere",
+      "together"
+    ],
+    "actions": [
+      "sitting",
+      "creating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The women are sitting closely together, creating an atmosphere of camaraderie and comfort.",
+    "objects": [
+      "closely",
+      "comfort",
+      "camaraderie",
+      "women",
+      "atmosphere",
+      "together"
+    ],
+    "actions": [
+      "sitting",
+      "creating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The women are sitting closely together, creating an atmosphere of camaraderie and comfort.",
+    "objects": [
+      "closely",
+      "comfort",
+      "camaraderie",
+      "women",
+      "atmosphere",
+      "together"
+    ],
+    "actions": [
+      "sitting",
+      "creating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "One of the babies is wearing a blue and green pajama set, while the other is in a white pajama set.",
+    "objects": [
+      "one",
+      "pajama",
+      "other",
+      "white",
+      "while",
+      "blue",
+      "green",
+      "set"
+    ],
+    "actions": [
+      "wearing",
+      "babies"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "One of the babies is wearing a blue and green pajama set, while the other is in a white pajama set.",
+    "objects": [
+      "one",
+      "pajama",
+      "other",
+      "white",
+      "while",
+      "blue",
+      "green",
+      "set"
+    ],
+    "actions": [
+      "wearing",
+      "babies"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "One of the babies is wearing a blue and green pajama set, while the other is in a white pajama set.",
+    "objects": [
+      "one",
+      "pajama",
+      "other",
+      "white",
+      "while",
+      "blue",
+      "green",
+      "set"
+    ],
+    "actions": [
+      "wearing",
+      "babies"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "One of the babies is wearing a blue and green pajama set, while the other is in a white pajama set.",
+    "objects": [
+      "one",
+      "pajama",
+      "other",
+      "white",
+      "while",
+      "blue",
+      "green",
+      "set"
+    ],
+    "actions": [
+      "wearing",
+      "babies"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "They are all holding their babies, creating a sense of connection between the adults and the infants.",
+    "objects": [
+      "they",
+      "their",
+      "sense",
+      "connection",
+      "between",
+      "all"
+    ],
+    "actions": [
+      "babies",
+      "holding",
+      "creating",
+      "adults"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "They are all holding their babies, creating a sense of connection between the adults and the infants.",
+    "objects": [
+      "they",
+      "their",
+      "sense",
+      "connection",
+      "between",
+      "all"
+    ],
+    "actions": [
+      "babies",
+      "holding",
+      "creating",
+      "adults"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "They are all holding their babies, creating a sense of connection between the adults and the infants.",
+    "objects": [
+      "they",
+      "their",
+      "sense",
+      "connection",
+      "between",
+      "all"
+    ],
+    "actions": [
+      "babies",
+      "holding",
+      "creating",
+      "adults"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "They are all holding their babies, creating a sense of connection between the adults and the infants.",
+    "objects": [
+      "they",
+      "their",
+      "sense",
+      "connection",
+      "between",
+      "all"
+    ],
+    "actions": [
+      "babies",
+      "holding",
+      "creating",
+      "adults"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The babies appear to be in a state of playfulness and curiosity, as they reach out to touch each other.",
+    "objects": [
+      "appear",
+      "they",
+      "each",
+      "reach",
+      "other",
+      "state",
+      "touch",
+      "out"
+    ],
+    "actions": [
+      "playfulness",
+      "babies"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The babies appear to be in a state of playfulness and curiosity, as they reach out to touch each other.",
+    "objects": [
+      "appear",
+      "they",
+      "each",
+      "reach",
+      "other",
+      "state",
+      "touch",
+      "out"
+    ],
+    "actions": [
+      "playfulness",
+      "babies"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The babies appear to be in a state of playfulness and curiosity, as they reach out to touch each other.",
+    "objects": [
+      "appear",
+      "they",
+      "each",
+      "reach",
+      "other",
+      "state",
+      "touch",
+      "out"
+    ],
+    "actions": [
+      "playfulness",
+      "babies"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The babies appear to be in a state of playfulness and curiosity, as they reach out to touch each other.",
+    "objects": [
+      "appear",
+      "they",
+      "each",
+      "reach",
+      "other",
+      "state",
+      "touch",
+      "out"
+    ],
+    "actions": [
+      "playfulness",
+      "babies"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The women seem to be enjoying this moment, possibly sharing a bonding experience.",
+    "objects": [
+      "experience",
+      "possibly",
+      "seem",
+      "moment",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "sharing",
+      "bonding",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The women seem to be enjoying this moment, possibly sharing a bonding experience.",
+    "objects": [
+      "experience",
+      "possibly",
+      "seem",
+      "moment",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "sharing",
+      "bonding",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The women seem to be enjoying this moment, possibly sharing a bonding experience.",
+    "objects": [
+      "experience",
+      "possibly",
+      "seem",
+      "moment",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "sharing",
+      "bonding",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The women seem to be enjoying this moment, possibly sharing a bonding experience.",
+    "objects": [
+      "experience",
+      "possibly",
+      "seem",
+      "moment",
+      "women",
+      "this"
+    ],
+    "actions": [
+      "sharing",
+      "bonding",
+      "enjoying"
+    ],
+    "segment_id": 7
+  }
+]

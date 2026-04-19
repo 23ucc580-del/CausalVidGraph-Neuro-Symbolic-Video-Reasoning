@@ -1,0 +1,593 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are four musicians on stage, each engrossed in playing their instruments.",
+    "objects": [
+      "their",
+      "each",
+      "there",
+      "four",
+      "stage"
+    ],
+    "actions": [
+      "playing",
+      "musicians",
+      "instruments",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are four musicians on stage, each engrossed in playing their instruments.",
+    "objects": [
+      "their",
+      "each",
+      "there",
+      "four",
+      "stage"
+    ],
+    "actions": [
+      "playing",
+      "musicians",
+      "instruments",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are four musicians on stage, each engrossed in playing their instruments.",
+    "objects": [
+      "their",
+      "each",
+      "there",
+      "four",
+      "stage"
+    ],
+    "actions": [
+      "playing",
+      "musicians",
+      "instruments",
+      "engrossed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The stage is dimly lit, with the spotlight focused on the musicians, casting long shadows and creating an intimate atmosphere.",
+    "objects": [
+      "spotlight",
+      "long",
+      "intimate",
+      "lit",
+      "dimly",
+      "stage",
+      "atmosphere"
+    ],
+    "actions": [
+      "shadows",
+      "focused",
+      "casting",
+      "musicians"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The stage is dimly lit, with the spotlight focused on the musicians, casting long shadows and creating an intimate atmosphere.",
+    "objects": [
+      "spotlight",
+      "long",
+      "intimate",
+      "lit",
+      "dimly",
+      "stage",
+      "atmosphere"
+    ],
+    "actions": [
+      "shadows",
+      "focused",
+      "casting",
+      "musicians"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The stage is dimly lit, with the spotlight focused on the musicians, casting long shadows and creating an intimate atmosphere.",
+    "objects": [
+      "spotlight",
+      "long",
+      "intimate",
+      "lit",
+      "dimly",
+      "stage",
+      "atmosphere"
+    ],
+    "actions": [
+      "shadows",
+      "focused",
+      "casting",
+      "musicians"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The lead guitarist, donned in a black shirt and blue jeans, is holding a guitar, strumming vigorously.",
+    "objects": [
+      "black",
+      "vigorously",
+      "blue",
+      "guitar",
+      "shirt",
+      "guitarist",
+      "lead"
+    ],
+    "actions": [
+      "donned",
+      "strumming",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The lead guitarist, donned in a black shirt and blue jeans, is holding a guitar, strumming vigorously.",
+    "objects": [
+      "black",
+      "vigorously",
+      "blue",
+      "guitar",
+      "shirt",
+      "guitarist",
+      "lead"
+    ],
+    "actions": [
+      "donned",
+      "strumming",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The lead guitarist, donned in a black shirt and blue jeans, is holding a guitar, strumming vigorously.",
+    "objects": [
+      "black",
+      "vigorously",
+      "blue",
+      "guitar",
+      "shirt",
+      "guitarist",
+      "lead"
+    ],
+    "actions": [
+      "donned",
+      "strumming",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The drummer, positioned behind him, is in a white shirt and blue jeans, beating out a rhythm on his drum set.",
+    "objects": [
+      "behind",
+      "white",
+      "drum",
+      "drummer",
+      "him",
+      "blue",
+      "shirt",
+      "rhythm"
+    ],
+    "actions": [
+      "positioned",
+      "jeans",
+      "beating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The drummer, positioned behind him, is in a white shirt and blue jeans, beating out a rhythm on his drum set.",
+    "objects": [
+      "behind",
+      "white",
+      "drum",
+      "drummer",
+      "him",
+      "blue",
+      "shirt",
+      "rhythm"
+    ],
+    "actions": [
+      "positioned",
+      "jeans",
+      "beating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The drummer, positioned behind him, is in a white shirt and blue jeans, beating out a rhythm on his drum set.",
+    "objects": [
+      "behind",
+      "white",
+      "drum",
+      "drummer",
+      "him",
+      "blue",
+      "shirt",
+      "rhythm"
+    ],
+    "actions": [
+      "positioned",
+      "jeans",
+      "beating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The keyboardist, also in a white shirt, is playing his instrument with a focused expression, while the bassist, wearing a red shirt, is immersed in his own melody.",
+    "objects": [
+      "keyboardist",
+      "white",
+      "own",
+      "melody",
+      "while",
+      "instrument",
+      "shirt",
+      "bassist"
+    ],
+    "actions": [
+      "focused",
+      "red",
+      "wearing",
+      "immersed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The keyboardist, also in a white shirt, is playing his instrument with a focused expression, while the bassist, wearing a red shirt, is immersed in his own melody.",
+    "objects": [
+      "keyboardist",
+      "white",
+      "own",
+      "melody",
+      "while",
+      "instrument",
+      "shirt",
+      "bassist"
+    ],
+    "actions": [
+      "focused",
+      "red",
+      "wearing",
+      "immersed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The keyboardist, also in a white shirt, is playing his instrument with a focused expression, while the bassist, wearing a red shirt, is immersed in his own melody.",
+    "objects": [
+      "keyboardist",
+      "white",
+      "own",
+      "melody",
+      "while",
+      "instrument",
+      "shirt",
+      "bassist"
+    ],
+    "actions": [
+      "focused",
+      "red",
+      "wearing",
+      "immersed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "All four musicians are singing along, their voices blending harmoniously, creating a captivating sound.",
+    "objects": [
+      "their",
+      "along",
+      "four",
+      "harmoniously",
+      "sound",
+      "all"
+    ],
+    "actions": [
+      "voices",
+      "singing",
+      "captivating",
+      "blending"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "All four musicians are singing along, their voices blending harmoniously, creating a captivating sound.",
+    "objects": [
+      "their",
+      "along",
+      "four",
+      "harmoniously",
+      "sound",
+      "all"
+    ],
+    "actions": [
+      "voices",
+      "singing",
+      "captivating",
+      "blending"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "All four musicians are singing along, their voices blending harmoniously, creating a captivating sound.",
+    "objects": [
+      "their",
+      "along",
+      "four",
+      "harmoniously",
+      "sound",
+      "all"
+    ],
+    "actions": [
+      "voices",
+      "singing",
+      "captivating",
+      "blending"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The lead guitarist is singing into a microphone, his voice clear and strong.",
+    "objects": [
+      "into",
+      "strong",
+      "microphone",
+      "clear",
+      "his",
+      "guitarist",
+      "voice",
+      "lead"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The lead guitarist is singing into a microphone, his voice clear and strong.",
+    "objects": [
+      "into",
+      "strong",
+      "microphone",
+      "clear",
+      "his",
+      "guitarist",
+      "voice",
+      "lead"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The lead guitarist is singing into a microphone, his voice clear and strong.",
+    "objects": [
+      "into",
+      "strong",
+      "microphone",
+      "clear",
+      "his",
+      "guitarist",
+      "voice",
+      "lead"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The drummer's microphone is positioned in front of him, capturing his beats.",
+    "objects": [
+      "him",
+      "microphone",
+      "his"
+    ],
+    "actions": [
+      "drummer's",
+      "capturing",
+      "positioned",
+      "beats"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The drummer's microphone is positioned in front of him, capturing his beats.",
+    "objects": [
+      "him",
+      "microphone",
+      "his"
+    ],
+    "actions": [
+      "drummer's",
+      "capturing",
+      "positioned",
+      "beats"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The drummer's microphone is positioned in front of him, capturing his beats.",
+    "objects": [
+      "him",
+      "microphone",
+      "his"
+    ],
+    "actions": [
+      "drummer's",
+      "capturing",
+      "positioned",
+      "beats"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The keyboardist's microphone is slightly behind him, while the bassist's microphone is positioned to the side.",
+    "objects": [
+      "behind",
+      "while",
+      "him",
+      "microphone",
+      "side",
+      "slightly"
+    ],
+    "actions": [
+      "positioned",
+      "keyboardist's",
+      "bassist's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The keyboardist's microphone is slightly behind him, while the bassist's microphone is positioned to the side.",
+    "objects": [
+      "behind",
+      "while",
+      "him",
+      "microphone",
+      "side",
+      "slightly"
+    ],
+    "actions": [
+      "positioned",
+      "keyboardist's",
+      "bassist's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The keyboardist's microphone is slightly behind him, while the bassist's microphone is positioned to the side.",
+    "objects": [
+      "behind",
+      "while",
+      "him",
+      "microphone",
+      "side",
+      "slightly"
+    ],
+    "actions": [
+      "positioned",
+      "keyboardist's",
+      "bassist's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The background is dark, with the focus solely on the musicians and their performance.",
+    "objects": [
+      "their",
+      "dark",
+      "solely",
+      "performance"
+    ],
+    "actions": [
+      "musicians",
+      "focus"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The background is dark, with the focus solely on the musicians and their performance.",
+    "objects": [
+      "their",
+      "dark",
+      "solely",
+      "performance"
+    ],
+    "actions": [
+      "musicians",
+      "focus"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The background is dark, with the focus solely on the musicians and their performance.",
+    "objects": [
+      "their",
+      "dark",
+      "solely",
+      "performance"
+    ],
+    "actions": [
+      "musicians",
+      "focus"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is one of a passionate musical performance, with each musician fully immersed in their role.",
+    "objects": [
+      "one",
+      "their",
+      "role",
+      "each",
+      "musical",
+      "performance",
+      "musician",
+      "fully"
+    ],
+    "actions": [
+      "immersed"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is one of a passionate musical performance, with each musician fully immersed in their role.",
+    "objects": [
+      "one",
+      "their",
+      "role",
+      "each",
+      "musical",
+      "performance",
+      "musician",
+      "fully"
+    ],
+    "actions": [
+      "immersed"
+    ],
+    "segment_id": 10
+  }
+]

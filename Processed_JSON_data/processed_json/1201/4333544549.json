@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman and her dog are seen walking down a street.",
+    "objects": [
+      "her",
+      "woman",
+      "dog",
+      "street"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman and her dog are seen walking down a street.",
+    "objects": [
+      "her",
+      "woman",
+      "dog",
+      "street"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman and her dog are seen walking down a street.",
+    "objects": [
+      "her",
+      "woman",
+      "dog",
+      "street"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman and her dog are seen walking down a street.",
+    "objects": [
+      "her",
+      "woman",
+      "dog",
+      "street"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is dressed in a white t-shirt, blue pants, and a blue hoodie, while her dog is black and white.",
+    "objects": [
+      "white",
+      "blue",
+      "her",
+      "while",
+      "dog",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is dressed in a white t-shirt, blue pants, and a blue hoodie, while her dog is black and white.",
+    "objects": [
+      "white",
+      "blue",
+      "her",
+      "while",
+      "dog",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is dressed in a white t-shirt, blue pants, and a blue hoodie, while her dog is black and white.",
+    "objects": [
+      "white",
+      "blue",
+      "her",
+      "while",
+      "dog",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is dressed in a white t-shirt, blue pants, and a blue hoodie, while her dog is black and white.",
+    "objects": [
+      "white",
+      "blue",
+      "her",
+      "while",
+      "dog",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog is wearing a blue collar.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog is wearing a blue collar.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The dog is wearing a blue collar.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The dog is wearing a blue collar.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "They are holding a leash, and the woman is also holding a bottle of water.",
+    "objects": [
+      "bottle",
+      "water",
+      "leash",
+      "woman",
+      "they"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "They are holding a leash, and the woman is also holding a bottle of water.",
+    "objects": [
+      "bottle",
+      "water",
+      "leash",
+      "woman",
+      "they"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "They are holding a leash, and the woman is also holding a bottle of water.",
+    "objects": [
+      "bottle",
+      "water",
+      "leash",
+      "woman",
+      "they"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "They are holding a leash, and the woman is also holding a bottle of water.",
+    "objects": [
+      "bottle",
+      "water",
+      "leash",
+      "woman",
+      "they"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The street is lined with various vehicles, including a white car and a silver car, and there are multiple green trash cans and a blue barrel.",
+    "objects": [
+      "white",
+      "car",
+      "cans",
+      "blue",
+      "multiple",
+      "barrel",
+      "trash",
+      "green"
+    ],
+    "actions": [
+      "lined",
+      "vehicles"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The street is lined with various vehicles, including a white car and a silver car, and there are multiple green trash cans and a blue barrel.",
+    "objects": [
+      "white",
+      "car",
+      "cans",
+      "blue",
+      "multiple",
+      "barrel",
+      "trash",
+      "green"
+    ],
+    "actions": [
+      "lined",
+      "vehicles"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The street is lined with various vehicles, including a white car and a silver car, and there are multiple green trash cans and a blue barrel.",
+    "objects": [
+      "white",
+      "car",
+      "cans",
+      "blue",
+      "multiple",
+      "barrel",
+      "trash",
+      "green"
+    ],
+    "actions": [
+      "lined",
+      "vehicles"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The street is lined with various vehicles, including a white car and a silver car, and there are multiple green trash cans and a blue barrel.",
+    "objects": [
+      "white",
+      "car",
+      "cans",
+      "blue",
+      "multiple",
+      "barrel",
+      "trash",
+      "green"
+    ],
+    "actions": [
+      "lined",
+      "vehicles"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A sign for a nearby business is visible, and the street appears to be in a residential area with houses on both sides.",
+    "objects": [
+      "both",
+      "sign",
+      "nearby",
+      "residential",
+      "area",
+      "street"
+    ],
+    "actions": [
+      "houses",
+      "business",
+      "sides"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A sign for a nearby business is visible, and the street appears to be in a residential area with houses on both sides.",
+    "objects": [
+      "both",
+      "sign",
+      "nearby",
+      "residential",
+      "area",
+      "street"
+    ],
+    "actions": [
+      "houses",
+      "business",
+      "sides"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A sign for a nearby business is visible, and the street appears to be in a residential area with houses on both sides.",
+    "objects": [
+      "both",
+      "sign",
+      "nearby",
+      "residential",
+      "area",
+      "street"
+    ],
+    "actions": [
+      "houses",
+      "business",
+      "sides"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A sign for a nearby business is visible, and the street appears to be in a residential area with houses on both sides.",
+    "objects": [
+      "both",
+      "sign",
+      "nearby",
+      "residential",
+      "area",
+      "street"
+    ],
+    "actions": [
+      "houses",
+      "business",
+      "sides"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman and her dog are the main focus of the video, and they are the only two individuals present.",
+    "objects": [
+      "only",
+      "present",
+      "her",
+      "main",
+      "dog",
+      "two",
+      "woman",
+      "they"
+    ],
+    "actions": [
+      "individuals",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman and her dog are the main focus of the video, and they are the only two individuals present.",
+    "objects": [
+      "only",
+      "present",
+      "her",
+      "main",
+      "dog",
+      "two",
+      "woman",
+      "they"
+    ],
+    "actions": [
+      "individuals",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman and her dog are the main focus of the video, and they are the only two individuals present.",
+    "objects": [
+      "only",
+      "present",
+      "her",
+      "main",
+      "dog",
+      "two",
+      "woman",
+      "they"
+    ],
+    "actions": [
+      "individuals",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman and her dog are the main focus of the video, and they are the only two individuals present.",
+    "objects": [
+      "only",
+      "present",
+      "her",
+      "main",
+      "dog",
+      "two",
+      "woman",
+      "they"
+    ],
+    "actions": [
+      "individuals",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog seems to be enjoying the walk as it walks with its tail up, and the woman seems to be enjoying the company of her pet.",
+    "objects": [
+      "company",
+      "her",
+      "its",
+      "tail",
+      "walk",
+      "dog",
+      "pet",
+      "woman"
+    ],
+    "actions": [
+      "walks",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog seems to be enjoying the walk as it walks with its tail up, and the woman seems to be enjoying the company of her pet.",
+    "objects": [
+      "company",
+      "her",
+      "its",
+      "tail",
+      "walk",
+      "dog",
+      "pet",
+      "woman"
+    ],
+    "actions": [
+      "walks",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The dog seems to be enjoying the walk as it walks with its tail up, and the woman seems to be enjoying the company of her pet.",
+    "objects": [
+      "company",
+      "her",
+      "its",
+      "tail",
+      "walk",
+      "dog",
+      "pet",
+      "woman"
+    ],
+    "actions": [
+      "walks",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The dog seems to be enjoying the walk as it walks with its tail up, and the woman seems to be enjoying the company of her pet.",
+    "objects": [
+      "company",
+      "her",
+      "its",
+      "tail",
+      "walk",
+      "dog",
+      "pet",
+      "woman"
+    ],
+    "actions": [
+      "walks",
+      "enjoying",
+      "seems"
+    ],
+    "segment_id": 7
+  }
+]

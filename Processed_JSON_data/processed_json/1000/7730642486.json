@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a black kitten playing with a yellow and red toy.",
+    "objects": [
+      "kitten",
+      "see",
+      "yellow",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "playing",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a black kitten playing with a yellow and red toy.",
+    "objects": [
+      "kitten",
+      "see",
+      "yellow",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "playing",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a black kitten playing with a yellow and red toy.",
+    "objects": [
+      "kitten",
+      "see",
+      "yellow",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "playing",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a black kitten playing with a yellow and red toy.",
+    "objects": [
+      "kitten",
+      "see",
+      "yellow",
+      "toy",
+      "black"
+    ],
+    "actions": [
+      "playing",
+      "red"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The kitten has its back paws on the toy, and is pulling it along the ground.",
+    "objects": [
+      "kitten",
+      "along",
+      "has",
+      "toy",
+      "ground",
+      "its",
+      "paws"
+    ],
+    "actions": [
+      "pulling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The kitten has its back paws on the toy, and is pulling it along the ground.",
+    "objects": [
+      "kitten",
+      "along",
+      "has",
+      "toy",
+      "ground",
+      "its",
+      "paws"
+    ],
+    "actions": [
+      "pulling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The kitten has its back paws on the toy, and is pulling it along the ground.",
+    "objects": [
+      "kitten",
+      "along",
+      "has",
+      "toy",
+      "ground",
+      "its",
+      "paws"
+    ],
+    "actions": [
+      "pulling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The kitten has its back paws on the toy, and is pulling it along the ground.",
+    "objects": [
+      "kitten",
+      "along",
+      "has",
+      "toy",
+      "ground",
+      "its",
+      "paws"
+    ],
+    "actions": [
+      "pulling"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The toy appears to be a small, plastic bobble toy with a yellow head and red body.",
+    "objects": [
+      "small",
+      "body",
+      "bobble",
+      "plastic",
+      "yellow",
+      "head",
+      "toy"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The toy appears to be a small, plastic bobble toy with a yellow head and red body.",
+    "objects": [
+      "small",
+      "body",
+      "bobble",
+      "plastic",
+      "yellow",
+      "head",
+      "toy"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The toy appears to be a small, plastic bobble toy with a yellow head and red body.",
+    "objects": [
+      "small",
+      "body",
+      "bobble",
+      "plastic",
+      "yellow",
+      "head",
+      "toy"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The toy appears to be a small, plastic bobble toy with a yellow head and red body.",
+    "objects": [
+      "small",
+      "body",
+      "bobble",
+      "plastic",
+      "yellow",
+      "head",
+      "toy"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "In the background, we can see a white blanket with a black cat lying on it, and there is a small white ball nearby.",
+    "objects": [
+      "blanket",
+      "white",
+      "cat",
+      "small",
+      "see",
+      "nearby",
+      "can",
+      "ball"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "In the background, we can see a white blanket with a black cat lying on it, and there is a small white ball nearby.",
+    "objects": [
+      "blanket",
+      "white",
+      "cat",
+      "small",
+      "see",
+      "nearby",
+      "can",
+      "ball"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "In the background, we can see a white blanket with a black cat lying on it, and there is a small white ball nearby.",
+    "objects": [
+      "blanket",
+      "white",
+      "cat",
+      "small",
+      "see",
+      "nearby",
+      "can",
+      "ball"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "In the background, we can see a white blanket with a black cat lying on it, and there is a small white ball nearby.",
+    "objects": [
+      "blanket",
+      "white",
+      "cat",
+      "small",
+      "see",
+      "nearby",
+      "can",
+      "ball"
+    ],
+    "actions": [
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The kitten is wearing a blue collar.",
+    "objects": [
+      "kitten",
+      "blue",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The kitten is wearing a blue collar.",
+    "objects": [
+      "kitten",
+      "blue",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The kitten is wearing a blue collar.",
+    "objects": [
+      "kitten",
+      "blue",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The kitten is wearing a blue collar.",
+    "objects": [
+      "kitten",
+      "blue",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene is set in a room with a white floor, and the camera is positioned at an angle to capture the action of the kitten and the toy.",
+    "objects": [
+      "floor",
+      "kitten",
+      "capture",
+      "white",
+      "toy",
+      "action",
+      "set",
+      "room"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene is set in a room with a white floor, and the camera is positioned at an angle to capture the action of the kitten and the toy.",
+    "objects": [
+      "floor",
+      "kitten",
+      "capture",
+      "white",
+      "toy",
+      "action",
+      "set",
+      "room"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene is set in a room with a white floor, and the camera is positioned at an angle to capture the action of the kitten and the toy.",
+    "objects": [
+      "floor",
+      "kitten",
+      "capture",
+      "white",
+      "toy",
+      "action",
+      "set",
+      "room"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene is set in a room with a white floor, and the camera is positioned at an angle to capture the action of the kitten and the toy.",
+    "objects": [
+      "floor",
+      "kitten",
+      "capture",
+      "white",
+      "toy",
+      "action",
+      "set",
+      "room"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The kitten is walking and pulling the toy along the floor, while the black cat in the background is lying down on the white blanket.",
+    "objects": [
+      "kitten",
+      "along",
+      "floor",
+      "blanket",
+      "white",
+      "cat",
+      "while",
+      "toy"
+    ],
+    "actions": [
+      "walking",
+      "pulling",
+      "lying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The kitten is walking and pulling the toy along the floor, while the black cat in the background is lying down on the white blanket.",
+    "objects": [
+      "kitten",
+      "along",
+      "floor",
+      "blanket",
+      "white",
+      "cat",
+      "while",
+      "toy"
+    ],
+    "actions": [
+      "walking",
+      "pulling",
+      "lying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The kitten is walking and pulling the toy along the floor, while the black cat in the background is lying down on the white blanket.",
+    "objects": [
+      "kitten",
+      "along",
+      "floor",
+      "blanket",
+      "white",
+      "cat",
+      "while",
+      "toy"
+    ],
+    "actions": [
+      "walking",
+      "pulling",
+      "lying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The kitten is walking and pulling the toy along the floor, while the black cat in the background is lying down on the white blanket.",
+    "objects": [
+      "kitten",
+      "along",
+      "floor",
+      "blanket",
+      "white",
+      "cat",
+      "while",
+      "toy"
+    ],
+    "actions": [
+      "walking",
+      "pulling",
+      "lying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The kitten is focused on its play, seemingly enjoying its time with the toy.",
+    "objects": [
+      "kitten",
+      "seemingly",
+      "play",
+      "time",
+      "its",
+      "toy"
+    ],
+    "actions": [
+      "focused",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The kitten is focused on its play, seemingly enjoying its time with the toy.",
+    "objects": [
+      "kitten",
+      "seemingly",
+      "play",
+      "time",
+      "its",
+      "toy"
+    ],
+    "actions": [
+      "focused",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The kitten is focused on its play, seemingly enjoying its time with the toy.",
+    "objects": [
+      "kitten",
+      "seemingly",
+      "play",
+      "time",
+      "its",
+      "toy"
+    ],
+    "actions": [
+      "focused",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The kitten is focused on its play, seemingly enjoying its time with the toy.",
+    "objects": [
+      "kitten",
+      "seemingly",
+      "play",
+      "time",
+      "its",
+      "toy"
+    ],
+    "actions": [
+      "focused",
+      "enjoying"
+    ],
+    "segment_id": 7
+  }
+]

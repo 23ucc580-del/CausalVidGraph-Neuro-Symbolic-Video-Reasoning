@@ -1,0 +1,530 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman is seen sitting on the floor with a baby, holding a red hat in her hand.",
+    "objects": [
+      "hand",
+      "her",
+      "baby",
+      "floor",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman is seen sitting on the floor with a baby, holding a red hat in her hand.",
+    "objects": [
+      "hand",
+      "her",
+      "baby",
+      "floor",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman is seen sitting on the floor with a baby, holding a red hat in her hand.",
+    "objects": [
+      "hand",
+      "her",
+      "baby",
+      "floor",
+      "woman",
+      "hat"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The baby is wearing a gray shirt and blue pants and is sitting on her lap.",
+    "objects": [
+      "blue",
+      "lap",
+      "gray",
+      "her",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The baby is wearing a gray shirt and blue pants and is sitting on her lap.",
+    "objects": [
+      "blue",
+      "lap",
+      "gray",
+      "her",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby is wearing a gray shirt and blue pants and is sitting on her lap.",
+    "objects": [
+      "blue",
+      "lap",
+      "gray",
+      "her",
+      "shirt",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is holding a yellow and red ball in her hand, which the baby is grabbing onto.",
+    "objects": [
+      "hand",
+      "which",
+      "her",
+      "ball",
+      "yellow",
+      "baby",
+      "woman",
+      "onto"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "grabbing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is holding a yellow and red ball in her hand, which the baby is grabbing onto.",
+    "objects": [
+      "hand",
+      "which",
+      "her",
+      "ball",
+      "yellow",
+      "baby",
+      "woman",
+      "onto"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "grabbing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman is holding a yellow and red ball in her hand, which the baby is grabbing onto.",
+    "objects": [
+      "hand",
+      "which",
+      "her",
+      "ball",
+      "yellow",
+      "baby",
+      "woman",
+      "onto"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "grabbing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "There is a baby walker toy nearby.",
+    "objects": [
+      "toy",
+      "there",
+      "nearby",
+      "walker",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "There is a baby walker toy nearby.",
+    "objects": [
+      "toy",
+      "there",
+      "nearby",
+      "walker",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "There is a baby walker toy nearby.",
+    "objects": [
+      "toy",
+      "there",
+      "nearby",
+      "walker",
+      "baby"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is also holding a red ball in her other hand.",
+    "objects": [
+      "hand",
+      "her",
+      "other",
+      "ball",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is also holding a red ball in her other hand.",
+    "objects": [
+      "hand",
+      "her",
+      "other",
+      "ball",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is also holding a red ball in her other hand.",
+    "objects": [
+      "hand",
+      "her",
+      "other",
+      "ball",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A dog can be seen in the background, and the woman is wearing a blue hoodie and black shoes.",
+    "objects": [
+      "blue",
+      "can",
+      "dog",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "shoes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A dog can be seen in the background, and the woman is wearing a blue hoodie and black shoes.",
+    "objects": [
+      "blue",
+      "can",
+      "dog",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "shoes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A dog can be seen in the background, and the woman is wearing a blue hoodie and black shoes.",
+    "objects": [
+      "blue",
+      "can",
+      "dog",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "shoes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The baby is sitting on the floor and is playing with a red and blue toy.",
+    "objects": [
+      "blue",
+      "floor",
+      "toy",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "playing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The baby is sitting on the floor and is playing with a red and blue toy.",
+    "objects": [
+      "blue",
+      "floor",
+      "toy",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "playing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The baby is sitting on the floor and is playing with a red and blue toy.",
+    "objects": [
+      "blue",
+      "floor",
+      "toy",
+      "baby"
+    ],
+    "actions": [
+      "sitting",
+      "playing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The baby is also holding a yellow ball.",
+    "objects": [
+      "ball",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The baby is also holding a yellow ball.",
+    "objects": [
+      "ball",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby is also holding a yellow ball.",
+    "objects": [
+      "ball",
+      "yellow",
+      "baby"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman is wearing a black shirt and black pants, and the baby is sitting on a blue mat.",
+    "objects": [
+      "blue",
+      "mat",
+      "shirt",
+      "baby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman is wearing a black shirt and black pants, and the baby is sitting on a blue mat.",
+    "objects": [
+      "blue",
+      "mat",
+      "shirt",
+      "baby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman is wearing a black shirt and black pants, and the baby is sitting on a blue mat.",
+    "objects": [
+      "blue",
+      "mat",
+      "shirt",
+      "baby",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog is also wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog is also wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog is also wearing a blue hoodie.",
+    "objects": [
+      "blue",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby is sitting on the floor, and the woman is holding a red ball in her hand.",
+    "objects": [
+      "hand",
+      "her",
+      "ball",
+      "baby",
+      "floor",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby is sitting on the floor, and the woman is holding a red ball in her hand.",
+    "objects": [
+      "hand",
+      "her",
+      "ball",
+      "baby",
+      "floor",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "red",
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

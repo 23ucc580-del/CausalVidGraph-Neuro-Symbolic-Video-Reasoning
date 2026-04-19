@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is gathered on a stage, engaging in a lively theatrical performance.",
+    "objects": [
+      "people",
+      "lively",
+      "performance",
+      "theatrical",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "engaging",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is gathered on a stage, engaging in a lively theatrical performance.",
+    "objects": [
+      "people",
+      "lively",
+      "performance",
+      "theatrical",
+      "stage",
+      "group"
+    ],
+    "actions": [
+      "engaging",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The setting appears to be a black-box theater, with a stark black backdrop and minimalist stage design.",
+    "objects": [
+      "theater",
+      "design",
+      "black",
+      "backdrop",
+      "minimalist",
+      "stage",
+      "stark"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The setting appears to be a black-box theater, with a stark black backdrop and minimalist stage design.",
+    "objects": [
+      "theater",
+      "design",
+      "black",
+      "backdrop",
+      "minimalist",
+      "stage",
+      "stark"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The performers are divided into two groups, each dressed in distinct costumes.",
+    "objects": [
+      "distinct",
+      "each",
+      "two",
+      "into"
+    ],
+    "actions": [
+      "performers",
+      "costumes",
+      "divided",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The performers are divided into two groups, each dressed in distinct costumes.",
+    "objects": [
+      "distinct",
+      "each",
+      "two",
+      "into"
+    ],
+    "actions": [
+      "performers",
+      "costumes",
+      "divided",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "One group is dressed in white shirts and ties, resembling a traditional school uniform, while the other group is wearing black cloaks and hats, reminiscent of a witch costume.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "costume",
+      "while",
+      "black",
+      "traditional",
+      "reminiscent"
+    ],
+    "actions": [
+      "cloaks",
+      "wearing",
+      "dressed",
+      "resembling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "One group is dressed in white shirts and ties, resembling a traditional school uniform, while the other group is wearing black cloaks and hats, reminiscent of a witch costume.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "costume",
+      "while",
+      "black",
+      "traditional",
+      "reminiscent"
+    ],
+    "actions": [
+      "cloaks",
+      "wearing",
+      "dressed",
+      "resembling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene is filled with energy and laughter as the actors interact with each other, creating a playful and lighthearted atmosphere.",
+    "objects": [
+      "other",
+      "each",
+      "interact",
+      "atmosphere",
+      "laughter",
+      "playful",
+      "energy"
+    ],
+    "actions": [
+      "actors",
+      "filled",
+      "creating",
+      "lighthearted"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene is filled with energy and laughter as the actors interact with each other, creating a playful and lighthearted atmosphere.",
+    "objects": [
+      "other",
+      "each",
+      "interact",
+      "atmosphere",
+      "laughter",
+      "playful",
+      "energy"
+    ],
+    "actions": [
+      "actors",
+      "filled",
+      "creating",
+      "lighthearted"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "In the scene, a man in a black cloak is talking to a man in a white shirt.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "cloak",
+      "man"
+    ],
+    "actions": [
+      "talking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "In the scene, a man in a black cloak is talking to a man in a white shirt.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "cloak",
+      "man"
+    ],
+    "actions": [
+      "talking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "They are both gesturing with their hands, possibly indicating a conversation or dialogue.",
+    "objects": [
+      "they",
+      "their",
+      "both",
+      "conversation",
+      "possibly",
+      "dialogue"
+    ],
+    "actions": [
+      "hands",
+      "indicating",
+      "gesturing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "They are both gesturing with their hands, possibly indicating a conversation or dialogue.",
+    "objects": [
+      "they",
+      "their",
+      "both",
+      "conversation",
+      "possibly",
+      "dialogue"
+    ],
+    "actions": [
+      "hands",
+      "indicating",
+      "gesturing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A woman in a white shirt is laughing, adding to the comedic tone of the scene.",
+    "objects": [
+      "comedic",
+      "white",
+      "woman",
+      "tone",
+      "shirt"
+    ],
+    "actions": [
+      "adding",
+      "laughing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman in a white shirt is laughing, adding to the comedic tone of the scene.",
+    "objects": [
+      "comedic",
+      "white",
+      "woman",
+      "tone",
+      "shirt"
+    ],
+    "actions": [
+      "adding",
+      "laughing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "Another man in a white shirt is wearing glasses and talking to a woman in a black cloak.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "cloak",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "talking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "Another man in a white shirt is wearing glasses and talking to a woman in a black cloak.",
+    "objects": [
+      "white",
+      "woman",
+      "black",
+      "shirt",
+      "cloak",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "glasses",
+      "talking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "They are all engaged in a conversation, their body language suggesting a friendly interaction.",
+    "objects": [
+      "they",
+      "their",
+      "body",
+      "conversation",
+      "friendly",
+      "interaction",
+      "language",
+      "all"
+    ],
+    "actions": [
+      "engaged",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "They are all engaged in a conversation, their body language suggesting a friendly interaction.",
+    "objects": [
+      "they",
+      "their",
+      "body",
+      "conversation",
+      "friendly",
+      "interaction",
+      "language",
+      "all"
+    ],
+    "actions": [
+      "engaged",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "Meanwhile, a man in a white shirt is seen in a different part of the stage, seemingly in a different conversation.",
+    "objects": [
+      "white",
+      "conversation",
+      "shirt",
+      "part",
+      "seemingly",
+      "different",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "Meanwhile, a man in a white shirt is seen in a different part of the stage, seemingly in a different conversation.",
+    "objects": [
+      "white",
+      "conversation",
+      "shirt",
+      "part",
+      "seemingly",
+      "different",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "He is holding a blue object, possibly a prop or a part of the set design, while another man in a black cloak is also talking to a woman in a white shirt.",
+    "objects": [
+      "white",
+      "design",
+      "woman",
+      "prop",
+      "while",
+      "possibly",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "He is holding a blue object, possibly a prop or a part of the set design, while another man in a black cloak is also talking to a woman in a white shirt.",
+    "objects": [
+      "white",
+      "design",
+      "woman",
+      "prop",
+      "while",
+      "possibly",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman in the white shirt is laughing again, indicating that the conversation is amusing.",
+    "objects": [
+      "white",
+      "woman",
+      "conversation",
+      "shirt",
+      "that",
+      "again"
+    ],
+    "actions": [
+      "amusing",
+      "indicating",
+      "laughing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman in the white shirt is laughing again, indicating that the conversation is amusing.",
+    "objects": [
+      "white",
+      "woman",
+      "conversation",
+      "shirt",
+      "that",
+      "again"
+    ],
+    "actions": [
+      "amusing",
+      "indicating",
+      "laughing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, there are several other performers.",
+    "objects": [
+      "other",
+      "there",
+      "several"
+    ],
+    "actions": [
+      "performers"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "In the background, there are several other performers.",
+    "objects": [
+      "other",
+      "there",
+      "several"
+    ],
+    "actions": [
+      "performers"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Some are wearing white shirts and ties, possibly indicating they are part of the same school uniform group as the man in the white shirt, while others are wearing black cloaks and hats, indicating they belong to the witch costume group.",
+    "objects": [
+      "they",
+      "belong",
+      "costume",
+      "white",
+      "while",
+      "black",
+      "possibly",
+      "same"
+    ],
+    "actions": [
+      "cloaks",
+      "others",
+      "wearing",
+      "indicating"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Some are wearing white shirts and ties, possibly indicating they are part of the same school uniform group as the man in the white shirt, while others are wearing black cloaks and hats, indicating they belong to the witch costume group.",
+    "objects": [
+      "they",
+      "belong",
+      "costume",
+      "white",
+      "while",
+      "black",
+      "possibly",
+      "same"
+    ],
+    "actions": [
+      "cloaks",
+      "others",
+      "wearing",
+      "indicating"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "They all seem to be actively participating in the performance.",
+    "objects": [
+      "they",
+      "actively",
+      "performance",
+      "seem",
+      "all"
+    ],
+    "actions": [
+      "participating"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "They all seem to be actively participating in the performance.",
+    "objects": [
+      "they",
+      "actively",
+      "performance",
+      "seem",
+      "all"
+    ],
+    "actions": [
+      "participating"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a woman walking down a dirt road, accompanied by a dog.",
+    "objects": [
+      "this",
+      "woman",
+      "dirt",
+      "dog",
+      "road",
+      "see"
+    ],
+    "actions": [
+      "walking",
+      "accompanied"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a woman walking down a dirt road, accompanied by a dog.",
+    "objects": [
+      "this",
+      "woman",
+      "dirt",
+      "dog",
+      "road",
+      "see"
+    ],
+    "actions": [
+      "walking",
+      "accompanied"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a woman walking down a dirt road, accompanied by a dog.",
+    "objects": [
+      "this",
+      "woman",
+      "dirt",
+      "dog",
+      "road",
+      "see"
+    ],
+    "actions": [
+      "walking",
+      "accompanied"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a woman walking down a dirt road, accompanied by a dog.",
+    "objects": [
+      "this",
+      "woman",
+      "dirt",
+      "dog",
+      "road",
+      "see"
+    ],
+    "actions": [
+      "walking",
+      "accompanied"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a brown shirt and pink rain boots.",
+    "objects": [
+      "pink",
+      "rain",
+      "shirt",
+      "brown",
+      "she"
+    ],
+    "actions": [
+      "boots",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a brown shirt and pink rain boots.",
+    "objects": [
+      "pink",
+      "rain",
+      "shirt",
+      "brown",
+      "she"
+    ],
+    "actions": [
+      "boots",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is wearing a brown shirt and pink rain boots.",
+    "objects": [
+      "pink",
+      "rain",
+      "shirt",
+      "brown",
+      "she"
+    ],
+    "actions": [
+      "boots",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is wearing a brown shirt and pink rain boots.",
+    "objects": [
+      "pink",
+      "rain",
+      "shirt",
+      "brown",
+      "she"
+    ],
+    "actions": [
+      "boots",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog is on a leash, and she is holding its collar with one hand while petting it with the other.",
+    "objects": [
+      "collar",
+      "hand",
+      "while",
+      "its",
+      "other",
+      "one",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "holding",
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog is on a leash, and she is holding its collar with one hand while petting it with the other.",
+    "objects": [
+      "collar",
+      "hand",
+      "while",
+      "its",
+      "other",
+      "one",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "holding",
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The dog is on a leash, and she is holding its collar with one hand while petting it with the other.",
+    "objects": [
+      "collar",
+      "hand",
+      "while",
+      "its",
+      "other",
+      "one",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "holding",
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The dog is on a leash, and she is holding its collar with one hand while petting it with the other.",
+    "objects": [
+      "collar",
+      "hand",
+      "while",
+      "its",
+      "other",
+      "one",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "holding",
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog seems to be of a medium-sized breed with a coat that's a mix of black, white, and brown.",
+    "objects": [
+      "white",
+      "mix",
+      "coat",
+      "dog",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "medium-sized",
+      "breed",
+      "that's",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog seems to be of a medium-sized breed with a coat that's a mix of black, white, and brown.",
+    "objects": [
+      "white",
+      "mix",
+      "coat",
+      "dog",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "medium-sized",
+      "breed",
+      "that's",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The dog seems to be of a medium-sized breed with a coat that's a mix of black, white, and brown.",
+    "objects": [
+      "white",
+      "mix",
+      "coat",
+      "dog",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "medium-sized",
+      "breed",
+      "that's",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The dog seems to be of a medium-sized breed with a coat that's a mix of black, white, and brown.",
+    "objects": [
+      "white",
+      "mix",
+      "coat",
+      "dog",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "medium-sized",
+      "breed",
+      "that's",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The road appears to be in a rural area, and the woman is walking along it with the dog on a leash, indicating a casual stroll.",
+    "objects": [
+      "casual",
+      "stroll",
+      "area",
+      "rural",
+      "dog",
+      "leash",
+      "road",
+      "along"
+    ],
+    "actions": [
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The road appears to be in a rural area, and the woman is walking along it with the dog on a leash, indicating a casual stroll.",
+    "objects": [
+      "casual",
+      "stroll",
+      "area",
+      "rural",
+      "dog",
+      "leash",
+      "road",
+      "along"
+    ],
+    "actions": [
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The road appears to be in a rural area, and the woman is walking along it with the dog on a leash, indicating a casual stroll.",
+    "objects": [
+      "casual",
+      "stroll",
+      "area",
+      "rural",
+      "dog",
+      "leash",
+      "road",
+      "along"
+    ],
+    "actions": [
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The road appears to be in a rural area, and the woman is walking along it with the dog on a leash, indicating a casual stroll.",
+    "objects": [
+      "casual",
+      "stroll",
+      "area",
+      "rural",
+      "dog",
+      "leash",
+      "road",
+      "along"
+    ],
+    "actions": [
+      "indicating",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "As they walk, they pass a silver car parked on the side of the road, which is a common sight in such settings.",
+    "objects": [
+      "such",
+      "car",
+      "pass",
+      "which",
+      "sight",
+      "silver",
+      "side",
+      "walk"
+    ],
+    "actions": [
+      "settings",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "As they walk, they pass a silver car parked on the side of the road, which is a common sight in such settings.",
+    "objects": [
+      "such",
+      "car",
+      "pass",
+      "which",
+      "sight",
+      "silver",
+      "side",
+      "walk"
+    ],
+    "actions": [
+      "settings",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "As they walk, they pass a silver car parked on the side of the road, which is a common sight in such settings.",
+    "objects": [
+      "such",
+      "car",
+      "pass",
+      "which",
+      "sight",
+      "silver",
+      "side",
+      "walk"
+    ],
+    "actions": [
+      "settings",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "As they walk, they pass a silver car parked on the side of the road, which is a common sight in such settings.",
+    "objects": [
+      "such",
+      "car",
+      "pass",
+      "which",
+      "sight",
+      "silver",
+      "side",
+      "walk"
+    ],
+    "actions": [
+      "settings",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman and the dog continue their walk, and the dog's leash is blue in color.",
+    "objects": [
+      "color",
+      "blue",
+      "continue",
+      "walk",
+      "dog",
+      "leash",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "dog's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman and the dog continue their walk, and the dog's leash is blue in color.",
+    "objects": [
+      "color",
+      "blue",
+      "continue",
+      "walk",
+      "dog",
+      "leash",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "dog's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman and the dog continue their walk, and the dog's leash is blue in color.",
+    "objects": [
+      "color",
+      "blue",
+      "continue",
+      "walk",
+      "dog",
+      "leash",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "dog's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman and the dog continue their walk, and the dog's leash is blue in color.",
+    "objects": [
+      "color",
+      "blue",
+      "continue",
+      "walk",
+      "dog",
+      "leash",
+      "their",
+      "woman"
+    ],
+    "actions": [
+      "dog's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog is a medium-sized breed with a coat that's a mix of black, white, and brown.",
+    "objects": [
+      "white",
+      "mix",
+      "coat",
+      "dog",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "medium-sized",
+      "breed",
+      "that's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog is a medium-sized breed with a coat that's a mix of black, white, and brown.",
+    "objects": [
+      "white",
+      "mix",
+      "coat",
+      "dog",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "medium-sized",
+      "breed",
+      "that's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The dog is a medium-sized breed with a coat that's a mix of black, white, and brown.",
+    "objects": [
+      "white",
+      "mix",
+      "coat",
+      "dog",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "medium-sized",
+      "breed",
+      "that's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The dog is a medium-sized breed with a coat that's a mix of black, white, and brown.",
+    "objects": [
+      "white",
+      "mix",
+      "coat",
+      "dog",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "medium-sized",
+      "breed",
+      "that's"
+    ],
+    "segment_id": 7
+  }
+]

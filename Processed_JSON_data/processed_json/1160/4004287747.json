@@ -1,0 +1,614 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively gathering of friends in a living room, celebrating a birthday.",
+    "objects": [
+      "birthday",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "friends",
+      "celebrating",
+      "gathering",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively gathering of friends in a living room, celebrating a birthday.",
+    "objects": [
+      "birthday",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "friends",
+      "celebrating",
+      "gathering",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively gathering of friends in a living room, celebrating a birthday.",
+    "objects": [
+      "birthday",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "friends",
+      "celebrating",
+      "gathering",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively gathering of friends in a living room, celebrating a birthday.",
+    "objects": [
+      "birthday",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "friends",
+      "celebrating",
+      "gathering",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The atmosphere is filled with joy and laughter, as the woman in the black sweater, who is the center of attention, holds up a cake with a knife, indicating that it's about to be cut.",
+    "objects": [
+      "sweater",
+      "knife",
+      "laughter",
+      "attention",
+      "cake",
+      "joy",
+      "that",
+      "cut"
+    ],
+    "actions": [
+      "filled",
+      "indicating",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The atmosphere is filled with joy and laughter, as the woman in the black sweater, who is the center of attention, holds up a cake with a knife, indicating that it's about to be cut.",
+    "objects": [
+      "sweater",
+      "knife",
+      "laughter",
+      "attention",
+      "cake",
+      "joy",
+      "that",
+      "cut"
+    ],
+    "actions": [
+      "filled",
+      "indicating",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The atmosphere is filled with joy and laughter, as the woman in the black sweater, who is the center of attention, holds up a cake with a knife, indicating that it's about to be cut.",
+    "objects": [
+      "sweater",
+      "knife",
+      "laughter",
+      "attention",
+      "cake",
+      "joy",
+      "that",
+      "cut"
+    ],
+    "actions": [
+      "filled",
+      "indicating",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The atmosphere is filled with joy and laughter, as the woman in the black sweater, who is the center of attention, holds up a cake with a knife, indicating that it's about to be cut.",
+    "objects": [
+      "sweater",
+      "knife",
+      "laughter",
+      "attention",
+      "cake",
+      "joy",
+      "that",
+      "cut"
+    ],
+    "actions": [
+      "filled",
+      "indicating",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The cake, adorned with a decorative design, is placed on a table next to a pile of books, adding a touch of homeliness to the scene.",
+    "objects": [
+      "pile",
+      "design",
+      "touch",
+      "decorative",
+      "table",
+      "cake"
+    ],
+    "actions": [
+      "adorned",
+      "adding",
+      "placed",
+      "homeliness"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The cake, adorned with a decorative design, is placed on a table next to a pile of books, adding a touch of homeliness to the scene.",
+    "objects": [
+      "pile",
+      "design",
+      "touch",
+      "decorative",
+      "table",
+      "cake"
+    ],
+    "actions": [
+      "adorned",
+      "adding",
+      "placed",
+      "homeliness"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The cake, adorned with a decorative design, is placed on a table next to a pile of books, adding a touch of homeliness to the scene.",
+    "objects": [
+      "pile",
+      "design",
+      "touch",
+      "decorative",
+      "table",
+      "cake"
+    ],
+    "actions": [
+      "adorned",
+      "adding",
+      "placed",
+      "homeliness"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The cake, adorned with a decorative design, is placed on a table next to a pile of books, adding a touch of homeliness to the scene.",
+    "objects": [
+      "pile",
+      "design",
+      "touch",
+      "decorative",
+      "table",
+      "cake"
+    ],
+    "actions": [
+      "adorned",
+      "adding",
+      "placed",
+      "homeliness"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man in a black shirt, seated in a chair, holds a glass of wine, suggesting a relaxed and festive mood.",
+    "objects": [
+      "festive",
+      "wine",
+      "man",
+      "shirt",
+      "glass",
+      "chair",
+      "black",
+      "mood"
+    ],
+    "actions": [
+      "seated",
+      "holds",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man in a black shirt, seated in a chair, holds a glass of wine, suggesting a relaxed and festive mood.",
+    "objects": [
+      "festive",
+      "wine",
+      "man",
+      "shirt",
+      "glass",
+      "chair",
+      "black",
+      "mood"
+    ],
+    "actions": [
+      "seated",
+      "holds",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man in a black shirt, seated in a chair, holds a glass of wine, suggesting a relaxed and festive mood.",
+    "objects": [
+      "festive",
+      "wine",
+      "man",
+      "shirt",
+      "glass",
+      "chair",
+      "black",
+      "mood"
+    ],
+    "actions": [
+      "seated",
+      "holds",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man in a black shirt, seated in a chair, holds a glass of wine, suggesting a relaxed and festive mood.",
+    "objects": [
+      "festive",
+      "wine",
+      "man",
+      "shirt",
+      "glass",
+      "chair",
+      "black",
+      "mood"
+    ],
+    "actions": [
+      "seated",
+      "holds",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another woman, wearing a white shirt, stands nearby, and the man in a blue hoodie is also present in the room.",
+    "objects": [
+      "white",
+      "blue",
+      "room",
+      "present",
+      "man",
+      "shirt",
+      "nearby",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Another woman, wearing a white shirt, stands nearby, and the man in a blue hoodie is also present in the room.",
+    "objects": [
+      "white",
+      "blue",
+      "room",
+      "present",
+      "man",
+      "shirt",
+      "nearby",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Another woman, wearing a white shirt, stands nearby, and the man in a blue hoodie is also present in the room.",
+    "objects": [
+      "white",
+      "blue",
+      "room",
+      "present",
+      "man",
+      "shirt",
+      "nearby",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Another woman, wearing a white shirt, stands nearby, and the man in a blue hoodie is also present in the room.",
+    "objects": [
+      "white",
+      "blue",
+      "room",
+      "present",
+      "man",
+      "shirt",
+      "nearby",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman in the black sweater is smiling and appears to be in the middle of a conversation with someone, possibly sharing a light-hearted moment.",
+    "objects": [
+      "sweater",
+      "middle",
+      "someone",
+      "conversation",
+      "moment",
+      "black",
+      "woman",
+      "possibly"
+    ],
+    "actions": [
+      "smiling",
+      "sharing",
+      "light-hearted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman in the black sweater is smiling and appears to be in the middle of a conversation with someone, possibly sharing a light-hearted moment.",
+    "objects": [
+      "sweater",
+      "middle",
+      "someone",
+      "conversation",
+      "moment",
+      "black",
+      "woman",
+      "possibly"
+    ],
+    "actions": [
+      "smiling",
+      "sharing",
+      "light-hearted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman in the black sweater is smiling and appears to be in the middle of a conversation with someone, possibly sharing a light-hearted moment.",
+    "objects": [
+      "sweater",
+      "middle",
+      "someone",
+      "conversation",
+      "moment",
+      "black",
+      "woman",
+      "possibly"
+    ],
+    "actions": [
+      "smiling",
+      "sharing",
+      "light-hearted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman in the black sweater is smiling and appears to be in the middle of a conversation with someone, possibly sharing a light-hearted moment.",
+    "objects": [
+      "sweater",
+      "middle",
+      "someone",
+      "conversation",
+      "moment",
+      "black",
+      "woman",
+      "possibly"
+    ],
+    "actions": [
+      "smiling",
+      "sharing",
+      "light-hearted"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the black shirt is sitting on a chair, engaged in a conversation with someone else.",
+    "objects": [
+      "someone",
+      "man",
+      "conversation",
+      "shirt",
+      "else",
+      "chair",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the black shirt is sitting on a chair, engaged in a conversation with someone else.",
+    "objects": [
+      "someone",
+      "man",
+      "conversation",
+      "shirt",
+      "else",
+      "chair",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the black shirt is sitting on a chair, engaged in a conversation with someone else.",
+    "objects": [
+      "someone",
+      "man",
+      "conversation",
+      "shirt",
+      "else",
+      "chair",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the black shirt is sitting on a chair, engaged in a conversation with someone else.",
+    "objects": [
+      "someone",
+      "man",
+      "conversation",
+      "shirt",
+      "else",
+      "chair",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "engaged"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The overall scene is one of warmth and camaraderie, with everyone dressed in casual attire, creating a comfortable and welcoming ambiance.",
+    "objects": [
+      "everyone",
+      "ambiance",
+      "camaraderie",
+      "casual",
+      "comfortable",
+      "one",
+      "warmth",
+      "attire"
+    ],
+    "actions": [
+      "welcoming",
+      "creating",
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The overall scene is one of warmth and camaraderie, with everyone dressed in casual attire, creating a comfortable and welcoming ambiance.",
+    "objects": [
+      "everyone",
+      "ambiance",
+      "camaraderie",
+      "casual",
+      "comfortable",
+      "one",
+      "warmth",
+      "attire"
+    ],
+    "actions": [
+      "welcoming",
+      "creating",
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall scene is one of warmth and camaraderie, with everyone dressed in casual attire, creating a comfortable and welcoming ambiance.",
+    "objects": [
+      "everyone",
+      "ambiance",
+      "camaraderie",
+      "casual",
+      "comfortable",
+      "one",
+      "warmth",
+      "attire"
+    ],
+    "actions": [
+      "welcoming",
+      "creating",
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall scene is one of warmth and camaraderie, with everyone dressed in casual attire, creating a comfortable and welcoming ambiance.",
+    "objects": [
+      "everyone",
+      "ambiance",
+      "camaraderie",
+      "casual",
+      "comfortable",
+      "one",
+      "warmth",
+      "attire"
+    ],
+    "actions": [
+      "welcoming",
+      "creating",
+      "dressed"
+    ],
+    "segment_id": 7
+  }
+]

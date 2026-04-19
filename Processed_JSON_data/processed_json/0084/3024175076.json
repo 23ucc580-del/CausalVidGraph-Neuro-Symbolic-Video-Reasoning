@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a lively street scene with various people and vehicles.",
+    "objects": [
+      "lively",
+      "street",
+      "people",
+      "see"
+    ],
+    "actions": [
+      "vehicles"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a lively street scene with various people and vehicles.",
+    "objects": [
+      "lively",
+      "street",
+      "people",
+      "see"
+    ],
+    "actions": [
+      "vehicles"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a lively street scene with various people and vehicles.",
+    "objects": [
+      "lively",
+      "street",
+      "people",
+      "see"
+    ],
+    "actions": [
+      "vehicles"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a lively street scene with various people and vehicles.",
+    "objects": [
+      "lively",
+      "street",
+      "people",
+      "see"
+    ],
+    "actions": [
+      "vehicles"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A young child is standing in the middle of the road, wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "road",
+      "hoodie",
+      "child",
+      "blue",
+      "young",
+      "middle",
+      "ball"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A young child is standing in the middle of the road, wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "road",
+      "hoodie",
+      "child",
+      "blue",
+      "young",
+      "middle",
+      "ball"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A young child is standing in the middle of the road, wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "road",
+      "hoodie",
+      "child",
+      "blue",
+      "young",
+      "middle",
+      "ball"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A young child is standing in the middle of the road, wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "road",
+      "hoodie",
+      "child",
+      "blue",
+      "young",
+      "middle",
+      "ball"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another child is riding a scooter, while a third child is standing nearby, also wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "scooter",
+      "hoodie",
+      "child",
+      "blue",
+      "while",
+      "nearby",
+      "ball",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "riding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another child is riding a scooter, while a third child is standing nearby, also wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "scooter",
+      "hoodie",
+      "child",
+      "blue",
+      "while",
+      "nearby",
+      "ball",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "riding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another child is riding a scooter, while a third child is standing nearby, also wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "scooter",
+      "hoodie",
+      "child",
+      "blue",
+      "while",
+      "nearby",
+      "ball",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "riding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another child is riding a scooter, while a third child is standing nearby, also wearing a blue hoodie and holding a blue ball.",
+    "objects": [
+      "scooter",
+      "hoodie",
+      "child",
+      "blue",
+      "while",
+      "nearby",
+      "ball",
+      "third"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "riding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A little boy is playing with a skateboard, riding it in the street and then stopping to hold the board.",
+    "objects": [
+      "street",
+      "board",
+      "then",
+      "hold",
+      "boy",
+      "skateboard",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "riding",
+      "stopping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A little boy is playing with a skateboard, riding it in the street and then stopping to hold the board.",
+    "objects": [
+      "street",
+      "board",
+      "then",
+      "hold",
+      "boy",
+      "skateboard",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "riding",
+      "stopping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A little boy is playing with a skateboard, riding it in the street and then stopping to hold the board.",
+    "objects": [
+      "street",
+      "board",
+      "then",
+      "hold",
+      "boy",
+      "skateboard",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "riding",
+      "stopping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A little boy is playing with a skateboard, riding it in the street and then stopping to hold the board.",
+    "objects": [
+      "street",
+      "board",
+      "then",
+      "hold",
+      "boy",
+      "skateboard",
+      "little"
+    ],
+    "actions": [
+      "playing",
+      "riding",
+      "stopping"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A woman and a baby are standing by a car, the woman holding a baby.",
+    "objects": [
+      "car",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman and a baby are standing by a car, the woman holding a baby.",
+    "objects": [
+      "car",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A woman and a baby are standing by a car, the woman holding a baby.",
+    "objects": [
+      "car",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman and a baby are standing by a car, the woman holding a baby.",
+    "objects": [
+      "car",
+      "woman",
+      "baby"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "There is also a person wearing a blue shirt standing near a car.",
+    "objects": [
+      "car",
+      "blue",
+      "there",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "There is also a person wearing a blue shirt standing near a car.",
+    "objects": [
+      "car",
+      "blue",
+      "there",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "There is also a person wearing a blue shirt standing near a car.",
+    "objects": [
+      "car",
+      "blue",
+      "there",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "There is also a person wearing a blue shirt standing near a car.",
+    "objects": [
+      "car",
+      "blue",
+      "there",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A man is riding a bike on the street, while a boy is playing with a toy car.",
+    "objects": [
+      "bike",
+      "man",
+      "street",
+      "car",
+      "while",
+      "boy",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A man is riding a bike on the street, while a boy is playing with a toy car.",
+    "objects": [
+      "bike",
+      "man",
+      "street",
+      "car",
+      "while",
+      "boy",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A man is riding a bike on the street, while a boy is playing with a toy car.",
+    "objects": [
+      "bike",
+      "man",
+      "street",
+      "car",
+      "while",
+      "boy",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A man is riding a bike on the street, while a boy is playing with a toy car.",
+    "objects": [
+      "bike",
+      "man",
+      "street",
+      "car",
+      "while",
+      "boy",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "riding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "A car is parked on the side of the road, and another car is driving by.",
+    "objects": [
+      "car",
+      "road",
+      "side"
+    ],
+    "actions": [
+      "driving",
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "A car is parked on the side of the road, and another car is driving by.",
+    "objects": [
+      "car",
+      "road",
+      "side"
+    ],
+    "actions": [
+      "driving",
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "A car is parked on the side of the road, and another car is driving by.",
+    "objects": [
+      "car",
+      "road",
+      "side"
+    ],
+    "actions": [
+      "driving",
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "A car is parked on the side of the road, and another car is driving by.",
+    "objects": [
+      "car",
+      "road",
+      "side"
+    ],
+    "actions": [
+      "driving",
+      "parked"
+    ],
+    "segment_id": 7
+  }
+]

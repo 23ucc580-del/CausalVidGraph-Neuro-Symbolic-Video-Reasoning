@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of three children is seen playing together in a room.",
+    "objects": [
+      "three",
+      "children",
+      "room",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of three children is seen playing together in a room.",
+    "objects": [
+      "three",
+      "children",
+      "room",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of three children is seen playing together in a room.",
+    "objects": [
+      "three",
+      "children",
+      "room",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of three children is seen playing together in a room.",
+    "objects": [
+      "three",
+      "children",
+      "room",
+      "together",
+      "group"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The room has a carpeted floor and a window with blinds.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "window"
+    ],
+    "actions": [
+      "carpeted",
+      "blinds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room has a carpeted floor and a window with blinds.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "window"
+    ],
+    "actions": [
+      "carpeted",
+      "blinds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The room has a carpeted floor and a window with blinds.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "window"
+    ],
+    "actions": [
+      "carpeted",
+      "blinds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The room has a carpeted floor and a window with blinds.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "window"
+    ],
+    "actions": [
+      "carpeted",
+      "blinds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "One child, dressed in a blue hoodie and yellow pants, is sitting on the floor with their back against the wall.",
+    "objects": [
+      "one",
+      "their",
+      "wall",
+      "child",
+      "yellow",
+      "blue",
+      "hoodie",
+      "against"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "One child, dressed in a blue hoodie and yellow pants, is sitting on the floor with their back against the wall.",
+    "objects": [
+      "one",
+      "their",
+      "wall",
+      "child",
+      "yellow",
+      "blue",
+      "hoodie",
+      "against"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "One child, dressed in a blue hoodie and yellow pants, is sitting on the floor with their back against the wall.",
+    "objects": [
+      "one",
+      "their",
+      "wall",
+      "child",
+      "yellow",
+      "blue",
+      "hoodie",
+      "against"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "One child, dressed in a blue hoodie and yellow pants, is sitting on the floor with their back against the wall.",
+    "objects": [
+      "one",
+      "their",
+      "wall",
+      "child",
+      "yellow",
+      "blue",
+      "hoodie",
+      "against"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another child, wearing a red hoodie and gray pants, is lying on the floor with their legs stretched out in front of them.",
+    "objects": [
+      "their",
+      "child",
+      "gray",
+      "out",
+      "them",
+      "hoodie",
+      "floor",
+      "legs"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "wearing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another child, wearing a red hoodie and gray pants, is lying on the floor with their legs stretched out in front of them.",
+    "objects": [
+      "their",
+      "child",
+      "gray",
+      "out",
+      "them",
+      "hoodie",
+      "floor",
+      "legs"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "wearing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another child, wearing a red hoodie and gray pants, is lying on the floor with their legs stretched out in front of them.",
+    "objects": [
+      "their",
+      "child",
+      "gray",
+      "out",
+      "them",
+      "hoodie",
+      "floor",
+      "legs"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "wearing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another child, wearing a red hoodie and gray pants, is lying on the floor with their legs stretched out in front of them.",
+    "objects": [
+      "their",
+      "child",
+      "gray",
+      "out",
+      "them",
+      "hoodie",
+      "floor",
+      "legs"
+    ],
+    "actions": [
+      "pants",
+      "red",
+      "wearing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The third child, wearing a black hoodie and blue pants, is standing in front of the other two children.",
+    "objects": [
+      "other",
+      "child",
+      "two",
+      "black",
+      "blue",
+      "children",
+      "hoodie",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The third child, wearing a black hoodie and blue pants, is standing in front of the other two children.",
+    "objects": [
+      "other",
+      "child",
+      "two",
+      "black",
+      "blue",
+      "children",
+      "hoodie",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The third child, wearing a black hoodie and blue pants, is standing in front of the other two children.",
+    "objects": [
+      "other",
+      "child",
+      "two",
+      "black",
+      "blue",
+      "children",
+      "hoodie",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The third child, wearing a black hoodie and blue pants, is standing in front of the other two children.",
+    "objects": [
+      "other",
+      "child",
+      "two",
+      "black",
+      "blue",
+      "children",
+      "hoodie",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The child in the red hoodie is laughing and reaching out to grab something from the floor.",
+    "objects": [
+      "child",
+      "from",
+      "out",
+      "grab",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "something",
+      "reaching",
+      "red",
+      "laughing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The child in the red hoodie is laughing and reaching out to grab something from the floor.",
+    "objects": [
+      "child",
+      "from",
+      "out",
+      "grab",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "something",
+      "reaching",
+      "red",
+      "laughing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The child in the red hoodie is laughing and reaching out to grab something from the floor.",
+    "objects": [
+      "child",
+      "from",
+      "out",
+      "grab",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "something",
+      "reaching",
+      "red",
+      "laughing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The child in the red hoodie is laughing and reaching out to grab something from the floor.",
+    "objects": [
+      "child",
+      "from",
+      "out",
+      "grab",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "something",
+      "reaching",
+      "red",
+      "laughing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The child in the yellow pants is standing and holding a yellow ball.",
+    "objects": [
+      "ball",
+      "yellow",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The child in the yellow pants is standing and holding a yellow ball.",
+    "objects": [
+      "ball",
+      "yellow",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The child in the yellow pants is standing and holding a yellow ball.",
+    "objects": [
+      "ball",
+      "yellow",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The child in the yellow pants is standing and holding a yellow ball.",
+    "objects": [
+      "ball",
+      "yellow",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "They all appear to be having a fun time, possibly playing a game of catch or simply enjoying each other's company.",
+    "objects": [
+      "they",
+      "appear",
+      "each",
+      "catch",
+      "simply",
+      "possibly",
+      "fun",
+      "game"
+    ],
+    "actions": [
+      "playing",
+      "having",
+      "other's",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "They all appear to be having a fun time, possibly playing a game of catch or simply enjoying each other's company.",
+    "objects": [
+      "they",
+      "appear",
+      "each",
+      "catch",
+      "simply",
+      "possibly",
+      "fun",
+      "game"
+    ],
+    "actions": [
+      "playing",
+      "having",
+      "other's",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "They all appear to be having a fun time, possibly playing a game of catch or simply enjoying each other's company.",
+    "objects": [
+      "they",
+      "appear",
+      "each",
+      "catch",
+      "simply",
+      "possibly",
+      "fun",
+      "game"
+    ],
+    "actions": [
+      "playing",
+      "having",
+      "other's",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "They all appear to be having a fun time, possibly playing a game of catch or simply enjoying each other's company.",
+    "objects": [
+      "they",
+      "appear",
+      "each",
+      "catch",
+      "simply",
+      "possibly",
+      "fun",
+      "game"
+    ],
+    "actions": [
+      "playing",
+      "having",
+      "other's",
+      "enjoying"
+    ],
+    "segment_id": 7
+  }
+]

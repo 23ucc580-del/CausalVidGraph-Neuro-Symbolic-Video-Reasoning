@@ -1,0 +1,606 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features a group of young men at a skatepark, showcasing their skateboarding skills and performing tricks.",
+    "objects": [
+      "their",
+      "group",
+      "young",
+      "men",
+      "skatepark"
+    ],
+    "actions": [
+      "skateboarding",
+      "features",
+      "showcasing",
+      "tricks"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features a group of young men at a skatepark, showcasing their skateboarding skills and performing tricks.",
+    "objects": [
+      "their",
+      "group",
+      "young",
+      "men",
+      "skatepark"
+    ],
+    "actions": [
+      "skateboarding",
+      "features",
+      "showcasing",
+      "tricks"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video features a group of young men at a skatepark, showcasing their skateboarding skills and performing tricks.",
+    "objects": [
+      "their",
+      "group",
+      "young",
+      "men",
+      "skatepark"
+    ],
+    "actions": [
+      "skateboarding",
+      "features",
+      "showcasing",
+      "tricks"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video features a group of young men at a skatepark, showcasing their skateboarding skills and performing tricks.",
+    "objects": [
+      "their",
+      "group",
+      "young",
+      "men",
+      "skatepark"
+    ],
+    "actions": [
+      "skateboarding",
+      "features",
+      "showcasing",
+      "tricks"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One boy is riding a skateboard on a ramp, demonstrating his control and balance as he navigates the curve of the ramp with precision.",
+    "objects": [
+      "curve",
+      "ramp",
+      "one",
+      "control",
+      "precision",
+      "boy",
+      "skateboard",
+      "his"
+    ],
+    "actions": [
+      "navigates",
+      "riding",
+      "demonstrating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One boy is riding a skateboard on a ramp, demonstrating his control and balance as he navigates the curve of the ramp with precision.",
+    "objects": [
+      "curve",
+      "ramp",
+      "one",
+      "control",
+      "precision",
+      "boy",
+      "skateboard",
+      "his"
+    ],
+    "actions": [
+      "navigates",
+      "riding",
+      "demonstrating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One boy is riding a skateboard on a ramp, demonstrating his control and balance as he navigates the curve of the ramp with precision.",
+    "objects": [
+      "curve",
+      "ramp",
+      "one",
+      "control",
+      "precision",
+      "boy",
+      "skateboard",
+      "his"
+    ],
+    "actions": [
+      "navigates",
+      "riding",
+      "demonstrating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One boy is riding a skateboard on a ramp, demonstrating his control and balance as he navigates the curve of the ramp with precision.",
+    "objects": [
+      "curve",
+      "ramp",
+      "one",
+      "control",
+      "precision",
+      "boy",
+      "skateboard",
+      "his"
+    ],
+    "actions": [
+      "navigates",
+      "riding",
+      "demonstrating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another man is seen standing on his skateboard, possibly waiting for his turn or observing the ramp's gradient.",
+    "objects": [
+      "man",
+      "possibly",
+      "turn",
+      "gradient",
+      "skateboard",
+      "his"
+    ],
+    "actions": [
+      "standing",
+      "ramp's",
+      "waiting",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another man is seen standing on his skateboard, possibly waiting for his turn or observing the ramp's gradient.",
+    "objects": [
+      "man",
+      "possibly",
+      "turn",
+      "gradient",
+      "skateboard",
+      "his"
+    ],
+    "actions": [
+      "standing",
+      "ramp's",
+      "waiting",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another man is seen standing on his skateboard, possibly waiting for his turn or observing the ramp's gradient.",
+    "objects": [
+      "man",
+      "possibly",
+      "turn",
+      "gradient",
+      "skateboard",
+      "his"
+    ],
+    "actions": [
+      "standing",
+      "ramp's",
+      "waiting",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another man is seen standing on his skateboard, possibly waiting for his turn or observing the ramp's gradient.",
+    "objects": [
+      "man",
+      "possibly",
+      "turn",
+      "gradient",
+      "skateboard",
+      "his"
+    ],
+    "actions": [
+      "standing",
+      "ramp's",
+      "waiting",
+      "observing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A third skateboarder is also present, captured in mid-air, performing a daring trick that requires skill and coordination.",
+    "objects": [
+      "present",
+      "coordination",
+      "skateboarder",
+      "trick",
+      "that",
+      "skill",
+      "third"
+    ],
+    "actions": [
+      "captured",
+      "performing",
+      "requires",
+      "daring"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A third skateboarder is also present, captured in mid-air, performing a daring trick that requires skill and coordination.",
+    "objects": [
+      "present",
+      "coordination",
+      "skateboarder",
+      "trick",
+      "that",
+      "skill",
+      "third"
+    ],
+    "actions": [
+      "captured",
+      "performing",
+      "requires",
+      "daring"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A third skateboarder is also present, captured in mid-air, performing a daring trick that requires skill and coordination.",
+    "objects": [
+      "present",
+      "coordination",
+      "skateboarder",
+      "trick",
+      "that",
+      "skill",
+      "third"
+    ],
+    "actions": [
+      "captured",
+      "performing",
+      "requires",
+      "daring"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A third skateboarder is also present, captured in mid-air, performing a daring trick that requires skill and coordination.",
+    "objects": [
+      "present",
+      "coordination",
+      "skateboarder",
+      "trick",
+      "that",
+      "skill",
+      "third"
+    ],
+    "actions": [
+      "captured",
+      "performing",
+      "requires",
+      "daring"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The ramp they are skateboarding on is predominantly wooden, with a smooth surface that allows for speed and control.",
+    "objects": [
+      "surface",
+      "predominantly",
+      "wooden",
+      "smooth",
+      "ramp",
+      "they",
+      "control",
+      "that"
+    ],
+    "actions": [
+      "skateboarding",
+      "allows",
+      "speed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The ramp they are skateboarding on is predominantly wooden, with a smooth surface that allows for speed and control.",
+    "objects": [
+      "surface",
+      "predominantly",
+      "wooden",
+      "smooth",
+      "ramp",
+      "they",
+      "control",
+      "that"
+    ],
+    "actions": [
+      "skateboarding",
+      "allows",
+      "speed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The ramp they are skateboarding on is predominantly wooden, with a smooth surface that allows for speed and control.",
+    "objects": [
+      "surface",
+      "predominantly",
+      "wooden",
+      "smooth",
+      "ramp",
+      "they",
+      "control",
+      "that"
+    ],
+    "actions": [
+      "skateboarding",
+      "allows",
+      "speed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The ramp they are skateboarding on is predominantly wooden, with a smooth surface that allows for speed and control.",
+    "objects": [
+      "surface",
+      "predominantly",
+      "wooden",
+      "smooth",
+      "ramp",
+      "they",
+      "control",
+      "that"
+    ],
+    "actions": [
+      "skateboarding",
+      "allows",
+      "speed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The environment is indoor, with artificial lighting illuminating the scene.",
+    "objects": [
+      "indoor",
+      "environment",
+      "artificial"
+    ],
+    "actions": [
+      "illuminating",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The environment is indoor, with artificial lighting illuminating the scene.",
+    "objects": [
+      "indoor",
+      "environment",
+      "artificial"
+    ],
+    "actions": [
+      "illuminating",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The environment is indoor, with artificial lighting illuminating the scene.",
+    "objects": [
+      "indoor",
+      "environment",
+      "artificial"
+    ],
+    "actions": [
+      "illuminating",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The environment is indoor, with artificial lighting illuminating the scene.",
+    "objects": [
+      "indoor",
+      "environment",
+      "artificial"
+    ],
+    "actions": [
+      "illuminating",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The boys are dressed in casual skateboarding attire, including t-shirts and shorts, with one skateboarder sporting a black helmet for safety.",
+    "objects": [
+      "helmet",
+      "casual",
+      "safety",
+      "skateboarder",
+      "boys",
+      "one",
+      "attire",
+      "black"
+    ],
+    "actions": [
+      "skateboarding",
+      "dressed",
+      "sporting",
+      "t-shirts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The boys are dressed in casual skateboarding attire, including t-shirts and shorts, with one skateboarder sporting a black helmet for safety.",
+    "objects": [
+      "helmet",
+      "casual",
+      "safety",
+      "skateboarder",
+      "boys",
+      "one",
+      "attire",
+      "black"
+    ],
+    "actions": [
+      "skateboarding",
+      "dressed",
+      "sporting",
+      "t-shirts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The boys are dressed in casual skateboarding attire, including t-shirts and shorts, with one skateboarder sporting a black helmet for safety.",
+    "objects": [
+      "helmet",
+      "casual",
+      "safety",
+      "skateboarder",
+      "boys",
+      "one",
+      "attire",
+      "black"
+    ],
+    "actions": [
+      "skateboarding",
+      "dressed",
+      "sporting",
+      "t-shirts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The boys are dressed in casual skateboarding attire, including t-shirts and shorts, with one skateboarder sporting a black helmet for safety.",
+    "objects": [
+      "helmet",
+      "casual",
+      "safety",
+      "skateboarder",
+      "boys",
+      "one",
+      "attire",
+      "black"
+    ],
+    "actions": [
+      "skateboarding",
+      "dressed",
+      "sporting",
+      "t-shirts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The atmosphere is energetic, with the skateboarders displaying their athleticism and camaraderie, and the skatepark serving as their playground.",
+    "objects": [
+      "their",
+      "energetic",
+      "atmosphere",
+      "skatepark",
+      "athleticism",
+      "playground",
+      "camaraderie"
+    ],
+    "actions": [
+      "skateboarders",
+      "serving",
+      "displaying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The atmosphere is energetic, with the skateboarders displaying their athleticism and camaraderie, and the skatepark serving as their playground.",
+    "objects": [
+      "their",
+      "energetic",
+      "atmosphere",
+      "skatepark",
+      "athleticism",
+      "playground",
+      "camaraderie"
+    ],
+    "actions": [
+      "skateboarders",
+      "serving",
+      "displaying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The atmosphere is energetic, with the skateboarders displaying their athleticism and camaraderie, and the skatepark serving as their playground.",
+    "objects": [
+      "their",
+      "energetic",
+      "atmosphere",
+      "skatepark",
+      "athleticism",
+      "playground",
+      "camaraderie"
+    ],
+    "actions": [
+      "skateboarders",
+      "serving",
+      "displaying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The atmosphere is energetic, with the skateboarders displaying their athleticism and camaraderie, and the skatepark serving as their playground.",
+    "objects": [
+      "their",
+      "energetic",
+      "atmosphere",
+      "skatepark",
+      "athleticism",
+      "playground",
+      "camaraderie"
+    ],
+    "actions": [
+      "skateboarders",
+      "serving",
+      "displaying"
+    ],
+    "segment_id": 7
+  }
+]

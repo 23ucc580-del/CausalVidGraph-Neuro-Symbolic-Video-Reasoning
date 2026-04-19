@@ -1,0 +1,620 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a lively scene of a group of young boys and girls, all dressed in white and yellow shirts, energetically playing various percussion instruments in what appears to be a music class or rehearsal.",
+    "objects": [
+      "white",
+      "percussion",
+      "what",
+      "energetically",
+      "boys",
+      "yellow",
+      "rehearsal",
+      "lively"
+    ],
+    "actions": [
+      "girls",
+      "dressed",
+      "instruments",
+      "class"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a lively scene of a group of young boys and girls, all dressed in white and yellow shirts, energetically playing various percussion instruments in what appears to be a music class or rehearsal.",
+    "objects": [
+      "white",
+      "percussion",
+      "what",
+      "energetically",
+      "boys",
+      "yellow",
+      "rehearsal",
+      "lively"
+    ],
+    "actions": [
+      "girls",
+      "dressed",
+      "instruments",
+      "class"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The camera angle is a bit shaky, adding a sense of motion and immediacy to the footage.",
+    "objects": [
+      "motion",
+      "footage",
+      "sense",
+      "bit",
+      "shaky",
+      "immediacy"
+    ],
+    "actions": [
+      "adding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The camera angle is a bit shaky, adding a sense of motion and immediacy to the footage.",
+    "objects": [
+      "motion",
+      "footage",
+      "sense",
+      "bit",
+      "shaky",
+      "immediacy"
+    ],
+    "actions": [
+      "adding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "- The scene begins with a close-up of a boy playing a drum set, his hands moving quickly across the drums as he plays with enthusiasm.",
+    "objects": [
+      "quickly",
+      "drum",
+      "boy",
+      "across",
+      "enthusiasm",
+      "his",
+      "set"
+    ],
+    "actions": [
+      "begins",
+      "hands",
+      "drums",
+      "plays"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "- The scene begins with a close-up of a boy playing a drum set, his hands moving quickly across the drums as he plays with enthusiasm.",
+    "objects": [
+      "quickly",
+      "drum",
+      "boy",
+      "across",
+      "enthusiasm",
+      "his",
+      "set"
+    ],
+    "actions": [
+      "begins",
+      "hands",
+      "drums",
+      "plays"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "- Another boy in the background is playing a bass drum, his posture relaxed yet focused on the music.",
+    "objects": [
+      "drum",
+      "boy",
+      "yet",
+      "his",
+      "posture",
+      "music",
+      "bass"
+    ],
+    "actions": [
+      "playing",
+      "focused",
+      "relaxed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "- Another boy in the background is playing a bass drum, his posture relaxed yet focused on the music.",
+    "objects": [
+      "drum",
+      "boy",
+      "yet",
+      "his",
+      "posture",
+      "music",
+      "bass"
+    ],
+    "actions": [
+      "playing",
+      "focused",
+      "relaxed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "- A third boy is seen playing a cymbal, his body leaning into the instrument as he hits it with force.",
+    "objects": [
+      "hits",
+      "body",
+      "boy",
+      "cymbal",
+      "into",
+      "instrument",
+      "third",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "leaning"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "- A third boy is seen playing a cymbal, his body leaning into the instrument as he hits it with force.",
+    "objects": [
+      "hits",
+      "body",
+      "boy",
+      "cymbal",
+      "into",
+      "instrument",
+      "third",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "leaning"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "- Another boy is seen playing a conga drum, his fingers dancing across the instrument as he creates a rhythmic beat.",
+    "objects": [
+      "rhythmic",
+      "conga",
+      "drum",
+      "boy",
+      "beat",
+      "across",
+      "instrument",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "dancing",
+      "creates",
+      "fingers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "- Another boy is seen playing a conga drum, his fingers dancing across the instrument as he creates a rhythmic beat.",
+    "objects": [
+      "rhythmic",
+      "conga",
+      "drum",
+      "boy",
+      "beat",
+      "across",
+      "instrument",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "dancing",
+      "creates",
+      "fingers"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "- A girl is playing a different conga drum, her body swaying to the rhythm as she hits the instrument.",
+    "objects": [
+      "hits",
+      "conga",
+      "body",
+      "drum",
+      "she",
+      "instrument",
+      "rhythm",
+      "her"
+    ],
+    "actions": [
+      "playing",
+      "swaying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "- A girl is playing a different conga drum, her body swaying to the rhythm as she hits the instrument.",
+    "objects": [
+      "hits",
+      "conga",
+      "body",
+      "drum",
+      "she",
+      "instrument",
+      "rhythm",
+      "her"
+    ],
+    "actions": [
+      "playing",
+      "swaying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "- A boy in the foreground is playing a guitar, his fingers strumming the strings with skill.",
+    "objects": [
+      "his",
+      "skill",
+      "guitar",
+      "boy"
+    ],
+    "actions": [
+      "playing",
+      "strings",
+      "strumming",
+      "fingers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "- A boy in the foreground is playing a guitar, his fingers strumming the strings with skill.",
+    "objects": [
+      "his",
+      "skill",
+      "guitar",
+      "boy"
+    ],
+    "actions": [
+      "playing",
+      "strings",
+      "strumming",
+      "fingers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "- The camera then pans to a boy in the background, who is playing a saxophone, his body swaying to the music as he produces a melodic sound.",
+    "objects": [
+      "body",
+      "boy",
+      "pans",
+      "who",
+      "his",
+      "melodic",
+      "saxophone",
+      "then"
+    ],
+    "actions": [
+      "playing",
+      "swaying",
+      "produces"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "- The camera then pans to a boy in the background, who is playing a saxophone, his body swaying to the music as he produces a melodic sound.",
+    "objects": [
+      "body",
+      "boy",
+      "pans",
+      "who",
+      "his",
+      "melodic",
+      "saxophone",
+      "then"
+    ],
+    "actions": [
+      "playing",
+      "swaying",
+      "produces"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "- The camera then zooms in on a boy playing a trumpet, his fingers moving expertly over the instrument.",
+    "objects": [
+      "boy",
+      "trumpet",
+      "instrument",
+      "expertly",
+      "his",
+      "then",
+      "over"
+    ],
+    "actions": [
+      "zooms",
+      "playing",
+      "moving",
+      "fingers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "- The camera then zooms in on a boy playing a trumpet, his fingers moving expertly over the instrument.",
+    "objects": [
+      "boy",
+      "trumpet",
+      "instrument",
+      "expertly",
+      "his",
+      "then",
+      "over"
+    ],
+    "actions": [
+      "zooms",
+      "playing",
+      "moving",
+      "fingers"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "- Another boy is playing a trombone, his body leaning into the instrument as he produces a rich, full sound.",
+    "objects": [
+      "full",
+      "body",
+      "boy",
+      "into",
+      "trombone",
+      "instrument",
+      "rich",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "produces",
+      "leaning"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "- Another boy is playing a trombone, his body leaning into the instrument as he produces a rich, full sound.",
+    "objects": [
+      "full",
+      "body",
+      "boy",
+      "into",
+      "trombone",
+      "instrument",
+      "rich",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "produces",
+      "leaning"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "- A girl is playing a xylophone, her hands moving quickly across the instrument as she creates a vibrant melody.",
+    "objects": [
+      "quickly",
+      "she",
+      "melody",
+      "xylophone",
+      "vibrant",
+      "across",
+      "instrument",
+      "her"
+    ],
+    "actions": [
+      "playing",
+      "moving",
+      "hands",
+      "creates"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "- A girl is playing a xylophone, her hands moving quickly across the instrument as she creates a vibrant melody.",
+    "objects": [
+      "quickly",
+      "she",
+      "melody",
+      "xylophone",
+      "vibrant",
+      "across",
+      "instrument",
+      "her"
+    ],
+    "actions": [
+      "playing",
+      "moving",
+      "hands",
+      "creates"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "- The camera pans to a boy in the background, who is playing a hand drum, his body swaying to the beat as he creates a rhythmic sound.",
+    "objects": [
+      "rhythmic",
+      "body",
+      "drum",
+      "boy",
+      "pans",
+      "beat",
+      "who",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "creates",
+      "swaying"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "- The camera pans to a boy in the background, who is playing a hand drum, his body swaying to the beat as he creates a rhythmic sound.",
+    "objects": [
+      "rhythmic",
+      "body",
+      "drum",
+      "boy",
+      "pans",
+      "beat",
+      "who",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "creates",
+      "swaying"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "- A girl is playing a tambourine, her hands moving quickly across the instrument as she adds to the percussion.",
+    "objects": [
+      "quickly",
+      "percussion",
+      "she",
+      "across",
+      "instrument",
+      "her",
+      "girl",
+      "tambourine"
+    ],
+    "actions": [
+      "playing",
+      "moving",
+      "hands"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "- A girl is playing a tambourine, her hands moving quickly across the instrument as she adds to the percussion.",
+    "objects": [
+      "quickly",
+      "percussion",
+      "she",
+      "across",
+      "instrument",
+      "her",
+      "girl",
+      "tambourine"
+    ],
+    "actions": [
+      "playing",
+      "moving",
+      "hands"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "- A boy is playing a guitar, his fingers strumming the strings with expertise.",
+    "objects": [
+      "his",
+      "guitar",
+      "boy",
+      "expertise"
+    ],
+    "actions": [
+      "playing",
+      "strings",
+      "strumming",
+      "fingers"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "- A boy is playing a guitar, his fingers strumming the strings with expertise.",
+    "objects": [
+      "his",
+      "guitar",
+      "boy",
+      "expertise"
+    ],
+    "actions": [
+      "playing",
+      "strings",
+      "strumming",
+      "fingers"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "- Another boy is playing a saxophone, his body swaying to the rhythm as he produces a melodic sound.",
+    "objects": [
+      "body",
+      "boy",
+      "rhythm",
+      "his",
+      "melodic",
+      "saxophone",
+      "sound"
+    ],
+    "actions": [
+      "playing",
+      "swaying",
+      "produces"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "- Another boy is playing a saxophone, his body swaying to the rhythm as he produces a melodic sound.",
+    "objects": [
+      "body",
+      "boy",
+      "rhythm",
+      "his",
+      "melodic",
+      "saxophone",
+      "sound"
+    ],
+    "actions": [
+      "playing",
+      "swaying",
+      "produces"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,606 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people enjoying a thrilling water sport activity in a river setting.",
+    "objects": [
+      "water",
+      "group",
+      "see",
+      "people",
+      "activity",
+      "this",
+      "sport",
+      "river"
+    ],
+    "actions": [
+      "setting",
+      "thrilling",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people enjoying a thrilling water sport activity in a river setting.",
+    "objects": [
+      "water",
+      "group",
+      "see",
+      "people",
+      "activity",
+      "this",
+      "sport",
+      "river"
+    ],
+    "actions": [
+      "setting",
+      "thrilling",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video opens with a close-up shot of a person wearing a yellow helmet, who is sitting on a motorized jet ski, possibly preparing for the ride or having just finished.",
+    "objects": [
+      "ski",
+      "yellow",
+      "ride",
+      "possibly",
+      "jet",
+      "helmet",
+      "just",
+      "who"
+    ],
+    "actions": [
+      "finished",
+      "opens",
+      "sitting",
+      "having"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The video opens with a close-up shot of a person wearing a yellow helmet, who is sitting on a motorized jet ski, possibly preparing for the ride or having just finished.",
+    "objects": [
+      "ski",
+      "yellow",
+      "ride",
+      "possibly",
+      "jet",
+      "helmet",
+      "just",
+      "who"
+    ],
+    "actions": [
+      "finished",
+      "opens",
+      "sitting",
+      "having"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The next scene shows a group of people wearing yellow life jackets, who are also sitting on motorized jet skis, ready to ride.",
+    "objects": [
+      "yellow",
+      "life",
+      "ride",
+      "group",
+      "who",
+      "jet",
+      "skis",
+      "ready"
+    ],
+    "actions": [
+      "sitting",
+      "motorized",
+      "jackets",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The next scene shows a group of people wearing yellow life jackets, who are also sitting on motorized jet skis, ready to ride.",
+    "objects": [
+      "yellow",
+      "life",
+      "ride",
+      "group",
+      "who",
+      "jet",
+      "skis",
+      "ready"
+    ],
+    "actions": [
+      "sitting",
+      "motorized",
+      "jackets",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "They appear to be waiting for their turn or have just finished riding.",
+    "objects": [
+      "their",
+      "appear",
+      "have",
+      "turn",
+      "just",
+      "they"
+    ],
+    "actions": [
+      "riding",
+      "finished",
+      "waiting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "They appear to be waiting for their turn or have just finished riding.",
+    "objects": [
+      "their",
+      "appear",
+      "have",
+      "turn",
+      "just",
+      "they"
+    ],
+    "actions": [
+      "riding",
+      "finished",
+      "waiting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then shifts to a person wearing a red helmet, also on a motorized jet ski, who is in the process of riding, possibly performing tricks or maneuvers.",
+    "objects": [
+      "ski",
+      "then",
+      "possibly",
+      "jet",
+      "helmet",
+      "who"
+    ],
+    "actions": [
+      "red",
+      "shifts",
+      "maneuvers",
+      "tricks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then shifts to a person wearing a red helmet, also on a motorized jet ski, who is in the process of riding, possibly performing tricks or maneuvers.",
+    "objects": [
+      "ski",
+      "then",
+      "possibly",
+      "jet",
+      "helmet",
+      "who"
+    ],
+    "actions": [
+      "red",
+      "shifts",
+      "maneuvers",
+      "tricks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene then shifts to a person wearing a blue jacket, also on a motorized jet ski, riding and waving at the camera.",
+    "objects": [
+      "ski",
+      "blue",
+      "jacket",
+      "then",
+      "jet"
+    ],
+    "actions": [
+      "shifts",
+      "waving",
+      "riding",
+      "motorized"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene then shifts to a person wearing a blue jacket, also on a motorized jet ski, riding and waving at the camera.",
+    "objects": [
+      "ski",
+      "blue",
+      "jacket",
+      "then",
+      "jet"
+    ],
+    "actions": [
+      "shifts",
+      "waving",
+      "riding",
+      "motorized"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The video then returns to the person in the yellow helmet, who seems to be on a jet ski and is in the middle of riding.",
+    "objects": [
+      "ski",
+      "yellow",
+      "then",
+      "middle",
+      "jet",
+      "helmet",
+      "who"
+    ],
+    "actions": [
+      "returns",
+      "riding",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The video then returns to the person in the yellow helmet, who seems to be on a jet ski and is in the middle of riding.",
+    "objects": [
+      "ski",
+      "yellow",
+      "then",
+      "middle",
+      "jet",
+      "helmet",
+      "who"
+    ],
+    "actions": [
+      "returns",
+      "riding",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "We can see a person in a red helmet on a jet ski and a person in a yellow helmet on a jet ski, both in the process of riding.",
+    "objects": [
+      "ski",
+      "yellow",
+      "both",
+      "helmet",
+      "jet",
+      "see",
+      "can"
+    ],
+    "actions": [
+      "red",
+      "riding",
+      "process"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "We can see a person in a red helmet on a jet ski and a person in a yellow helmet on a jet ski, both in the process of riding.",
+    "objects": [
+      "ski",
+      "yellow",
+      "both",
+      "helmet",
+      "jet",
+      "see",
+      "can"
+    ],
+    "actions": [
+      "red",
+      "riding",
+      "process"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The video then moves to a person in a red jacket on a jet ski, who appears to be in the middle of riding.",
+    "objects": [
+      "ski",
+      "jacket",
+      "then",
+      "middle",
+      "jet",
+      "who"
+    ],
+    "actions": [
+      "red",
+      "moves",
+      "riding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The video then moves to a person in a red jacket on a jet ski, who appears to be in the middle of riding.",
+    "objects": [
+      "ski",
+      "jacket",
+      "then",
+      "middle",
+      "jet",
+      "who"
+    ],
+    "actions": [
+      "red",
+      "moves",
+      "riding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene then shifts to a person in a red helmet on a jet ski, who is waving at the camera.",
+    "objects": [
+      "ski",
+      "then",
+      "jet",
+      "helmet",
+      "who"
+    ],
+    "actions": [
+      "shifts",
+      "red",
+      "waving"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene then shifts to a person in a red helmet on a jet ski, who is waving at the camera.",
+    "objects": [
+      "ski",
+      "then",
+      "jet",
+      "helmet",
+      "who"
+    ],
+    "actions": [
+      "shifts",
+      "red",
+      "waving"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The video then focuses on a person in a blue jacket on a jet ski, who is riding and smiling.",
+    "objects": [
+      "ski",
+      "blue",
+      "jacket",
+      "then",
+      "jet",
+      "who"
+    ],
+    "actions": [
+      "riding",
+      "focuses",
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The video then focuses on a person in a blue jacket on a jet ski, who is riding and smiling.",
+    "objects": [
+      "ski",
+      "blue",
+      "jacket",
+      "then",
+      "jet",
+      "who"
+    ],
+    "actions": [
+      "riding",
+      "focuses",
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then shifts to a person in a red helmet on a jet ski, who is riding and waving at the camera.",
+    "objects": [
+      "ski",
+      "then",
+      "jet",
+      "helmet",
+      "who"
+    ],
+    "actions": [
+      "shifts",
+      "red",
+      "riding",
+      "waving"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then shifts to a person in a red helmet on a jet ski, who is riding and waving at the camera.",
+    "objects": [
+      "ski",
+      "then",
+      "jet",
+      "helmet",
+      "who"
+    ],
+    "actions": [
+      "shifts",
+      "red",
+      "riding",
+      "waving"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The video then moves to a person in a yellow jacket on a jet ski, who is riding and waving at the camera.",
+    "objects": [
+      "ski",
+      "yellow",
+      "jacket",
+      "then",
+      "jet",
+      "who"
+    ],
+    "actions": [
+      "moves",
+      "riding",
+      "waving"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The video then moves to a person in a yellow jacket on a jet ski, who is riding and waving at the camera.",
+    "objects": [
+      "ski",
+      "yellow",
+      "jacket",
+      "then",
+      "jet",
+      "who"
+    ],
+    "actions": [
+      "moves",
+      "riding",
+      "waving"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "Finally, we see a person in a red jacket on a jet ski, who is riding and waving at the camera.",
+    "objects": [
+      "ski",
+      "jacket",
+      "finally",
+      "jet",
+      "see",
+      "who"
+    ],
+    "actions": [
+      "red",
+      "riding",
+      "waving"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "Finally, we see a person in a red jacket on a jet ski, who is riding and waving at the camera.",
+    "objects": [
+      "ski",
+      "jacket",
+      "finally",
+      "jet",
+      "see",
+      "who"
+    ],
+    "actions": [
+      "red",
+      "riding",
+      "waving"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "In summary, this video captures the excitement and thrill of water sports activities, particularly motorized jet ski riding.",
+    "objects": [
+      "ski",
+      "thrill",
+      "excitement",
+      "water",
+      "summary",
+      "particularly",
+      "jet",
+      "this"
+    ],
+    "actions": [
+      "activities",
+      "sports",
+      "riding",
+      "motorized"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "In summary, this video captures the excitement and thrill of water sports activities, particularly motorized jet ski riding.",
+    "objects": [
+      "ski",
+      "thrill",
+      "excitement",
+      "water",
+      "summary",
+      "particularly",
+      "jet",
+      "this"
+    ],
+    "actions": [
+      "activities",
+      "sports",
+      "riding",
+      "motorized"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The participants are seen wearing yellow life jackets and helmets, with some riding and waving to the camera, showcasing the fun and adventure of the sport.",
+    "objects": [
+      "yellow",
+      "adventure",
+      "some",
+      "life",
+      "fun",
+      "sport"
+    ],
+    "actions": [
+      "jackets",
+      "participants",
+      "waving",
+      "showcasing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The participants are seen wearing yellow life jackets and helmets, with some riding and waving to the camera, showcasing the fun and adventure of the sport.",
+    "objects": [
+      "yellow",
+      "adventure",
+      "some",
+      "life",
+      "fun",
+      "sport"
+    ],
+    "actions": [
+      "jackets",
+      "participants",
+      "waving",
+      "showcasing"
+    ],
+    "segment_id": 15
+  }
+]

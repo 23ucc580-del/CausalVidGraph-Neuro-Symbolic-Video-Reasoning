@@ -1,0 +1,522 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see three dogs in a room with a tiled floor.",
+    "objects": [
+      "three",
+      "see",
+      "dogs",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "tiled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see three dogs in a room with a tiled floor.",
+    "objects": [
+      "three",
+      "see",
+      "dogs",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "tiled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see three dogs in a room with a tiled floor.",
+    "objects": [
+      "three",
+      "see",
+      "dogs",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "tiled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see three dogs in a room with a tiled floor.",
+    "objects": [
+      "three",
+      "see",
+      "dogs",
+      "room",
+      "floor"
+    ],
+    "actions": [
+      "tiled"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "Two of the dogs are white, and the third one is brown.",
+    "objects": [
+      "one",
+      "white",
+      "two",
+      "third",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two of the dogs are white, and the third one is brown.",
+    "objects": [
+      "one",
+      "white",
+      "two",
+      "third",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Two of the dogs are white, and the third one is brown.",
+    "objects": [
+      "one",
+      "white",
+      "two",
+      "third",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "Two of the dogs are white, and the third one is brown.",
+    "objects": [
+      "one",
+      "white",
+      "two",
+      "third",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The white dog on the left is wearing a blue hoodie, while the white dog in the middle is not wearing anything.",
+    "objects": [
+      "white",
+      "while",
+      "middle",
+      "not",
+      "blue",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "anything"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The white dog on the left is wearing a blue hoodie, while the white dog in the middle is not wearing anything.",
+    "objects": [
+      "white",
+      "while",
+      "middle",
+      "not",
+      "blue",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "anything"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The white dog on the left is wearing a blue hoodie, while the white dog in the middle is not wearing anything.",
+    "objects": [
+      "white",
+      "while",
+      "middle",
+      "not",
+      "blue",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "anything"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The white dog on the left is wearing a blue hoodie, while the white dog in the middle is not wearing anything.",
+    "objects": [
+      "white",
+      "while",
+      "middle",
+      "not",
+      "blue",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "anything"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The brown dog on the right is not wearing anything.",
+    "objects": [
+      "brown",
+      "dog",
+      "not"
+    ],
+    "actions": [
+      "wearing",
+      "anything"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The brown dog on the right is not wearing anything.",
+    "objects": [
+      "brown",
+      "dog",
+      "not"
+    ],
+    "actions": [
+      "wearing",
+      "anything"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The brown dog on the right is not wearing anything.",
+    "objects": [
+      "brown",
+      "dog",
+      "not"
+    ],
+    "actions": [
+      "wearing",
+      "anything"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The brown dog on the right is not wearing anything.",
+    "objects": [
+      "brown",
+      "dog",
+      "not"
+    ],
+    "actions": [
+      "wearing",
+      "anything"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The dogs are engaged in playful activities, with the brown dog standing in the middle of the room, wagging its tail and looking at the camera.",
+    "objects": [
+      "its",
+      "middle",
+      "tail",
+      "dog",
+      "dogs",
+      "room",
+      "brown",
+      "playful"
+    ],
+    "actions": [
+      "standing",
+      "engaged",
+      "activities",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The dogs are engaged in playful activities, with the brown dog standing in the middle of the room, wagging its tail and looking at the camera.",
+    "objects": [
+      "its",
+      "middle",
+      "tail",
+      "dog",
+      "dogs",
+      "room",
+      "brown",
+      "playful"
+    ],
+    "actions": [
+      "standing",
+      "engaged",
+      "activities",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The dogs are engaged in playful activities, with the brown dog standing in the middle of the room, wagging its tail and looking at the camera.",
+    "objects": [
+      "its",
+      "middle",
+      "tail",
+      "dog",
+      "dogs",
+      "room",
+      "brown",
+      "playful"
+    ],
+    "actions": [
+      "standing",
+      "engaged",
+      "activities",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The dogs are engaged in playful activities, with the brown dog standing in the middle of the room, wagging its tail and looking at the camera.",
+    "objects": [
+      "its",
+      "middle",
+      "tail",
+      "dog",
+      "dogs",
+      "room",
+      "brown",
+      "playful"
+    ],
+    "actions": [
+      "standing",
+      "engaged",
+      "activities",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The white dog on the left is lying on the floor, and the white dog on the right is sitting on the floor.",
+    "objects": [
+      "floor",
+      "dog",
+      "white"
+    ],
+    "actions": [
+      "sitting",
+      "lying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The white dog on the left is lying on the floor, and the white dog on the right is sitting on the floor.",
+    "objects": [
+      "floor",
+      "dog",
+      "white"
+    ],
+    "actions": [
+      "sitting",
+      "lying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The white dog on the left is lying on the floor, and the white dog on the right is sitting on the floor.",
+    "objects": [
+      "floor",
+      "dog",
+      "white"
+    ],
+    "actions": [
+      "sitting",
+      "lying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The white dog on the left is lying on the floor, and the white dog on the right is sitting on the floor.",
+    "objects": [
+      "floor",
+      "dog",
+      "white"
+    ],
+    "actions": [
+      "sitting",
+      "lying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The white dog in the middle is sitting on the floor, looking at the camera with its tail wagging.",
+    "objects": [
+      "its",
+      "white",
+      "middle",
+      "tail",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "wagging"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The white dog in the middle is sitting on the floor, looking at the camera with its tail wagging.",
+    "objects": [
+      "its",
+      "white",
+      "middle",
+      "tail",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "wagging"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The white dog in the middle is sitting on the floor, looking at the camera with its tail wagging.",
+    "objects": [
+      "its",
+      "white",
+      "middle",
+      "tail",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "wagging"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The white dog in the middle is sitting on the floor, looking at the camera with its tail wagging.",
+    "objects": [
+      "its",
+      "white",
+      "middle",
+      "tail",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "wagging"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "All three dogs are wearing collars.",
+    "objects": [
+      "three",
+      "all",
+      "dogs"
+    ],
+    "actions": [
+      "wearing",
+      "collars"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "All three dogs are wearing collars.",
+    "objects": [
+      "three",
+      "all",
+      "dogs"
+    ],
+    "actions": [
+      "wearing",
+      "collars"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "All three dogs are wearing collars.",
+    "objects": [
+      "three",
+      "all",
+      "dogs"
+    ],
+    "actions": [
+      "wearing",
+      "collars"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "All three dogs are wearing collars.",
+    "objects": [
+      "three",
+      "all",
+      "dogs"
+    ],
+    "actions": [
+      "wearing",
+      "collars"
+    ],
+    "segment_id": 7
+  }
+]

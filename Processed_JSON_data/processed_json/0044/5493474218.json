@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there is a man standing in a field with a lion lying on the ground, looking up at him.",
+    "objects": [
+      "man",
+      "there",
+      "lion",
+      "him",
+      "field",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there is a man standing in a field with a lion lying on the ground, looking up at him.",
+    "objects": [
+      "man",
+      "there",
+      "lion",
+      "him",
+      "field",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there is a man standing in a field with a lion lying on the ground, looking up at him.",
+    "objects": [
+      "man",
+      "there",
+      "lion",
+      "him",
+      "field",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there is a man standing in a field with a lion lying on the ground, looking up at him.",
+    "objects": [
+      "man",
+      "there",
+      "lion",
+      "him",
+      "field",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "looking",
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a hat and a white shirt.",
+    "objects": [
+      "hat",
+      "shirt",
+      "man",
+      "white"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a hat and a white shirt.",
+    "objects": [
+      "hat",
+      "shirt",
+      "man",
+      "white"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is wearing a hat and a white shirt.",
+    "objects": [
+      "hat",
+      "shirt",
+      "man",
+      "white"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is wearing a hat and a white shirt.",
+    "objects": [
+      "hat",
+      "shirt",
+      "man",
+      "white"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is petting the lion's mouth and appears to be talking to the camera.",
+    "objects": [
+      "mouth"
+    ],
+    "actions": [
+      "lion's",
+      "talking",
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is petting the lion's mouth and appears to be talking to the camera.",
+    "objects": [
+      "mouth"
+    ],
+    "actions": [
+      "lion's",
+      "talking",
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is petting the lion's mouth and appears to be talking to the camera.",
+    "objects": [
+      "mouth"
+    ],
+    "actions": [
+      "lion's",
+      "talking",
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is petting the lion's mouth and appears to be talking to the camera.",
+    "objects": [
+      "mouth"
+    ],
+    "actions": [
+      "lion's",
+      "talking",
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The lion seems calm and relaxed in the man's presence.",
+    "objects": [
+      "calm",
+      "lion",
+      "presence"
+    ],
+    "actions": [
+      "man's",
+      "relaxed",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The lion seems calm and relaxed in the man's presence.",
+    "objects": [
+      "calm",
+      "lion",
+      "presence"
+    ],
+    "actions": [
+      "man's",
+      "relaxed",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The lion seems calm and relaxed in the man's presence.",
+    "objects": [
+      "calm",
+      "lion",
+      "presence"
+    ],
+    "actions": [
+      "man's",
+      "relaxed",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The lion seems calm and relaxed in the man's presence.",
+    "objects": [
+      "calm",
+      "lion",
+      "presence"
+    ],
+    "actions": [
+      "man's",
+      "relaxed",
+      "seems"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In the background, there are two other men, one wearing a hat and a yellow shirt and the other wearing a white shirt.",
+    "objects": [
+      "white",
+      "two",
+      "other",
+      "hat",
+      "one",
+      "yellow",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "In the background, there are two other men, one wearing a hat and a yellow shirt and the other wearing a white shirt.",
+    "objects": [
+      "white",
+      "two",
+      "other",
+      "hat",
+      "one",
+      "yellow",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "In the background, there are two other men, one wearing a hat and a yellow shirt and the other wearing a white shirt.",
+    "objects": [
+      "white",
+      "two",
+      "other",
+      "hat",
+      "one",
+      "yellow",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "In the background, there are two other men, one wearing a hat and a yellow shirt and the other wearing a white shirt.",
+    "objects": [
+      "white",
+      "two",
+      "other",
+      "hat",
+      "one",
+      "yellow",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "They are also standing in the field, and the one in yellow seems to be observing the scene while the man in white is interacting with the lion.",
+    "objects": [
+      "man",
+      "white",
+      "while",
+      "they",
+      "one",
+      "yellow",
+      "lion",
+      "field"
+    ],
+    "actions": [
+      "observing",
+      "standing",
+      "seems",
+      "interacting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "They are also standing in the field, and the one in yellow seems to be observing the scene while the man in white is interacting with the lion.",
+    "objects": [
+      "man",
+      "white",
+      "while",
+      "they",
+      "one",
+      "yellow",
+      "lion",
+      "field"
+    ],
+    "actions": [
+      "observing",
+      "standing",
+      "seems",
+      "interacting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "They are also standing in the field, and the one in yellow seems to be observing the scene while the man in white is interacting with the lion.",
+    "objects": [
+      "man",
+      "white",
+      "while",
+      "they",
+      "one",
+      "yellow",
+      "lion",
+      "field"
+    ],
+    "actions": [
+      "observing",
+      "standing",
+      "seems",
+      "interacting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "They are also standing in the field, and the one in yellow seems to be observing the scene while the man in white is interacting with the lion.",
+    "objects": [
+      "man",
+      "white",
+      "while",
+      "they",
+      "one",
+      "yellow",
+      "lion",
+      "field"
+    ],
+    "actions": [
+      "observing",
+      "standing",
+      "seems",
+      "interacting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The lion is a light brown color, and the man is wearing a pair of black shorts.",
+    "objects": [
+      "pair",
+      "color",
+      "man",
+      "light",
+      "brown",
+      "lion",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The lion is a light brown color, and the man is wearing a pair of black shorts.",
+    "objects": [
+      "pair",
+      "color",
+      "man",
+      "light",
+      "brown",
+      "lion",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The lion is a light brown color, and the man is wearing a pair of black shorts.",
+    "objects": [
+      "pair",
+      "color",
+      "man",
+      "light",
+      "brown",
+      "lion",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The lion is a light brown color, and the man is wearing a pair of black shorts.",
+    "objects": [
+      "pair",
+      "color",
+      "man",
+      "light",
+      "brown",
+      "lion",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The men are wearing sandals, and there are some trees and bushes in the background.",
+    "objects": [
+      "men",
+      "some",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "sandals",
+      "bushes",
+      "trees"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The men are wearing sandals, and there are some trees and bushes in the background.",
+    "objects": [
+      "men",
+      "some",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "sandals",
+      "bushes",
+      "trees"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The men are wearing sandals, and there are some trees and bushes in the background.",
+    "objects": [
+      "men",
+      "some",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "sandals",
+      "bushes",
+      "trees"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The men are wearing sandals, and there are some trees and bushes in the background.",
+    "objects": [
+      "men",
+      "some",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "sandals",
+      "bushes",
+      "trees"
+    ],
+    "segment_id": 7
+  }
+]

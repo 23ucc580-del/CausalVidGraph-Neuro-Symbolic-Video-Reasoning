@@ -1,0 +1,531 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a serene scene set in a desert area.",
+    "objects": [
+      "serene",
+      "see",
+      "set",
+      "desert",
+      "this",
+      "area"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The focus is on a group of people, including two children, who are walking towards the camera.",
+    "objects": [
+      "people",
+      "two",
+      "children",
+      "who",
+      "group"
+    ],
+    "actions": [
+      "towards",
+      "focus",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The woman leading the children is wearing a blue hoodie and holding the hand of one of the children.",
+    "objects": [
+      "one",
+      "woman",
+      "blue",
+      "children",
+      "hoodie",
+      "hand"
+    ],
+    "actions": [
+      "wearing",
+      "leading",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The other child is wearing a red hat and is walking beside her.",
+    "objects": [
+      "other",
+      "child",
+      "beside",
+      "her",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The man walking behind them is wearing a red hat and a backpack.",
+    "objects": [
+      "behind",
+      "hat",
+      "them",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman leading is also wearing a red hat and is carrying a backpack.",
+    "objects": [
+      "backpack",
+      "hat",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "leading",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The man walking behind is dressed in a black shirt.",
+    "objects": [
+      "shirt",
+      "man",
+      "behind",
+      "black"
+    ],
+    "actions": [
+      "dressed",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The two children are both wearing blue hoodies and are walking behind the woman.",
+    "objects": [
+      "behind",
+      "both",
+      "two",
+      "woman",
+      "blue",
+      "children"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman leading is also wearing a blue shirt and is carrying a backpack.",
+    "objects": [
+      "blue",
+      "backpack",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "leading"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The man walking behind is dressed in a white shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "white",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "dressed",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The children are wearing red hats and are walking behind the man.",
+    "objects": [
+      "behind",
+      "man",
+      "children",
+      "hats"
+    ],
+    "actions": [
+      "wearing",
+      "walking",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman leading is dressed in a black shirt and is carrying a backpack.",
+    "objects": [
+      "black",
+      "backpack",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "leading",
+      "carrying"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The man walking behind is wearing a gray shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "shirt",
+      "gray",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman leading is dressed in a white shirt and is carrying a backpack.",
+    "objects": [
+      "backpack",
+      "white",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "leading",
+      "carrying"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The man walking behind is wearing a white shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "white",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman leading is wearing a pink shirt and is carrying a backpack.",
+    "objects": [
+      "pink",
+      "backpack",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "leading"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The man walking behind is dressed in a black shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "black",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "dressed",
+      "walking"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman leading is wearing a gray shirt and is carrying a backpack.",
+    "objects": [
+      "shirt",
+      "backpack",
+      "gray",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "leading"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The man walking behind is wearing a white shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "white",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman leading is dressed in a blue shirt and is carrying a backpack.",
+    "objects": [
+      "blue",
+      "backpack",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "leading",
+      "carrying"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The man walking behind is wearing a gray shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "shirt",
+      "gray",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman leading is dressed in a white shirt and is carrying a backpack.",
+    "objects": [
+      "backpack",
+      "white",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "leading",
+      "carrying"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The man walking behind is wearing a blue shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "blue",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman leading is dressed in a pink shirt and is carrying a backpack.",
+    "objects": [
+      "pink",
+      "backpack",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "leading",
+      "carrying"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The man walking behind is wearing a white shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "white",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman leading is dressed in a black shirt and is carrying a backpack.",
+    "objects": [
+      "black",
+      "backpack",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "leading",
+      "carrying"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The man walking behind is wearing a gray shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "shirt",
+      "gray",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman leading is dressed in a blue shirt and is carrying a backpack.",
+    "objects": [
+      "blue",
+      "backpack",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "leading",
+      "carrying"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The man walking behind is wearing a white shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "white",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman leading is dressed in a black shirt and is carrying a backpack.",
+    "objects": [
+      "black",
+      "backpack",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "leading",
+      "carrying"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The man walking behind is wearing a gray shirt and is carrying a backpack.",
+    "objects": [
+      "behind",
+      "shirt",
+      "gray",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman leading is dressed in a white shirt and is carrying a backpack.",
+    "objects": [
+      "backpack",
+      "white",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "dressed",
+      "leading",
+      "carrying"
+    ],
+    "segment_id": 31
+  }
+]

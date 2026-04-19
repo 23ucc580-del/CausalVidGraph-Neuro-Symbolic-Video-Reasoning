@@ -1,0 +1,548 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is gathered in a classroom, engaged in a discussion.",
+    "objects": [
+      "discussion",
+      "people",
+      "classroom",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is gathered in a classroom, engaged in a discussion.",
+    "objects": [
+      "discussion",
+      "people",
+      "classroom",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people is gathered in a classroom, engaged in a discussion.",
+    "objects": [
+      "discussion",
+      "people",
+      "classroom",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The room is furnished with multiple desks and chairs, with some individuals seated at tables.",
+    "objects": [
+      "multiple",
+      "room",
+      "some"
+    ],
+    "actions": [
+      "desks",
+      "furnished",
+      "chairs",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is furnished with multiple desks and chairs, with some individuals seated at tables.",
+    "objects": [
+      "multiple",
+      "room",
+      "some"
+    ],
+    "actions": [
+      "desks",
+      "furnished",
+      "chairs",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is furnished with multiple desks and chairs, with some individuals seated at tables.",
+    "objects": [
+      "multiple",
+      "room",
+      "some"
+    ],
+    "actions": [
+      "desks",
+      "furnished",
+      "chairs",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene is bustling with activity.",
+    "objects": [
+      "activity"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene is bustling with activity.",
+    "objects": [
+      "activity"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene is bustling with activity.",
+    "objects": [
+      "activity"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "On one side of the room, a man is standing, speaking with enthusiasm, while another individual is seen gesturing with their arms, perhaps emphasizing their point.",
+    "objects": [
+      "one",
+      "their",
+      "arms",
+      "while",
+      "enthusiasm",
+      "point",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "speaking",
+      "emphasizing",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "On one side of the room, a man is standing, speaking with enthusiasm, while another individual is seen gesturing with their arms, perhaps emphasizing their point.",
+    "objects": [
+      "one",
+      "their",
+      "arms",
+      "while",
+      "enthusiasm",
+      "point",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "speaking",
+      "emphasizing",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "On one side of the room, a man is standing, speaking with enthusiasm, while another individual is seen gesturing with their arms, perhaps emphasizing their point.",
+    "objects": [
+      "one",
+      "their",
+      "arms",
+      "while",
+      "enthusiasm",
+      "point",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "speaking",
+      "emphasizing",
+      "perhaps"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "On the other side, a woman is holding a red object, possibly a marker or a pen, perhaps to write or draw on the whiteboard.",
+    "objects": [
+      "write",
+      "whiteboard",
+      "pen",
+      "other",
+      "woman",
+      "possibly",
+      "marker",
+      "side"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "On the other side, a woman is holding a red object, possibly a marker or a pen, perhaps to write or draw on the whiteboard.",
+    "objects": [
+      "write",
+      "whiteboard",
+      "pen",
+      "other",
+      "woman",
+      "possibly",
+      "marker",
+      "side"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "On the other side, a woman is holding a red object, possibly a marker or a pen, perhaps to write or draw on the whiteboard.",
+    "objects": [
+      "write",
+      "whiteboard",
+      "pen",
+      "other",
+      "woman",
+      "possibly",
+      "marker",
+      "side"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "A third person is holding a yellow object, possibly a highlighter or a pen, perhaps to mark or annotate their notes.",
+    "objects": [
+      "their",
+      "pen",
+      "possibly",
+      "yellow",
+      "annotate",
+      "mark",
+      "third",
+      "object"
+    ],
+    "actions": [
+      "notes",
+      "perhaps",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "A third person is holding a yellow object, possibly a highlighter or a pen, perhaps to mark or annotate their notes.",
+    "objects": [
+      "their",
+      "pen",
+      "possibly",
+      "yellow",
+      "annotate",
+      "mark",
+      "third",
+      "object"
+    ],
+    "actions": [
+      "notes",
+      "perhaps",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "A third person is holding a yellow object, possibly a highlighter or a pen, perhaps to mark or annotate their notes.",
+    "objects": [
+      "their",
+      "pen",
+      "possibly",
+      "yellow",
+      "annotate",
+      "mark",
+      "third",
+      "object"
+    ],
+    "actions": [
+      "notes",
+      "perhaps",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The room is filled with people, each absorbed in their own tasks.",
+    "objects": [
+      "their",
+      "each",
+      "own",
+      "people",
+      "room"
+    ],
+    "actions": [
+      "absorbed",
+      "tasks",
+      "filled"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The room is filled with people, each absorbed in their own tasks.",
+    "objects": [
+      "their",
+      "each",
+      "own",
+      "people",
+      "room"
+    ],
+    "actions": [
+      "absorbed",
+      "tasks",
+      "filled"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The room is filled with people, each absorbed in their own tasks.",
+    "objects": [
+      "their",
+      "each",
+      "own",
+      "people",
+      "room"
+    ],
+    "actions": [
+      "absorbed",
+      "tasks",
+      "filled"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Some are listening intently, while others are speaking or gesturing, possibly to share their thoughts or ideas.",
+    "objects": [
+      "their",
+      "while",
+      "possibly",
+      "some",
+      "share",
+      "intently"
+    ],
+    "actions": [
+      "speaking",
+      "others",
+      "listening",
+      "ideas"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Some are listening intently, while others are speaking or gesturing, possibly to share their thoughts or ideas.",
+    "objects": [
+      "their",
+      "while",
+      "possibly",
+      "some",
+      "share",
+      "intently"
+    ],
+    "actions": [
+      "speaking",
+      "others",
+      "listening",
+      "ideas"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Some are listening intently, while others are speaking or gesturing, possibly to share their thoughts or ideas.",
+    "objects": [
+      "their",
+      "while",
+      "possibly",
+      "some",
+      "share",
+      "intently"
+    ],
+    "actions": [
+      "speaking",
+      "others",
+      "listening",
+      "ideas"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The atmosphere seems lively, with people moving around and interacting.",
+    "objects": [
+      "around",
+      "people",
+      "atmosphere",
+      "lively"
+    ],
+    "actions": [
+      "seems",
+      "moving",
+      "interacting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The atmosphere seems lively, with people moving around and interacting.",
+    "objects": [
+      "around",
+      "people",
+      "atmosphere",
+      "lively"
+    ],
+    "actions": [
+      "seems",
+      "moving",
+      "interacting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The atmosphere seems lively, with people moving around and interacting.",
+    "objects": [
+      "around",
+      "people",
+      "atmosphere",
+      "lively"
+    ],
+    "actions": [
+      "seems",
+      "moving",
+      "interacting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The room is well-lit, with natural light streaming in through the windows.",
+    "objects": [
+      "room",
+      "natural",
+      "through",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "streaming"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The room is well-lit, with natural light streaming in through the windows.",
+    "objects": [
+      "room",
+      "natural",
+      "through",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "streaming"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The room is well-lit, with natural light streaming in through the windows.",
+    "objects": [
+      "room",
+      "natural",
+      "through",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "streaming"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The walls are painted in a calming shade of blue, and the floor is carpeted, adding to the comfortable ambiance.",
+    "objects": [
+      "ambiance",
+      "blue",
+      "comfortable",
+      "shade",
+      "floor"
+    ],
+    "actions": [
+      "adding",
+      "carpeted",
+      "walls",
+      "calming"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The walls are painted in a calming shade of blue, and the floor is carpeted, adding to the comfortable ambiance.",
+    "objects": [
+      "ambiance",
+      "blue",
+      "comfortable",
+      "shade",
+      "floor"
+    ],
+    "actions": [
+      "adding",
+      "carpeted",
+      "walls",
+      "calming"
+    ],
+    "segment_id": 10
+  }
+]

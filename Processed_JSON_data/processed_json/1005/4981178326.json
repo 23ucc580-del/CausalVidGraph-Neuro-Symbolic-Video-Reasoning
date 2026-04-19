@@ -1,0 +1,474 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a group of people standing on a wooden bridge.",
+    "objects": [
+      "wooden",
+      "people",
+      "bridge",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a group of people standing on a wooden bridge.",
+    "objects": [
+      "wooden",
+      "people",
+      "bridge",
+      "group"
+    ],
+    "actions": [
+      "standing",
+      "starts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "They seem to be enjoying the view and the atmosphere.",
+    "objects": [
+      "they",
+      "seem",
+      "atmosphere"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "They seem to be enjoying the view and the atmosphere.",
+    "objects": [
+      "they",
+      "seem",
+      "atmosphere"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "One person is wearing a blue hoodie and is standing at the end of the bridge.",
+    "objects": [
+      "one",
+      "end",
+      "blue",
+      "bridge",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "One person is wearing a blue hoodie and is standing at the end of the bridge.",
+    "objects": [
+      "one",
+      "end",
+      "blue",
+      "bridge",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The bridge is surrounded by trees and there is a river flowing beneath.",
+    "objects": [
+      "beneath",
+      "there",
+      "river",
+      "bridge"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "flowing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The bridge is surrounded by trees and there is a river flowing beneath.",
+    "objects": [
+      "beneath",
+      "there",
+      "river",
+      "bridge"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "flowing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The people are smiling and looking towards the camera.",
+    "objects": [
+      "people"
+    ],
+    "actions": [
+      "towards",
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The people are smiling and looking towards the camera.",
+    "objects": [
+      "people"
+    ],
+    "actions": [
+      "towards",
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The bridge is in the middle of a forest.",
+    "objects": [
+      "middle",
+      "forest",
+      "bridge"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The bridge is in the middle of a forest.",
+    "objects": [
+      "middle",
+      "forest",
+      "bridge"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Next, the video shows a close-up of a person's feet walking on the bridge.",
+    "objects": [
+      "feet",
+      "bridge"
+    ],
+    "actions": [
+      "person's",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Next, the video shows a close-up of a person's feet walking on the bridge.",
+    "objects": [
+      "feet",
+      "bridge"
+    ],
+    "actions": [
+      "person's",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "This person is wearing brown shoes and is carrying a backpack.",
+    "objects": [
+      "backpack",
+      "brown",
+      "this"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "shoes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "This person is wearing brown shoes and is carrying a backpack.",
+    "objects": [
+      "backpack",
+      "brown",
+      "this"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "shoes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then pans to the left and shows more people on the bridge.",
+    "objects": [
+      "people",
+      "pans",
+      "bridge",
+      "more",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then pans to the left and shows more people on the bridge.",
+    "objects": [
+      "people",
+      "pans",
+      "bridge",
+      "more",
+      "then"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "They are wearing backpacks and seem to be walking in the same direction.",
+    "objects": [
+      "they",
+      "same",
+      "seem",
+      "direction"
+    ],
+    "actions": [
+      "wearing",
+      "backpacks",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "They are wearing backpacks and seem to be walking in the same direction.",
+    "objects": [
+      "they",
+      "same",
+      "seem",
+      "direction"
+    ],
+    "actions": [
+      "wearing",
+      "backpacks",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The bridge is made of wood and is elevated above the river.",
+    "objects": [
+      "wood",
+      "river",
+      "made",
+      "above",
+      "bridge"
+    ],
+    "actions": [
+      "elevated"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The bridge is made of wood and is elevated above the river.",
+    "objects": [
+      "wood",
+      "river",
+      "made",
+      "above",
+      "bridge"
+    ],
+    "actions": [
+      "elevated"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The people are laughing and chatting with each other.",
+    "objects": [
+      "other",
+      "each",
+      "people"
+    ],
+    "actions": [
+      "chatting",
+      "laughing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The people are laughing and chatting with each other.",
+    "objects": [
+      "other",
+      "each",
+      "people"
+    ],
+    "actions": [
+      "chatting",
+      "laughing"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The video then shows a person wearing a white shirt walking alone on the bridge.",
+    "objects": [
+      "white",
+      "bridge",
+      "shirt",
+      "alone",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The video then shows a person wearing a white shirt walking alone on the bridge.",
+    "objects": [
+      "white",
+      "bridge",
+      "shirt",
+      "alone",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "This person is wearing a backpack and seems to be in a rush.",
+    "objects": [
+      "backpack",
+      "this",
+      "rush"
+    ],
+    "actions": [
+      "wearing",
+      "seems"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "This person is wearing a backpack and seems to be in a rush.",
+    "objects": [
+      "backpack",
+      "this",
+      "rush"
+    ],
+    "actions": [
+      "wearing",
+      "seems"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then pans to the right and shows the same person wearing a blue shirt walking on the bridge.",
+    "objects": [
+      "pans",
+      "blue",
+      "same",
+      "shirt",
+      "bridge",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The camera then pans to the right and shows the same person wearing a blue shirt walking on the bridge.",
+    "objects": [
+      "pans",
+      "blue",
+      "same",
+      "shirt",
+      "bridge",
+      "then"
+    ],
+    "actions": [
+      "wearing",
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "This person is also carrying a backpack and seems to be moving quickly.",
+    "objects": [
+      "backpack",
+      "this",
+      "quickly"
+    ],
+    "actions": [
+      "seems",
+      "carrying",
+      "moving"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "This person is also carrying a backpack and seems to be moving quickly.",
+    "objects": [
+      "backpack",
+      "this",
+      "quickly"
+    ],
+    "actions": [
+      "seems",
+      "carrying",
+      "moving"
+    ],
+    "segment_id": 15
+  }
+]

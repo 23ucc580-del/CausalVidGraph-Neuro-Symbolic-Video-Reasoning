@@ -1,0 +1,628 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a group of young adults are gathered in a cozy living room, engaged in a lively discussion.",
+    "objects": [
+      "cozy",
+      "room",
+      "discussion",
+      "this",
+      "young",
+      "lively",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "living",
+      "adults",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a group of young adults are gathered in a cozy living room, engaged in a lively discussion.",
+    "objects": [
+      "cozy",
+      "room",
+      "discussion",
+      "this",
+      "young",
+      "lively",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "living",
+      "adults",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene is filled with warmth and camaraderie as they share stories and laughter.",
+    "objects": [
+      "camaraderie",
+      "laughter",
+      "share",
+      "warmth",
+      "they"
+    ],
+    "actions": [
+      "filled",
+      "stories"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is filled with warmth and camaraderie as they share stories and laughter.",
+    "objects": [
+      "camaraderie",
+      "laughter",
+      "share",
+      "warmth",
+      "they"
+    ],
+    "actions": [
+      "filled",
+      "stories"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A young man is sitting on the floor, his legs crossed, wearing a blue hoodie and a pair of glasses.",
+    "objects": [
+      "blue",
+      "legs",
+      "pair",
+      "man",
+      "his",
+      "young",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "crossed",
+      "glasses",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "A young man is sitting on the floor, his legs crossed, wearing a blue hoodie and a pair of glasses.",
+    "objects": [
+      "blue",
+      "legs",
+      "pair",
+      "man",
+      "his",
+      "young",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "crossed",
+      "glasses",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "He seems to be deeply engrossed in the conversation, his eyes gleaming with mirth as he shares a lighthearted story.",
+    "objects": [
+      "mirth",
+      "conversation",
+      "his",
+      "story",
+      "eyes",
+      "deeply"
+    ],
+    "actions": [
+      "lighthearted",
+      "seems",
+      "gleaming",
+      "shares"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "He seems to be deeply engrossed in the conversation, his eyes gleaming with mirth as he shares a lighthearted story.",
+    "objects": [
+      "mirth",
+      "conversation",
+      "his",
+      "story",
+      "eyes",
+      "deeply"
+    ],
+    "actions": [
+      "lighthearted",
+      "seems",
+      "gleaming",
+      "shares"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A young woman, wearing a gray sweater, is sitting on the floor next to him, her attention focused on the man.",
+    "objects": [
+      "sweater",
+      "gray",
+      "her",
+      "attention",
+      "man",
+      "him",
+      "young",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "focused"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A young woman, wearing a gray sweater, is sitting on the floor next to him, her attention focused on the man.",
+    "objects": [
+      "sweater",
+      "gray",
+      "her",
+      "attention",
+      "man",
+      "him",
+      "young",
+      "floor"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "focused"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "Her laughter echoes the joyous atmosphere.",
+    "objects": [
+      "her",
+      "laughter",
+      "atmosphere"
+    ],
+    "actions": [
+      "joyous",
+      "echoes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "Her laughter echoes the joyous atmosphere.",
+    "objects": [
+      "her",
+      "laughter",
+      "atmosphere"
+    ],
+    "actions": [
+      "joyous",
+      "echoes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "A young woman in a gray sweater is sitting on the floor, her hand resting on her chest, her eyes sparkling with amusement as she listens to the man's anecdote.",
+    "objects": [
+      "sweater",
+      "hand",
+      "gray",
+      "her",
+      "chest",
+      "young",
+      "anecdote",
+      "eyes"
+    ],
+    "actions": [
+      "listens",
+      "sparkling",
+      "resting",
+      "man's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "A young woman in a gray sweater is sitting on the floor, her hand resting on her chest, her eyes sparkling with amusement as she listens to the man's anecdote.",
+    "objects": [
+      "sweater",
+      "hand",
+      "gray",
+      "her",
+      "chest",
+      "young",
+      "anecdote",
+      "eyes"
+    ],
+    "actions": [
+      "listens",
+      "sparkling",
+      "resting",
+      "man's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A young woman in a black sweater is sitting on the floor, her hand clasped in her lap, her face reflecting the joy of the moment.",
+    "objects": [
+      "face",
+      "sweater",
+      "hand",
+      "lap",
+      "her",
+      "black",
+      "young",
+      "joy"
+    ],
+    "actions": [
+      "clasped",
+      "sitting",
+      "reflecting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A young woman in a black sweater is sitting on the floor, her hand clasped in her lap, her face reflecting the joy of the moment.",
+    "objects": [
+      "face",
+      "sweater",
+      "hand",
+      "lap",
+      "her",
+      "black",
+      "young",
+      "joy"
+    ],
+    "actions": [
+      "clasped",
+      "sitting",
+      "reflecting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A young man in a white hoodie is sitting on the floor, his hands clasped together, his smile wide as he laughs at the man's joke.",
+    "objects": [
+      "white",
+      "man",
+      "his",
+      "young",
+      "together",
+      "smile",
+      "wide",
+      "hoodie"
+    ],
+    "actions": [
+      "laughs",
+      "clasped",
+      "man's",
+      "hands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A young man in a white hoodie is sitting on the floor, his hands clasped together, his smile wide as he laughs at the man's joke.",
+    "objects": [
+      "white",
+      "man",
+      "his",
+      "young",
+      "together",
+      "smile",
+      "wide",
+      "hoodie"
+    ],
+    "actions": [
+      "laughs",
+      "clasped",
+      "man's",
+      "hands"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A young man in a gray sweater is sitting on the floor, his legs crossed, his attention drawn to the woman in gray, his laughter matching hers.",
+    "objects": [
+      "sweater",
+      "legs",
+      "gray",
+      "man",
+      "attention",
+      "his",
+      "laughter",
+      "young"
+    ],
+    "actions": [
+      "crossed",
+      "sitting",
+      "matching"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A young man in a gray sweater is sitting on the floor, his legs crossed, his attention drawn to the woman in gray, his laughter matching hers.",
+    "objects": [
+      "sweater",
+      "legs",
+      "gray",
+      "man",
+      "attention",
+      "his",
+      "laughter",
+      "young"
+    ],
+    "actions": [
+      "crossed",
+      "sitting",
+      "matching"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A young woman in a red sweater is sitting on the floor, her legs crossed, her hand resting on her thigh as she listens intently.",
+    "objects": [
+      "sweater",
+      "legs",
+      "hand",
+      "her",
+      "intently",
+      "young",
+      "thigh",
+      "floor"
+    ],
+    "actions": [
+      "listens",
+      "crossed",
+      "resting",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A young woman in a red sweater is sitting on the floor, her legs crossed, her hand resting on her thigh as she listens intently.",
+    "objects": [
+      "sweater",
+      "legs",
+      "hand",
+      "her",
+      "intently",
+      "young",
+      "thigh",
+      "floor"
+    ],
+    "actions": [
+      "listens",
+      "crossed",
+      "resting",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "A young man in a black hoodie is sitting on the floor, his legs crossed, his attention drawn to the woman in red, his laughter matching her's.",
+    "objects": [
+      "legs",
+      "man",
+      "attention",
+      "his",
+      "laughter",
+      "black",
+      "young",
+      "drawn"
+    ],
+    "actions": [
+      "matching",
+      "crossed",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "A young man in a black hoodie is sitting on the floor, his legs crossed, his attention drawn to the woman in red, his laughter matching her's.",
+    "objects": [
+      "legs",
+      "man",
+      "attention",
+      "his",
+      "laughter",
+      "black",
+      "young",
+      "drawn"
+    ],
+    "actions": [
+      "matching",
+      "crossed",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A young man in a gray sweater is sitting on the floor, his hand resting on his leg, his eyes focused on the woman in gray, his laughter matching hers.",
+    "objects": [
+      "sweater",
+      "hand",
+      "gray",
+      "man",
+      "laughter",
+      "his",
+      "young",
+      "eyes"
+    ],
+    "actions": [
+      "focused",
+      "sitting",
+      "matching",
+      "resting"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A young man in a gray sweater is sitting on the floor, his hand resting on his leg, his eyes focused on the woman in gray, his laughter matching hers.",
+    "objects": [
+      "sweater",
+      "hand",
+      "gray",
+      "man",
+      "laughter",
+      "his",
+      "young",
+      "eyes"
+    ],
+    "actions": [
+      "focused",
+      "sitting",
+      "matching",
+      "resting"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A young woman in a black sweater is sitting on the floor, her hand clasped in her lap, her face reflecting the joy of the conversation.",
+    "objects": [
+      "face",
+      "sweater",
+      "hand",
+      "lap",
+      "her",
+      "conversation",
+      "black",
+      "young"
+    ],
+    "actions": [
+      "clasped",
+      "sitting",
+      "reflecting"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A young woman in a black sweater is sitting on the floor, her hand clasped in her lap, her face reflecting the joy of the conversation.",
+    "objects": [
+      "face",
+      "sweater",
+      "hand",
+      "lap",
+      "her",
+      "conversation",
+      "black",
+      "young"
+    ],
+    "actions": [
+      "clasped",
+      "sitting",
+      "reflecting"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Throughout the video, their casual attire and relaxed positions suggest a comfortable and friendly gathering.",
+    "objects": [
+      "friendly",
+      "casual",
+      "comfortable",
+      "attire",
+      "throughout",
+      "suggest",
+      "their"
+    ],
+    "actions": [
+      "positions",
+      "gathering",
+      "relaxed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Throughout the video, their casual attire and relaxed positions suggest a comfortable and friendly gathering.",
+    "objects": [
+      "friendly",
+      "casual",
+      "comfortable",
+      "attire",
+      "throughout",
+      "suggest",
+      "their"
+    ],
+    "actions": [
+      "positions",
+      "gathering",
+      "relaxed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is filled with the sounds of chatter, laughter, and the occasional clinking of cups, creating a sense of warmth and togetherness.",
+    "objects": [
+      "chatter",
+      "laughter",
+      "occasional",
+      "sense",
+      "warmth",
+      "cups"
+    ],
+    "actions": [
+      "creating",
+      "filled",
+      "clinking",
+      "togetherness"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is filled with the sounds of chatter, laughter, and the occasional clinking of cups, creating a sense of warmth and togetherness.",
+    "objects": [
+      "chatter",
+      "laughter",
+      "occasional",
+      "sense",
+      "warmth",
+      "cups"
+    ],
+    "actions": [
+      "creating",
+      "filled",
+      "clinking",
+      "togetherness"
+    ],
+    "segment_id": 15
+  }
+]

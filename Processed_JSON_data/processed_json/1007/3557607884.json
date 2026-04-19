@@ -1,0 +1,545 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a group of people are enjoying a sunny day at a pool.",
+    "objects": [
+      "people",
+      "pool",
+      "day",
+      "sunny",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The pool is surrounded by lounge chairs, and there is a small building with a balcony in the background.",
+    "objects": [
+      "balcony",
+      "there",
+      "small",
+      "pool",
+      "lounge"
+    ],
+    "actions": [
+      "chairs",
+      "surrounded",
+      "building"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene is set on a sunny day, with the sky clear and blue.",
+    "objects": [
+      "blue",
+      "clear",
+      "set",
+      "day",
+      "sky",
+      "sunny"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "A man and a child are playing with a ball in the pool, splashing around and having fun.",
+    "objects": [
+      "child",
+      "pool",
+      "fun",
+      "ball",
+      "around",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "having",
+      "splashing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is wearing a blue swimsuit and the man is wearing a red shirt.",
+    "objects": [
+      "child",
+      "blue",
+      "swimsuit",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "In the background, a woman and a child are swimming in the pool, the child is wearing a red swimsuit and the woman is wearing a white shirt.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "swimsuit",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "swimming",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "Two men are standing on the poolside, one is wearing a red shirt and the other is wearing a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "two",
+      "men",
+      "shirt",
+      "poolside"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "They are watching the children play.",
+    "objects": [
+      "they",
+      "play",
+      "children"
+    ],
+    "actions": [
+      "watching"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "A woman is standing on the poolside, wearing a white shirt and holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "shirt",
+      "poolside"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "A man is standing in the pool, wearing a blue shirt, and a child is holding a ball.",
+    "objects": [
+      "child",
+      "blue",
+      "pool",
+      "shirt",
+      "ball",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "A man is in the pool with a dog, wearing a red shirt and a child is wearing a blue swimsuit.",
+    "objects": [
+      "child",
+      "blue",
+      "pool",
+      "swimsuit",
+      "shirt",
+      "dog",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "A woman is standing in the pool, wearing a red shirt, holding a child, and another child is playing with a ball.",
+    "objects": [
+      "child",
+      "woman",
+      "pool",
+      "shirt",
+      "ball"
+    ],
+    "actions": [
+      "standing",
+      "red",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "A man is in the pool, wearing a blue shirt, and a child is wearing a red swimsuit.",
+    "objects": [
+      "child",
+      "blue",
+      "pool",
+      "swimsuit",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "A woman is standing in the pool, wearing a white shirt and holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "A man is standing in the pool, wearing a white shirt, and a child is wearing a red shirt.",
+    "objects": [
+      "white",
+      "child",
+      "pool",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman is standing in the pool, wearing a white shirt, holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "A man is in the pool, wearing a red shirt and a child is wearing a blue swimsuit.",
+    "objects": [
+      "child",
+      "blue",
+      "pool",
+      "swimsuit",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "A woman is standing in the pool, wearing a white shirt, holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "A man is in the pool, wearing a blue shirt, and a child is playing with a ball.",
+    "objects": [
+      "child",
+      "blue",
+      "pool",
+      "shirt",
+      "ball",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "A woman is standing in the pool, wearing a white shirt, holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "A man is in the pool, wearing a red shirt, and a child is wearing a blue swimsuit.",
+    "objects": [
+      "child",
+      "blue",
+      "pool",
+      "swimsuit",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman is standing in the pool, wearing a white shirt, holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "A man is in the pool, wearing a white shirt, and a child is wearing a red swimsuit.",
+    "objects": [
+      "white",
+      "child",
+      "pool",
+      "swimsuit",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman is standing in the pool, wearing a white shirt, holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "A man is in the pool, wearing a red shirt, and a child is playing with a ball.",
+    "objects": [
+      "child",
+      "pool",
+      "shirt",
+      "ball",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "red"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "A woman is standing in the pool, wearing a white shirt, holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "A man is in the pool, wearing a red shirt, and a child is wearing a blue swimsuit.",
+    "objects": [
+      "child",
+      "blue",
+      "pool",
+      "swimsuit",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "A woman is standing in the pool, wearing a white shirt, holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "A man is in the pool, wearing a blue shirt, and a child is playing with a ball.",
+    "objects": [
+      "child",
+      "blue",
+      "pool",
+      "shirt",
+      "ball",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "playing"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "A woman is standing in the pool, wearing a white shirt, holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "A man is in the pool, wearing a red shirt, and a child is wearing a red swimsuit.",
+    "objects": [
+      "child",
+      "swimsuit",
+      "pool",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "A woman is standing in the pool, wearing a white shirt, holding a child.",
+    "objects": [
+      "white",
+      "child",
+      "woman",
+      "pool",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 31
+  }
+]

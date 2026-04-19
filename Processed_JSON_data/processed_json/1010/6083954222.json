@@ -1,0 +1,545 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively scene of children playing basketball on a sunny day.",
+    "objects": [
+      "basketball",
+      "children",
+      "lively",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively scene of children playing basketball on a sunny day.",
+    "objects": [
+      "basketball",
+      "children",
+      "lively",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively scene of children playing basketball on a sunny day.",
+    "objects": [
+      "basketball",
+      "children",
+      "lively",
+      "day",
+      "sunny"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "There are four children visible in the frame, each engaged in their own activities.",
+    "objects": [
+      "their",
+      "each",
+      "there",
+      "own",
+      "children",
+      "four"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "There are four children visible in the frame, each engaged in their own activities.",
+    "objects": [
+      "their",
+      "each",
+      "there",
+      "own",
+      "children",
+      "four"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "There are four children visible in the frame, each engaged in their own activities.",
+    "objects": [
+      "their",
+      "each",
+      "there",
+      "own",
+      "children",
+      "four"
+    ],
+    "actions": [
+      "activities",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A young boy in a blue shirt is standing on the left side of the screen, holding a basketball.",
+    "objects": [
+      "basketball",
+      "boy",
+      "screen",
+      "blue",
+      "shirt",
+      "side",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A young boy in a blue shirt is standing on the left side of the screen, holding a basketball.",
+    "objects": [
+      "basketball",
+      "boy",
+      "screen",
+      "blue",
+      "shirt",
+      "side",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A young boy in a blue shirt is standing on the left side of the screen, holding a basketball.",
+    "objects": [
+      "basketball",
+      "boy",
+      "screen",
+      "blue",
+      "shirt",
+      "side",
+      "young"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He seems to be waiting his turn or observing the game.",
+    "objects": [
+      "turn",
+      "his",
+      "game"
+    ],
+    "actions": [
+      "seems",
+      "observing",
+      "waiting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "He seems to be waiting his turn or observing the game.",
+    "objects": [
+      "turn",
+      "his",
+      "game"
+    ],
+    "actions": [
+      "seems",
+      "observing",
+      "waiting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "He seems to be waiting his turn or observing the game.",
+    "objects": [
+      "turn",
+      "his",
+      "game"
+    ],
+    "actions": [
+      "seems",
+      "observing",
+      "waiting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A boy in a green shirt is on the right side of the screen, also holding a basketball.",
+    "objects": [
+      "basketball",
+      "screen",
+      "boy",
+      "green",
+      "shirt",
+      "side"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A boy in a green shirt is on the right side of the screen, also holding a basketball.",
+    "objects": [
+      "basketball",
+      "screen",
+      "boy",
+      "green",
+      "shirt",
+      "side"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A boy in a green shirt is on the right side of the screen, also holding a basketball.",
+    "objects": [
+      "basketball",
+      "screen",
+      "boy",
+      "green",
+      "shirt",
+      "side"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "He is in the process of making a shot, possibly just after taking the ball from the boy in blue.",
+    "objects": [
+      "after",
+      "boy",
+      "possibly",
+      "blue",
+      "just",
+      "ball",
+      "from"
+    ],
+    "actions": [
+      "making",
+      "taking",
+      "process"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "He is in the process of making a shot, possibly just after taking the ball from the boy in blue.",
+    "objects": [
+      "after",
+      "boy",
+      "possibly",
+      "blue",
+      "just",
+      "ball",
+      "from"
+    ],
+    "actions": [
+      "making",
+      "taking",
+      "process"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "He is in the process of making a shot, possibly just after taking the ball from the boy in blue.",
+    "objects": [
+      "after",
+      "boy",
+      "possibly",
+      "blue",
+      "just",
+      "ball",
+      "from"
+    ],
+    "actions": [
+      "making",
+      "taking",
+      "process"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy in the orange shirt is in the center of the screen, holding a soccer ball.",
+    "objects": [
+      "soccer",
+      "screen",
+      "boy",
+      "orange",
+      "shirt",
+      "ball",
+      "center"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy in the orange shirt is in the center of the screen, holding a soccer ball.",
+    "objects": [
+      "soccer",
+      "screen",
+      "boy",
+      "orange",
+      "shirt",
+      "ball",
+      "center"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The boy in the orange shirt is in the center of the screen, holding a soccer ball.",
+    "objects": [
+      "soccer",
+      "screen",
+      "boy",
+      "orange",
+      "shirt",
+      "ball",
+      "center"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "He seems to be in the midst of a play, perhaps passing the ball to another player.",
+    "objects": [
+      "ball",
+      "midst",
+      "player",
+      "play"
+    ],
+    "actions": [
+      "seems",
+      "passing",
+      "perhaps"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "He seems to be in the midst of a play, perhaps passing the ball to another player.",
+    "objects": [
+      "ball",
+      "midst",
+      "player",
+      "play"
+    ],
+    "actions": [
+      "seems",
+      "passing",
+      "perhaps"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "He seems to be in the midst of a play, perhaps passing the ball to another player.",
+    "objects": [
+      "ball",
+      "midst",
+      "player",
+      "play"
+    ],
+    "actions": [
+      "seems",
+      "passing",
+      "perhaps"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The last boy in the frame is not wearing a shirt, suggesting he may have just entered the frame or is about to leave it.",
+    "objects": [
+      "last",
+      "boy",
+      "not",
+      "leave",
+      "shirt",
+      "may",
+      "just",
+      "about"
+    ],
+    "actions": [
+      "wearing",
+      "suggesting",
+      "entered"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The last boy in the frame is not wearing a shirt, suggesting he may have just entered the frame or is about to leave it.",
+    "objects": [
+      "last",
+      "boy",
+      "not",
+      "leave",
+      "shirt",
+      "may",
+      "just",
+      "about"
+    ],
+    "actions": [
+      "wearing",
+      "suggesting",
+      "entered"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The last boy in the frame is not wearing a shirt, suggesting he may have just entered the frame or is about to leave it.",
+    "objects": [
+      "last",
+      "boy",
+      "not",
+      "leave",
+      "shirt",
+      "may",
+      "just",
+      "about"
+    ],
+    "actions": [
+      "wearing",
+      "suggesting",
+      "entered"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is set on a concrete surface, possibly a sidewalk or a playground.",
+    "objects": [
+      "surface",
+      "concrete",
+      "possibly",
+      "set",
+      "sidewalk",
+      "playground"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is set on a concrete surface, possibly a sidewalk or a playground.",
+    "objects": [
+      "surface",
+      "concrete",
+      "possibly",
+      "set",
+      "sidewalk",
+      "playground"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is set on a concrete surface, possibly a sidewalk or a playground.",
+    "objects": [
+      "surface",
+      "concrete",
+      "possibly",
+      "set",
+      "sidewalk",
+      "playground"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The background is blurred, but it appears to be a residential area with a house and trees, indicating a suburban setting.",
+    "objects": [
+      "suburban",
+      "house",
+      "residential",
+      "area",
+      "but"
+    ],
+    "actions": [
+      "trees",
+      "blurred",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The background is blurred, but it appears to be a residential area with a house and trees, indicating a suburban setting.",
+    "objects": [
+      "suburban",
+      "house",
+      "residential",
+      "area",
+      "but"
+    ],
+    "actions": [
+      "trees",
+      "blurred",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 10
+  }
+]

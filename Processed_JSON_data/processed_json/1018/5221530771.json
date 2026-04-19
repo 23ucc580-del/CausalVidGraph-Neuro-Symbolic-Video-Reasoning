@@ -1,0 +1,569 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are two women seated on a stage, each playing an accordion.",
+    "objects": [
+      "each",
+      "there",
+      "two",
+      "stage",
+      "women",
+      "accordion"
+    ],
+    "actions": [
+      "playing",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are two women seated on a stage, each playing an accordion.",
+    "objects": [
+      "each",
+      "there",
+      "two",
+      "stage",
+      "women",
+      "accordion"
+    ],
+    "actions": [
+      "playing",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are two women seated on a stage, each playing an accordion.",
+    "objects": [
+      "each",
+      "there",
+      "two",
+      "stage",
+      "women",
+      "accordion"
+    ],
+    "actions": [
+      "playing",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "One woman is wearing a black shirt and holding an accordion, while the other is wearing a black dress and also playing an accordion.",
+    "objects": [
+      "one",
+      "other",
+      "woman",
+      "while",
+      "black",
+      "shirt",
+      "dress",
+      "accordion"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "One woman is wearing a black shirt and holding an accordion, while the other is wearing a black dress and also playing an accordion.",
+    "objects": [
+      "one",
+      "other",
+      "woman",
+      "while",
+      "black",
+      "shirt",
+      "dress",
+      "accordion"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One woman is wearing a black shirt and holding an accordion, while the other is wearing a black dress and also playing an accordion.",
+    "objects": [
+      "one",
+      "other",
+      "woman",
+      "while",
+      "black",
+      "shirt",
+      "dress",
+      "accordion"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Both women are focused on their music, and their playing is synchronized, indicating a shared rhythm.",
+    "objects": [
+      "their",
+      "both",
+      "rhythm",
+      "music",
+      "women"
+    ],
+    "actions": [
+      "focused",
+      "synchronized",
+      "indicating",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "Both women are focused on their music, and their playing is synchronized, indicating a shared rhythm.",
+    "objects": [
+      "their",
+      "both",
+      "rhythm",
+      "music",
+      "women"
+    ],
+    "actions": [
+      "focused",
+      "synchronized",
+      "indicating",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "Both women are focused on their music, and their playing is synchronized, indicating a shared rhythm.",
+    "objects": [
+      "their",
+      "both",
+      "rhythm",
+      "music",
+      "women"
+    ],
+    "actions": [
+      "focused",
+      "synchronized",
+      "indicating",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman in the black shirt has blonde hair, while the one in the black dress has dark hair.",
+    "objects": [
+      "one",
+      "hair",
+      "blonde",
+      "woman",
+      "while",
+      "black",
+      "dark",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman in the black shirt has blonde hair, while the one in the black dress has dark hair.",
+    "objects": [
+      "one",
+      "hair",
+      "blonde",
+      "woman",
+      "while",
+      "black",
+      "dark",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman in the black shirt has blonde hair, while the one in the black dress has dark hair.",
+    "objects": [
+      "one",
+      "hair",
+      "blonde",
+      "woman",
+      "while",
+      "black",
+      "dark",
+      "has"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The stage is set against a black background, providing a stark contrast to the performers.",
+    "objects": [
+      "black",
+      "contrast",
+      "set",
+      "against",
+      "stage",
+      "stark"
+    ],
+    "actions": [
+      "providing",
+      "performers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The stage is set against a black background, providing a stark contrast to the performers.",
+    "objects": [
+      "black",
+      "contrast",
+      "set",
+      "against",
+      "stage",
+      "stark"
+    ],
+    "actions": [
+      "providing",
+      "performers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The stage is set against a black background, providing a stark contrast to the performers.",
+    "objects": [
+      "black",
+      "contrast",
+      "set",
+      "against",
+      "stage",
+      "stark"
+    ],
+    "actions": [
+      "providing",
+      "performers"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The women's attire is formal, suggesting a professional performance or a formal event.",
+    "objects": [
+      "formal",
+      "attire",
+      "event",
+      "performance",
+      "professional"
+    ],
+    "actions": [
+      "suggesting",
+      "women's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The women's attire is formal, suggesting a professional performance or a formal event.",
+    "objects": [
+      "formal",
+      "attire",
+      "event",
+      "performance",
+      "professional"
+    ],
+    "actions": [
+      "suggesting",
+      "women's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The women's attire is formal, suggesting a professional performance or a formal event.",
+    "objects": [
+      "formal",
+      "attire",
+      "event",
+      "performance",
+      "professional"
+    ],
+    "actions": [
+      "suggesting",
+      "women's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The accordions they play have a traditional design with keys and buttons, and they appear to be in good condition.",
+    "objects": [
+      "they",
+      "appear",
+      "good",
+      "design",
+      "traditional",
+      "have",
+      "keys",
+      "play"
+    ],
+    "actions": [
+      "accordions",
+      "buttons"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The accordions they play have a traditional design with keys and buttons, and they appear to be in good condition.",
+    "objects": [
+      "they",
+      "appear",
+      "good",
+      "design",
+      "traditional",
+      "have",
+      "keys",
+      "play"
+    ],
+    "actions": [
+      "accordions",
+      "buttons"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The accordions they play have a traditional design with keys and buttons, and they appear to be in good condition.",
+    "objects": [
+      "they",
+      "appear",
+      "good",
+      "design",
+      "traditional",
+      "have",
+      "keys",
+      "play"
+    ],
+    "actions": [
+      "accordions",
+      "buttons"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The performance is a musical duet, showcasing the skill and synchronization between the two performers.",
+    "objects": [
+      "duet",
+      "two",
+      "musical",
+      "synchronization",
+      "performance",
+      "between",
+      "skill"
+    ],
+    "actions": [
+      "showcasing",
+      "performers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The performance is a musical duet, showcasing the skill and synchronization between the two performers.",
+    "objects": [
+      "duet",
+      "two",
+      "musical",
+      "synchronization",
+      "performance",
+      "between",
+      "skill"
+    ],
+    "actions": [
+      "showcasing",
+      "performers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The performance is a musical duet, showcasing the skill and synchronization between the two performers.",
+    "objects": [
+      "duet",
+      "two",
+      "musical",
+      "synchronization",
+      "performance",
+      "between",
+      "skill"
+    ],
+    "actions": [
+      "showcasing",
+      "performers"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The audience can be heard in the background, indicating a live performance or a recording of a live performance.",
+    "objects": [
+      "can",
+      "audience",
+      "performance",
+      "heard",
+      "live"
+    ],
+    "actions": [
+      "recording",
+      "indicating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The audience can be heard in the background, indicating a live performance or a recording of a live performance.",
+    "objects": [
+      "can",
+      "audience",
+      "performance",
+      "heard",
+      "live"
+    ],
+    "actions": [
+      "recording",
+      "indicating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The audience can be heard in the background, indicating a live performance or a recording of a live performance.",
+    "objects": [
+      "can",
+      "audience",
+      "performance",
+      "heard",
+      "live"
+    ],
+    "actions": [
+      "recording",
+      "indicating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The women's posture is relaxed and focused, suggesting they are deeply engrossed in their performance.",
+    "objects": [
+      "they",
+      "their",
+      "performance",
+      "posture",
+      "deeply"
+    ],
+    "actions": [
+      "focused",
+      "women's",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The women's posture is relaxed and focused, suggesting they are deeply engrossed in their performance.",
+    "objects": [
+      "they",
+      "their",
+      "performance",
+      "posture",
+      "deeply"
+    ],
+    "actions": [
+      "focused",
+      "women's",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The women's posture is relaxed and focused, suggesting they are deeply engrossed in their performance.",
+    "objects": [
+      "they",
+      "their",
+      "performance",
+      "posture",
+      "deeply"
+    ],
+    "actions": [
+      "focused",
+      "women's",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Overall, the video captures a captivating musical performance between two talented accordion players.",
+    "objects": [
+      "two",
+      "musical",
+      "performance",
+      "overall",
+      "between",
+      "accordion"
+    ],
+    "actions": [
+      "captivating",
+      "players",
+      "talented"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Overall, the video captures a captivating musical performance between two talented accordion players.",
+    "objects": [
+      "two",
+      "musical",
+      "performance",
+      "overall",
+      "between",
+      "accordion"
+    ],
+    "actions": [
+      "captivating",
+      "players",
+      "talented"
+    ],
+    "segment_id": 10
+  }
+]

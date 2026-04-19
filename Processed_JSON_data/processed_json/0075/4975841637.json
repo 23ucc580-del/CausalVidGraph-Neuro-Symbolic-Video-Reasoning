@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a woman with curly brown hair and glasses, wearing a blue hoodie, sitting on a couch in a room with wooden furniture.",
+    "objects": [
+      "couch",
+      "this",
+      "woman",
+      "hoodie",
+      "wooden",
+      "see",
+      "blue",
+      "curly"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "glasses"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a woman with curly brown hair and glasses, wearing a blue hoodie, sitting on a couch in a room with wooden furniture.",
+    "objects": [
+      "couch",
+      "this",
+      "woman",
+      "hoodie",
+      "wooden",
+      "see",
+      "blue",
+      "curly"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "glasses"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a woman with curly brown hair and glasses, wearing a blue hoodie, sitting on a couch in a room with wooden furniture.",
+    "objects": [
+      "couch",
+      "this",
+      "woman",
+      "hoodie",
+      "wooden",
+      "see",
+      "blue",
+      "curly"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "glasses"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a woman with curly brown hair and glasses, wearing a blue hoodie, sitting on a couch in a room with wooden furniture.",
+    "objects": [
+      "couch",
+      "this",
+      "woman",
+      "hoodie",
+      "wooden",
+      "see",
+      "blue",
+      "curly"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "glasses"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She is holding a book and seems to be reading.",
+    "objects": [
+      "she",
+      "book"
+    ],
+    "actions": [
+      "holding",
+      "reading",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is holding a book and seems to be reading.",
+    "objects": [
+      "she",
+      "book"
+    ],
+    "actions": [
+      "holding",
+      "reading",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She is holding a book and seems to be reading.",
+    "objects": [
+      "she",
+      "book"
+    ],
+    "actions": [
+      "holding",
+      "reading",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She is holding a book and seems to be reading.",
+    "objects": [
+      "she",
+      "book"
+    ],
+    "actions": [
+      "holding",
+      "reading",
+      "seems"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another woman with brown hair, wearing a white top, is also sitting on the same couch, looking downwards.",
+    "objects": [
+      "couch",
+      "woman",
+      "white",
+      "same",
+      "brown",
+      "top",
+      "hair"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "sitting",
+      "downwards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another woman with brown hair, wearing a white top, is also sitting on the same couch, looking downwards.",
+    "objects": [
+      "couch",
+      "woman",
+      "white",
+      "same",
+      "brown",
+      "top",
+      "hair"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "sitting",
+      "downwards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another woman with brown hair, wearing a white top, is also sitting on the same couch, looking downwards.",
+    "objects": [
+      "couch",
+      "woman",
+      "white",
+      "same",
+      "brown",
+      "top",
+      "hair"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "sitting",
+      "downwards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another woman with brown hair, wearing a white top, is also sitting on the same couch, looking downwards.",
+    "objects": [
+      "couch",
+      "woman",
+      "white",
+      "same",
+      "brown",
+      "top",
+      "hair"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "sitting",
+      "downwards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "There is a third woman with glasses, a black top, and a pink scarf, sitting in a chair to the side.",
+    "objects": [
+      "chair",
+      "woman",
+      "third",
+      "scarf",
+      "side",
+      "top",
+      "pink",
+      "there"
+    ],
+    "actions": [
+      "sitting",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "There is a third woman with glasses, a black top, and a pink scarf, sitting in a chair to the side.",
+    "objects": [
+      "chair",
+      "woman",
+      "third",
+      "scarf",
+      "side",
+      "top",
+      "pink",
+      "there"
+    ],
+    "actions": [
+      "sitting",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "There is a third woman with glasses, a black top, and a pink scarf, sitting in a chair to the side.",
+    "objects": [
+      "chair",
+      "woman",
+      "third",
+      "scarf",
+      "side",
+      "top",
+      "pink",
+      "there"
+    ],
+    "actions": [
+      "sitting",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "There is a third woman with glasses, a black top, and a pink scarf, sitting in a chair to the side.",
+    "objects": [
+      "chair",
+      "woman",
+      "third",
+      "scarf",
+      "side",
+      "top",
+      "pink",
+      "there"
+    ],
+    "actions": [
+      "sitting",
+      "glasses"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "She is holding a book and looking downwards as well.",
+    "objects": [
+      "she",
+      "book",
+      "well"
+    ],
+    "actions": [
+      "holding",
+      "looking",
+      "downwards"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "She is holding a book and looking downwards as well.",
+    "objects": [
+      "she",
+      "book",
+      "well"
+    ],
+    "actions": [
+      "holding",
+      "looking",
+      "downwards"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "She is holding a book and looking downwards as well.",
+    "objects": [
+      "she",
+      "book",
+      "well"
+    ],
+    "actions": [
+      "holding",
+      "looking",
+      "downwards"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "She is holding a book and looking downwards as well.",
+    "objects": [
+      "she",
+      "book",
+      "well"
+    ],
+    "actions": [
+      "holding",
+      "looking",
+      "downwards"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman with curly brown hair appears to be in the middle of a conversation with the third woman, who is not visible in the frame.",
+    "objects": [
+      "woman",
+      "third",
+      "who",
+      "not",
+      "curly",
+      "brown",
+      "conversation",
+      "middle"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman with curly brown hair appears to be in the middle of a conversation with the third woman, who is not visible in the frame.",
+    "objects": [
+      "woman",
+      "third",
+      "who",
+      "not",
+      "curly",
+      "brown",
+      "conversation",
+      "middle"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman with curly brown hair appears to be in the middle of a conversation with the third woman, who is not visible in the frame.",
+    "objects": [
+      "woman",
+      "third",
+      "who",
+      "not",
+      "curly",
+      "brown",
+      "conversation",
+      "middle"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman with curly brown hair appears to be in the middle of a conversation with the third woman, who is not visible in the frame.",
+    "objects": [
+      "woman",
+      "third",
+      "who",
+      "not",
+      "curly",
+      "brown",
+      "conversation",
+      "middle"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The room appears to be a living room with a window, a lamp, and a white wall.",
+    "objects": [
+      "wall",
+      "white",
+      "lamp",
+      "window",
+      "room"
+    ],
+    "actions": [
+      "living"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The room appears to be a living room with a window, a lamp, and a white wall.",
+    "objects": [
+      "wall",
+      "white",
+      "lamp",
+      "window",
+      "room"
+    ],
+    "actions": [
+      "living"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The room appears to be a living room with a window, a lamp, and a white wall.",
+    "objects": [
+      "wall",
+      "white",
+      "lamp",
+      "window",
+      "room"
+    ],
+    "actions": [
+      "living"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The room appears to be a living room with a window, a lamp, and a white wall.",
+    "objects": [
+      "wall",
+      "white",
+      "lamp",
+      "window",
+      "room"
+    ],
+    "actions": [
+      "living"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The lighting is soft, and the overall atmosphere seems cozy and calm.",
+    "objects": [
+      "calm",
+      "atmosphere",
+      "soft",
+      "overall",
+      "cozy"
+    ],
+    "actions": [
+      "lighting",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The lighting is soft, and the overall atmosphere seems cozy and calm.",
+    "objects": [
+      "calm",
+      "atmosphere",
+      "soft",
+      "overall",
+      "cozy"
+    ],
+    "actions": [
+      "lighting",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The lighting is soft, and the overall atmosphere seems cozy and calm.",
+    "objects": [
+      "calm",
+      "atmosphere",
+      "soft",
+      "overall",
+      "cozy"
+    ],
+    "actions": [
+      "lighting",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The lighting is soft, and the overall atmosphere seems cozy and calm.",
+    "objects": [
+      "calm",
+      "atmosphere",
+      "soft",
+      "overall",
+      "cozy"
+    ],
+    "actions": [
+      "lighting",
+      "seems"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,533 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a white kitten with black patches on its head and legs sitting on a bed.",
+    "objects": [
+      "kitten",
+      "white",
+      "legs",
+      "see",
+      "head",
+      "its",
+      "black"
+    ],
+    "actions": [
+      "bed",
+      "patches",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a white kitten with black patches on its head and legs sitting on a bed.",
+    "objects": [
+      "kitten",
+      "white",
+      "legs",
+      "see",
+      "head",
+      "its",
+      "black"
+    ],
+    "actions": [
+      "bed",
+      "patches",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a white kitten with black patches on its head and legs sitting on a bed.",
+    "objects": [
+      "kitten",
+      "white",
+      "legs",
+      "see",
+      "head",
+      "its",
+      "black"
+    ],
+    "actions": [
+      "bed",
+      "patches",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a white kitten with black patches on its head and legs sitting on a bed.",
+    "objects": [
+      "kitten",
+      "white",
+      "legs",
+      "see",
+      "head",
+      "its",
+      "black"
+    ],
+    "actions": [
+      "bed",
+      "patches",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a white kitten with black patches on its head and legs sitting on a bed.",
+    "objects": [
+      "kitten",
+      "white",
+      "legs",
+      "see",
+      "head",
+      "its",
+      "black"
+    ],
+    "actions": [
+      "bed",
+      "patches",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The kitten is wearing a black collar with a bell on it and has a pink ribbon in its mouth.",
+    "objects": [
+      "kitten",
+      "has",
+      "bell",
+      "its",
+      "collar",
+      "ribbon",
+      "mouth",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The kitten is wearing a black collar with a bell on it and has a pink ribbon in its mouth.",
+    "objects": [
+      "kitten",
+      "has",
+      "bell",
+      "its",
+      "collar",
+      "ribbon",
+      "mouth",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The kitten is wearing a black collar with a bell on it and has a pink ribbon in its mouth.",
+    "objects": [
+      "kitten",
+      "has",
+      "bell",
+      "its",
+      "collar",
+      "ribbon",
+      "mouth",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The kitten is wearing a black collar with a bell on it and has a pink ribbon in its mouth.",
+    "objects": [
+      "kitten",
+      "has",
+      "bell",
+      "its",
+      "collar",
+      "ribbon",
+      "mouth",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The kitten is wearing a black collar with a bell on it and has a pink ribbon in its mouth.",
+    "objects": [
+      "kitten",
+      "has",
+      "bell",
+      "its",
+      "collar",
+      "ribbon",
+      "mouth",
+      "pink"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "It is playing with a pink ribbon and a toy mouse.",
+    "objects": [
+      "ribbon",
+      "mouse",
+      "pink",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "It is playing with a pink ribbon and a toy mouse.",
+    "objects": [
+      "ribbon",
+      "mouse",
+      "pink",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "It is playing with a pink ribbon and a toy mouse.",
+    "objects": [
+      "ribbon",
+      "mouse",
+      "pink",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "It is playing with a pink ribbon and a toy mouse.",
+    "objects": [
+      "ribbon",
+      "mouse",
+      "pink",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "It is playing with a pink ribbon and a toy mouse.",
+    "objects": [
+      "ribbon",
+      "mouse",
+      "pink",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The kitten's paws are on the bed as it jumps and tries to catch the ribbon.",
+    "objects": [
+      "ribbon",
+      "catch",
+      "paws"
+    ],
+    "actions": [
+      "tries",
+      "jumps",
+      "kitten's",
+      "bed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The kitten's paws are on the bed as it jumps and tries to catch the ribbon.",
+    "objects": [
+      "ribbon",
+      "catch",
+      "paws"
+    ],
+    "actions": [
+      "tries",
+      "jumps",
+      "kitten's",
+      "bed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The kitten's paws are on the bed as it jumps and tries to catch the ribbon.",
+    "objects": [
+      "ribbon",
+      "catch",
+      "paws"
+    ],
+    "actions": [
+      "tries",
+      "jumps",
+      "kitten's",
+      "bed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The kitten's paws are on the bed as it jumps and tries to catch the ribbon.",
+    "objects": [
+      "ribbon",
+      "catch",
+      "paws"
+    ],
+    "actions": [
+      "tries",
+      "jumps",
+      "kitten's",
+      "bed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The kitten's paws are on the bed as it jumps and tries to catch the ribbon.",
+    "objects": [
+      "ribbon",
+      "catch",
+      "paws"
+    ],
+    "actions": [
+      "tries",
+      "jumps",
+      "kitten's",
+      "bed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "It is sitting on a white bedspread with a blue blanket and a wooden bed frame.",
+    "objects": [
+      "white",
+      "bedspread",
+      "wooden",
+      "blue",
+      "blanket"
+    ],
+    "actions": [
+      "bed",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "It is sitting on a white bedspread with a blue blanket and a wooden bed frame.",
+    "objects": [
+      "white",
+      "bedspread",
+      "wooden",
+      "blue",
+      "blanket"
+    ],
+    "actions": [
+      "bed",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "It is sitting on a white bedspread with a blue blanket and a wooden bed frame.",
+    "objects": [
+      "white",
+      "bedspread",
+      "wooden",
+      "blue",
+      "blanket"
+    ],
+    "actions": [
+      "bed",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "It is sitting on a white bedspread with a blue blanket and a wooden bed frame.",
+    "objects": [
+      "white",
+      "bedspread",
+      "wooden",
+      "blue",
+      "blanket"
+    ],
+    "actions": [
+      "bed",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "It is sitting on a white bedspread with a blue blanket and a wooden bed frame.",
+    "objects": [
+      "white",
+      "bedspread",
+      "wooden",
+      "blue",
+      "blanket"
+    ],
+    "actions": [
+      "bed",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "In the background, there is a white chair, a wooden dresser with a mirror, and a TV with a green cloth on it.",
+    "objects": [
+      "chair",
+      "white",
+      "mirror",
+      "wooden",
+      "green",
+      "cloth",
+      "dresser",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "In the background, there is a white chair, a wooden dresser with a mirror, and a TV with a green cloth on it.",
+    "objects": [
+      "chair",
+      "white",
+      "mirror",
+      "wooden",
+      "green",
+      "cloth",
+      "dresser",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "In the background, there is a white chair, a wooden dresser with a mirror, and a TV with a green cloth on it.",
+    "objects": [
+      "chair",
+      "white",
+      "mirror",
+      "wooden",
+      "green",
+      "cloth",
+      "dresser",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, there is a white chair, a wooden dresser with a mirror, and a TV with a green cloth on it.",
+    "objects": [
+      "chair",
+      "white",
+      "mirror",
+      "wooden",
+      "green",
+      "cloth",
+      "dresser",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, there is a white chair, a wooden dresser with a mirror, and a TV with a green cloth on it.",
+    "objects": [
+      "chair",
+      "white",
+      "mirror",
+      "wooden",
+      "green",
+      "cloth",
+      "dresser",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "A person in a blue hoodie is standing near the bed.",
+    "objects": [
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "standing",
+      "bed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "A person in a blue hoodie is standing near the bed.",
+    "objects": [
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "standing",
+      "bed"
+    ],
+    "segment_id": 6
+  }
+]

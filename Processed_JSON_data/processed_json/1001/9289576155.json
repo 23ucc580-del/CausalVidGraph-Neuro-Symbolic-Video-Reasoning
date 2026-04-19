@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a white cat and a brown cat wandering around in a parking lot.",
+    "objects": [
+      "white",
+      "lot",
+      "see",
+      "around",
+      "cat",
+      "brown"
+    ],
+    "actions": [
+      "parking",
+      "wandering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a white cat and a brown cat wandering around in a parking lot.",
+    "objects": [
+      "white",
+      "lot",
+      "see",
+      "around",
+      "cat",
+      "brown"
+    ],
+    "actions": [
+      "parking",
+      "wandering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a white cat and a brown cat wandering around in a parking lot.",
+    "objects": [
+      "white",
+      "lot",
+      "see",
+      "around",
+      "cat",
+      "brown"
+    ],
+    "actions": [
+      "parking",
+      "wandering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a white cat and a brown cat wandering around in a parking lot.",
+    "objects": [
+      "white",
+      "lot",
+      "see",
+      "around",
+      "cat",
+      "brown"
+    ],
+    "actions": [
+      "parking",
+      "wandering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The white cat is walking on the left side of the frame, while the brown cat is on the right.",
+    "objects": [
+      "white",
+      "while",
+      "cat",
+      "side",
+      "brown"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The white cat is walking on the left side of the frame, while the brown cat is on the right.",
+    "objects": [
+      "white",
+      "while",
+      "cat",
+      "side",
+      "brown"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The white cat is walking on the left side of the frame, while the brown cat is on the right.",
+    "objects": [
+      "white",
+      "while",
+      "cat",
+      "side",
+      "brown"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The white cat is walking on the left side of the frame, while the brown cat is on the right.",
+    "objects": [
+      "white",
+      "while",
+      "cat",
+      "side",
+      "brown"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The white cat is walking past a metal railing, and the brown cat is walking past a concrete wall.",
+    "objects": [
+      "wall",
+      "white",
+      "concrete",
+      "cat",
+      "past",
+      "brown",
+      "metal"
+    ],
+    "actions": [
+      "walking",
+      "railing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The white cat is walking past a metal railing, and the brown cat is walking past a concrete wall.",
+    "objects": [
+      "wall",
+      "white",
+      "concrete",
+      "cat",
+      "past",
+      "brown",
+      "metal"
+    ],
+    "actions": [
+      "walking",
+      "railing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The white cat is walking past a metal railing, and the brown cat is walking past a concrete wall.",
+    "objects": [
+      "wall",
+      "white",
+      "concrete",
+      "cat",
+      "past",
+      "brown",
+      "metal"
+    ],
+    "actions": [
+      "walking",
+      "railing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The white cat is walking past a metal railing, and the brown cat is walking past a concrete wall.",
+    "objects": [
+      "wall",
+      "white",
+      "concrete",
+      "cat",
+      "past",
+      "brown",
+      "metal"
+    ],
+    "actions": [
+      "walking",
+      "railing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The brown cat is also walking past a metal pole.",
+    "objects": [
+      "pole",
+      "cat",
+      "past",
+      "brown",
+      "metal"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The brown cat is also walking past a metal pole.",
+    "objects": [
+      "pole",
+      "cat",
+      "past",
+      "brown",
+      "metal"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The brown cat is also walking past a metal pole.",
+    "objects": [
+      "pole",
+      "cat",
+      "past",
+      "brown",
+      "metal"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The brown cat is also walking past a metal pole.",
+    "objects": [
+      "pole",
+      "cat",
+      "past",
+      "brown",
+      "metal"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Both cats are walking on the concrete, and there is a white cone and a red cone on the ground.",
+    "objects": [
+      "there",
+      "white",
+      "both",
+      "concrete",
+      "cats",
+      "ground",
+      "cone"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Both cats are walking on the concrete, and there is a white cone and a red cone on the ground.",
+    "objects": [
+      "there",
+      "white",
+      "both",
+      "concrete",
+      "cats",
+      "ground",
+      "cone"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Both cats are walking on the concrete, and there is a white cone and a red cone on the ground.",
+    "objects": [
+      "there",
+      "white",
+      "both",
+      "concrete",
+      "cats",
+      "ground",
+      "cone"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Both cats are walking on the concrete, and there is a white cone and a red cone on the ground.",
+    "objects": [
+      "there",
+      "white",
+      "both",
+      "concrete",
+      "cats",
+      "ground",
+      "cone"
+    ],
+    "actions": [
+      "walking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The cats appear to be curious and are looking around as they move.",
+    "objects": [
+      "appear",
+      "they",
+      "cats",
+      "move",
+      "around"
+    ],
+    "actions": [
+      "curious",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The cats appear to be curious and are looking around as they move.",
+    "objects": [
+      "appear",
+      "they",
+      "cats",
+      "move",
+      "around"
+    ],
+    "actions": [
+      "curious",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The cats appear to be curious and are looking around as they move.",
+    "objects": [
+      "appear",
+      "they",
+      "cats",
+      "move",
+      "around"
+    ],
+    "actions": [
+      "curious",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The cats appear to be curious and are looking around as they move.",
+    "objects": [
+      "appear",
+      "they",
+      "cats",
+      "move",
+      "around"
+    ],
+    "actions": [
+      "curious",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There is no one wearing a blue hoodie or holding any objects in the video.",
+    "objects": [
+      "one",
+      "there",
+      "blue",
+      "any",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "objects",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There is no one wearing a blue hoodie or holding any objects in the video.",
+    "objects": [
+      "one",
+      "there",
+      "blue",
+      "any",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "objects",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There is no one wearing a blue hoodie or holding any objects in the video.",
+    "objects": [
+      "one",
+      "there",
+      "blue",
+      "any",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "objects",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There is no one wearing a blue hoodie or holding any objects in the video.",
+    "objects": [
+      "one",
+      "there",
+      "blue",
+      "any",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "objects",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is a simple depiction of two cats exploring their surroundings in a parking lot.",
+    "objects": [
+      "their",
+      "two",
+      "lot",
+      "cats",
+      "depiction",
+      "simple"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "parking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is a simple depiction of two cats exploring their surroundings in a parking lot.",
+    "objects": [
+      "their",
+      "two",
+      "lot",
+      "cats",
+      "depiction",
+      "simple"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "parking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is a simple depiction of two cats exploring their surroundings in a parking lot.",
+    "objects": [
+      "their",
+      "two",
+      "lot",
+      "cats",
+      "depiction",
+      "simple"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "parking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is a simple depiction of two cats exploring their surroundings in a parking lot.",
+    "objects": [
+      "their",
+      "two",
+      "lot",
+      "cats",
+      "depiction",
+      "simple"
+    ],
+    "actions": [
+      "exploring",
+      "surroundings",
+      "parking"
+    ],
+    "segment_id": 7
+  }
+]

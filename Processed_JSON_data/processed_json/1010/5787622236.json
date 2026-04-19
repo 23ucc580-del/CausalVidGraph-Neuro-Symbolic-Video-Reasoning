@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a person walking around the room while holding a baby.",
+    "objects": [
+      "while",
+      "room",
+      "around",
+      "baby"
+    ],
+    "actions": [
+      "begins",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a person walking around the room while holding a baby.",
+    "objects": [
+      "while",
+      "room",
+      "around",
+      "baby"
+    ],
+    "actions": [
+      "begins",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The baby is wearing a light blue onesie and a pair of pink pants, and the person holding it is wearing a white shirt.",
+    "objects": [
+      "white",
+      "pink",
+      "blue",
+      "shirt",
+      "light",
+      "pair",
+      "baby",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The baby is wearing a light blue onesie and a pair of pink pants, and the person holding it is wearing a white shirt.",
+    "objects": [
+      "white",
+      "pink",
+      "blue",
+      "shirt",
+      "light",
+      "pair",
+      "baby",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The camera then shifts to a person playing with a dog on the floor, who is wearing a black harness.",
+    "objects": [
+      "black",
+      "then",
+      "who",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "shifts",
+      "playing",
+      "harness",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The camera then shifts to a person playing with a dog on the floor, who is wearing a black harness.",
+    "objects": [
+      "black",
+      "then",
+      "who",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "shifts",
+      "playing",
+      "harness",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog is black and white and appears to be a medium-sized breed.",
+    "objects": [
+      "black",
+      "dog",
+      "white"
+    ],
+    "actions": [
+      "breed",
+      "medium-sized"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog is black and white and appears to be a medium-sized breed.",
+    "objects": [
+      "black",
+      "dog",
+      "white"
+    ],
+    "actions": [
+      "breed",
+      "medium-sized"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The person playing with the dog is wearing a black shirt.",
+    "objects": [
+      "black",
+      "dog",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The person playing with the dog is wearing a black shirt.",
+    "objects": [
+      "black",
+      "dog",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene then shifts back to the baby, who is now sitting on the floor wearing the same light blue onesie and pink pants, and the person holding it is wearing a white shirt.",
+    "objects": [
+      "baby",
+      "white",
+      "pink",
+      "same",
+      "blue",
+      "shirt",
+      "then",
+      "who"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene then shifts back to the baby, who is now sitting on the floor wearing the same light blue onesie and pink pants, and the person holding it is wearing a white shirt.",
+    "objects": [
+      "baby",
+      "white",
+      "pink",
+      "same",
+      "blue",
+      "shirt",
+      "then",
+      "who"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then returns to the dog, who is wearing a black harness and sitting on the floor.",
+    "objects": [
+      "black",
+      "then",
+      "who",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "harness",
+      "returns"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The camera then returns to the dog, who is wearing a black harness and sitting on the floor.",
+    "objects": [
+      "black",
+      "then",
+      "who",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "harness",
+      "returns"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The person holding the dog is wearing a black shirt.",
+    "objects": [
+      "black",
+      "dog",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The person holding the dog is wearing a black shirt.",
+    "objects": [
+      "black",
+      "dog",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene shifts again to the baby, who is now standing on the floor wearing the same light blue onesie and pink pants, and the person holding it is wearing a white shirt.",
+    "objects": [
+      "baby",
+      "white",
+      "pink",
+      "same",
+      "blue",
+      "onesie",
+      "shirt",
+      "who"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene shifts again to the baby, who is now standing on the floor wearing the same light blue onesie and pink pants, and the person holding it is wearing a white shirt.",
+    "objects": [
+      "baby",
+      "white",
+      "pink",
+      "same",
+      "blue",
+      "onesie",
+      "shirt",
+      "who"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then returns to the dog, who is wearing a black harness and sitting on the floor.",
+    "objects": [
+      "black",
+      "then",
+      "who",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "harness",
+      "returns"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then returns to the dog, who is wearing a black harness and sitting on the floor.",
+    "objects": [
+      "black",
+      "then",
+      "who",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "harness",
+      "returns"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The person holding the dog is wearing a black shirt.",
+    "objects": [
+      "black",
+      "dog",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The person holding the dog is wearing a black shirt.",
+    "objects": [
+      "black",
+      "dog",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene ends with the baby sitting on the floor wearing the light blue onesie and pink pants, and the person holding it is wearing a white shirt.",
+    "objects": [
+      "baby",
+      "white",
+      "pink",
+      "blue",
+      "shirt",
+      "ends",
+      "light",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene ends with the baby sitting on the floor wearing the light blue onesie and pink pants, and the person holding it is wearing a white shirt.",
+    "objects": [
+      "baby",
+      "white",
+      "pink",
+      "blue",
+      "shirt",
+      "ends",
+      "light",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then shifts back to the dog, who is wearing a black harness and sitting on the floor.",
+    "objects": [
+      "black",
+      "then",
+      "who",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "harness",
+      "sitting"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then shifts back to the dog, who is wearing a black harness and sitting on the floor.",
+    "objects": [
+      "black",
+      "then",
+      "who",
+      "dog",
+      "floor"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "harness",
+      "sitting"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The person holding the dog is wearing a black shirt.",
+    "objects": [
+      "black",
+      "dog",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The person holding the dog is wearing a black shirt.",
+    "objects": [
+      "black",
+      "dog",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Overall, the video features a person holding a baby wearing a light blue onesie and pink pants, walking around the room, while a medium-sized black and white dog wearing a black harness plays with them on the floor.",
+    "objects": [
+      "white",
+      "pink",
+      "while",
+      "black",
+      "blue",
+      "around",
+      "light",
+      "dog"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "holding",
+      "medium-sized"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Overall, the video features a person holding a baby wearing a light blue onesie and pink pants, walking around the room, while a medium-sized black and white dog wearing a black harness plays with them on the floor.",
+    "objects": [
+      "white",
+      "pink",
+      "while",
+      "black",
+      "blue",
+      "around",
+      "light",
+      "dog"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "holding",
+      "medium-sized"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The person holding the dog is wearing a black shirt, and the baby is wearing a white shirt.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "dog",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The person holding the dog is wearing a black shirt, and the baby is wearing a white shirt.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "dog",
+      "baby"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

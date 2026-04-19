@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there is a group of four people gathered on a stage, playing musical instruments and singing.",
+    "objects": [
+      "musical",
+      "stage",
+      "people",
+      "four",
+      "there",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "singing",
+      "instruments",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there is a group of four people gathered on a stage, playing musical instruments and singing.",
+    "objects": [
+      "musical",
+      "stage",
+      "people",
+      "four",
+      "there",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "singing",
+      "instruments",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there is a group of four people gathered on a stage, playing musical instruments and singing.",
+    "objects": [
+      "musical",
+      "stage",
+      "people",
+      "four",
+      "there",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "singing",
+      "instruments",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there is a group of four people gathered on a stage, playing musical instruments and singing.",
+    "objects": [
+      "musical",
+      "stage",
+      "people",
+      "four",
+      "there",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "singing",
+      "instruments",
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "They are all dressed in casual attire, with the man wearing a blue shirt and blue jeans, the woman in a blue dress, the girl in a black dress, and the other woman in a gray dress.",
+    "objects": [
+      "blue",
+      "gray",
+      "man",
+      "casual",
+      "dress",
+      "other",
+      "shirt",
+      "all"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "They are all dressed in casual attire, with the man wearing a blue shirt and blue jeans, the woman in a blue dress, the girl in a black dress, and the other woman in a gray dress.",
+    "objects": [
+      "blue",
+      "gray",
+      "man",
+      "casual",
+      "dress",
+      "other",
+      "shirt",
+      "all"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are all dressed in casual attire, with the man wearing a blue shirt and blue jeans, the woman in a blue dress, the girl in a black dress, and the other woman in a gray dress.",
+    "objects": [
+      "blue",
+      "gray",
+      "man",
+      "casual",
+      "dress",
+      "other",
+      "shirt",
+      "all"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "They are all dressed in casual attire, with the man wearing a blue shirt and blue jeans, the woman in a blue dress, the girl in a black dress, and the other woman in a gray dress.",
+    "objects": [
+      "blue",
+      "gray",
+      "man",
+      "casual",
+      "dress",
+      "other",
+      "shirt",
+      "all"
+    ],
+    "actions": [
+      "jeans",
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman in the gray dress is playing the guitar, while the man is singing into a microphone and playing the guitar.",
+    "objects": [
+      "guitar",
+      "gray",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman in the gray dress is playing the guitar, while the man is singing into a microphone and playing the guitar.",
+    "objects": [
+      "guitar",
+      "gray",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman in the gray dress is playing the guitar, while the man is singing into a microphone and playing the guitar.",
+    "objects": [
+      "guitar",
+      "gray",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman in the gray dress is playing the guitar, while the man is singing into a microphone and playing the guitar.",
+    "objects": [
+      "guitar",
+      "gray",
+      "man",
+      "while",
+      "microphone",
+      "dress",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman in the black dress is singing, and the other woman is also singing into the microphone.",
+    "objects": [
+      "other",
+      "dress",
+      "black",
+      "microphone",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman in the black dress is singing, and the other woman is also singing into the microphone.",
+    "objects": [
+      "other",
+      "dress",
+      "black",
+      "microphone",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman in the black dress is singing, and the other woman is also singing into the microphone.",
+    "objects": [
+      "other",
+      "dress",
+      "black",
+      "microphone",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman in the black dress is singing, and the other woman is also singing into the microphone.",
+    "objects": [
+      "other",
+      "dress",
+      "black",
+      "microphone",
+      "into",
+      "woman"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man is holding a guitar, and the woman in the blue dress is holding a microphone.",
+    "objects": [
+      "blue",
+      "guitar",
+      "man",
+      "microphone",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man is holding a guitar, and the woman in the blue dress is holding a microphone.",
+    "objects": [
+      "blue",
+      "guitar",
+      "man",
+      "microphone",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is holding a guitar, and the woman in the blue dress is holding a microphone.",
+    "objects": [
+      "blue",
+      "guitar",
+      "man",
+      "microphone",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is holding a guitar, and the woman in the blue dress is holding a microphone.",
+    "objects": [
+      "blue",
+      "guitar",
+      "man",
+      "microphone",
+      "dress",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is wearing glasses and has gray hair.",
+    "objects": [
+      "gray",
+      "man",
+      "hair",
+      "has"
+    ],
+    "actions": [
+      "glasses",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is wearing glasses and has gray hair.",
+    "objects": [
+      "gray",
+      "man",
+      "hair",
+      "has"
+    ],
+    "actions": [
+      "glasses",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is wearing glasses and has gray hair.",
+    "objects": [
+      "gray",
+      "man",
+      "hair",
+      "has"
+    ],
+    "actions": [
+      "glasses",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is wearing glasses and has gray hair.",
+    "objects": [
+      "gray",
+      "man",
+      "hair",
+      "has"
+    ],
+    "actions": [
+      "glasses",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman in the blue dress is wearing a necklace and the other woman is wearing earrings.",
+    "objects": [
+      "blue",
+      "other",
+      "dress",
+      "necklace",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "earrings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman in the blue dress is wearing a necklace and the other woman is wearing earrings.",
+    "objects": [
+      "blue",
+      "other",
+      "dress",
+      "necklace",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "earrings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman in the blue dress is wearing a necklace and the other woman is wearing earrings.",
+    "objects": [
+      "blue",
+      "other",
+      "dress",
+      "necklace",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "earrings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman in the blue dress is wearing a necklace and the other woman is wearing earrings.",
+    "objects": [
+      "blue",
+      "other",
+      "dress",
+      "necklace",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "earrings"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man is playing the guitar with his left hand while singing into the microphone with his right hand.",
+    "objects": [
+      "guitar",
+      "hand",
+      "man",
+      "while",
+      "his",
+      "microphone",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man is playing the guitar with his left hand while singing into the microphone with his right hand.",
+    "objects": [
+      "guitar",
+      "hand",
+      "man",
+      "while",
+      "his",
+      "microphone",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man is playing the guitar with his left hand while singing into the microphone with his right hand.",
+    "objects": [
+      "guitar",
+      "hand",
+      "man",
+      "while",
+      "his",
+      "microphone",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man is playing the guitar with his left hand while singing into the microphone with his right hand.",
+    "objects": [
+      "guitar",
+      "hand",
+      "man",
+      "while",
+      "his",
+      "microphone",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "playing"
+    ],
+    "segment_id": 7
+  }
+]

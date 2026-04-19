@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people gathered on a parking lot, engaging in various activities.",
+    "objects": [
+      "lot",
+      "group",
+      "see",
+      "people",
+      "this"
+    ],
+    "actions": [
+      "engaging",
+      "activities",
+      "parking",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people gathered on a parking lot, engaging in various activities.",
+    "objects": [
+      "lot",
+      "group",
+      "see",
+      "people",
+      "this"
+    ],
+    "actions": [
+      "engaging",
+      "activities",
+      "parking",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people gathered on a parking lot, engaging in various activities.",
+    "objects": [
+      "lot",
+      "group",
+      "see",
+      "people",
+      "this"
+    ],
+    "actions": [
+      "engaging",
+      "activities",
+      "parking",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a group of people gathered on a parking lot, engaging in various activities.",
+    "objects": [
+      "lot",
+      "group",
+      "see",
+      "people",
+      "this"
+    ],
+    "actions": [
+      "engaging",
+      "activities",
+      "parking",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A man in a blue hoodie is seen walking, possibly heading towards the silver car that is parked nearby.",
+    "objects": [
+      "blue",
+      "nearby",
+      "man",
+      "that",
+      "possibly",
+      "hoodie",
+      "car",
+      "silver"
+    ],
+    "actions": [
+      "parked",
+      "towards",
+      "heading",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A man in a blue hoodie is seen walking, possibly heading towards the silver car that is parked nearby.",
+    "objects": [
+      "blue",
+      "nearby",
+      "man",
+      "that",
+      "possibly",
+      "hoodie",
+      "car",
+      "silver"
+    ],
+    "actions": [
+      "parked",
+      "towards",
+      "heading",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man in a blue hoodie is seen walking, possibly heading towards the silver car that is parked nearby.",
+    "objects": [
+      "blue",
+      "nearby",
+      "man",
+      "that",
+      "possibly",
+      "hoodie",
+      "car",
+      "silver"
+    ],
+    "actions": [
+      "parked",
+      "towards",
+      "heading",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A man in a blue hoodie is seen walking, possibly heading towards the silver car that is parked nearby.",
+    "objects": [
+      "blue",
+      "nearby",
+      "man",
+      "that",
+      "possibly",
+      "hoodie",
+      "car",
+      "silver"
+    ],
+    "actions": [
+      "parked",
+      "towards",
+      "heading",
+      "walking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another man is standing next to him, wearing a black jacket and holding a book.",
+    "objects": [
+      "jacket",
+      "him",
+      "black",
+      "book",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another man is standing next to him, wearing a black jacket and holding a book.",
+    "objects": [
+      "jacket",
+      "him",
+      "black",
+      "book",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another man is standing next to him, wearing a black jacket and holding a book.",
+    "objects": [
+      "jacket",
+      "him",
+      "black",
+      "book",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another man is standing next to him, wearing a black jacket and holding a book.",
+    "objects": [
+      "jacket",
+      "him",
+      "black",
+      "book",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Nearby, a man in a white shirt is walking, possibly going in the opposite direction, towards a blue car parked on the other side of the lot.",
+    "objects": [
+      "shirt",
+      "nearby",
+      "blue",
+      "side",
+      "white",
+      "man",
+      "lot",
+      "direction"
+    ],
+    "actions": [
+      "parked",
+      "going",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Nearby, a man in a white shirt is walking, possibly going in the opposite direction, towards a blue car parked on the other side of the lot.",
+    "objects": [
+      "shirt",
+      "nearby",
+      "blue",
+      "side",
+      "white",
+      "man",
+      "lot",
+      "direction"
+    ],
+    "actions": [
+      "parked",
+      "going",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Nearby, a man in a white shirt is walking, possibly going in the opposite direction, towards a blue car parked on the other side of the lot.",
+    "objects": [
+      "shirt",
+      "nearby",
+      "blue",
+      "side",
+      "white",
+      "man",
+      "lot",
+      "direction"
+    ],
+    "actions": [
+      "parked",
+      "going",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Nearby, a man in a white shirt is walking, possibly going in the opposite direction, towards a blue car parked on the other side of the lot.",
+    "objects": [
+      "shirt",
+      "nearby",
+      "blue",
+      "side",
+      "white",
+      "man",
+      "lot",
+      "direction"
+    ],
+    "actions": [
+      "parked",
+      "going",
+      "walking",
+      "towards"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another man in a brown jacket is standing on the far side of the lot, holding a black jacket.",
+    "objects": [
+      "jacket",
+      "side",
+      "brown",
+      "man",
+      "lot",
+      "black",
+      "far"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Another man in a brown jacket is standing on the far side of the lot, holding a black jacket.",
+    "objects": [
+      "jacket",
+      "side",
+      "brown",
+      "man",
+      "lot",
+      "black",
+      "far"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Another man in a brown jacket is standing on the far side of the lot, holding a black jacket.",
+    "objects": [
+      "jacket",
+      "side",
+      "brown",
+      "man",
+      "lot",
+      "black",
+      "far"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Another man in a brown jacket is standing on the far side of the lot, holding a black jacket.",
+    "objects": [
+      "jacket",
+      "side",
+      "brown",
+      "man",
+      "lot",
+      "black",
+      "far"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a white shirt is also standing, looking off into the distance.",
+    "objects": [
+      "shirt",
+      "distance",
+      "off",
+      "white",
+      "man",
+      "into"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a white shirt is also standing, looking off into the distance.",
+    "objects": [
+      "shirt",
+      "distance",
+      "off",
+      "white",
+      "man",
+      "into"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a white shirt is also standing, looking off into the distance.",
+    "objects": [
+      "shirt",
+      "distance",
+      "off",
+      "white",
+      "man",
+      "into"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a white shirt is also standing, looking off into the distance.",
+    "objects": [
+      "shirt",
+      "distance",
+      "off",
+      "white",
+      "man",
+      "into"
+    ],
+    "actions": [
+      "standing",
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a blue hoodie is walking towards the silver car, while a man in a white shirt is walking away from it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "white",
+      "from",
+      "away",
+      "man",
+      "hoodie",
+      "car"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a blue hoodie is walking towards the silver car, while a man in a white shirt is walking away from it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "white",
+      "from",
+      "away",
+      "man",
+      "hoodie",
+      "car"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a blue hoodie is walking towards the silver car, while a man in a white shirt is walking away from it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "white",
+      "from",
+      "away",
+      "man",
+      "hoodie",
+      "car"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a blue hoodie is walking towards the silver car, while a man in a white shirt is walking away from it.",
+    "objects": [
+      "shirt",
+      "blue",
+      "white",
+      "from",
+      "away",
+      "man",
+      "hoodie",
+      "car"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "Additionally, a man in a green shirt is standing in the background, observing the scene.",
+    "objects": [
+      "green",
+      "additionally",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "Additionally, a man in a green shirt is standing in the background, observing the scene.",
+    "objects": [
+      "green",
+      "additionally",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "Additionally, a man in a green shirt is standing in the background, observing the scene.",
+    "objects": [
+      "green",
+      "additionally",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "Additionally, a man in a green shirt is standing in the background, observing the scene.",
+    "objects": [
+      "green",
+      "additionally",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 7
+  }
+]

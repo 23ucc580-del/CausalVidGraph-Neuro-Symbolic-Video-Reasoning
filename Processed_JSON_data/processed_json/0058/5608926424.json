@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a woman wearing a black cap and a black shirt, holding a baby goat.",
+    "objects": [
+      "woman",
+      "baby",
+      "shirt",
+      "goat",
+      "cap",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a woman wearing a black cap and a black shirt, holding a baby goat.",
+    "objects": [
+      "woman",
+      "baby",
+      "shirt",
+      "goat",
+      "cap",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video begins with a woman wearing a black cap and a black shirt, holding a baby goat.",
+    "objects": [
+      "woman",
+      "baby",
+      "shirt",
+      "goat",
+      "cap",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "She is smiling and appears to be enjoying the moment.",
+    "objects": [
+      "she",
+      "moment"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "She is smiling and appears to be enjoying the moment.",
+    "objects": [
+      "she",
+      "moment"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is smiling and appears to be enjoying the moment.",
+    "objects": [
+      "she",
+      "moment"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby goat is white and black and seems to be calmly standing on her arms.",
+    "objects": [
+      "white",
+      "calmly",
+      "arms",
+      "baby",
+      "her",
+      "goat",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby goat is white and black and seems to be calmly standing on her arms.",
+    "objects": [
+      "white",
+      "calmly",
+      "arms",
+      "baby",
+      "her",
+      "goat",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby goat is white and black and seems to be calmly standing on her arms.",
+    "objects": [
+      "white",
+      "calmly",
+      "arms",
+      "baby",
+      "her",
+      "goat",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The background is a fenced-in area with other goats in the background, indicating that this is a goat farm.",
+    "objects": [
+      "this",
+      "farm",
+      "other",
+      "area",
+      "goat",
+      "that"
+    ],
+    "actions": [
+      "indicating",
+      "goats"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The background is a fenced-in area with other goats in the background, indicating that this is a goat farm.",
+    "objects": [
+      "this",
+      "farm",
+      "other",
+      "area",
+      "goat",
+      "that"
+    ],
+    "actions": [
+      "indicating",
+      "goats"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The background is a fenced-in area with other goats in the background, indicating that this is a goat farm.",
+    "objects": [
+      "this",
+      "farm",
+      "other",
+      "area",
+      "goat",
+      "that"
+    ],
+    "actions": [
+      "indicating",
+      "goats"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "In the next scene, the woman is holding a larger goat, which is black and white, and she is petting its head, looking happy and content.",
+    "objects": [
+      "which",
+      "woman",
+      "white",
+      "happy",
+      "she",
+      "larger",
+      "content",
+      "head"
+    ],
+    "actions": [
+      "holding",
+      "looking",
+      "petting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "In the next scene, the woman is holding a larger goat, which is black and white, and she is petting its head, looking happy and content.",
+    "objects": [
+      "which",
+      "woman",
+      "white",
+      "happy",
+      "she",
+      "larger",
+      "content",
+      "head"
+    ],
+    "actions": [
+      "holding",
+      "looking",
+      "petting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "In the next scene, the woman is holding a larger goat, which is black and white, and she is petting its head, looking happy and content.",
+    "objects": [
+      "which",
+      "woman",
+      "white",
+      "happy",
+      "she",
+      "larger",
+      "content",
+      "head"
+    ],
+    "actions": [
+      "holding",
+      "looking",
+      "petting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The larger goat is standing calmly on her legs.",
+    "objects": [
+      "legs",
+      "larger",
+      "calmly",
+      "her",
+      "goat"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The larger goat is standing calmly on her legs.",
+    "objects": [
+      "legs",
+      "larger",
+      "calmly",
+      "her",
+      "goat"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The larger goat is standing calmly on her legs.",
+    "objects": [
+      "legs",
+      "larger",
+      "calmly",
+      "her",
+      "goat"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman is wearing a black shirt and holding the goat by the neck.",
+    "objects": [
+      "woman",
+      "neck",
+      "shirt",
+      "goat",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman is wearing a black shirt and holding the goat by the neck.",
+    "objects": [
+      "woman",
+      "neck",
+      "shirt",
+      "goat",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman is wearing a black shirt and holding the goat by the neck.",
+    "objects": [
+      "woman",
+      "neck",
+      "shirt",
+      "goat",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "In the final scene, the woman is still wearing the same black shirt and holding another baby goat, which is black and white.",
+    "objects": [
+      "still",
+      "which",
+      "woman",
+      "white",
+      "same",
+      "final",
+      "baby",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "In the final scene, the woman is still wearing the same black shirt and holding another baby goat, which is black and white.",
+    "objects": [
+      "still",
+      "which",
+      "woman",
+      "white",
+      "same",
+      "final",
+      "baby",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "In the final scene, the woman is still wearing the same black shirt and holding another baby goat, which is black and white.",
+    "objects": [
+      "still",
+      "which",
+      "woman",
+      "white",
+      "same",
+      "final",
+      "baby",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "This goat is being playful and chewing on the woman's hat.",
+    "objects": [
+      "hat",
+      "this",
+      "playful",
+      "goat"
+    ],
+    "actions": [
+      "woman's",
+      "being",
+      "chewing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "This goat is being playful and chewing on the woman's hat.",
+    "objects": [
+      "hat",
+      "this",
+      "playful",
+      "goat"
+    ],
+    "actions": [
+      "woman's",
+      "being",
+      "chewing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "This goat is being playful and chewing on the woman's hat.",
+    "objects": [
+      "hat",
+      "this",
+      "playful",
+      "goat"
+    ],
+    "actions": [
+      "woman's",
+      "being",
+      "chewing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "She is also wearing a black cap and seems to be amused by the interaction.",
+    "objects": [
+      "she",
+      "interaction",
+      "cap",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "amused",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "She is also wearing a black cap and seems to be amused by the interaction.",
+    "objects": [
+      "she",
+      "interaction",
+      "cap",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "amused",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "She is also wearing a black cap and seems to be amused by the interaction.",
+    "objects": [
+      "she",
+      "interaction",
+      "cap",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "amused",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The goat is on her legs, and the fenced-in area with other goats in the background is still visible.",
+    "objects": [
+      "still",
+      "legs",
+      "other",
+      "area",
+      "her",
+      "goat"
+    ],
+    "actions": [
+      "goats"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The goat is on her legs, and the fenced-in area with other goats in the background is still visible.",
+    "objects": [
+      "still",
+      "legs",
+      "other",
+      "area",
+      "her",
+      "goat"
+    ],
+    "actions": [
+      "goats"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young boy in a red jacket and khaki pants is seen standing near a fence, looking at a zebra with a black and white striped pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "khaki",
+      "fence",
+      "young",
+      "jacket",
+      "boy",
+      "zebra"
+    ],
+    "actions": [
+      "striped",
+      "pants",
+      "red",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young boy in a red jacket and khaki pants is seen standing near a fence, looking at a zebra with a black and white striped pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "khaki",
+      "fence",
+      "young",
+      "jacket",
+      "boy",
+      "zebra"
+    ],
+    "actions": [
+      "striped",
+      "pants",
+      "red",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young boy in a red jacket and khaki pants is seen standing near a fence, looking at a zebra with a black and white striped pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "khaki",
+      "fence",
+      "young",
+      "jacket",
+      "boy",
+      "zebra"
+    ],
+    "actions": [
+      "striped",
+      "pants",
+      "red",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a young boy in a red jacket and khaki pants is seen standing near a fence, looking at a zebra with a black and white striped pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "khaki",
+      "fence",
+      "young",
+      "jacket",
+      "boy",
+      "zebra"
+    ],
+    "actions": [
+      "striped",
+      "pants",
+      "red",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The boy is holding onto the fence, and his face is lit up with a smile.",
+    "objects": [
+      "lit",
+      "onto",
+      "face",
+      "smile",
+      "fence",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The boy is holding onto the fence, and his face is lit up with a smile.",
+    "objects": [
+      "lit",
+      "onto",
+      "face",
+      "smile",
+      "fence",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The boy is holding onto the fence, and his face is lit up with a smile.",
+    "objects": [
+      "lit",
+      "onto",
+      "face",
+      "smile",
+      "fence",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The boy is holding onto the fence, and his face is lit up with a smile.",
+    "objects": [
+      "lit",
+      "onto",
+      "face",
+      "smile",
+      "fence",
+      "boy",
+      "his"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Behind him, an adult is holding a child in a stroller and walking away.",
+    "objects": [
+      "behind",
+      "adult",
+      "stroller",
+      "away",
+      "child",
+      "him"
+    ],
+    "actions": [
+      "walking",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Behind him, an adult is holding a child in a stroller and walking away.",
+    "objects": [
+      "behind",
+      "adult",
+      "stroller",
+      "away",
+      "child",
+      "him"
+    ],
+    "actions": [
+      "walking",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Behind him, an adult is holding a child in a stroller and walking away.",
+    "objects": [
+      "behind",
+      "adult",
+      "stroller",
+      "away",
+      "child",
+      "him"
+    ],
+    "actions": [
+      "walking",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Behind him, an adult is holding a child in a stroller and walking away.",
+    "objects": [
+      "behind",
+      "adult",
+      "stroller",
+      "away",
+      "child",
+      "him"
+    ],
+    "actions": [
+      "walking",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The zebra is grazing on the ground, and another adult is standing next to it, also walking away.",
+    "objects": [
+      "ground",
+      "adult",
+      "away",
+      "zebra"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "grazing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The zebra is grazing on the ground, and another adult is standing next to it, also walking away.",
+    "objects": [
+      "ground",
+      "adult",
+      "away",
+      "zebra"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "grazing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The zebra is grazing on the ground, and another adult is standing next to it, also walking away.",
+    "objects": [
+      "ground",
+      "adult",
+      "away",
+      "zebra"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "grazing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The zebra is grazing on the ground, and another adult is standing next to it, also walking away.",
+    "objects": [
+      "ground",
+      "adult",
+      "away",
+      "zebra"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "grazing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy is wearing a red jacket and appears to be in a happy mood, while the adults are dressed casually.",
+    "objects": [
+      "casually",
+      "happy",
+      "mood",
+      "while",
+      "jacket",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "adults",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy is wearing a red jacket and appears to be in a happy mood, while the adults are dressed casually.",
+    "objects": [
+      "casually",
+      "happy",
+      "mood",
+      "while",
+      "jacket",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "adults",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy is wearing a red jacket and appears to be in a happy mood, while the adults are dressed casually.",
+    "objects": [
+      "casually",
+      "happy",
+      "mood",
+      "while",
+      "jacket",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "adults",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy is wearing a red jacket and appears to be in a happy mood, while the adults are dressed casually.",
+    "objects": [
+      "casually",
+      "happy",
+      "mood",
+      "while",
+      "jacket",
+      "boy"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "adults",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The zebra is grazing calmly, and the adults are in a relaxed state.",
+    "objects": [
+      "state",
+      "calmly",
+      "zebra"
+    ],
+    "actions": [
+      "relaxed",
+      "adults",
+      "grazing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The zebra is grazing calmly, and the adults are in a relaxed state.",
+    "objects": [
+      "state",
+      "calmly",
+      "zebra"
+    ],
+    "actions": [
+      "relaxed",
+      "adults",
+      "grazing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The zebra is grazing calmly, and the adults are in a relaxed state.",
+    "objects": [
+      "state",
+      "calmly",
+      "zebra"
+    ],
+    "actions": [
+      "relaxed",
+      "adults",
+      "grazing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The zebra is grazing calmly, and the adults are in a relaxed state.",
+    "objects": [
+      "state",
+      "calmly",
+      "zebra"
+    ],
+    "actions": [
+      "relaxed",
+      "adults",
+      "grazing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The setting seems to be a zoo or wildlife park, with the animals in enclosures and the visitors observing from a safe distance.",
+    "objects": [
+      "wildlife",
+      "park",
+      "distance",
+      "zoo",
+      "from",
+      "safe"
+    ],
+    "actions": [
+      "seems",
+      "observing",
+      "animals",
+      "visitors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The setting seems to be a zoo or wildlife park, with the animals in enclosures and the visitors observing from a safe distance.",
+    "objects": [
+      "wildlife",
+      "park",
+      "distance",
+      "zoo",
+      "from",
+      "safe"
+    ],
+    "actions": [
+      "seems",
+      "observing",
+      "animals",
+      "visitors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The setting seems to be a zoo or wildlife park, with the animals in enclosures and the visitors observing from a safe distance.",
+    "objects": [
+      "wildlife",
+      "park",
+      "distance",
+      "zoo",
+      "from",
+      "safe"
+    ],
+    "actions": [
+      "seems",
+      "observing",
+      "animals",
+      "visitors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The setting seems to be a zoo or wildlife park, with the animals in enclosures and the visitors observing from a safe distance.",
+    "objects": [
+      "wildlife",
+      "park",
+      "distance",
+      "zoo",
+      "from",
+      "safe"
+    ],
+    "actions": [
+      "seems",
+      "observing",
+      "animals",
+      "visitors"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The boy's face reflects joy and curiosity, while the adults' expressions are serene and unhurried.",
+    "objects": [
+      "curiosity",
+      "serene",
+      "joy",
+      "face",
+      "while"
+    ],
+    "actions": [
+      "expressions",
+      "unhurried",
+      "reflects",
+      "boy's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The boy's face reflects joy and curiosity, while the adults' expressions are serene and unhurried.",
+    "objects": [
+      "curiosity",
+      "serene",
+      "joy",
+      "face",
+      "while"
+    ],
+    "actions": [
+      "expressions",
+      "unhurried",
+      "reflects",
+      "boy's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The boy's face reflects joy and curiosity, while the adults' expressions are serene and unhurried.",
+    "objects": [
+      "curiosity",
+      "serene",
+      "joy",
+      "face",
+      "while"
+    ],
+    "actions": [
+      "expressions",
+      "unhurried",
+      "reflects",
+      "boy's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The boy's face reflects joy and curiosity, while the adults' expressions are serene and unhurried.",
+    "objects": [
+      "curiosity",
+      "serene",
+      "joy",
+      "face",
+      "while"
+    ],
+    "actions": [
+      "expressions",
+      "unhurried",
+      "reflects",
+      "boy's"
+    ],
+    "segment_id": 7
+  }
+]

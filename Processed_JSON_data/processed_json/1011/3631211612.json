@@ -1,0 +1,504 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a group of people gathered under a tent, with balloons floating above them.",
+    "objects": [
+      "tent",
+      "people",
+      "above",
+      "them",
+      "under",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "floating",
+      "balloons"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a group of people gathered under a tent, with balloons floating above them.",
+    "objects": [
+      "tent",
+      "people",
+      "above",
+      "them",
+      "under",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "floating",
+      "balloons"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "They seem to be at a carnival or outdoor event, as suggested by the festive atmosphere and the presence of balloons.",
+    "objects": [
+      "they",
+      "event",
+      "presence",
+      "seem",
+      "carnival",
+      "outdoor",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "suggested",
+      "balloons"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "They seem to be at a carnival or outdoor event, as suggested by the festive atmosphere and the presence of balloons.",
+    "objects": [
+      "they",
+      "event",
+      "presence",
+      "seem",
+      "carnival",
+      "outdoor",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "suggested",
+      "balloons"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene is bustling with activity, as the individuals are engaged in various activities.",
+    "objects": [
+      "activity"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "bustling",
+      "individuals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene is bustling with activity, as the individuals are engaged in various activities.",
+    "objects": [
+      "activity"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "bustling",
+      "individuals"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "- Two men are standing, one wearing a blue shirt and the other in a yellow shirt.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "men",
+      "blue",
+      "yellow",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "- Two men are standing, one wearing a blue shirt and the other in a yellow shirt.",
+    "objects": [
+      "one",
+      "other",
+      "two",
+      "men",
+      "blue",
+      "yellow",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "They are conversing with each other.",
+    "objects": [
+      "they",
+      "other",
+      "each"
+    ],
+    "actions": [
+      "conversing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "They are conversing with each other.",
+    "objects": [
+      "they",
+      "other",
+      "each"
+    ],
+    "actions": [
+      "conversing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "- A man in a black hat is also standing and looking at his phone.",
+    "objects": [
+      "black",
+      "phone",
+      "hat",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "- A man in a black hat is also standing and looking at his phone.",
+    "objects": [
+      "black",
+      "phone",
+      "hat",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "- A woman in a yellow shirt is talking on her phone.",
+    "objects": [
+      "woman",
+      "yellow",
+      "shirt",
+      "phone",
+      "her"
+    ],
+    "actions": [
+      "talking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "- A woman in a yellow shirt is talking on her phone.",
+    "objects": [
+      "woman",
+      "yellow",
+      "shirt",
+      "phone",
+      "her"
+    ],
+    "actions": [
+      "talking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "- A young boy in a white shirt is looking up at a balloon.",
+    "objects": [
+      "boy",
+      "white",
+      "shirt",
+      "balloon",
+      "young"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "- A young boy in a white shirt is looking up at a balloon.",
+    "objects": [
+      "boy",
+      "white",
+      "shirt",
+      "balloon",
+      "young"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "- A man in a blue shirt is holding a balloon, presumably preparing to release it.",
+    "objects": [
+      "release",
+      "presumably",
+      "blue",
+      "shirt",
+      "balloon",
+      "man"
+    ],
+    "actions": [
+      "preparing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "- A man in a blue shirt is holding a balloon, presumably preparing to release it.",
+    "objects": [
+      "release",
+      "presumably",
+      "blue",
+      "shirt",
+      "balloon",
+      "man"
+    ],
+    "actions": [
+      "preparing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "- Another man in a yellow shirt is holding a blue balloon.",
+    "objects": [
+      "blue",
+      "yellow",
+      "shirt",
+      "balloon",
+      "man"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "- Another man in a yellow shirt is holding a blue balloon.",
+    "objects": [
+      "blue",
+      "yellow",
+      "shirt",
+      "balloon",
+      "man"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "- A young boy in a red shirt is looking up at the balloons.",
+    "objects": [
+      "young",
+      "boy",
+      "shirt"
+    ],
+    "actions": [
+      "looking",
+      "red",
+      "balloons"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "- A young boy in a red shirt is looking up at the balloons.",
+    "objects": [
+      "young",
+      "boy",
+      "shirt"
+    ],
+    "actions": [
+      "looking",
+      "red",
+      "balloons"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "- A man in a blue shirt and white hat is standing and watching the balloons.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "balloons"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "- A man in a blue shirt and white hat is standing and watching the balloons.",
+    "objects": [
+      "white",
+      "blue",
+      "shirt",
+      "hat",
+      "man"
+    ],
+    "actions": [
+      "watching",
+      "standing",
+      "balloons"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "- A woman in a yellow shirt is standing and smiling.",
+    "objects": [
+      "yellow",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "- A woman in a yellow shirt is standing and smiling.",
+    "objects": [
+      "yellow",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "- A man in a black hat is standing and looking up at the balloons.",
+    "objects": [
+      "man",
+      "hat",
+      "black"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "balloons"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "- A man in a black hat is standing and looking up at the balloons.",
+    "objects": [
+      "man",
+      "hat",
+      "black"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "balloons"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "- A woman in a pink shirt is standing and looking at her phone.",
+    "objects": [
+      "pink",
+      "woman",
+      "shirt",
+      "phone",
+      "her"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "- A woman in a pink shirt is standing and looking at her phone.",
+    "objects": [
+      "pink",
+      "woman",
+      "shirt",
+      "phone",
+      "her"
+    ],
+    "actions": [
+      "looking",
+      "standing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "- A man in a black shirt is standing and smiling.",
+    "objects": [
+      "shirt",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "- A man in a black shirt is standing and smiling.",
+    "objects": [
+      "shirt",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 15
+  }
+]

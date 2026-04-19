@@ -1,0 +1,569 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young child is seen sitting in a high chair at a dining table, wearing a colorful bib and a bib with a green lid.",
+    "objects": [
+      "colorful",
+      "high",
+      "bib",
+      "green",
+      "young",
+      "child",
+      "table",
+      "lid"
+    ],
+    "actions": [
+      "dining",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young child is seen sitting in a high chair at a dining table, wearing a colorful bib and a bib with a green lid.",
+    "objects": [
+      "colorful",
+      "high",
+      "bib",
+      "green",
+      "young",
+      "child",
+      "table",
+      "lid"
+    ],
+    "actions": [
+      "dining",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young child is seen sitting in a high chair at a dining table, wearing a colorful bib and a bib with a green lid.",
+    "objects": [
+      "colorful",
+      "high",
+      "bib",
+      "green",
+      "young",
+      "child",
+      "table",
+      "lid"
+    ],
+    "actions": [
+      "dining",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a young child is seen sitting in a high chair at a dining table, wearing a colorful bib and a bib with a green lid.",
+    "objects": [
+      "colorful",
+      "high",
+      "bib",
+      "green",
+      "young",
+      "child",
+      "table",
+      "lid"
+    ],
+    "actions": [
+      "dining",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a young child is seen sitting in a high chair at a dining table, wearing a colorful bib and a bib with a green lid.",
+    "objects": [
+      "colorful",
+      "high",
+      "bib",
+      "green",
+      "young",
+      "child",
+      "table",
+      "lid"
+    ],
+    "actions": [
+      "dining",
+      "sitting",
+      "wearing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is actively eating a meal, with a hand holding a spoon and feeding the child a bite of food.",
+    "objects": [
+      "hand",
+      "spoon",
+      "meal",
+      "child",
+      "food",
+      "actively",
+      "bite"
+    ],
+    "actions": [
+      "eating",
+      "holding",
+      "feeding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child is actively eating a meal, with a hand holding a spoon and feeding the child a bite of food.",
+    "objects": [
+      "hand",
+      "spoon",
+      "meal",
+      "child",
+      "food",
+      "actively",
+      "bite"
+    ],
+    "actions": [
+      "eating",
+      "holding",
+      "feeding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child is actively eating a meal, with a hand holding a spoon and feeding the child a bite of food.",
+    "objects": [
+      "hand",
+      "spoon",
+      "meal",
+      "child",
+      "food",
+      "actively",
+      "bite"
+    ],
+    "actions": [
+      "eating",
+      "holding",
+      "feeding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The child is actively eating a meal, with a hand holding a spoon and feeding the child a bite of food.",
+    "objects": [
+      "hand",
+      "spoon",
+      "meal",
+      "child",
+      "food",
+      "actively",
+      "bite"
+    ],
+    "actions": [
+      "eating",
+      "holding",
+      "feeding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The child is actively eating a meal, with a hand holding a spoon and feeding the child a bite of food.",
+    "objects": [
+      "hand",
+      "spoon",
+      "meal",
+      "child",
+      "food",
+      "actively",
+      "bite"
+    ],
+    "actions": [
+      "eating",
+      "holding",
+      "feeding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The child is also holding a green lid with one hand, possibly to feed themselves.",
+    "objects": [
+      "hand",
+      "green",
+      "child",
+      "one",
+      "lid",
+      "possibly"
+    ],
+    "actions": [
+      "themselves",
+      "holding",
+      "feed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The child is also holding a green lid with one hand, possibly to feed themselves.",
+    "objects": [
+      "hand",
+      "green",
+      "child",
+      "one",
+      "lid",
+      "possibly"
+    ],
+    "actions": [
+      "themselves",
+      "holding",
+      "feed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The child is also holding a green lid with one hand, possibly to feed themselves.",
+    "objects": [
+      "hand",
+      "green",
+      "child",
+      "one",
+      "lid",
+      "possibly"
+    ],
+    "actions": [
+      "themselves",
+      "holding",
+      "feed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The child is also holding a green lid with one hand, possibly to feed themselves.",
+    "objects": [
+      "hand",
+      "green",
+      "child",
+      "one",
+      "lid",
+      "possibly"
+    ],
+    "actions": [
+      "themselves",
+      "holding",
+      "feed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The child is also holding a green lid with one hand, possibly to feed themselves.",
+    "objects": [
+      "hand",
+      "green",
+      "child",
+      "one",
+      "lid",
+      "possibly"
+    ],
+    "actions": [
+      "themselves",
+      "holding",
+      "feed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The child is seen laughing and smiling while enjoying the meal.",
+    "objects": [
+      "while",
+      "meal",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "laughing",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The child is seen laughing and smiling while enjoying the meal.",
+    "objects": [
+      "while",
+      "meal",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "laughing",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The child is seen laughing and smiling while enjoying the meal.",
+    "objects": [
+      "while",
+      "meal",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "laughing",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The child is seen laughing and smiling while enjoying the meal.",
+    "objects": [
+      "while",
+      "meal",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "laughing",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The child is seen laughing and smiling while enjoying the meal.",
+    "objects": [
+      "while",
+      "meal",
+      "child"
+    ],
+    "actions": [
+      "smiling",
+      "laughing",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The adults at the table are wearing casual clothes, including a blue hoodie and a pink hoodie.",
+    "objects": [
+      "blue",
+      "pink",
+      "casual",
+      "hoodie",
+      "table"
+    ],
+    "actions": [
+      "adults",
+      "wearing",
+      "clothes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The adults at the table are wearing casual clothes, including a blue hoodie and a pink hoodie.",
+    "objects": [
+      "blue",
+      "pink",
+      "casual",
+      "hoodie",
+      "table"
+    ],
+    "actions": [
+      "adults",
+      "wearing",
+      "clothes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The adults at the table are wearing casual clothes, including a blue hoodie and a pink hoodie.",
+    "objects": [
+      "blue",
+      "pink",
+      "casual",
+      "hoodie",
+      "table"
+    ],
+    "actions": [
+      "adults",
+      "wearing",
+      "clothes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The adults at the table are wearing casual clothes, including a blue hoodie and a pink hoodie.",
+    "objects": [
+      "blue",
+      "pink",
+      "casual",
+      "hoodie",
+      "table"
+    ],
+    "actions": [
+      "adults",
+      "wearing",
+      "clothes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The adults at the table are wearing casual clothes, including a blue hoodie and a pink hoodie.",
+    "objects": [
+      "blue",
+      "pink",
+      "casual",
+      "hoodie",
+      "table"
+    ],
+    "actions": [
+      "adults",
+      "wearing",
+      "clothes"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The child is also seen putting the lid on their head, perhaps for fun or to imitate the adults.",
+    "objects": [
+      "imitate",
+      "child",
+      "fun",
+      "their",
+      "lid",
+      "head"
+    ],
+    "actions": [
+      "putting",
+      "adults",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The child is also seen putting the lid on their head, perhaps for fun or to imitate the adults.",
+    "objects": [
+      "imitate",
+      "child",
+      "fun",
+      "their",
+      "lid",
+      "head"
+    ],
+    "actions": [
+      "putting",
+      "adults",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The child is also seen putting the lid on their head, perhaps for fun or to imitate the adults.",
+    "objects": [
+      "imitate",
+      "child",
+      "fun",
+      "their",
+      "lid",
+      "head"
+    ],
+    "actions": [
+      "putting",
+      "adults",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The child is also seen putting the lid on their head, perhaps for fun or to imitate the adults.",
+    "objects": [
+      "imitate",
+      "child",
+      "fun",
+      "their",
+      "lid",
+      "head"
+    ],
+    "actions": [
+      "putting",
+      "adults",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The child is also seen putting the lid on their head, perhaps for fun or to imitate the adults.",
+    "objects": [
+      "imitate",
+      "child",
+      "fun",
+      "their",
+      "lid",
+      "head"
+    ],
+    "actions": [
+      "putting",
+      "adults",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene appears to be set in a home environment with wooden furniture and a dining table.",
+    "objects": [
+      "wooden",
+      "home",
+      "set",
+      "furniture",
+      "table",
+      "environment"
+    ],
+    "actions": [
+      "dining"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene appears to be set in a home environment with wooden furniture and a dining table.",
+    "objects": [
+      "wooden",
+      "home",
+      "set",
+      "furniture",
+      "table",
+      "environment"
+    ],
+    "actions": [
+      "dining"
+    ],
+    "segment_id": 6
+  }
+]

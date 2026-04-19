@@ -1,0 +1,482 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are several sailboats floating on a body of water.",
+    "objects": [
+      "body",
+      "there",
+      "water",
+      "several"
+    ],
+    "actions": [
+      "sailboats",
+      "floating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are several sailboats floating on a body of water.",
+    "objects": [
+      "body",
+      "there",
+      "water",
+      "several"
+    ],
+    "actions": [
+      "sailboats",
+      "floating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are several sailboats floating on a body of water.",
+    "objects": [
+      "body",
+      "there",
+      "water",
+      "several"
+    ],
+    "actions": [
+      "sailboats",
+      "floating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there are several sailboats floating on a body of water.",
+    "objects": [
+      "body",
+      "there",
+      "water",
+      "several"
+    ],
+    "actions": [
+      "sailboats",
+      "floating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "Two boats are in the foreground, and one is in the background.",
+    "objects": [
+      "one",
+      "two"
+    ],
+    "actions": [
+      "boats"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two boats are in the foreground, and one is in the background.",
+    "objects": [
+      "one",
+      "two"
+    ],
+    "actions": [
+      "boats"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Two boats are in the foreground, and one is in the background.",
+    "objects": [
+      "one",
+      "two"
+    ],
+    "actions": [
+      "boats"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "Two boats are in the foreground, and one is in the background.",
+    "objects": [
+      "one",
+      "two"
+    ],
+    "actions": [
+      "boats"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The sailboats have white sails with blue and red trim.",
+    "objects": [
+      "trim",
+      "blue",
+      "have",
+      "white"
+    ],
+    "actions": [
+      "sails",
+      "sailboats",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The sailboats have white sails with blue and red trim.",
+    "objects": [
+      "trim",
+      "blue",
+      "have",
+      "white"
+    ],
+    "actions": [
+      "sails",
+      "sailboats",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The sailboats have white sails with blue and red trim.",
+    "objects": [
+      "trim",
+      "blue",
+      "have",
+      "white"
+    ],
+    "actions": [
+      "sails",
+      "sailboats",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The sailboats have white sails with blue and red trim.",
+    "objects": [
+      "trim",
+      "blue",
+      "have",
+      "white"
+    ],
+    "actions": [
+      "sails",
+      "sailboats",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The boat in the foreground has a red flag, and one person on it is wearing a blue hoodie.",
+    "objects": [
+      "one",
+      "boat",
+      "blue",
+      "flag",
+      "has",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The boat in the foreground has a red flag, and one person on it is wearing a blue hoodie.",
+    "objects": [
+      "one",
+      "boat",
+      "blue",
+      "flag",
+      "has",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The boat in the foreground has a red flag, and one person on it is wearing a blue hoodie.",
+    "objects": [
+      "one",
+      "boat",
+      "blue",
+      "flag",
+      "has",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The boat in the foreground has a red flag, and one person on it is wearing a blue hoodie.",
+    "objects": [
+      "one",
+      "boat",
+      "blue",
+      "flag",
+      "has",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The boat in the background is a white sailboat with a person on it wearing a red jacket.",
+    "objects": [
+      "boat",
+      "sailboat",
+      "white",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The boat in the background is a white sailboat with a person on it wearing a red jacket.",
+    "objects": [
+      "boat",
+      "sailboat",
+      "white",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The boat in the background is a white sailboat with a person on it wearing a red jacket.",
+    "objects": [
+      "boat",
+      "sailboat",
+      "white",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The boat in the background is a white sailboat with a person on it wearing a red jacket.",
+    "objects": [
+      "boat",
+      "sailboat",
+      "white",
+      "jacket"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a white boat in the background with a person on it who is wearing a red jacket.",
+    "objects": [
+      "there",
+      "white",
+      "boat",
+      "jacket",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a white boat in the background with a person on it who is wearing a red jacket.",
+    "objects": [
+      "there",
+      "white",
+      "boat",
+      "jacket",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "There is a white boat in the background with a person on it who is wearing a red jacket.",
+    "objects": [
+      "there",
+      "white",
+      "boat",
+      "jacket",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "There is a white boat in the background with a person on it who is wearing a red jacket.",
+    "objects": [
+      "there",
+      "white",
+      "boat",
+      "jacket",
+      "who"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The person on the white sailboat in the background is smiling and holding a red flag.",
+    "objects": [
+      "sailboat",
+      "flag",
+      "white"
+    ],
+    "actions": [
+      "holding",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The person on the white sailboat in the background is smiling and holding a red flag.",
+    "objects": [
+      "sailboat",
+      "flag",
+      "white"
+    ],
+    "actions": [
+      "holding",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The person on the white sailboat in the background is smiling and holding a red flag.",
+    "objects": [
+      "sailboat",
+      "flag",
+      "white"
+    ],
+    "actions": [
+      "holding",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The person on the white sailboat in the background is smiling and holding a red flag.",
+    "objects": [
+      "sailboat",
+      "flag",
+      "white"
+    ],
+    "actions": [
+      "holding",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The sailboat in the foreground is maneuvering, and a person on it is wearing a blue hoodie.",
+    "objects": [
+      "sailboat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "maneuvering"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The sailboat in the foreground is maneuvering, and a person on it is wearing a blue hoodie.",
+    "objects": [
+      "sailboat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "maneuvering"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The sailboat in the foreground is maneuvering, and a person on it is wearing a blue hoodie.",
+    "objects": [
+      "sailboat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "maneuvering"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The sailboat in the foreground is maneuvering, and a person on it is wearing a blue hoodie.",
+    "objects": [
+      "sailboat",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "maneuvering"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man and a woman sitting at a table in a restaurant.",
+    "objects": [
+      "see",
+      "man",
+      "restaurant",
+      "table",
+      "woman"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man and a woman sitting at a table in a restaurant.",
+    "objects": [
+      "see",
+      "man",
+      "restaurant",
+      "table",
+      "woman"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man and a woman sitting at a table in a restaurant.",
+    "objects": [
+      "see",
+      "man",
+      "restaurant",
+      "table",
+      "woman"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The man is wearing a blue hoodie and has a beard, while the woman is wearing a purple shirt and is holding a glass of beer.",
+    "objects": [
+      "blue",
+      "has",
+      "man",
+      "while",
+      "shirt",
+      "purple",
+      "beard",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a blue hoodie and has a beard, while the woman is wearing a purple shirt and is holding a glass of beer.",
+    "objects": [
+      "blue",
+      "has",
+      "man",
+      "while",
+      "shirt",
+      "purple",
+      "beard",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a blue hoodie and has a beard, while the woman is wearing a purple shirt and is holding a glass of beer.",
+    "objects": [
+      "blue",
+      "has",
+      "man",
+      "while",
+      "shirt",
+      "purple",
+      "beard",
+      "glass"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is speaking animatedly and gesturing with her hands, possibly engaging in conversation with the man, who is sitting next to her.",
+    "objects": [
+      "her",
+      "man",
+      "conversation",
+      "animatedly",
+      "woman",
+      "who",
+      "possibly"
+    ],
+    "actions": [
+      "speaking",
+      "hands",
+      "sitting",
+      "engaging"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is speaking animatedly and gesturing with her hands, possibly engaging in conversation with the man, who is sitting next to her.",
+    "objects": [
+      "her",
+      "man",
+      "conversation",
+      "animatedly",
+      "woman",
+      "who",
+      "possibly"
+    ],
+    "actions": [
+      "speaking",
+      "hands",
+      "sitting",
+      "engaging"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman is speaking animatedly and gesturing with her hands, possibly engaging in conversation with the man, who is sitting next to her.",
+    "objects": [
+      "her",
+      "man",
+      "conversation",
+      "animatedly",
+      "woman",
+      "who",
+      "possibly"
+    ],
+    "actions": [
+      "speaking",
+      "hands",
+      "sitting",
+      "engaging"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A clock is visible on the wall behind them, indicating the time of day.",
+    "objects": [
+      "clock",
+      "day",
+      "time",
+      "them",
+      "wall",
+      "behind"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "A clock is visible on the wall behind them, indicating the time of day.",
+    "objects": [
+      "clock",
+      "day",
+      "time",
+      "them",
+      "wall",
+      "behind"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "A clock is visible on the wall behind them, indicating the time of day.",
+    "objects": [
+      "clock",
+      "day",
+      "time",
+      "them",
+      "wall",
+      "behind"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A silver car is parked outside, suggesting that the location might be a public parking area.",
+    "objects": [
+      "car",
+      "outside",
+      "location",
+      "silver",
+      "that",
+      "public",
+      "might",
+      "area"
+    ],
+    "actions": [
+      "parking",
+      "suggesting",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A silver car is parked outside, suggesting that the location might be a public parking area.",
+    "objects": [
+      "car",
+      "outside",
+      "location",
+      "silver",
+      "that",
+      "public",
+      "might",
+      "area"
+    ],
+    "actions": [
+      "parking",
+      "suggesting",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A silver car is parked outside, suggesting that the location might be a public parking area.",
+    "objects": [
+      "car",
+      "outside",
+      "location",
+      "silver",
+      "that",
+      "public",
+      "might",
+      "area"
+    ],
+    "actions": [
+      "parking",
+      "suggesting",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The man appears to be laughing, suggesting a light-hearted and enjoyable atmosphere.",
+    "objects": [
+      "enjoyable",
+      "atmosphere",
+      "man"
+    ],
+    "actions": [
+      "laughing",
+      "light-hearted",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The man appears to be laughing, suggesting a light-hearted and enjoyable atmosphere.",
+    "objects": [
+      "enjoyable",
+      "atmosphere",
+      "man"
+    ],
+    "actions": [
+      "laughing",
+      "light-hearted",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The man appears to be laughing, suggesting a light-hearted and enjoyable atmosphere.",
+    "objects": [
+      "enjoyable",
+      "atmosphere",
+      "man"
+    ],
+    "actions": [
+      "laughing",
+      "light-hearted",
+      "suggesting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman's gesturing continues as she speaks, possibly emphasizing her point or sharing a story.",
+    "objects": [
+      "point",
+      "her",
+      "story",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "emphasizing",
+      "continues",
+      "woman's",
+      "speaks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman's gesturing continues as she speaks, possibly emphasizing her point or sharing a story.",
+    "objects": [
+      "point",
+      "her",
+      "story",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "emphasizing",
+      "continues",
+      "woman's",
+      "speaks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman's gesturing continues as she speaks, possibly emphasizing her point or sharing a story.",
+    "objects": [
+      "point",
+      "her",
+      "story",
+      "she",
+      "possibly"
+    ],
+    "actions": [
+      "emphasizing",
+      "continues",
+      "woman's",
+      "speaks"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene is set in a restaurant, with a dining table, chairs, and a backdrop of other patrons enjoying their meals.",
+    "objects": [
+      "other",
+      "set",
+      "restaurant",
+      "table",
+      "their",
+      "backdrop"
+    ],
+    "actions": [
+      "patrons",
+      "dining",
+      "meals",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene is set in a restaurant, with a dining table, chairs, and a backdrop of other patrons enjoying their meals.",
+    "objects": [
+      "other",
+      "set",
+      "restaurant",
+      "table",
+      "their",
+      "backdrop"
+    ],
+    "actions": [
+      "patrons",
+      "dining",
+      "meals",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene is set in a restaurant, with a dining table, chairs, and a backdrop of other patrons enjoying their meals.",
+    "objects": [
+      "other",
+      "set",
+      "restaurant",
+      "table",
+      "their",
+      "backdrop"
+    ],
+    "actions": [
+      "patrons",
+      "dining",
+      "meals",
+      "enjoying"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The man's blue hoodie contrasts with the woman's purple shirt, creating a colorful scene.",
+    "objects": [
+      "blue",
+      "colorful",
+      "shirt",
+      "purple",
+      "hoodie"
+    ],
+    "actions": [
+      "woman's",
+      "man's",
+      "contrasts",
+      "creating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The man's blue hoodie contrasts with the woman's purple shirt, creating a colorful scene.",
+    "objects": [
+      "blue",
+      "colorful",
+      "shirt",
+      "purple",
+      "hoodie"
+    ],
+    "actions": [
+      "woman's",
+      "man's",
+      "contrasts",
+      "creating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The man's blue hoodie contrasts with the woman's purple shirt, creating a colorful scene.",
+    "objects": [
+      "blue",
+      "colorful",
+      "shirt",
+      "purple",
+      "hoodie"
+    ],
+    "actions": [
+      "woman's",
+      "man's",
+      "contrasts",
+      "creating"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The glass of beer in the woman's hand adds to the casual and relaxed vibe of the setting.",
+    "objects": [
+      "adds",
+      "hand",
+      "vibe",
+      "casual",
+      "glass",
+      "beer"
+    ],
+    "actions": [
+      "woman's",
+      "setting",
+      "relaxed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The glass of beer in the woman's hand adds to the casual and relaxed vibe of the setting.",
+    "objects": [
+      "adds",
+      "hand",
+      "vibe",
+      "casual",
+      "glass",
+      "beer"
+    ],
+    "actions": [
+      "woman's",
+      "setting",
+      "relaxed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The glass of beer in the woman's hand adds to the casual and relaxed vibe of the setting.",
+    "objects": [
+      "adds",
+      "hand",
+      "vibe",
+      "casual",
+      "glass",
+      "beer"
+    ],
+    "actions": [
+      "woman's",
+      "setting",
+      "relaxed"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The silver car outside could indicate that the restaurant has a nearby parking area.",
+    "objects": [
+      "car",
+      "outside",
+      "has",
+      "silver",
+      "that",
+      "nearby",
+      "restaurant",
+      "could"
+    ],
+    "actions": [
+      "parking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The silver car outside could indicate that the restaurant has a nearby parking area.",
+    "objects": [
+      "car",
+      "outside",
+      "has",
+      "silver",
+      "that",
+      "nearby",
+      "restaurant",
+      "could"
+    ],
+    "actions": [
+      "parking"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,555 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are three people and a young child engaged in sledding activities on a snowy day.",
+    "objects": [
+      "three",
+      "there",
+      "people",
+      "child",
+      "snowy",
+      "day",
+      "young"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "sledding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are three people and a young child engaged in sledding activities on a snowy day.",
+    "objects": [
+      "three",
+      "there",
+      "people",
+      "child",
+      "snowy",
+      "day",
+      "young"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "sledding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are three people and a young child engaged in sledding activities on a snowy day.",
+    "objects": [
+      "three",
+      "there",
+      "people",
+      "child",
+      "snowy",
+      "day",
+      "young"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "sledding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there are three people and a young child engaged in sledding activities on a snowy day.",
+    "objects": [
+      "three",
+      "there",
+      "people",
+      "child",
+      "snowy",
+      "day",
+      "young"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "sledding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, there are three people and a young child engaged in sledding activities on a snowy day.",
+    "objects": [
+      "three",
+      "there",
+      "people",
+      "child",
+      "snowy",
+      "day",
+      "young"
+    ],
+    "actions": [
+      "activities",
+      "engaged",
+      "sledding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "A man is assisting a young boy in a sled, holding onto his back as they slide down a small hill.",
+    "objects": [
+      "they",
+      "boy",
+      "small",
+      "young",
+      "onto",
+      "slide",
+      "his",
+      "hill"
+    ],
+    "actions": [
+      "sled",
+      "assisting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man is assisting a young boy in a sled, holding onto his back as they slide down a small hill.",
+    "objects": [
+      "they",
+      "boy",
+      "small",
+      "young",
+      "onto",
+      "slide",
+      "his",
+      "hill"
+    ],
+    "actions": [
+      "sled",
+      "assisting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A man is assisting a young boy in a sled, holding onto his back as they slide down a small hill.",
+    "objects": [
+      "they",
+      "boy",
+      "small",
+      "young",
+      "onto",
+      "slide",
+      "his",
+      "hill"
+    ],
+    "actions": [
+      "sled",
+      "assisting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A man is assisting a young boy in a sled, holding onto his back as they slide down a small hill.",
+    "objects": [
+      "they",
+      "boy",
+      "small",
+      "young",
+      "onto",
+      "slide",
+      "his",
+      "hill"
+    ],
+    "actions": [
+      "sled",
+      "assisting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "A man is assisting a young boy in a sled, holding onto his back as they slide down a small hill.",
+    "objects": [
+      "they",
+      "boy",
+      "small",
+      "young",
+      "onto",
+      "slide",
+      "his",
+      "hill"
+    ],
+    "actions": [
+      "sled",
+      "assisting",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The boy is wearing a blue hoodie, blue pants, and a red hat with a pom-pom, while the man is wearing a brown jacket and a blue hat.",
+    "objects": [
+      "boy",
+      "while",
+      "jacket",
+      "blue",
+      "hat",
+      "hoodie",
+      "man",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The boy is wearing a blue hoodie, blue pants, and a red hat with a pom-pom, while the man is wearing a brown jacket and a blue hat.",
+    "objects": [
+      "boy",
+      "while",
+      "jacket",
+      "blue",
+      "hat",
+      "hoodie",
+      "man",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The boy is wearing a blue hoodie, blue pants, and a red hat with a pom-pom, while the man is wearing a brown jacket and a blue hat.",
+    "objects": [
+      "boy",
+      "while",
+      "jacket",
+      "blue",
+      "hat",
+      "hoodie",
+      "man",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The boy is wearing a blue hoodie, blue pants, and a red hat with a pom-pom, while the man is wearing a brown jacket and a blue hat.",
+    "objects": [
+      "boy",
+      "while",
+      "jacket",
+      "blue",
+      "hat",
+      "hoodie",
+      "man",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The boy is wearing a blue hoodie, blue pants, and a red hat with a pom-pom, while the man is wearing a brown jacket and a blue hat.",
+    "objects": [
+      "boy",
+      "while",
+      "jacket",
+      "blue",
+      "hat",
+      "hoodie",
+      "man",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "Another man is standing in the background, observing the scene.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another man is standing in the background, observing the scene.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "Another man is standing in the background, observing the scene.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "Another man is standing in the background, observing the scene.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "Another man is standing in the background, observing the scene.",
+    "objects": [
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The child is sitting on a blue sled, which is being pushed by a person wearing a white jacket and a red hat with a pom-pom.",
+    "objects": [
+      "white",
+      "child",
+      "jacket",
+      "blue",
+      "which",
+      "hat"
+    ],
+    "actions": [
+      "red",
+      "being",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The child is sitting on a blue sled, which is being pushed by a person wearing a white jacket and a red hat with a pom-pom.",
+    "objects": [
+      "white",
+      "child",
+      "jacket",
+      "blue",
+      "which",
+      "hat"
+    ],
+    "actions": [
+      "red",
+      "being",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The child is sitting on a blue sled, which is being pushed by a person wearing a white jacket and a red hat with a pom-pom.",
+    "objects": [
+      "white",
+      "child",
+      "jacket",
+      "blue",
+      "which",
+      "hat"
+    ],
+    "actions": [
+      "red",
+      "being",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The child is sitting on a blue sled, which is being pushed by a person wearing a white jacket and a red hat with a pom-pom.",
+    "objects": [
+      "white",
+      "child",
+      "jacket",
+      "blue",
+      "which",
+      "hat"
+    ],
+    "actions": [
+      "red",
+      "being",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The child is sitting on a blue sled, which is being pushed by a person wearing a white jacket and a red hat with a pom-pom.",
+    "objects": [
+      "white",
+      "child",
+      "jacket",
+      "blue",
+      "which",
+      "hat"
+    ],
+    "actions": [
+      "red",
+      "being",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The child is wearing a blue hoodie and red pants.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The child is wearing a blue hoodie and red pants.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The child is wearing a blue hoodie and red pants.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The child is wearing a blue hoodie and red pants.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The child is wearing a blue hoodie and red pants.",
+    "objects": [
+      "blue",
+      "hoodie",
+      "child"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is taking place on a snowy day with a house visible in the background.",
+    "objects": [
+      "day",
+      "place",
+      "house",
+      "snowy"
+    ],
+    "actions": [
+      "taking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is taking place on a snowy day with a house visible in the background.",
+    "objects": [
+      "day",
+      "place",
+      "house",
+      "snowy"
+    ],
+    "actions": [
+      "taking"
+    ],
+    "segment_id": 6
+  }
+]

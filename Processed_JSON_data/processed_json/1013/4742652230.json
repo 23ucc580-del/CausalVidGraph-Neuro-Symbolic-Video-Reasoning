@@ -1,0 +1,537 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a young girl is playing with a baby on a jungle gym.",
+    "objects": [
+      "jungle",
+      "young",
+      "girl",
+      "baby",
+      "this",
+      "gym"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a young girl is playing with a baby on a jungle gym.",
+    "objects": [
+      "jungle",
+      "young",
+      "girl",
+      "baby",
+      "this",
+      "gym"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a young girl is playing with a baby on a jungle gym.",
+    "objects": [
+      "jungle",
+      "young",
+      "girl",
+      "baby",
+      "this",
+      "gym"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "She is wearing a blue dress and a white headband.",
+    "objects": [
+      "white",
+      "she",
+      "blue",
+      "headband",
+      "dress"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a blue dress and a white headband.",
+    "objects": [
+      "white",
+      "she",
+      "blue",
+      "headband",
+      "dress"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a blue dress and a white headband.",
+    "objects": [
+      "white",
+      "she",
+      "blue",
+      "headband",
+      "dress"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The baby is sitting on a yellow and green jungle gym, wearing a blue onesie.",
+    "objects": [
+      "jungle",
+      "yellow",
+      "green",
+      "blue",
+      "baby",
+      "gym",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby is sitting on a yellow and green jungle gym, wearing a blue onesie.",
+    "objects": [
+      "jungle",
+      "yellow",
+      "green",
+      "blue",
+      "baby",
+      "gym",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby is sitting on a yellow and green jungle gym, wearing a blue onesie.",
+    "objects": [
+      "jungle",
+      "yellow",
+      "green",
+      "blue",
+      "baby",
+      "gym",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The girl is holding a toy in her right hand, and she's laughing while talking to the baby.",
+    "objects": [
+      "baby",
+      "while",
+      "her",
+      "girl",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "she's",
+      "talking",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The girl is holding a toy in her right hand, and she's laughing while talking to the baby.",
+    "objects": [
+      "baby",
+      "while",
+      "her",
+      "girl",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "she's",
+      "talking",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The girl is holding a toy in her right hand, and she's laughing while talking to the baby.",
+    "objects": [
+      "baby",
+      "while",
+      "her",
+      "girl",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "she's",
+      "talking",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Another girl is wearing a pink dress and a silver headband, and she's standing behind the baby, holding a green toy.",
+    "objects": [
+      "behind",
+      "pink",
+      "green",
+      "silver",
+      "dress",
+      "headband",
+      "toy",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "she's",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Another girl is wearing a pink dress and a silver headband, and she's standing behind the baby, holding a green toy.",
+    "objects": [
+      "behind",
+      "pink",
+      "green",
+      "silver",
+      "dress",
+      "headband",
+      "toy",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "she's",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Another girl is wearing a pink dress and a silver headband, and she's standing behind the baby, holding a green toy.",
+    "objects": [
+      "behind",
+      "pink",
+      "green",
+      "silver",
+      "dress",
+      "headband",
+      "toy",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "she's",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby is smiling and looking at the girl.",
+    "objects": [
+      "girl",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby is smiling and looking at the girl.",
+    "objects": [
+      "girl",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby is smiling and looking at the girl.",
+    "objects": [
+      "girl",
+      "baby"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The girl in the blue dress is wearing a blue hoodie and a white headband, and she's holding a yellow toy.",
+    "objects": [
+      "white",
+      "blue",
+      "yellow",
+      "dress",
+      "headband",
+      "hoodie",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "she's",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The girl in the blue dress is wearing a blue hoodie and a white headband, and she's holding a yellow toy.",
+    "objects": [
+      "white",
+      "blue",
+      "yellow",
+      "dress",
+      "headband",
+      "hoodie",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "she's",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The girl in the blue dress is wearing a blue hoodie and a white headband, and she's holding a yellow toy.",
+    "objects": [
+      "white",
+      "blue",
+      "yellow",
+      "dress",
+      "headband",
+      "hoodie",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "wearing",
+      "she's",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "She's also smiling at the baby.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "she's",
+      "smiling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "She's also smiling at the baby.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "she's",
+      "smiling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "She's also smiling at the baby.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "she's",
+      "smiling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The baby is playing with a yellow and green toy.",
+    "objects": [
+      "baby",
+      "green",
+      "yellow",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The baby is playing with a yellow and green toy.",
+    "objects": [
+      "baby",
+      "green",
+      "yellow",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The baby is playing with a yellow and green toy.",
+    "objects": [
+      "baby",
+      "green",
+      "yellow",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The girl in the pink dress is holding a green toy and a blue toy, and she's laughing while looking at the baby.",
+    "objects": [
+      "baby",
+      "pink",
+      "while",
+      "blue",
+      "green",
+      "dress",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "she's",
+      "looking",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The girl in the pink dress is holding a green toy and a blue toy, and she's laughing while looking at the baby.",
+    "objects": [
+      "baby",
+      "pink",
+      "while",
+      "blue",
+      "green",
+      "dress",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "she's",
+      "looking",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The girl in the pink dress is holding a green toy and a blue toy, and she's laughing while looking at the baby.",
+    "objects": [
+      "baby",
+      "pink",
+      "while",
+      "blue",
+      "green",
+      "dress",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "she's",
+      "looking",
+      "holding",
+      "laughing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The baby is wearing a blue onesie and smiling.",
+    "objects": [
+      "blue",
+      "baby",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby is wearing a blue onesie and smiling.",
+    "objects": [
+      "blue",
+      "baby",
+      "onesie"
+    ],
+    "actions": [
+      "wearing",
+      "smiling"
+    ],
+    "segment_id": 10
+  }
+]

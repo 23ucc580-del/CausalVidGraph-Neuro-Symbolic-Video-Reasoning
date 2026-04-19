@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a group of people enjoying a sunny day on a grassy hill overlooking a picturesque coastal town.",
+    "objects": [
+      "sunny",
+      "town",
+      "people",
+      "grassy",
+      "hill",
+      "see",
+      "day",
+      "coastal"
+    ],
+    "actions": [
+      "enjoying",
+      "overlooking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a group of people enjoying a sunny day on a grassy hill overlooking a picturesque coastal town.",
+    "objects": [
+      "sunny",
+      "town",
+      "people",
+      "grassy",
+      "hill",
+      "see",
+      "day",
+      "coastal"
+    ],
+    "actions": [
+      "enjoying",
+      "overlooking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a group of people enjoying a sunny day on a grassy hill overlooking a picturesque coastal town.",
+    "objects": [
+      "sunny",
+      "town",
+      "people",
+      "grassy",
+      "hill",
+      "see",
+      "day",
+      "coastal"
+    ],
+    "actions": [
+      "enjoying",
+      "overlooking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a group of people enjoying a sunny day on a grassy hill overlooking a picturesque coastal town.",
+    "objects": [
+      "sunny",
+      "town",
+      "people",
+      "grassy",
+      "hill",
+      "see",
+      "day",
+      "coastal"
+    ],
+    "actions": [
+      "enjoying",
+      "overlooking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with a man in a blue hoodie walking up a path, holding a red and white striped umbrella.",
+    "objects": [
+      "umbrella",
+      "white",
+      "man",
+      "hoodie",
+      "blue",
+      "path"
+    ],
+    "actions": [
+      "walking",
+      "striped",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with a man in a blue hoodie walking up a path, holding a red and white striped umbrella.",
+    "objects": [
+      "umbrella",
+      "white",
+      "man",
+      "hoodie",
+      "blue",
+      "path"
+    ],
+    "actions": [
+      "walking",
+      "striped",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The scene opens with a man in a blue hoodie walking up a path, holding a red and white striped umbrella.",
+    "objects": [
+      "umbrella",
+      "white",
+      "man",
+      "hoodie",
+      "blue",
+      "path"
+    ],
+    "actions": [
+      "walking",
+      "striped",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The scene opens with a man in a blue hoodie walking up a path, holding a red and white striped umbrella.",
+    "objects": [
+      "umbrella",
+      "white",
+      "man",
+      "hoodie",
+      "blue",
+      "path"
+    ],
+    "actions": [
+      "walking",
+      "striped",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is followed by a woman in a green shirt who is carrying a black backpack.",
+    "objects": [
+      "woman",
+      "backpack",
+      "who",
+      "green",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "followed",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is followed by a woman in a green shirt who is carrying a black backpack.",
+    "objects": [
+      "woman",
+      "backpack",
+      "who",
+      "green",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "followed",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is followed by a woman in a green shirt who is carrying a black backpack.",
+    "objects": [
+      "woman",
+      "backpack",
+      "who",
+      "green",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "followed",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is followed by a woman in a green shirt who is carrying a black backpack.",
+    "objects": [
+      "woman",
+      "backpack",
+      "who",
+      "green",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "followed",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "They are joined by a man in a black shirt, and they all smile and wave at the camera.",
+    "objects": [
+      "man",
+      "all",
+      "they",
+      "smile",
+      "shirt",
+      "wave",
+      "black"
+    ],
+    "actions": [
+      "joined"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "They are joined by a man in a black shirt, and they all smile and wave at the camera.",
+    "objects": [
+      "man",
+      "all",
+      "they",
+      "smile",
+      "shirt",
+      "wave",
+      "black"
+    ],
+    "actions": [
+      "joined"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "They are joined by a man in a black shirt, and they all smile and wave at the camera.",
+    "objects": [
+      "man",
+      "all",
+      "they",
+      "smile",
+      "shirt",
+      "wave",
+      "black"
+    ],
+    "actions": [
+      "joined"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "They are joined by a man in a black shirt, and they all smile and wave at the camera.",
+    "objects": [
+      "man",
+      "all",
+      "they",
+      "smile",
+      "shirt",
+      "wave",
+      "black"
+    ],
+    "actions": [
+      "joined"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then pans over to a group of people sitting on a bench, chatting and laughing.",
+    "objects": [
+      "people",
+      "pans",
+      "then",
+      "group",
+      "over",
+      "bench"
+    ],
+    "actions": [
+      "laughing",
+      "sitting",
+      "chatting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then pans over to a group of people sitting on a bench, chatting and laughing.",
+    "objects": [
+      "people",
+      "pans",
+      "then",
+      "group",
+      "over",
+      "bench"
+    ],
+    "actions": [
+      "laughing",
+      "sitting",
+      "chatting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then pans over to a group of people sitting on a bench, chatting and laughing.",
+    "objects": [
+      "people",
+      "pans",
+      "then",
+      "group",
+      "over",
+      "bench"
+    ],
+    "actions": [
+      "laughing",
+      "sitting",
+      "chatting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then pans over to a group of people sitting on a bench, chatting and laughing.",
+    "objects": [
+      "people",
+      "pans",
+      "then",
+      "group",
+      "over",
+      "bench"
+    ],
+    "actions": [
+      "laughing",
+      "sitting",
+      "chatting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Another man in a black shirt appears, holding a silver umbrella.",
+    "objects": [
+      "umbrella",
+      "man",
+      "silver",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Another man in a black shirt appears, holding a silver umbrella.",
+    "objects": [
+      "umbrella",
+      "man",
+      "silver",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Another man in a black shirt appears, holding a silver umbrella.",
+    "objects": [
+      "umbrella",
+      "man",
+      "silver",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Another man in a black shirt appears, holding a silver umbrella.",
+    "objects": [
+      "umbrella",
+      "man",
+      "silver",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The group is diverse, with some wearing backpacks and some carrying handbags.",
+    "objects": [
+      "some",
+      "group",
+      "diverse"
+    ],
+    "actions": [
+      "wearing",
+      "handbags",
+      "backpacks",
+      "carrying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The group is diverse, with some wearing backpacks and some carrying handbags.",
+    "objects": [
+      "some",
+      "group",
+      "diverse"
+    ],
+    "actions": [
+      "wearing",
+      "handbags",
+      "backpacks",
+      "carrying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The group is diverse, with some wearing backpacks and some carrying handbags.",
+    "objects": [
+      "some",
+      "group",
+      "diverse"
+    ],
+    "actions": [
+      "wearing",
+      "handbags",
+      "backpacks",
+      "carrying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The group is diverse, with some wearing backpacks and some carrying handbags.",
+    "objects": [
+      "some",
+      "group",
+      "diverse"
+    ],
+    "actions": [
+      "wearing",
+      "handbags",
+      "backpacks",
+      "carrying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The bench is in the foreground, with a beautiful ocean view in the background.",
+    "objects": [
+      "bench",
+      "ocean",
+      "beautiful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The bench is in the foreground, with a beautiful ocean view in the background.",
+    "objects": [
+      "bench",
+      "ocean",
+      "beautiful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The bench is in the foreground, with a beautiful ocean view in the background.",
+    "objects": [
+      "bench",
+      "ocean",
+      "beautiful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The bench is in the foreground, with a beautiful ocean view in the background.",
+    "objects": [
+      "bench",
+      "ocean",
+      "beautiful"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

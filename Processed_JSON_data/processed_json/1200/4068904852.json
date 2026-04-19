@@ -1,0 +1,594 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a group of people seated around a table in a room, engaged in what appears to be a discussion or meeting.",
+    "objects": [
+      "around",
+      "room",
+      "what",
+      "discussion",
+      "people",
+      "table",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "seated",
+      "meeting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a group of people seated around a table in a room, engaged in what appears to be a discussion or meeting.",
+    "objects": [
+      "around",
+      "room",
+      "what",
+      "discussion",
+      "people",
+      "table",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "seated",
+      "meeting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a group of people seated around a table in a room, engaged in what appears to be a discussion or meeting.",
+    "objects": [
+      "around",
+      "room",
+      "what",
+      "discussion",
+      "people",
+      "table",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "seated",
+      "meeting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a group of people seated around a table in a room, engaged in what appears to be a discussion or meeting.",
+    "objects": [
+      "around",
+      "room",
+      "what",
+      "discussion",
+      "people",
+      "table",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "seated",
+      "meeting",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is dimly lit, with a stage-like setup in the background.",
+    "objects": [
+      "dimly",
+      "setup",
+      "room",
+      "lit"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is dimly lit, with a stage-like setup in the background.",
+    "objects": [
+      "dimly",
+      "setup",
+      "room",
+      "lit"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The room is dimly lit, with a stage-like setup in the background.",
+    "objects": [
+      "dimly",
+      "setup",
+      "room",
+      "lit"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The room is dimly lit, with a stage-like setup in the background.",
+    "objects": [
+      "dimly",
+      "setup",
+      "room",
+      "lit"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A man is seated on the left side of the table, dressed in a dark blue shirt and black pants, holding a microphone and speaking into it.",
+    "objects": [
+      "blue",
+      "into",
+      "man",
+      "side",
+      "microphone",
+      "shirt",
+      "dark",
+      "table"
+    ],
+    "actions": [
+      "speaking",
+      "dressed",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A man is seated on the left side of the table, dressed in a dark blue shirt and black pants, holding a microphone and speaking into it.",
+    "objects": [
+      "blue",
+      "into",
+      "man",
+      "side",
+      "microphone",
+      "shirt",
+      "dark",
+      "table"
+    ],
+    "actions": [
+      "speaking",
+      "dressed",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A man is seated on the left side of the table, dressed in a dark blue shirt and black pants, holding a microphone and speaking into it.",
+    "objects": [
+      "blue",
+      "into",
+      "man",
+      "side",
+      "microphone",
+      "shirt",
+      "dark",
+      "table"
+    ],
+    "actions": [
+      "speaking",
+      "dressed",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A man is seated on the left side of the table, dressed in a dark blue shirt and black pants, holding a microphone and speaking into it.",
+    "objects": [
+      "blue",
+      "into",
+      "man",
+      "side",
+      "microphone",
+      "shirt",
+      "dark",
+      "table"
+    ],
+    "actions": [
+      "speaking",
+      "dressed",
+      "holding",
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Behind him, another man is sitting, wearing a white shirt and black pants, also holding a microphone.",
+    "objects": [
+      "white",
+      "man",
+      "microphone",
+      "him",
+      "shirt",
+      "behind",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Behind him, another man is sitting, wearing a white shirt and black pants, also holding a microphone.",
+    "objects": [
+      "white",
+      "man",
+      "microphone",
+      "him",
+      "shirt",
+      "behind",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Behind him, another man is sitting, wearing a white shirt and black pants, also holding a microphone.",
+    "objects": [
+      "white",
+      "man",
+      "microphone",
+      "him",
+      "shirt",
+      "behind",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Behind him, another man is sitting, wearing a white shirt and black pants, also holding a microphone.",
+    "objects": [
+      "white",
+      "man",
+      "microphone",
+      "him",
+      "shirt",
+      "behind",
+      "black"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "On the right side of the table, a woman is seated, wearing a black top and black pants, and a man in a white shirt and blue jeans is seated behind her.",
+    "objects": [
+      "white",
+      "blue",
+      "top",
+      "her",
+      "man",
+      "side",
+      "shirt",
+      "behind"
+    ],
+    "actions": [
+      "jeans",
+      "seated",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "On the right side of the table, a woman is seated, wearing a black top and black pants, and a man in a white shirt and blue jeans is seated behind her.",
+    "objects": [
+      "white",
+      "blue",
+      "top",
+      "her",
+      "man",
+      "side",
+      "shirt",
+      "behind"
+    ],
+    "actions": [
+      "jeans",
+      "seated",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "On the right side of the table, a woman is seated, wearing a black top and black pants, and a man in a white shirt and blue jeans is seated behind her.",
+    "objects": [
+      "white",
+      "blue",
+      "top",
+      "her",
+      "man",
+      "side",
+      "shirt",
+      "behind"
+    ],
+    "actions": [
+      "jeans",
+      "seated",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "On the right side of the table, a woman is seated, wearing a black top and black pants, and a man in a white shirt and blue jeans is seated behind her.",
+    "objects": [
+      "white",
+      "blue",
+      "top",
+      "her",
+      "man",
+      "side",
+      "shirt",
+      "behind"
+    ],
+    "actions": [
+      "jeans",
+      "seated",
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The table is covered with a box, which could be a prop or equipment for their discussion.",
+    "objects": [
+      "which",
+      "discussion",
+      "equipment",
+      "could",
+      "their",
+      "box",
+      "prop",
+      "table"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The table is covered with a box, which could be a prop or equipment for their discussion.",
+    "objects": [
+      "which",
+      "discussion",
+      "equipment",
+      "could",
+      "their",
+      "box",
+      "prop",
+      "table"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The table is covered with a box, which could be a prop or equipment for their discussion.",
+    "objects": [
+      "which",
+      "discussion",
+      "equipment",
+      "could",
+      "their",
+      "box",
+      "prop",
+      "table"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The table is covered with a box, which could be a prop or equipment for their discussion.",
+    "objects": [
+      "which",
+      "discussion",
+      "equipment",
+      "could",
+      "their",
+      "box",
+      "prop",
+      "table"
+    ],
+    "actions": [
+      "covered"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The atmosphere is serious, with the participants looking intently towards the man speaking.",
+    "objects": [
+      "atmosphere",
+      "man",
+      "intently"
+    ],
+    "actions": [
+      "speaking",
+      "looking",
+      "serious",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The atmosphere is serious, with the participants looking intently towards the man speaking.",
+    "objects": [
+      "atmosphere",
+      "man",
+      "intently"
+    ],
+    "actions": [
+      "speaking",
+      "looking",
+      "serious",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The atmosphere is serious, with the participants looking intently towards the man speaking.",
+    "objects": [
+      "atmosphere",
+      "man",
+      "intently"
+    ],
+    "actions": [
+      "speaking",
+      "looking",
+      "serious",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The atmosphere is serious, with the participants looking intently towards the man speaking.",
+    "objects": [
+      "atmosphere",
+      "man",
+      "intently"
+    ],
+    "actions": [
+      "speaking",
+      "looking",
+      "serious",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene suggests a rehearsal or a practice session for a performance, given the presence of the microphones and the stage-like setup.",
+    "objects": [
+      "setup",
+      "performance",
+      "presence",
+      "given",
+      "rehearsal",
+      "session",
+      "practice"
+    ],
+    "actions": [
+      "microphones",
+      "suggests"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene suggests a rehearsal or a practice session for a performance, given the presence of the microphones and the stage-like setup.",
+    "objects": [
+      "setup",
+      "performance",
+      "presence",
+      "given",
+      "rehearsal",
+      "session",
+      "practice"
+    ],
+    "actions": [
+      "microphones",
+      "suggests"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene suggests a rehearsal or a practice session for a performance, given the presence of the microphones and the stage-like setup.",
+    "objects": [
+      "setup",
+      "performance",
+      "presence",
+      "given",
+      "rehearsal",
+      "session",
+      "practice"
+    ],
+    "actions": [
+      "microphones",
+      "suggests"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene suggests a rehearsal or a practice session for a performance, given the presence of the microphones and the stage-like setup.",
+    "objects": [
+      "setup",
+      "performance",
+      "presence",
+      "given",
+      "rehearsal",
+      "session",
+      "practice"
+    ],
+    "actions": [
+      "microphones",
+      "suggests"
+    ],
+    "segment_id": 7
+  }
+]

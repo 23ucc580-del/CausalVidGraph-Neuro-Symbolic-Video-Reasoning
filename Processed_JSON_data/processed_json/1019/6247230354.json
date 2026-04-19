@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a group of people hiking up a mountain trail on a sunny day.",
+    "objects": [
+      "mountain",
+      "people",
+      "trail",
+      "day",
+      "sunny",
+      "group"
+    ],
+    "actions": [
+      "hiking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a group of people hiking up a mountain trail on a sunny day.",
+    "objects": [
+      "mountain",
+      "people",
+      "trail",
+      "day",
+      "sunny",
+      "group"
+    ],
+    "actions": [
+      "hiking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a group of people hiking up a mountain trail on a sunny day.",
+    "objects": [
+      "mountain",
+      "people",
+      "trail",
+      "day",
+      "sunny",
+      "group"
+    ],
+    "actions": [
+      "hiking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a group of people hiking up a mountain trail on a sunny day.",
+    "objects": [
+      "mountain",
+      "people",
+      "trail",
+      "day",
+      "sunny",
+      "group"
+    ],
+    "actions": [
+      "hiking",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The trail is steep and rocky, and there are mountain peaks on both sides.",
+    "objects": [
+      "mountain",
+      "there",
+      "both",
+      "trail",
+      "rocky",
+      "steep"
+    ],
+    "actions": [
+      "peaks",
+      "sides"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The trail is steep and rocky, and there are mountain peaks on both sides.",
+    "objects": [
+      "mountain",
+      "there",
+      "both",
+      "trail",
+      "rocky",
+      "steep"
+    ],
+    "actions": [
+      "peaks",
+      "sides"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The trail is steep and rocky, and there are mountain peaks on both sides.",
+    "objects": [
+      "mountain",
+      "there",
+      "both",
+      "trail",
+      "rocky",
+      "steep"
+    ],
+    "actions": [
+      "peaks",
+      "sides"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The trail is steep and rocky, and there are mountain peaks on both sides.",
+    "objects": [
+      "mountain",
+      "there",
+      "both",
+      "trail",
+      "rocky",
+      "steep"
+    ],
+    "actions": [
+      "peaks",
+      "sides"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The trail is surrounded by grassy slopes and steep rocks.",
+    "objects": [
+      "trail",
+      "steep",
+      "grassy"
+    ],
+    "actions": [
+      "rocks",
+      "surrounded",
+      "slopes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The trail is surrounded by grassy slopes and steep rocks.",
+    "objects": [
+      "trail",
+      "steep",
+      "grassy"
+    ],
+    "actions": [
+      "rocks",
+      "surrounded",
+      "slopes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The trail is surrounded by grassy slopes and steep rocks.",
+    "objects": [
+      "trail",
+      "steep",
+      "grassy"
+    ],
+    "actions": [
+      "rocks",
+      "surrounded",
+      "slopes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The trail is surrounded by grassy slopes and steep rocks.",
+    "objects": [
+      "trail",
+      "steep",
+      "grassy"
+    ],
+    "actions": [
+      "rocks",
+      "surrounded",
+      "slopes"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "One person is wearing a blue hoodie, another is carrying a red backpack, and a third person is wearing a white backpack.",
+    "objects": [
+      "one",
+      "white",
+      "blue",
+      "hoodie",
+      "third",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "One person is wearing a blue hoodie, another is carrying a red backpack, and a third person is wearing a white backpack.",
+    "objects": [
+      "one",
+      "white",
+      "blue",
+      "hoodie",
+      "third",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "One person is wearing a blue hoodie, another is carrying a red backpack, and a third person is wearing a white backpack.",
+    "objects": [
+      "one",
+      "white",
+      "blue",
+      "hoodie",
+      "third",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "One person is wearing a blue hoodie, another is carrying a red backpack, and a third person is wearing a white backpack.",
+    "objects": [
+      "one",
+      "white",
+      "blue",
+      "hoodie",
+      "third",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "carrying",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The group is climbing up the trail in a single file line, with one person leading and the others following behind.",
+    "objects": [
+      "one",
+      "behind",
+      "single",
+      "trail",
+      "line",
+      "file",
+      "group"
+    ],
+    "actions": [
+      "leading",
+      "following",
+      "others",
+      "climbing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The group is climbing up the trail in a single file line, with one person leading and the others following behind.",
+    "objects": [
+      "one",
+      "behind",
+      "single",
+      "trail",
+      "line",
+      "file",
+      "group"
+    ],
+    "actions": [
+      "leading",
+      "following",
+      "others",
+      "climbing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The group is climbing up the trail in a single file line, with one person leading and the others following behind.",
+    "objects": [
+      "one",
+      "behind",
+      "single",
+      "trail",
+      "line",
+      "file",
+      "group"
+    ],
+    "actions": [
+      "leading",
+      "following",
+      "others",
+      "climbing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The group is climbing up the trail in a single file line, with one person leading and the others following behind.",
+    "objects": [
+      "one",
+      "behind",
+      "single",
+      "trail",
+      "line",
+      "file",
+      "group"
+    ],
+    "actions": [
+      "leading",
+      "following",
+      "others",
+      "climbing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "They are all smiling as they hike.",
+    "objects": [
+      "they",
+      "hike",
+      "all"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "They are all smiling as they hike.",
+    "objects": [
+      "they",
+      "hike",
+      "all"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "They are all smiling as they hike.",
+    "objects": [
+      "they",
+      "hike",
+      "all"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "They are all smiling as they hike.",
+    "objects": [
+      "they",
+      "hike",
+      "all"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "At one point, a person is standing on the rocky trail, while another person is sitting down, presumably to rest.",
+    "objects": [
+      "one",
+      "presumably",
+      "while",
+      "trail",
+      "rocky",
+      "point",
+      "rest"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "At one point, a person is standing on the rocky trail, while another person is sitting down, presumably to rest.",
+    "objects": [
+      "one",
+      "presumably",
+      "while",
+      "trail",
+      "rocky",
+      "point",
+      "rest"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "At one point, a person is standing on the rocky trail, while another person is sitting down, presumably to rest.",
+    "objects": [
+      "one",
+      "presumably",
+      "while",
+      "trail",
+      "rocky",
+      "point",
+      "rest"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "At one point, a person is standing on the rocky trail, while another person is sitting down, presumably to rest.",
+    "objects": [
+      "one",
+      "presumably",
+      "while",
+      "trail",
+      "rocky",
+      "point",
+      "rest"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The trail is in front of a rocky mountain, and the sky is clear.",
+    "objects": [
+      "mountain",
+      "trail",
+      "rocky",
+      "clear",
+      "sky"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The trail is in front of a rocky mountain, and the sky is clear.",
+    "objects": [
+      "mountain",
+      "trail",
+      "rocky",
+      "clear",
+      "sky"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The trail is in front of a rocky mountain, and the sky is clear.",
+    "objects": [
+      "mountain",
+      "trail",
+      "rocky",
+      "clear",
+      "sky"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The trail is in front of a rocky mountain, and the sky is clear.",
+    "objects": [
+      "mountain",
+      "trail",
+      "rocky",
+      "clear",
+      "sky"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 7
+  }
+]

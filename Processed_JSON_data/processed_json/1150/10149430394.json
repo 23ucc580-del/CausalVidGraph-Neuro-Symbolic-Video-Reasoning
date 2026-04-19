@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people enjoying a bike ride on a winding path surrounded by lush greenery.",
+    "objects": [
+      "ride",
+      "path",
+      "this",
+      "lush",
+      "people",
+      "bike",
+      "greenery",
+      "see"
+    ],
+    "actions": [
+      "surrounded",
+      "winding",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people enjoying a bike ride on a winding path surrounded by lush greenery.",
+    "objects": [
+      "ride",
+      "path",
+      "this",
+      "lush",
+      "people",
+      "bike",
+      "greenery",
+      "see"
+    ],
+    "actions": [
+      "surrounded",
+      "winding",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people enjoying a bike ride on a winding path surrounded by lush greenery.",
+    "objects": [
+      "ride",
+      "path",
+      "this",
+      "lush",
+      "people",
+      "bike",
+      "greenery",
+      "see"
+    ],
+    "actions": [
+      "surrounded",
+      "winding",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a group of people enjoying a bike ride on a winding path surrounded by lush greenery.",
+    "objects": [
+      "ride",
+      "path",
+      "this",
+      "lush",
+      "people",
+      "bike",
+      "greenery",
+      "see"
+    ],
+    "actions": [
+      "surrounded",
+      "winding",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman is seen riding a bicycle, leading the pack of cyclists, while a man walks behind her.",
+    "objects": [
+      "her",
+      "man",
+      "while",
+      "behind",
+      "woman",
+      "bicycle",
+      "pack"
+    ],
+    "actions": [
+      "walks",
+      "leading",
+      "riding",
+      "cyclists"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A woman is seen riding a bicycle, leading the pack of cyclists, while a man walks behind her.",
+    "objects": [
+      "her",
+      "man",
+      "while",
+      "behind",
+      "woman",
+      "bicycle",
+      "pack"
+    ],
+    "actions": [
+      "walks",
+      "leading",
+      "riding",
+      "cyclists"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman is seen riding a bicycle, leading the pack of cyclists, while a man walks behind her.",
+    "objects": [
+      "her",
+      "man",
+      "while",
+      "behind",
+      "woman",
+      "bicycle",
+      "pack"
+    ],
+    "actions": [
+      "walks",
+      "leading",
+      "riding",
+      "cyclists"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman is seen riding a bicycle, leading the pack of cyclists, while a man walks behind her.",
+    "objects": [
+      "her",
+      "man",
+      "while",
+      "behind",
+      "woman",
+      "bicycle",
+      "pack"
+    ],
+    "actions": [
+      "walks",
+      "leading",
+      "riding",
+      "cyclists"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Close behind her, a boy rides a bike with a helmet, wearing a blue shirt and a blue hoodie.",
+    "objects": [
+      "blue",
+      "helmet",
+      "her",
+      "shirt",
+      "bike",
+      "hoodie",
+      "behind",
+      "boy"
+    ],
+    "actions": [
+      "rides",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Close behind her, a boy rides a bike with a helmet, wearing a blue shirt and a blue hoodie.",
+    "objects": [
+      "blue",
+      "helmet",
+      "her",
+      "shirt",
+      "bike",
+      "hoodie",
+      "behind",
+      "boy"
+    ],
+    "actions": [
+      "rides",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Close behind her, a boy rides a bike with a helmet, wearing a blue shirt and a blue hoodie.",
+    "objects": [
+      "blue",
+      "helmet",
+      "her",
+      "shirt",
+      "bike",
+      "hoodie",
+      "behind",
+      "boy"
+    ],
+    "actions": [
+      "rides",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Close behind her, a boy rides a bike with a helmet, wearing a blue shirt and a blue hoodie.",
+    "objects": [
+      "blue",
+      "helmet",
+      "her",
+      "shirt",
+      "bike",
+      "hoodie",
+      "behind",
+      "boy"
+    ],
+    "actions": [
+      "rides",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Following him, a person in a red shirt rides a bike, and another individual in a black shirt and a red hoodie follows on a bike.",
+    "objects": [
+      "him",
+      "shirt",
+      "bike",
+      "individual",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "rides",
+      "follows",
+      "red",
+      "following"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Following him, a person in a red shirt rides a bike, and another individual in a black shirt and a red hoodie follows on a bike.",
+    "objects": [
+      "him",
+      "shirt",
+      "bike",
+      "individual",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "rides",
+      "follows",
+      "red",
+      "following"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Following him, a person in a red shirt rides a bike, and another individual in a black shirt and a red hoodie follows on a bike.",
+    "objects": [
+      "him",
+      "shirt",
+      "bike",
+      "individual",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "rides",
+      "follows",
+      "red",
+      "following"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Following him, a person in a red shirt rides a bike, and another individual in a black shirt and a red hoodie follows on a bike.",
+    "objects": [
+      "him",
+      "shirt",
+      "bike",
+      "individual",
+      "hoodie",
+      "black"
+    ],
+    "actions": [
+      "rides",
+      "follows",
+      "red",
+      "following"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The last person, also on a bike, is wearing a black shirt and a red hoodie.",
+    "objects": [
+      "shirt",
+      "bike",
+      "hoodie",
+      "black",
+      "last"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The last person, also on a bike, is wearing a black shirt and a red hoodie.",
+    "objects": [
+      "shirt",
+      "bike",
+      "hoodie",
+      "black",
+      "last"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The last person, also on a bike, is wearing a black shirt and a red hoodie.",
+    "objects": [
+      "shirt",
+      "bike",
+      "hoodie",
+      "black",
+      "last"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The last person, also on a bike, is wearing a black shirt and a red hoodie.",
+    "objects": [
+      "shirt",
+      "bike",
+      "hoodie",
+      "black",
+      "last"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Along the path, a child on a bike with a helmet is accompanied by a person in a white shirt and a yellow hoodie.",
+    "objects": [
+      "white",
+      "helmet",
+      "child",
+      "shirt",
+      "bike",
+      "yellow",
+      "hoodie",
+      "along"
+    ],
+    "actions": [
+      "accompanied"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Along the path, a child on a bike with a helmet is accompanied by a person in a white shirt and a yellow hoodie.",
+    "objects": [
+      "white",
+      "helmet",
+      "child",
+      "shirt",
+      "bike",
+      "yellow",
+      "hoodie",
+      "along"
+    ],
+    "actions": [
+      "accompanied"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Along the path, a child on a bike with a helmet is accompanied by a person in a white shirt and a yellow hoodie.",
+    "objects": [
+      "white",
+      "helmet",
+      "child",
+      "shirt",
+      "bike",
+      "yellow",
+      "hoodie",
+      "along"
+    ],
+    "actions": [
+      "accompanied"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Along the path, a child on a bike with a helmet is accompanied by a person in a white shirt and a yellow hoodie.",
+    "objects": [
+      "white",
+      "helmet",
+      "child",
+      "shirt",
+      "bike",
+      "yellow",
+      "hoodie",
+      "along"
+    ],
+    "actions": [
+      "accompanied"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is peaceful and lively, with the cyclists and the child chatting and laughing while riding.",
+    "objects": [
+      "while",
+      "child",
+      "lively",
+      "peaceful"
+    ],
+    "actions": [
+      "riding",
+      "laughing",
+      "cyclists",
+      "chatting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is peaceful and lively, with the cyclists and the child chatting and laughing while riding.",
+    "objects": [
+      "while",
+      "child",
+      "lively",
+      "peaceful"
+    ],
+    "actions": [
+      "riding",
+      "laughing",
+      "cyclists",
+      "chatting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is peaceful and lively, with the cyclists and the child chatting and laughing while riding.",
+    "objects": [
+      "while",
+      "child",
+      "lively",
+      "peaceful"
+    ],
+    "actions": [
+      "riding",
+      "laughing",
+      "cyclists",
+      "chatting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is peaceful and lively, with the cyclists and the child chatting and laughing while riding.",
+    "objects": [
+      "while",
+      "child",
+      "lively",
+      "peaceful"
+    ],
+    "actions": [
+      "riding",
+      "laughing",
+      "cyclists",
+      "chatting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The cyclists are dressed in casual sportswear, and the child has a backpack on their back.",
+    "objects": [
+      "has",
+      "casual",
+      "child",
+      "backpack",
+      "their",
+      "sportswear"
+    ],
+    "actions": [
+      "cyclists",
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The cyclists are dressed in casual sportswear, and the child has a backpack on their back.",
+    "objects": [
+      "has",
+      "casual",
+      "child",
+      "backpack",
+      "their",
+      "sportswear"
+    ],
+    "actions": [
+      "cyclists",
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The cyclists are dressed in casual sportswear, and the child has a backpack on their back.",
+    "objects": [
+      "has",
+      "casual",
+      "child",
+      "backpack",
+      "their",
+      "sportswear"
+    ],
+    "actions": [
+      "cyclists",
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The cyclists are dressed in casual sportswear, and the child has a backpack on their back.",
+    "objects": [
+      "has",
+      "casual",
+      "child",
+      "backpack",
+      "their",
+      "sportswear"
+    ],
+    "actions": [
+      "cyclists",
+      "dressed"
+    ],
+    "segment_id": 7
+  }
+]

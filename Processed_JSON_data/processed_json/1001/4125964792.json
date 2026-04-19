@@ -1,0 +1,509 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a baby sitting on the floor, dressed in a blue hoodie and blue pants.",
+    "objects": [
+      "floor",
+      "blue",
+      "baby",
+      "hoodie"
+    ],
+    "actions": [
+      "sitting",
+      "dressed",
+      "starts",
+      "pants"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The baby is playing with a toy and seems to be enjoying himself.",
+    "objects": [
+      "baby",
+      "himself",
+      "toy"
+    ],
+    "actions": [
+      "playing",
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The camera then shifts to a person wearing a black shirt, who is sitting on a couch, holding a remote control.",
+    "objects": [
+      "black",
+      "shirt",
+      "control",
+      "who",
+      "couch",
+      "remote",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The baby then crawls towards the couch, continuing to play with the toy while the camera focuses on the person in the background.",
+    "objects": [
+      "while",
+      "then",
+      "toy",
+      "couch",
+      "play",
+      "baby"
+    ],
+    "actions": [
+      "crawls",
+      "towards",
+      "focuses",
+      "continuing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene then returns to the baby, who is still playing with the toy.",
+    "objects": [
+      "then",
+      "who",
+      "toy",
+      "baby",
+      "still"
+    ],
+    "actions": [
+      "playing",
+      "returns"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The baby crawls towards the camera, looking at it and smiling.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "crawls",
+      "looking",
+      "towards",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then shifts to the person in the black shirt, who is still holding the remote control.",
+    "objects": [
+      "black",
+      "shirt",
+      "control",
+      "who",
+      "remote",
+      "then",
+      "still"
+    ],
+    "actions": [
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The baby is shown playing with the toy again.",
+    "objects": [
+      "baby",
+      "again",
+      "shown",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then returns to the baby, who is sitting on the floor and playing with the toy.",
+    "objects": [
+      "baby",
+      "then",
+      "who",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "returns"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby crawls towards the camera and smiles at it.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "crawls",
+      "smiles",
+      "towards"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then shifts to the person in the black shirt again, who is sitting on the couch and still holding the remote control.",
+    "objects": [
+      "black",
+      "shirt",
+      "control",
+      "who",
+      "couch",
+      "remote",
+      "then",
+      "again"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The baby crawls towards the camera and continues playing with the toy.",
+    "objects": [
+      "baby",
+      "toy"
+    ],
+    "actions": [
+      "crawls",
+      "continues",
+      "playing",
+      "towards"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The camera then returns to the baby, who is sitting on the floor and playing with the toy.",
+    "objects": [
+      "baby",
+      "then",
+      "who",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "returns"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The baby crawls towards the camera and smiles at it.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "crawls",
+      "smiles",
+      "towards"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then shifts to the person in the black shirt again, who is still holding the remote control.",
+    "objects": [
+      "black",
+      "shirt",
+      "control",
+      "who",
+      "remote",
+      "then",
+      "again",
+      "still"
+    ],
+    "actions": [
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The baby is shown playing with the toy.",
+    "objects": [
+      "baby",
+      "shown",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then returns to the baby, who is sitting on the floor and playing with the toy.",
+    "objects": [
+      "baby",
+      "then",
+      "who",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "returns"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby crawls towards the camera and smiles at it.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "crawls",
+      "smiles",
+      "towards"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then shifts to the person in the black shirt, who is sitting on the couch and holding the remote control.",
+    "objects": [
+      "black",
+      "shirt",
+      "control",
+      "who",
+      "couch",
+      "remote",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The baby is shown playing with the toy.",
+    "objects": [
+      "baby",
+      "shown",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then returns to the baby, who is sitting on the floor and playing with the toy.",
+    "objects": [
+      "baby",
+      "then",
+      "who",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "returns"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The baby crawls towards the camera and smiles at it.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "crawls",
+      "smiles",
+      "towards"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then shifts to the person in the black shirt, who is still holding the remote control.",
+    "objects": [
+      "black",
+      "shirt",
+      "control",
+      "who",
+      "remote",
+      "then",
+      "still"
+    ],
+    "actions": [
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The baby is shown playing with the toy.",
+    "objects": [
+      "baby",
+      "shown",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then returns to the baby, who is sitting on the floor and playing with the toy.",
+    "objects": [
+      "baby",
+      "then",
+      "who",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "returns"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The baby crawls towards the camera and smiles at it.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "crawls",
+      "smiles",
+      "towards"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then shifts to the person in the black shirt again, who is sitting on the couch and holding the remote control.",
+    "objects": [
+      "black",
+      "shirt",
+      "control",
+      "who",
+      "couch",
+      "remote",
+      "then",
+      "again"
+    ],
+    "actions": [
+      "shifts",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The baby is shown playing with the toy.",
+    "objects": [
+      "baby",
+      "shown",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The camera then returns to the baby, who is sitting on the floor and playing with the toy.",
+    "objects": [
+      "baby",
+      "then",
+      "who",
+      "toy",
+      "floor"
+    ],
+    "actions": [
+      "playing",
+      "sitting",
+      "returns"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The baby crawls towards the camera and smiles at it.",
+    "objects": [
+      "baby"
+    ],
+    "actions": [
+      "crawls",
+      "smiles",
+      "towards"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera then shifts to the person in the black shirt, who is still holding the remote control.",
+    "objects": [
+      "black",
+      "shirt",
+      "control",
+      "who",
+      "remote",
+      "then",
+      "still"
+    ],
+    "actions": [
+      "shifts",
+      "holding"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The baby is shown playing with the toy.",
+    "objects": [
+      "baby",
+      "shown",
+      "toy"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 31
+  }
+]

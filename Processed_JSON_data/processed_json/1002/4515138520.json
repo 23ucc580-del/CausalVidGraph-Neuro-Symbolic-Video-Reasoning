@@ -1,0 +1,521 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a close-up shot of a dog's tail, which then pans to reveal a dog walking on a leash.",
+    "objects": [
+      "reveal",
+      "pans",
+      "tail",
+      "leash",
+      "dog",
+      "which",
+      "then"
+    ],
+    "actions": [
+      "dog's",
+      "starts",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a close-up shot of a dog's tail, which then pans to reveal a dog walking on a leash.",
+    "objects": [
+      "reveal",
+      "pans",
+      "tail",
+      "leash",
+      "dog",
+      "which",
+      "then"
+    ],
+    "actions": [
+      "dog's",
+      "starts",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video starts with a close-up shot of a dog's tail, which then pans to reveal a dog walking on a leash.",
+    "objects": [
+      "reveal",
+      "pans",
+      "tail",
+      "leash",
+      "dog",
+      "which",
+      "then"
+    ],
+    "actions": [
+      "dog's",
+      "starts",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The dog is wearing a blue collar and a blue hoodie.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The dog is wearing a blue collar and a blue hoodie.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog is wearing a blue collar and a blue hoodie.",
+    "objects": [
+      "blue",
+      "dog",
+      "collar",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The camera then shows the street, where a silver car is parked, and a person is walking towards it.",
+    "objects": [
+      "where",
+      "street",
+      "silver",
+      "car",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The camera then shows the street, where a silver car is parked, and a person is walking towards it.",
+    "objects": [
+      "where",
+      "street",
+      "silver",
+      "car",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The camera then shows the street, where a silver car is parked, and a person is walking towards it.",
+    "objects": [
+      "where",
+      "street",
+      "silver",
+      "car",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then returns to the dog, showing its back end as it continues to walk on the street.",
+    "objects": [
+      "walk",
+      "its",
+      "end",
+      "street",
+      "dog",
+      "then"
+    ],
+    "actions": [
+      "continues",
+      "returns"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then returns to the dog, showing its back end as it continues to walk on the street.",
+    "objects": [
+      "walk",
+      "its",
+      "end",
+      "street",
+      "dog",
+      "then"
+    ],
+    "actions": [
+      "continues",
+      "returns"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then returns to the dog, showing its back end as it continues to walk on the street.",
+    "objects": [
+      "walk",
+      "its",
+      "end",
+      "street",
+      "dog",
+      "then"
+    ],
+    "actions": [
+      "continues",
+      "returns"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The person is holding a black bag in their hand.",
+    "objects": [
+      "their",
+      "black",
+      "hand",
+      "bag"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The person is holding a black bag in their hand.",
+    "objects": [
+      "their",
+      "black",
+      "hand",
+      "bag"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The person is holding a black bag in their hand.",
+    "objects": [
+      "their",
+      "black",
+      "hand",
+      "bag"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then shifts to the street again, and a car passes by.",
+    "objects": [
+      "then",
+      "car",
+      "again",
+      "street"
+    ],
+    "actions": [
+      "shifts",
+      "passes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The camera then shifts to the street again, and a car passes by.",
+    "objects": [
+      "then",
+      "car",
+      "again",
+      "street"
+    ],
+    "actions": [
+      "shifts",
+      "passes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The camera then shifts to the street again, and a car passes by.",
+    "objects": [
+      "then",
+      "car",
+      "again",
+      "street"
+    ],
+    "actions": [
+      "shifts",
+      "passes"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A dog is walking on a leash in the street, and a person is holding a blue hoodie.",
+    "objects": [
+      "street",
+      "blue",
+      "leash",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A dog is walking on a leash in the street, and a person is holding a blue hoodie.",
+    "objects": [
+      "street",
+      "blue",
+      "leash",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A dog is walking on a leash in the street, and a person is holding a blue hoodie.",
+    "objects": [
+      "street",
+      "blue",
+      "leash",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The camera then returns to the street, showing the person and the car once more.",
+    "objects": [
+      "street",
+      "once",
+      "car",
+      "more",
+      "then"
+    ],
+    "actions": [
+      "returns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The camera then returns to the street, showing the person and the car once more.",
+    "objects": [
+      "street",
+      "once",
+      "car",
+      "more",
+      "then"
+    ],
+    "actions": [
+      "returns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The camera then returns to the street, showing the person and the car once more.",
+    "objects": [
+      "street",
+      "once",
+      "car",
+      "more",
+      "then"
+    ],
+    "actions": [
+      "returns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera pans to the dog, which is wearing a blue collar and a blue hoodie, and then shows a silver car parked on the street.",
+    "objects": [
+      "street",
+      "pans",
+      "blue",
+      "collar",
+      "silver",
+      "dog",
+      "which",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "parked"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera pans to the dog, which is wearing a blue collar and a blue hoodie, and then shows a silver car parked on the street.",
+    "objects": [
+      "street",
+      "pans",
+      "blue",
+      "collar",
+      "silver",
+      "dog",
+      "which",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "parked"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera pans to the dog, which is wearing a blue collar and a blue hoodie, and then shows a silver car parked on the street.",
+    "objects": [
+      "street",
+      "pans",
+      "blue",
+      "collar",
+      "silver",
+      "dog",
+      "which",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "parked"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The person is walking towards the car, holding a black bag.",
+    "objects": [
+      "black",
+      "car",
+      "bag"
+    ],
+    "actions": [
+      "towards",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The person is walking towards the car, holding a black bag.",
+    "objects": [
+      "black",
+      "car",
+      "bag"
+    ],
+    "actions": [
+      "towards",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The person is walking towards the car, holding a black bag.",
+    "objects": [
+      "black",
+      "car",
+      "bag"
+    ],
+    "actions": [
+      "towards",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The camera then shows the dog, still on a leash and wearing a blue collar, and then back to the person with the black bag.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "leash",
+      "bag",
+      "dog",
+      "then",
+      "still"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The camera then shows the dog, still on a leash and wearing a blue collar, and then back to the person with the black bag.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "leash",
+      "bag",
+      "dog",
+      "then",
+      "still"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 10
+  }
+]

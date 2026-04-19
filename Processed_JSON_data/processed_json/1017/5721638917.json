@@ -1,0 +1,614 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a small white dog standing on a tiled floor, with a person's hand holding a red ball close to it.",
+    "objects": [
+      "small",
+      "white",
+      "ball",
+      "dog",
+      "close",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "begins",
+      "standing",
+      "red",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a small white dog standing on a tiled floor, with a person's hand holding a red ball close to it.",
+    "objects": [
+      "small",
+      "white",
+      "ball",
+      "dog",
+      "close",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "begins",
+      "standing",
+      "red",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video begins with a small white dog standing on a tiled floor, with a person's hand holding a red ball close to it.",
+    "objects": [
+      "small",
+      "white",
+      "ball",
+      "dog",
+      "close",
+      "floor",
+      "hand"
+    ],
+    "actions": [
+      "begins",
+      "standing",
+      "red",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The dog appears to be curiously looking at the ball.",
+    "objects": [
+      "ball",
+      "dog",
+      "curiously"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The dog appears to be curiously looking at the ball.",
+    "objects": [
+      "ball",
+      "dog",
+      "curiously"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog appears to be curiously looking at the ball.",
+    "objects": [
+      "ball",
+      "dog",
+      "curiously"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "As the camera pans to the left, we see another person wearing a black shirt and white pants walking away from the camera, seemingly oblivious to the dog's presence.",
+    "objects": [
+      "white",
+      "pans",
+      "black",
+      "away",
+      "shirt",
+      "see",
+      "from",
+      "seemingly"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "oblivious",
+      "dog's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "As the camera pans to the left, we see another person wearing a black shirt and white pants walking away from the camera, seemingly oblivious to the dog's presence.",
+    "objects": [
+      "white",
+      "pans",
+      "black",
+      "away",
+      "shirt",
+      "see",
+      "from",
+      "seemingly"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "oblivious",
+      "dog's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "As the camera pans to the left, we see another person wearing a black shirt and white pants walking away from the camera, seemingly oblivious to the dog's presence.",
+    "objects": [
+      "white",
+      "pans",
+      "black",
+      "away",
+      "shirt",
+      "see",
+      "from",
+      "seemingly"
+    ],
+    "actions": [
+      "pants",
+      "wearing",
+      "oblivious",
+      "dog's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog continues to stare at the ball while a person in a blue hoodie walks by, also seemingly unaware of the dog's presence.",
+    "objects": [
+      "unaware",
+      "while",
+      "blue",
+      "ball",
+      "seemingly",
+      "presence",
+      "dog",
+      "stare"
+    ],
+    "actions": [
+      "continues",
+      "walks",
+      "dog's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The dog continues to stare at the ball while a person in a blue hoodie walks by, also seemingly unaware of the dog's presence.",
+    "objects": [
+      "unaware",
+      "while",
+      "blue",
+      "ball",
+      "seemingly",
+      "presence",
+      "dog",
+      "stare"
+    ],
+    "actions": [
+      "continues",
+      "walks",
+      "dog's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The dog continues to stare at the ball while a person in a blue hoodie walks by, also seemingly unaware of the dog's presence.",
+    "objects": [
+      "unaware",
+      "while",
+      "blue",
+      "ball",
+      "seemingly",
+      "presence",
+      "dog",
+      "stare"
+    ],
+    "actions": [
+      "continues",
+      "walks",
+      "dog's"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog then turns towards the camera, and as the camera pans right, we see a person in a black shirt and blue jeans walking away from the camera.",
+    "objects": [
+      "pans",
+      "black",
+      "away",
+      "blue",
+      "shirt",
+      "see",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "towards",
+      "jeans",
+      "turns",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog then turns towards the camera, and as the camera pans right, we see a person in a black shirt and blue jeans walking away from the camera.",
+    "objects": [
+      "pans",
+      "black",
+      "away",
+      "blue",
+      "shirt",
+      "see",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "towards",
+      "jeans",
+      "turns",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The dog then turns towards the camera, and as the camera pans right, we see a person in a black shirt and blue jeans walking away from the camera.",
+    "objects": [
+      "pans",
+      "black",
+      "away",
+      "blue",
+      "shirt",
+      "see",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "towards",
+      "jeans",
+      "turns",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The dog seems to be following this person, still looking at the red ball.",
+    "objects": [
+      "ball",
+      "dog",
+      "this",
+      "still"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "following",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The dog seems to be following this person, still looking at the red ball.",
+    "objects": [
+      "ball",
+      "dog",
+      "this",
+      "still"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "following",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The dog seems to be following this person, still looking at the red ball.",
+    "objects": [
+      "ball",
+      "dog",
+      "this",
+      "still"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "following",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then pans to the left, and we see a person in a white shirt and black pants walking away from the dog.",
+    "objects": [
+      "white",
+      "pans",
+      "black",
+      "away",
+      "shirt",
+      "see",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then pans to the left, and we see a person in a white shirt and black pants walking away from the dog.",
+    "objects": [
+      "white",
+      "pans",
+      "black",
+      "away",
+      "shirt",
+      "see",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then pans to the left, and we see a person in a white shirt and black pants walking away from the dog.",
+    "objects": [
+      "white",
+      "pans",
+      "black",
+      "away",
+      "shirt",
+      "see",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "pants",
+      "walking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The dog continues to look at the ball while the camera pans right again, showing a person in a red shirt walking away from the dog.",
+    "objects": [
+      "while",
+      "pans",
+      "away",
+      "look",
+      "shirt",
+      "ball",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "continues",
+      "walking",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The dog continues to look at the ball while the camera pans right again, showing a person in a red shirt walking away from the dog.",
+    "objects": [
+      "while",
+      "pans",
+      "away",
+      "look",
+      "shirt",
+      "ball",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "continues",
+      "walking",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The dog continues to look at the ball while the camera pans right again, showing a person in a red shirt walking away from the dog.",
+    "objects": [
+      "while",
+      "pans",
+      "away",
+      "look",
+      "shirt",
+      "ball",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "continues",
+      "walking",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The dog then turns towards the camera, and we see a person in a gray shirt walking away from it.",
+    "objects": [
+      "away",
+      "shirt",
+      "see",
+      "gray",
+      "from",
+      "dog",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "turns",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog then turns towards the camera, and we see a person in a gray shirt walking away from it.",
+    "objects": [
+      "away",
+      "shirt",
+      "see",
+      "gray",
+      "from",
+      "dog",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "turns",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog then turns towards the camera, and we see a person in a gray shirt walking away from it.",
+    "objects": [
+      "away",
+      "shirt",
+      "see",
+      "gray",
+      "from",
+      "dog",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "turns",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog continues to look at the ball while the camera pans left, showing a person in a white shirt and black pants walking away from the dog.",
+    "objects": [
+      "white",
+      "while",
+      "pans",
+      "black",
+      "look",
+      "away",
+      "shirt",
+      "ball"
+    ],
+    "actions": [
+      "continues",
+      "pants",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog continues to look at the ball while the camera pans left, showing a person in a white shirt and black pants walking away from the dog.",
+    "objects": [
+      "white",
+      "while",
+      "pans",
+      "black",
+      "look",
+      "away",
+      "shirt",
+      "ball"
+    ],
+    "actions": [
+      "continues",
+      "pants",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog continues to look at the ball while the camera pans left, showing a person in a white shirt and black pants walking away from the dog.",
+    "objects": [
+      "white",
+      "while",
+      "pans",
+      "black",
+      "look",
+      "away",
+      "shirt",
+      "ball"
+    ],
+    "actions": [
+      "continues",
+      "pants",
+      "walking"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The dog finally turns towards the camera, and we see a person in a black shirt and white pants walking away from the dog.",
+    "objects": [
+      "white",
+      "finally",
+      "black",
+      "away",
+      "shirt",
+      "see",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "towards",
+      "pants",
+      "turns",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The dog finally turns towards the camera, and we see a person in a black shirt and white pants walking away from the dog.",
+    "objects": [
+      "white",
+      "finally",
+      "black",
+      "away",
+      "shirt",
+      "see",
+      "from",
+      "dog"
+    ],
+    "actions": [
+      "towards",
+      "pants",
+      "turns",
+      "walking"
+    ],
+    "segment_id": 10
+  }
+]

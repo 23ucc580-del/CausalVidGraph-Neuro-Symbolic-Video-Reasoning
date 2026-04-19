@@ -1,0 +1,602 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a serene moment in a home setting, featuring a cat and a dog.",
+    "objects": [
+      "home",
+      "serene",
+      "cat",
+      "dog",
+      "moment",
+      "this"
+    ],
+    "actions": [
+      "featuring",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a serene moment in a home setting, featuring a cat and a dog.",
+    "objects": [
+      "home",
+      "serene",
+      "cat",
+      "dog",
+      "moment",
+      "this"
+    ],
+    "actions": [
+      "featuring",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a serene moment in a home setting, featuring a cat and a dog.",
+    "objects": [
+      "home",
+      "serene",
+      "cat",
+      "dog",
+      "moment",
+      "this"
+    ],
+    "actions": [
+      "featuring",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "This video captures a serene moment in a home setting, featuring a cat and a dog.",
+    "objects": [
+      "home",
+      "serene",
+      "cat",
+      "dog",
+      "moment",
+      "this"
+    ],
+    "actions": [
+      "featuring",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The cat, a brown and white tabby, is comfortably lying on a wooden table, resting its head on a brown wooden block, seemingly at peace with its surroundings.",
+    "objects": [
+      "its",
+      "table",
+      "white",
+      "block",
+      "tabby",
+      "seemingly",
+      "cat",
+      "wooden"
+    ],
+    "actions": [
+      "lying",
+      "resting",
+      "surroundings"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The cat, a brown and white tabby, is comfortably lying on a wooden table, resting its head on a brown wooden block, seemingly at peace with its surroundings.",
+    "objects": [
+      "its",
+      "table",
+      "white",
+      "block",
+      "tabby",
+      "seemingly",
+      "cat",
+      "wooden"
+    ],
+    "actions": [
+      "lying",
+      "resting",
+      "surroundings"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The cat, a brown and white tabby, is comfortably lying on a wooden table, resting its head on a brown wooden block, seemingly at peace with its surroundings.",
+    "objects": [
+      "its",
+      "table",
+      "white",
+      "block",
+      "tabby",
+      "seemingly",
+      "cat",
+      "wooden"
+    ],
+    "actions": [
+      "lying",
+      "resting",
+      "surroundings"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The cat, a brown and white tabby, is comfortably lying on a wooden table, resting its head on a brown wooden block, seemingly at peace with its surroundings.",
+    "objects": [
+      "its",
+      "table",
+      "white",
+      "block",
+      "tabby",
+      "seemingly",
+      "cat",
+      "wooden"
+    ],
+    "actions": [
+      "lying",
+      "resting",
+      "surroundings"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Its eyes are closed, suggesting it might be in a deep sleep or just relaxed.",
+    "objects": [
+      "its",
+      "just",
+      "sleep",
+      "deep",
+      "might",
+      "eyes"
+    ],
+    "actions": [
+      "closed",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Its eyes are closed, suggesting it might be in a deep sleep or just relaxed.",
+    "objects": [
+      "its",
+      "just",
+      "sleep",
+      "deep",
+      "might",
+      "eyes"
+    ],
+    "actions": [
+      "closed",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Its eyes are closed, suggesting it might be in a deep sleep or just relaxed.",
+    "objects": [
+      "its",
+      "just",
+      "sleep",
+      "deep",
+      "might",
+      "eyes"
+    ],
+    "actions": [
+      "closed",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Its eyes are closed, suggesting it might be in a deep sleep or just relaxed.",
+    "objects": [
+      "its",
+      "just",
+      "sleep",
+      "deep",
+      "might",
+      "eyes"
+    ],
+    "actions": [
+      "closed",
+      "relaxed",
+      "suggesting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog, a brown one with a white chest, is also lying on the same table, facing the cat.",
+    "objects": [
+      "one",
+      "table",
+      "white",
+      "chest",
+      "same",
+      "dog",
+      "cat",
+      "brown"
+    ],
+    "actions": [
+      "facing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog, a brown one with a white chest, is also lying on the same table, facing the cat.",
+    "objects": [
+      "one",
+      "table",
+      "white",
+      "chest",
+      "same",
+      "dog",
+      "cat",
+      "brown"
+    ],
+    "actions": [
+      "facing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The dog, a brown one with a white chest, is also lying on the same table, facing the cat.",
+    "objects": [
+      "one",
+      "table",
+      "white",
+      "chest",
+      "same",
+      "dog",
+      "cat",
+      "brown"
+    ],
+    "actions": [
+      "facing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The dog, a brown one with a white chest, is also lying on the same table, facing the cat.",
+    "objects": [
+      "one",
+      "table",
+      "white",
+      "chest",
+      "same",
+      "dog",
+      "cat",
+      "brown"
+    ],
+    "actions": [
+      "facing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "It appears to be in a different state of consciousness, with its eyes open, possibly observing its surroundings or simply enjoying the company.",
+    "objects": [
+      "its",
+      "state",
+      "open",
+      "simply",
+      "possibly",
+      "company",
+      "different",
+      "eyes"
+    ],
+    "actions": [
+      "observing",
+      "surroundings",
+      "consciousness",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "It appears to be in a different state of consciousness, with its eyes open, possibly observing its surroundings or simply enjoying the company.",
+    "objects": [
+      "its",
+      "state",
+      "open",
+      "simply",
+      "possibly",
+      "company",
+      "different",
+      "eyes"
+    ],
+    "actions": [
+      "observing",
+      "surroundings",
+      "consciousness",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "It appears to be in a different state of consciousness, with its eyes open, possibly observing its surroundings or simply enjoying the company.",
+    "objects": [
+      "its",
+      "state",
+      "open",
+      "simply",
+      "possibly",
+      "company",
+      "different",
+      "eyes"
+    ],
+    "actions": [
+      "observing",
+      "surroundings",
+      "consciousness",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "It appears to be in a different state of consciousness, with its eyes open, possibly observing its surroundings or simply enjoying the company.",
+    "objects": [
+      "its",
+      "state",
+      "open",
+      "simply",
+      "possibly",
+      "company",
+      "different",
+      "eyes"
+    ],
+    "actions": [
+      "observing",
+      "surroundings",
+      "consciousness",
+      "enjoying"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The table on which they lie is wooden and seems to be in a room with natural light filtering in, possibly from a window or a skylight.",
+    "objects": [
+      "they",
+      "natural",
+      "table",
+      "possibly",
+      "lie",
+      "from",
+      "window",
+      "light"
+    ],
+    "actions": [
+      "seems",
+      "filtering"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The table on which they lie is wooden and seems to be in a room with natural light filtering in, possibly from a window or a skylight.",
+    "objects": [
+      "they",
+      "natural",
+      "table",
+      "possibly",
+      "lie",
+      "from",
+      "window",
+      "light"
+    ],
+    "actions": [
+      "seems",
+      "filtering"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The table on which they lie is wooden and seems to be in a room with natural light filtering in, possibly from a window or a skylight.",
+    "objects": [
+      "they",
+      "natural",
+      "table",
+      "possibly",
+      "lie",
+      "from",
+      "window",
+      "light"
+    ],
+    "actions": [
+      "seems",
+      "filtering"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The table on which they lie is wooden and seems to be in a room with natural light filtering in, possibly from a window or a skylight.",
+    "objects": [
+      "they",
+      "natural",
+      "table",
+      "possibly",
+      "lie",
+      "from",
+      "window",
+      "light"
+    ],
+    "actions": [
+      "seems",
+      "filtering"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is tranquil, with no human activity visible, and the pets seem to be the main focus of this video.",
+    "objects": [
+      "activity",
+      "tranquil",
+      "main",
+      "pets",
+      "human",
+      "seem",
+      "this"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is tranquil, with no human activity visible, and the pets seem to be the main focus of this video.",
+    "objects": [
+      "activity",
+      "tranquil",
+      "main",
+      "pets",
+      "human",
+      "seem",
+      "this"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is tranquil, with no human activity visible, and the pets seem to be the main focus of this video.",
+    "objects": [
+      "activity",
+      "tranquil",
+      "main",
+      "pets",
+      "human",
+      "seem",
+      "this"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is tranquil, with no human activity visible, and the pets seem to be the main focus of this video.",
+    "objects": [
+      "activity",
+      "tranquil",
+      "main",
+      "pets",
+      "human",
+      "seem",
+      "this"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The cats and dog are not wearing any objects, but the cat has a distinctive brown and white color pattern, while the dog is mostly brown with a white chest.",
+    "objects": [
+      "mostly",
+      "white",
+      "chest",
+      "while",
+      "not",
+      "cats",
+      "has",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "objects"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The cats and dog are not wearing any objects, but the cat has a distinctive brown and white color pattern, while the dog is mostly brown with a white chest.",
+    "objects": [
+      "mostly",
+      "white",
+      "chest",
+      "while",
+      "not",
+      "cats",
+      "has",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "objects"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The cats and dog are not wearing any objects, but the cat has a distinctive brown and white color pattern, while the dog is mostly brown with a white chest.",
+    "objects": [
+      "mostly",
+      "white",
+      "chest",
+      "while",
+      "not",
+      "cats",
+      "has",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "objects"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The cats and dog are not wearing any objects, but the cat has a distinctive brown and white color pattern, while the dog is mostly brown with a white chest.",
+    "objects": [
+      "mostly",
+      "white",
+      "chest",
+      "while",
+      "not",
+      "cats",
+      "has",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "objects"
+    ],
+    "segment_id": 7
+  }
+]

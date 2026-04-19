@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a lively scene in a living room where a man and a small child are engaged in an activity.",
+    "objects": [
+      "activity",
+      "small",
+      "where",
+      "child",
+      "lively",
+      "see",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "living",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a lively scene in a living room where a man and a small child are engaged in an activity.",
+    "objects": [
+      "activity",
+      "small",
+      "where",
+      "child",
+      "lively",
+      "see",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "living",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The man is wearing a black t-shirt with a skull design and blue jeans, while the child is dressed in a blue shirt and blue jeans.",
+    "objects": [
+      "design",
+      "child",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "skull",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The man is wearing a black t-shirt with a skull design and blue jeans, while the child is dressed in a blue shirt and blue jeans.",
+    "objects": [
+      "design",
+      "child",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "skull",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is holding a remote control, and he is actively playing a video game.",
+    "objects": [
+      "actively",
+      "game",
+      "control",
+      "remote",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is holding a remote control, and he is actively playing a video game.",
+    "objects": [
+      "actively",
+      "game",
+      "control",
+      "remote",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The child, dressed in a blue shirt and blue jeans, is holding a toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "dressed",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The child, dressed in a blue shirt and blue jeans, is holding a toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "shirt",
+      "child"
+    ],
+    "actions": [
+      "dressed",
+      "jeans",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is standing up, while the child is walking around.",
+    "objects": [
+      "while",
+      "man",
+      "around",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is standing up, while the child is walking around.",
+    "objects": [
+      "while",
+      "man",
+      "around",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The man is looking at the camera with a smile on his face, and the child is also looking at the camera.",
+    "objects": [
+      "child",
+      "face",
+      "his",
+      "man",
+      "smile"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The man is looking at the camera with a smile on his face, and the child is also looking at the camera.",
+    "objects": [
+      "child",
+      "face",
+      "his",
+      "man",
+      "smile"
+    ],
+    "actions": [
+      "looking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The scene opens with the man standing up, holding the remote control, and the child standing nearby, both of them looking at the camera.",
+    "objects": [
+      "both",
+      "child",
+      "control",
+      "them",
+      "remote",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "looking",
+      "opens",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The scene opens with the man standing up, holding the remote control, and the child standing nearby, both of them looking at the camera.",
+    "objects": [
+      "both",
+      "child",
+      "control",
+      "them",
+      "remote",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "looking",
+      "opens",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The man is wearing a black t-shirt with a skull design and blue jeans, while the child is dressed in a blue shirt and blue jeans.",
+    "objects": [
+      "design",
+      "child",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "skull",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is wearing a black t-shirt with a skull design and blue jeans, while the child is dressed in a blue shirt and blue jeans.",
+    "objects": [
+      "design",
+      "child",
+      "while",
+      "black",
+      "blue",
+      "shirt",
+      "skull",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The child is holding a toy.",
+    "objects": [
+      "toy",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The child is holding a toy.",
+    "objects": [
+      "toy",
+      "child"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The man is playing a video game, and the child is watching the game, both of them engaged in the activity.",
+    "objects": [
+      "activity",
+      "both",
+      "child",
+      "game",
+      "them",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "watching",
+      "engaged"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The man is playing a video game, and the child is watching the game, both of them engaged in the activity.",
+    "objects": [
+      "activity",
+      "both",
+      "child",
+      "game",
+      "them",
+      "man"
+    ],
+    "actions": [
+      "playing",
+      "watching",
+      "engaged"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene then shifts to the child walking around, the man still holding the remote control, and the child looking at the camera.",
+    "objects": [
+      "child",
+      "control",
+      "around",
+      "remote",
+      "man",
+      "then",
+      "still"
+    ],
+    "actions": [
+      "shifts",
+      "looking",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene then shifts to the child walking around, the man still holding the remote control, and the child looking at the camera.",
+    "objects": [
+      "child",
+      "control",
+      "around",
+      "remote",
+      "man",
+      "then",
+      "still"
+    ],
+    "actions": [
+      "shifts",
+      "looking",
+      "holding",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The child is wearing a blue shirt and blue jeans, and the man is dressed in a black t-shirt with a skull design and blue jeans.",
+    "objects": [
+      "design",
+      "child",
+      "black",
+      "blue",
+      "shirt",
+      "skull",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The child is wearing a blue shirt and blue jeans, and the man is dressed in a black t-shirt with a skull design and blue jeans.",
+    "objects": [
+      "design",
+      "child",
+      "black",
+      "blue",
+      "shirt",
+      "skull",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The man is standing up, and the child is walking around.",
+    "objects": [
+      "man",
+      "around",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is standing up, and the child is walking around.",
+    "objects": [
+      "man",
+      "around",
+      "child"
+    ],
+    "actions": [
+      "standing",
+      "walking"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is smiling at the camera, and the child is also smiling at the camera.",
+    "objects": [
+      "man",
+      "child"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is smiling at the camera, and the child is also smiling at the camera.",
+    "objects": [
+      "man",
+      "child"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Finally, the scene ends with the man standing up, the child walking around, and both of them looking at the camera.",
+    "objects": [
+      "both",
+      "child",
+      "finally",
+      "ends",
+      "around",
+      "them",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Finally, the scene ends with the man standing up, the child walking around, and both of them looking at the camera.",
+    "objects": [
+      "both",
+      "child",
+      "finally",
+      "ends",
+      "around",
+      "them",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "standing",
+      "walking"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The man is wearing a black t-shirt with a skull design and blue jeans, and the child is dressed in a blue shirt and blue jeans.",
+    "objects": [
+      "design",
+      "child",
+      "black",
+      "blue",
+      "shirt",
+      "skull",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The man is wearing a black t-shirt with a skull design and blue jeans, and the child is dressed in a blue shirt and blue jeans.",
+    "objects": [
+      "design",
+      "child",
+      "black",
+      "blue",
+      "shirt",
+      "skull",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,486 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman is seen holding a baby in a high chair and feeding it.",
+    "objects": [
+      "baby",
+      "chair",
+      "high",
+      "woman"
+    ],
+    "actions": [
+      "feeding",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman is seen holding a baby in a high chair and feeding it.",
+    "objects": [
+      "baby",
+      "chair",
+      "high",
+      "woman"
+    ],
+    "actions": [
+      "feeding",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman is seen holding a baby in a high chair and feeding it.",
+    "objects": [
+      "baby",
+      "chair",
+      "high",
+      "woman"
+    ],
+    "actions": [
+      "feeding",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman is seen holding a baby in a high chair and feeding it.",
+    "objects": [
+      "baby",
+      "chair",
+      "high",
+      "woman"
+    ],
+    "actions": [
+      "feeding",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is wearing a white top and black pants.",
+    "objects": [
+      "black",
+      "white",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is wearing a white top and black pants.",
+    "objects": [
+      "black",
+      "white",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is wearing a white top and black pants.",
+    "objects": [
+      "black",
+      "white",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is wearing a white top and black pants.",
+    "objects": [
+      "black",
+      "white",
+      "top",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The baby is wearing a green shirt and a green bib.",
+    "objects": [
+      "bib",
+      "baby",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The baby is wearing a green shirt and a green bib.",
+    "objects": [
+      "bib",
+      "baby",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The baby is wearing a green shirt and a green bib.",
+    "objects": [
+      "bib",
+      "baby",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The baby is wearing a green shirt and a green bib.",
+    "objects": [
+      "bib",
+      "baby",
+      "green",
+      "shirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The high chair has a wooden back and a patterned seat.",
+    "objects": [
+      "high",
+      "has",
+      "wooden",
+      "seat",
+      "chair"
+    ],
+    "actions": [
+      "patterned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The high chair has a wooden back and a patterned seat.",
+    "objects": [
+      "high",
+      "has",
+      "wooden",
+      "seat",
+      "chair"
+    ],
+    "actions": [
+      "patterned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The high chair has a wooden back and a patterned seat.",
+    "objects": [
+      "high",
+      "has",
+      "wooden",
+      "seat",
+      "chair"
+    ],
+    "actions": [
+      "patterned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The high chair has a wooden back and a patterned seat.",
+    "objects": [
+      "high",
+      "has",
+      "wooden",
+      "seat",
+      "chair"
+    ],
+    "actions": [
+      "patterned"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The baby is seen grabbing the woman's hand with both hands while she is feeding it.",
+    "objects": [
+      "both",
+      "she",
+      "while",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "hands",
+      "feeding",
+      "grabbing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The baby is seen grabbing the woman's hand with both hands while she is feeding it.",
+    "objects": [
+      "both",
+      "she",
+      "while",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "hands",
+      "feeding",
+      "grabbing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The baby is seen grabbing the woman's hand with both hands while she is feeding it.",
+    "objects": [
+      "both",
+      "she",
+      "while",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "hands",
+      "feeding",
+      "grabbing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The baby is seen grabbing the woman's hand with both hands while she is feeding it.",
+    "objects": [
+      "both",
+      "she",
+      "while",
+      "baby",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "hands",
+      "feeding",
+      "grabbing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman is also holding a spoon, which she is using to feed the baby.",
+    "objects": [
+      "she",
+      "woman",
+      "which",
+      "spoon",
+      "baby"
+    ],
+    "actions": [
+      "feed",
+      "using",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman is also holding a spoon, which she is using to feed the baby.",
+    "objects": [
+      "she",
+      "woman",
+      "which",
+      "spoon",
+      "baby"
+    ],
+    "actions": [
+      "feed",
+      "using",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman is also holding a spoon, which she is using to feed the baby.",
+    "objects": [
+      "she",
+      "woman",
+      "which",
+      "spoon",
+      "baby"
+    ],
+    "actions": [
+      "feed",
+      "using",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman is also holding a spoon, which she is using to feed the baby.",
+    "objects": [
+      "she",
+      "woman",
+      "which",
+      "spoon",
+      "baby"
+    ],
+    "actions": [
+      "feed",
+      "using",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There is a bottle on the table next to the high chair.",
+    "objects": [
+      "there",
+      "table",
+      "high",
+      "bottle",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There is a bottle on the table next to the high chair.",
+    "objects": [
+      "there",
+      "table",
+      "high",
+      "bottle",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There is a bottle on the table next to the high chair.",
+    "objects": [
+      "there",
+      "table",
+      "high",
+      "bottle",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There is a bottle on the table next to the high chair.",
+    "objects": [
+      "there",
+      "table",
+      "high",
+      "bottle",
+      "chair"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is indoors, and the lighting is bright.",
+    "objects": [
+      "bright"
+    ],
+    "actions": [
+      "lighting",
+      "indoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is indoors, and the lighting is bright.",
+    "objects": [
+      "bright"
+    ],
+    "actions": [
+      "lighting",
+      "indoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is indoors, and the lighting is bright.",
+    "objects": [
+      "bright"
+    ],
+    "actions": [
+      "lighting",
+      "indoors"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is indoors, and the lighting is bright.",
+    "objects": [
+      "bright"
+    ],
+    "actions": [
+      "lighting",
+      "indoors"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a close-up shot of a young child sitting in a high chair, with a person's hand visible on the right side, holding a spoon.",
+    "objects": [
+      "high",
+      "child",
+      "side",
+      "spoon",
+      "young",
+      "chair",
+      "hand"
+    ],
+    "actions": [
+      "sitting",
+      "starts",
+      "person's",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a close-up shot of a young child sitting in a high chair, with a person's hand visible on the right side, holding a spoon.",
+    "objects": [
+      "high",
+      "child",
+      "side",
+      "spoon",
+      "young",
+      "chair",
+      "hand"
+    ],
+    "actions": [
+      "sitting",
+      "starts",
+      "person's",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The child is wearing a bib with a red design and is making a cute face.",
+    "objects": [
+      "design",
+      "child",
+      "bib",
+      "face",
+      "cute"
+    ],
+    "actions": [
+      "wearing",
+      "making",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The child is wearing a bib with a red design and is making a cute face.",
+    "objects": [
+      "design",
+      "child",
+      "bib",
+      "face",
+      "cute"
+    ],
+    "actions": [
+      "wearing",
+      "making",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The child appears to be in a domestic setting, possibly a kitchen or dining area, as a wooden dining table and chairs are visible in the background.",
+    "objects": [
+      "domestic",
+      "table",
+      "child",
+      "possibly",
+      "wooden",
+      "kitchen",
+      "area"
+    ],
+    "actions": [
+      "chairs",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The child appears to be in a domestic setting, possibly a kitchen or dining area, as a wooden dining table and chairs are visible in the background.",
+    "objects": [
+      "domestic",
+      "table",
+      "child",
+      "possibly",
+      "wooden",
+      "kitchen",
+      "area"
+    ],
+    "actions": [
+      "chairs",
+      "dining",
+      "setting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The child is in the process of eating, with a bite of food visible on the spoon.",
+    "objects": [
+      "bite",
+      "spoon",
+      "food",
+      "child"
+    ],
+    "actions": [
+      "eating",
+      "process"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The child is in the process of eating, with a bite of food visible on the spoon.",
+    "objects": [
+      "bite",
+      "spoon",
+      "food",
+      "child"
+    ],
+    "actions": [
+      "eating",
+      "process"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The scene then shifts to a wider shot, revealing the child eating with a fork, and the person holding the spoon continues to feed them.",
+    "objects": [
+      "fork",
+      "child",
+      "wider",
+      "them",
+      "spoon",
+      "then"
+    ],
+    "actions": [
+      "revealing",
+      "feed",
+      "holding",
+      "eating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The scene then shifts to a wider shot, revealing the child eating with a fork, and the person holding the spoon continues to feed them.",
+    "objects": [
+      "fork",
+      "child",
+      "wider",
+      "them",
+      "spoon",
+      "then"
+    ],
+    "actions": [
+      "revealing",
+      "feed",
+      "holding",
+      "eating"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The child's clothes are not clearly visible, but the bib is still visible.",
+    "objects": [
+      "bib",
+      "not",
+      "but",
+      "clearly",
+      "still"
+    ],
+    "actions": [
+      "clothes",
+      "child's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The child's clothes are not clearly visible, but the bib is still visible.",
+    "objects": [
+      "bib",
+      "not",
+      "but",
+      "clearly",
+      "still"
+    ],
+    "actions": [
+      "clothes",
+      "child's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The person's hand holding the spoon is shown again, and the child's face is shown again, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "shown",
+      "face",
+      "that",
+      "spoon",
+      "still",
+      "again",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "eating",
+      "child's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The person's hand holding the spoon is shown again, and the child's face is shown again, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "shown",
+      "face",
+      "that",
+      "spoon",
+      "still",
+      "again",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "eating",
+      "child's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The scene then returns to a close-up shot of the child, with the person's hand visible again, feeding them.",
+    "objects": [
+      "child",
+      "them",
+      "then",
+      "again",
+      "hand"
+    ],
+    "actions": [
+      "feeding",
+      "person's",
+      "returns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The scene then returns to a close-up shot of the child, with the person's hand visible again, feeding them.",
+    "objects": [
+      "child",
+      "them",
+      "then",
+      "again",
+      "hand"
+    ],
+    "actions": [
+      "feeding",
+      "person's",
+      "returns"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The child is wearing a bib and appears to be in a happy mood.",
+    "objects": [
+      "mood",
+      "bib",
+      "happy",
+      "child"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The child is wearing a bib and appears to be in a happy mood.",
+    "objects": [
+      "mood",
+      "bib",
+      "happy",
+      "child"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene then widens again to show the child eating with a fork and the person holding the spoon, and the child's face is shown once more.",
+    "objects": [
+      "show",
+      "fork",
+      "child",
+      "shown",
+      "face",
+      "once",
+      "spoon",
+      "more"
+    ],
+    "actions": [
+      "holding",
+      "child's",
+      "eating",
+      "widens"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene then widens again to show the child eating with a fork and the person holding the spoon, and the child's face is shown once more.",
+    "objects": [
+      "show",
+      "fork",
+      "child",
+      "shown",
+      "face",
+      "once",
+      "spoon",
+      "more"
+    ],
+    "actions": [
+      "holding",
+      "child's",
+      "eating",
+      "widens"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The person's hand holding the spoon is shown, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "shown",
+      "face",
+      "that",
+      "spoon",
+      "still",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "eating",
+      "child's"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The person's hand holding the spoon is shown, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "shown",
+      "face",
+      "that",
+      "spoon",
+      "still",
+      "hand"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "eating",
+      "child's"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then shifts back to a close-up shot of the child, with the person's hand visible, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "shown",
+      "child",
+      "face",
+      "that",
+      "then",
+      "still",
+      "hand"
+    ],
+    "actions": [
+      "indicating",
+      "eating",
+      "child's",
+      "person's"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then shifts back to a close-up shot of the child, with the person's hand visible, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "shown",
+      "child",
+      "face",
+      "that",
+      "then",
+      "still",
+      "hand"
+    ],
+    "actions": [
+      "indicating",
+      "eating",
+      "child's",
+      "person's"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene widens again to show the child eating with a fork and the person holding the spoon, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "show",
+      "fork",
+      "child",
+      "shown",
+      "face",
+      "that",
+      "spoon"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "child's",
+      "eating"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene widens again to show the child eating with a fork and the person holding the spoon, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "show",
+      "fork",
+      "child",
+      "shown",
+      "face",
+      "that",
+      "spoon"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "child's",
+      "eating"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene then shifts to a wider shot, showing the child eating with a fork and the person holding the spoon, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "fork",
+      "child",
+      "shown",
+      "face",
+      "wider",
+      "that",
+      "spoon"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "child's",
+      "eating"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene then shifts to a wider shot, showing the child eating with a fork and the person holding the spoon, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "fork",
+      "child",
+      "shown",
+      "face",
+      "wider",
+      "that",
+      "spoon"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "child's",
+      "eating"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene then widens again to show the child eating with a fork and the person holding the spoon, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "show",
+      "fork",
+      "child",
+      "shown",
+      "face",
+      "that",
+      "spoon"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "child's",
+      "eating"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene then widens again to show the child eating with a fork and the person holding the spoon, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "show",
+      "fork",
+      "child",
+      "shown",
+      "face",
+      "that",
+      "spoon"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "child's",
+      "eating"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene then shifts to a wider shot, showing the child eating with a fork and the person holding the spoon, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "fork",
+      "child",
+      "shown",
+      "face",
+      "wider",
+      "that",
+      "spoon"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "child's",
+      "eating"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene then shifts to a wider shot, showing the child eating with a fork and the person holding the spoon, and the child's face is shown, indicating that they are still eating.",
+    "objects": [
+      "they",
+      "fork",
+      "child",
+      "shown",
+      "face",
+      "wider",
+      "that",
+      "spoon"
+    ],
+    "actions": [
+      "holding",
+      "indicating",
+      "child's",
+      "eating"
+    ],
+    "segment_id": 15
+  }
+]

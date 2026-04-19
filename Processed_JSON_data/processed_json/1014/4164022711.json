@@ -1,0 +1,575 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features a lively concert scene with a crowd of people gathered around the stage, engaged in a variety of activities.",
+    "objects": [
+      "crowd",
+      "people",
+      "variety",
+      "lively",
+      "around",
+      "stage",
+      "concert"
+    ],
+    "actions": [
+      "activities",
+      "gathered",
+      "engaged",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features a lively concert scene with a crowd of people gathered around the stage, engaged in a variety of activities.",
+    "objects": [
+      "crowd",
+      "people",
+      "variety",
+      "lively",
+      "around",
+      "stage",
+      "concert"
+    ],
+    "actions": [
+      "activities",
+      "gathered",
+      "engaged",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video features a lively concert scene with a crowd of people gathered around the stage, engaged in a variety of activities.",
+    "objects": [
+      "crowd",
+      "people",
+      "variety",
+      "lively",
+      "around",
+      "stage",
+      "concert"
+    ],
+    "actions": [
+      "activities",
+      "gathered",
+      "engaged",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the foreground, two men are standing close together, each holding a microphone, and they appear to be singing or speaking into the microphones.",
+    "objects": [
+      "they",
+      "appear",
+      "each",
+      "two",
+      "into",
+      "men",
+      "microphone",
+      "close"
+    ],
+    "actions": [
+      "standing",
+      "speaking",
+      "microphones",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "In the foreground, two men are standing close together, each holding a microphone, and they appear to be singing or speaking into the microphones.",
+    "objects": [
+      "they",
+      "appear",
+      "each",
+      "two",
+      "into",
+      "men",
+      "microphone",
+      "close"
+    ],
+    "actions": [
+      "standing",
+      "speaking",
+      "microphones",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, two men are standing close together, each holding a microphone, and they appear to be singing or speaking into the microphones.",
+    "objects": [
+      "they",
+      "appear",
+      "each",
+      "two",
+      "into",
+      "men",
+      "microphone",
+      "close"
+    ],
+    "actions": [
+      "standing",
+      "speaking",
+      "microphones",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One of them is wearing a white shirt and is holding a paper, possibly reading from it.",
+    "objects": [
+      "one",
+      "paper",
+      "white",
+      "possibly",
+      "shirt",
+      "from",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "reading"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "One of them is wearing a white shirt and is holding a paper, possibly reading from it.",
+    "objects": [
+      "one",
+      "paper",
+      "white",
+      "possibly",
+      "shirt",
+      "from",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "reading"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "One of them is wearing a white shirt and is holding a paper, possibly reading from it.",
+    "objects": [
+      "one",
+      "paper",
+      "white",
+      "possibly",
+      "shirt",
+      "from",
+      "them"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "reading"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The other man, wearing a black shirt, is also holding a microphone and is looking off to the side.",
+    "objects": [
+      "other",
+      "black",
+      "microphone",
+      "off",
+      "shirt",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The other man, wearing a black shirt, is also holding a microphone and is looking off to the side.",
+    "objects": [
+      "other",
+      "black",
+      "microphone",
+      "off",
+      "shirt",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The other man, wearing a black shirt, is also holding a microphone and is looking off to the side.",
+    "objects": [
+      "other",
+      "black",
+      "microphone",
+      "off",
+      "shirt",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man is standing on the stage, wearing a white shirt and holding a microphone.",
+    "objects": [
+      "white",
+      "microphone",
+      "shirt",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man is standing on the stage, wearing a white shirt and holding a microphone.",
+    "objects": [
+      "white",
+      "microphone",
+      "shirt",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Another man is standing on the stage, wearing a white shirt and holding a microphone.",
+    "objects": [
+      "white",
+      "microphone",
+      "shirt",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "He appears to be singing or speaking into the microphone as well.",
+    "objects": [
+      "microphone",
+      "well",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "He appears to be singing or speaking into the microphone as well.",
+    "objects": [
+      "microphone",
+      "well",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "He appears to be singing or speaking into the microphone as well.",
+    "objects": [
+      "microphone",
+      "well",
+      "into"
+    ],
+    "actions": [
+      "singing",
+      "speaking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "Further back on the stage, two more individuals are standing, one of whom is holding a microphone and the other is holding a paper.",
+    "objects": [
+      "one",
+      "paper",
+      "other",
+      "two",
+      "further",
+      "whom",
+      "microphone",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "individuals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "Further back on the stage, two more individuals are standing, one of whom is holding a microphone and the other is holding a paper.",
+    "objects": [
+      "one",
+      "paper",
+      "other",
+      "two",
+      "further",
+      "whom",
+      "microphone",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "individuals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "Further back on the stage, two more individuals are standing, one of whom is holding a microphone and the other is holding a paper.",
+    "objects": [
+      "one",
+      "paper",
+      "other",
+      "two",
+      "further",
+      "whom",
+      "microphone",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "individuals"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "They are also singing or speaking.",
+    "objects": [
+      "they"
+    ],
+    "actions": [
+      "singing",
+      "speaking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "They are also singing or speaking.",
+    "objects": [
+      "they"
+    ],
+    "actions": [
+      "singing",
+      "speaking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "They are also singing or speaking.",
+    "objects": [
+      "they"
+    ],
+    "actions": [
+      "singing",
+      "speaking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Behind them, a person is standing on the stage, wearing a white shirt and holding a microphone, singing or speaking.",
+    "objects": [
+      "behind",
+      "white",
+      "microphone",
+      "shirt",
+      "them",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "speaking",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Behind them, a person is standing on the stage, wearing a white shirt and holding a microphone, singing or speaking.",
+    "objects": [
+      "behind",
+      "white",
+      "microphone",
+      "shirt",
+      "them",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "speaking",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Behind them, a person is standing on the stage, wearing a white shirt and holding a microphone, singing or speaking.",
+    "objects": [
+      "behind",
+      "white",
+      "microphone",
+      "shirt",
+      "them",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "speaking",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The crowd in the background is energetic, with some individuals raising their hands in the air, possibly in a display of excitement or enthusiasm.",
+    "objects": [
+      "their",
+      "air",
+      "crowd",
+      "possibly",
+      "enthusiasm",
+      "energetic",
+      "some",
+      "excitement"
+    ],
+    "actions": [
+      "raising",
+      "hands",
+      "individuals"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The crowd in the background is energetic, with some individuals raising their hands in the air, possibly in a display of excitement or enthusiasm.",
+    "objects": [
+      "their",
+      "air",
+      "crowd",
+      "possibly",
+      "enthusiasm",
+      "energetic",
+      "some",
+      "excitement"
+    ],
+    "actions": [
+      "raising",
+      "hands",
+      "individuals"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The crowd in the background is energetic, with some individuals raising their hands in the air, possibly in a display of excitement or enthusiasm.",
+    "objects": [
+      "their",
+      "air",
+      "crowd",
+      "possibly",
+      "enthusiasm",
+      "energetic",
+      "some",
+      "excitement"
+    ],
+    "actions": [
+      "raising",
+      "hands",
+      "individuals"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The overall atmosphere is vibrant and full of energy.",
+    "objects": [
+      "full",
+      "vibrant",
+      "atmosphere",
+      "overall",
+      "energy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The overall atmosphere is vibrant and full of energy.",
+    "objects": [
+      "full",
+      "vibrant",
+      "atmosphere",
+      "overall",
+      "energy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  }
+]

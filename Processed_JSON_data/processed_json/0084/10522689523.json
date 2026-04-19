@@ -1,0 +1,486 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a black cat walking on a bathroom counter and standing on a white sink.",
+    "objects": [
+      "white",
+      "cat",
+      "bathroom",
+      "sink",
+      "counter",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a black cat walking on a bathroom counter and standing on a white sink.",
+    "objects": [
+      "white",
+      "cat",
+      "bathroom",
+      "sink",
+      "counter",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a black cat walking on a bathroom counter and standing on a white sink.",
+    "objects": [
+      "white",
+      "cat",
+      "bathroom",
+      "sink",
+      "counter",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a black cat walking on a bathroom counter and standing on a white sink.",
+    "objects": [
+      "white",
+      "cat",
+      "bathroom",
+      "sink",
+      "counter",
+      "black"
+    ],
+    "actions": [
+      "walking",
+      "standing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The cat is wearing a white collar and has a white spot on its chest.",
+    "objects": [
+      "spot",
+      "has",
+      "white",
+      "cat",
+      "collar",
+      "chest",
+      "its"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The cat is wearing a white collar and has a white spot on its chest.",
+    "objects": [
+      "spot",
+      "has",
+      "white",
+      "cat",
+      "collar",
+      "chest",
+      "its"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The cat is wearing a white collar and has a white spot on its chest.",
+    "objects": [
+      "spot",
+      "has",
+      "white",
+      "cat",
+      "collar",
+      "chest",
+      "its"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The cat is wearing a white collar and has a white spot on its chest.",
+    "objects": [
+      "spot",
+      "has",
+      "white",
+      "cat",
+      "collar",
+      "chest",
+      "its"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The cat is licking water from a silver faucet.",
+    "objects": [
+      "water",
+      "cat",
+      "silver",
+      "from",
+      "faucet"
+    ],
+    "actions": [
+      "licking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The cat is licking water from a silver faucet.",
+    "objects": [
+      "water",
+      "cat",
+      "silver",
+      "from",
+      "faucet"
+    ],
+    "actions": [
+      "licking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The cat is licking water from a silver faucet.",
+    "objects": [
+      "water",
+      "cat",
+      "silver",
+      "from",
+      "faucet"
+    ],
+    "actions": [
+      "licking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The cat is licking water from a silver faucet.",
+    "objects": [
+      "water",
+      "cat",
+      "silver",
+      "from",
+      "faucet"
+    ],
+    "actions": [
+      "licking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A person is standing on the floor wearing a blue hoodie and holding a blue mug.",
+    "objects": [
+      "floor",
+      "mug",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A person is standing on the floor wearing a blue hoodie and holding a blue mug.",
+    "objects": [
+      "floor",
+      "mug",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A person is standing on the floor wearing a blue hoodie and holding a blue mug.",
+    "objects": [
+      "floor",
+      "mug",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A person is standing on the floor wearing a blue hoodie and holding a blue mug.",
+    "objects": [
+      "floor",
+      "mug",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "There is a green toothbrush on the counter, and a black toothbrush in a holder next to the person.",
+    "objects": [
+      "toothbrush",
+      "green",
+      "holder",
+      "counter",
+      "there",
+      "black"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "There is a green toothbrush on the counter, and a black toothbrush in a holder next to the person.",
+    "objects": [
+      "toothbrush",
+      "green",
+      "holder",
+      "counter",
+      "there",
+      "black"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "There is a green toothbrush on the counter, and a black toothbrush in a holder next to the person.",
+    "objects": [
+      "toothbrush",
+      "green",
+      "holder",
+      "counter",
+      "there",
+      "black"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "There is a green toothbrush on the counter, and a black toothbrush in a holder next to the person.",
+    "objects": [
+      "toothbrush",
+      "green",
+      "holder",
+      "counter",
+      "there",
+      "black"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The person is also holding a white cup.",
+    "objects": [
+      "white",
+      "cup"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The person is also holding a white cup.",
+    "objects": [
+      "white",
+      "cup"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The person is also holding a white cup.",
+    "objects": [
+      "white",
+      "cup"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The person is also holding a white cup.",
+    "objects": [
+      "white",
+      "cup"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The cat is looking at the camera and appears to be interested in something on the floor.",
+    "objects": [
+      "floor",
+      "cat"
+    ],
+    "actions": [
+      "interested",
+      "something",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The cat is looking at the camera and appears to be interested in something on the floor.",
+    "objects": [
+      "floor",
+      "cat"
+    ],
+    "actions": [
+      "interested",
+      "something",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The cat is looking at the camera and appears to be interested in something on the floor.",
+    "objects": [
+      "floor",
+      "cat"
+    ],
+    "actions": [
+      "interested",
+      "something",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The cat is looking at the camera and appears to be interested in something on the floor.",
+    "objects": [
+      "floor",
+      "cat"
+    ],
+    "actions": [
+      "interested",
+      "something",
+      "looking"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is set in a bathroom with tiled flooring.",
+    "objects": [
+      "bathroom",
+      "set"
+    ],
+    "actions": [
+      "tiled",
+      "flooring"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is set in a bathroom with tiled flooring.",
+    "objects": [
+      "bathroom",
+      "set"
+    ],
+    "actions": [
+      "tiled",
+      "flooring"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is set in a bathroom with tiled flooring.",
+    "objects": [
+      "bathroom",
+      "set"
+    ],
+    "actions": [
+      "tiled",
+      "flooring"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is set in a bathroom with tiled flooring.",
+    "objects": [
+      "bathroom",
+      "set"
+    ],
+    "actions": [
+      "tiled",
+      "flooring"
+    ],
+    "segment_id": 7
+  }
+]

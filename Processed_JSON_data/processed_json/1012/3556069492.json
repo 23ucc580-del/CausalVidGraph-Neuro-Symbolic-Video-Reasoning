@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are four people standing on a stage, each holding a guitar.",
+    "objects": [
+      "each",
+      "there",
+      "people",
+      "guitar",
+      "four",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are four people standing on a stage, each holding a guitar.",
+    "objects": [
+      "each",
+      "there",
+      "people",
+      "guitar",
+      "four",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are four people standing on a stage, each holding a guitar.",
+    "objects": [
+      "each",
+      "there",
+      "people",
+      "guitar",
+      "four",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there are four people standing on a stage, each holding a guitar.",
+    "objects": [
+      "each",
+      "there",
+      "people",
+      "guitar",
+      "four",
+      "stage"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "They appear to be a band performing.",
+    "objects": [
+      "they",
+      "appear",
+      "band"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "They appear to be a band performing.",
+    "objects": [
+      "they",
+      "appear",
+      "band"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They appear to be a band performing.",
+    "objects": [
+      "they",
+      "appear",
+      "band"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "They appear to be a band performing.",
+    "objects": [
+      "they",
+      "appear",
+      "band"
+    ],
+    "actions": [
+      "performing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is wearing a blue hoodie, the woman is dressed in a black dress, the girl is wearing a blue shirt, and the other girl is in a grey top.",
+    "objects": [
+      "other",
+      "woman",
+      "black",
+      "blue",
+      "grey",
+      "shirt",
+      "top",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is wearing a blue hoodie, the woman is dressed in a black dress, the girl is wearing a blue shirt, and the other girl is in a grey top.",
+    "objects": [
+      "other",
+      "woman",
+      "black",
+      "blue",
+      "grey",
+      "shirt",
+      "top",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man is wearing a blue hoodie, the woman is dressed in a black dress, the girl is wearing a blue shirt, and the other girl is in a grey top.",
+    "objects": [
+      "other",
+      "woman",
+      "black",
+      "blue",
+      "grey",
+      "shirt",
+      "top",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man is wearing a blue hoodie, the woman is dressed in a black dress, the girl is wearing a blue shirt, and the other girl is in a grey top.",
+    "objects": [
+      "other",
+      "woman",
+      "black",
+      "blue",
+      "grey",
+      "shirt",
+      "top",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is singing into the microphone, while the woman is singing as well.",
+    "objects": [
+      "woman",
+      "while",
+      "into",
+      "microphone",
+      "well",
+      "man"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is singing into the microphone, while the woman is singing as well.",
+    "objects": [
+      "woman",
+      "while",
+      "into",
+      "microphone",
+      "well",
+      "man"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man is singing into the microphone, while the woman is singing as well.",
+    "objects": [
+      "woman",
+      "while",
+      "into",
+      "microphone",
+      "well",
+      "man"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is singing into the microphone, while the woman is singing as well.",
+    "objects": [
+      "woman",
+      "while",
+      "into",
+      "microphone",
+      "well",
+      "man"
+    ],
+    "actions": [
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The band members are playing their guitars, and the sound of their music fills the room.",
+    "objects": [
+      "band",
+      "their",
+      "room",
+      "music",
+      "sound"
+    ],
+    "actions": [
+      "playing",
+      "fills",
+      "guitars",
+      "members"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The band members are playing their guitars, and the sound of their music fills the room.",
+    "objects": [
+      "band",
+      "their",
+      "room",
+      "music",
+      "sound"
+    ],
+    "actions": [
+      "playing",
+      "fills",
+      "guitars",
+      "members"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The band members are playing their guitars, and the sound of their music fills the room.",
+    "objects": [
+      "band",
+      "their",
+      "room",
+      "music",
+      "sound"
+    ],
+    "actions": [
+      "playing",
+      "fills",
+      "guitars",
+      "members"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The band members are playing their guitars, and the sound of their music fills the room.",
+    "objects": [
+      "band",
+      "their",
+      "room",
+      "music",
+      "sound"
+    ],
+    "actions": [
+      "playing",
+      "fills",
+      "guitars",
+      "members"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is wearing glasses and has a beard, the woman has long hair, and the girl is wearing a black headband.",
+    "objects": [
+      "hair",
+      "woman",
+      "black",
+      "beard",
+      "long",
+      "has",
+      "girl",
+      "headband"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is wearing glasses and has a beard, the woman has long hair, and the girl is wearing a black headband.",
+    "objects": [
+      "hair",
+      "woman",
+      "black",
+      "beard",
+      "long",
+      "has",
+      "girl",
+      "headband"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is wearing glasses and has a beard, the woman has long hair, and the girl is wearing a black headband.",
+    "objects": [
+      "hair",
+      "woman",
+      "black",
+      "beard",
+      "long",
+      "has",
+      "girl",
+      "headband"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is wearing glasses and has a beard, the woman has long hair, and the girl is wearing a black headband.",
+    "objects": [
+      "hair",
+      "woman",
+      "black",
+      "beard",
+      "long",
+      "has",
+      "girl",
+      "headband"
+    ],
+    "actions": [
+      "wearing",
+      "glasses"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "They are all singing and playing in harmony, creating a lively and energetic atmosphere.",
+    "objects": [
+      "they",
+      "energetic",
+      "lively",
+      "atmosphere",
+      "harmony",
+      "all"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "They are all singing and playing in harmony, creating a lively and energetic atmosphere.",
+    "objects": [
+      "they",
+      "energetic",
+      "lively",
+      "atmosphere",
+      "harmony",
+      "all"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "They are all singing and playing in harmony, creating a lively and energetic atmosphere.",
+    "objects": [
+      "they",
+      "energetic",
+      "lively",
+      "atmosphere",
+      "harmony",
+      "all"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "They are all singing and playing in harmony, creating a lively and energetic atmosphere.",
+    "objects": [
+      "they",
+      "energetic",
+      "lively",
+      "atmosphere",
+      "harmony",
+      "all"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "creating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man is strumming his guitar while singing, and the woman is playing hers while singing.",
+    "objects": [
+      "woman",
+      "while",
+      "guitar",
+      "hers",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "strumming"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man is strumming his guitar while singing, and the woman is playing hers while singing.",
+    "objects": [
+      "woman",
+      "while",
+      "guitar",
+      "hers",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "strumming"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man is strumming his guitar while singing, and the woman is playing hers while singing.",
+    "objects": [
+      "woman",
+      "while",
+      "guitar",
+      "hers",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "strumming"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man is strumming his guitar while singing, and the woman is playing hers while singing.",
+    "objects": [
+      "woman",
+      "while",
+      "guitar",
+      "hers",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "singing",
+      "playing",
+      "strumming"
+    ],
+    "segment_id": 7
+  }
+]

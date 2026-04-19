@@ -1,0 +1,590 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people engaging in the thrilling sport of tightrope walking at an outdoor event.",
+    "objects": [
+      "sport",
+      "tightrope",
+      "this",
+      "people",
+      "event",
+      "outdoor",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "engaging",
+      "walking",
+      "thrilling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people engaging in the thrilling sport of tightrope walking at an outdoor event.",
+    "objects": [
+      "sport",
+      "tightrope",
+      "this",
+      "people",
+      "event",
+      "outdoor",
+      "see",
+      "group"
+    ],
+    "actions": [
+      "engaging",
+      "walking",
+      "thrilling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene opens with a man in a black shirt and black pants, holding a red cloth, and a woman in a black dress, both standing on a tall wooden platform.",
+    "objects": [
+      "platform",
+      "both",
+      "wooden",
+      "man",
+      "dress",
+      "shirt",
+      "tall",
+      "black"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "holding",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a man in a black shirt and black pants, holding a red cloth, and a woman in a black dress, both standing on a tall wooden platform.",
+    "objects": [
+      "platform",
+      "both",
+      "wooden",
+      "man",
+      "dress",
+      "shirt",
+      "tall",
+      "black"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "holding",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is about to walk on the rope, while the woman watches on, possibly offering support or encouragement.",
+    "objects": [
+      "man",
+      "while",
+      "support",
+      "encouragement",
+      "walk",
+      "woman",
+      "about",
+      "rope"
+    ],
+    "actions": [
+      "offering",
+      "watches"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is about to walk on the rope, while the woman watches on, possibly offering support or encouragement.",
+    "objects": [
+      "man",
+      "while",
+      "support",
+      "encouragement",
+      "walk",
+      "woman",
+      "about",
+      "rope"
+    ],
+    "actions": [
+      "offering",
+      "watches"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "Next, we see a man in a white shirt and blue pants, holding a white cloth, walking on the rope.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "rope",
+      "shirt",
+      "see",
+      "cloth"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "Next, we see a man in a white shirt and blue pants, holding a white cloth, walking on the rope.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "rope",
+      "shirt",
+      "see",
+      "cloth"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "He seems to be in the middle of his walk, maintaining balance and control.",
+    "objects": [
+      "middle",
+      "balance",
+      "his",
+      "walk",
+      "control"
+    ],
+    "actions": [
+      "maintaining",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "He seems to be in the middle of his walk, maintaining balance and control.",
+    "objects": [
+      "middle",
+      "balance",
+      "his",
+      "walk",
+      "control"
+    ],
+    "actions": [
+      "maintaining",
+      "seems"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "Then, a man in a blue hoodie and black pants is shown, holding a white cloth and walking on the rope.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "shown",
+      "hoodie",
+      "black",
+      "rope",
+      "cloth"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "Then, a man in a blue hoodie and black pants is shown, holding a white cloth and walking on the rope.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "shown",
+      "hoodie",
+      "black",
+      "rope",
+      "cloth"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "He is also in the middle of his walk, demonstrating balance and control.",
+    "objects": [
+      "middle",
+      "balance",
+      "his",
+      "walk",
+      "control"
+    ],
+    "actions": [
+      "demonstrating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "He is also in the middle of his walk, demonstrating balance and control.",
+    "objects": [
+      "middle",
+      "balance",
+      "his",
+      "walk",
+      "control"
+    ],
+    "actions": [
+      "demonstrating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The camera then shifts to another man, wearing a silver shirt and black pants, who is holding a white cloth and walking on the rope.",
+    "objects": [
+      "white",
+      "cloth",
+      "man",
+      "silver",
+      "shirt",
+      "black",
+      "rope",
+      "who"
+    ],
+    "actions": [
+      "shifts",
+      "holding",
+      "walking",
+      "pants"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The camera then shifts to another man, wearing a silver shirt and black pants, who is holding a white cloth and walking on the rope.",
+    "objects": [
+      "white",
+      "cloth",
+      "man",
+      "silver",
+      "shirt",
+      "black",
+      "rope",
+      "who"
+    ],
+    "actions": [
+      "shifts",
+      "holding",
+      "walking",
+      "pants"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "He appears to be in the middle of his walk as well.",
+    "objects": [
+      "well",
+      "walk",
+      "his",
+      "middle"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "He appears to be in the middle of his walk as well.",
+    "objects": [
+      "well",
+      "walk",
+      "his",
+      "middle"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "Next, we see a woman in a blue shirt and black pants, holding a white cloth and walking on the rope.",
+    "objects": [
+      "white",
+      "blue",
+      "see",
+      "rope",
+      "shirt",
+      "black",
+      "woman",
+      "cloth"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "Next, we see a woman in a blue shirt and black pants, holding a white cloth and walking on the rope.",
+    "objects": [
+      "white",
+      "blue",
+      "see",
+      "rope",
+      "shirt",
+      "black",
+      "woman",
+      "cloth"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "She is also in the middle of her walk, displaying balance and control.",
+    "objects": [
+      "middle",
+      "her",
+      "balance",
+      "walk",
+      "control",
+      "she"
+    ],
+    "actions": [
+      "displaying"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "She is also in the middle of her walk, displaying balance and control.",
+    "objects": [
+      "middle",
+      "her",
+      "balance",
+      "walk",
+      "control",
+      "she"
+    ],
+    "actions": [
+      "displaying"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "Finally, we see a man in a white shirt and black pants, holding a white cloth and walking on the rope.",
+    "objects": [
+      "white",
+      "finally",
+      "man",
+      "rope",
+      "shirt",
+      "black",
+      "see",
+      "cloth"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "Finally, we see a man in a white shirt and black pants, holding a white cloth and walking on the rope.",
+    "objects": [
+      "white",
+      "finally",
+      "man",
+      "rope",
+      "shirt",
+      "black",
+      "see",
+      "cloth"
+    ],
+    "actions": [
+      "walking",
+      "holding",
+      "pants"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "He appears to be in the middle of his walk, showcasing his balance and control.",
+    "objects": [
+      "middle",
+      "balance",
+      "his",
+      "walk",
+      "control"
+    ],
+    "actions": [
+      "showcasing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "He appears to be in the middle of his walk, showcasing his balance and control.",
+    "objects": [
+      "middle",
+      "balance",
+      "his",
+      "walk",
+      "control"
+    ],
+    "actions": [
+      "showcasing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "Throughout the video, we can see the individuals displaying impressive balance and control as they walk on the tightrope, their movements slow and deliberate, showcasing the skill required for this activity.",
+    "objects": [
+      "tightrope",
+      "can",
+      "balance",
+      "skill",
+      "this",
+      "walk",
+      "throughout",
+      "deliberate"
+    ],
+    "actions": [
+      "movements",
+      "displaying",
+      "required",
+      "showcasing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "Throughout the video, we can see the individuals displaying impressive balance and control as they walk on the tightrope, their movements slow and deliberate, showcasing the skill required for this activity.",
+    "objects": [
+      "tightrope",
+      "can",
+      "balance",
+      "skill",
+      "this",
+      "walk",
+      "throughout",
+      "deliberate"
+    ],
+    "actions": [
+      "movements",
+      "displaying",
+      "required",
+      "showcasing"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The colorful clothing adds vibrancy to the scene, and the outdoor setting provides a beautiful backdrop for the activity.",
+    "objects": [
+      "adds",
+      "colorful",
+      "beautiful",
+      "vibrancy",
+      "outdoor",
+      "backdrop",
+      "activity"
+    ],
+    "actions": [
+      "setting",
+      "clothing",
+      "provides"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The colorful clothing adds vibrancy to the scene, and the outdoor setting provides a beautiful backdrop for the activity.",
+    "objects": [
+      "adds",
+      "colorful",
+      "beautiful",
+      "vibrancy",
+      "outdoor",
+      "backdrop",
+      "activity"
+    ],
+    "actions": [
+      "setting",
+      "clothing",
+      "provides"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The red, white, and blue colors stand out, adding a pop of color to the scene.",
+    "objects": [
+      "white",
+      "blue",
+      "color",
+      "pop",
+      "out",
+      "stand"
+    ],
+    "actions": [
+      "adding",
+      "colors",
+      "red"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The red, white, and blue colors stand out, adding a pop of color to the scene.",
+    "objects": [
+      "white",
+      "blue",
+      "color",
+      "pop",
+      "out",
+      "stand"
+    ],
+    "actions": [
+      "adding",
+      "colors",
+      "red"
+    ],
+    "segment_id": 15
+  }
+]

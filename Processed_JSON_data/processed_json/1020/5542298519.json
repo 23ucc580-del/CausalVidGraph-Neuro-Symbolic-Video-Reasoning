@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a black and white dog is seen standing in a lush green field, facing the camera.",
+    "objects": [
+      "white",
+      "black",
+      "green",
+      "lush",
+      "field",
+      "dog"
+    ],
+    "actions": [
+      "facing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a black and white dog is seen standing in a lush green field, facing the camera.",
+    "objects": [
+      "white",
+      "black",
+      "green",
+      "lush",
+      "field",
+      "dog"
+    ],
+    "actions": [
+      "facing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a black and white dog is seen standing in a lush green field, facing the camera.",
+    "objects": [
+      "white",
+      "black",
+      "green",
+      "lush",
+      "field",
+      "dog"
+    ],
+    "actions": [
+      "facing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a black and white dog is seen standing in a lush green field, facing the camera.",
+    "objects": [
+      "white",
+      "black",
+      "green",
+      "lush",
+      "field",
+      "dog"
+    ],
+    "actions": [
+      "facing",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The dog appears to be curiously observing something or someone off-camera.",
+    "objects": [
+      "someone",
+      "dog",
+      "curiously"
+    ],
+    "actions": [
+      "something",
+      "observing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog appears to be curiously observing something or someone off-camera.",
+    "objects": [
+      "someone",
+      "dog",
+      "curiously"
+    ],
+    "actions": [
+      "something",
+      "observing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog appears to be curiously observing something or someone off-camera.",
+    "objects": [
+      "someone",
+      "dog",
+      "curiously"
+    ],
+    "actions": [
+      "something",
+      "observing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog appears to be curiously observing something or someone off-camera.",
+    "objects": [
+      "someone",
+      "dog",
+      "curiously"
+    ],
+    "actions": [
+      "something",
+      "observing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Behind the dog, two sheep are grazing peacefully.",
+    "objects": [
+      "behind",
+      "two",
+      "dog",
+      "peacefully",
+      "sheep"
+    ],
+    "actions": [
+      "grazing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Behind the dog, two sheep are grazing peacefully.",
+    "objects": [
+      "behind",
+      "two",
+      "dog",
+      "peacefully",
+      "sheep"
+    ],
+    "actions": [
+      "grazing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Behind the dog, two sheep are grazing peacefully.",
+    "objects": [
+      "behind",
+      "two",
+      "dog",
+      "peacefully",
+      "sheep"
+    ],
+    "actions": [
+      "grazing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Behind the dog, two sheep are grazing peacefully.",
+    "objects": [
+      "behind",
+      "two",
+      "dog",
+      "peacefully",
+      "sheep"
+    ],
+    "actions": [
+      "grazing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "One of the sheep is a light brown color, and the other is a darker shade, possibly black.",
+    "objects": [
+      "one",
+      "other",
+      "black",
+      "possibly",
+      "darker",
+      "shade",
+      "color",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "One of the sheep is a light brown color, and the other is a darker shade, possibly black.",
+    "objects": [
+      "one",
+      "other",
+      "black",
+      "possibly",
+      "darker",
+      "shade",
+      "color",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "One of the sheep is a light brown color, and the other is a darker shade, possibly black.",
+    "objects": [
+      "one",
+      "other",
+      "black",
+      "possibly",
+      "darker",
+      "shade",
+      "color",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "One of the sheep is a light brown color, and the other is a darker shade, possibly black.",
+    "objects": [
+      "one",
+      "other",
+      "black",
+      "possibly",
+      "darker",
+      "shade",
+      "color",
+      "light"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The sheep are in the background, not interacting with the dog.",
+    "objects": [
+      "not",
+      "dog",
+      "sheep"
+    ],
+    "actions": [
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The sheep are in the background, not interacting with the dog.",
+    "objects": [
+      "not",
+      "dog",
+      "sheep"
+    ],
+    "actions": [
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The sheep are in the background, not interacting with the dog.",
+    "objects": [
+      "not",
+      "dog",
+      "sheep"
+    ],
+    "actions": [
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The sheep are in the background, not interacting with the dog.",
+    "objects": [
+      "not",
+      "dog",
+      "sheep"
+    ],
+    "actions": [
+      "interacting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The dog seems to be in a quiet, rural setting, possibly a farm or countryside area, with a few trees in the distance and a house visible in the background.",
+    "objects": [
+      "distance",
+      "countryside",
+      "possibly",
+      "quiet",
+      "house",
+      "dog",
+      "farm",
+      "few"
+    ],
+    "actions": [
+      "seems",
+      "trees",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The dog seems to be in a quiet, rural setting, possibly a farm or countryside area, with a few trees in the distance and a house visible in the background.",
+    "objects": [
+      "distance",
+      "countryside",
+      "possibly",
+      "quiet",
+      "house",
+      "dog",
+      "farm",
+      "few"
+    ],
+    "actions": [
+      "seems",
+      "trees",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The dog seems to be in a quiet, rural setting, possibly a farm or countryside area, with a few trees in the distance and a house visible in the background.",
+    "objects": [
+      "distance",
+      "countryside",
+      "possibly",
+      "quiet",
+      "house",
+      "dog",
+      "farm",
+      "few"
+    ],
+    "actions": [
+      "seems",
+      "trees",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The dog seems to be in a quiet, rural setting, possibly a farm or countryside area, with a few trees in the distance and a house visible in the background.",
+    "objects": [
+      "distance",
+      "countryside",
+      "possibly",
+      "quiet",
+      "house",
+      "dog",
+      "farm",
+      "few"
+    ],
+    "actions": [
+      "seems",
+      "trees",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The dog is wearing a collar and has a leash attached to it, indicating it is likely a pet.",
+    "objects": [
+      "collar",
+      "has",
+      "leash",
+      "pet",
+      "dog",
+      "likely"
+    ],
+    "actions": [
+      "wearing",
+      "indicating",
+      "attached"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The dog is wearing a collar and has a leash attached to it, indicating it is likely a pet.",
+    "objects": [
+      "collar",
+      "has",
+      "leash",
+      "pet",
+      "dog",
+      "likely"
+    ],
+    "actions": [
+      "wearing",
+      "indicating",
+      "attached"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The dog is wearing a collar and has a leash attached to it, indicating it is likely a pet.",
+    "objects": [
+      "collar",
+      "has",
+      "leash",
+      "pet",
+      "dog",
+      "likely"
+    ],
+    "actions": [
+      "wearing",
+      "indicating",
+      "attached"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The dog is wearing a collar and has a leash attached to it, indicating it is likely a pet.",
+    "objects": [
+      "collar",
+      "has",
+      "leash",
+      "pet",
+      "dog",
+      "likely"
+    ],
+    "actions": [
+      "wearing",
+      "indicating",
+      "attached"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is serene and idyllic, with the dog, sheep, and the surrounding nature creating a peaceful and calm atmosphere.",
+    "objects": [
+      "serene",
+      "peaceful",
+      "atmosphere",
+      "idyllic",
+      "dog",
+      "calm",
+      "nature",
+      "sheep"
+    ],
+    "actions": [
+      "surrounding",
+      "creating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is serene and idyllic, with the dog, sheep, and the surrounding nature creating a peaceful and calm atmosphere.",
+    "objects": [
+      "serene",
+      "peaceful",
+      "atmosphere",
+      "idyllic",
+      "dog",
+      "calm",
+      "nature",
+      "sheep"
+    ],
+    "actions": [
+      "surrounding",
+      "creating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is serene and idyllic, with the dog, sheep, and the surrounding nature creating a peaceful and calm atmosphere.",
+    "objects": [
+      "serene",
+      "peaceful",
+      "atmosphere",
+      "idyllic",
+      "dog",
+      "calm",
+      "nature",
+      "sheep"
+    ],
+    "actions": [
+      "surrounding",
+      "creating"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is serene and idyllic, with the dog, sheep, and the surrounding nature creating a peaceful and calm atmosphere.",
+    "objects": [
+      "serene",
+      "peaceful",
+      "atmosphere",
+      "idyllic",
+      "dog",
+      "calm",
+      "nature",
+      "sheep"
+    ],
+    "actions": [
+      "surrounding",
+      "creating"
+    ],
+    "segment_id": 7
+  }
+]

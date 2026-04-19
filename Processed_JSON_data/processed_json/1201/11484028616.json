@@ -1,0 +1,530 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is gathered in a room, sitting around a table.",
+    "objects": [
+      "around",
+      "room",
+      "people",
+      "table",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is gathered in a room, sitting around a table.",
+    "objects": [
+      "around",
+      "room",
+      "people",
+      "table",
+      "group"
+    ],
+    "actions": [
+      "gathered",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "One man, dressed in a blue hoodie, is holding a glass of water.",
+    "objects": [
+      "blue",
+      "man",
+      "water",
+      "one",
+      "glass",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "One man, dressed in a blue hoodie, is holding a glass of water.",
+    "objects": [
+      "blue",
+      "man",
+      "water",
+      "one",
+      "glass",
+      "hoodie"
+    ],
+    "actions": [
+      "holding",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Another man, wearing a black jacket and white shirt, is holding a glass of beer.",
+    "objects": [
+      "white",
+      "man",
+      "shirt",
+      "jacket",
+      "glass",
+      "beer",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "Another man, wearing a black jacket and white shirt, is holding a glass of beer.",
+    "objects": [
+      "white",
+      "man",
+      "shirt",
+      "jacket",
+      "glass",
+      "beer",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "A man in a gray jacket and white shirt is holding a glass of water.",
+    "objects": [
+      "white",
+      "gray",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "A man in a gray jacket and white shirt is holding a glass of water.",
+    "objects": [
+      "white",
+      "gray",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A man in a black jacket and white shirt is holding a glass of water.",
+    "objects": [
+      "white",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A man in a black jacket and white shirt is holding a glass of water.",
+    "objects": [
+      "white",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "A man in a blue hoodie is holding a glass of water.",
+    "objects": [
+      "blue",
+      "man",
+      "water",
+      "glass",
+      "hoodie"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "A man in a blue hoodie is holding a glass of water.",
+    "objects": [
+      "blue",
+      "man",
+      "water",
+      "glass",
+      "hoodie"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a black jacket is holding a glass of water.",
+    "objects": [
+      "man",
+      "water",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a black jacket is holding a glass of water.",
+    "objects": [
+      "man",
+      "water",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a blue jacket and white shirt is holding a glass of water.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a blue jacket and white shirt is holding a glass of water.",
+    "objects": [
+      "white",
+      "blue",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A man in a black shirt and blue jacket is holding a glass of water.",
+    "objects": [
+      "blue",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A man in a black shirt and blue jacket is holding a glass of water.",
+    "objects": [
+      "blue",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A man in a black shirt and white shirt is holding a glass of water.",
+    "objects": [
+      "white",
+      "man",
+      "water",
+      "shirt",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A man in a black shirt and white shirt is holding a glass of water.",
+    "objects": [
+      "white",
+      "man",
+      "water",
+      "shirt",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a black shirt and gray jacket is holding a glass of water.",
+    "objects": [
+      "gray",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a black shirt and gray jacket is holding a glass of water.",
+    "objects": [
+      "gray",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a blue shirt is holding a glass of water.",
+    "objects": [
+      "blue",
+      "man",
+      "water",
+      "shirt",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a blue shirt is holding a glass of water.",
+    "objects": [
+      "blue",
+      "man",
+      "water",
+      "shirt",
+      "glass"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a black shirt and black jacket is holding a glass of water.",
+    "objects": [
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a black shirt and black jacket is holding a glass of water.",
+    "objects": [
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a black shirt and blue jacket is holding a glass of water.",
+    "objects": [
+      "blue",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a black shirt and blue jacket is holding a glass of water.",
+    "objects": [
+      "blue",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A man in a white shirt and black jacket is holding a glass of water.",
+    "objects": [
+      "white",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A man in a white shirt and black jacket is holding a glass of water.",
+    "objects": [
+      "white",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a white shirt and black jacket is holding a glass of water.",
+    "objects": [
+      "white",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a white shirt and black jacket is holding a glass of water.",
+    "objects": [
+      "white",
+      "man",
+      "water",
+      "shirt",
+      "jacket",
+      "glass",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

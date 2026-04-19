@@ -1,0 +1,566 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video shows a social gathering in a room with several people.",
+    "objects": [
+      "room",
+      "social",
+      "people",
+      "several"
+    ],
+    "actions": [
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video shows a social gathering in a room with several people.",
+    "objects": [
+      "room",
+      "social",
+      "people",
+      "several"
+    ],
+    "actions": [
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video shows a social gathering in a room with several people.",
+    "objects": [
+      "room",
+      "social",
+      "people",
+      "several"
+    ],
+    "actions": [
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video shows a social gathering in a room with several people.",
+    "objects": [
+      "room",
+      "social",
+      "people",
+      "several"
+    ],
+    "actions": [
+      "gathering"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A man is seen sitting at a table, looking at his phone, while another person approaches him.",
+    "objects": [
+      "table",
+      "while",
+      "him",
+      "phone",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "approaches"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A man is seen sitting at a table, looking at his phone, while another person approaches him.",
+    "objects": [
+      "table",
+      "while",
+      "him",
+      "phone",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "approaches"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man is seen sitting at a table, looking at his phone, while another person approaches him.",
+    "objects": [
+      "table",
+      "while",
+      "him",
+      "phone",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "approaches"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A man is seen sitting at a table, looking at his phone, while another person approaches him.",
+    "objects": [
+      "table",
+      "while",
+      "him",
+      "phone",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "approaches"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman holding a purse walks past him, and then turns around to talk to someone else.",
+    "objects": [
+      "talk",
+      "woman",
+      "purse",
+      "him",
+      "someone",
+      "around",
+      "else",
+      "past"
+    ],
+    "actions": [
+      "walks",
+      "holding",
+      "turns"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman holding a purse walks past him, and then turns around to talk to someone else.",
+    "objects": [
+      "talk",
+      "woman",
+      "purse",
+      "him",
+      "someone",
+      "around",
+      "else",
+      "past"
+    ],
+    "actions": [
+      "walks",
+      "holding",
+      "turns"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman holding a purse walks past him, and then turns around to talk to someone else.",
+    "objects": [
+      "talk",
+      "woman",
+      "purse",
+      "him",
+      "someone",
+      "around",
+      "else",
+      "past"
+    ],
+    "actions": [
+      "walks",
+      "holding",
+      "turns"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman holding a purse walks past him, and then turns around to talk to someone else.",
+    "objects": [
+      "talk",
+      "woman",
+      "purse",
+      "him",
+      "someone",
+      "around",
+      "else",
+      "past"
+    ],
+    "actions": [
+      "walks",
+      "holding",
+      "turns"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "She later returns and sits at the table, smiling.",
+    "objects": [
+      "sits",
+      "later",
+      "she",
+      "table"
+    ],
+    "actions": [
+      "smiling",
+      "returns"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "She later returns and sits at the table, smiling.",
+    "objects": [
+      "sits",
+      "later",
+      "she",
+      "table"
+    ],
+    "actions": [
+      "smiling",
+      "returns"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "She later returns and sits at the table, smiling.",
+    "objects": [
+      "sits",
+      "later",
+      "she",
+      "table"
+    ],
+    "actions": [
+      "smiling",
+      "returns"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "She later returns and sits at the table, smiling.",
+    "objects": [
+      "sits",
+      "later",
+      "she",
+      "table"
+    ],
+    "actions": [
+      "smiling",
+      "returns"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "There's a man wearing glasses standing next to a woman, and another man is sitting at the table with his laptop, while a woman in a scarf is talking to a man in a black shirt.",
+    "objects": [
+      "table",
+      "woman",
+      "while",
+      "black",
+      "shirt",
+      "his",
+      "laptop",
+      "man"
+    ],
+    "actions": [
+      "glasses",
+      "standing",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "There's a man wearing glasses standing next to a woman, and another man is sitting at the table with his laptop, while a woman in a scarf is talking to a man in a black shirt.",
+    "objects": [
+      "table",
+      "woman",
+      "while",
+      "black",
+      "shirt",
+      "his",
+      "laptop",
+      "man"
+    ],
+    "actions": [
+      "glasses",
+      "standing",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "There's a man wearing glasses standing next to a woman, and another man is sitting at the table with his laptop, while a woman in a scarf is talking to a man in a black shirt.",
+    "objects": [
+      "table",
+      "woman",
+      "while",
+      "black",
+      "shirt",
+      "his",
+      "laptop",
+      "man"
+    ],
+    "actions": [
+      "glasses",
+      "standing",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "There's a man wearing glasses standing next to a woman, and another man is sitting at the table with his laptop, while a woman in a scarf is talking to a man in a black shirt.",
+    "objects": [
+      "table",
+      "woman",
+      "while",
+      "black",
+      "shirt",
+      "his",
+      "laptop",
+      "man"
+    ],
+    "actions": [
+      "glasses",
+      "standing",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Additionally, a man and woman are seen walking past each other, and a woman in a red jacket is seen sitting at the table, smiling.",
+    "objects": [
+      "each",
+      "other",
+      "table",
+      "woman",
+      "jacket",
+      "past",
+      "man",
+      "additionally"
+    ],
+    "actions": [
+      "sitting",
+      "walking",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Additionally, a man and woman are seen walking past each other, and a woman in a red jacket is seen sitting at the table, smiling.",
+    "objects": [
+      "each",
+      "other",
+      "table",
+      "woman",
+      "jacket",
+      "past",
+      "man",
+      "additionally"
+    ],
+    "actions": [
+      "sitting",
+      "walking",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Additionally, a man and woman are seen walking past each other, and a woman in a red jacket is seen sitting at the table, smiling.",
+    "objects": [
+      "each",
+      "other",
+      "table",
+      "woman",
+      "jacket",
+      "past",
+      "man",
+      "additionally"
+    ],
+    "actions": [
+      "sitting",
+      "walking",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Additionally, a man and woman are seen walking past each other, and a woman in a red jacket is seen sitting at the table, smiling.",
+    "objects": [
+      "each",
+      "other",
+      "table",
+      "woman",
+      "jacket",
+      "past",
+      "man",
+      "additionally"
+    ],
+    "actions": [
+      "sitting",
+      "walking",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the black shirt is also smiling.",
+    "objects": [
+      "shirt",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the black shirt is also smiling.",
+    "objects": [
+      "shirt",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the black shirt is also smiling.",
+    "objects": [
+      "shirt",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The man in the black shirt is also smiling.",
+    "objects": [
+      "shirt",
+      "man",
+      "black"
+    ],
+    "actions": [
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The room is decorated with a lamp and a table, and a man and woman are seen sitting at another table, talking to each other.",
+    "objects": [
+      "table",
+      "each",
+      "other",
+      "woman",
+      "lamp",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "talking",
+      "decorated"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The room is decorated with a lamp and a table, and a man and woman are seen sitting at another table, talking to each other.",
+    "objects": [
+      "table",
+      "each",
+      "other",
+      "woman",
+      "lamp",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "talking",
+      "decorated"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The room is decorated with a lamp and a table, and a man and woman are seen sitting at another table, talking to each other.",
+    "objects": [
+      "table",
+      "each",
+      "other",
+      "woman",
+      "lamp",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "talking",
+      "decorated"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The room is decorated with a lamp and a table, and a man and woman are seen sitting at another table, talking to each other.",
+    "objects": [
+      "table",
+      "each",
+      "other",
+      "woman",
+      "lamp",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "talking",
+      "decorated"
+    ],
+    "segment_id": 7
+  }
+]

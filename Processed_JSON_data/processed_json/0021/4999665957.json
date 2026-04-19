@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered around a wooden dining table, with books scattered around the room in the background.",
+    "objects": [
+      "wooden",
+      "table",
+      "room",
+      "group",
+      "people",
+      "around"
+    ],
+    "actions": [
+      "scattered",
+      "dining",
+      "books",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered around a wooden dining table, with books scattered around the room in the background.",
+    "objects": [
+      "wooden",
+      "table",
+      "room",
+      "group",
+      "people",
+      "around"
+    ],
+    "actions": [
+      "scattered",
+      "dining",
+      "books",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are gathered around a wooden dining table, with books scattered around the room in the background.",
+    "objects": [
+      "wooden",
+      "table",
+      "room",
+      "group",
+      "people",
+      "around"
+    ],
+    "actions": [
+      "scattered",
+      "dining",
+      "books",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people are gathered around a wooden dining table, with books scattered around the room in the background.",
+    "objects": [
+      "wooden",
+      "table",
+      "room",
+      "group",
+      "people",
+      "around"
+    ],
+    "actions": [
+      "scattered",
+      "dining",
+      "books",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman is seen lighting a candle on a cake, and another woman is seen holding a cake.",
+    "objects": [
+      "cake",
+      "candle",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "lighting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A woman is seen lighting a candle on a cake, and another woman is seen holding a cake.",
+    "objects": [
+      "cake",
+      "candle",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "lighting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman is seen lighting a candle on a cake, and another woman is seen holding a cake.",
+    "objects": [
+      "cake",
+      "candle",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "lighting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman is seen lighting a candle on a cake, and another woman is seen holding a cake.",
+    "objects": [
+      "cake",
+      "candle",
+      "woman"
+    ],
+    "actions": [
+      "holding",
+      "lighting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is also holding a cake with lit candles.",
+    "objects": [
+      "cake",
+      "lit",
+      "man"
+    ],
+    "actions": [
+      "candles",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is also holding a cake with lit candles.",
+    "objects": [
+      "cake",
+      "lit",
+      "man"
+    ],
+    "actions": [
+      "candles",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man is also holding a cake with lit candles.",
+    "objects": [
+      "cake",
+      "lit",
+      "man"
+    ],
+    "actions": [
+      "candles",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man is also holding a cake with lit candles.",
+    "objects": [
+      "cake",
+      "lit",
+      "man"
+    ],
+    "actions": [
+      "candles",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman in a purple shirt is sitting at the table, and the man in a yellow shirt is standing nearby.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "nearby",
+      "table",
+      "purple",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman in a purple shirt is sitting at the table, and the man in a yellow shirt is standing nearby.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "nearby",
+      "table",
+      "purple",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman in a purple shirt is sitting at the table, and the man in a yellow shirt is standing nearby.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "nearby",
+      "table",
+      "purple",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman in a purple shirt is sitting at the table, and the man in a yellow shirt is standing nearby.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "nearby",
+      "table",
+      "purple",
+      "man",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene appears to be a celebration, possibly a birthday or a special occasion.",
+    "objects": [
+      "special",
+      "celebration",
+      "possibly",
+      "occasion",
+      "birthday"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene appears to be a celebration, possibly a birthday or a special occasion.",
+    "objects": [
+      "special",
+      "celebration",
+      "possibly",
+      "occasion",
+      "birthday"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene appears to be a celebration, possibly a birthday or a special occasion.",
+    "objects": [
+      "special",
+      "celebration",
+      "possibly",
+      "occasion",
+      "birthday"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene appears to be a celebration, possibly a birthday or a special occasion.",
+    "objects": [
+      "special",
+      "celebration",
+      "possibly",
+      "occasion",
+      "birthday"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The people are dressed casually, with the woman in purple wearing a top and the man in yellow a short-sleeved shirt.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "top",
+      "purple",
+      "man",
+      "casually",
+      "woman",
+      "people"
+    ],
+    "actions": [
+      "dressed",
+      "short-sleeved",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The people are dressed casually, with the woman in purple wearing a top and the man in yellow a short-sleeved shirt.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "top",
+      "purple",
+      "man",
+      "casually",
+      "woman",
+      "people"
+    ],
+    "actions": [
+      "dressed",
+      "short-sleeved",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The people are dressed casually, with the woman in purple wearing a top and the man in yellow a short-sleeved shirt.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "top",
+      "purple",
+      "man",
+      "casually",
+      "woman",
+      "people"
+    ],
+    "actions": [
+      "dressed",
+      "short-sleeved",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The people are dressed casually, with the woman in purple wearing a top and the man in yellow a short-sleeved shirt.",
+    "objects": [
+      "shirt",
+      "yellow",
+      "top",
+      "purple",
+      "man",
+      "casually",
+      "woman",
+      "people"
+    ],
+    "actions": [
+      "dressed",
+      "short-sleeved",
+      "wearing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The cakes are decorated with lit candles and icing, and one of them has a blueberry cake.",
+    "objects": [
+      "one",
+      "them",
+      "cake",
+      "blueberry",
+      "has",
+      "lit"
+    ],
+    "actions": [
+      "candles",
+      "cakes",
+      "decorated",
+      "icing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The cakes are decorated with lit candles and icing, and one of them has a blueberry cake.",
+    "objects": [
+      "one",
+      "them",
+      "cake",
+      "blueberry",
+      "has",
+      "lit"
+    ],
+    "actions": [
+      "candles",
+      "cakes",
+      "decorated",
+      "icing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The cakes are decorated with lit candles and icing, and one of them has a blueberry cake.",
+    "objects": [
+      "one",
+      "them",
+      "cake",
+      "blueberry",
+      "has",
+      "lit"
+    ],
+    "actions": [
+      "candles",
+      "cakes",
+      "decorated",
+      "icing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The cakes are decorated with lit candles and icing, and one of them has a blueberry cake.",
+    "objects": [
+      "one",
+      "them",
+      "cake",
+      "blueberry",
+      "has",
+      "lit"
+    ],
+    "actions": [
+      "candles",
+      "cakes",
+      "decorated",
+      "icing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The atmosphere seems to be joyful and festive, with the women smiling and the man looking on with a smile.",
+    "objects": [
+      "festive",
+      "smile",
+      "joyful",
+      "man",
+      "atmosphere",
+      "women"
+    ],
+    "actions": [
+      "smiling",
+      "looking",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The atmosphere seems to be joyful and festive, with the women smiling and the man looking on with a smile.",
+    "objects": [
+      "festive",
+      "smile",
+      "joyful",
+      "man",
+      "atmosphere",
+      "women"
+    ],
+    "actions": [
+      "smiling",
+      "looking",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The atmosphere seems to be joyful and festive, with the women smiling and the man looking on with a smile.",
+    "objects": [
+      "festive",
+      "smile",
+      "joyful",
+      "man",
+      "atmosphere",
+      "women"
+    ],
+    "actions": [
+      "smiling",
+      "looking",
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The atmosphere seems to be joyful and festive, with the women smiling and the man looking on with a smile.",
+    "objects": [
+      "festive",
+      "smile",
+      "joyful",
+      "man",
+      "atmosphere",
+      "women"
+    ],
+    "actions": [
+      "smiling",
+      "looking",
+      "seems"
+    ],
+    "segment_id": 7
+  }
+]

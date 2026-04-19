@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are two young boys sitting on a bus with a window beside them, both wearing short-sleeved shirts.",
+    "objects": [
+      "beside",
+      "both",
+      "young",
+      "there",
+      "them",
+      "window",
+      "bus",
+      "two"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "shirts",
+      "short-sleeved"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are two young boys sitting on a bus with a window beside them, both wearing short-sleeved shirts.",
+    "objects": [
+      "beside",
+      "both",
+      "young",
+      "there",
+      "them",
+      "window",
+      "bus",
+      "two"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "shirts",
+      "short-sleeved"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are two young boys sitting on a bus with a window beside them, both wearing short-sleeved shirts.",
+    "objects": [
+      "beside",
+      "both",
+      "young",
+      "there",
+      "them",
+      "window",
+      "bus",
+      "two"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "shirts",
+      "short-sleeved"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there are two young boys sitting on a bus with a window beside them, both wearing short-sleeved shirts.",
+    "objects": [
+      "beside",
+      "both",
+      "young",
+      "there",
+      "them",
+      "window",
+      "bus",
+      "two"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "shirts",
+      "short-sleeved"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The boy on the left is wearing a red shirt with blue stripes and the boy on the right is wearing a yellow shirt with blue stripes.",
+    "objects": [
+      "blue",
+      "shirt",
+      "yellow",
+      "boy"
+    ],
+    "actions": [
+      "stripes",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The boy on the left is wearing a red shirt with blue stripes and the boy on the right is wearing a yellow shirt with blue stripes.",
+    "objects": [
+      "blue",
+      "shirt",
+      "yellow",
+      "boy"
+    ],
+    "actions": [
+      "stripes",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The boy on the left is wearing a red shirt with blue stripes and the boy on the right is wearing a yellow shirt with blue stripes.",
+    "objects": [
+      "blue",
+      "shirt",
+      "yellow",
+      "boy"
+    ],
+    "actions": [
+      "stripes",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The boy on the left is wearing a red shirt with blue stripes and the boy on the right is wearing a yellow shirt with blue stripes.",
+    "objects": [
+      "blue",
+      "shirt",
+      "yellow",
+      "boy"
+    ],
+    "actions": [
+      "stripes",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are both looking out of the window, observing the passing scenery, with the boy on the left holding a blue lanyard in his hand.",
+    "objects": [
+      "blue",
+      "hand",
+      "scenery",
+      "both",
+      "lanyard",
+      "his",
+      "window",
+      "out"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "passing",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are both looking out of the window, observing the passing scenery, with the boy on the left holding a blue lanyard in his hand.",
+    "objects": [
+      "blue",
+      "hand",
+      "scenery",
+      "both",
+      "lanyard",
+      "his",
+      "window",
+      "out"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "passing",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are both looking out of the window, observing the passing scenery, with the boy on the left holding a blue lanyard in his hand.",
+    "objects": [
+      "blue",
+      "hand",
+      "scenery",
+      "both",
+      "lanyard",
+      "his",
+      "window",
+      "out"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "passing",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are both looking out of the window, observing the passing scenery, with the boy on the left holding a blue lanyard in his hand.",
+    "objects": [
+      "blue",
+      "hand",
+      "scenery",
+      "both",
+      "lanyard",
+      "his",
+      "window",
+      "out"
+    ],
+    "actions": [
+      "observing",
+      "holding",
+      "passing",
+      "looking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a blue shirt is standing in the a bus aisle, holding a blue lanyard and looking out the window.",
+    "objects": [
+      "blue",
+      "lanyard",
+      "man",
+      "aisle",
+      "shirt",
+      "out",
+      "window",
+      "bus"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a blue shirt is standing in the a bus aisle, holding a blue lanyard and looking out the window.",
+    "objects": [
+      "blue",
+      "lanyard",
+      "man",
+      "aisle",
+      "shirt",
+      "out",
+      "window",
+      "bus"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a blue shirt is standing in the a bus aisle, holding a blue lanyard and looking out the window.",
+    "objects": [
+      "blue",
+      "lanyard",
+      "man",
+      "aisle",
+      "shirt",
+      "out",
+      "window",
+      "bus"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A man in a blue shirt is standing in the a bus aisle, holding a blue lanyard and looking out the window.",
+    "objects": [
+      "blue",
+      "lanyard",
+      "man",
+      "aisle",
+      "shirt",
+      "out",
+      "window",
+      "bus"
+    ],
+    "actions": [
+      "holding",
+      "standing",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "There is also a woman in a blue shirt sitting in the bus aisle, looking out the window.",
+    "objects": [
+      "blue",
+      "aisle",
+      "shirt",
+      "there",
+      "out",
+      "window",
+      "bus",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "There is also a woman in a blue shirt sitting in the bus aisle, looking out the window.",
+    "objects": [
+      "blue",
+      "aisle",
+      "shirt",
+      "there",
+      "out",
+      "window",
+      "bus",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "There is also a woman in a blue shirt sitting in the bus aisle, looking out the window.",
+    "objects": [
+      "blue",
+      "aisle",
+      "shirt",
+      "there",
+      "out",
+      "window",
+      "bus",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "There is also a woman in a blue shirt sitting in the bus aisle, looking out the window.",
+    "objects": [
+      "blue",
+      "aisle",
+      "shirt",
+      "there",
+      "out",
+      "window",
+      "bus",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "looking"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The bus has a brown seat with a silver headrest, and the boy on the left is holding a blue lanyard in his hand.",
+    "objects": [
+      "seat",
+      "blue",
+      "hand",
+      "has",
+      "lanyard",
+      "silver",
+      "his",
+      "boy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The bus has a brown seat with a silver headrest, and the boy on the left is holding a blue lanyard in his hand.",
+    "objects": [
+      "seat",
+      "blue",
+      "hand",
+      "has",
+      "lanyard",
+      "silver",
+      "his",
+      "boy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The bus has a brown seat with a silver headrest, and the boy on the left is holding a blue lanyard in his hand.",
+    "objects": [
+      "seat",
+      "blue",
+      "hand",
+      "has",
+      "lanyard",
+      "silver",
+      "his",
+      "boy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The bus has a brown seat with a silver headrest, and the boy on the left is holding a blue lanyard in his hand.",
+    "objects": [
+      "seat",
+      "blue",
+      "hand",
+      "has",
+      "lanyard",
+      "silver",
+      "his",
+      "boy"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The boy on the right is holding a medal with a blue ribbon around his neck.",
+    "objects": [
+      "medal",
+      "blue",
+      "around",
+      "his",
+      "neck",
+      "boy",
+      "ribbon"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The boy on the right is holding a medal with a blue ribbon around his neck.",
+    "objects": [
+      "medal",
+      "blue",
+      "around",
+      "his",
+      "neck",
+      "boy",
+      "ribbon"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The boy on the right is holding a medal with a blue ribbon around his neck.",
+    "objects": [
+      "medal",
+      "blue",
+      "around",
+      "his",
+      "neck",
+      "boy",
+      "ribbon"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The boy on the right is holding a medal with a blue ribbon around his neck.",
+    "objects": [
+      "medal",
+      "blue",
+      "around",
+      "his",
+      "neck",
+      "boy",
+      "ribbon"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The bus is moving, and the boy on the left is looking at the boy on the right.",
+    "objects": [
+      "bus",
+      "boy"
+    ],
+    "actions": [
+      "moving",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The bus is moving, and the boy on the left is looking at the boy on the right.",
+    "objects": [
+      "bus",
+      "boy"
+    ],
+    "actions": [
+      "moving",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The bus is moving, and the boy on the left is looking at the boy on the right.",
+    "objects": [
+      "bus",
+      "boy"
+    ],
+    "actions": [
+      "moving",
+      "looking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The bus is moving, and the boy on the left is looking at the boy on the right.",
+    "objects": [
+      "bus",
+      "boy"
+    ],
+    "actions": [
+      "moving",
+      "looking"
+    ],
+    "segment_id": 7
+  }
+]

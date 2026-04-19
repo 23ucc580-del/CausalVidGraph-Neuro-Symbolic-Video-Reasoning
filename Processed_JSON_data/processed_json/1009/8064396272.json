@@ -1,0 +1,506 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a dog playing with two toys on a carpeted floor.",
+    "objects": [
+      "two",
+      "see",
+      "dog",
+      "toys",
+      "floor"
+    ],
+    "actions": [
+      "playing",
+      "carpeted"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a dog playing with two toys on a carpeted floor.",
+    "objects": [
+      "two",
+      "see",
+      "dog",
+      "toys",
+      "floor"
+    ],
+    "actions": [
+      "playing",
+      "carpeted"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a dog playing with two toys on a carpeted floor.",
+    "objects": [
+      "two",
+      "see",
+      "dog",
+      "toys",
+      "floor"
+    ],
+    "actions": [
+      "playing",
+      "carpeted"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a dog playing with two toys on a carpeted floor.",
+    "objects": [
+      "two",
+      "see",
+      "dog",
+      "toys",
+      "floor"
+    ],
+    "actions": [
+      "playing",
+      "carpeted"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One toy is a green ball, and the other is a small green toy.",
+    "objects": [
+      "one",
+      "other",
+      "small",
+      "green",
+      "ball",
+      "toy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One toy is a green ball, and the other is a small green toy.",
+    "objects": [
+      "one",
+      "other",
+      "small",
+      "green",
+      "ball",
+      "toy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One toy is a green ball, and the other is a small green toy.",
+    "objects": [
+      "one",
+      "other",
+      "small",
+      "green",
+      "ball",
+      "toy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One toy is a green ball, and the other is a small green toy.",
+    "objects": [
+      "one",
+      "other",
+      "small",
+      "green",
+      "ball",
+      "toy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog appears to be enjoying itself, as it is seen playing with the toys.",
+    "objects": [
+      "dog",
+      "toys",
+      "itself"
+    ],
+    "actions": [
+      "playing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog appears to be enjoying itself, as it is seen playing with the toys.",
+    "objects": [
+      "dog",
+      "toys",
+      "itself"
+    ],
+    "actions": [
+      "playing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The dog appears to be enjoying itself, as it is seen playing with the toys.",
+    "objects": [
+      "dog",
+      "toys",
+      "itself"
+    ],
+    "actions": [
+      "playing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The dog appears to be enjoying itself, as it is seen playing with the toys.",
+    "objects": [
+      "dog",
+      "toys",
+      "itself"
+    ],
+    "actions": [
+      "playing",
+      "enjoying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog is wearing a blue hoodie and is black in color.",
+    "objects": [
+      "black",
+      "blue",
+      "color",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog is wearing a blue hoodie and is black in color.",
+    "objects": [
+      "black",
+      "blue",
+      "color",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The dog is wearing a blue hoodie and is black in color.",
+    "objects": [
+      "black",
+      "blue",
+      "color",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The dog is wearing a blue hoodie and is black in color.",
+    "objects": [
+      "black",
+      "blue",
+      "color",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The carpet is blue and white in color.",
+    "objects": [
+      "carpet",
+      "color",
+      "blue",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The carpet is blue and white in color.",
+    "objects": [
+      "carpet",
+      "color",
+      "blue",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The carpet is blue and white in color.",
+    "objects": [
+      "carpet",
+      "color",
+      "blue",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The carpet is blue and white in color.",
+    "objects": [
+      "carpet",
+      "color",
+      "blue",
+      "white"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, there is a person wearing a blue hoodie and a black shirt who is standing near a black couch.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hoodie",
+      "couch"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, there is a person wearing a blue hoodie and a black shirt who is standing near a black couch.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hoodie",
+      "couch"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, there is a person wearing a blue hoodie and a black shirt who is standing near a black couch.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hoodie",
+      "couch"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, there is a person wearing a blue hoodie and a black shirt who is standing near a black couch.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hoodie",
+      "couch"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The person is holding a black object in their hand, which is not clearly identifiable.",
+    "objects": [
+      "their",
+      "black",
+      "not",
+      "clearly",
+      "which",
+      "object",
+      "identifiable",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The person is holding a black object in their hand, which is not clearly identifiable.",
+    "objects": [
+      "their",
+      "black",
+      "not",
+      "clearly",
+      "which",
+      "object",
+      "identifiable",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The person is holding a black object in their hand, which is not clearly identifiable.",
+    "objects": [
+      "their",
+      "black",
+      "not",
+      "clearly",
+      "which",
+      "object",
+      "identifiable",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The person is holding a black object in their hand, which is not clearly identifiable.",
+    "objects": [
+      "their",
+      "black",
+      "not",
+      "clearly",
+      "which",
+      "object",
+      "identifiable",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is a typical indoor setting with a living room ambiance.",
+    "objects": [
+      "ambiance",
+      "room",
+      "indoor",
+      "typical"
+    ],
+    "actions": [
+      "living",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is a typical indoor setting with a living room ambiance.",
+    "objects": [
+      "ambiance",
+      "room",
+      "indoor",
+      "typical"
+    ],
+    "actions": [
+      "living",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is a typical indoor setting with a living room ambiance.",
+    "objects": [
+      "ambiance",
+      "room",
+      "indoor",
+      "typical"
+    ],
+    "actions": [
+      "living",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is a typical indoor setting with a living room ambiance.",
+    "objects": [
+      "ambiance",
+      "room",
+      "indoor",
+      "typical"
+    ],
+    "actions": [
+      "living",
+      "setting"
+    ],
+    "segment_id": 7
+  }
+]

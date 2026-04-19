@@ -1,0 +1,510 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of young children is seen performing a choreography in a room with a colorful background featuring the words \"Love\" and \"Heart\" in various colors.",
+    "objects": [
+      "colorful",
+      "room",
+      "choreography",
+      "young",
+      "group",
+      "children"
+    ],
+    "actions": [
+      "words",
+      "colors",
+      "featuring",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of young children is seen performing a choreography in a room with a colorful background featuring the words \"Love\" and \"Heart\" in various colors.",
+    "objects": [
+      "colorful",
+      "room",
+      "choreography",
+      "young",
+      "group",
+      "children"
+    ],
+    "actions": [
+      "words",
+      "colors",
+      "featuring",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The kids are wearing colorful outfits and holding up heart-shaped objects while dancing and singing.",
+    "objects": [
+      "while",
+      "kids",
+      "colorful"
+    ],
+    "actions": [
+      "heart-shaped",
+      "objects",
+      "dancing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The kids are wearing colorful outfits and holding up heart-shaped objects while dancing and singing.",
+    "objects": [
+      "while",
+      "kids",
+      "colorful"
+    ],
+    "actions": [
+      "heart-shaped",
+      "objects",
+      "dancing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The specific actions and objects are as follows:\n\n\n1.",
+    "objects": [
+      "specific"
+    ],
+    "actions": [
+      "objects",
+      "actions"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The specific actions and objects are as follows:\n\n\n1.",
+    "objects": [
+      "specific"
+    ],
+    "actions": [
+      "objects",
+      "actions"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "A young boy is dancing in the foreground while holding a large, heart-shaped object.",
+    "objects": [
+      "large",
+      "while",
+      "young",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "holding",
+      "heart-shaped"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "A young boy is dancing in the foreground while holding a large, heart-shaped object.",
+    "objects": [
+      "large",
+      "while",
+      "young",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "holding",
+      "heart-shaped"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "A young girl is dancing to the right of the boy, holding a smaller heart-shaped object.",
+    "objects": [
+      "smaller",
+      "young",
+      "girl",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "holding",
+      "heart-shaped"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "A young girl is dancing to the right of the boy, holding a smaller heart-shaped object.",
+    "objects": [
+      "smaller",
+      "young",
+      "girl",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "holding",
+      "heart-shaped"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "Two boys are dancing in the background, with one holding a medium-sized heart-shaped object and the other a smaller one.",
+    "objects": [
+      "smaller",
+      "other",
+      "object",
+      "one",
+      "two",
+      "boys"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "holding",
+      "heart-shaped"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "Two boys are dancing in the background, with one holding a medium-sized heart-shaped object and the other a smaller one.",
+    "objects": [
+      "smaller",
+      "other",
+      "object",
+      "one",
+      "two",
+      "boys"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "holding",
+      "heart-shaped"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "A girl is dancing to the left of the boy with the medium-sized heart-shaped object, while another girl is dancing to the right of the boy with the smaller one.",
+    "objects": [
+      "smaller",
+      "while",
+      "girl",
+      "object",
+      "one",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "A girl is dancing to the left of the boy with the medium-sized heart-shaped object, while another girl is dancing to the right of the boy with the smaller one.",
+    "objects": [
+      "smaller",
+      "while",
+      "girl",
+      "object",
+      "one",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A boy is dancing in the background to the right of the girl with the medium-sized heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A boy is dancing in the background to the right of the girl with the medium-sized heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "A young boy is dancing in the foreground to the left of the girl with the medium-sized heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "young",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "A young boy is dancing in the foreground to the left of the girl with the medium-sized heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "young",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A girl is dancing to the right of the boy with the medium-sized heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A girl is dancing to the right of the boy with the medium-sized heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A boy is dancing in the background to the left of the girl with the smaller heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "smaller",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A boy is dancing in the background to the left of the girl with the smaller heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "smaller",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "A girl is dancing to the left of the boy with the smaller heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "smaller",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "A girl is dancing to the left of the boy with the smaller heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "smaller",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A boy is dancing in the foreground to the left of the girl with the smaller heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "smaller",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A boy is dancing in the foreground to the left of the girl with the smaller heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "smaller",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A girl is dancing to the right of the boy with the smaller heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "smaller",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A girl is dancing to the right of the boy with the smaller heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "smaller",
+      "boy"
+    ],
+    "actions": [
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "A boy is dancing in the background to the right of the girl with the medium-sized heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "A boy is dancing in the background to the right of the girl with the medium-sized heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "A boy is dancing to the left of the girl with the medium-sized heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "A boy is dancing to the left of the girl with the medium-sized heart-shaped object.",
+    "objects": [
+      "girl",
+      "object",
+      "boy"
+    ],
+    "actions": [
+      "medium-sized",
+      "dancing",
+      "heart-shaped"
+    ],
+    "segment_id": 15
+  }
+]

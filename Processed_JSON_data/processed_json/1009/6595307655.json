@@ -1,0 +1,539 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see two dogs playing together on the ground.",
+    "objects": [
+      "two",
+      "see",
+      "dogs",
+      "ground",
+      "together"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see two dogs playing together on the ground.",
+    "objects": [
+      "two",
+      "see",
+      "dogs",
+      "ground",
+      "together"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see two dogs playing together on the ground.",
+    "objects": [
+      "two",
+      "see",
+      "dogs",
+      "ground",
+      "together"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see two dogs playing together on the ground.",
+    "objects": [
+      "two",
+      "see",
+      "dogs",
+      "ground",
+      "together"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see two dogs playing together on the ground.",
+    "objects": [
+      "two",
+      "see",
+      "dogs",
+      "ground",
+      "together"
+    ],
+    "actions": [
+      "playing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "One of the dogs, a black one, is wearing a blue collar and the other, a brown one, is wearing a red collar.",
+    "objects": [
+      "one",
+      "other",
+      "black",
+      "blue",
+      "collar",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One of the dogs, a black one, is wearing a blue collar and the other, a brown one, is wearing a red collar.",
+    "objects": [
+      "one",
+      "other",
+      "black",
+      "blue",
+      "collar",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One of the dogs, a black one, is wearing a blue collar and the other, a brown one, is wearing a red collar.",
+    "objects": [
+      "one",
+      "other",
+      "black",
+      "blue",
+      "collar",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "One of the dogs, a black one, is wearing a blue collar and the other, a brown one, is wearing a red collar.",
+    "objects": [
+      "one",
+      "other",
+      "black",
+      "blue",
+      "collar",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "One of the dogs, a black one, is wearing a blue collar and the other, a brown one, is wearing a red collar.",
+    "objects": [
+      "one",
+      "other",
+      "black",
+      "blue",
+      "collar",
+      "dogs",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The black dog is wearing a blue collar and is seen barking at the brown dog, who is wearing a red collar.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "dog",
+      "who",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "barking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The black dog is wearing a blue collar and is seen barking at the brown dog, who is wearing a red collar.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "dog",
+      "who",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "barking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The black dog is wearing a blue collar and is seen barking at the brown dog, who is wearing a red collar.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "dog",
+      "who",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "barking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The black dog is wearing a blue collar and is seen barking at the brown dog, who is wearing a red collar.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "dog",
+      "who",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "barking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The black dog is wearing a blue collar and is seen barking at the brown dog, who is wearing a red collar.",
+    "objects": [
+      "black",
+      "blue",
+      "collar",
+      "dog",
+      "who",
+      "brown"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "barking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The dogs are playing with each other and are lying down on the ground.",
+    "objects": [
+      "dogs",
+      "other",
+      "ground",
+      "each"
+    ],
+    "actions": [
+      "playing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The dogs are playing with each other and are lying down on the ground.",
+    "objects": [
+      "dogs",
+      "other",
+      "ground",
+      "each"
+    ],
+    "actions": [
+      "playing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The dogs are playing with each other and are lying down on the ground.",
+    "objects": [
+      "dogs",
+      "other",
+      "ground",
+      "each"
+    ],
+    "actions": [
+      "playing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The dogs are playing with each other and are lying down on the ground.",
+    "objects": [
+      "dogs",
+      "other",
+      "ground",
+      "each"
+    ],
+    "actions": [
+      "playing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The dogs are playing with each other and are lying down on the ground.",
+    "objects": [
+      "dogs",
+      "other",
+      "ground",
+      "each"
+    ],
+    "actions": [
+      "playing",
+      "lying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a person present in the video who is wearing a blue hoodie and is holding a silver object.",
+    "objects": [
+      "there",
+      "blue",
+      "silver",
+      "who",
+      "hoodie",
+      "object",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a person present in the video who is wearing a blue hoodie and is holding a silver object.",
+    "objects": [
+      "there",
+      "blue",
+      "silver",
+      "who",
+      "hoodie",
+      "object",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "There is a person present in the video who is wearing a blue hoodie and is holding a silver object.",
+    "objects": [
+      "there",
+      "blue",
+      "silver",
+      "who",
+      "hoodie",
+      "object",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "There is a person present in the video who is wearing a blue hoodie and is holding a silver object.",
+    "objects": [
+      "there",
+      "blue",
+      "silver",
+      "who",
+      "hoodie",
+      "object",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "There is a person present in the video who is wearing a blue hoodie and is holding a silver object.",
+    "objects": [
+      "there",
+      "blue",
+      "silver",
+      "who",
+      "hoodie",
+      "object",
+      "present"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The dogs are seen running around on the ground and then they stop playing and stare at each other.",
+    "objects": [
+      "they",
+      "stop",
+      "each",
+      "other",
+      "around",
+      "stare",
+      "dogs",
+      "ground"
+    ],
+    "actions": [
+      "playing",
+      "running"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The dogs are seen running around on the ground and then they stop playing and stare at each other.",
+    "objects": [
+      "they",
+      "stop",
+      "each",
+      "other",
+      "around",
+      "stare",
+      "dogs",
+      "ground"
+    ],
+    "actions": [
+      "playing",
+      "running"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The dogs are seen running around on the ground and then they stop playing and stare at each other.",
+    "objects": [
+      "they",
+      "stop",
+      "each",
+      "other",
+      "around",
+      "stare",
+      "dogs",
+      "ground"
+    ],
+    "actions": [
+      "playing",
+      "running"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The dogs are seen running around on the ground and then they stop playing and stare at each other.",
+    "objects": [
+      "they",
+      "stop",
+      "each",
+      "other",
+      "around",
+      "stare",
+      "dogs",
+      "ground"
+    ],
+    "actions": [
+      "playing",
+      "running"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The dogs are seen running around on the ground and then they stop playing and stare at each other.",
+    "objects": [
+      "they",
+      "stop",
+      "each",
+      "other",
+      "around",
+      "stare",
+      "dogs",
+      "ground"
+    ],
+    "actions": [
+      "playing",
+      "running"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The person is standing nearby.",
+    "objects": [
+      "nearby"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The person is standing nearby.",
+    "objects": [
+      "nearby"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 6
+  }
+]

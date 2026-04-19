@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene on a boat floating in a river.",
+    "objects": [
+      "boat",
+      "river",
+      "lively"
+    ],
+    "actions": [
+      "depicts",
+      "floating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively scene on a boat floating in a river.",
+    "objects": [
+      "boat",
+      "river",
+      "lively"
+    ],
+    "actions": [
+      "depicts",
+      "floating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively scene on a boat floating in a river.",
+    "objects": [
+      "boat",
+      "river",
+      "lively"
+    ],
+    "actions": [
+      "depicts",
+      "floating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively scene on a boat floating in a river.",
+    "objects": [
+      "boat",
+      "river",
+      "lively"
+    ],
+    "actions": [
+      "depicts",
+      "floating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "Two children, a boy and a girl, are standing on the edge of the boat, their arms outstretched as if they are flying.",
+    "objects": [
+      "their",
+      "arms",
+      "edge",
+      "they",
+      "boy",
+      "two",
+      "boat",
+      "children"
+    ],
+    "actions": [
+      "outstretched",
+      "standing",
+      "flying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "Two children, a boy and a girl, are standing on the edge of the boat, their arms outstretched as if they are flying.",
+    "objects": [
+      "their",
+      "arms",
+      "edge",
+      "they",
+      "boy",
+      "two",
+      "boat",
+      "children"
+    ],
+    "actions": [
+      "outstretched",
+      "standing",
+      "flying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "Two children, a boy and a girl, are standing on the edge of the boat, their arms outstretched as if they are flying.",
+    "objects": [
+      "their",
+      "arms",
+      "edge",
+      "they",
+      "boy",
+      "two",
+      "boat",
+      "children"
+    ],
+    "actions": [
+      "outstretched",
+      "standing",
+      "flying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "Two children, a boy and a girl, are standing on the edge of the boat, their arms outstretched as if they are flying.",
+    "objects": [
+      "their",
+      "arms",
+      "edge",
+      "they",
+      "boy",
+      "two",
+      "boat",
+      "children"
+    ],
+    "actions": [
+      "outstretched",
+      "standing",
+      "flying"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The girl is wearing a life jacket and has her mouth open, perhaps expressing excitement or shouting.",
+    "objects": [
+      "mouth",
+      "open",
+      "jacket",
+      "has",
+      "her",
+      "excitement",
+      "girl",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "expressing",
+      "perhaps",
+      "shouting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The girl is wearing a life jacket and has her mouth open, perhaps expressing excitement or shouting.",
+    "objects": [
+      "mouth",
+      "open",
+      "jacket",
+      "has",
+      "her",
+      "excitement",
+      "girl",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "expressing",
+      "perhaps",
+      "shouting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The girl is wearing a life jacket and has her mouth open, perhaps expressing excitement or shouting.",
+    "objects": [
+      "mouth",
+      "open",
+      "jacket",
+      "has",
+      "her",
+      "excitement",
+      "girl",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "expressing",
+      "perhaps",
+      "shouting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The girl is wearing a life jacket and has her mouth open, perhaps expressing excitement or shouting.",
+    "objects": [
+      "mouth",
+      "open",
+      "jacket",
+      "has",
+      "her",
+      "excitement",
+      "girl",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "expressing",
+      "perhaps",
+      "shouting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The boy, also wearing a life jacket, has his arms crossed and is looking ahead.",
+    "objects": [
+      "arms",
+      "boy",
+      "jacket",
+      "has",
+      "his",
+      "ahead",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "crossed",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The boy, also wearing a life jacket, has his arms crossed and is looking ahead.",
+    "objects": [
+      "arms",
+      "boy",
+      "jacket",
+      "has",
+      "his",
+      "ahead",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "crossed",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The boy, also wearing a life jacket, has his arms crossed and is looking ahead.",
+    "objects": [
+      "arms",
+      "boy",
+      "jacket",
+      "has",
+      "his",
+      "ahead",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "crossed",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The boy, also wearing a life jacket, has his arms crossed and is looking ahead.",
+    "objects": [
+      "arms",
+      "boy",
+      "jacket",
+      "has",
+      "his",
+      "ahead",
+      "life"
+    ],
+    "actions": [
+      "wearing",
+      "crossed",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Behind them, an adult is wearing a black top and appears to be supervising the children, ensuring their safety.",
+    "objects": [
+      "their",
+      "behind",
+      "black",
+      "children",
+      "adult",
+      "top",
+      "them",
+      "safety"
+    ],
+    "actions": [
+      "wearing",
+      "ensuring",
+      "supervising"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Behind them, an adult is wearing a black top and appears to be supervising the children, ensuring their safety.",
+    "objects": [
+      "their",
+      "behind",
+      "black",
+      "children",
+      "adult",
+      "top",
+      "them",
+      "safety"
+    ],
+    "actions": [
+      "wearing",
+      "ensuring",
+      "supervising"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Behind them, an adult is wearing a black top and appears to be supervising the children, ensuring their safety.",
+    "objects": [
+      "their",
+      "behind",
+      "black",
+      "children",
+      "adult",
+      "top",
+      "them",
+      "safety"
+    ],
+    "actions": [
+      "wearing",
+      "ensuring",
+      "supervising"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Behind them, an adult is wearing a black top and appears to be supervising the children, ensuring their safety.",
+    "objects": [
+      "their",
+      "behind",
+      "black",
+      "children",
+      "adult",
+      "top",
+      "them",
+      "safety"
+    ],
+    "actions": [
+      "wearing",
+      "ensuring",
+      "supervising"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The boat is a small white one with a roof, and there are buildings and trees visible in the background, suggesting an urban setting.",
+    "objects": [
+      "one",
+      "there",
+      "small",
+      "white",
+      "boat",
+      "urban",
+      "roof"
+    ],
+    "actions": [
+      "trees",
+      "buildings",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The boat is a small white one with a roof, and there are buildings and trees visible in the background, suggesting an urban setting.",
+    "objects": [
+      "one",
+      "there",
+      "small",
+      "white",
+      "boat",
+      "urban",
+      "roof"
+    ],
+    "actions": [
+      "trees",
+      "buildings",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The boat is a small white one with a roof, and there are buildings and trees visible in the background, suggesting an urban setting.",
+    "objects": [
+      "one",
+      "there",
+      "small",
+      "white",
+      "boat",
+      "urban",
+      "roof"
+    ],
+    "actions": [
+      "trees",
+      "buildings",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The boat is a small white one with a roof, and there are buildings and trees visible in the background, suggesting an urban setting.",
+    "objects": [
+      "one",
+      "there",
+      "small",
+      "white",
+      "boat",
+      "urban",
+      "roof"
+    ],
+    "actions": [
+      "trees",
+      "buildings",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The sky is blue, indicating a clear day.",
+    "objects": [
+      "sky",
+      "blue",
+      "clear",
+      "day"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The sky is blue, indicating a clear day.",
+    "objects": [
+      "sky",
+      "blue",
+      "clear",
+      "day"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The sky is blue, indicating a clear day.",
+    "objects": [
+      "sky",
+      "blue",
+      "clear",
+      "day"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The sky is blue, indicating a clear day.",
+    "objects": [
+      "sky",
+      "blue",
+      "clear",
+      "day"
+    ],
+    "actions": [
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The children seem to be enjoying their time on the boat, possibly on a recreational outing.",
+    "objects": [
+      "their",
+      "boat",
+      "possibly",
+      "children",
+      "seem",
+      "recreational",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "outing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The children seem to be enjoying their time on the boat, possibly on a recreational outing.",
+    "objects": [
+      "their",
+      "boat",
+      "possibly",
+      "children",
+      "seem",
+      "recreational",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "outing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The children seem to be enjoying their time on the boat, possibly on a recreational outing.",
+    "objects": [
+      "their",
+      "boat",
+      "possibly",
+      "children",
+      "seem",
+      "recreational",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "outing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The children seem to be enjoying their time on the boat, possibly on a recreational outing.",
+    "objects": [
+      "their",
+      "boat",
+      "possibly",
+      "children",
+      "seem",
+      "recreational",
+      "time"
+    ],
+    "actions": [
+      "enjoying",
+      "outing"
+    ],
+    "segment_id": 7
+  }
+]

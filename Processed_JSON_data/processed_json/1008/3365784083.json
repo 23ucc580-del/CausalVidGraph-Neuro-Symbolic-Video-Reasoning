@@ -1,0 +1,586 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively scene of a live music performance.",
+    "objects": [
+      "music",
+      "live",
+      "performance",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a lively scene of a live music performance.",
+    "objects": [
+      "music",
+      "live",
+      "performance",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a lively scene of a live music performance.",
+    "objects": [
+      "music",
+      "live",
+      "performance",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a lively scene of a live music performance.",
+    "objects": [
+      "music",
+      "live",
+      "performance",
+      "lively"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The stage is bustling with energy, with multiple performers actively engaged in the performance.",
+    "objects": [
+      "actively",
+      "performance",
+      "multiple",
+      "stage",
+      "energy"
+    ],
+    "actions": [
+      "bustling",
+      "performers",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The stage is bustling with energy, with multiple performers actively engaged in the performance.",
+    "objects": [
+      "actively",
+      "performance",
+      "multiple",
+      "stage",
+      "energy"
+    ],
+    "actions": [
+      "bustling",
+      "performers",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The stage is bustling with energy, with multiple performers actively engaged in the performance.",
+    "objects": [
+      "actively",
+      "performance",
+      "multiple",
+      "stage",
+      "energy"
+    ],
+    "actions": [
+      "bustling",
+      "performers",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The stage is bustling with energy, with multiple performers actively engaged in the performance.",
+    "objects": [
+      "actively",
+      "performance",
+      "multiple",
+      "stage",
+      "energy"
+    ],
+    "actions": [
+      "bustling",
+      "performers",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "On the left, a woman with a ponytail is singing passionately into a microphone, her voice carrying the melody of the song.",
+    "objects": [
+      "melody",
+      "into",
+      "woman",
+      "microphone",
+      "ponytail",
+      "passionately",
+      "her",
+      "song"
+    ],
+    "actions": [
+      "singing",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "On the left, a woman with a ponytail is singing passionately into a microphone, her voice carrying the melody of the song.",
+    "objects": [
+      "melody",
+      "into",
+      "woman",
+      "microphone",
+      "ponytail",
+      "passionately",
+      "her",
+      "song"
+    ],
+    "actions": [
+      "singing",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "On the left, a woman with a ponytail is singing passionately into a microphone, her voice carrying the melody of the song.",
+    "objects": [
+      "melody",
+      "into",
+      "woman",
+      "microphone",
+      "ponytail",
+      "passionately",
+      "her",
+      "song"
+    ],
+    "actions": [
+      "singing",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "On the left, a woman with a ponytail is singing passionately into a microphone, her voice carrying the melody of the song.",
+    "objects": [
+      "melody",
+      "into",
+      "woman",
+      "microphone",
+      "ponytail",
+      "passionately",
+      "her",
+      "song"
+    ],
+    "actions": [
+      "singing",
+      "carrying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "To her right, a man is passionately singing into his own microphone, his voice blending with the woman's in a harmonious duet.",
+    "objects": [
+      "duet",
+      "own",
+      "into",
+      "voice",
+      "microphone",
+      "passionately",
+      "her",
+      "his"
+    ],
+    "actions": [
+      "singing",
+      "blending",
+      "woman's",
+      "harmonious"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "To her right, a man is passionately singing into his own microphone, his voice blending with the woman's in a harmonious duet.",
+    "objects": [
+      "duet",
+      "own",
+      "into",
+      "voice",
+      "microphone",
+      "passionately",
+      "her",
+      "his"
+    ],
+    "actions": [
+      "singing",
+      "blending",
+      "woman's",
+      "harmonious"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "To her right, a man is passionately singing into his own microphone, his voice blending with the woman's in a harmonious duet.",
+    "objects": [
+      "duet",
+      "own",
+      "into",
+      "voice",
+      "microphone",
+      "passionately",
+      "her",
+      "his"
+    ],
+    "actions": [
+      "singing",
+      "blending",
+      "woman's",
+      "harmonious"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "To her right, a man is passionately singing into his own microphone, his voice blending with the woman's in a harmonious duet.",
+    "objects": [
+      "duet",
+      "own",
+      "into",
+      "voice",
+      "microphone",
+      "passionately",
+      "her",
+      "his"
+    ],
+    "actions": [
+      "singing",
+      "blending",
+      "woman's",
+      "harmonious"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "On the right, another performer, clad in a black top and blue jeans, is energetically dancing, their movements mirroring the rhythm of the music.",
+    "objects": [
+      "their",
+      "black",
+      "energetically",
+      "blue",
+      "music",
+      "top",
+      "rhythm",
+      "performer"
+    ],
+    "actions": [
+      "mirroring",
+      "dancing",
+      "movements",
+      "jeans"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "On the right, another performer, clad in a black top and blue jeans, is energetically dancing, their movements mirroring the rhythm of the music.",
+    "objects": [
+      "their",
+      "black",
+      "energetically",
+      "blue",
+      "music",
+      "top",
+      "rhythm",
+      "performer"
+    ],
+    "actions": [
+      "mirroring",
+      "dancing",
+      "movements",
+      "jeans"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "On the right, another performer, clad in a black top and blue jeans, is energetically dancing, their movements mirroring the rhythm of the music.",
+    "objects": [
+      "their",
+      "black",
+      "energetically",
+      "blue",
+      "music",
+      "top",
+      "rhythm",
+      "performer"
+    ],
+    "actions": [
+      "mirroring",
+      "dancing",
+      "movements",
+      "jeans"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "On the right, another performer, clad in a black top and blue jeans, is energetically dancing, their movements mirroring the rhythm of the music.",
+    "objects": [
+      "their",
+      "black",
+      "energetically",
+      "blue",
+      "music",
+      "top",
+      "rhythm",
+      "performer"
+    ],
+    "actions": [
+      "mirroring",
+      "dancing",
+      "movements",
+      "jeans"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A man in a silver jacket is also dancing, his steps synchronizing with the beat of the song.",
+    "objects": [
+      "beat",
+      "jacket",
+      "silver",
+      "song",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "synchronizing",
+      "dancing",
+      "steps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A man in a silver jacket is also dancing, his steps synchronizing with the beat of the song.",
+    "objects": [
+      "beat",
+      "jacket",
+      "silver",
+      "song",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "synchronizing",
+      "dancing",
+      "steps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A man in a silver jacket is also dancing, his steps synchronizing with the beat of the song.",
+    "objects": [
+      "beat",
+      "jacket",
+      "silver",
+      "song",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "synchronizing",
+      "dancing",
+      "steps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A man in a silver jacket is also dancing, his steps synchronizing with the beat of the song.",
+    "objects": [
+      "beat",
+      "jacket",
+      "silver",
+      "song",
+      "his",
+      "man"
+    ],
+    "actions": [
+      "synchronizing",
+      "dancing",
+      "steps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The audience is visible in the background, their faces lit up with excitement and enjoyment.",
+    "objects": [
+      "their",
+      "audience",
+      "lit",
+      "excitement",
+      "enjoyment"
+    ],
+    "actions": [
+      "faces"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The audience is visible in the background, their faces lit up with excitement and enjoyment.",
+    "objects": [
+      "their",
+      "audience",
+      "lit",
+      "excitement",
+      "enjoyment"
+    ],
+    "actions": [
+      "faces"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The audience is visible in the background, their faces lit up with excitement and enjoyment.",
+    "objects": [
+      "their",
+      "audience",
+      "lit",
+      "excitement",
+      "enjoyment"
+    ],
+    "actions": [
+      "faces"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The audience is visible in the background, their faces lit up with excitement and enjoyment.",
+    "objects": [
+      "their",
+      "audience",
+      "lit",
+      "excitement",
+      "enjoyment"
+    ],
+    "actions": [
+      "faces"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The stage is adorned with a large screen displaying the lyrics of the song, and a blue curtain serves as a backdrop, adding to the overall ambiance of the performance.",
+    "objects": [
+      "large",
+      "overall",
+      "screen",
+      "ambiance",
+      "blue",
+      "backdrop",
+      "performance",
+      "song"
+    ],
+    "actions": [
+      "adding",
+      "serves",
+      "displaying",
+      "lyrics"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The stage is adorned with a large screen displaying the lyrics of the song, and a blue curtain serves as a backdrop, adding to the overall ambiance of the performance.",
+    "objects": [
+      "large",
+      "overall",
+      "screen",
+      "ambiance",
+      "blue",
+      "backdrop",
+      "performance",
+      "song"
+    ],
+    "actions": [
+      "adding",
+      "serves",
+      "displaying",
+      "lyrics"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The stage is adorned with a large screen displaying the lyrics of the song, and a blue curtain serves as a backdrop, adding to the overall ambiance of the performance.",
+    "objects": [
+      "large",
+      "overall",
+      "screen",
+      "ambiance",
+      "blue",
+      "backdrop",
+      "performance",
+      "song"
+    ],
+    "actions": [
+      "adding",
+      "serves",
+      "displaying",
+      "lyrics"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The stage is adorned with a large screen displaying the lyrics of the song, and a blue curtain serves as a backdrop, adding to the overall ambiance of the performance.",
+    "objects": [
+      "large",
+      "overall",
+      "screen",
+      "ambiance",
+      "blue",
+      "backdrop",
+      "performance",
+      "song"
+    ],
+    "actions": [
+      "adding",
+      "serves",
+      "displaying",
+      "lyrics"
+    ],
+    "segment_id": 7
+  }
+]

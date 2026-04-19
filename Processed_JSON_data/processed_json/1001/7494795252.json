@@ -1,0 +1,562 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a woman and a child enjoying a sunny day at a park.",
+    "objects": [
+      "woman",
+      "child",
+      "see",
+      "park",
+      "day",
+      "sunny",
+      "this"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a woman and a child enjoying a sunny day at a park.",
+    "objects": [
+      "woman",
+      "child",
+      "see",
+      "park",
+      "day",
+      "sunny",
+      "this"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a woman and a child enjoying a sunny day at a park.",
+    "objects": [
+      "woman",
+      "child",
+      "see",
+      "park",
+      "day",
+      "sunny",
+      "this"
+    ],
+    "actions": [
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The woman is wearing a red shirt and blue jeans, while the child is dressed in a blue shirt and blue jeans.",
+    "objects": [
+      "child",
+      "while",
+      "woman",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is wearing a red shirt and blue jeans, while the child is dressed in a blue shirt and blue jeans.",
+    "objects": [
+      "child",
+      "while",
+      "woman",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is wearing a red shirt and blue jeans, while the child is dressed in a blue shirt and blue jeans.",
+    "objects": [
+      "child",
+      "while",
+      "woman",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "jeans",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are both smiling and laughing, enjoying the playful atmosphere of the park.",
+    "objects": [
+      "they",
+      "both",
+      "park",
+      "playful",
+      "atmosphere"
+    ],
+    "actions": [
+      "laughing",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "They are both smiling and laughing, enjoying the playful atmosphere of the park.",
+    "objects": [
+      "they",
+      "both",
+      "park",
+      "playful",
+      "atmosphere"
+    ],
+    "actions": [
+      "laughing",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "They are both smiling and laughing, enjoying the playful atmosphere of the park.",
+    "objects": [
+      "they",
+      "both",
+      "park",
+      "playful",
+      "atmosphere"
+    ],
+    "actions": [
+      "laughing",
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman holds the child's hand as they walk together on a sidewalk, the child's small hand clutching hers tightly.",
+    "objects": [
+      "they",
+      "walk",
+      "small",
+      "woman",
+      "tightly",
+      "hers",
+      "sidewalk",
+      "together"
+    ],
+    "actions": [
+      "child's",
+      "holds",
+      "clutching"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman holds the child's hand as they walk together on a sidewalk, the child's small hand clutching hers tightly.",
+    "objects": [
+      "they",
+      "walk",
+      "small",
+      "woman",
+      "tightly",
+      "hers",
+      "sidewalk",
+      "together"
+    ],
+    "actions": [
+      "child's",
+      "holds",
+      "clutching"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman holds the child's hand as they walk together on a sidewalk, the child's small hand clutching hers tightly.",
+    "objects": [
+      "they",
+      "walk",
+      "small",
+      "woman",
+      "tightly",
+      "hers",
+      "sidewalk",
+      "together"
+    ],
+    "actions": [
+      "child's",
+      "holds",
+      "clutching"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman lifts the child onto her shoulders, and the child giggles with delight.",
+    "objects": [
+      "child",
+      "woman",
+      "onto",
+      "her",
+      "delight"
+    ],
+    "actions": [
+      "lifts",
+      "giggles",
+      "shoulders"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman lifts the child onto her shoulders, and the child giggles with delight.",
+    "objects": [
+      "child",
+      "woman",
+      "onto",
+      "her",
+      "delight"
+    ],
+    "actions": [
+      "lifts",
+      "giggles",
+      "shoulders"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman lifts the child onto her shoulders, and the child giggles with delight.",
+    "objects": [
+      "child",
+      "woman",
+      "onto",
+      "her",
+      "delight"
+    ],
+    "actions": [
+      "lifts",
+      "giggles",
+      "shoulders"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "They are surrounded by lush greenery, with a blue car parked nearby and a silver car parked further away.",
+    "objects": [
+      "they",
+      "greenery",
+      "further",
+      "away",
+      "blue",
+      "lush",
+      "silver",
+      "car"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "They are surrounded by lush greenery, with a blue car parked nearby and a silver car parked further away.",
+    "objects": [
+      "they",
+      "greenery",
+      "further",
+      "away",
+      "blue",
+      "lush",
+      "silver",
+      "car"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "They are surrounded by lush greenery, with a blue car parked nearby and a silver car parked further away.",
+    "objects": [
+      "they",
+      "greenery",
+      "further",
+      "away",
+      "blue",
+      "lush",
+      "silver",
+      "car"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman's hair is blonde, and she has a tattoo on her arm.",
+    "objects": [
+      "arm",
+      "hair",
+      "blonde",
+      "she",
+      "has",
+      "her",
+      "tattoo"
+    ],
+    "actions": [
+      "woman's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman's hair is blonde, and she has a tattoo on her arm.",
+    "objects": [
+      "arm",
+      "hair",
+      "blonde",
+      "she",
+      "has",
+      "her",
+      "tattoo"
+    ],
+    "actions": [
+      "woman's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman's hair is blonde, and she has a tattoo on her arm.",
+    "objects": [
+      "arm",
+      "hair",
+      "blonde",
+      "she",
+      "has",
+      "her",
+      "tattoo"
+    ],
+    "actions": [
+      "woman's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The child's hair is blonde, and he has a tattoo on his arm too.",
+    "objects": [
+      "arm",
+      "hair",
+      "blonde",
+      "has",
+      "too",
+      "his",
+      "tattoo"
+    ],
+    "actions": [
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The child's hair is blonde, and he has a tattoo on his arm too.",
+    "objects": [
+      "arm",
+      "hair",
+      "blonde",
+      "has",
+      "too",
+      "his",
+      "tattoo"
+    ],
+    "actions": [
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The child's hair is blonde, and he has a tattoo on his arm too.",
+    "objects": [
+      "arm",
+      "hair",
+      "blonde",
+      "has",
+      "too",
+      "his",
+      "tattoo"
+    ],
+    "actions": [
+      "child's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman carries the child on her shoulders, and the child has his legs wrapped around her neck.",
+    "objects": [
+      "child",
+      "woman",
+      "has",
+      "around",
+      "her",
+      "his",
+      "legs",
+      "neck"
+    ],
+    "actions": [
+      "wrapped",
+      "carries",
+      "shoulders"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman carries the child on her shoulders, and the child has his legs wrapped around her neck.",
+    "objects": [
+      "child",
+      "woman",
+      "has",
+      "around",
+      "her",
+      "his",
+      "legs",
+      "neck"
+    ],
+    "actions": [
+      "wrapped",
+      "carries",
+      "shoulders"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman carries the child on her shoulders, and the child has his legs wrapped around her neck.",
+    "objects": [
+      "child",
+      "woman",
+      "has",
+      "around",
+      "her",
+      "his",
+      "legs",
+      "neck"
+    ],
+    "actions": [
+      "wrapped",
+      "carries",
+      "shoulders"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The child smiles up at the camera, showing his joy and happiness.",
+    "objects": [
+      "his",
+      "joy",
+      "child"
+    ],
+    "actions": [
+      "happiness",
+      "smiles"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The child smiles up at the camera, showing his joy and happiness.",
+    "objects": [
+      "his",
+      "joy",
+      "child"
+    ],
+    "actions": [
+      "happiness",
+      "smiles"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The child smiles up at the camera, showing his joy and happiness.",
+    "objects": [
+      "his",
+      "joy",
+      "child"
+    ],
+    "actions": [
+      "happiness",
+      "smiles"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman's hair is tied up in a ponytail, and she wears sunglasses.",
+    "objects": [
+      "hair",
+      "she",
+      "ponytail"
+    ],
+    "actions": [
+      "sunglasses",
+      "woman's",
+      "tied",
+      "wears"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman's hair is tied up in a ponytail, and she wears sunglasses.",
+    "objects": [
+      "hair",
+      "she",
+      "ponytail"
+    ],
+    "actions": [
+      "sunglasses",
+      "woman's",
+      "tied",
+      "wears"
+    ],
+    "segment_id": 10
+  }
+]

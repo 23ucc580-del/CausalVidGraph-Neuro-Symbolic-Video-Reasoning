@@ -1,0 +1,543 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video starts with a scene of two people walking through a field with mountains in the background.",
+    "objects": [
+      "field",
+      "through",
+      "people",
+      "two"
+    ],
+    "actions": [
+      "mountains",
+      "starts",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video starts with a scene of two people walking through a field with mountains in the background.",
+    "objects": [
+      "field",
+      "through",
+      "people",
+      "two"
+    ],
+    "actions": [
+      "mountains",
+      "starts",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video starts with a scene of two people walking through a field with mountains in the background.",
+    "objects": [
+      "field",
+      "through",
+      "people",
+      "two"
+    ],
+    "actions": [
+      "mountains",
+      "starts",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The first person is wearing a blue hoodie and a backpack, and the second person is wearing a black shirt and a backpack.",
+    "objects": [
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "second",
+      "first",
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The first person is wearing a blue hoodie and a backpack, and the second person is wearing a black shirt and a backpack.",
+    "objects": [
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "second",
+      "first",
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The first person is wearing a blue hoodie and a backpack, and the second person is wearing a black shirt and a backpack.",
+    "objects": [
+      "black",
+      "blue",
+      "shirt",
+      "hoodie",
+      "second",
+      "first",
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are walking down a path towards the mountains, with the mountains in the background.",
+    "objects": [
+      "they",
+      "path"
+    ],
+    "actions": [
+      "towards",
+      "mountains",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "They are walking down a path towards the mountains, with the mountains in the background.",
+    "objects": [
+      "they",
+      "path"
+    ],
+    "actions": [
+      "towards",
+      "mountains",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "They are walking down a path towards the mountains, with the mountains in the background.",
+    "objects": [
+      "they",
+      "path"
+    ],
+    "actions": [
+      "towards",
+      "mountains",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then cuts to a scene where a group of people are sitting on rocks in a field with mountains in the background.",
+    "objects": [
+      "people",
+      "cuts",
+      "where",
+      "field",
+      "then",
+      "group"
+    ],
+    "actions": [
+      "sitting",
+      "rocks",
+      "mountains"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then cuts to a scene where a group of people are sitting on rocks in a field with mountains in the background.",
+    "objects": [
+      "people",
+      "cuts",
+      "where",
+      "field",
+      "then",
+      "group"
+    ],
+    "actions": [
+      "sitting",
+      "rocks",
+      "mountains"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then cuts to a scene where a group of people are sitting on rocks in a field with mountains in the background.",
+    "objects": [
+      "people",
+      "cuts",
+      "where",
+      "field",
+      "then",
+      "group"
+    ],
+    "actions": [
+      "sitting",
+      "rocks",
+      "mountains"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Three people are visible in this scene, with one person wearing a yellow shirt, another person wearing a black shirt, and the third person wearing a blue hoodie.",
+    "objects": [
+      "three",
+      "one",
+      "people",
+      "black",
+      "yellow",
+      "blue",
+      "shirt",
+      "third"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Three people are visible in this scene, with one person wearing a yellow shirt, another person wearing a black shirt, and the third person wearing a blue hoodie.",
+    "objects": [
+      "three",
+      "one",
+      "people",
+      "black",
+      "yellow",
+      "blue",
+      "shirt",
+      "third"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Three people are visible in this scene, with one person wearing a yellow shirt, another person wearing a black shirt, and the third person wearing a blue hoodie.",
+    "objects": [
+      "three",
+      "one",
+      "people",
+      "black",
+      "yellow",
+      "blue",
+      "shirt",
+      "third"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "They are all sitting on rocks, and there is a fourth person wearing a black shirt standing nearby.",
+    "objects": [
+      "they",
+      "there",
+      "black",
+      "fourth",
+      "shirt",
+      "nearby",
+      "all"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "rocks",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "They are all sitting on rocks, and there is a fourth person wearing a black shirt standing nearby.",
+    "objects": [
+      "they",
+      "there",
+      "black",
+      "fourth",
+      "shirt",
+      "nearby",
+      "all"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "rocks",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "They are all sitting on rocks, and there is a fourth person wearing a black shirt standing nearby.",
+    "objects": [
+      "they",
+      "there",
+      "black",
+      "fourth",
+      "shirt",
+      "nearby",
+      "all"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "rocks",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The camera then cuts to another scene where three people are standing on rocks, with one person wearing a blue shirt and a backpack, the second person wearing a black shirt, and the third person wearing a yellow shirt.",
+    "objects": [
+      "three",
+      "one",
+      "people",
+      "cuts",
+      "where",
+      "black",
+      "blue",
+      "yellow"
+    ],
+    "actions": [
+      "wearing",
+      "rocks",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The camera then cuts to another scene where three people are standing on rocks, with one person wearing a blue shirt and a backpack, the second person wearing a black shirt, and the third person wearing a yellow shirt.",
+    "objects": [
+      "three",
+      "one",
+      "people",
+      "cuts",
+      "where",
+      "black",
+      "blue",
+      "yellow"
+    ],
+    "actions": [
+      "wearing",
+      "rocks",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The camera then cuts to another scene where three people are standing on rocks, with one person wearing a blue shirt and a backpack, the second person wearing a black shirt, and the third person wearing a yellow shirt.",
+    "objects": [
+      "three",
+      "one",
+      "people",
+      "cuts",
+      "where",
+      "black",
+      "blue",
+      "yellow"
+    ],
+    "actions": [
+      "wearing",
+      "rocks",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "They are all standing and looking at the mountains.",
+    "objects": [
+      "they",
+      "all"
+    ],
+    "actions": [
+      "mountains",
+      "looking",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "They are all standing and looking at the mountains.",
+    "objects": [
+      "they",
+      "all"
+    ],
+    "actions": [
+      "mountains",
+      "looking",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "They are all standing and looking at the mountains.",
+    "objects": [
+      "they",
+      "all"
+    ],
+    "actions": [
+      "mountains",
+      "looking",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The camera then cuts to a scene where two people are walking down a path in a field with mountains in the background.",
+    "objects": [
+      "people",
+      "cuts",
+      "two",
+      "where",
+      "path",
+      "field",
+      "then"
+    ],
+    "actions": [
+      "mountains",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The camera then cuts to a scene where two people are walking down a path in a field with mountains in the background.",
+    "objects": [
+      "people",
+      "cuts",
+      "two",
+      "where",
+      "path",
+      "field",
+      "then"
+    ],
+    "actions": [
+      "mountains",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The camera then cuts to a scene where two people are walking down a path in a field with mountains in the background.",
+    "objects": [
+      "people",
+      "cuts",
+      "two",
+      "where",
+      "path",
+      "field",
+      "then"
+    ],
+    "actions": [
+      "mountains",
+      "walking"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The first person is wearing a yellow shirt and a backpack, and the second person is wearing a black shirt and a backpack.",
+    "objects": [
+      "black",
+      "yellow",
+      "shirt",
+      "second",
+      "first",
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The first person is wearing a yellow shirt and a backpack, and the second person is wearing a black shirt and a backpack.",
+    "objects": [
+      "black",
+      "yellow",
+      "shirt",
+      "second",
+      "first",
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The first person is wearing a yellow shirt and a backpack, and the second person is wearing a black shirt and a backpack.",
+    "objects": [
+      "black",
+      "yellow",
+      "shirt",
+      "second",
+      "first",
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "They are walking down the path towards the mountains.",
+    "objects": [
+      "they",
+      "path"
+    ],
+    "actions": [
+      "towards",
+      "mountains",
+      "walking"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "They are walking down the path towards the mountains.",
+    "objects": [
+      "they",
+      "path"
+    ],
+    "actions": [
+      "towards",
+      "mountains",
+      "walking"
+    ],
+    "segment_id": 10
+  }
+]

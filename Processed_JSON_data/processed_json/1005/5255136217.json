@@ -1,0 +1,540 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, a woman is performing on a stage, captivating the attention of an audience.",
+    "objects": [
+      "attention",
+      "woman",
+      "audience",
+      "stage",
+      "this"
+    ],
+    "actions": [
+      "captivating",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, a woman is performing on a stage, captivating the attention of an audience.",
+    "objects": [
+      "attention",
+      "woman",
+      "audience",
+      "stage",
+      "this"
+    ],
+    "actions": [
+      "captivating",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, a woman is performing on a stage, captivating the attention of an audience.",
+    "objects": [
+      "attention",
+      "woman",
+      "audience",
+      "stage",
+      "this"
+    ],
+    "actions": [
+      "captivating",
+      "performing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "She is wearing a white tank top, black pants, and black boots, and is playing the piano.",
+    "objects": [
+      "tank",
+      "white",
+      "she",
+      "black",
+      "top",
+      "piano"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "pants",
+      "boots"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "She is wearing a white tank top, black pants, and black boots, and is playing the piano.",
+    "objects": [
+      "tank",
+      "white",
+      "she",
+      "black",
+      "top",
+      "piano"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "pants",
+      "boots"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She is wearing a white tank top, black pants, and black boots, and is playing the piano.",
+    "objects": [
+      "tank",
+      "white",
+      "she",
+      "black",
+      "top",
+      "piano"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "pants",
+      "boots"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The piano is positioned in front of her, with a microphone on the right side of the stage.",
+    "objects": [
+      "microphone",
+      "her",
+      "side",
+      "stage",
+      "piano"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The piano is positioned in front of her, with a microphone on the right side of the stage.",
+    "objects": [
+      "microphone",
+      "her",
+      "side",
+      "stage",
+      "piano"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The piano is positioned in front of her, with a microphone on the right side of the stage.",
+    "objects": [
+      "microphone",
+      "her",
+      "side",
+      "stage",
+      "piano"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman's left hand is resting on the keyboard, while her right hand is on the right side of the keyboard.",
+    "objects": [
+      "keyboard",
+      "while",
+      "her",
+      "side",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "resting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman's left hand is resting on the keyboard, while her right hand is on the right side of the keyboard.",
+    "objects": [
+      "keyboard",
+      "while",
+      "her",
+      "side",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "resting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman's left hand is resting on the keyboard, while her right hand is on the right side of the keyboard.",
+    "objects": [
+      "keyboard",
+      "while",
+      "her",
+      "side",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "resting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "She appears to be in a deep focus, her head slightly tilted down as she plays the piano.",
+    "objects": [
+      "she",
+      "piano",
+      "her",
+      "deep",
+      "slightly",
+      "head"
+    ],
+    "actions": [
+      "plays",
+      "tilted",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "She appears to be in a deep focus, her head slightly tilted down as she plays the piano.",
+    "objects": [
+      "she",
+      "piano",
+      "her",
+      "deep",
+      "slightly",
+      "head"
+    ],
+    "actions": [
+      "plays",
+      "tilted",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "She appears to be in a deep focus, her head slightly tilted down as she plays the piano.",
+    "objects": [
+      "she",
+      "piano",
+      "her",
+      "deep",
+      "slightly",
+      "head"
+    ],
+    "actions": [
+      "plays",
+      "tilted",
+      "focus"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The background is dimly lit, with bright stage lights illuminating her.",
+    "objects": [
+      "lit",
+      "bright",
+      "her",
+      "dimly",
+      "stage"
+    ],
+    "actions": [
+      "lights",
+      "illuminating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The background is dimly lit, with bright stage lights illuminating her.",
+    "objects": [
+      "lit",
+      "bright",
+      "her",
+      "dimly",
+      "stage"
+    ],
+    "actions": [
+      "lights",
+      "illuminating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The background is dimly lit, with bright stage lights illuminating her.",
+    "objects": [
+      "lit",
+      "bright",
+      "her",
+      "dimly",
+      "stage"
+    ],
+    "actions": [
+      "lights",
+      "illuminating"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "Audience members can be seen in the background, some of whom are taking photos and others are just watching the performance.",
+    "objects": [
+      "can",
+      "whom",
+      "just",
+      "audience",
+      "some",
+      "performance"
+    ],
+    "actions": [
+      "photos",
+      "others",
+      "watching",
+      "members"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "Audience members can be seen in the background, some of whom are taking photos and others are just watching the performance.",
+    "objects": [
+      "can",
+      "whom",
+      "just",
+      "audience",
+      "some",
+      "performance"
+    ],
+    "actions": [
+      "photos",
+      "others",
+      "watching",
+      "members"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "Audience members can be seen in the background, some of whom are taking photos and others are just watching the performance.",
+    "objects": [
+      "can",
+      "whom",
+      "just",
+      "audience",
+      "some",
+      "performance"
+    ],
+    "actions": [
+      "photos",
+      "others",
+      "watching",
+      "members"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The atmosphere seems to be one of anticipation and excitement.",
+    "objects": [
+      "one",
+      "anticipation",
+      "excitement",
+      "atmosphere"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The atmosphere seems to be one of anticipation and excitement.",
+    "objects": [
+      "one",
+      "anticipation",
+      "excitement",
+      "atmosphere"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The atmosphere seems to be one of anticipation and excitement.",
+    "objects": [
+      "one",
+      "anticipation",
+      "excitement",
+      "atmosphere"
+    ],
+    "actions": [
+      "seems"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman's performance is the main event, and her attire is casual yet suitable for the occasion.",
+    "objects": [
+      "suitable",
+      "attire",
+      "casual",
+      "main",
+      "event",
+      "performance",
+      "yet",
+      "occasion"
+    ],
+    "actions": [
+      "woman's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman's performance is the main event, and her attire is casual yet suitable for the occasion.",
+    "objects": [
+      "suitable",
+      "attire",
+      "casual",
+      "main",
+      "event",
+      "performance",
+      "yet",
+      "occasion"
+    ],
+    "actions": [
+      "woman's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman's performance is the main event, and her attire is casual yet suitable for the occasion.",
+    "objects": [
+      "suitable",
+      "attire",
+      "casual",
+      "main",
+      "event",
+      "performance",
+      "yet",
+      "occasion"
+    ],
+    "actions": [
+      "woman's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The piano she plays is a prominent feature in the scene, drawing the audience's attention to her performance.",
+    "objects": [
+      "feature",
+      "she",
+      "attention",
+      "performance",
+      "prominent",
+      "her",
+      "piano"
+    ],
+    "actions": [
+      "plays",
+      "audience's",
+      "drawing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The piano she plays is a prominent feature in the scene, drawing the audience's attention to her performance.",
+    "objects": [
+      "feature",
+      "she",
+      "attention",
+      "performance",
+      "prominent",
+      "her",
+      "piano"
+    ],
+    "actions": [
+      "plays",
+      "audience's",
+      "drawing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The piano she plays is a prominent feature in the scene, drawing the audience's attention to her performance.",
+    "objects": [
+      "feature",
+      "she",
+      "attention",
+      "performance",
+      "prominent",
+      "her",
+      "piano"
+    ],
+    "actions": [
+      "plays",
+      "audience's",
+      "drawing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The stage is well-lit, with the performer being the central figure.",
+    "objects": [
+      "stage",
+      "performer",
+      "figure",
+      "central"
+    ],
+    "actions": [
+      "being"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The stage is well-lit, with the performer being the central figure.",
+    "objects": [
+      "stage",
+      "performer",
+      "figure",
+      "central"
+    ],
+    "actions": [
+      "being"
+    ],
+    "segment_id": 10
+  }
+]

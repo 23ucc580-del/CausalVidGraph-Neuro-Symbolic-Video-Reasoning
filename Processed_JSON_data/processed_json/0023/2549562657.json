@@ -1,0 +1,600 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the heart of a cozy living room, a lively scene unfolds.",
+    "objects": [
+      "cozy",
+      "heart",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "living",
+      "unfolds"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the heart of a cozy living room, a lively scene unfolds.",
+    "objects": [
+      "cozy",
+      "heart",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "living",
+      "unfolds"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "Three children, each engrossed in play, are scattered across the wooden floor, their attention fixed on a toy train set.",
+    "objects": [
+      "wooden",
+      "floor",
+      "each",
+      "their",
+      "three",
+      "across",
+      "set",
+      "toy"
+    ],
+    "actions": [
+      "scattered",
+      "engrossed",
+      "fixed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "Three children, each engrossed in play, are scattered across the wooden floor, their attention fixed on a toy train set.",
+    "objects": [
+      "wooden",
+      "floor",
+      "each",
+      "their",
+      "three",
+      "across",
+      "set",
+      "toy"
+    ],
+    "actions": [
+      "scattered",
+      "engrossed",
+      "fixed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The train, a symbol of adventure and exploration, is their current obsession.",
+    "objects": [
+      "adventure",
+      "exploration",
+      "their",
+      "symbol",
+      "obsession",
+      "train",
+      "current"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The train, a symbol of adventure and exploration, is their current obsession.",
+    "objects": [
+      "adventure",
+      "exploration",
+      "their",
+      "symbol",
+      "obsession",
+      "train",
+      "current"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "A child in a blue hoodie is immersed in the world of imagination, their hands gripping the train, perhaps imagining the journey it could take.",
+    "objects": [
+      "blue",
+      "child",
+      "their",
+      "world",
+      "train",
+      "take",
+      "could",
+      "journey"
+    ],
+    "actions": [
+      "immersed",
+      "gripping",
+      "perhaps",
+      "imagining"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "A child in a blue hoodie is immersed in the world of imagination, their hands gripping the train, perhaps imagining the journey it could take.",
+    "objects": [
+      "blue",
+      "child",
+      "their",
+      "world",
+      "train",
+      "take",
+      "could",
+      "journey"
+    ],
+    "actions": [
+      "immersed",
+      "gripping",
+      "perhaps",
+      "imagining"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "Another child, dressed in a red hoodie, is engrossed in play with a toy car, perhaps pretending to be a race car driver, adding a dynamic element to the play.",
+    "objects": [
+      "driver",
+      "child",
+      "dynamic",
+      "toy",
+      "element",
+      "hoodie",
+      "car",
+      "play"
+    ],
+    "actions": [
+      "red",
+      "dressed",
+      "perhaps",
+      "engrossed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "Another child, dressed in a red hoodie, is engrossed in play with a toy car, perhaps pretending to be a race car driver, adding a dynamic element to the play.",
+    "objects": [
+      "driver",
+      "child",
+      "dynamic",
+      "toy",
+      "element",
+      "hoodie",
+      "car",
+      "play"
+    ],
+    "actions": [
+      "red",
+      "dressed",
+      "perhaps",
+      "engrossed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The third child, clad in a black hoodie, is engaged with a toy car, perhaps imagining a journey of their own.",
+    "objects": [
+      "car",
+      "child",
+      "their",
+      "black",
+      "third",
+      "toy",
+      "own",
+      "journey"
+    ],
+    "actions": [
+      "imagining",
+      "perhaps",
+      "engaged"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The third child, clad in a black hoodie, is engaged with a toy car, perhaps imagining a journey of their own.",
+    "objects": [
+      "car",
+      "child",
+      "their",
+      "black",
+      "third",
+      "toy",
+      "own",
+      "journey"
+    ],
+    "actions": [
+      "imagining",
+      "perhaps",
+      "engaged"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Two adults are present, one in a blue shirt and the other in a red shirt.",
+    "objects": [
+      "shirt",
+      "blue",
+      "one",
+      "present",
+      "other",
+      "two"
+    ],
+    "actions": [
+      "red",
+      "adults"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Two adults are present, one in a blue shirt and the other in a red shirt.",
+    "objects": [
+      "shirt",
+      "blue",
+      "one",
+      "present",
+      "other",
+      "two"
+    ],
+    "actions": [
+      "red",
+      "adults"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The blue-shirted adult is seated on the left, a silent observer to the children's play, while the red-shirted adult is on the right, possibly overseeing the scene.",
+    "objects": [
+      "observer",
+      "adult",
+      "possibly",
+      "silent",
+      "play",
+      "while"
+    ],
+    "actions": [
+      "blue-shirted",
+      "seated",
+      "children's",
+      "overseeing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The blue-shirted adult is seated on the left, a silent observer to the children's play, while the red-shirted adult is on the right, possibly overseeing the scene.",
+    "objects": [
+      "observer",
+      "adult",
+      "possibly",
+      "silent",
+      "play",
+      "while"
+    ],
+    "actions": [
+      "blue-shirted",
+      "seated",
+      "children's",
+      "overseeing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The adults seem to be engaged in a conversation, perhaps sharing stories or discussing the children's play.",
+    "objects": [
+      "seem",
+      "play",
+      "conversation"
+    ],
+    "actions": [
+      "engaged",
+      "children's",
+      "discussing",
+      "adults"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The adults seem to be engaged in a conversation, perhaps sharing stories or discussing the children's play.",
+    "objects": [
+      "seem",
+      "play",
+      "conversation"
+    ],
+    "actions": [
+      "engaged",
+      "children's",
+      "discussing",
+      "adults"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A dog, a loyal companion in this domestic setting, is present too.",
+    "objects": [
+      "loyal",
+      "dog",
+      "present",
+      "too",
+      "domestic",
+      "this",
+      "companion"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A dog, a loyal companion in this domestic setting, is present too.",
+    "objects": [
+      "loyal",
+      "dog",
+      "present",
+      "too",
+      "domestic",
+      "this",
+      "companion"
+    ],
+    "actions": [
+      "setting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "It's sitting on the floor, its gaze fixed on the children's activities, adding a sense of companionship to the scene.",
+    "objects": [
+      "companionship",
+      "floor",
+      "its",
+      "sense",
+      "gaze"
+    ],
+    "actions": [
+      "children's",
+      "activities",
+      "fixed",
+      "sitting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "It's sitting on the floor, its gaze fixed on the children's activities, adding a sense of companionship to the scene.",
+    "objects": [
+      "companionship",
+      "floor",
+      "its",
+      "sense",
+      "gaze"
+    ],
+    "actions": [
+      "children's",
+      "activities",
+      "fixed",
+      "sitting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The room is further adorned with a white sofa and a blue couch, providing comfortable seating for the adults.",
+    "objects": [
+      "blue",
+      "white",
+      "room",
+      "sofa",
+      "couch",
+      "comfortable",
+      "further"
+    ],
+    "actions": [
+      "seating",
+      "adorned",
+      "providing",
+      "adults"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The room is further adorned with a white sofa and a blue couch, providing comfortable seating for the adults.",
+    "objects": [
+      "blue",
+      "white",
+      "room",
+      "sofa",
+      "couch",
+      "comfortable",
+      "further"
+    ],
+    "actions": [
+      "seating",
+      "adorned",
+      "providing",
+      "adults"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "A wooden table stands nearby, possibly holding snacks or drinks for the adults, and a rug underfoot adds warmth to the space.",
+    "objects": [
+      "wooden",
+      "nearby",
+      "warmth",
+      "space",
+      "table",
+      "adds",
+      "rug",
+      "possibly"
+    ],
+    "actions": [
+      "snacks",
+      "adults",
+      "holding",
+      "drinks"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "A wooden table stands nearby, possibly holding snacks or drinks for the adults, and a rug underfoot adds warmth to the space.",
+    "objects": [
+      "wooden",
+      "nearby",
+      "warmth",
+      "space",
+      "table",
+      "adds",
+      "rug",
+      "possibly"
+    ],
+    "actions": [
+      "snacks",
+      "adults",
+      "holding",
+      "drinks"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is a snapshot of childhood, full of imagination and play, with the train set serving as a catalyst for adventure and creativity.",
+    "objects": [
+      "adventure",
+      "creativity",
+      "catalyst",
+      "childhood",
+      "set",
+      "snapshot",
+      "train",
+      "imagination"
+    ],
+    "actions": [
+      "serving"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is a snapshot of childhood, full of imagination and play, with the train set serving as a catalyst for adventure and creativity.",
+    "objects": [
+      "adventure",
+      "creativity",
+      "catalyst",
+      "childhood",
+      "set",
+      "snapshot",
+      "train",
+      "imagination"
+    ],
+    "actions": [
+      "serving"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "The adults, too, are part of this moment, their presence adding a sense of guidance and support.",
+    "objects": [
+      "support",
+      "their",
+      "part",
+      "presence",
+      "sense",
+      "moment",
+      "too",
+      "this"
+    ],
+    "actions": [
+      "adding",
+      "adults"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "The adults, too, are part of this moment, their presence adding a sense of guidance and support.",
+    "objects": [
+      "support",
+      "their",
+      "part",
+      "presence",
+      "sense",
+      "moment",
+      "too",
+      "this"
+    ],
+    "actions": [
+      "adding",
+      "adults"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The dog, a constant companion, watches over the scene, its presence adding a sense of home to the setting.",
+    "objects": [
+      "home",
+      "its",
+      "sense",
+      "constant",
+      "presence",
+      "dog",
+      "over",
+      "companion"
+    ],
+    "actions": [
+      "setting",
+      "watches",
+      "adding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The dog, a constant companion, watches over the scene, its presence adding a sense of home to the setting.",
+    "objects": [
+      "home",
+      "its",
+      "sense",
+      "constant",
+      "presence",
+      "dog",
+      "over",
+      "companion"
+    ],
+    "actions": [
+      "setting",
+      "watches",
+      "adding"
+    ],
+    "segment_id": 15
+  }
+]

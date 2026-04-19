@@ -1,0 +1,564 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a vibrant day on a ski slope, with three people enjoying the thrill of skiing.",
+    "objects": [
+      "ski",
+      "this",
+      "three",
+      "day",
+      "people",
+      "thrill",
+      "vibrant",
+      "slope"
+    ],
+    "actions": [
+      "skiing",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a vibrant day on a ski slope, with three people enjoying the thrill of skiing.",
+    "objects": [
+      "ski",
+      "this",
+      "three",
+      "day",
+      "people",
+      "thrill",
+      "vibrant",
+      "slope"
+    ],
+    "actions": [
+      "skiing",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a vibrant day on a ski slope, with three people enjoying the thrill of skiing.",
+    "objects": [
+      "ski",
+      "this",
+      "three",
+      "day",
+      "people",
+      "thrill",
+      "vibrant",
+      "slope"
+    ],
+    "actions": [
+      "skiing",
+      "enjoying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a man, dressed in a black jacket and blue pants, skiing down a slope.",
+    "objects": [
+      "blue",
+      "man",
+      "jacket",
+      "black",
+      "slope"
+    ],
+    "actions": [
+      "skiing",
+      "opens",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with a man, dressed in a black jacket and blue pants, skiing down a slope.",
+    "objects": [
+      "blue",
+      "man",
+      "jacket",
+      "black",
+      "slope"
+    ],
+    "actions": [
+      "skiing",
+      "opens",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with a man, dressed in a black jacket and blue pants, skiing down a slope.",
+    "objects": [
+      "blue",
+      "man",
+      "jacket",
+      "black",
+      "slope"
+    ],
+    "actions": [
+      "skiing",
+      "opens",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is making his way towards the right side of the screen.",
+    "objects": [
+      "screen",
+      "side",
+      "his",
+      "way"
+    ],
+    "actions": [
+      "making",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He is making his way towards the right side of the screen.",
+    "objects": [
+      "screen",
+      "side",
+      "his",
+      "way"
+    ],
+    "actions": [
+      "making",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He is making his way towards the right side of the screen.",
+    "objects": [
+      "screen",
+      "side",
+      "his",
+      "way"
+    ],
+    "actions": [
+      "making",
+      "towards"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The camera then shifts its focus to another man, who is skiing towards the left side of the screen.",
+    "objects": [
+      "man",
+      "side",
+      "its",
+      "screen",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "skiing",
+      "towards",
+      "focus"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The camera then shifts its focus to another man, who is skiing towards the left side of the screen.",
+    "objects": [
+      "man",
+      "side",
+      "its",
+      "screen",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "skiing",
+      "towards",
+      "focus"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The camera then shifts its focus to another man, who is skiing towards the left side of the screen.",
+    "objects": [
+      "man",
+      "side",
+      "its",
+      "screen",
+      "who",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "skiing",
+      "towards",
+      "focus"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "He is wearing a black jacket and black pants.",
+    "objects": [
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "He is wearing a black jacket and black pants.",
+    "objects": [
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "He is wearing a black jacket and black pants.",
+    "objects": [
+      "jacket",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "As the camera pans back to the man on the left, we see him skiing towards the right, leaving behind a trail on the snowy slope.",
+    "objects": [
+      "snowy",
+      "man",
+      "him",
+      "pans",
+      "trail",
+      "behind",
+      "see",
+      "slope"
+    ],
+    "actions": [
+      "leaving",
+      "skiing",
+      "towards"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "As the camera pans back to the man on the left, we see him skiing towards the right, leaving behind a trail on the snowy slope.",
+    "objects": [
+      "snowy",
+      "man",
+      "him",
+      "pans",
+      "trail",
+      "behind",
+      "see",
+      "slope"
+    ],
+    "actions": [
+      "leaving",
+      "skiing",
+      "towards"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "As the camera pans back to the man on the left, we see him skiing towards the right, leaving behind a trail on the snowy slope.",
+    "objects": [
+      "snowy",
+      "man",
+      "him",
+      "pans",
+      "trail",
+      "behind",
+      "see",
+      "slope"
+    ],
+    "actions": [
+      "leaving",
+      "skiing",
+      "towards"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene then shifts to another man, dressed in a black jacket and black pants, skiing towards the left side of the screen.",
+    "objects": [
+      "man",
+      "side",
+      "jacket",
+      "screen",
+      "black",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "skiing",
+      "dressed",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene then shifts to another man, dressed in a black jacket and black pants, skiing towards the left side of the screen.",
+    "objects": [
+      "man",
+      "side",
+      "jacket",
+      "screen",
+      "black",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "skiing",
+      "dressed",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene then shifts to another man, dressed in a black jacket and black pants, skiing towards the left side of the screen.",
+    "objects": [
+      "man",
+      "side",
+      "jacket",
+      "screen",
+      "black",
+      "then"
+    ],
+    "actions": [
+      "shifts",
+      "skiing",
+      "dressed",
+      "towards"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "He too is leaving behind a trail on the slope.",
+    "objects": [
+      "trail",
+      "too",
+      "slope",
+      "behind"
+    ],
+    "actions": [
+      "leaving"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "He too is leaving behind a trail on the slope.",
+    "objects": [
+      "trail",
+      "too",
+      "slope",
+      "behind"
+    ],
+    "actions": [
+      "leaving"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "He too is leaving behind a trail on the slope.",
+    "objects": [
+      "trail",
+      "too",
+      "slope",
+      "behind"
+    ],
+    "actions": [
+      "leaving"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The skiers are all equipped with ski poles, which they hold firmly in their hands.",
+    "objects": [
+      "ski",
+      "which",
+      "firmly",
+      "all",
+      "hold",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "hands",
+      "poles",
+      "skiers"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The skiers are all equipped with ski poles, which they hold firmly in their hands.",
+    "objects": [
+      "ski",
+      "which",
+      "firmly",
+      "all",
+      "hold",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "hands",
+      "poles",
+      "skiers"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The skiers are all equipped with ski poles, which they hold firmly in their hands.",
+    "objects": [
+      "ski",
+      "which",
+      "firmly",
+      "all",
+      "hold",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "hands",
+      "poles",
+      "skiers"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "They appear to be in high spirits, smiling and enjoying the thrill of skiing down the slope.",
+    "objects": [
+      "high",
+      "appear",
+      "thrill",
+      "slope",
+      "they"
+    ],
+    "actions": [
+      "spirits",
+      "smiling",
+      "skiing",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "They appear to be in high spirits, smiling and enjoying the thrill of skiing down the slope.",
+    "objects": [
+      "high",
+      "appear",
+      "thrill",
+      "slope",
+      "they"
+    ],
+    "actions": [
+      "spirits",
+      "smiling",
+      "skiing",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "They appear to be in high spirits, smiling and enjoying the thrill of skiing down the slope.",
+    "objects": [
+      "high",
+      "appear",
+      "thrill",
+      "slope",
+      "they"
+    ],
+    "actions": [
+      "spirits",
+      "smiling",
+      "skiing",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The slope itself is covered in a thick blanket of snow, providing a perfect surface for their skiing adventure.",
+    "objects": [
+      "thick",
+      "itself",
+      "blanket",
+      "surface",
+      "perfect",
+      "snow",
+      "their",
+      "slope"
+    ],
+    "actions": [
+      "covered",
+      "skiing",
+      "providing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The slope itself is covered in a thick blanket of snow, providing a perfect surface for their skiing adventure.",
+    "objects": [
+      "thick",
+      "itself",
+      "blanket",
+      "surface",
+      "perfect",
+      "snow",
+      "their",
+      "slope"
+    ],
+    "actions": [
+      "covered",
+      "skiing",
+      "providing"
+    ],
+    "segment_id": 10
+  }
+]

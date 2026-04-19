@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a woman and a little boy standing next to a large, colorful kite lying on the ground.",
+    "objects": [
+      "large",
+      "boy",
+      "woman",
+      "little",
+      "see",
+      "colorful",
+      "kite",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a woman and a little boy standing next to a large, colorful kite lying on the ground.",
+    "objects": [
+      "large",
+      "boy",
+      "woman",
+      "little",
+      "see",
+      "colorful",
+      "kite",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a woman and a little boy standing next to a large, colorful kite lying on the ground.",
+    "objects": [
+      "large",
+      "boy",
+      "woman",
+      "little",
+      "see",
+      "colorful",
+      "kite",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a woman and a little boy standing next to a large, colorful kite lying on the ground.",
+    "objects": [
+      "large",
+      "boy",
+      "woman",
+      "little",
+      "see",
+      "colorful",
+      "kite",
+      "ground"
+    ],
+    "actions": [
+      "standing",
+      "lying"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is wearing a striped shirt and appears to be assisting the boy in setting up the kite.",
+    "objects": [
+      "kite",
+      "boy",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "assisting",
+      "striped",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is wearing a striped shirt and appears to be assisting the boy in setting up the kite.",
+    "objects": [
+      "kite",
+      "boy",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "assisting",
+      "striped",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is wearing a striped shirt and appears to be assisting the boy in setting up the kite.",
+    "objects": [
+      "kite",
+      "boy",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "assisting",
+      "striped",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is wearing a striped shirt and appears to be assisting the boy in setting up the kite.",
+    "objects": [
+      "kite",
+      "boy",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "assisting",
+      "striped",
+      "setting"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The boy is wearing a red shirt and holding a small dog on a leash.",
+    "objects": [
+      "small",
+      "boy",
+      "shirt",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The boy is wearing a red shirt and holding a small dog on a leash.",
+    "objects": [
+      "small",
+      "boy",
+      "shirt",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The boy is wearing a red shirt and holding a small dog on a leash.",
+    "objects": [
+      "small",
+      "boy",
+      "shirt",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The boy is wearing a red shirt and holding a small dog on a leash.",
+    "objects": [
+      "small",
+      "boy",
+      "shirt",
+      "leash",
+      "dog"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The dog is brown and white and seems to be enjoying the activity.",
+    "objects": [
+      "brown",
+      "dog",
+      "white",
+      "activity"
+    ],
+    "actions": [
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The dog is brown and white and seems to be enjoying the activity.",
+    "objects": [
+      "brown",
+      "dog",
+      "white",
+      "activity"
+    ],
+    "actions": [
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The dog is brown and white and seems to be enjoying the activity.",
+    "objects": [
+      "brown",
+      "dog",
+      "white",
+      "activity"
+    ],
+    "actions": [
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The dog is brown and white and seems to be enjoying the activity.",
+    "objects": [
+      "brown",
+      "dog",
+      "white",
+      "activity"
+    ],
+    "actions": [
+      "seems",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "They are surrounded by a rural landscape with a car and a truck parked in the distance.",
+    "objects": [
+      "they",
+      "truck",
+      "distance",
+      "car",
+      "rural",
+      "landscape"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "They are surrounded by a rural landscape with a car and a truck parked in the distance.",
+    "objects": [
+      "they",
+      "truck",
+      "distance",
+      "car",
+      "rural",
+      "landscape"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "They are surrounded by a rural landscape with a car and a truck parked in the distance.",
+    "objects": [
+      "they",
+      "truck",
+      "distance",
+      "car",
+      "rural",
+      "landscape"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "They are surrounded by a rural landscape with a car and a truck parked in the distance.",
+    "objects": [
+      "they",
+      "truck",
+      "distance",
+      "car",
+      "rural",
+      "landscape"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The sky is overcast, and it's a cool day.",
+    "objects": [
+      "sky",
+      "cool",
+      "overcast",
+      "day"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The sky is overcast, and it's a cool day.",
+    "objects": [
+      "sky",
+      "cool",
+      "overcast",
+      "day"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The sky is overcast, and it's a cool day.",
+    "objects": [
+      "sky",
+      "cool",
+      "overcast",
+      "day"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The sky is overcast, and it's a cool day.",
+    "objects": [
+      "sky",
+      "cool",
+      "overcast",
+      "day"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The kite is a vibrant blue, green, and yellow with a black and white stripe pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "black",
+      "blue",
+      "vibrant",
+      "green",
+      "yellow",
+      "kite"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The kite is a vibrant blue, green, and yellow with a black and white stripe pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "black",
+      "blue",
+      "vibrant",
+      "green",
+      "yellow",
+      "kite"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The kite is a vibrant blue, green, and yellow with a black and white stripe pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "black",
+      "blue",
+      "vibrant",
+      "green",
+      "yellow",
+      "kite"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The kite is a vibrant blue, green, and yellow with a black and white stripe pattern.",
+    "objects": [
+      "white",
+      "pattern",
+      "black",
+      "blue",
+      "vibrant",
+      "green",
+      "yellow",
+      "kite"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman is holding the kite string while the boy is pulling the leash, indicating that they are about to fly the kite.",
+    "objects": [
+      "they",
+      "fly",
+      "boy",
+      "woman",
+      "while",
+      "leash",
+      "about",
+      "that"
+    ],
+    "actions": [
+      "string",
+      "holding",
+      "indicating",
+      "pulling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman is holding the kite string while the boy is pulling the leash, indicating that they are about to fly the kite.",
+    "objects": [
+      "they",
+      "fly",
+      "boy",
+      "woman",
+      "while",
+      "leash",
+      "about",
+      "that"
+    ],
+    "actions": [
+      "string",
+      "holding",
+      "indicating",
+      "pulling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman is holding the kite string while the boy is pulling the leash, indicating that they are about to fly the kite.",
+    "objects": [
+      "they",
+      "fly",
+      "boy",
+      "woman",
+      "while",
+      "leash",
+      "about",
+      "that"
+    ],
+    "actions": [
+      "string",
+      "holding",
+      "indicating",
+      "pulling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman is holding the kite string while the boy is pulling the leash, indicating that they are about to fly the kite.",
+    "objects": [
+      "they",
+      "fly",
+      "boy",
+      "woman",
+      "while",
+      "leash",
+      "about",
+      "that"
+    ],
+    "actions": [
+      "string",
+      "holding",
+      "indicating",
+      "pulling"
+    ],
+    "segment_id": 7
+  }
+]

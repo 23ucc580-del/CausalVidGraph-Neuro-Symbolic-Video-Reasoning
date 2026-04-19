@@ -1,0 +1,591 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video captures a vibrant and lively performance by a band on stage.",
+    "objects": [
+      "lively",
+      "this",
+      "band",
+      "vibrant",
+      "performance",
+      "stage"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video captures a vibrant and lively performance by a band on stage.",
+    "objects": [
+      "lively",
+      "this",
+      "band",
+      "vibrant",
+      "performance",
+      "stage"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "This video captures a vibrant and lively performance by a band on stage.",
+    "objects": [
+      "lively",
+      "this",
+      "band",
+      "vibrant",
+      "performance",
+      "stage"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with a man in a blue hoodie standing in front of a microphone, his attention focused on the band.",
+    "objects": [
+      "man",
+      "attention",
+      "microphone",
+      "band",
+      "hoodie",
+      "blue",
+      "his"
+    ],
+    "actions": [
+      "focused",
+      "standing",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with a man in a blue hoodie standing in front of a microphone, his attention focused on the band.",
+    "objects": [
+      "man",
+      "attention",
+      "microphone",
+      "band",
+      "hoodie",
+      "blue",
+      "his"
+    ],
+    "actions": [
+      "focused",
+      "standing",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with a man in a blue hoodie standing in front of a microphone, his attention focused on the band.",
+    "objects": [
+      "man",
+      "attention",
+      "microphone",
+      "band",
+      "hoodie",
+      "blue",
+      "his"
+    ],
+    "actions": [
+      "focused",
+      "standing",
+      "opens"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He appears to be addressing the audience or leading the performance.",
+    "objects": [
+      "audience",
+      "performance"
+    ],
+    "actions": [
+      "addressing",
+      "leading"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "He appears to be addressing the audience or leading the performance.",
+    "objects": [
+      "audience",
+      "performance"
+    ],
+    "actions": [
+      "addressing",
+      "leading"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "He appears to be addressing the audience or leading the performance.",
+    "objects": [
+      "audience",
+      "performance"
+    ],
+    "actions": [
+      "addressing",
+      "leading"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Behind him, a woman in a red kimono is playing a drum, her rhythmic beats setting the pace for the performance.",
+    "objects": [
+      "behind",
+      "woman",
+      "performance",
+      "kimono",
+      "drum",
+      "rhythmic",
+      "her",
+      "him"
+    ],
+    "actions": [
+      "playing",
+      "beats",
+      "setting",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "Behind him, a woman in a red kimono is playing a drum, her rhythmic beats setting the pace for the performance.",
+    "objects": [
+      "behind",
+      "woman",
+      "performance",
+      "kimono",
+      "drum",
+      "rhythmic",
+      "her",
+      "him"
+    ],
+    "actions": [
+      "playing",
+      "beats",
+      "setting",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "Behind him, a woman in a red kimono is playing a drum, her rhythmic beats setting the pace for the performance.",
+    "objects": [
+      "behind",
+      "woman",
+      "performance",
+      "kimono",
+      "drum",
+      "rhythmic",
+      "her",
+      "him"
+    ],
+    "actions": [
+      "playing",
+      "beats",
+      "setting",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "To his right, a man in a silver suit is playing a trumpet, his instrument gleaming under the stage lights.",
+    "objects": [
+      "instrument",
+      "man",
+      "stage",
+      "silver",
+      "under",
+      "trumpet",
+      "his",
+      "suit"
+    ],
+    "actions": [
+      "playing",
+      "gleaming",
+      "lights"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "To his right, a man in a silver suit is playing a trumpet, his instrument gleaming under the stage lights.",
+    "objects": [
+      "instrument",
+      "man",
+      "stage",
+      "silver",
+      "under",
+      "trumpet",
+      "his",
+      "suit"
+    ],
+    "actions": [
+      "playing",
+      "gleaming",
+      "lights"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "To his right, a man in a silver suit is playing a trumpet, his instrument gleaming under the stage lights.",
+    "objects": [
+      "instrument",
+      "man",
+      "stage",
+      "silver",
+      "under",
+      "trumpet",
+      "his",
+      "suit"
+    ],
+    "actions": [
+      "playing",
+      "gleaming",
+      "lights"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "He is fully immersed in his performance, blowing into the trumpet with concentration and passion.",
+    "objects": [
+      "concentration",
+      "passion",
+      "performance",
+      "into",
+      "trumpet",
+      "fully",
+      "his"
+    ],
+    "actions": [
+      "blowing",
+      "immersed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "He is fully immersed in his performance, blowing into the trumpet with concentration and passion.",
+    "objects": [
+      "concentration",
+      "passion",
+      "performance",
+      "into",
+      "trumpet",
+      "fully",
+      "his"
+    ],
+    "actions": [
+      "blowing",
+      "immersed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "He is fully immersed in his performance, blowing into the trumpet with concentration and passion.",
+    "objects": [
+      "concentration",
+      "passion",
+      "performance",
+      "into",
+      "trumpet",
+      "fully",
+      "his"
+    ],
+    "actions": [
+      "blowing",
+      "immersed"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "On the far right, a woman in a blue hoodie is playing the saxophone, her fingers dancing over the keys as she produces a melodic tune.",
+    "objects": [
+      "melodic",
+      "woman",
+      "over",
+      "saxophone",
+      "tune",
+      "she",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "playing",
+      "produces",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "On the far right, a woman in a blue hoodie is playing the saxophone, her fingers dancing over the keys as she produces a melodic tune.",
+    "objects": [
+      "melodic",
+      "woman",
+      "over",
+      "saxophone",
+      "tune",
+      "she",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "playing",
+      "produces",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "On the far right, a woman in a blue hoodie is playing the saxophone, her fingers dancing over the keys as she produces a melodic tune.",
+    "objects": [
+      "melodic",
+      "woman",
+      "over",
+      "saxophone",
+      "tune",
+      "she",
+      "hoodie",
+      "blue"
+    ],
+    "actions": [
+      "playing",
+      "produces",
+      "dancing",
+      "fingers"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, a man in a red suit and black hat is playing a saxophone, his fingers moving with the music as he joins the saxophone player.",
+    "objects": [
+      "man",
+      "saxophone",
+      "player",
+      "hat",
+      "music",
+      "his",
+      "suit",
+      "black"
+    ],
+    "actions": [
+      "joins",
+      "fingers",
+      "red",
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, a man in a red suit and black hat is playing a saxophone, his fingers moving with the music as he joins the saxophone player.",
+    "objects": [
+      "man",
+      "saxophone",
+      "player",
+      "hat",
+      "music",
+      "his",
+      "suit",
+      "black"
+    ],
+    "actions": [
+      "joins",
+      "fingers",
+      "red",
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, a man in a red suit and black hat is playing a saxophone, his fingers moving with the music as he joins the saxophone player.",
+    "objects": [
+      "man",
+      "saxophone",
+      "player",
+      "hat",
+      "music",
+      "his",
+      "suit",
+      "black"
+    ],
+    "actions": [
+      "joins",
+      "fingers",
+      "red",
+      "playing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "On the far left, a woman in a blue kimono is playing a drum, her beats complementing the other drum player's.",
+    "objects": [
+      "woman",
+      "blue",
+      "kimono",
+      "far",
+      "other",
+      "drum",
+      "her"
+    ],
+    "actions": [
+      "playing",
+      "beats",
+      "complementing",
+      "player's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "On the far left, a woman in a blue kimono is playing a drum, her beats complementing the other drum player's.",
+    "objects": [
+      "woman",
+      "blue",
+      "kimono",
+      "far",
+      "other",
+      "drum",
+      "her"
+    ],
+    "actions": [
+      "playing",
+      "beats",
+      "complementing",
+      "player's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "On the far left, a woman in a blue kimono is playing a drum, her beats complementing the other drum player's.",
+    "objects": [
+      "woman",
+      "blue",
+      "kimono",
+      "far",
+      "other",
+      "drum",
+      "her"
+    ],
+    "actions": [
+      "playing",
+      "beats",
+      "complementing",
+      "player's"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The band's attire is colorful, adding to the overall festive atmosphere.",
+    "objects": [
+      "colorful",
+      "festive",
+      "atmosphere",
+      "attire",
+      "overall"
+    ],
+    "actions": [
+      "adding",
+      "band's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The band's attire is colorful, adding to the overall festive atmosphere.",
+    "objects": [
+      "colorful",
+      "festive",
+      "atmosphere",
+      "attire",
+      "overall"
+    ],
+    "actions": [
+      "adding",
+      "band's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The band's attire is colorful, adding to the overall festive atmosphere.",
+    "objects": [
+      "colorful",
+      "festive",
+      "atmosphere",
+      "attire",
+      "overall"
+    ],
+    "actions": [
+      "adding",
+      "band's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The stage is set with decorative posters, enhancing the visual appeal of the performance.",
+    "objects": [
+      "decorative",
+      "performance",
+      "visual",
+      "stage",
+      "set",
+      "appeal"
+    ],
+    "actions": [
+      "posters",
+      "enhancing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The stage is set with decorative posters, enhancing the visual appeal of the performance.",
+    "objects": [
+      "decorative",
+      "performance",
+      "visual",
+      "stage",
+      "set",
+      "appeal"
+    ],
+    "actions": [
+      "posters",
+      "enhancing"
+    ],
+    "segment_id": 10
+  }
+]

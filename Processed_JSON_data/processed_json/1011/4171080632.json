@@ -1,0 +1,527 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a lively scene in a restaurant.",
+    "objects": [
+      "restaurant",
+      "lively",
+      "see"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a lively scene in a restaurant.",
+    "objects": [
+      "restaurant",
+      "lively",
+      "see"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a lively scene in a restaurant.",
+    "objects": [
+      "restaurant",
+      "lively",
+      "see"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "A group of people are gathered, some are standing, some are sitting, and they are all engaged in a lively conversation.",
+    "objects": [
+      "they",
+      "people",
+      "conversation",
+      "lively",
+      "some",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A group of people are gathered, some are standing, some are sitting, and they are all engaged in a lively conversation.",
+    "objects": [
+      "they",
+      "people",
+      "conversation",
+      "lively",
+      "some",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A group of people are gathered, some are standing, some are sitting, and they are all engaged in a lively conversation.",
+    "objects": [
+      "they",
+      "people",
+      "conversation",
+      "lively",
+      "some",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "gathered",
+      "engaged"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A man in a blue shirt is seated at the table, while another man in a black jacket stands nearby.",
+    "objects": [
+      "table",
+      "while",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "seated",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A man in a blue shirt is seated at the table, while another man in a black jacket stands nearby.",
+    "objects": [
+      "table",
+      "while",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "seated",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A man in a blue shirt is seated at the table, while another man in a black jacket stands nearby.",
+    "objects": [
+      "table",
+      "while",
+      "black",
+      "jacket",
+      "blue",
+      "shirt",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "seated",
+      "stands"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman sitting next to him is wearing a black shirt and holding a beer.",
+    "objects": [
+      "woman",
+      "black",
+      "him",
+      "shirt",
+      "beer"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman sitting next to him is wearing a black shirt and holding a beer.",
+    "objects": [
+      "woman",
+      "black",
+      "him",
+      "shirt",
+      "beer"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman sitting next to him is wearing a black shirt and holding a beer.",
+    "objects": [
+      "woman",
+      "black",
+      "him",
+      "shirt",
+      "beer"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "A man in a white shirt stands up, and he is holding a beer as well.",
+    "objects": [
+      "white",
+      "shirt",
+      "well",
+      "beer",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "A man in a white shirt stands up, and he is holding a beer as well.",
+    "objects": [
+      "white",
+      "shirt",
+      "well",
+      "beer",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "A man in a white shirt stands up, and he is holding a beer as well.",
+    "objects": [
+      "white",
+      "shirt",
+      "well",
+      "beer",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "stands"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman in a black shirt and black pants is standing and holding a beer.",
+    "objects": [
+      "black",
+      "beer",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The woman in a black shirt and black pants is standing and holding a beer.",
+    "objects": [
+      "black",
+      "beer",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The woman in a black shirt and black pants is standing and holding a beer.",
+    "objects": [
+      "black",
+      "beer",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The woman in a white shirt is sitting at the table, and she is holding a beer.",
+    "objects": [
+      "table",
+      "white",
+      "she",
+      "woman",
+      "shirt",
+      "beer"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The woman in a white shirt is sitting at the table, and she is holding a beer.",
+    "objects": [
+      "table",
+      "white",
+      "she",
+      "woman",
+      "shirt",
+      "beer"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman in a white shirt is sitting at the table, and she is holding a beer.",
+    "objects": [
+      "table",
+      "white",
+      "she",
+      "woman",
+      "shirt",
+      "beer"
+    ],
+    "actions": [
+      "sitting",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Another man in a blue shirt stands and is holding a beer.",
+    "objects": [
+      "man",
+      "beer",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "stands"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Another man in a blue shirt stands and is holding a beer.",
+    "objects": [
+      "man",
+      "beer",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "stands"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Another man in a blue shirt stands and is holding a beer.",
+    "objects": [
+      "man",
+      "beer",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "holding",
+      "stands"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The woman in a black shirt is standing and holding a beer.",
+    "objects": [
+      "black",
+      "beer",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The woman in a black shirt is standing and holding a beer.",
+    "objects": [
+      "black",
+      "beer",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The woman in a black shirt is standing and holding a beer.",
+    "objects": [
+      "black",
+      "beer",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "There is a man in a black jacket who is standing and holding a beer.",
+    "objects": [
+      "there",
+      "jacket",
+      "black",
+      "beer",
+      "who",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "There is a man in a black jacket who is standing and holding a beer.",
+    "objects": [
+      "there",
+      "jacket",
+      "black",
+      "beer",
+      "who",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "There is a man in a black jacket who is standing and holding a beer.",
+    "objects": [
+      "there",
+      "jacket",
+      "black",
+      "beer",
+      "who",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The man in a white shirt is standing and holding a beer.",
+    "objects": [
+      "man",
+      "beer",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The man in a white shirt is standing and holding a beer.",
+    "objects": [
+      "man",
+      "beer",
+      "white",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,516 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene of children playing on a slip-and-slide in a backyard.",
+    "objects": [
+      "backyard",
+      "children",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively scene of children playing on a slip-and-slide in a backyard.",
+    "objects": [
+      "backyard",
+      "children",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively scene of children playing on a slip-and-slide in a backyard.",
+    "objects": [
+      "backyard",
+      "children",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the first scene, two children, a boy and a girl, are wearing bathing suits and holding toys.",
+    "objects": [
+      "boy",
+      "two",
+      "children",
+      "toys",
+      "girl",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "suits",
+      "holding",
+      "bathing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "In the first scene, two children, a boy and a girl, are wearing bathing suits and holding toys.",
+    "objects": [
+      "boy",
+      "two",
+      "children",
+      "toys",
+      "girl",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "suits",
+      "holding",
+      "bathing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the first scene, two children, a boy and a girl, are wearing bathing suits and holding toys.",
+    "objects": [
+      "boy",
+      "two",
+      "children",
+      "toys",
+      "girl",
+      "first"
+    ],
+    "actions": [
+      "wearing",
+      "suits",
+      "holding",
+      "bathing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The boy is wearing a blue hoodie and the girl is wearing a red swimsuit.",
+    "objects": [
+      "boy",
+      "blue",
+      "swimsuit",
+      "hoodie",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The boy is wearing a blue hoodie and the girl is wearing a red swimsuit.",
+    "objects": [
+      "boy",
+      "blue",
+      "swimsuit",
+      "hoodie",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The boy is wearing a blue hoodie and the girl is wearing a red swimsuit.",
+    "objects": [
+      "boy",
+      "blue",
+      "swimsuit",
+      "hoodie",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are both laughing and having fun.",
+    "objects": [
+      "they",
+      "both",
+      "fun"
+    ],
+    "actions": [
+      "having",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "They are both laughing and having fun.",
+    "objects": [
+      "they",
+      "both",
+      "fun"
+    ],
+    "actions": [
+      "having",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "They are both laughing and having fun.",
+    "objects": [
+      "they",
+      "both",
+      "fun"
+    ],
+    "actions": [
+      "having",
+      "laughing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "In the second scene, the same two children are wearing different outfits.",
+    "objects": [
+      "two",
+      "same",
+      "children",
+      "different",
+      "second"
+    ],
+    "actions": [
+      "wearing",
+      "outfits"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "In the second scene, the same two children are wearing different outfits.",
+    "objects": [
+      "two",
+      "same",
+      "children",
+      "different",
+      "second"
+    ],
+    "actions": [
+      "wearing",
+      "outfits"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "In the second scene, the same two children are wearing different outfits.",
+    "objects": [
+      "two",
+      "same",
+      "children",
+      "different",
+      "second"
+    ],
+    "actions": [
+      "wearing",
+      "outfits"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The boy is now in orange shorts and the girl is wearing a white top.",
+    "objects": [
+      "boy",
+      "orange",
+      "white",
+      "top",
+      "now",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy is now in orange shorts and the girl is wearing a white top.",
+    "objects": [
+      "boy",
+      "orange",
+      "white",
+      "top",
+      "now",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy is now in orange shorts and the girl is wearing a white top.",
+    "objects": [
+      "boy",
+      "orange",
+      "white",
+      "top",
+      "now",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "They are both holding toys and still enjoying their time on the slip-and-slide.",
+    "objects": [
+      "they",
+      "their",
+      "both",
+      "toys",
+      "time",
+      "still"
+    ],
+    "actions": [
+      "holding",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "They are both holding toys and still enjoying their time on the slip-and-slide.",
+    "objects": [
+      "they",
+      "their",
+      "both",
+      "toys",
+      "time",
+      "still"
+    ],
+    "actions": [
+      "holding",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "They are both holding toys and still enjoying their time on the slip-and-slide.",
+    "objects": [
+      "they",
+      "their",
+      "both",
+      "toys",
+      "time",
+      "still"
+    ],
+    "actions": [
+      "holding",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The boy is wearing a blue hoodie in the third scene, and the girl is wearing a pink swimsuit.",
+    "objects": [
+      "boy",
+      "pink",
+      "blue",
+      "swimsuit",
+      "hoodie",
+      "third",
+      "girl"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The boy is wearing a blue hoodie in the third scene, and the girl is wearing a pink swimsuit.",
+    "objects": [
+      "boy",
+      "pink",
+      "blue",
+      "swimsuit",
+      "hoodie",
+      "third",
+      "girl"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The boy is wearing a blue hoodie in the third scene, and the girl is wearing a pink swimsuit.",
+    "objects": [
+      "boy",
+      "pink",
+      "blue",
+      "swimsuit",
+      "hoodie",
+      "third",
+      "girl"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "They are both smiling and enjoying their playtime.",
+    "objects": [
+      "they",
+      "their",
+      "both",
+      "playtime"
+    ],
+    "actions": [
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "They are both smiling and enjoying their playtime.",
+    "objects": [
+      "they",
+      "their",
+      "both",
+      "playtime"
+    ],
+    "actions": [
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "They are both smiling and enjoying their playtime.",
+    "objects": [
+      "they",
+      "their",
+      "both",
+      "playtime"
+    ],
+    "actions": [
+      "enjoying",
+      "smiling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "In the final scene, the boy is wearing a blue shirt and the girl is wearing a white top.",
+    "objects": [
+      "boy",
+      "white",
+      "final",
+      "blue",
+      "shirt",
+      "top",
+      "girl"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "In the final scene, the boy is wearing a blue shirt and the girl is wearing a white top.",
+    "objects": [
+      "boy",
+      "white",
+      "final",
+      "blue",
+      "shirt",
+      "top",
+      "girl"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "In the final scene, the boy is wearing a blue shirt and the girl is wearing a white top.",
+    "objects": [
+      "boy",
+      "white",
+      "final",
+      "blue",
+      "shirt",
+      "top",
+      "girl"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "They are both holding toys and playing on the slip-and-slide.",
+    "objects": [
+      "they",
+      "toys",
+      "both"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "They are both holding toys and playing on the slip-and-slide.",
+    "objects": [
+      "they",
+      "toys",
+      "both"
+    ],
+    "actions": [
+      "playing",
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

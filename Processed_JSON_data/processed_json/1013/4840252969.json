@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a peaceful day in a rural setting with a blue truck driving down a winding road.",
+    "objects": [
+      "truck",
+      "blue",
+      "peaceful",
+      "day",
+      "road",
+      "rural"
+    ],
+    "actions": [
+      "driving",
+      "winding",
+      "depicts",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a peaceful day in a rural setting with a blue truck driving down a winding road.",
+    "objects": [
+      "truck",
+      "blue",
+      "peaceful",
+      "day",
+      "road",
+      "rural"
+    ],
+    "actions": [
+      "driving",
+      "winding",
+      "depicts",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a peaceful day in a rural setting with a blue truck driving down a winding road.",
+    "objects": [
+      "truck",
+      "blue",
+      "peaceful",
+      "day",
+      "road",
+      "rural"
+    ],
+    "actions": [
+      "driving",
+      "winding",
+      "depicts",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a peaceful day in a rural setting with a blue truck driving down a winding road.",
+    "objects": [
+      "truck",
+      "blue",
+      "peaceful",
+      "day",
+      "road",
+      "rural"
+    ],
+    "actions": [
+      "driving",
+      "winding",
+      "depicts",
+      "setting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The road is surrounded by lush greenery, and there are several other cars parked along the road.",
+    "objects": [
+      "along",
+      "greenery",
+      "there",
+      "other",
+      "cars",
+      "lush",
+      "several",
+      "road"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The road is surrounded by lush greenery, and there are several other cars parked along the road.",
+    "objects": [
+      "along",
+      "greenery",
+      "there",
+      "other",
+      "cars",
+      "lush",
+      "several",
+      "road"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The road is surrounded by lush greenery, and there are several other cars parked along the road.",
+    "objects": [
+      "along",
+      "greenery",
+      "there",
+      "other",
+      "cars",
+      "lush",
+      "several",
+      "road"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The road is surrounded by lush greenery, and there are several other cars parked along the road.",
+    "objects": [
+      "along",
+      "greenery",
+      "there",
+      "other",
+      "cars",
+      "lush",
+      "several",
+      "road"
+    ],
+    "actions": [
+      "surrounded",
+      "parked"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "A man and a woman are standing on the side of the road, the man wearing a blue hoodie and the woman wearing a white shirt, both holding cameras.",
+    "objects": [
+      "white",
+      "both",
+      "woman",
+      "blue",
+      "shirt",
+      "hoodie",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding",
+      "cameras"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "A man and a woman are standing on the side of the road, the man wearing a blue hoodie and the woman wearing a white shirt, both holding cameras.",
+    "objects": [
+      "white",
+      "both",
+      "woman",
+      "blue",
+      "shirt",
+      "hoodie",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding",
+      "cameras"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "A man and a woman are standing on the side of the road, the man wearing a blue hoodie and the woman wearing a white shirt, both holding cameras.",
+    "objects": [
+      "white",
+      "both",
+      "woman",
+      "blue",
+      "shirt",
+      "hoodie",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding",
+      "cameras"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "A man and a woman are standing on the side of the road, the man wearing a blue hoodie and the woman wearing a white shirt, both holding cameras.",
+    "objects": [
+      "white",
+      "both",
+      "woman",
+      "blue",
+      "shirt",
+      "hoodie",
+      "side",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "holding",
+      "cameras"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "They appear to be taking photos of the truck and the cars passing by.",
+    "objects": [
+      "they",
+      "appear",
+      "truck",
+      "cars"
+    ],
+    "actions": [
+      "passing",
+      "photos",
+      "taking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "They appear to be taking photos of the truck and the cars passing by.",
+    "objects": [
+      "they",
+      "appear",
+      "truck",
+      "cars"
+    ],
+    "actions": [
+      "passing",
+      "photos",
+      "taking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "They appear to be taking photos of the truck and the cars passing by.",
+    "objects": [
+      "they",
+      "appear",
+      "truck",
+      "cars"
+    ],
+    "actions": [
+      "passing",
+      "photos",
+      "taking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "They appear to be taking photos of the truck and the cars passing by.",
+    "objects": [
+      "they",
+      "appear",
+      "truck",
+      "cars"
+    ],
+    "actions": [
+      "passing",
+      "photos",
+      "taking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A silver car drives by, and the man waves at the camera, smiling.",
+    "objects": [
+      "silver",
+      "man",
+      "car"
+    ],
+    "actions": [
+      "drives",
+      "waves",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A silver car drives by, and the man waves at the camera, smiling.",
+    "objects": [
+      "silver",
+      "man",
+      "car"
+    ],
+    "actions": [
+      "drives",
+      "waves",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A silver car drives by, and the man waves at the camera, smiling.",
+    "objects": [
+      "silver",
+      "man",
+      "car"
+    ],
+    "actions": [
+      "drives",
+      "waves",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A silver car drives by, and the man waves at the camera, smiling.",
+    "objects": [
+      "silver",
+      "man",
+      "car"
+    ],
+    "actions": [
+      "drives",
+      "waves",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A blue car is parked in a parking lot, with a person standing outside next to it, also holding a camera.",
+    "objects": [
+      "outside",
+      "lot",
+      "blue",
+      "car"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "parking",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A blue car is parked in a parking lot, with a person standing outside next to it, also holding a camera.",
+    "objects": [
+      "outside",
+      "lot",
+      "blue",
+      "car"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "parking",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A blue car is parked in a parking lot, with a person standing outside next to it, also holding a camera.",
+    "objects": [
+      "outside",
+      "lot",
+      "blue",
+      "car"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "parking",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A blue car is parked in a parking lot, with a person standing outside next to it, also holding a camera.",
+    "objects": [
+      "outside",
+      "lot",
+      "blue",
+      "car"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "parking",
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A man and woman are standing in front of a blue car, talking.",
+    "objects": [
+      "man",
+      "blue",
+      "car",
+      "woman"
+    ],
+    "actions": [
+      "talking",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A man and woman are standing in front of a blue car, talking.",
+    "objects": [
+      "man",
+      "blue",
+      "car",
+      "woman"
+    ],
+    "actions": [
+      "talking",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A man and woman are standing in front of a blue car, talking.",
+    "objects": [
+      "man",
+      "blue",
+      "car",
+      "woman"
+    ],
+    "actions": [
+      "talking",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A man and woman are standing in front of a blue car, talking.",
+    "objects": [
+      "man",
+      "blue",
+      "car",
+      "woman"
+    ],
+    "actions": [
+      "talking",
+      "standing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "A man in a yellow shirt is walking down the road, passing by the parked cars.",
+    "objects": [
+      "cars",
+      "yellow",
+      "shirt",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "passing",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "A man in a yellow shirt is walking down the road, passing by the parked cars.",
+    "objects": [
+      "cars",
+      "yellow",
+      "shirt",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "passing",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a yellow shirt is walking down the road, passing by the parked cars.",
+    "objects": [
+      "cars",
+      "yellow",
+      "shirt",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "passing",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a yellow shirt is walking down the road, passing by the parked cars.",
+    "objects": [
+      "cars",
+      "yellow",
+      "shirt",
+      "man",
+      "road"
+    ],
+    "actions": [
+      "passing",
+      "walking",
+      "parked"
+    ],
+    "segment_id": 7
+  }
+]

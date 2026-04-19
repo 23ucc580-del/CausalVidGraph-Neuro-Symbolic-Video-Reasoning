@@ -1,0 +1,526 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a person riding a bike down a suburban street.",
+    "objects": [
+      "suburban",
+      "bike",
+      "street"
+    ],
+    "actions": [
+      "riding",
+      "opens"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a person riding a bike down a suburban street.",
+    "objects": [
+      "suburban",
+      "bike",
+      "street"
+    ],
+    "actions": [
+      "riding",
+      "opens"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video opens with a person riding a bike down a suburban street.",
+    "objects": [
+      "suburban",
+      "bike",
+      "street"
+    ],
+    "actions": [
+      "riding",
+      "opens"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The rider is wearing a white helmet and a black shirt with a blue logo on the left side, and they are holding handlebars with both hands.",
+    "objects": [
+      "logo",
+      "white",
+      "rider",
+      "blue",
+      "helmet",
+      "both",
+      "side",
+      "shirt"
+    ],
+    "actions": [
+      "handlebars",
+      "hands",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The rider is wearing a white helmet and a black shirt with a blue logo on the left side, and they are holding handlebars with both hands.",
+    "objects": [
+      "logo",
+      "white",
+      "rider",
+      "blue",
+      "helmet",
+      "both",
+      "side",
+      "shirt"
+    ],
+    "actions": [
+      "handlebars",
+      "hands",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The rider is wearing a white helmet and a black shirt with a blue logo on the left side, and they are holding handlebars with both hands.",
+    "objects": [
+      "logo",
+      "white",
+      "rider",
+      "blue",
+      "helmet",
+      "both",
+      "side",
+      "shirt"
+    ],
+    "actions": [
+      "handlebars",
+      "hands",
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The bike appears to be a road bicycle.",
+    "objects": [
+      "road",
+      "bike",
+      "bicycle"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The bike appears to be a road bicycle.",
+    "objects": [
+      "road",
+      "bike",
+      "bicycle"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The bike appears to be a road bicycle.",
+    "objects": [
+      "road",
+      "bike",
+      "bicycle"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "As the rider approaches a green corner, a car is visible on the right side of the road.",
+    "objects": [
+      "rider",
+      "car",
+      "green",
+      "side",
+      "road",
+      "corner"
+    ],
+    "actions": [
+      "approaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "As the rider approaches a green corner, a car is visible on the right side of the road.",
+    "objects": [
+      "rider",
+      "car",
+      "green",
+      "side",
+      "road",
+      "corner"
+    ],
+    "actions": [
+      "approaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "As the rider approaches a green corner, a car is visible on the right side of the road.",
+    "objects": [
+      "rider",
+      "car",
+      "green",
+      "side",
+      "road",
+      "corner"
+    ],
+    "actions": [
+      "approaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The scene transitions to a group of people riding bikes on a sunny day.",
+    "objects": [
+      "sunny",
+      "day",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "transitions",
+      "bikes",
+      "riding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The scene transitions to a group of people riding bikes on a sunny day.",
+    "objects": [
+      "sunny",
+      "day",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "transitions",
+      "bikes",
+      "riding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The scene transitions to a group of people riding bikes on a sunny day.",
+    "objects": [
+      "sunny",
+      "day",
+      "group",
+      "people"
+    ],
+    "actions": [
+      "transitions",
+      "bikes",
+      "riding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The group is wearing helmets and casual clothing, with one person in a white shirt, another in a red shirt, and one in a black shirt.",
+    "objects": [
+      "white",
+      "casual",
+      "shirt",
+      "one",
+      "black",
+      "group"
+    ],
+    "actions": [
+      "clothing",
+      "helmets",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The group is wearing helmets and casual clothing, with one person in a white shirt, another in a red shirt, and one in a black shirt.",
+    "objects": [
+      "white",
+      "casual",
+      "shirt",
+      "one",
+      "black",
+      "group"
+    ],
+    "actions": [
+      "clothing",
+      "helmets",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The group is wearing helmets and casual clothing, with one person in a white shirt, another in a red shirt, and one in a black shirt.",
+    "objects": [
+      "white",
+      "casual",
+      "shirt",
+      "one",
+      "black",
+      "group"
+    ],
+    "actions": [
+      "clothing",
+      "helmets",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "They are pedaling on a bicycle path lined with green grass and trees on both sides.",
+    "objects": [
+      "they",
+      "both",
+      "green",
+      "grass",
+      "path",
+      "bicycle"
+    ],
+    "actions": [
+      "lined",
+      "pedaling",
+      "sides",
+      "trees"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "They are pedaling on a bicycle path lined with green grass and trees on both sides.",
+    "objects": [
+      "they",
+      "both",
+      "green",
+      "grass",
+      "path",
+      "bicycle"
+    ],
+    "actions": [
+      "lined",
+      "pedaling",
+      "sides",
+      "trees"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "They are pedaling on a bicycle path lined with green grass and trees on both sides.",
+    "objects": [
+      "they",
+      "both",
+      "green",
+      "grass",
+      "path",
+      "bicycle"
+    ],
+    "actions": [
+      "lined",
+      "pedaling",
+      "sides",
+      "trees"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The path is bordered by a sidewalk and a road with cars parked on it.",
+    "objects": [
+      "sidewalk",
+      "cars",
+      "path",
+      "road"
+    ],
+    "actions": [
+      "bordered",
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The path is bordered by a sidewalk and a road with cars parked on it.",
+    "objects": [
+      "sidewalk",
+      "cars",
+      "path",
+      "road"
+    ],
+    "actions": [
+      "bordered",
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The path is bordered by a sidewalk and a road with cars parked on it.",
+    "objects": [
+      "sidewalk",
+      "cars",
+      "path",
+      "road"
+    ],
+    "actions": [
+      "bordered",
+      "parked"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The riders are smiling and enjoying the ride.",
+    "objects": [
+      "ride"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying",
+      "riders"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The riders are smiling and enjoying the ride.",
+    "objects": [
+      "ride"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying",
+      "riders"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The riders are smiling and enjoying the ride.",
+    "objects": [
+      "ride"
+    ],
+    "actions": [
+      "smiling",
+      "enjoying",
+      "riders"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The video ends with the rider on a bike, wearing a black helmet and a white shirt with a black logo on the left side.",
+    "objects": [
+      "logo",
+      "white",
+      "rider",
+      "helmet",
+      "ends",
+      "side",
+      "shirt",
+      "bike"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The video ends with the rider on a bike, wearing a black helmet and a white shirt with a black logo on the left side.",
+    "objects": [
+      "logo",
+      "white",
+      "rider",
+      "helmet",
+      "ends",
+      "side",
+      "shirt",
+      "bike"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The video ends with the rider on a bike, wearing a black helmet and a white shirt with a black logo on the left side.",
+    "objects": [
+      "logo",
+      "white",
+      "rider",
+      "helmet",
+      "ends",
+      "side",
+      "shirt",
+      "bike"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "They are holding handlebars with both hands and riding down the road.",
+    "objects": [
+      "road",
+      "they",
+      "both"
+    ],
+    "actions": [
+      "handlebars",
+      "riding",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "They are holding handlebars with both hands and riding down the road.",
+    "objects": [
+      "road",
+      "they",
+      "both"
+    ],
+    "actions": [
+      "handlebars",
+      "riding",
+      "hands",
+      "holding"
+    ],
+    "segment_id": 10
+  }
+]

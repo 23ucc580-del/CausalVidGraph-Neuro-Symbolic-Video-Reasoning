@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man sitting on a couch with his legs crossed, wearing a blue hoodie and a plaid shirt.",
+    "objects": [
+      "couch",
+      "man",
+      "hoodie",
+      "plaid",
+      "see",
+      "blue",
+      "shirt",
+      "legs"
+    ],
+    "actions": [
+      "crossed",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man sitting on a couch with his legs crossed, wearing a blue hoodie and a plaid shirt.",
+    "objects": [
+      "couch",
+      "man",
+      "hoodie",
+      "plaid",
+      "see",
+      "blue",
+      "shirt",
+      "legs"
+    ],
+    "actions": [
+      "crossed",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man sitting on a couch with his legs crossed, wearing a blue hoodie and a plaid shirt.",
+    "objects": [
+      "couch",
+      "man",
+      "hoodie",
+      "plaid",
+      "see",
+      "blue",
+      "shirt",
+      "legs"
+    ],
+    "actions": [
+      "crossed",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man sitting on a couch with his legs crossed, wearing a blue hoodie and a plaid shirt.",
+    "objects": [
+      "couch",
+      "man",
+      "hoodie",
+      "plaid",
+      "see",
+      "blue",
+      "shirt",
+      "legs"
+    ],
+    "actions": [
+      "crossed",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In his left hand, he holds a leash attached to a small dog.",
+    "objects": [
+      "small",
+      "leash",
+      "hand",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "attached",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In his left hand, he holds a leash attached to a small dog.",
+    "objects": [
+      "small",
+      "leash",
+      "hand",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "attached",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In his left hand, he holds a leash attached to a small dog.",
+    "objects": [
+      "small",
+      "leash",
+      "hand",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "attached",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In his left hand, he holds a leash attached to a small dog.",
+    "objects": [
+      "small",
+      "leash",
+      "hand",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "attached",
+      "holds"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog is on his lap, seemingly calm and relaxed.",
+    "objects": [
+      "lap",
+      "seemingly",
+      "calm",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "relaxed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog is on his lap, seemingly calm and relaxed.",
+    "objects": [
+      "lap",
+      "seemingly",
+      "calm",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "relaxed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The dog is on his lap, seemingly calm and relaxed.",
+    "objects": [
+      "lap",
+      "seemingly",
+      "calm",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "relaxed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The dog is on his lap, seemingly calm and relaxed.",
+    "objects": [
+      "lap",
+      "seemingly",
+      "calm",
+      "his",
+      "dog"
+    ],
+    "actions": [
+      "relaxed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Next to him, there's a large dog sitting on the floor, wearing a green collar and looking at the camera.",
+    "objects": [
+      "floor",
+      "large",
+      "green",
+      "collar",
+      "him",
+      "dog"
+    ],
+    "actions": [
+      "there's",
+      "looking",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Next to him, there's a large dog sitting on the floor, wearing a green collar and looking at the camera.",
+    "objects": [
+      "floor",
+      "large",
+      "green",
+      "collar",
+      "him",
+      "dog"
+    ],
+    "actions": [
+      "there's",
+      "looking",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Next to him, there's a large dog sitting on the floor, wearing a green collar and looking at the camera.",
+    "objects": [
+      "floor",
+      "large",
+      "green",
+      "collar",
+      "him",
+      "dog"
+    ],
+    "actions": [
+      "there's",
+      "looking",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Next to him, there's a large dog sitting on the floor, wearing a green collar and looking at the camera.",
+    "objects": [
+      "floor",
+      "large",
+      "green",
+      "collar",
+      "him",
+      "dog"
+    ],
+    "actions": [
+      "there's",
+      "looking",
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "On the floor next to him, there's a green bowl.",
+    "objects": [
+      "floor",
+      "bowl",
+      "him",
+      "green"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "On the floor next to him, there's a green bowl.",
+    "objects": [
+      "floor",
+      "bowl",
+      "him",
+      "green"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "On the floor next to him, there's a green bowl.",
+    "objects": [
+      "floor",
+      "bowl",
+      "him",
+      "green"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "On the floor next to him, there's a green bowl.",
+    "objects": [
+      "floor",
+      "bowl",
+      "him",
+      "green"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is holding a black remote in his right hand.",
+    "objects": [
+      "remote",
+      "man",
+      "hand",
+      "his",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is holding a black remote in his right hand.",
+    "objects": [
+      "remote",
+      "man",
+      "hand",
+      "his",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is holding a black remote in his right hand.",
+    "objects": [
+      "remote",
+      "man",
+      "hand",
+      "his",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is holding a black remote in his right hand.",
+    "objects": [
+      "remote",
+      "man",
+      "hand",
+      "his",
+      "black"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A brown couch is behind him with a cushion, and on the right side, there's a brown table with a white lamp.",
+    "objects": [
+      "couch",
+      "behind",
+      "white",
+      "lamp",
+      "side",
+      "brown",
+      "table",
+      "cushion"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A brown couch is behind him with a cushion, and on the right side, there's a brown table with a white lamp.",
+    "objects": [
+      "couch",
+      "behind",
+      "white",
+      "lamp",
+      "side",
+      "brown",
+      "table",
+      "cushion"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A brown couch is behind him with a cushion, and on the right side, there's a brown table with a white lamp.",
+    "objects": [
+      "couch",
+      "behind",
+      "white",
+      "lamp",
+      "side",
+      "brown",
+      "table",
+      "cushion"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A brown couch is behind him with a cushion, and on the right side, there's a brown table with a white lamp.",
+    "objects": [
+      "couch",
+      "behind",
+      "white",
+      "lamp",
+      "side",
+      "brown",
+      "table",
+      "cushion"
+    ],
+    "actions": [
+      "there's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, we can see a living room with a window and a picture frame hanging on the wall.",
+    "objects": [
+      "wall",
+      "window",
+      "see",
+      "picture",
+      "can",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "hanging"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, we can see a living room with a window and a picture frame hanging on the wall.",
+    "objects": [
+      "wall",
+      "window",
+      "see",
+      "picture",
+      "can",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "hanging"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "In the background, we can see a living room with a window and a picture frame hanging on the wall.",
+    "objects": [
+      "wall",
+      "window",
+      "see",
+      "picture",
+      "can",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "hanging"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "In the background, we can see a living room with a window and a picture frame hanging on the wall.",
+    "objects": [
+      "wall",
+      "window",
+      "see",
+      "picture",
+      "can",
+      "room"
+    ],
+    "actions": [
+      "living",
+      "hanging"
+    ],
+    "segment_id": 7
+  }
+]

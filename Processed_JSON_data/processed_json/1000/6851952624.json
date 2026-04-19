@@ -1,0 +1,610 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a vibrant live music performance by a band on stage, with a large crowd of enthusiastic spectators.",
+    "objects": [
+      "band",
+      "vibrant",
+      "performance",
+      "music",
+      "crowd",
+      "enthusiastic",
+      "live",
+      "stage"
+    ],
+    "actions": [
+      "spectators"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a vibrant live music performance by a band on stage, with a large crowd of enthusiastic spectators.",
+    "objects": [
+      "band",
+      "vibrant",
+      "performance",
+      "music",
+      "crowd",
+      "enthusiastic",
+      "live",
+      "stage"
+    ],
+    "actions": [
+      "spectators"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a vibrant live music performance by a band on stage, with a large crowd of enthusiastic spectators.",
+    "objects": [
+      "band",
+      "vibrant",
+      "performance",
+      "music",
+      "crowd",
+      "enthusiastic",
+      "live",
+      "stage"
+    ],
+    "actions": [
+      "spectators"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a vibrant live music performance by a band on stage, with a large crowd of enthusiastic spectators.",
+    "objects": [
+      "band",
+      "vibrant",
+      "performance",
+      "music",
+      "crowd",
+      "enthusiastic",
+      "live",
+      "stage"
+    ],
+    "actions": [
+      "spectators"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "At the beginning of the video, we see a man dressed in a blue hoodie and black pants, holding a microphone, addressing the crowd.",
+    "objects": [
+      "man",
+      "microphone",
+      "hoodie",
+      "blue",
+      "see",
+      "crowd",
+      "black"
+    ],
+    "actions": [
+      "beginning",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "At the beginning of the video, we see a man dressed in a blue hoodie and black pants, holding a microphone, addressing the crowd.",
+    "objects": [
+      "man",
+      "microphone",
+      "hoodie",
+      "blue",
+      "see",
+      "crowd",
+      "black"
+    ],
+    "actions": [
+      "beginning",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "At the beginning of the video, we see a man dressed in a blue hoodie and black pants, holding a microphone, addressing the crowd.",
+    "objects": [
+      "man",
+      "microphone",
+      "hoodie",
+      "blue",
+      "see",
+      "crowd",
+      "black"
+    ],
+    "actions": [
+      "beginning",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "At the beginning of the video, we see a man dressed in a blue hoodie and black pants, holding a microphone, addressing the crowd.",
+    "objects": [
+      "man",
+      "microphone",
+      "hoodie",
+      "blue",
+      "see",
+      "crowd",
+      "black"
+    ],
+    "actions": [
+      "beginning",
+      "holding",
+      "pants",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The stage is illuminated by colorful stage lights and a large screen displaying the band's logo, adding to the energetic atmosphere.",
+    "objects": [
+      "colorful",
+      "energetic",
+      "logo",
+      "atmosphere",
+      "screen",
+      "stage",
+      "large"
+    ],
+    "actions": [
+      "lights",
+      "displaying",
+      "adding",
+      "band's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The stage is illuminated by colorful stage lights and a large screen displaying the band's logo, adding to the energetic atmosphere.",
+    "objects": [
+      "colorful",
+      "energetic",
+      "logo",
+      "atmosphere",
+      "screen",
+      "stage",
+      "large"
+    ],
+    "actions": [
+      "lights",
+      "displaying",
+      "adding",
+      "band's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The stage is illuminated by colorful stage lights and a large screen displaying the band's logo, adding to the energetic atmosphere.",
+    "objects": [
+      "colorful",
+      "energetic",
+      "logo",
+      "atmosphere",
+      "screen",
+      "stage",
+      "large"
+    ],
+    "actions": [
+      "lights",
+      "displaying",
+      "adding",
+      "band's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The stage is illuminated by colorful stage lights and a large screen displaying the band's logo, adding to the energetic atmosphere.",
+    "objects": [
+      "colorful",
+      "energetic",
+      "logo",
+      "atmosphere",
+      "screen",
+      "stage",
+      "large"
+    ],
+    "actions": [
+      "lights",
+      "displaying",
+      "adding",
+      "band's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The band is made up of three people: a guitarist in a black shirt, a keyboardist in a yellow shirt, and a drummer in a blue shirt.",
+    "objects": [
+      "made",
+      "three",
+      "band",
+      "keyboardist",
+      "blue",
+      "drummer",
+      "guitarist",
+      "yellow"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The band is made up of three people: a guitarist in a black shirt, a keyboardist in a yellow shirt, and a drummer in a blue shirt.",
+    "objects": [
+      "made",
+      "three",
+      "band",
+      "keyboardist",
+      "blue",
+      "drummer",
+      "guitarist",
+      "yellow"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The band is made up of three people: a guitarist in a black shirt, a keyboardist in a yellow shirt, and a drummer in a blue shirt.",
+    "objects": [
+      "made",
+      "three",
+      "band",
+      "keyboardist",
+      "blue",
+      "drummer",
+      "guitarist",
+      "yellow"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The band is made up of three people: a guitarist in a black shirt, a keyboardist in a yellow shirt, and a drummer in a blue shirt.",
+    "objects": [
+      "made",
+      "three",
+      "band",
+      "keyboardist",
+      "blue",
+      "drummer",
+      "guitarist",
+      "yellow"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The guitarist is playing his guitar with passion, while the drummer is energetically playing the drums, and the keyboardist is also engrossed in the performance.",
+    "objects": [
+      "keyboardist",
+      "performance",
+      "while",
+      "drummer",
+      "guitarist",
+      "passion",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "engrossed",
+      "drums"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The guitarist is playing his guitar with passion, while the drummer is energetically playing the drums, and the keyboardist is also engrossed in the performance.",
+    "objects": [
+      "keyboardist",
+      "performance",
+      "while",
+      "drummer",
+      "guitarist",
+      "passion",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "engrossed",
+      "drums"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The guitarist is playing his guitar with passion, while the drummer is energetically playing the drums, and the keyboardist is also engrossed in the performance.",
+    "objects": [
+      "keyboardist",
+      "performance",
+      "while",
+      "drummer",
+      "guitarist",
+      "passion",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "engrossed",
+      "drums"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The guitarist is playing his guitar with passion, while the drummer is energetically playing the drums, and the keyboardist is also engrossed in the performance.",
+    "objects": [
+      "keyboardist",
+      "performance",
+      "while",
+      "drummer",
+      "guitarist",
+      "passion",
+      "guitar",
+      "his"
+    ],
+    "actions": [
+      "playing",
+      "engrossed",
+      "drums"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The crowd is a mix of people, some standing, some sitting, and some dancing, all enjoying the music.",
+    "objects": [
+      "some",
+      "people",
+      "all",
+      "music",
+      "crowd",
+      "mix"
+    ],
+    "actions": [
+      "enjoying",
+      "standing",
+      "dancing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The crowd is a mix of people, some standing, some sitting, and some dancing, all enjoying the music.",
+    "objects": [
+      "some",
+      "people",
+      "all",
+      "music",
+      "crowd",
+      "mix"
+    ],
+    "actions": [
+      "enjoying",
+      "standing",
+      "dancing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The crowd is a mix of people, some standing, some sitting, and some dancing, all enjoying the music.",
+    "objects": [
+      "some",
+      "people",
+      "all",
+      "music",
+      "crowd",
+      "mix"
+    ],
+    "actions": [
+      "enjoying",
+      "standing",
+      "dancing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The crowd is a mix of people, some standing, some sitting, and some dancing, all enjoying the music.",
+    "objects": [
+      "some",
+      "people",
+      "all",
+      "music",
+      "crowd",
+      "mix"
+    ],
+    "actions": [
+      "enjoying",
+      "standing",
+      "dancing",
+      "sitting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The stage is decorated with multiple microphones and sound equipment, indicating a professional setup.",
+    "objects": [
+      "professional",
+      "equipment",
+      "stage",
+      "sound",
+      "setup",
+      "multiple"
+    ],
+    "actions": [
+      "indicating",
+      "decorated",
+      "microphones"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The stage is decorated with multiple microphones and sound equipment, indicating a professional setup.",
+    "objects": [
+      "professional",
+      "equipment",
+      "stage",
+      "sound",
+      "setup",
+      "multiple"
+    ],
+    "actions": [
+      "indicating",
+      "decorated",
+      "microphones"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The stage is decorated with multiple microphones and sound equipment, indicating a professional setup.",
+    "objects": [
+      "professional",
+      "equipment",
+      "stage",
+      "sound",
+      "setup",
+      "multiple"
+    ],
+    "actions": [
+      "indicating",
+      "decorated",
+      "microphones"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The stage is decorated with multiple microphones and sound equipment, indicating a professional setup.",
+    "objects": [
+      "professional",
+      "equipment",
+      "stage",
+      "sound",
+      "setup",
+      "multiple"
+    ],
+    "actions": [
+      "indicating",
+      "decorated",
+      "microphones"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The audience is dressed in various colors, with some individuals wearing blue hoodies, and others in red and white shirts, adding to the diversity of the crowd.",
+    "objects": [
+      "some",
+      "white",
+      "audience",
+      "diversity",
+      "blue",
+      "crowd"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "hoodies",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The audience is dressed in various colors, with some individuals wearing blue hoodies, and others in red and white shirts, adding to the diversity of the crowd.",
+    "objects": [
+      "some",
+      "white",
+      "audience",
+      "diversity",
+      "blue",
+      "crowd"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "hoodies",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The audience is dressed in various colors, with some individuals wearing blue hoodies, and others in red and white shirts, adding to the diversity of the crowd.",
+    "objects": [
+      "some",
+      "white",
+      "audience",
+      "diversity",
+      "blue",
+      "crowd"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "hoodies",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The audience is dressed in various colors, with some individuals wearing blue hoodies, and others in red and white shirts, adding to the diversity of the crowd.",
+    "objects": [
+      "some",
+      "white",
+      "audience",
+      "diversity",
+      "blue",
+      "crowd"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "hoodies",
+      "red"
+    ],
+    "segment_id": 7
+  }
+]

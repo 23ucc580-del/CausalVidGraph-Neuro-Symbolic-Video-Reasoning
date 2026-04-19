@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a bustling city street with a double-decker bus as the main subject.",
+    "objects": [
+      "street",
+      "main",
+      "bus",
+      "city",
+      "subject"
+    ],
+    "actions": [
+      "bustling",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a bustling city street with a double-decker bus as the main subject.",
+    "objects": [
+      "street",
+      "main",
+      "bus",
+      "city",
+      "subject"
+    ],
+    "actions": [
+      "bustling",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a bustling city street with a double-decker bus as the main subject.",
+    "objects": [
+      "street",
+      "main",
+      "bus",
+      "city",
+      "subject"
+    ],
+    "actions": [
+      "bustling",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a bustling city street with a double-decker bus as the main subject.",
+    "objects": [
+      "street",
+      "main",
+      "bus",
+      "city",
+      "subject"
+    ],
+    "actions": [
+      "bustling",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The bus is driving down a narrow street lined with buildings on both sides.",
+    "objects": [
+      "narrow",
+      "bus",
+      "both",
+      "street"
+    ],
+    "actions": [
+      "driving",
+      "buildings",
+      "lined",
+      "sides"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The bus is driving down a narrow street lined with buildings on both sides.",
+    "objects": [
+      "narrow",
+      "bus",
+      "both",
+      "street"
+    ],
+    "actions": [
+      "driving",
+      "buildings",
+      "lined",
+      "sides"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The bus is driving down a narrow street lined with buildings on both sides.",
+    "objects": [
+      "narrow",
+      "bus",
+      "both",
+      "street"
+    ],
+    "actions": [
+      "driving",
+      "buildings",
+      "lined",
+      "sides"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The bus is driving down a narrow street lined with buildings on both sides.",
+    "objects": [
+      "narrow",
+      "bus",
+      "both",
+      "street"
+    ],
+    "actions": [
+      "driving",
+      "buildings",
+      "lined",
+      "sides"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "It's a sunny day with clear skies, and the bus is passing by a brick building on the right side.",
+    "objects": [
+      "bus",
+      "clear",
+      "side",
+      "day",
+      "sunny",
+      "brick"
+    ],
+    "actions": [
+      "passing",
+      "skies",
+      "building"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "It's a sunny day with clear skies, and the bus is passing by a brick building on the right side.",
+    "objects": [
+      "bus",
+      "clear",
+      "side",
+      "day",
+      "sunny",
+      "brick"
+    ],
+    "actions": [
+      "passing",
+      "skies",
+      "building"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "It's a sunny day with clear skies, and the bus is passing by a brick building on the right side.",
+    "objects": [
+      "bus",
+      "clear",
+      "side",
+      "day",
+      "sunny",
+      "brick"
+    ],
+    "actions": [
+      "passing",
+      "skies",
+      "building"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "It's a sunny day with clear skies, and the bus is passing by a brick building on the right side.",
+    "objects": [
+      "bus",
+      "clear",
+      "side",
+      "day",
+      "sunny",
+      "brick"
+    ],
+    "actions": [
+      "passing",
+      "skies",
+      "building"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A man wearing a blue shirt is standing on the sidewalk, smiling, while another man wearing a red shirt is standing on the left sidewalk, also smiling.",
+    "objects": [
+      "while",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A man wearing a blue shirt is standing on the sidewalk, smiling, while another man wearing a red shirt is standing on the left sidewalk, also smiling.",
+    "objects": [
+      "while",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A man wearing a blue shirt is standing on the sidewalk, smiling, while another man wearing a red shirt is standing on the left sidewalk, also smiling.",
+    "objects": [
+      "while",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A man wearing a blue shirt is standing on the sidewalk, smiling, while another man wearing a red shirt is standing on the left sidewalk, also smiling.",
+    "objects": [
+      "while",
+      "blue",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene is lively with people going about their day.",
+    "objects": [
+      "their",
+      "people",
+      "lively",
+      "about",
+      "day"
+    ],
+    "actions": [
+      "going"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene is lively with people going about their day.",
+    "objects": [
+      "their",
+      "people",
+      "lively",
+      "about",
+      "day"
+    ],
+    "actions": [
+      "going"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The scene is lively with people going about their day.",
+    "objects": [
+      "their",
+      "people",
+      "lively",
+      "about",
+      "day"
+    ],
+    "actions": [
+      "going"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The scene is lively with people going about their day.",
+    "objects": [
+      "their",
+      "people",
+      "lively",
+      "about",
+      "day"
+    ],
+    "actions": [
+      "going"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A woman in a blue shirt is walking along the street, passing by the bus, and a man in a blue jacket is walking in the opposite direction.",
+    "objects": [
+      "along",
+      "street",
+      "woman",
+      "jacket",
+      "blue",
+      "shirt",
+      "bus",
+      "direction"
+    ],
+    "actions": [
+      "passing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A woman in a blue shirt is walking along the street, passing by the bus, and a man in a blue jacket is walking in the opposite direction.",
+    "objects": [
+      "along",
+      "street",
+      "woman",
+      "jacket",
+      "blue",
+      "shirt",
+      "bus",
+      "direction"
+    ],
+    "actions": [
+      "passing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A woman in a blue shirt is walking along the street, passing by the bus, and a man in a blue jacket is walking in the opposite direction.",
+    "objects": [
+      "along",
+      "street",
+      "woman",
+      "jacket",
+      "blue",
+      "shirt",
+      "bus",
+      "direction"
+    ],
+    "actions": [
+      "passing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A woman in a blue shirt is walking along the street, passing by the bus, and a man in a blue jacket is walking in the opposite direction.",
+    "objects": [
+      "along",
+      "street",
+      "woman",
+      "jacket",
+      "blue",
+      "shirt",
+      "bus",
+      "direction"
+    ],
+    "actions": [
+      "passing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a white shirt is also walking on the sidewalk, smiling as he passes by the bus.",
+    "objects": [
+      "white",
+      "shirt",
+      "bus",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "walking",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a white shirt is also walking on the sidewalk, smiling as he passes by the bus.",
+    "objects": [
+      "white",
+      "shirt",
+      "bus",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "walking",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a white shirt is also walking on the sidewalk, smiling as he passes by the bus.",
+    "objects": [
+      "white",
+      "shirt",
+      "bus",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "walking",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a white shirt is also walking on the sidewalk, smiling as he passes by the bus.",
+    "objects": [
+      "white",
+      "shirt",
+      "bus",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "passes",
+      "walking",
+      "smiling"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "Another man in a black shirt is standing on the right sidewalk, and a man in a white shirt is standing on the left sidewalk, both smiling.",
+    "objects": [
+      "white",
+      "both",
+      "black",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "Another man in a black shirt is standing on the right sidewalk, and a man in a white shirt is standing on the left sidewalk, both smiling.",
+    "objects": [
+      "white",
+      "both",
+      "black",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "Another man in a black shirt is standing on the right sidewalk, and a man in a white shirt is standing on the left sidewalk, both smiling.",
+    "objects": [
+      "white",
+      "both",
+      "black",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "Another man in a black shirt is standing on the right sidewalk, and a man in a white shirt is standing on the left sidewalk, both smiling.",
+    "objects": [
+      "white",
+      "both",
+      "black",
+      "shirt",
+      "sidewalk",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "smiling"
+    ],
+    "segment_id": 7
+  }
+]

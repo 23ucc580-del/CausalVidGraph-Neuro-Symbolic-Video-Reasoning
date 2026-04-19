@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young child is wearing a Santa hat and is seen dancing in a living room.",
+    "objects": [
+      "santa",
+      "child",
+      "hat",
+      "young",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "dancing",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young child is wearing a Santa hat and is seen dancing in a living room.",
+    "objects": [
+      "santa",
+      "child",
+      "hat",
+      "young",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "dancing",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young child is wearing a Santa hat and is seen dancing in a living room.",
+    "objects": [
+      "santa",
+      "child",
+      "hat",
+      "young",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "dancing",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a young child is wearing a Santa hat and is seen dancing in a living room.",
+    "objects": [
+      "santa",
+      "child",
+      "hat",
+      "young",
+      "room"
+    ],
+    "actions": [
+      "wearing",
+      "dancing",
+      "living"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The child is holding a red toy while smiling and spinning around, with a smile on their face.",
+    "objects": [
+      "their",
+      "child",
+      "while",
+      "face",
+      "smile",
+      "around",
+      "toy"
+    ],
+    "actions": [
+      "smiling",
+      "spinning",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The child is holding a red toy while smiling and spinning around, with a smile on their face.",
+    "objects": [
+      "their",
+      "child",
+      "while",
+      "face",
+      "smile",
+      "around",
+      "toy"
+    ],
+    "actions": [
+      "smiling",
+      "spinning",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The child is holding a red toy while smiling and spinning around, with a smile on their face.",
+    "objects": [
+      "their",
+      "child",
+      "while",
+      "face",
+      "smile",
+      "around",
+      "toy"
+    ],
+    "actions": [
+      "smiling",
+      "spinning",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The child is holding a red toy while smiling and spinning around, with a smile on their face.",
+    "objects": [
+      "their",
+      "child",
+      "while",
+      "face",
+      "smile",
+      "around",
+      "toy"
+    ],
+    "actions": [
+      "smiling",
+      "spinning",
+      "holding",
+      "red"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another young child, dressed in a pink dress and a Santa hat, is also dancing in the same room.",
+    "objects": [
+      "same",
+      "dress",
+      "santa",
+      "child",
+      "hat",
+      "young",
+      "pink",
+      "room"
+    ],
+    "actions": [
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another young child, dressed in a pink dress and a Santa hat, is also dancing in the same room.",
+    "objects": [
+      "same",
+      "dress",
+      "santa",
+      "child",
+      "hat",
+      "young",
+      "pink",
+      "room"
+    ],
+    "actions": [
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another young child, dressed in a pink dress and a Santa hat, is also dancing in the same room.",
+    "objects": [
+      "same",
+      "dress",
+      "santa",
+      "child",
+      "hat",
+      "young",
+      "pink",
+      "room"
+    ],
+    "actions": [
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another young child, dressed in a pink dress and a Santa hat, is also dancing in the same room.",
+    "objects": [
+      "same",
+      "dress",
+      "santa",
+      "child",
+      "hat",
+      "young",
+      "pink",
+      "room"
+    ],
+    "actions": [
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The child in the pink dress is holding a green toy while turning around, also with a smile on their face.",
+    "objects": [
+      "their",
+      "dress",
+      "child",
+      "green",
+      "while",
+      "face",
+      "smile",
+      "around"
+    ],
+    "actions": [
+      "turning",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The child in the pink dress is holding a green toy while turning around, also with a smile on their face.",
+    "objects": [
+      "their",
+      "dress",
+      "child",
+      "green",
+      "while",
+      "face",
+      "smile",
+      "around"
+    ],
+    "actions": [
+      "turning",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The child in the pink dress is holding a green toy while turning around, also with a smile on their face.",
+    "objects": [
+      "their",
+      "dress",
+      "child",
+      "green",
+      "while",
+      "face",
+      "smile",
+      "around"
+    ],
+    "actions": [
+      "turning",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The child in the pink dress is holding a green toy while turning around, also with a smile on their face.",
+    "objects": [
+      "their",
+      "dress",
+      "child",
+      "green",
+      "while",
+      "face",
+      "smile",
+      "around"
+    ],
+    "actions": [
+      "turning",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The room has a wooden television stand and a blue couch.",
+    "objects": [
+      "couch",
+      "has",
+      "stand",
+      "television",
+      "wooden",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The room has a wooden television stand and a blue couch.",
+    "objects": [
+      "couch",
+      "has",
+      "stand",
+      "television",
+      "wooden",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The room has a wooden television stand and a blue couch.",
+    "objects": [
+      "couch",
+      "has",
+      "stand",
+      "television",
+      "wooden",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The room has a wooden television stand and a blue couch.",
+    "objects": [
+      "couch",
+      "has",
+      "stand",
+      "television",
+      "wooden",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "A white refrigerator is visible in the background, and a silver car can be seen parked outside the window.",
+    "objects": [
+      "white",
+      "silver",
+      "car",
+      "window",
+      "refrigerator",
+      "outside",
+      "can"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "A white refrigerator is visible in the background, and a silver car can be seen parked outside the window.",
+    "objects": [
+      "white",
+      "silver",
+      "car",
+      "window",
+      "refrigerator",
+      "outside",
+      "can"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "A white refrigerator is visible in the background, and a silver car can be seen parked outside the window.",
+    "objects": [
+      "white",
+      "silver",
+      "car",
+      "window",
+      "refrigerator",
+      "outside",
+      "can"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "A white refrigerator is visible in the background, and a silver car can be seen parked outside the window.",
+    "objects": [
+      "white",
+      "silver",
+      "car",
+      "window",
+      "refrigerator",
+      "outside",
+      "can"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The child in the pink dress is standing on a wooden floor with a red rug, while the child in the Santa hat is standing on a gray rug.",
+    "objects": [
+      "floor",
+      "rug",
+      "dress",
+      "santa",
+      "wooden",
+      "child",
+      "gray",
+      "hat"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The child in the pink dress is standing on a wooden floor with a red rug, while the child in the Santa hat is standing on a gray rug.",
+    "objects": [
+      "floor",
+      "rug",
+      "dress",
+      "santa",
+      "wooden",
+      "child",
+      "gray",
+      "hat"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The child in the pink dress is standing on a wooden floor with a red rug, while the child in the Santa hat is standing on a gray rug.",
+    "objects": [
+      "floor",
+      "rug",
+      "dress",
+      "santa",
+      "wooden",
+      "child",
+      "gray",
+      "hat"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The child in the pink dress is standing on a wooden floor with a red rug, while the child in the Santa hat is standing on a gray rug.",
+    "objects": [
+      "floor",
+      "rug",
+      "dress",
+      "santa",
+      "wooden",
+      "child",
+      "gray",
+      "hat"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The living room has a blue carpet.",
+    "objects": [
+      "carpet",
+      "has",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "living"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The living room has a blue carpet.",
+    "objects": [
+      "carpet",
+      "has",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "living"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The living room has a blue carpet.",
+    "objects": [
+      "carpet",
+      "has",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "living"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The living room has a blue carpet.",
+    "objects": [
+      "carpet",
+      "has",
+      "blue",
+      "room"
+    ],
+    "actions": [
+      "living"
+    ],
+    "segment_id": 7
+  }
+]

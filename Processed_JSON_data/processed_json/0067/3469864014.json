@@ -1,0 +1,510 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a person is seen standing in a kitchen, holding a knife.",
+    "objects": [
+      "kitchen",
+      "knife"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a person is seen standing in a kitchen, holding a knife.",
+    "objects": [
+      "kitchen",
+      "knife"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a person is seen standing in a kitchen, holding a knife.",
+    "objects": [
+      "kitchen",
+      "knife"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a person is seen standing in a kitchen, holding a knife.",
+    "objects": [
+      "kitchen",
+      "knife"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The person is wearing a blue hoodie and is standing next to a dining table.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "table"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "dining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The person is wearing a blue hoodie and is standing next to a dining table.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "table"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "dining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The person is wearing a blue hoodie and is standing next to a dining table.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "table"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "dining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The person is wearing a blue hoodie and is standing next to a dining table.",
+    "objects": [
+      "hoodie",
+      "blue",
+      "table"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "dining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "On the table, there is a fish being prepared for cooking.",
+    "objects": [
+      "fish",
+      "table",
+      "there"
+    ],
+    "actions": [
+      "prepared",
+      "cooking",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "On the table, there is a fish being prepared for cooking.",
+    "objects": [
+      "fish",
+      "table",
+      "there"
+    ],
+    "actions": [
+      "prepared",
+      "cooking",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "On the table, there is a fish being prepared for cooking.",
+    "objects": [
+      "fish",
+      "table",
+      "there"
+    ],
+    "actions": [
+      "prepared",
+      "cooking",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "On the table, there is a fish being prepared for cooking.",
+    "objects": [
+      "fish",
+      "table",
+      "there"
+    ],
+    "actions": [
+      "prepared",
+      "cooking",
+      "being"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "A black cat is lying on the floor, and another cat is standing on the table, staring at the fish being cut.",
+    "objects": [
+      "floor",
+      "cat",
+      "fish",
+      "cut",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "staring",
+      "lying",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "A black cat is lying on the floor, and another cat is standing on the table, staring at the fish being cut.",
+    "objects": [
+      "floor",
+      "cat",
+      "fish",
+      "cut",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "staring",
+      "lying",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "A black cat is lying on the floor, and another cat is standing on the table, staring at the fish being cut.",
+    "objects": [
+      "floor",
+      "cat",
+      "fish",
+      "cut",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "staring",
+      "lying",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "A black cat is lying on the floor, and another cat is standing on the table, staring at the fish being cut.",
+    "objects": [
+      "floor",
+      "cat",
+      "fish",
+      "cut",
+      "table",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "staring",
+      "lying",
+      "being"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The person is using a silver knife to cut into the fish, while the cats observe the process.",
+    "objects": [
+      "fish",
+      "silver",
+      "cut",
+      "knife",
+      "while",
+      "into",
+      "cats",
+      "observe"
+    ],
+    "actions": [
+      "process",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The person is using a silver knife to cut into the fish, while the cats observe the process.",
+    "objects": [
+      "fish",
+      "silver",
+      "cut",
+      "knife",
+      "while",
+      "into",
+      "cats",
+      "observe"
+    ],
+    "actions": [
+      "process",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The person is using a silver knife to cut into the fish, while the cats observe the process.",
+    "objects": [
+      "fish",
+      "silver",
+      "cut",
+      "knife",
+      "while",
+      "into",
+      "cats",
+      "observe"
+    ],
+    "actions": [
+      "process",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The person is using a silver knife to cut into the fish, while the cats observe the process.",
+    "objects": [
+      "fish",
+      "silver",
+      "cut",
+      "knife",
+      "while",
+      "into",
+      "cats",
+      "observe"
+    ],
+    "actions": [
+      "process",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The person holds the fish on a white cutting board, and the cat on the table is staring at it.",
+    "objects": [
+      "white",
+      "cat",
+      "fish",
+      "table",
+      "board"
+    ],
+    "actions": [
+      "staring",
+      "cutting",
+      "holds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The person holds the fish on a white cutting board, and the cat on the table is staring at it.",
+    "objects": [
+      "white",
+      "cat",
+      "fish",
+      "table",
+      "board"
+    ],
+    "actions": [
+      "staring",
+      "cutting",
+      "holds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The person holds the fish on a white cutting board, and the cat on the table is staring at it.",
+    "objects": [
+      "white",
+      "cat",
+      "fish",
+      "table",
+      "board"
+    ],
+    "actions": [
+      "staring",
+      "cutting",
+      "holds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The person holds the fish on a white cutting board, and the cat on the table is staring at it.",
+    "objects": [
+      "white",
+      "cat",
+      "fish",
+      "table",
+      "board"
+    ],
+    "actions": [
+      "staring",
+      "cutting",
+      "holds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is set in a kitchen, with various objects visible such as a microwave and a bowl.",
+    "objects": [
+      "such",
+      "kitchen",
+      "bowl",
+      "microwave",
+      "set"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is set in a kitchen, with various objects visible such as a microwave and a bowl.",
+    "objects": [
+      "such",
+      "kitchen",
+      "bowl",
+      "microwave",
+      "set"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is set in a kitchen, with various objects visible such as a microwave and a bowl.",
+    "objects": [
+      "such",
+      "kitchen",
+      "bowl",
+      "microwave",
+      "set"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is set in a kitchen, with various objects visible such as a microwave and a bowl.",
+    "objects": [
+      "such",
+      "kitchen",
+      "bowl",
+      "microwave",
+      "set"
+    ],
+    "actions": [
+      "objects"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The person is wearing a blue hoodie, and the cats are black.",
+    "objects": [
+      "hoodie",
+      "cats",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The person is wearing a blue hoodie, and the cats are black.",
+    "objects": [
+      "hoodie",
+      "cats",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The person is wearing a blue hoodie, and the cats are black.",
+    "objects": [
+      "hoodie",
+      "cats",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The person is wearing a blue hoodie, and the cats are black.",
+    "objects": [
+      "hoodie",
+      "cats",
+      "blue",
+      "black"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,587 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a young child playing on a wooden floor with a red and blue carpeted area.",
+    "objects": [
+      "blue",
+      "wooden",
+      "young",
+      "child",
+      "area",
+      "floor"
+    ],
+    "actions": [
+      "depicts",
+      "playing",
+      "red",
+      "carpeted"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the first scene, the child is seen sitting on the floor, wearing a blue onesie, and playing with a red and blue toy car.",
+    "objects": [
+      "blue",
+      "toy",
+      "car",
+      "onesie",
+      "child",
+      "floor",
+      "first"
+    ],
+    "actions": [
+      "sitting",
+      "wearing",
+      "red",
+      "playing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "In the second scene, the child is crawling on the floor and holding a red toy, which is a stuffed animal.",
+    "objects": [
+      "second",
+      "toy",
+      "animal",
+      "which",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "stuffed",
+      "crawling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "In the third scene, the child is playing on the floor with a toy, wearing a blue hoodie and blue pants.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "floor",
+      "third"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "pants"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "In the fourth scene, the child is crawling on the floor, holding a red and blue toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "fourth",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "In the fifth scene, the child is crawling on the floor, wearing a blue onesie, and playing with a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "fifth",
+      "onesie",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "crawling"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "In the sixth scene, the child is crawling on the floor, wearing blue pants and holding a red toy.",
+    "objects": [
+      "sixth",
+      "toy",
+      "blue",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "crawling",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "In the seventh scene, the child is crawling on the floor, wearing a blue hoodie, and playing with a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "seventh",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "crawling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "In the eighth scene, the child is crawling on the floor, wearing a blue onesie and holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "eighth",
+      "onesie",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "In the ninth scene, the child is crawling on the floor, wearing blue pants and holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "ninth",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "crawling",
+      "pants"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "In the tenth scene, the child is crawling on the floor, wearing a blue hoodie and playing with a red toy.",
+    "objects": [
+      "tenth",
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "crawling"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "In the eleventh scene, the child is crawling on the floor, wearing blue pants and holding a red toy.",
+    "objects": [
+      "blue",
+      "eleventh",
+      "toy",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "crawling",
+      "pants"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "In the twelfth scene, the child is crawling on the floor, wearing a blue onesie and playing with a red toy.",
+    "objects": [
+      "twelfth",
+      "blue",
+      "toy",
+      "onesie",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "crawling"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "In the thirteenth scene, the child is crawling on the floor, wearing a blue hoodie and holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "thirteenth",
+      "child",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "In the fourteenth scene, the child is crawling on the floor, wearing blue pants and playing with a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "fourteenth",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "crawling",
+      "pants",
+      "playing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "In the fifteenth scene, the child is crawling on the floor, wearing a blue onesie and holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "fifteenth",
+      "onesie",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "In the sixteenth scene, the child is crawling on the floor, wearing blue pants and playing with a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "sixteenth",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "crawling",
+      "pants",
+      "playing"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "In the seventeenth scene, the child is crawling on the floor, wearing a blue hoodie and holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "floor",
+      "seventeenth"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "In the eighteenth scene, the child is crawling on the floor, wearing a blue onesie and playing with a red toy.",
+    "objects": [
+      "eighteenth",
+      "blue",
+      "toy",
+      "onesie",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "crawling"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "In the nineteenth scene, the child is crawling on the floor, wearing blue pants and holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "nineteenth",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "crawling",
+      "pants"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "In the twentieth scene, the child is crawling on the floor, wearing a blue hoodie and playing with a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "twentieth",
+      "child",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "crawling"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "In the twenty-first scene, the child is crawling on the floor, wearing blue pants and holding a red toy.",
+    "objects": [
+      "blue",
+      "floor",
+      "toy",
+      "child"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "crawling",
+      "pants"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "In the twenty-second scene, the child is crawling on the floor, wearing a blue onesie and playing with a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "onesie",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "crawling"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "In the twenty-third scene, the child is crawling on the floor, wearing blue pants and holding a red toy.",
+    "objects": [
+      "blue",
+      "floor",
+      "toy",
+      "child"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "crawling",
+      "pants"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "In the twenty-fourth scene, the child is crawling on the floor, wearing a blue hoodie and playing with a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "crawling"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "In the twenty-fifth scene, the child is crawling on the floor, wearing a blue onesie and holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "onesie",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "In the twenty-sixth scene, the child is crawling on the floor, wearing blue pants and playing with a red toy.",
+    "objects": [
+      "blue",
+      "floor",
+      "toy",
+      "child"
+    ],
+    "actions": [
+      "red",
+      "crawling",
+      "pants",
+      "playing"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "In the twenty-seventh scene, the child is crawling on the floor, wearing a blue hoodie and holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "In the twenty-eighth scene, the child is crawling on the floor, wearing a blue onesie and playing with a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "onesie",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "crawling"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "In the twenty-nineth scene, the child is crawling on the floor, wearing blue pants and holding a red toy.",
+    "objects": [
+      "blue",
+      "floor",
+      "toy",
+      "child"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "crawling",
+      "pants"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "In the twenty-twentieth scene, the child is crawling on the floor, wearing a blue hoodie and playing with a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "child",
+      "hoodie",
+      "floor"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "playing",
+      "crawling"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "In the twenty-twenty-first scene, the child is crawling on the floor, wearing a blue onesie and holding a red toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "onesie",
+      "child",
+      "floor"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holding",
+      "crawling"
+    ],
+    "segment_id": 31
+  }
+]

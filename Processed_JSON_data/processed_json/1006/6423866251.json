@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video features a man and a woman performing a dance routine on a stage.",
+    "objects": [
+      "woman",
+      "dance",
+      "routine",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "performing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video features a man and a woman performing a dance routine on a stage.",
+    "objects": [
+      "woman",
+      "dance",
+      "routine",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "performing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video features a man and a woman performing a dance routine on a stage.",
+    "objects": [
+      "woman",
+      "dance",
+      "routine",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "performing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video features a man and a woman performing a dance routine on a stage.",
+    "objects": [
+      "woman",
+      "dance",
+      "routine",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "performing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video features a man and a woman performing a dance routine on a stage.",
+    "objects": [
+      "woman",
+      "dance",
+      "routine",
+      "stage",
+      "man"
+    ],
+    "actions": [
+      "performing",
+      "features"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is dressed in a black suit and tie, while the woman is wearing a black dress with a feather boa.",
+    "objects": [
+      "suit",
+      "woman",
+      "while",
+      "black",
+      "tie",
+      "dress",
+      "feather",
+      "boa"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is dressed in a black suit and tie, while the woman is wearing a black dress with a feather boa.",
+    "objects": [
+      "suit",
+      "woman",
+      "while",
+      "black",
+      "tie",
+      "dress",
+      "feather",
+      "boa"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is dressed in a black suit and tie, while the woman is wearing a black dress with a feather boa.",
+    "objects": [
+      "suit",
+      "woman",
+      "while",
+      "black",
+      "tie",
+      "dress",
+      "feather",
+      "boa"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man is dressed in a black suit and tie, while the woman is wearing a black dress with a feather boa.",
+    "objects": [
+      "suit",
+      "woman",
+      "while",
+      "black",
+      "tie",
+      "dress",
+      "feather",
+      "boa"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The man is dressed in a black suit and tie, while the woman is wearing a black dress with a feather boa.",
+    "objects": [
+      "suit",
+      "woman",
+      "while",
+      "black",
+      "tie",
+      "dress",
+      "feather",
+      "boa"
+    ],
+    "actions": [
+      "wearing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman holds a black feather boa in her hand.",
+    "objects": [
+      "woman",
+      "black",
+      "feather",
+      "her",
+      "boa",
+      "hand"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman holds a black feather boa in her hand.",
+    "objects": [
+      "woman",
+      "black",
+      "feather",
+      "her",
+      "boa",
+      "hand"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman holds a black feather boa in her hand.",
+    "objects": [
+      "woman",
+      "black",
+      "feather",
+      "her",
+      "boa",
+      "hand"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman holds a black feather boa in her hand.",
+    "objects": [
+      "woman",
+      "black",
+      "feather",
+      "her",
+      "boa",
+      "hand"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman holds a black feather boa in her hand.",
+    "objects": [
+      "woman",
+      "black",
+      "feather",
+      "her",
+      "boa",
+      "hand"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "The man holds the woman's hand as they dance, and at one point, he spins her around.",
+    "objects": [
+      "they",
+      "one",
+      "point",
+      "around",
+      "dance",
+      "her",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "spins",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man holds the woman's hand as they dance, and at one point, he spins her around.",
+    "objects": [
+      "they",
+      "one",
+      "point",
+      "around",
+      "dance",
+      "her",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "spins",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "The man holds the woman's hand as they dance, and at one point, he spins her around.",
+    "objects": [
+      "they",
+      "one",
+      "point",
+      "around",
+      "dance",
+      "her",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "spins",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "The man holds the woman's hand as they dance, and at one point, he spins her around.",
+    "objects": [
+      "they",
+      "one",
+      "point",
+      "around",
+      "dance",
+      "her",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "spins",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "The man holds the woman's hand as they dance, and at one point, he spins her around.",
+    "objects": [
+      "they",
+      "one",
+      "point",
+      "around",
+      "dance",
+      "her",
+      "man",
+      "hand"
+    ],
+    "actions": [
+      "woman's",
+      "spins",
+      "holds"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "They are both smiling and looking at each other.",
+    "objects": [
+      "they",
+      "other",
+      "each",
+      "both"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "They are both smiling and looking at each other.",
+    "objects": [
+      "they",
+      "other",
+      "each",
+      "both"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "They are both smiling and looking at each other.",
+    "objects": [
+      "they",
+      "other",
+      "each",
+      "both"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "They are both smiling and looking at each other.",
+    "objects": [
+      "they",
+      "other",
+      "each",
+      "both"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "They are both smiling and looking at each other.",
+    "objects": [
+      "they",
+      "other",
+      "each",
+      "both"
+    ],
+    "actions": [
+      "looking",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The lighting is dim, and the background is a dark blue with some bluish lights.",
+    "objects": [
+      "blue",
+      "dark",
+      "dim",
+      "some",
+      "bluish"
+    ],
+    "actions": [
+      "lights",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The lighting is dim, and the background is a dark blue with some bluish lights.",
+    "objects": [
+      "blue",
+      "dark",
+      "dim",
+      "some",
+      "bluish"
+    ],
+    "actions": [
+      "lights",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The lighting is dim, and the background is a dark blue with some bluish lights.",
+    "objects": [
+      "blue",
+      "dark",
+      "dim",
+      "some",
+      "bluish"
+    ],
+    "actions": [
+      "lights",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The lighting is dim, and the background is a dark blue with some bluish lights.",
+    "objects": [
+      "blue",
+      "dark",
+      "dim",
+      "some",
+      "bluish"
+    ],
+    "actions": [
+      "lights",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The lighting is dim, and the background is a dark blue with some bluish lights.",
+    "objects": [
+      "blue",
+      "dark",
+      "dim",
+      "some",
+      "bluish"
+    ],
+    "actions": [
+      "lights",
+      "lighting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The couple is the main focus of the video, and they are the only people present on the stage.",
+    "objects": [
+      "they",
+      "people",
+      "couple",
+      "main",
+      "only",
+      "stage",
+      "present"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The couple is the main focus of the video, and they are the only people present on the stage.",
+    "objects": [
+      "they",
+      "people",
+      "couple",
+      "main",
+      "only",
+      "stage",
+      "present"
+    ],
+    "actions": [
+      "focus"
+    ],
+    "segment_id": 6
+  }
+]

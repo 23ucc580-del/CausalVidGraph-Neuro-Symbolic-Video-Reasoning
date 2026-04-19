@@ -1,0 +1,518 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered in a room, seated on chairs around a table.",
+    "objects": [
+      "table",
+      "people",
+      "around",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "chairs",
+      "gathered",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered in a room, seated on chairs around a table.",
+    "objects": [
+      "table",
+      "people",
+      "around",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "chairs",
+      "gathered",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are gathered in a room, seated on chairs around a table.",
+    "objects": [
+      "table",
+      "people",
+      "around",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "chairs",
+      "gathered",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people are gathered in a room, seated on chairs around a table.",
+    "objects": [
+      "table",
+      "people",
+      "around",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "chairs",
+      "gathered",
+      "seated"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman at the center of the scene is standing and holding a bottle of wine in her hand.",
+    "objects": [
+      "woman",
+      "bottle",
+      "her",
+      "center",
+      "wine",
+      "hand"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman at the center of the scene is standing and holding a bottle of wine in her hand.",
+    "objects": [
+      "woman",
+      "bottle",
+      "her",
+      "center",
+      "wine",
+      "hand"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman at the center of the scene is standing and holding a bottle of wine in her hand.",
+    "objects": [
+      "woman",
+      "bottle",
+      "her",
+      "center",
+      "wine",
+      "hand"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman at the center of the scene is standing and holding a bottle of wine in her hand.",
+    "objects": [
+      "woman",
+      "bottle",
+      "her",
+      "center",
+      "wine",
+      "hand"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "She is dressed in a blue jacket and a black skirt.",
+    "objects": [
+      "she",
+      "jacket",
+      "black",
+      "blue",
+      "skirt"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "She is dressed in a blue jacket and a black skirt.",
+    "objects": [
+      "she",
+      "jacket",
+      "black",
+      "blue",
+      "skirt"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "She is dressed in a blue jacket and a black skirt.",
+    "objects": [
+      "she",
+      "jacket",
+      "black",
+      "blue",
+      "skirt"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "She is dressed in a blue jacket and a black skirt.",
+    "objects": [
+      "she",
+      "jacket",
+      "black",
+      "blue",
+      "skirt"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "On the table in front of her, there is a laptop and a soundboard.",
+    "objects": [
+      "table",
+      "there",
+      "soundboard",
+      "her",
+      "laptop"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "On the table in front of her, there is a laptop and a soundboard.",
+    "objects": [
+      "table",
+      "there",
+      "soundboard",
+      "her",
+      "laptop"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "On the table in front of her, there is a laptop and a soundboard.",
+    "objects": [
+      "table",
+      "there",
+      "soundboard",
+      "her",
+      "laptop"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "On the table in front of her, there is a laptop and a soundboard.",
+    "objects": [
+      "table",
+      "there",
+      "soundboard",
+      "her",
+      "laptop"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man next to her is wearing a red shirt, a black beanie, and holding a microphone.",
+    "objects": [
+      "black",
+      "microphone",
+      "shirt",
+      "her",
+      "beanie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man next to her is wearing a red shirt, a black beanie, and holding a microphone.",
+    "objects": [
+      "black",
+      "microphone",
+      "shirt",
+      "her",
+      "beanie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man next to her is wearing a red shirt, a black beanie, and holding a microphone.",
+    "objects": [
+      "black",
+      "microphone",
+      "shirt",
+      "her",
+      "beanie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man next to her is wearing a red shirt, a black beanie, and holding a microphone.",
+    "objects": [
+      "black",
+      "microphone",
+      "shirt",
+      "her",
+      "beanie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "He is also holding a bottle of wine.",
+    "objects": [
+      "bottle",
+      "wine"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "He is also holding a bottle of wine.",
+    "objects": [
+      "bottle",
+      "wine"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "He is also holding a bottle of wine.",
+    "objects": [
+      "bottle",
+      "wine"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "He is also holding a bottle of wine.",
+    "objects": [
+      "bottle",
+      "wine"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There is a woman in the foreground, dressed in a black jacket and a black skirt, holding a microphone.",
+    "objects": [
+      "there",
+      "woman",
+      "black",
+      "jacket",
+      "microphone",
+      "skirt"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There is a woman in the foreground, dressed in a black jacket and a black skirt, holding a microphone.",
+    "objects": [
+      "there",
+      "woman",
+      "black",
+      "jacket",
+      "microphone",
+      "skirt"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There is a woman in the foreground, dressed in a black jacket and a black skirt, holding a microphone.",
+    "objects": [
+      "there",
+      "woman",
+      "black",
+      "jacket",
+      "microphone",
+      "skirt"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There is a woman in the foreground, dressed in a black jacket and a black skirt, holding a microphone.",
+    "objects": [
+      "there",
+      "woman",
+      "black",
+      "jacket",
+      "microphone",
+      "skirt"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, there is a woman wearing a black top and a white skirt, and another man is wearing a blue hoodie and a black jacket.",
+    "objects": [
+      "there",
+      "white",
+      "woman",
+      "black",
+      "jacket",
+      "blue",
+      "top",
+      "skirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, there is a woman wearing a black top and a white skirt, and another man is wearing a blue hoodie and a black jacket.",
+    "objects": [
+      "there",
+      "white",
+      "woman",
+      "black",
+      "jacket",
+      "blue",
+      "top",
+      "skirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "In the background, there is a woman wearing a black top and a white skirt, and another man is wearing a blue hoodie and a black jacket.",
+    "objects": [
+      "there",
+      "white",
+      "woman",
+      "black",
+      "jacket",
+      "blue",
+      "top",
+      "skirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "In the background, there is a woman wearing a black top and a white skirt, and another man is wearing a blue hoodie and a black jacket.",
+    "objects": [
+      "there",
+      "white",
+      "woman",
+      "black",
+      "jacket",
+      "blue",
+      "top",
+      "skirt"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 7
+  }
+]

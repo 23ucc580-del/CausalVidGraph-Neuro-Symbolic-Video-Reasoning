@@ -1,0 +1,550 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a person is seen holding a door knob and attempting to open the door.",
+    "objects": [
+      "knob",
+      "door",
+      "open"
+    ],
+    "actions": [
+      "holding",
+      "attempting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a person is seen holding a door knob and attempting to open the door.",
+    "objects": [
+      "knob",
+      "door",
+      "open"
+    ],
+    "actions": [
+      "holding",
+      "attempting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a person is seen holding a door knob and attempting to open the door.",
+    "objects": [
+      "knob",
+      "door",
+      "open"
+    ],
+    "actions": [
+      "holding",
+      "attempting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "As the person tries to open the door, a cat is seen walking by, appearing curious and inquisitive.",
+    "objects": [
+      "door",
+      "inquisitive",
+      "open",
+      "cat"
+    ],
+    "actions": [
+      "appearing",
+      "tries",
+      "walking",
+      "curious"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "As the person tries to open the door, a cat is seen walking by, appearing curious and inquisitive.",
+    "objects": [
+      "door",
+      "inquisitive",
+      "open",
+      "cat"
+    ],
+    "actions": [
+      "appearing",
+      "tries",
+      "walking",
+      "curious"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "As the person tries to open the door, a cat is seen walking by, appearing curious and inquisitive.",
+    "objects": [
+      "door",
+      "inquisitive",
+      "open",
+      "cat"
+    ],
+    "actions": [
+      "appearing",
+      "tries",
+      "walking",
+      "curious"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The cat seems to be interested in the person's actions and is looking on with its head tilted to the side.",
+    "objects": [
+      "side",
+      "its",
+      "cat",
+      "head"
+    ],
+    "actions": [
+      "interested",
+      "looking",
+      "person's",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The cat seems to be interested in the person's actions and is looking on with its head tilted to the side.",
+    "objects": [
+      "side",
+      "its",
+      "cat",
+      "head"
+    ],
+    "actions": [
+      "interested",
+      "looking",
+      "person's",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The cat seems to be interested in the person's actions and is looking on with its head tilted to the side.",
+    "objects": [
+      "side",
+      "its",
+      "cat",
+      "head"
+    ],
+    "actions": [
+      "interested",
+      "looking",
+      "person's",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The person is wearing a blue hoodie and is seen opening the door.",
+    "objects": [
+      "door",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "opening",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The person is wearing a blue hoodie and is seen opening the door.",
+    "objects": [
+      "door",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "opening",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The person is wearing a blue hoodie and is seen opening the door.",
+    "objects": [
+      "door",
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "opening",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The room appears to be a bathroom, as indicated by the presence of a toilet and a sink.",
+    "objects": [
+      "toilet",
+      "bathroom",
+      "sink",
+      "room",
+      "presence"
+    ],
+    "actions": [
+      "indicated"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The room appears to be a bathroom, as indicated by the presence of a toilet and a sink.",
+    "objects": [
+      "toilet",
+      "bathroom",
+      "sink",
+      "room",
+      "presence"
+    ],
+    "actions": [
+      "indicated"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The room appears to be a bathroom, as indicated by the presence of a toilet and a sink.",
+    "objects": [
+      "toilet",
+      "bathroom",
+      "sink",
+      "room",
+      "presence"
+    ],
+    "actions": [
+      "indicated"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The person is also holding a black object in their hand, although the specific details of the object are not clear.",
+    "objects": [
+      "object",
+      "their",
+      "black",
+      "although",
+      "hand",
+      "clear",
+      "specific",
+      "not"
+    ],
+    "actions": [
+      "details",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The person is also holding a black object in their hand, although the specific details of the object are not clear.",
+    "objects": [
+      "object",
+      "their",
+      "black",
+      "although",
+      "hand",
+      "clear",
+      "specific",
+      "not"
+    ],
+    "actions": [
+      "details",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The person is also holding a black object in their hand, although the specific details of the object are not clear.",
+    "objects": [
+      "object",
+      "their",
+      "black",
+      "although",
+      "hand",
+      "clear",
+      "specific",
+      "not"
+    ],
+    "actions": [
+      "details",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The cat's fur is a mix of black and white colors, and it seems to be looking on with a sense of curiosity.",
+    "objects": [
+      "white",
+      "fur",
+      "mix",
+      "black",
+      "sense",
+      "curiosity"
+    ],
+    "actions": [
+      "colors",
+      "cat's",
+      "looking",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The cat's fur is a mix of black and white colors, and it seems to be looking on with a sense of curiosity.",
+    "objects": [
+      "white",
+      "fur",
+      "mix",
+      "black",
+      "sense",
+      "curiosity"
+    ],
+    "actions": [
+      "colors",
+      "cat's",
+      "looking",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The cat's fur is a mix of black and white colors, and it seems to be looking on with a sense of curiosity.",
+    "objects": [
+      "white",
+      "fur",
+      "mix",
+      "black",
+      "sense",
+      "curiosity"
+    ],
+    "actions": [
+      "colors",
+      "cat's",
+      "looking",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The person's actions suggest that they are trying to get inside the room or perhaps trying to let the cat inside.",
+    "objects": [
+      "cat",
+      "room",
+      "get",
+      "suggest",
+      "that",
+      "let",
+      "they",
+      "inside"
+    ],
+    "actions": [
+      "trying",
+      "perhaps",
+      "person's",
+      "actions"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The person's actions suggest that they are trying to get inside the room or perhaps trying to let the cat inside.",
+    "objects": [
+      "cat",
+      "room",
+      "get",
+      "suggest",
+      "that",
+      "let",
+      "they",
+      "inside"
+    ],
+    "actions": [
+      "trying",
+      "perhaps",
+      "person's",
+      "actions"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The person's actions suggest that they are trying to get inside the room or perhaps trying to let the cat inside.",
+    "objects": [
+      "cat",
+      "room",
+      "get",
+      "suggest",
+      "that",
+      "let",
+      "they",
+      "inside"
+    ],
+    "actions": [
+      "trying",
+      "perhaps",
+      "person's",
+      "actions"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The atmosphere is calm and quiet, and there is no audible sound in the video.",
+    "objects": [
+      "audible",
+      "calm",
+      "sound",
+      "there",
+      "atmosphere",
+      "quiet"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The atmosphere is calm and quiet, and there is no audible sound in the video.",
+    "objects": [
+      "audible",
+      "calm",
+      "sound",
+      "there",
+      "atmosphere",
+      "quiet"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The atmosphere is calm and quiet, and there is no audible sound in the video.",
+    "objects": [
+      "audible",
+      "calm",
+      "sound",
+      "there",
+      "atmosphere",
+      "quiet"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The cat's curious gaze and the person's actions create a sense of anticipation and intrigue.",
+    "objects": [
+      "anticipation",
+      "intrigue",
+      "create",
+      "sense",
+      "gaze"
+    ],
+    "actions": [
+      "cat's",
+      "actions",
+      "curious",
+      "person's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The cat's curious gaze and the person's actions create a sense of anticipation and intrigue.",
+    "objects": [
+      "anticipation",
+      "intrigue",
+      "create",
+      "sense",
+      "gaze"
+    ],
+    "actions": [
+      "cat's",
+      "actions",
+      "curious",
+      "person's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The cat's curious gaze and the person's actions create a sense of anticipation and intrigue.",
+    "objects": [
+      "anticipation",
+      "intrigue",
+      "create",
+      "sense",
+      "gaze"
+    ],
+    "actions": [
+      "cat's",
+      "actions",
+      "curious",
+      "person's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The video provides a glimpse into a simple, everyday moment between a person and their pet in an everyday setting.",
+    "objects": [
+      "their",
+      "pet",
+      "simple",
+      "moment",
+      "glimpse",
+      "into",
+      "between",
+      "everyday"
+    ],
+    "actions": [
+      "provides",
+      "setting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The video provides a glimpse into a simple, everyday moment between a person and their pet in an everyday setting.",
+    "objects": [
+      "their",
+      "pet",
+      "simple",
+      "moment",
+      "glimpse",
+      "into",
+      "between",
+      "everyday"
+    ],
+    "actions": [
+      "provides",
+      "setting"
+    ],
+    "segment_id": 10
+  }
+]

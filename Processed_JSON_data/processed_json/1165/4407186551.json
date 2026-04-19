@@ -1,0 +1,533 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a lively dance practice session in a room, with a group of people actively participating.",
+    "objects": [
+      "dance",
+      "room",
+      "lively",
+      "people",
+      "actively",
+      "group",
+      "session",
+      "practice"
+    ],
+    "actions": [
+      "participating"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "Three women are the main focus, engaged in a synchronized dance routine, their movements in sync with the rhythm.",
+    "objects": [
+      "women",
+      "dance",
+      "routine",
+      "main",
+      "rhythm",
+      "three",
+      "sync",
+      "their"
+    ],
+    "actions": [
+      "engaged",
+      "movements",
+      "synchronized",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "One woman is holding a blue hoodie, while another is holding a black jacket.",
+    "objects": [
+      "blue",
+      "while",
+      "jacket",
+      "one",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "A third woman is dressed in a black shirt and holds a red hoodie.",
+    "objects": [
+      "shirt",
+      "hoodie",
+      "black",
+      "woman",
+      "third"
+    ],
+    "actions": [
+      "red",
+      "holds",
+      "dressed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "A fourth woman is wearing a black tank top and has a white bag in her hands.",
+    "objects": [
+      "white",
+      "top",
+      "has",
+      "her",
+      "bag",
+      "fourth",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "hands",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The fifth woman is in a pink shirt and holds a water bottle.",
+    "objects": [
+      "pink",
+      "fifth",
+      "water",
+      "shirt",
+      "woman",
+      "bottle"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "A sixth woman is wearing a blue shirt and has a white bag.",
+    "objects": [
+      "white",
+      "sixth",
+      "blue",
+      "has",
+      "bag",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The seventh woman is dressed in a green shirt and holds a black shirt.",
+    "objects": [
+      "green",
+      "shirt",
+      "seventh",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holds",
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The eighth woman is wearing a pink shirt and has a red hoodie.",
+    "objects": [
+      "pink",
+      "has",
+      "eighth",
+      "shirt",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "A ninth woman is in a yellow shirt and holds a black bag.",
+    "objects": [
+      "ninth",
+      "bag",
+      "shirt",
+      "yellow",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The tenth woman is in a black shirt and has a blue hoodie.",
+    "objects": [
+      "tenth",
+      "blue",
+      "has",
+      "shirt",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The eleventh woman is dressed in a purple shirt and holds a white bag.",
+    "objects": [
+      "white",
+      "eleventh",
+      "bag",
+      "shirt",
+      "purple",
+      "woman"
+    ],
+    "actions": [
+      "holds",
+      "dressed"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The twelfth woman is wearing a black shirt and has a black bag.",
+    "objects": [
+      "twelfth",
+      "has",
+      "bag",
+      "shirt",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The thirteenth woman is in a blue shirt and has a pink hoodie.",
+    "objects": [
+      "blue",
+      "pink",
+      "has",
+      "thirteenth",
+      "shirt",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The fourteenth woman is dressed in a pink shirt and holds a white bag.",
+    "objects": [
+      "white",
+      "pink",
+      "bag",
+      "shirt",
+      "fourteenth",
+      "woman"
+    ],
+    "actions": [
+      "holds",
+      "dressed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The fifteenth woman is wearing a white shirt and has a red hoodie.",
+    "objects": [
+      "white",
+      "has",
+      "fifteenth",
+      "shirt",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The sixteenth woman is in a blue shirt and holds a black jacket.",
+    "objects": [
+      "blue",
+      "shirt",
+      "jacket",
+      "sixteenth",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The seventeenth woman is dressed in a black shirt and has a white bag.",
+    "objects": [
+      "white",
+      "has",
+      "bag",
+      "shirt",
+      "black",
+      "woman",
+      "seventeenth"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The eighteenth woman is wearing a black shirt and holds a red hoodie.",
+    "objects": [
+      "eighteenth",
+      "shirt",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holds"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The nineteenth woman is in a pink shirt and has a blue hoodie.",
+    "objects": [
+      "blue",
+      "pink",
+      "has",
+      "shirt",
+      "nineteenth",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The twentieth woman is dressed in a black shirt and has a black bag.",
+    "objects": [
+      "has",
+      "twentieth",
+      "bag",
+      "shirt",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The twenty-first woman is wearing a green shirt and holds a red hoodie.",
+    "objects": [
+      "hoodie",
+      "green",
+      "woman",
+      "shirt"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holds"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The twenty-second woman is dressed in a yellow shirt and has a white bag.",
+    "objects": [
+      "white",
+      "has",
+      "bag",
+      "shirt",
+      "yellow",
+      "woman"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The twenty-third woman is in a black shirt and holds a blue hoodie.",
+    "objects": [
+      "blue",
+      "shirt",
+      "hoodie",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The twenty-fourth woman is wearing a pink shirt and has a black shirt.",
+    "objects": [
+      "pink",
+      "has",
+      "shirt",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The twenty-fifth woman is dressed in a white shirt and holds a black jacket.",
+    "objects": [
+      "white",
+      "shirt",
+      "jacket",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "holds",
+      "dressed"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The twenty-sixth woman is wearing a blue shirt and has a red hoodie.",
+    "objects": [
+      "blue",
+      "has",
+      "shirt",
+      "hoodie",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The twenty-seventh woman is in a pink shirt and holds a black shirt.",
+    "objects": [
+      "pink",
+      "woman",
+      "black",
+      "shirt"
+    ],
+    "actions": [
+      "holds"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The twenty-eighth woman is dressed in a black shirt and has a white bag.",
+    "objects": [
+      "white",
+      "has",
+      "bag",
+      "shirt",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The twenty-ninth woman is wearing a yellow shirt and holds a red hoodie.",
+    "objects": [
+      "hoodie",
+      "woman",
+      "yellow",
+      "shirt"
+    ],
+    "actions": [
+      "red",
+      "wearing",
+      "holds"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The thirtieth woman is in a blue shirt and has a black bag.",
+    "objects": [
+      "blue",
+      "thirtieth",
+      "has",
+      "bag",
+      "shirt",
+      "black",
+      "woman"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The thirty-first woman is dressed in a pink shirt and holds a white bag.",
+    "objects": [
+      "white",
+      "pink",
+      "bag",
+      "shirt",
+      "woman"
+    ],
+    "actions": [
+      "holds",
+      "dressed"
+    ],
+    "segment_id": 31
+  }
+]

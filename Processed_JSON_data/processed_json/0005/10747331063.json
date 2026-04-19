@@ -1,0 +1,581 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video showcases a baseball game in progress on a field.",
+    "objects": [
+      "field",
+      "game",
+      "baseball"
+    ],
+    "actions": [
+      "showcases",
+      "progress"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video showcases a baseball game in progress on a field.",
+    "objects": [
+      "field",
+      "game",
+      "baseball"
+    ],
+    "actions": [
+      "showcases",
+      "progress"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video showcases a baseball game in progress on a field.",
+    "objects": [
+      "field",
+      "game",
+      "baseball"
+    ],
+    "actions": [
+      "showcases",
+      "progress"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video showcases a baseball game in progress on a field.",
+    "objects": [
+      "field",
+      "game",
+      "baseball"
+    ],
+    "actions": [
+      "showcases",
+      "progress"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The video showcases a baseball game in progress on a field.",
+    "objects": [
+      "field",
+      "game",
+      "baseball"
+    ],
+    "actions": [
+      "showcases",
+      "progress"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, we see a player wearing a blue jersey, holding a brown baseball glove, and standing on the mound.",
+    "objects": [
+      "blue",
+      "player",
+      "glove",
+      "brown",
+      "jersey",
+      "baseball",
+      "mound",
+      "see"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, we see a player wearing a blue jersey, holding a brown baseball glove, and standing on the mound.",
+    "objects": [
+      "blue",
+      "player",
+      "glove",
+      "brown",
+      "jersey",
+      "baseball",
+      "mound",
+      "see"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, we see a player wearing a blue jersey, holding a brown baseball glove, and standing on the mound.",
+    "objects": [
+      "blue",
+      "player",
+      "glove",
+      "brown",
+      "jersey",
+      "baseball",
+      "mound",
+      "see"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "In the foreground, we see a player wearing a blue jersey, holding a brown baseball glove, and standing on the mound.",
+    "objects": [
+      "blue",
+      "player",
+      "glove",
+      "brown",
+      "jersey",
+      "baseball",
+      "mound",
+      "see"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "In the foreground, we see a player wearing a blue jersey, holding a brown baseball glove, and standing on the mound.",
+    "objects": [
+      "blue",
+      "player",
+      "glove",
+      "brown",
+      "jersey",
+      "baseball",
+      "mound",
+      "see"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The player is positioned with his right foot forward, and his left foot on the ground, as if he's just about to pitch the ball.",
+    "objects": [
+      "forward",
+      "player",
+      "foot",
+      "just",
+      "about",
+      "pitch",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The player is positioned with his right foot forward, and his left foot on the ground, as if he's just about to pitch the ball.",
+    "objects": [
+      "forward",
+      "player",
+      "foot",
+      "just",
+      "about",
+      "pitch",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The player is positioned with his right foot forward, and his left foot on the ground, as if he's just about to pitch the ball.",
+    "objects": [
+      "forward",
+      "player",
+      "foot",
+      "just",
+      "about",
+      "pitch",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The player is positioned with his right foot forward, and his left foot on the ground, as if he's just about to pitch the ball.",
+    "objects": [
+      "forward",
+      "player",
+      "foot",
+      "just",
+      "about",
+      "pitch",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The player is positioned with his right foot forward, and his left foot on the ground, as if he's just about to pitch the ball.",
+    "objects": [
+      "forward",
+      "player",
+      "foot",
+      "just",
+      "about",
+      "pitch",
+      "ball",
+      "ground"
+    ],
+    "actions": [
+      "positioned"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "He is looking upwards, possibly tracking the trajectory of the ball or observing the batter.",
+    "objects": [
+      "trajectory",
+      "ball",
+      "batter",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "upwards",
+      "tracking",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "He is looking upwards, possibly tracking the trajectory of the ball or observing the batter.",
+    "objects": [
+      "trajectory",
+      "ball",
+      "batter",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "upwards",
+      "tracking",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "He is looking upwards, possibly tracking the trajectory of the ball or observing the batter.",
+    "objects": [
+      "trajectory",
+      "ball",
+      "batter",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "upwards",
+      "tracking",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "He is looking upwards, possibly tracking the trajectory of the ball or observing the batter.",
+    "objects": [
+      "trajectory",
+      "ball",
+      "batter",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "upwards",
+      "tracking",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "He is looking upwards, possibly tracking the trajectory of the ball or observing the batter.",
+    "objects": [
+      "trajectory",
+      "ball",
+      "batter",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "upwards",
+      "tracking",
+      "looking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, a player wearing a red jersey is standing at the base, holding a red baseball glove, and appears to be watching the pitcher.",
+    "objects": [
+      "player",
+      "glove",
+      "jersey",
+      "baseball",
+      "base",
+      "pitcher"
+    ],
+    "actions": [
+      "red",
+      "watching",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, a player wearing a red jersey is standing at the base, holding a red baseball glove, and appears to be watching the pitcher.",
+    "objects": [
+      "player",
+      "glove",
+      "jersey",
+      "baseball",
+      "base",
+      "pitcher"
+    ],
+    "actions": [
+      "red",
+      "watching",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, a player wearing a red jersey is standing at the base, holding a red baseball glove, and appears to be watching the pitcher.",
+    "objects": [
+      "player",
+      "glove",
+      "jersey",
+      "baseball",
+      "base",
+      "pitcher"
+    ],
+    "actions": [
+      "red",
+      "watching",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, a player wearing a red jersey is standing at the base, holding a red baseball glove, and appears to be watching the pitcher.",
+    "objects": [
+      "player",
+      "glove",
+      "jersey",
+      "baseball",
+      "base",
+      "pitcher"
+    ],
+    "actions": [
+      "red",
+      "watching",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "In the background, a player wearing a red jersey is standing at the base, holding a red baseball glove, and appears to be watching the pitcher.",
+    "objects": [
+      "player",
+      "glove",
+      "jersey",
+      "baseball",
+      "base",
+      "pitcher"
+    ],
+    "actions": [
+      "red",
+      "watching",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "There's a green fence enclosing the field, and the game seems to be taking place under a clear blue sky.",
+    "objects": [
+      "blue",
+      "fence",
+      "field",
+      "sky",
+      "green",
+      "clear",
+      "game",
+      "place"
+    ],
+    "actions": [
+      "enclosing",
+      "there's",
+      "taking",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "There's a green fence enclosing the field, and the game seems to be taking place under a clear blue sky.",
+    "objects": [
+      "blue",
+      "fence",
+      "field",
+      "sky",
+      "green",
+      "clear",
+      "game",
+      "place"
+    ],
+    "actions": [
+      "enclosing",
+      "there's",
+      "taking",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "There's a green fence enclosing the field, and the game seems to be taking place under a clear blue sky.",
+    "objects": [
+      "blue",
+      "fence",
+      "field",
+      "sky",
+      "green",
+      "clear",
+      "game",
+      "place"
+    ],
+    "actions": [
+      "enclosing",
+      "there's",
+      "taking",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "There's a green fence enclosing the field, and the game seems to be taking place under a clear blue sky.",
+    "objects": [
+      "blue",
+      "fence",
+      "field",
+      "sky",
+      "green",
+      "clear",
+      "game",
+      "place"
+    ],
+    "actions": [
+      "enclosing",
+      "there's",
+      "taking",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "There's a green fence enclosing the field, and the game seems to be taking place under a clear blue sky.",
+    "objects": [
+      "blue",
+      "fence",
+      "field",
+      "sky",
+      "green",
+      "clear",
+      "game",
+      "place"
+    ],
+    "actions": [
+      "enclosing",
+      "there's",
+      "taking",
+      "seems"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The atmosphere is casual and relaxed, with the players dressed in baseball uniforms and the field well-maintained.",
+    "objects": [
+      "atmosphere",
+      "casual",
+      "field",
+      "baseball"
+    ],
+    "actions": [
+      "uniforms",
+      "players",
+      "well-maintained",
+      "dressed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The atmosphere is casual and relaxed, with the players dressed in baseball uniforms and the field well-maintained.",
+    "objects": [
+      "atmosphere",
+      "casual",
+      "field",
+      "baseball"
+    ],
+    "actions": [
+      "uniforms",
+      "players",
+      "well-maintained",
+      "dressed"
+    ],
+    "segment_id": 6
+  }
+]

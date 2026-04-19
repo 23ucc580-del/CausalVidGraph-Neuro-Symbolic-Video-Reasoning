@@ -1,0 +1,574 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a person sitting comfortably on a chair.",
+    "objects": [
+      "chair",
+      "this",
+      "comfortably",
+      "see"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a person sitting comfortably on a chair.",
+    "objects": [
+      "chair",
+      "this",
+      "comfortably",
+      "see"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a person sitting comfortably on a chair.",
+    "objects": [
+      "chair",
+      "this",
+      "comfortably",
+      "see"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a person sitting comfortably on a chair.",
+    "objects": [
+      "chair",
+      "this",
+      "comfortably",
+      "see"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "They are wearing a blue hoodie and holding a brown mouse in their hand.",
+    "objects": [
+      "their",
+      "hoodie",
+      "blue",
+      "hand",
+      "they",
+      "brown",
+      "mouse"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "They are wearing a blue hoodie and holding a brown mouse in their hand.",
+    "objects": [
+      "their",
+      "hoodie",
+      "blue",
+      "hand",
+      "they",
+      "brown",
+      "mouse"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They are wearing a blue hoodie and holding a brown mouse in their hand.",
+    "objects": [
+      "their",
+      "hoodie",
+      "blue",
+      "hand",
+      "they",
+      "brown",
+      "mouse"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "They are wearing a blue hoodie and holding a brown mouse in their hand.",
+    "objects": [
+      "their",
+      "hoodie",
+      "blue",
+      "hand",
+      "they",
+      "brown",
+      "mouse"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The mouse is small and fluffy, with a soft texture, and the person appears to be petting it with a gentle touch.",
+    "objects": [
+      "small",
+      "texture",
+      "touch",
+      "fluffy",
+      "gentle",
+      "soft",
+      "mouse"
+    ],
+    "actions": [
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The mouse is small and fluffy, with a soft texture, and the person appears to be petting it with a gentle touch.",
+    "objects": [
+      "small",
+      "texture",
+      "touch",
+      "fluffy",
+      "gentle",
+      "soft",
+      "mouse"
+    ],
+    "actions": [
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The mouse is small and fluffy, with a soft texture, and the person appears to be petting it with a gentle touch.",
+    "objects": [
+      "small",
+      "texture",
+      "touch",
+      "fluffy",
+      "gentle",
+      "soft",
+      "mouse"
+    ],
+    "actions": [
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The mouse is small and fluffy, with a soft texture, and the person appears to be petting it with a gentle touch.",
+    "objects": [
+      "small",
+      "texture",
+      "touch",
+      "fluffy",
+      "gentle",
+      "soft",
+      "mouse"
+    ],
+    "actions": [
+      "petting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The mouse is lying on its back, its belly exposed, with its eyes closed in a state of relaxation, as if enjoying a belly rub.",
+    "objects": [
+      "state",
+      "eyes",
+      "relaxation",
+      "mouse",
+      "belly",
+      "its",
+      "rub"
+    ],
+    "actions": [
+      "enjoying",
+      "closed",
+      "lying",
+      "exposed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The mouse is lying on its back, its belly exposed, with its eyes closed in a state of relaxation, as if enjoying a belly rub.",
+    "objects": [
+      "state",
+      "eyes",
+      "relaxation",
+      "mouse",
+      "belly",
+      "its",
+      "rub"
+    ],
+    "actions": [
+      "enjoying",
+      "closed",
+      "lying",
+      "exposed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The mouse is lying on its back, its belly exposed, with its eyes closed in a state of relaxation, as if enjoying a belly rub.",
+    "objects": [
+      "state",
+      "eyes",
+      "relaxation",
+      "mouse",
+      "belly",
+      "its",
+      "rub"
+    ],
+    "actions": [
+      "enjoying",
+      "closed",
+      "lying",
+      "exposed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The mouse is lying on its back, its belly exposed, with its eyes closed in a state of relaxation, as if enjoying a belly rub.",
+    "objects": [
+      "state",
+      "eyes",
+      "relaxation",
+      "mouse",
+      "belly",
+      "its",
+      "rub"
+    ],
+    "actions": [
+      "enjoying",
+      "closed",
+      "lying",
+      "exposed"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The person's hand is cradling the mouse, showing a sense of care and affection towards the animal.",
+    "objects": [
+      "sense",
+      "animal",
+      "care",
+      "hand",
+      "mouse",
+      "affection"
+    ],
+    "actions": [
+      "towards",
+      "cradling",
+      "person's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The person's hand is cradling the mouse, showing a sense of care and affection towards the animal.",
+    "objects": [
+      "sense",
+      "animal",
+      "care",
+      "hand",
+      "mouse",
+      "affection"
+    ],
+    "actions": [
+      "towards",
+      "cradling",
+      "person's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The person's hand is cradling the mouse, showing a sense of care and affection towards the animal.",
+    "objects": [
+      "sense",
+      "animal",
+      "care",
+      "hand",
+      "mouse",
+      "affection"
+    ],
+    "actions": [
+      "towards",
+      "cradling",
+      "person's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The person's hand is cradling the mouse, showing a sense of care and affection towards the animal.",
+    "objects": [
+      "sense",
+      "animal",
+      "care",
+      "hand",
+      "mouse",
+      "affection"
+    ],
+    "actions": [
+      "towards",
+      "cradling",
+      "person's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The setting is warm and cozy, with a wooden chair and a warm, ambient light illuminating the scene.",
+    "objects": [
+      "chair",
+      "wooden",
+      "light",
+      "ambient",
+      "warm",
+      "cozy"
+    ],
+    "actions": [
+      "illuminating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The setting is warm and cozy, with a wooden chair and a warm, ambient light illuminating the scene.",
+    "objects": [
+      "chair",
+      "wooden",
+      "light",
+      "ambient",
+      "warm",
+      "cozy"
+    ],
+    "actions": [
+      "illuminating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The setting is warm and cozy, with a wooden chair and a warm, ambient light illuminating the scene.",
+    "objects": [
+      "chair",
+      "wooden",
+      "light",
+      "ambient",
+      "warm",
+      "cozy"
+    ],
+    "actions": [
+      "illuminating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The setting is warm and cozy, with a wooden chair and a warm, ambient light illuminating the scene.",
+    "objects": [
+      "chair",
+      "wooden",
+      "light",
+      "ambient",
+      "warm",
+      "cozy"
+    ],
+    "actions": [
+      "illuminating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The person's body language conveys a sense of calm and contentment, and the mouse's calm demeanor suggests a sense of trust and comfort with its human companion.",
+    "objects": [
+      "companion",
+      "body",
+      "human",
+      "sense",
+      "contentment",
+      "trust",
+      "demeanor",
+      "comfort"
+    ],
+    "actions": [
+      "mouse's",
+      "person's",
+      "conveys",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The person's body language conveys a sense of calm and contentment, and the mouse's calm demeanor suggests a sense of trust and comfort with its human companion.",
+    "objects": [
+      "companion",
+      "body",
+      "human",
+      "sense",
+      "contentment",
+      "trust",
+      "demeanor",
+      "comfort"
+    ],
+    "actions": [
+      "mouse's",
+      "person's",
+      "conveys",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The person's body language conveys a sense of calm and contentment, and the mouse's calm demeanor suggests a sense of trust and comfort with its human companion.",
+    "objects": [
+      "companion",
+      "body",
+      "human",
+      "sense",
+      "contentment",
+      "trust",
+      "demeanor",
+      "comfort"
+    ],
+    "actions": [
+      "mouse's",
+      "person's",
+      "conveys",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The person's body language conveys a sense of calm and contentment, and the mouse's calm demeanor suggests a sense of trust and comfort with its human companion.",
+    "objects": [
+      "companion",
+      "body",
+      "human",
+      "sense",
+      "contentment",
+      "trust",
+      "demeanor",
+      "comfort"
+    ],
+    "actions": [
+      "mouse's",
+      "person's",
+      "conveys",
+      "suggests"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is one of tranquility and companionship between the person and the mouse, with the mouse appearing to be at ease in the person's hand.",
+    "objects": [
+      "between",
+      "ease",
+      "companionship",
+      "hand",
+      "one",
+      "mouse",
+      "tranquility"
+    ],
+    "actions": [
+      "person's",
+      "appearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is one of tranquility and companionship between the person and the mouse, with the mouse appearing to be at ease in the person's hand.",
+    "objects": [
+      "between",
+      "ease",
+      "companionship",
+      "hand",
+      "one",
+      "mouse",
+      "tranquility"
+    ],
+    "actions": [
+      "person's",
+      "appearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is one of tranquility and companionship between the person and the mouse, with the mouse appearing to be at ease in the person's hand.",
+    "objects": [
+      "between",
+      "ease",
+      "companionship",
+      "hand",
+      "one",
+      "mouse",
+      "tranquility"
+    ],
+    "actions": [
+      "person's",
+      "appearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is one of tranquility and companionship between the person and the mouse, with the mouse appearing to be at ease in the person's hand.",
+    "objects": [
+      "between",
+      "ease",
+      "companionship",
+      "hand",
+      "one",
+      "mouse",
+      "tranquility"
+    ],
+    "actions": [
+      "person's",
+      "appearing"
+    ],
+    "segment_id": 7
+  }
+]

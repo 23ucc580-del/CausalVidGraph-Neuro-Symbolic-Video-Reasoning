@@ -1,0 +1,546 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a lively scene of puppies playing in a room.",
+    "objects": [
+      "see",
+      "this",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a lively scene of puppies playing in a room.",
+    "objects": [
+      "see",
+      "this",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a lively scene of puppies playing in a room.",
+    "objects": [
+      "see",
+      "this",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a lively scene of puppies playing in a room.",
+    "objects": [
+      "see",
+      "this",
+      "room",
+      "lively"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "There are four puppies in total, with two black puppies and two brown puppies.",
+    "objects": [
+      "two",
+      "four",
+      "there",
+      "total",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "puppies"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "There are four puppies in total, with two black puppies and two brown puppies.",
+    "objects": [
+      "two",
+      "four",
+      "there",
+      "total",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "puppies"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "There are four puppies in total, with two black puppies and two brown puppies.",
+    "objects": [
+      "two",
+      "four",
+      "there",
+      "total",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "puppies"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "There are four puppies in total, with two black puppies and two brown puppies.",
+    "objects": [
+      "two",
+      "four",
+      "there",
+      "total",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "puppies"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The black puppies are playing with each other, while the brown puppies are playing separately.",
+    "objects": [
+      "separately",
+      "each",
+      "while",
+      "other",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The black puppies are playing with each other, while the brown puppies are playing separately.",
+    "objects": [
+      "separately",
+      "each",
+      "while",
+      "other",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The black puppies are playing with each other, while the brown puppies are playing separately.",
+    "objects": [
+      "separately",
+      "each",
+      "while",
+      "other",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The black puppies are playing with each other, while the brown puppies are playing separately.",
+    "objects": [
+      "separately",
+      "each",
+      "while",
+      "other",
+      "black",
+      "brown"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The black puppies are wearing blue hoodies and one of them is holding a blue ball.",
+    "objects": [
+      "blue",
+      "ball",
+      "one",
+      "them",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hoodies",
+      "puppies"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The black puppies are wearing blue hoodies and one of them is holding a blue ball.",
+    "objects": [
+      "blue",
+      "ball",
+      "one",
+      "them",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hoodies",
+      "puppies"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The black puppies are wearing blue hoodies and one of them is holding a blue ball.",
+    "objects": [
+      "blue",
+      "ball",
+      "one",
+      "them",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hoodies",
+      "puppies"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The black puppies are wearing blue hoodies and one of them is holding a blue ball.",
+    "objects": [
+      "blue",
+      "ball",
+      "one",
+      "them",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "hoodies",
+      "puppies"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The brown puppies are not wearing any clothes but are playing with a pink toy.",
+    "objects": [
+      "pink",
+      "toy",
+      "but",
+      "not",
+      "brown",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "clothes",
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The brown puppies are not wearing any clothes but are playing with a pink toy.",
+    "objects": [
+      "pink",
+      "toy",
+      "but",
+      "not",
+      "brown",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "clothes",
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The brown puppies are not wearing any clothes but are playing with a pink toy.",
+    "objects": [
+      "pink",
+      "toy",
+      "but",
+      "not",
+      "brown",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "clothes",
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The brown puppies are not wearing any clothes but are playing with a pink toy.",
+    "objects": [
+      "pink",
+      "toy",
+      "but",
+      "not",
+      "brown",
+      "any"
+    ],
+    "actions": [
+      "wearing",
+      "clothes",
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "One of the brown puppies is also holding a pink toy.",
+    "objects": [
+      "pink",
+      "one",
+      "brown",
+      "toy"
+    ],
+    "actions": [
+      "holding",
+      "puppies"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "One of the brown puppies is also holding a pink toy.",
+    "objects": [
+      "pink",
+      "one",
+      "brown",
+      "toy"
+    ],
+    "actions": [
+      "holding",
+      "puppies"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "One of the brown puppies is also holding a pink toy.",
+    "objects": [
+      "pink",
+      "one",
+      "brown",
+      "toy"
+    ],
+    "actions": [
+      "holding",
+      "puppies"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "One of the brown puppies is also holding a pink toy.",
+    "objects": [
+      "pink",
+      "one",
+      "brown",
+      "toy"
+    ],
+    "actions": [
+      "holding",
+      "puppies"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The room is well-lit, and there is a rug on the floor where the puppies are playing.",
+    "objects": [
+      "room",
+      "there",
+      "where",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The room is well-lit, and there is a rug on the floor where the puppies are playing.",
+    "objects": [
+      "room",
+      "there",
+      "where",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The room is well-lit, and there is a rug on the floor where the puppies are playing.",
+    "objects": [
+      "room",
+      "there",
+      "where",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The room is well-lit, and there is a rug on the floor where the puppies are playing.",
+    "objects": [
+      "room",
+      "there",
+      "where",
+      "floor",
+      "rug"
+    ],
+    "actions": [
+      "playing",
+      "puppies"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The puppies are full of energy, with their tails wagging and their mouths open as they play, and they are making adorable sounds.",
+    "objects": [
+      "open",
+      "full",
+      "energy",
+      "play",
+      "adorable",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "mouths",
+      "wagging",
+      "puppies",
+      "sounds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The puppies are full of energy, with their tails wagging and their mouths open as they play, and they are making adorable sounds.",
+    "objects": [
+      "open",
+      "full",
+      "energy",
+      "play",
+      "adorable",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "mouths",
+      "wagging",
+      "puppies",
+      "sounds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The puppies are full of energy, with their tails wagging and their mouths open as they play, and they are making adorable sounds.",
+    "objects": [
+      "open",
+      "full",
+      "energy",
+      "play",
+      "adorable",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "mouths",
+      "wagging",
+      "puppies",
+      "sounds"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The puppies are full of energy, with their tails wagging and their mouths open as they play, and they are making adorable sounds.",
+    "objects": [
+      "open",
+      "full",
+      "energy",
+      "play",
+      "adorable",
+      "their",
+      "they"
+    ],
+    "actions": [
+      "mouths",
+      "wagging",
+      "puppies",
+      "sounds"
+    ],
+    "segment_id": 7
+  }
+]

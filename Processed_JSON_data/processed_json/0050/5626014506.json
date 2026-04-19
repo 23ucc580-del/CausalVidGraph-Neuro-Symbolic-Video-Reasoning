@@ -1,0 +1,618 @@
+[
+  {
+    "frame_id": 0,
+    "description": "This video depicts a group of men working on bicycles in a garage-like setting.",
+    "objects": [
+      "men",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "bicycles",
+      "setting",
+      "depicts",
+      "working"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "This video depicts a group of men working on bicycles in a garage-like setting.",
+    "objects": [
+      "men",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "bicycles",
+      "setting",
+      "depicts",
+      "working"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene is filled with a sense of camaraderie and teamwork as they collaborate to repair and maintain the bikes.",
+    "objects": [
+      "sense",
+      "repair",
+      "teamwork",
+      "maintain",
+      "they",
+      "collaborate",
+      "camaraderie"
+    ],
+    "actions": [
+      "filled",
+      "bikes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is filled with a sense of camaraderie and teamwork as they collaborate to repair and maintain the bikes.",
+    "objects": [
+      "sense",
+      "repair",
+      "teamwork",
+      "maintain",
+      "they",
+      "collaborate",
+      "camaraderie"
+    ],
+    "actions": [
+      "filled",
+      "bikes"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "Scene 1: Two men are standing close together, engaged in conversation, possibly discussing the repair process.",
+    "objects": [
+      "possibly",
+      "repair",
+      "two",
+      "together",
+      "conversation",
+      "men",
+      "close"
+    ],
+    "actions": [
+      "standing",
+      "process",
+      "discussing",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "Scene 1: Two men are standing close together, engaged in conversation, possibly discussing the repair process.",
+    "objects": [
+      "possibly",
+      "repair",
+      "two",
+      "together",
+      "conversation",
+      "men",
+      "close"
+    ],
+    "actions": [
+      "standing",
+      "process",
+      "discussing",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "One is wearing a blue shirt and the other is in a white shirt, and they are both focused on the task at hand.",
+    "objects": [
+      "white",
+      "other",
+      "blue",
+      "both",
+      "hand",
+      "one",
+      "they",
+      "shirt"
+    ],
+    "actions": [
+      "focused",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "One is wearing a blue shirt and the other is in a white shirt, and they are both focused on the task at hand.",
+    "objects": [
+      "white",
+      "other",
+      "blue",
+      "both",
+      "hand",
+      "one",
+      "they",
+      "shirt"
+    ],
+    "actions": [
+      "focused",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "Scene 2: A man is seated on a bike, possibly supervising the work or waiting for his turn to contribute.",
+    "objects": [
+      "bike",
+      "man",
+      "possibly",
+      "turn",
+      "work",
+      "his",
+      "contribute"
+    ],
+    "actions": [
+      "waiting",
+      "seated",
+      "supervising"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "Scene 2: A man is seated on a bike, possibly supervising the work or waiting for his turn to contribute.",
+    "objects": [
+      "bike",
+      "man",
+      "possibly",
+      "turn",
+      "work",
+      "his",
+      "contribute"
+    ],
+    "actions": [
+      "waiting",
+      "seated",
+      "supervising"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "He is wearing a red shirt and has a watch on his left wrist.",
+    "objects": [
+      "has",
+      "watch",
+      "shirt",
+      "wrist",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "He is wearing a red shirt and has a watch on his left wrist.",
+    "objects": [
+      "has",
+      "watch",
+      "shirt",
+      "wrist",
+      "his"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Scene 3: Two men are kneeling in front of a bike, presumably the one that's being worked on, with one man in a white shirt and the other in a black shirt.",
+    "objects": [
+      "bike",
+      "man",
+      "white",
+      "two",
+      "other",
+      "one",
+      "presumably",
+      "men"
+    ],
+    "actions": [
+      "worked",
+      "kneeling",
+      "that's",
+      "being"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Scene 3: Two men are kneeling in front of a bike, presumably the one that's being worked on, with one man in a white shirt and the other in a black shirt.",
+    "objects": [
+      "bike",
+      "man",
+      "white",
+      "two",
+      "other",
+      "one",
+      "presumably",
+      "men"
+    ],
+    "actions": [
+      "worked",
+      "kneeling",
+      "that's",
+      "being"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "They are holding tools and are deeply involved in the repair work.",
+    "objects": [
+      "deeply",
+      "work",
+      "they",
+      "repair"
+    ],
+    "actions": [
+      "tools",
+      "holding",
+      "involved"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "They are holding tools and are deeply involved in the repair work.",
+    "objects": [
+      "deeply",
+      "work",
+      "they",
+      "repair"
+    ],
+    "actions": [
+      "tools",
+      "holding",
+      "involved"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "Scene 4: Two men are working on a bike with a man in a white shirt sitting on it, and another man in a red shirt is standing nearby, also involved in the process.",
+    "objects": [
+      "bike",
+      "man",
+      "white",
+      "two",
+      "nearby",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "process",
+      "working",
+      "involved",
+      "sitting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "Scene 4: Two men are working on a bike with a man in a white shirt sitting on it, and another man in a red shirt is standing nearby, also involved in the process.",
+    "objects": [
+      "bike",
+      "man",
+      "white",
+      "two",
+      "nearby",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "process",
+      "working",
+      "involved",
+      "sitting"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "Scene 5: Two men are kneeling in front of a bike, with one in a white shirt and the other in a black shirt, focused on the repair.",
+    "objects": [
+      "bike",
+      "white",
+      "repair",
+      "two",
+      "other",
+      "one",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "focused",
+      "kneeling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "Scene 5: Two men are kneeling in front of a bike, with one in a white shirt and the other in a black shirt, focused on the repair.",
+    "objects": [
+      "bike",
+      "white",
+      "repair",
+      "two",
+      "other",
+      "one",
+      "shirt",
+      "men"
+    ],
+    "actions": [
+      "focused",
+      "kneeling"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "Scene 6: A man in a white shirt is sitting on a bike, possibly observing or waiting, and another man in a red shirt is standing next to him, also engaged in the repair.",
+    "objects": [
+      "bike",
+      "white",
+      "man",
+      "him",
+      "repair",
+      "shirt",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "sitting",
+      "red",
+      "standing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "Scene 6: A man in a white shirt is sitting on a bike, possibly observing or waiting, and another man in a red shirt is standing next to him, also engaged in the repair.",
+    "objects": [
+      "bike",
+      "white",
+      "man",
+      "him",
+      "repair",
+      "shirt",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "sitting",
+      "red",
+      "standing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "Scene 7: Two men are kneeling in front of a bike, with one in a white shirt and the other in a black shirt, both holding tools and immersed in the repair.",
+    "objects": [
+      "bike",
+      "white",
+      "repair",
+      "two",
+      "other",
+      "both",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "tools",
+      "holding",
+      "kneeling",
+      "immersed"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "Scene 7: Two men are kneeling in front of a bike, with one in a white shirt and the other in a black shirt, both holding tools and immersed in the repair.",
+    "objects": [
+      "bike",
+      "white",
+      "repair",
+      "two",
+      "other",
+      "both",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "tools",
+      "holding",
+      "kneeling",
+      "immersed"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "Scene 8: Two men are working on a bike, with one in a white shirt sitting on it and the other in a black shirt standing nearby, both deeply involved in the repair.",
+    "objects": [
+      "deeply",
+      "bike",
+      "white",
+      "repair",
+      "two",
+      "other",
+      "both",
+      "one"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "working",
+      "involved"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "Scene 8: Two men are working on a bike, with one in a white shirt sitting on it and the other in a black shirt standing nearby, both deeply involved in the repair.",
+    "objects": [
+      "deeply",
+      "bike",
+      "white",
+      "repair",
+      "two",
+      "other",
+      "both",
+      "one"
+    ],
+    "actions": [
+      "sitting",
+      "standing",
+      "working",
+      "involved"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "Scene 9: Two men are kneeling in front of a bike, with one in a white shirt and the other in a black shirt, both holding tools and focused on the repair.",
+    "objects": [
+      "bike",
+      "white",
+      "repair",
+      "two",
+      "other",
+      "both",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "tools",
+      "holding",
+      "kneeling",
+      "focused"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "Scene 9: Two men are kneeling in front of a bike, with one in a white shirt and the other in a black shirt, both holding tools and focused on the repair.",
+    "objects": [
+      "bike",
+      "white",
+      "repair",
+      "two",
+      "other",
+      "both",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "tools",
+      "holding",
+      "kneeling",
+      "focused"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Scene 10: A man in a white shirt is sitting on a bike, observing or waiting, while another man in a red shirt stands nearby, also involved in the repair.",
+    "objects": [
+      "bike",
+      "white",
+      "man",
+      "repair",
+      "while",
+      "nearby",
+      "shirt"
+    ],
+    "actions": [
+      "observing",
+      "involved",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Scene 10: A man in a white shirt is sitting on a bike, observing or waiting, while another man in a red shirt stands nearby, also involved in the repair.",
+    "objects": [
+      "bike",
+      "white",
+      "man",
+      "repair",
+      "while",
+      "nearby",
+      "shirt"
+    ],
+    "actions": [
+      "observing",
+      "involved",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "Scene 111: Two men are kneeling in front of a bike, with one in a white shirt and the other in a black shirt, holding tools and deeply engaged in the repair.",
+    "objects": [
+      "deeply",
+      "bike",
+      "white",
+      "repair",
+      "two",
+      "other",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "tools",
+      "engaged",
+      "holding",
+      "kneeling"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "Scene 111: Two men are kneeling in front of a bike, with one in a white shirt and the other in a black shirt, holding tools and deeply engaged in the repair.",
+    "objects": [
+      "deeply",
+      "bike",
+      "white",
+      "repair",
+      "two",
+      "other",
+      "one",
+      "shirt"
+    ],
+    "actions": [
+      "tools",
+      "engaged",
+      "holding",
+      "kneeling"
+    ],
+    "segment_id": 15
+  }
+]

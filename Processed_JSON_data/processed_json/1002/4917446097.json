@@ -1,0 +1,578 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a lively scene at a wedding reception.",
+    "objects": [
+      "reception",
+      "lively"
+    ],
+    "actions": [
+      "wedding",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a lively scene at a wedding reception.",
+    "objects": [
+      "reception",
+      "lively"
+    ],
+    "actions": [
+      "wedding",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a lively scene at a wedding reception.",
+    "objects": [
+      "reception",
+      "lively"
+    ],
+    "actions": [
+      "wedding",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a lively scene at a wedding reception.",
+    "objects": [
+      "reception",
+      "lively"
+    ],
+    "actions": [
+      "wedding",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A group of people, dressed in formal attire, are seen dancing and celebrating.",
+    "objects": [
+      "attire",
+      "formal",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "celebrating",
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A group of people, dressed in formal attire, are seen dancing and celebrating.",
+    "objects": [
+      "attire",
+      "formal",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "celebrating",
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A group of people, dressed in formal attire, are seen dancing and celebrating.",
+    "objects": [
+      "attire",
+      "formal",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "celebrating",
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A group of people, dressed in formal attire, are seen dancing and celebrating.",
+    "objects": [
+      "attire",
+      "formal",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "celebrating",
+      "dancing",
+      "dressed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The music is upbeat and energetic, filling the room with joyous sounds.",
+    "objects": [
+      "room",
+      "music",
+      "energetic",
+      "upbeat"
+    ],
+    "actions": [
+      "sounds",
+      "joyous",
+      "filling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The music is upbeat and energetic, filling the room with joyous sounds.",
+    "objects": [
+      "room",
+      "music",
+      "energetic",
+      "upbeat"
+    ],
+    "actions": [
+      "sounds",
+      "joyous",
+      "filling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The music is upbeat and energetic, filling the room with joyous sounds.",
+    "objects": [
+      "room",
+      "music",
+      "energetic",
+      "upbeat"
+    ],
+    "actions": [
+      "sounds",
+      "joyous",
+      "filling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The music is upbeat and energetic, filling the room with joyous sounds.",
+    "objects": [
+      "room",
+      "music",
+      "energetic",
+      "upbeat"
+    ],
+    "actions": [
+      "sounds",
+      "joyous",
+      "filling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "One woman, wearing a blue dress, is dancing energetically, her arms raised in the air, as if she's singing along to the music.",
+    "objects": [
+      "one",
+      "arms",
+      "air",
+      "along",
+      "woman",
+      "energetically",
+      "blue",
+      "her"
+    ],
+    "actions": [
+      "raised",
+      "wearing",
+      "she's",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "One woman, wearing a blue dress, is dancing energetically, her arms raised in the air, as if she's singing along to the music.",
+    "objects": [
+      "one",
+      "arms",
+      "air",
+      "along",
+      "woman",
+      "energetically",
+      "blue",
+      "her"
+    ],
+    "actions": [
+      "raised",
+      "wearing",
+      "she's",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "One woman, wearing a blue dress, is dancing energetically, her arms raised in the air, as if she's singing along to the music.",
+    "objects": [
+      "one",
+      "arms",
+      "air",
+      "along",
+      "woman",
+      "energetically",
+      "blue",
+      "her"
+    ],
+    "actions": [
+      "raised",
+      "wearing",
+      "she's",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "One woman, wearing a blue dress, is dancing energetically, her arms raised in the air, as if she's singing along to the music.",
+    "objects": [
+      "one",
+      "arms",
+      "air",
+      "along",
+      "woman",
+      "energetically",
+      "blue",
+      "her"
+    ],
+    "actions": [
+      "raised",
+      "wearing",
+      "she's",
+      "singing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A young boy, wearing a blue dress, is standing near her, watching her dance with wide-eyed wonder.",
+    "objects": [
+      "boy",
+      "blue",
+      "dress",
+      "her",
+      "dance",
+      "young",
+      "wonder"
+    ],
+    "actions": [
+      "wearing",
+      "wide-eyed",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A young boy, wearing a blue dress, is standing near her, watching her dance with wide-eyed wonder.",
+    "objects": [
+      "boy",
+      "blue",
+      "dress",
+      "her",
+      "dance",
+      "young",
+      "wonder"
+    ],
+    "actions": [
+      "wearing",
+      "wide-eyed",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A young boy, wearing a blue dress, is standing near her, watching her dance with wide-eyed wonder.",
+    "objects": [
+      "boy",
+      "blue",
+      "dress",
+      "her",
+      "dance",
+      "young",
+      "wonder"
+    ],
+    "actions": [
+      "wearing",
+      "wide-eyed",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A young boy, wearing a blue dress, is standing near her, watching her dance with wide-eyed wonder.",
+    "objects": [
+      "boy",
+      "blue",
+      "dress",
+      "her",
+      "dance",
+      "young",
+      "wonder"
+    ],
+    "actions": [
+      "wearing",
+      "wide-eyed",
+      "watching",
+      "standing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Another woman in a pink dress is dancing, her body swaying to the rhythm of the music.",
+    "objects": [
+      "body",
+      "pink",
+      "woman",
+      "rhythm",
+      "her",
+      "dress",
+      "music"
+    ],
+    "actions": [
+      "dancing",
+      "swaying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Another woman in a pink dress is dancing, her body swaying to the rhythm of the music.",
+    "objects": [
+      "body",
+      "pink",
+      "woman",
+      "rhythm",
+      "her",
+      "dress",
+      "music"
+    ],
+    "actions": [
+      "dancing",
+      "swaying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Another woman in a pink dress is dancing, her body swaying to the rhythm of the music.",
+    "objects": [
+      "body",
+      "pink",
+      "woman",
+      "rhythm",
+      "her",
+      "dress",
+      "music"
+    ],
+    "actions": [
+      "dancing",
+      "swaying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Another woman in a pink dress is dancing, her body swaying to the rhythm of the music.",
+    "objects": [
+      "body",
+      "pink",
+      "woman",
+      "rhythm",
+      "her",
+      "dress",
+      "music"
+    ],
+    "actions": [
+      "dancing",
+      "swaying"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "A man in a white shirt and black pants is standing nearby, holding a glass of champagne, perhaps toasting the newlyweds.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "champagne",
+      "man",
+      "nearby",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding",
+      "newlyweds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "A man in a white shirt and black pants is standing nearby, holding a glass of champagne, perhaps toasting the newlyweds.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "champagne",
+      "man",
+      "nearby",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding",
+      "newlyweds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "A man in a white shirt and black pants is standing nearby, holding a glass of champagne, perhaps toasting the newlyweds.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "champagne",
+      "man",
+      "nearby",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding",
+      "newlyweds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "A man in a white shirt and black pants is standing nearby, holding a glass of champagne, perhaps toasting the newlyweds.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "champagne",
+      "man",
+      "nearby",
+      "glass"
+    ],
+    "actions": [
+      "standing",
+      "pants",
+      "holding",
+      "newlyweds"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "A man in a white shirt is also dancing, his body in motion, and a woman in a red dress is also dancing, her movements fluid.",
+    "objects": [
+      "motion",
+      "body",
+      "white",
+      "woman",
+      "shirt",
+      "dress",
+      "her",
+      "his"
+    ],
+    "actions": [
+      "dancing",
+      "movements",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "A man in a white shirt is also dancing, his body in motion, and a woman in a red dress is also dancing, her movements fluid.",
+    "objects": [
+      "motion",
+      "body",
+      "white",
+      "woman",
+      "shirt",
+      "dress",
+      "her",
+      "his"
+    ],
+    "actions": [
+      "dancing",
+      "movements",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "A man in a white shirt is also dancing, his body in motion, and a woman in a red dress is also dancing, her movements fluid.",
+    "objects": [
+      "motion",
+      "body",
+      "white",
+      "woman",
+      "shirt",
+      "dress",
+      "her",
+      "his"
+    ],
+    "actions": [
+      "dancing",
+      "movements",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "A man in a white shirt is also dancing, his body in motion, and a woman in a red dress is also dancing, her movements fluid.",
+    "objects": [
+      "motion",
+      "body",
+      "white",
+      "woman",
+      "shirt",
+      "dress",
+      "her",
+      "his"
+    ],
+    "actions": [
+      "dancing",
+      "movements",
+      "red"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people cycling on a city street.",
+    "objects": [
+      "people",
+      "street",
+      "see",
+      "city",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "cycling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people cycling on a city street.",
+    "objects": [
+      "people",
+      "street",
+      "see",
+      "city",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "cycling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people cycling on a city street.",
+    "objects": [
+      "people",
+      "street",
+      "see",
+      "city",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "cycling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a group of people cycling on a city street.",
+    "objects": [
+      "people",
+      "street",
+      "see",
+      "city",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "cycling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One person is prominently wearing a blue hoodie and has a backpack on their back.",
+    "objects": [
+      "one",
+      "their",
+      "prominently",
+      "blue",
+      "has",
+      "hoodie",
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One person is prominently wearing a blue hoodie and has a backpack on their back.",
+    "objects": [
+      "one",
+      "their",
+      "prominently",
+      "blue",
+      "has",
+      "hoodie",
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One person is prominently wearing a blue hoodie and has a backpack on their back.",
+    "objects": [
+      "one",
+      "their",
+      "prominently",
+      "blue",
+      "has",
+      "hoodie",
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One person is prominently wearing a blue hoodie and has a backpack on their back.",
+    "objects": [
+      "one",
+      "their",
+      "prominently",
+      "blue",
+      "has",
+      "hoodie",
+      "backpack"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another person is wearing a green hoodie and has a bag on their back.",
+    "objects": [
+      "their",
+      "green",
+      "has",
+      "bag",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another person is wearing a green hoodie and has a bag on their back.",
+    "objects": [
+      "their",
+      "green",
+      "has",
+      "bag",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another person is wearing a green hoodie and has a bag on their back.",
+    "objects": [
+      "their",
+      "green",
+      "has",
+      "bag",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another person is wearing a green hoodie and has a bag on their back.",
+    "objects": [
+      "their",
+      "green",
+      "has",
+      "bag",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "There is a person riding a bicycle with a red hoodie and a bag on their back.",
+    "objects": [
+      "their",
+      "there",
+      "bag",
+      "hoodie",
+      "bicycle"
+    ],
+    "actions": [
+      "red",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "There is a person riding a bicycle with a red hoodie and a bag on their back.",
+    "objects": [
+      "their",
+      "there",
+      "bag",
+      "hoodie",
+      "bicycle"
+    ],
+    "actions": [
+      "red",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "There is a person riding a bicycle with a red hoodie and a bag on their back.",
+    "objects": [
+      "their",
+      "there",
+      "bag",
+      "hoodie",
+      "bicycle"
+    ],
+    "actions": [
+      "red",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "There is a person riding a bicycle with a red hoodie and a bag on their back.",
+    "objects": [
+      "their",
+      "there",
+      "bag",
+      "hoodie",
+      "bicycle"
+    ],
+    "actions": [
+      "red",
+      "riding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Additionally, there is a person with a yellow hoodie and a red backpack.",
+    "objects": [
+      "there",
+      "yellow",
+      "hoodie",
+      "additionally",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Additionally, there is a person with a yellow hoodie and a red backpack.",
+    "objects": [
+      "there",
+      "yellow",
+      "hoodie",
+      "additionally",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Additionally, there is a person with a yellow hoodie and a red backpack.",
+    "objects": [
+      "there",
+      "yellow",
+      "hoodie",
+      "additionally",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Additionally, there is a person with a yellow hoodie and a red backpack.",
+    "objects": [
+      "there",
+      "yellow",
+      "hoodie",
+      "additionally",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "There is a person in a blue shirt who is walking and another in a white shirt and black hat.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "There is a person in a blue shirt who is walking and another in a white shirt and black hat.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "There is a person in a blue shirt who is walking and another in a white shirt and black hat.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "There is a person in a blue shirt who is walking and another in a white shirt and black hat.",
+    "objects": [
+      "there",
+      "white",
+      "black",
+      "blue",
+      "shirt",
+      "who",
+      "hat"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "One person is in a pink shirt and has a red backpack.",
+    "objects": [
+      "one",
+      "pink",
+      "has",
+      "shirt",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "One person is in a pink shirt and has a red backpack.",
+    "objects": [
+      "one",
+      "pink",
+      "has",
+      "shirt",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "One person is in a pink shirt and has a red backpack.",
+    "objects": [
+      "one",
+      "pink",
+      "has",
+      "shirt",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "One person is in a pink shirt and has a red backpack.",
+    "objects": [
+      "one",
+      "pink",
+      "has",
+      "shirt",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "There is also a person in a black hat and a blue shirt, as well as a person in a red shirt and a red backpack.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "well",
+      "hat",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "There is also a person in a black hat and a blue shirt, as well as a person in a red shirt and a red backpack.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "well",
+      "hat",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "There is also a person in a black hat and a blue shirt, as well as a person in a red shirt and a red backpack.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "well",
+      "hat",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "There is also a person in a black hat and a blue shirt, as well as a person in a red shirt and a red backpack.",
+    "objects": [
+      "there",
+      "black",
+      "blue",
+      "shirt",
+      "well",
+      "hat",
+      "backpack"
+    ],
+    "actions": [
+      "red"
+    ],
+    "segment_id": 7
+  }
+]

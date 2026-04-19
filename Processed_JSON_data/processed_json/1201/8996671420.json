@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a scene in a bustling airport terminal.",
+    "objects": [
+      "airport",
+      "terminal"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a scene in a bustling airport terminal.",
+    "objects": [
+      "airport",
+      "terminal"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a scene in a bustling airport terminal.",
+    "objects": [
+      "airport",
+      "terminal"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a scene in a bustling airport terminal.",
+    "objects": [
+      "airport",
+      "terminal"
+    ],
+    "actions": [
+      "bustling"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The main focus is on a man walking down a corridor, carrying a backpack and a black bag over his shoulder.",
+    "objects": [
+      "corridor",
+      "main",
+      "man",
+      "over",
+      "bag",
+      "his",
+      "shoulder",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "walking",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The main focus is on a man walking down a corridor, carrying a backpack and a black bag over his shoulder.",
+    "objects": [
+      "corridor",
+      "main",
+      "man",
+      "over",
+      "bag",
+      "his",
+      "shoulder",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "walking",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The main focus is on a man walking down a corridor, carrying a backpack and a black bag over his shoulder.",
+    "objects": [
+      "corridor",
+      "main",
+      "man",
+      "over",
+      "bag",
+      "his",
+      "shoulder",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "walking",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The main focus is on a man walking down a corridor, carrying a backpack and a black bag over his shoulder.",
+    "objects": [
+      "corridor",
+      "main",
+      "man",
+      "over",
+      "bag",
+      "his",
+      "shoulder",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "walking",
+      "focus"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is wearing a blue hoodie and is seen smiling.",
+    "objects": [
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is wearing a blue hoodie and is seen smiling.",
+    "objects": [
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is wearing a blue hoodie and is seen smiling.",
+    "objects": [
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is wearing a blue hoodie and is seen smiling.",
+    "objects": [
+      "blue",
+      "hoodie"
+    ],
+    "actions": [
+      "smiling",
+      "wearing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another man in a blue shirt is walking in the opposite direction, also carrying a backpack.",
+    "objects": [
+      "direction",
+      "blue",
+      "man",
+      "shirt",
+      "opposite",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another man in a blue shirt is walking in the opposite direction, also carrying a backpack.",
+    "objects": [
+      "direction",
+      "blue",
+      "man",
+      "shirt",
+      "opposite",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another man in a blue shirt is walking in the opposite direction, also carrying a backpack.",
+    "objects": [
+      "direction",
+      "blue",
+      "man",
+      "shirt",
+      "opposite",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another man in a blue shirt is walking in the opposite direction, also carrying a backpack.",
+    "objects": [
+      "direction",
+      "blue",
+      "man",
+      "shirt",
+      "opposite",
+      "backpack"
+    ],
+    "actions": [
+      "carrying",
+      "walking"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The corridor is flanked by large advertisement screens on both sides, with the left one displaying an iPhone and the right one showing an advertisement.",
+    "objects": [
+      "large",
+      "iphone",
+      "corridor",
+      "both",
+      "one",
+      "advertisement"
+    ],
+    "actions": [
+      "displaying",
+      "flanked",
+      "sides",
+      "screens"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The corridor is flanked by large advertisement screens on both sides, with the left one displaying an iPhone and the right one showing an advertisement.",
+    "objects": [
+      "large",
+      "iphone",
+      "corridor",
+      "both",
+      "one",
+      "advertisement"
+    ],
+    "actions": [
+      "displaying",
+      "flanked",
+      "sides",
+      "screens"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The corridor is flanked by large advertisement screens on both sides, with the left one displaying an iPhone and the right one showing an advertisement.",
+    "objects": [
+      "large",
+      "iphone",
+      "corridor",
+      "both",
+      "one",
+      "advertisement"
+    ],
+    "actions": [
+      "displaying",
+      "flanked",
+      "sides",
+      "screens"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The corridor is flanked by large advertisement screens on both sides, with the left one displaying an iPhone and the right one showing an advertisement.",
+    "objects": [
+      "large",
+      "iphone",
+      "corridor",
+      "both",
+      "one",
+      "advertisement"
+    ],
+    "actions": [
+      "displaying",
+      "flanked",
+      "sides",
+      "screens"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man in the blue hoodie is walking on the right side of the corridor, while the man in the blue shirt is on the left side.",
+    "objects": [
+      "blue",
+      "corridor",
+      "man",
+      "while",
+      "side",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man in the blue hoodie is walking on the right side of the corridor, while the man in the blue shirt is on the left side.",
+    "objects": [
+      "blue",
+      "corridor",
+      "man",
+      "while",
+      "side",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man in the blue hoodie is walking on the right side of the corridor, while the man in the blue shirt is on the left side.",
+    "objects": [
+      "blue",
+      "corridor",
+      "man",
+      "while",
+      "side",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man in the blue hoodie is walking on the right side of the corridor, while the man in the blue shirt is on the left side.",
+    "objects": [
+      "blue",
+      "corridor",
+      "man",
+      "while",
+      "side",
+      "shirt",
+      "hoodie"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There are other people in the background, also carrying bags and moving in different directions, adding to the hustle and bustle of the terminal.",
+    "objects": [
+      "different",
+      "terminal",
+      "hustle",
+      "other",
+      "bags",
+      "people",
+      "there",
+      "bustle"
+    ],
+    "actions": [
+      "directions",
+      "adding",
+      "carrying",
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There are other people in the background, also carrying bags and moving in different directions, adding to the hustle and bustle of the terminal.",
+    "objects": [
+      "different",
+      "terminal",
+      "hustle",
+      "other",
+      "bags",
+      "people",
+      "there",
+      "bustle"
+    ],
+    "actions": [
+      "directions",
+      "adding",
+      "carrying",
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There are other people in the background, also carrying bags and moving in different directions, adding to the hustle and bustle of the terminal.",
+    "objects": [
+      "different",
+      "terminal",
+      "hustle",
+      "other",
+      "bags",
+      "people",
+      "there",
+      "bustle"
+    ],
+    "actions": [
+      "directions",
+      "adding",
+      "carrying",
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There are other people in the background, also carrying bags and moving in different directions, adding to the hustle and bustle of the terminal.",
+    "objects": [
+      "different",
+      "terminal",
+      "hustle",
+      "other",
+      "bags",
+      "people",
+      "there",
+      "bustle"
+    ],
+    "actions": [
+      "directions",
+      "adding",
+      "carrying",
+      "moving"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The floor is tiled, and the overall scene is typical of an airport environment.",
+    "objects": [
+      "typical",
+      "airport",
+      "overall",
+      "floor",
+      "environment"
+    ],
+    "actions": [
+      "tiled"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The floor is tiled, and the overall scene is typical of an airport environment.",
+    "objects": [
+      "typical",
+      "airport",
+      "overall",
+      "floor",
+      "environment"
+    ],
+    "actions": [
+      "tiled"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The floor is tiled, and the overall scene is typical of an airport environment.",
+    "objects": [
+      "typical",
+      "airport",
+      "overall",
+      "floor",
+      "environment"
+    ],
+    "actions": [
+      "tiled"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The floor is tiled, and the overall scene is typical of an airport environment.",
+    "objects": [
+      "typical",
+      "airport",
+      "overall",
+      "floor",
+      "environment"
+    ],
+    "actions": [
+      "tiled"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,534 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered in a room, engaging in a musical activity.",
+    "objects": [
+      "activity",
+      "people",
+      "musical",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "engaging",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered in a room, engaging in a musical activity.",
+    "objects": [
+      "activity",
+      "people",
+      "musical",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "engaging",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are gathered in a room, engaging in a musical activity.",
+    "objects": [
+      "activity",
+      "people",
+      "musical",
+      "room",
+      "group"
+    ],
+    "actions": [
+      "engaging",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The room has a tiled floor, and the walls are adorned with decorative tiles.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "decorative"
+    ],
+    "actions": [
+      "tiled",
+      "adorned",
+      "walls",
+      "tiles"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room has a tiled floor, and the walls are adorned with decorative tiles.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "decorative"
+    ],
+    "actions": [
+      "tiled",
+      "adorned",
+      "walls",
+      "tiles"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room has a tiled floor, and the walls are adorned with decorative tiles.",
+    "objects": [
+      "room",
+      "floor",
+      "has",
+      "decorative"
+    ],
+    "actions": [
+      "tiled",
+      "adorned",
+      "walls",
+      "tiles"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The people are sitting on chairs and a bench, with some standing, and their attire includes casual clothing.",
+    "objects": [
+      "their",
+      "people",
+      "attire",
+      "casual",
+      "some",
+      "bench"
+    ],
+    "actions": [
+      "standing",
+      "includes",
+      "chairs",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The people are sitting on chairs and a bench, with some standing, and their attire includes casual clothing.",
+    "objects": [
+      "their",
+      "people",
+      "attire",
+      "casual",
+      "some",
+      "bench"
+    ],
+    "actions": [
+      "standing",
+      "includes",
+      "chairs",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The people are sitting on chairs and a bench, with some standing, and their attire includes casual clothing.",
+    "objects": [
+      "their",
+      "people",
+      "attire",
+      "casual",
+      "some",
+      "bench"
+    ],
+    "actions": [
+      "standing",
+      "includes",
+      "chairs",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man playing the drums is wearing a yellow shirt and shorts, while the woman behind him is dressed in a floral dress.",
+    "objects": [
+      "behind",
+      "woman",
+      "while",
+      "him",
+      "yellow",
+      "floral",
+      "shirt",
+      "dress"
+    ],
+    "actions": [
+      "drums",
+      "wearing",
+      "dressed",
+      "shorts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The man playing the drums is wearing a yellow shirt and shorts, while the woman behind him is dressed in a floral dress.",
+    "objects": [
+      "behind",
+      "woman",
+      "while",
+      "him",
+      "yellow",
+      "floral",
+      "shirt",
+      "dress"
+    ],
+    "actions": [
+      "drums",
+      "wearing",
+      "dressed",
+      "shorts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The man playing the drums is wearing a yellow shirt and shorts, while the woman behind him is dressed in a floral dress.",
+    "objects": [
+      "behind",
+      "woman",
+      "while",
+      "him",
+      "yellow",
+      "floral",
+      "shirt",
+      "dress"
+    ],
+    "actions": [
+      "drums",
+      "wearing",
+      "dressed",
+      "shorts"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman on the left is wearing a black top and shorts, and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "woman",
+      "black",
+      "green",
+      "shirt",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman on the left is wearing a black top and shorts, and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "woman",
+      "black",
+      "green",
+      "shirt",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman on the left is wearing a black top and shorts, and the woman on the right is wearing a green shirt.",
+    "objects": [
+      "woman",
+      "black",
+      "green",
+      "shirt",
+      "top"
+    ],
+    "actions": [
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The man on the left is holding a camera, and the woman on the right is holding a phone.",
+    "objects": [
+      "man",
+      "phone",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The man on the left is holding a camera, and the woman on the right is holding a phone.",
+    "objects": [
+      "man",
+      "phone",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The man on the left is holding a camera, and the woman on the right is holding a phone.",
+    "objects": [
+      "man",
+      "phone",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The man playing the drums is wearing a blue shirt.",
+    "objects": [
+      "man",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "drums"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The man playing the drums is wearing a blue shirt.",
+    "objects": [
+      "man",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "drums"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The man playing the drums is wearing a blue shirt.",
+    "objects": [
+      "man",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "playing",
+      "wearing",
+      "drums"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman standing on the right is wearing a skirt.",
+    "objects": [
+      "skirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman standing on the right is wearing a skirt.",
+    "objects": [
+      "skirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman standing on the right is wearing a skirt.",
+    "objects": [
+      "skirt",
+      "woman"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The man in the foreground is wearing a gray shirt and shorts, while the man standing next to him is wearing a white shirt.",
+    "objects": [
+      "white",
+      "while",
+      "him",
+      "shirt",
+      "gray",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The man in the foreground is wearing a gray shirt and shorts, while the man standing next to him is wearing a white shirt.",
+    "objects": [
+      "white",
+      "while",
+      "him",
+      "shirt",
+      "gray",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The man in the foreground is wearing a gray shirt and shorts, while the man standing next to him is wearing a white shirt.",
+    "objects": [
+      "white",
+      "while",
+      "him",
+      "shirt",
+      "gray",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The woman in the foreground is wearing a yellow shirt and shorts, and the woman standing behind her is wearing a black shirt.",
+    "objects": [
+      "behind",
+      "woman",
+      "black",
+      "yellow",
+      "shirt",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The woman in the foreground is wearing a yellow shirt and shorts, and the woman standing behind her is wearing a black shirt.",
+    "objects": [
+      "behind",
+      "woman",
+      "black",
+      "yellow",
+      "shirt",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The woman in the foreground is wearing a yellow shirt and shorts, and the woman standing behind her is wearing a black shirt.",
+    "objects": [
+      "behind",
+      "woman",
+      "black",
+      "yellow",
+      "shirt",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "shorts"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The woman sitting next to her is wearing a red shirt and a black skirt.",
+    "objects": [
+      "woman",
+      "black",
+      "shirt",
+      "skirt",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The woman sitting next to her is wearing a red shirt and a black skirt.",
+    "objects": [
+      "woman",
+      "black",
+      "shirt",
+      "skirt",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "red"
+    ],
+    "segment_id": 10
+  }
+]

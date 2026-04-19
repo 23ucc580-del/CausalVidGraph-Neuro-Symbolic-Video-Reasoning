@@ -1,0 +1,506 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a cyclist is seen riding down a wooded path.",
+    "objects": [
+      "cyclist",
+      "path"
+    ],
+    "actions": [
+      "wooded",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a cyclist is seen riding down a wooded path.",
+    "objects": [
+      "cyclist",
+      "path"
+    ],
+    "actions": [
+      "wooded",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a cyclist is seen riding down a wooded path.",
+    "objects": [
+      "cyclist",
+      "path"
+    ],
+    "actions": [
+      "wooded",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a cyclist is seen riding down a wooded path.",
+    "objects": [
+      "cyclist",
+      "path"
+    ],
+    "actions": [
+      "wooded",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The cyclist is wearing a white shirt and blue shorts, and is holding a black water bottle in their right hand.",
+    "objects": [
+      "their",
+      "cyclist",
+      "white",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The cyclist is wearing a white shirt and blue shorts, and is holding a black water bottle in their right hand.",
+    "objects": [
+      "their",
+      "cyclist",
+      "white",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The cyclist is wearing a white shirt and blue shorts, and is holding a black water bottle in their right hand.",
+    "objects": [
+      "their",
+      "cyclist",
+      "white",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The cyclist is wearing a white shirt and blue shorts, and is holding a black water bottle in their right hand.",
+    "objects": [
+      "their",
+      "cyclist",
+      "white",
+      "black",
+      "blue",
+      "bottle",
+      "shirt",
+      "water"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "shorts"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The cyclist is pedaling along the path, which is surrounded by lush greenery with trees on both sides.",
+    "objects": [
+      "along",
+      "cyclist",
+      "greenery",
+      "both",
+      "path",
+      "lush",
+      "which"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "sides",
+      "pedaling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The cyclist is pedaling along the path, which is surrounded by lush greenery with trees on both sides.",
+    "objects": [
+      "along",
+      "cyclist",
+      "greenery",
+      "both",
+      "path",
+      "lush",
+      "which"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "sides",
+      "pedaling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The cyclist is pedaling along the path, which is surrounded by lush greenery with trees on both sides.",
+    "objects": [
+      "along",
+      "cyclist",
+      "greenery",
+      "both",
+      "path",
+      "lush",
+      "which"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "sides",
+      "pedaling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The cyclist is pedaling along the path, which is surrounded by lush greenery with trees on both sides.",
+    "objects": [
+      "along",
+      "cyclist",
+      "greenery",
+      "both",
+      "path",
+      "lush",
+      "which"
+    ],
+    "actions": [
+      "trees",
+      "surrounded",
+      "sides",
+      "pedaling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The path is unpaved and appears to be a dirt trail.",
+    "objects": [
+      "trail",
+      "path",
+      "dirt"
+    ],
+    "actions": [
+      "unpaved"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The path is unpaved and appears to be a dirt trail.",
+    "objects": [
+      "trail",
+      "path",
+      "dirt"
+    ],
+    "actions": [
+      "unpaved"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The path is unpaved and appears to be a dirt trail.",
+    "objects": [
+      "trail",
+      "path",
+      "dirt"
+    ],
+    "actions": [
+      "unpaved"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The path is unpaved and appears to be a dirt trail.",
+    "objects": [
+      "trail",
+      "path",
+      "dirt"
+    ],
+    "actions": [
+      "unpaved"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The cyclist's speed is moderate, and they are moving in the direction of the camera.",
+    "objects": [
+      "they",
+      "direction",
+      "moderate"
+    ],
+    "actions": [
+      "cyclist's",
+      "moving",
+      "speed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The cyclist's speed is moderate, and they are moving in the direction of the camera.",
+    "objects": [
+      "they",
+      "direction",
+      "moderate"
+    ],
+    "actions": [
+      "cyclist's",
+      "moving",
+      "speed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The cyclist's speed is moderate, and they are moving in the direction of the camera.",
+    "objects": [
+      "they",
+      "direction",
+      "moderate"
+    ],
+    "actions": [
+      "cyclist's",
+      "moving",
+      "speed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The cyclist's speed is moderate, and they are moving in the direction of the camera.",
+    "objects": [
+      "they",
+      "direction",
+      "moderate"
+    ],
+    "actions": [
+      "cyclist's",
+      "moving",
+      "speed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The lighting suggests it's daytime.",
+    "objects": [
+      "daytime"
+    ],
+    "actions": [
+      "lighting",
+      "suggests"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The lighting suggests it's daytime.",
+    "objects": [
+      "daytime"
+    ],
+    "actions": [
+      "lighting",
+      "suggests"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The lighting suggests it's daytime.",
+    "objects": [
+      "daytime"
+    ],
+    "actions": [
+      "lighting",
+      "suggests"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The lighting suggests it's daytime.",
+    "objects": [
+      "daytime"
+    ],
+    "actions": [
+      "lighting",
+      "suggests"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The cyclist seems to be enjoying the ride, as they smile and look relaxed.",
+    "objects": [
+      "they",
+      "cyclist",
+      "ride",
+      "look",
+      "smile"
+    ],
+    "actions": [
+      "seems",
+      "relaxed",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The cyclist seems to be enjoying the ride, as they smile and look relaxed.",
+    "objects": [
+      "they",
+      "cyclist",
+      "ride",
+      "look",
+      "smile"
+    ],
+    "actions": [
+      "seems",
+      "relaxed",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The cyclist seems to be enjoying the ride, as they smile and look relaxed.",
+    "objects": [
+      "they",
+      "cyclist",
+      "ride",
+      "look",
+      "smile"
+    ],
+    "actions": [
+      "seems",
+      "relaxed",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The cyclist seems to be enjoying the ride, as they smile and look relaxed.",
+    "objects": [
+      "they",
+      "cyclist",
+      "ride",
+      "look",
+      "smile"
+    ],
+    "actions": [
+      "seems",
+      "relaxed",
+      "enjoying"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The video provides a sense of the serene and peaceful environment of the natural setting.",
+    "objects": [
+      "natural",
+      "environment",
+      "serene",
+      "peaceful",
+      "sense"
+    ],
+    "actions": [
+      "provides",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The video provides a sense of the serene and peaceful environment of the natural setting.",
+    "objects": [
+      "natural",
+      "environment",
+      "serene",
+      "peaceful",
+      "sense"
+    ],
+    "actions": [
+      "provides",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The video provides a sense of the serene and peaceful environment of the natural setting.",
+    "objects": [
+      "natural",
+      "environment",
+      "serene",
+      "peaceful",
+      "sense"
+    ],
+    "actions": [
+      "provides",
+      "setting"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The video provides a sense of the serene and peaceful environment of the natural setting.",
+    "objects": [
+      "natural",
+      "environment",
+      "serene",
+      "peaceful",
+      "sense"
+    ],
+    "actions": [
+      "provides",
+      "setting"
+    ],
+    "segment_id": 7
+  }
+]

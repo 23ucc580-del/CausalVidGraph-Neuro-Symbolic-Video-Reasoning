@@ -1,0 +1,551 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a small tractor-like vehicle moving slowly through a thick snowfall, with a single occupant visible in the driver's seat.",
+    "objects": [
+      "occupant",
+      "small",
+      "single",
+      "slowly",
+      "vehicle",
+      "see",
+      "through",
+      "thick"
+    ],
+    "actions": [
+      "moving",
+      "driver's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a small tractor-like vehicle moving slowly through a thick snowfall, with a single occupant visible in the driver's seat.",
+    "objects": [
+      "occupant",
+      "small",
+      "single",
+      "slowly",
+      "vehicle",
+      "see",
+      "through",
+      "thick"
+    ],
+    "actions": [
+      "moving",
+      "driver's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a small tractor-like vehicle moving slowly through a thick snowfall, with a single occupant visible in the driver's seat.",
+    "objects": [
+      "occupant",
+      "small",
+      "single",
+      "slowly",
+      "vehicle",
+      "see",
+      "through",
+      "thick"
+    ],
+    "actions": [
+      "moving",
+      "driver's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a small tractor-like vehicle moving slowly through a thick snowfall, with a single occupant visible in the driver's seat.",
+    "objects": [
+      "occupant",
+      "small",
+      "single",
+      "slowly",
+      "vehicle",
+      "see",
+      "through",
+      "thick"
+    ],
+    "actions": [
+      "moving",
+      "driver's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, we see a small tractor-like vehicle moving slowly through a thick snowfall, with a single occupant visible in the driver's seat.",
+    "objects": [
+      "occupant",
+      "small",
+      "single",
+      "slowly",
+      "vehicle",
+      "see",
+      "through",
+      "thick"
+    ],
+    "actions": [
+      "moving",
+      "driver's"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "The vehicle is white with a blue hood and has a single-person seating arrangement.",
+    "objects": [
+      "arrangement",
+      "hood",
+      "white",
+      "blue",
+      "has",
+      "vehicle"
+    ],
+    "actions": [
+      "seating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The vehicle is white with a blue hood and has a single-person seating arrangement.",
+    "objects": [
+      "arrangement",
+      "hood",
+      "white",
+      "blue",
+      "has",
+      "vehicle"
+    ],
+    "actions": [
+      "seating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The vehicle is white with a blue hood and has a single-person seating arrangement.",
+    "objects": [
+      "arrangement",
+      "hood",
+      "white",
+      "blue",
+      "has",
+      "vehicle"
+    ],
+    "actions": [
+      "seating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The vehicle is white with a blue hood and has a single-person seating arrangement.",
+    "objects": [
+      "arrangement",
+      "hood",
+      "white",
+      "blue",
+      "has",
+      "vehicle"
+    ],
+    "actions": [
+      "seating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "The vehicle is white with a blue hood and has a single-person seating arrangement.",
+    "objects": [
+      "arrangement",
+      "hood",
+      "white",
+      "blue",
+      "has",
+      "vehicle"
+    ],
+    "actions": [
+      "seating"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "The driver is wearing a red hat and a blue jacket.",
+    "objects": [
+      "jacket",
+      "blue",
+      "driver",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The driver is wearing a red hat and a blue jacket.",
+    "objects": [
+      "jacket",
+      "blue",
+      "driver",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The driver is wearing a red hat and a blue jacket.",
+    "objects": [
+      "jacket",
+      "blue",
+      "driver",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "The driver is wearing a red hat and a blue jacket.",
+    "objects": [
+      "jacket",
+      "blue",
+      "driver",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "The driver is wearing a red hat and a blue jacket.",
+    "objects": [
+      "jacket",
+      "blue",
+      "driver",
+      "hat"
+    ],
+    "actions": [
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "As the vehicle approaches a small wooden building, the driver slows down and eventually comes to a stop.",
+    "objects": [
+      "stop",
+      "small",
+      "vehicle",
+      "eventually",
+      "wooden",
+      "driver"
+    ],
+    "actions": [
+      "building",
+      "slows",
+      "comes",
+      "approaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "As the vehicle approaches a small wooden building, the driver slows down and eventually comes to a stop.",
+    "objects": [
+      "stop",
+      "small",
+      "vehicle",
+      "eventually",
+      "wooden",
+      "driver"
+    ],
+    "actions": [
+      "building",
+      "slows",
+      "comes",
+      "approaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "As the vehicle approaches a small wooden building, the driver slows down and eventually comes to a stop.",
+    "objects": [
+      "stop",
+      "small",
+      "vehicle",
+      "eventually",
+      "wooden",
+      "driver"
+    ],
+    "actions": [
+      "building",
+      "slows",
+      "comes",
+      "approaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "As the vehicle approaches a small wooden building, the driver slows down and eventually comes to a stop.",
+    "objects": [
+      "stop",
+      "small",
+      "vehicle",
+      "eventually",
+      "wooden",
+      "driver"
+    ],
+    "actions": [
+      "building",
+      "slows",
+      "comes",
+      "approaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "As the vehicle approaches a small wooden building, the driver slows down and eventually comes to a stop.",
+    "objects": [
+      "stop",
+      "small",
+      "vehicle",
+      "eventually",
+      "wooden",
+      "driver"
+    ],
+    "actions": [
+      "building",
+      "slows",
+      "comes",
+      "approaches"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The building appears to be a wooden structure with a small roof and a door.",
+    "objects": [
+      "structure",
+      "small",
+      "roof",
+      "wooden",
+      "door"
+    ],
+    "actions": [
+      "building"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The building appears to be a wooden structure with a small roof and a door.",
+    "objects": [
+      "structure",
+      "small",
+      "roof",
+      "wooden",
+      "door"
+    ],
+    "actions": [
+      "building"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The building appears to be a wooden structure with a small roof and a door.",
+    "objects": [
+      "structure",
+      "small",
+      "roof",
+      "wooden",
+      "door"
+    ],
+    "actions": [
+      "building"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The building appears to be a wooden structure with a small roof and a door.",
+    "objects": [
+      "structure",
+      "small",
+      "roof",
+      "wooden",
+      "door"
+    ],
+    "actions": [
+      "building"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The building appears to be a wooden structure with a small roof and a door.",
+    "objects": [
+      "structure",
+      "small",
+      "roof",
+      "wooden",
+      "door"
+    ],
+    "actions": [
+      "building"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The snowfall is heavy and the vehicle is surrounded by a thick layer of snow, indicating a winter setting.",
+    "objects": [
+      "snow",
+      "heavy",
+      "vehicle",
+      "layer",
+      "winter",
+      "thick",
+      "snowfall"
+    ],
+    "actions": [
+      "surrounded",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The snowfall is heavy and the vehicle is surrounded by a thick layer of snow, indicating a winter setting.",
+    "objects": [
+      "snow",
+      "heavy",
+      "vehicle",
+      "layer",
+      "winter",
+      "thick",
+      "snowfall"
+    ],
+    "actions": [
+      "surrounded",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The snowfall is heavy and the vehicle is surrounded by a thick layer of snow, indicating a winter setting.",
+    "objects": [
+      "snow",
+      "heavy",
+      "vehicle",
+      "layer",
+      "winter",
+      "thick",
+      "snowfall"
+    ],
+    "actions": [
+      "surrounded",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The snowfall is heavy and the vehicle is surrounded by a thick layer of snow, indicating a winter setting.",
+    "objects": [
+      "snow",
+      "heavy",
+      "vehicle",
+      "layer",
+      "winter",
+      "thick",
+      "snowfall"
+    ],
+    "actions": [
+      "surrounded",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The snowfall is heavy and the vehicle is surrounded by a thick layer of snow, indicating a winter setting.",
+    "objects": [
+      "snow",
+      "heavy",
+      "vehicle",
+      "layer",
+      "winter",
+      "thick",
+      "snowfall"
+    ],
+    "actions": [
+      "surrounded",
+      "indicating",
+      "setting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The driver's focus seems to be on navigating the vehicle safely through the snowstorm.",
+    "objects": [
+      "safely",
+      "through",
+      "vehicle",
+      "snowstorm"
+    ],
+    "actions": [
+      "seems",
+      "navigating",
+      "driver's",
+      "focus"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The driver's focus seems to be on navigating the vehicle safely through the snowstorm.",
+    "objects": [
+      "safely",
+      "through",
+      "vehicle",
+      "snowstorm"
+    ],
+    "actions": [
+      "seems",
+      "navigating",
+      "driver's",
+      "focus"
+    ],
+    "segment_id": 6
+  }
+]

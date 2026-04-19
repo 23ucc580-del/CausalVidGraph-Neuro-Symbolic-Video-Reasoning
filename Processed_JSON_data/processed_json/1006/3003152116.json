@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a man and a cat sharing a cozy moment on a bed.",
+    "objects": [
+      "moment",
+      "see",
+      "cat",
+      "cozy",
+      "man"
+    ],
+    "actions": [
+      "sharing",
+      "bed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a man and a cat sharing a cozy moment on a bed.",
+    "objects": [
+      "moment",
+      "see",
+      "cat",
+      "cozy",
+      "man"
+    ],
+    "actions": [
+      "sharing",
+      "bed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a man and a cat sharing a cozy moment on a bed.",
+    "objects": [
+      "moment",
+      "see",
+      "cat",
+      "cozy",
+      "man"
+    ],
+    "actions": [
+      "sharing",
+      "bed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a man and a cat sharing a cozy moment on a bed.",
+    "objects": [
+      "moment",
+      "see",
+      "cat",
+      "cozy",
+      "man"
+    ],
+    "actions": [
+      "sharing",
+      "bed"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The man is wearing a white shirt and blue jeans, and the cat is gray with green eyes.",
+    "objects": [
+      "white",
+      "blue",
+      "green",
+      "shirt",
+      "gray",
+      "cat",
+      "man",
+      "eyes"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The man is wearing a white shirt and blue jeans, and the cat is gray with green eyes.",
+    "objects": [
+      "white",
+      "blue",
+      "green",
+      "shirt",
+      "gray",
+      "cat",
+      "man",
+      "eyes"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The man is wearing a white shirt and blue jeans, and the cat is gray with green eyes.",
+    "objects": [
+      "white",
+      "blue",
+      "green",
+      "shirt",
+      "gray",
+      "cat",
+      "man",
+      "eyes"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The man is wearing a white shirt and blue jeans, and the cat is gray with green eyes.",
+    "objects": [
+      "white",
+      "blue",
+      "green",
+      "shirt",
+      "gray",
+      "cat",
+      "man",
+      "eyes"
+    ],
+    "actions": [
+      "wearing",
+      "jeans"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The cat is sitting on the man's chest, and the man is petting the cat's head.",
+    "objects": [
+      "man",
+      "cat",
+      "head",
+      "chest"
+    ],
+    "actions": [
+      "petting",
+      "sitting",
+      "man's",
+      "cat's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The cat is sitting on the man's chest, and the man is petting the cat's head.",
+    "objects": [
+      "man",
+      "cat",
+      "head",
+      "chest"
+    ],
+    "actions": [
+      "petting",
+      "sitting",
+      "man's",
+      "cat's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The cat is sitting on the man's chest, and the man is petting the cat's head.",
+    "objects": [
+      "man",
+      "cat",
+      "head",
+      "chest"
+    ],
+    "actions": [
+      "petting",
+      "sitting",
+      "man's",
+      "cat's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The cat is sitting on the man's chest, and the man is petting the cat's head.",
+    "objects": [
+      "man",
+      "cat",
+      "head",
+      "chest"
+    ],
+    "actions": [
+      "petting",
+      "sitting",
+      "man's",
+      "cat's"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The cat seems to be enjoying the attention, as it is staring directly into the camera with a content expression.",
+    "objects": [
+      "content",
+      "attention",
+      "into",
+      "directly",
+      "cat",
+      "expression"
+    ],
+    "actions": [
+      "seems",
+      "staring",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The cat seems to be enjoying the attention, as it is staring directly into the camera with a content expression.",
+    "objects": [
+      "content",
+      "attention",
+      "into",
+      "directly",
+      "cat",
+      "expression"
+    ],
+    "actions": [
+      "seems",
+      "staring",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The cat seems to be enjoying the attention, as it is staring directly into the camera with a content expression.",
+    "objects": [
+      "content",
+      "attention",
+      "into",
+      "directly",
+      "cat",
+      "expression"
+    ],
+    "actions": [
+      "seems",
+      "staring",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The cat seems to be enjoying the attention, as it is staring directly into the camera with a content expression.",
+    "objects": [
+      "content",
+      "attention",
+      "into",
+      "directly",
+      "cat",
+      "expression"
+    ],
+    "actions": [
+      "seems",
+      "staring",
+      "enjoying"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The bed they are on has a black and white patterned blanket.",
+    "objects": [
+      "they",
+      "white",
+      "black",
+      "has",
+      "blanket"
+    ],
+    "actions": [
+      "patterned",
+      "bed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The bed they are on has a black and white patterned blanket.",
+    "objects": [
+      "they",
+      "white",
+      "black",
+      "has",
+      "blanket"
+    ],
+    "actions": [
+      "patterned",
+      "bed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The bed they are on has a black and white patterned blanket.",
+    "objects": [
+      "they",
+      "white",
+      "black",
+      "has",
+      "blanket"
+    ],
+    "actions": [
+      "patterned",
+      "bed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The bed they are on has a black and white patterned blanket.",
+    "objects": [
+      "they",
+      "white",
+      "black",
+      "has",
+      "blanket"
+    ],
+    "actions": [
+      "patterned",
+      "bed"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man is holding a blue hoodie in his hand, and the cat is holding onto a blue toy.",
+    "objects": [
+      "blue",
+      "onto",
+      "cat",
+      "his",
+      "hoodie",
+      "man",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man is holding a blue hoodie in his hand, and the cat is holding onto a blue toy.",
+    "objects": [
+      "blue",
+      "onto",
+      "cat",
+      "his",
+      "hoodie",
+      "man",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man is holding a blue hoodie in his hand, and the cat is holding onto a blue toy.",
+    "objects": [
+      "blue",
+      "onto",
+      "cat",
+      "his",
+      "hoodie",
+      "man",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man is holding a blue hoodie in his hand, and the cat is holding onto a blue toy.",
+    "objects": [
+      "blue",
+      "onto",
+      "cat",
+      "his",
+      "hoodie",
+      "man",
+      "toy",
+      "hand"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The cat appears to be curiously looking at the toy, perhaps considering whether to play with it.",
+    "objects": [
+      "curiously",
+      "cat",
+      "play",
+      "toy",
+      "whether"
+    ],
+    "actions": [
+      "considering",
+      "looking",
+      "perhaps"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The cat appears to be curiously looking at the toy, perhaps considering whether to play with it.",
+    "objects": [
+      "curiously",
+      "cat",
+      "play",
+      "toy",
+      "whether"
+    ],
+    "actions": [
+      "considering",
+      "looking",
+      "perhaps"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The cat appears to be curiously looking at the toy, perhaps considering whether to play with it.",
+    "objects": [
+      "curiously",
+      "cat",
+      "play",
+      "toy",
+      "whether"
+    ],
+    "actions": [
+      "considering",
+      "looking",
+      "perhaps"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The cat appears to be curiously looking at the toy, perhaps considering whether to play with it.",
+    "objects": [
+      "curiously",
+      "cat",
+      "play",
+      "toy",
+      "whether"
+    ],
+    "actions": [
+      "considering",
+      "looking",
+      "perhaps"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is peaceful and serene, with the man and cat sharing a quiet moment in the comfort of their home.",
+    "objects": [
+      "their",
+      "moment",
+      "comfort",
+      "home",
+      "serene",
+      "quiet",
+      "peaceful",
+      "cat"
+    ],
+    "actions": [
+      "sharing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is peaceful and serene, with the man and cat sharing a quiet moment in the comfort of their home.",
+    "objects": [
+      "their",
+      "moment",
+      "comfort",
+      "home",
+      "serene",
+      "quiet",
+      "peaceful",
+      "cat"
+    ],
+    "actions": [
+      "sharing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is peaceful and serene, with the man and cat sharing a quiet moment in the comfort of their home.",
+    "objects": [
+      "their",
+      "moment",
+      "comfort",
+      "home",
+      "serene",
+      "quiet",
+      "peaceful",
+      "cat"
+    ],
+    "actions": [
+      "sharing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is peaceful and serene, with the man and cat sharing a quiet moment in the comfort of their home.",
+    "objects": [
+      "their",
+      "moment",
+      "comfort",
+      "home",
+      "serene",
+      "quiet",
+      "peaceful",
+      "cat"
+    ],
+    "actions": [
+      "sharing"
+    ],
+    "segment_id": 7
+  }
+]

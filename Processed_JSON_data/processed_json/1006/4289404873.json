@@ -1,0 +1,524 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a man is seen hiking with a large backpack in the mountains.",
+    "objects": [
+      "man",
+      "backpack",
+      "large"
+    ],
+    "actions": [
+      "hiking",
+      "mountains"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a man is seen hiking with a large backpack in the mountains.",
+    "objects": [
+      "man",
+      "backpack",
+      "large"
+    ],
+    "actions": [
+      "hiking",
+      "mountains"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a man is seen hiking with a large backpack in the mountains.",
+    "objects": [
+      "man",
+      "backpack",
+      "large"
+    ],
+    "actions": [
+      "hiking",
+      "mountains"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a man is seen hiking with a large backpack in the mountains.",
+    "objects": [
+      "man",
+      "backpack",
+      "large"
+    ],
+    "actions": [
+      "hiking",
+      "mountains"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the video, a man is seen hiking with a large backpack in the mountains.",
+    "objects": [
+      "man",
+      "backpack",
+      "large"
+    ],
+    "actions": [
+      "hiking",
+      "mountains"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "He walks along a trail with a stream flowing beside him, and the mountains loom in the distance.",
+    "objects": [
+      "along",
+      "distance",
+      "trail",
+      "him",
+      "beside",
+      "stream",
+      "loom"
+    ],
+    "actions": [
+      "mountains",
+      "walks",
+      "flowing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He walks along a trail with a stream flowing beside him, and the mountains loom in the distance.",
+    "objects": [
+      "along",
+      "distance",
+      "trail",
+      "him",
+      "beside",
+      "stream",
+      "loom"
+    ],
+    "actions": [
+      "mountains",
+      "walks",
+      "flowing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He walks along a trail with a stream flowing beside him, and the mountains loom in the distance.",
+    "objects": [
+      "along",
+      "distance",
+      "trail",
+      "him",
+      "beside",
+      "stream",
+      "loom"
+    ],
+    "actions": [
+      "mountains",
+      "walks",
+      "flowing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He walks along a trail with a stream flowing beside him, and the mountains loom in the distance.",
+    "objects": [
+      "along",
+      "distance",
+      "trail",
+      "him",
+      "beside",
+      "stream",
+      "loom"
+    ],
+    "actions": [
+      "mountains",
+      "walks",
+      "flowing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "He walks along a trail with a stream flowing beside him, and the mountains loom in the distance.",
+    "objects": [
+      "along",
+      "distance",
+      "trail",
+      "him",
+      "beside",
+      "stream",
+      "loom"
+    ],
+    "actions": [
+      "mountains",
+      "walks",
+      "flowing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "He is wearing a blue hoodie, white pants, and a hat, and has a backpack on his back.",
+    "objects": [
+      "white",
+      "blue",
+      "has",
+      "hat",
+      "hoodie",
+      "his",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is wearing a blue hoodie, white pants, and a hat, and has a backpack on his back.",
+    "objects": [
+      "white",
+      "blue",
+      "has",
+      "hat",
+      "hoodie",
+      "his",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "He is wearing a blue hoodie, white pants, and a hat, and has a backpack on his back.",
+    "objects": [
+      "white",
+      "blue",
+      "has",
+      "hat",
+      "hoodie",
+      "his",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "He is wearing a blue hoodie, white pants, and a hat, and has a backpack on his back.",
+    "objects": [
+      "white",
+      "blue",
+      "has",
+      "hat",
+      "hoodie",
+      "his",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "He is wearing a blue hoodie, white pants, and a hat, and has a backpack on his back.",
+    "objects": [
+      "white",
+      "blue",
+      "has",
+      "hat",
+      "hoodie",
+      "his",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "pants"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "As he walks, he passes other hikers going in the opposite direction.",
+    "objects": [
+      "other",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "walks",
+      "going",
+      "hikers",
+      "passes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "As he walks, he passes other hikers going in the opposite direction.",
+    "objects": [
+      "other",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "walks",
+      "going",
+      "hikers",
+      "passes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "As he walks, he passes other hikers going in the opposite direction.",
+    "objects": [
+      "other",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "walks",
+      "going",
+      "hikers",
+      "passes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "As he walks, he passes other hikers going in the opposite direction.",
+    "objects": [
+      "other",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "walks",
+      "going",
+      "hikers",
+      "passes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "As he walks, he passes other hikers going in the opposite direction.",
+    "objects": [
+      "other",
+      "direction",
+      "opposite"
+    ],
+    "actions": [
+      "walks",
+      "going",
+      "hikers",
+      "passes"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "The trail is surrounded by high mountains and a stream.",
+    "objects": [
+      "stream",
+      "trail",
+      "high"
+    ],
+    "actions": [
+      "mountains",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "The trail is surrounded by high mountains and a stream.",
+    "objects": [
+      "stream",
+      "trail",
+      "high"
+    ],
+    "actions": [
+      "mountains",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "The trail is surrounded by high mountains and a stream.",
+    "objects": [
+      "stream",
+      "trail",
+      "high"
+    ],
+    "actions": [
+      "mountains",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "The trail is surrounded by high mountains and a stream.",
+    "objects": [
+      "stream",
+      "trail",
+      "high"
+    ],
+    "actions": [
+      "mountains",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "The trail is surrounded by high mountains and a stream.",
+    "objects": [
+      "stream",
+      "trail",
+      "high"
+    ],
+    "actions": [
+      "mountains",
+      "surrounded"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The man looks around and smiles to the camera, and he is wearing a blue hoodie, white pants, and a hat.",
+    "objects": [
+      "white",
+      "blue",
+      "around",
+      "hat",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "smiles",
+      "pants",
+      "looks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The man looks around and smiles to the camera, and he is wearing a blue hoodie, white pants, and a hat.",
+    "objects": [
+      "white",
+      "blue",
+      "around",
+      "hat",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "smiles",
+      "pants",
+      "looks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The man looks around and smiles to the camera, and he is wearing a blue hoodie, white pants, and a hat.",
+    "objects": [
+      "white",
+      "blue",
+      "around",
+      "hat",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "smiles",
+      "pants",
+      "looks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The man looks around and smiles to the camera, and he is wearing a blue hoodie, white pants, and a hat.",
+    "objects": [
+      "white",
+      "blue",
+      "around",
+      "hat",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "smiles",
+      "pants",
+      "looks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The man looks around and smiles to the camera, and he is wearing a blue hoodie, white pants, and a hat.",
+    "objects": [
+      "white",
+      "blue",
+      "around",
+      "hat",
+      "hoodie",
+      "man"
+    ],
+    "actions": [
+      "wearing",
+      "smiles",
+      "pants",
+      "looks"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is set in the mountains.",
+    "objects": [
+      "set"
+    ],
+    "actions": [
+      "mountains"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is set in the mountains.",
+    "objects": [
+      "set"
+    ],
+    "actions": [
+      "mountains"
+    ],
+    "segment_id": 6
+  }
+]

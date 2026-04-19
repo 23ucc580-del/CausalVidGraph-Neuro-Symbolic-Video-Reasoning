@@ -1,0 +1,523 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a man sitting at a dining table, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "see",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a man sitting at a dining table, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "see",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a man sitting at a dining table, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "see",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a man sitting at a dining table, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "see",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In this video, we see a man sitting at a dining table, enjoying a meal.",
+    "objects": [
+      "table",
+      "meal",
+      "see",
+      "man",
+      "this"
+    ],
+    "actions": [
+      "sitting",
+      "enjoying",
+      "dining"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 5,
+    "description": "He is wearing a gray shirt, and he has a white plate in front of him.",
+    "objects": [
+      "white",
+      "him",
+      "has",
+      "shirt",
+      "gray",
+      "plate"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is wearing a gray shirt, and he has a white plate in front of him.",
+    "objects": [
+      "white",
+      "him",
+      "has",
+      "shirt",
+      "gray",
+      "plate"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is wearing a gray shirt, and he has a white plate in front of him.",
+    "objects": [
+      "white",
+      "him",
+      "has",
+      "shirt",
+      "gray",
+      "plate"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is wearing a gray shirt, and he has a white plate in front of him.",
+    "objects": [
+      "white",
+      "him",
+      "has",
+      "shirt",
+      "gray",
+      "plate"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 9,
+    "description": "He is wearing a gray shirt, and he has a white plate in front of him.",
+    "objects": [
+      "white",
+      "him",
+      "has",
+      "shirt",
+      "gray",
+      "plate"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 10,
+    "description": "On the table, there is a white plate with a fork and a knife, and a white plate with a fork.",
+    "objects": [
+      "knife",
+      "table",
+      "white",
+      "fork",
+      "there",
+      "plate"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "On the table, there is a white plate with a fork and a knife, and a white plate with a fork.",
+    "objects": [
+      "knife",
+      "table",
+      "white",
+      "fork",
+      "there",
+      "plate"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "On the table, there is a white plate with a fork and a knife, and a white plate with a fork.",
+    "objects": [
+      "knife",
+      "table",
+      "white",
+      "fork",
+      "there",
+      "plate"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 13,
+    "description": "On the table, there is a white plate with a fork and a knife, and a white plate with a fork.",
+    "objects": [
+      "knife",
+      "table",
+      "white",
+      "fork",
+      "there",
+      "plate"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 14,
+    "description": "On the table, there is a white plate with a fork and a knife, and a white plate with a fork.",
+    "objects": [
+      "knife",
+      "table",
+      "white",
+      "fork",
+      "there",
+      "plate"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 15,
+    "description": "He is eating from a white plate with a fork and a knife.",
+    "objects": [
+      "knife",
+      "white",
+      "fork",
+      "from",
+      "plate"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "He is eating from a white plate with a fork and a knife.",
+    "objects": [
+      "knife",
+      "white",
+      "fork",
+      "from",
+      "plate"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 17,
+    "description": "He is eating from a white plate with a fork and a knife.",
+    "objects": [
+      "knife",
+      "white",
+      "fork",
+      "from",
+      "plate"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 18,
+    "description": "He is eating from a white plate with a fork and a knife.",
+    "objects": [
+      "knife",
+      "white",
+      "fork",
+      "from",
+      "plate"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 19,
+    "description": "He is eating from a white plate with a fork and a knife.",
+    "objects": [
+      "knife",
+      "white",
+      "fork",
+      "from",
+      "plate"
+    ],
+    "actions": [
+      "eating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 20,
+    "description": "Next to him, there's a gray cat sitting on the table, looking up at the man.",
+    "objects": [
+      "table",
+      "him",
+      "gray",
+      "cat",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 21,
+    "description": "Next to him, there's a gray cat sitting on the table, looking up at the man.",
+    "objects": [
+      "table",
+      "him",
+      "gray",
+      "cat",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 22,
+    "description": "Next to him, there's a gray cat sitting on the table, looking up at the man.",
+    "objects": [
+      "table",
+      "him",
+      "gray",
+      "cat",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 23,
+    "description": "Next to him, there's a gray cat sitting on the table, looking up at the man.",
+    "objects": [
+      "table",
+      "him",
+      "gray",
+      "cat",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 24,
+    "description": "Next to him, there's a gray cat sitting on the table, looking up at the man.",
+    "objects": [
+      "table",
+      "him",
+      "gray",
+      "cat",
+      "man"
+    ],
+    "actions": [
+      "sitting",
+      "looking",
+      "there's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 25,
+    "description": "The man is holding a white plate with a fork and a knife, and the cat is on the table, looking up at the man.",
+    "objects": [
+      "knife",
+      "table",
+      "white",
+      "fork",
+      "plate",
+      "cat",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 26,
+    "description": "The man is holding a white plate with a fork and a knife, and the cat is on the table, looking up at the man.",
+    "objects": [
+      "knife",
+      "table",
+      "white",
+      "fork",
+      "plate",
+      "cat",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 27,
+    "description": "The man is holding a white plate with a fork and a knife, and the cat is on the table, looking up at the man.",
+    "objects": [
+      "knife",
+      "table",
+      "white",
+      "fork",
+      "plate",
+      "cat",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 28,
+    "description": "The man is holding a white plate with a fork and a knife, and the cat is on the table, looking up at the man.",
+    "objects": [
+      "knife",
+      "table",
+      "white",
+      "fork",
+      "plate",
+      "cat",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 29,
+    "description": "The man is holding a white plate with a fork and a knife, and the cat is on the table, looking up at the man.",
+    "objects": [
+      "knife",
+      "table",
+      "white",
+      "fork",
+      "plate",
+      "cat",
+      "man"
+    ],
+    "actions": [
+      "looking",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 30,
+    "description": "The cat is wearing a blue collar.",
+    "objects": [
+      "blue",
+      "cat",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 31,
+    "description": "The cat is wearing a blue collar.",
+    "objects": [
+      "blue",
+      "cat",
+      "collar"
+    ],
+    "actions": [
+      "wearing"
+    ],
+    "segment_id": 6
+  }
+]

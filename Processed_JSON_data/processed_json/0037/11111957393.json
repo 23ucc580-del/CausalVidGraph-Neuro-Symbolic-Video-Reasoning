@@ -1,0 +1,609 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered in a cozy living room, enjoying each other's company and the comfort of their home.",
+    "objects": [
+      "home",
+      "their",
+      "room",
+      "comfort",
+      "group",
+      "company",
+      "cozy",
+      "people"
+    ],
+    "actions": [
+      "living",
+      "other's",
+      "enjoying",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered in a cozy living room, enjoying each other's company and the comfort of their home.",
+    "objects": [
+      "home",
+      "their",
+      "room",
+      "comfort",
+      "group",
+      "company",
+      "cozy",
+      "people"
+    ],
+    "actions": [
+      "living",
+      "other's",
+      "enjoying",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are gathered in a cozy living room, enjoying each other's company and the comfort of their home.",
+    "objects": [
+      "home",
+      "their",
+      "room",
+      "comfort",
+      "group",
+      "company",
+      "cozy",
+      "people"
+    ],
+    "actions": [
+      "living",
+      "other's",
+      "enjoying",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The room is warmly lit, with a television screen displaying a show and a fireplace in the background, creating a relaxed atmosphere.",
+    "objects": [
+      "show",
+      "screen",
+      "warmly",
+      "fireplace",
+      "room",
+      "lit",
+      "atmosphere",
+      "television"
+    ],
+    "actions": [
+      "creating",
+      "displaying",
+      "relaxed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is warmly lit, with a television screen displaying a show and a fireplace in the background, creating a relaxed atmosphere.",
+    "objects": [
+      "show",
+      "screen",
+      "warmly",
+      "fireplace",
+      "room",
+      "lit",
+      "atmosphere",
+      "television"
+    ],
+    "actions": [
+      "creating",
+      "displaying",
+      "relaxed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is warmly lit, with a television screen displaying a show and a fireplace in the background, creating a relaxed atmosphere.",
+    "objects": [
+      "show",
+      "screen",
+      "warmly",
+      "fireplace",
+      "room",
+      "lit",
+      "atmosphere",
+      "television"
+    ],
+    "actions": [
+      "creating",
+      "displaying",
+      "relaxed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A young girl, dressed in a blue hoodie and pink pants, is dancing to the music.",
+    "objects": [
+      "blue",
+      "pink",
+      "girl",
+      "music",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "pants",
+      "dressed",
+      "dancing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "A young girl, dressed in a blue hoodie and pink pants, is dancing to the music.",
+    "objects": [
+      "blue",
+      "pink",
+      "girl",
+      "music",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "pants",
+      "dressed",
+      "dancing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "A young girl, dressed in a blue hoodie and pink pants, is dancing to the music.",
+    "objects": [
+      "blue",
+      "pink",
+      "girl",
+      "music",
+      "hoodie",
+      "young"
+    ],
+    "actions": [
+      "pants",
+      "dressed",
+      "dancing"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "She spins around with joy, her hair flowing freely, and her hands are raised in celebration.",
+    "objects": [
+      "her",
+      "hair",
+      "celebration",
+      "freely",
+      "she",
+      "joy",
+      "around"
+    ],
+    "actions": [
+      "flowing",
+      "raised",
+      "hands",
+      "spins"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "She spins around with joy, her hair flowing freely, and her hands are raised in celebration.",
+    "objects": [
+      "her",
+      "hair",
+      "celebration",
+      "freely",
+      "she",
+      "joy",
+      "around"
+    ],
+    "actions": [
+      "flowing",
+      "raised",
+      "hands",
+      "spins"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "She spins around with joy, her hair flowing freely, and her hands are raised in celebration.",
+    "objects": [
+      "her",
+      "hair",
+      "celebration",
+      "freely",
+      "she",
+      "joy",
+      "around"
+    ],
+    "actions": [
+      "flowing",
+      "raised",
+      "hands",
+      "spins"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "Her friend, a boy in a green hoodie, is watching her dance, his eyes sparkling with amusement.",
+    "objects": [
+      "her",
+      "friend",
+      "boy",
+      "eyes",
+      "amusement",
+      "dance",
+      "green",
+      "hoodie"
+    ],
+    "actions": [
+      "sparkling",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "Her friend, a boy in a green hoodie, is watching her dance, his eyes sparkling with amusement.",
+    "objects": [
+      "her",
+      "friend",
+      "boy",
+      "eyes",
+      "amusement",
+      "dance",
+      "green",
+      "hoodie"
+    ],
+    "actions": [
+      "sparkling",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "Her friend, a boy in a green hoodie, is watching her dance, his eyes sparkling with amusement.",
+    "objects": [
+      "her",
+      "friend",
+      "boy",
+      "eyes",
+      "amusement",
+      "dance",
+      "green",
+      "hoodie"
+    ],
+    "actions": [
+      "sparkling",
+      "watching"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "He is holding a pink toy, perhaps a recent gift or a cherished toy.",
+    "objects": [
+      "recent",
+      "toy",
+      "pink",
+      "gift"
+    ],
+    "actions": [
+      "cherished",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "He is holding a pink toy, perhaps a recent gift or a cherished toy.",
+    "objects": [
+      "recent",
+      "toy",
+      "pink",
+      "gift"
+    ],
+    "actions": [
+      "cherished",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "He is holding a pink toy, perhaps a recent gift or a cherished toy.",
+    "objects": [
+      "recent",
+      "toy",
+      "pink",
+      "gift"
+    ],
+    "actions": [
+      "cherished",
+      "holding",
+      "perhaps"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "A little girl in a yellow dress is sitting on the floor, her attention captivated by the dancing girl.",
+    "objects": [
+      "her",
+      "yellow",
+      "floor",
+      "little",
+      "dress",
+      "girl",
+      "attention"
+    ],
+    "actions": [
+      "sitting",
+      "dancing",
+      "captivated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "A little girl in a yellow dress is sitting on the floor, her attention captivated by the dancing girl.",
+    "objects": [
+      "her",
+      "yellow",
+      "floor",
+      "little",
+      "dress",
+      "girl",
+      "attention"
+    ],
+    "actions": [
+      "sitting",
+      "dancing",
+      "captivated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "A little girl in a yellow dress is sitting on the floor, her attention captivated by the dancing girl.",
+    "objects": [
+      "her",
+      "yellow",
+      "floor",
+      "little",
+      "dress",
+      "girl",
+      "attention"
+    ],
+    "actions": [
+      "sitting",
+      "dancing",
+      "captivated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "Her eyes are filled with wonder and delight, and she holds a toy car in her hands, a symbol of her playful nature.",
+    "objects": [
+      "her",
+      "eyes",
+      "symbol",
+      "nature",
+      "wonder",
+      "toy",
+      "delight",
+      "she"
+    ],
+    "actions": [
+      "filled",
+      "holds",
+      "hands"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "Her eyes are filled with wonder and delight, and she holds a toy car in her hands, a symbol of her playful nature.",
+    "objects": [
+      "her",
+      "eyes",
+      "symbol",
+      "nature",
+      "wonder",
+      "toy",
+      "delight",
+      "she"
+    ],
+    "actions": [
+      "filled",
+      "holds",
+      "hands"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "Her eyes are filled with wonder and delight, and she holds a toy car in her hands, a symbol of her playful nature.",
+    "objects": [
+      "her",
+      "eyes",
+      "symbol",
+      "nature",
+      "wonder",
+      "toy",
+      "delight",
+      "she"
+    ],
+    "actions": [
+      "filled",
+      "holds",
+      "hands"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "Nearby, a man in a black shirt is seated on the couch, his face lit up with a smile, possibly sharing in the laughter and joy of the moment.",
+    "objects": [
+      "shirt",
+      "laughter",
+      "nearby",
+      "face",
+      "smile",
+      "couch",
+      "black",
+      "man"
+    ],
+    "actions": [
+      "sharing",
+      "seated"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "Nearby, a man in a black shirt is seated on the couch, his face lit up with a smile, possibly sharing in the laughter and joy of the moment.",
+    "objects": [
+      "shirt",
+      "laughter",
+      "nearby",
+      "face",
+      "smile",
+      "couch",
+      "black",
+      "man"
+    ],
+    "actions": [
+      "sharing",
+      "seated"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "Nearby, a man in a black shirt is seated on the couch, his face lit up with a smile, possibly sharing in the laughter and joy of the moment.",
+    "objects": [
+      "shirt",
+      "laughter",
+      "nearby",
+      "face",
+      "smile",
+      "couch",
+      "black",
+      "man"
+    ],
+    "actions": [
+      "sharing",
+      "seated"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "Another man, in a red shirt, is holding a beer, enjoying the company and the beverage.",
+    "objects": [
+      "shirt",
+      "man",
+      "beverage",
+      "company",
+      "beer"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "Another man, in a red shirt, is holding a beer, enjoying the company and the beverage.",
+    "objects": [
+      "shirt",
+      "man",
+      "beverage",
+      "company",
+      "beer"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "Another man, in a red shirt, is holding a beer, enjoying the company and the beverage.",
+    "objects": [
+      "shirt",
+      "man",
+      "beverage",
+      "company",
+      "beer"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "enjoying"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "In the background, a woman in a green dress is seen, her attention focused on the dancing girl, her face reflecting the warmth of the scene.",
+    "objects": [
+      "her",
+      "face",
+      "warmth",
+      "dress",
+      "girl",
+      "woman",
+      "green",
+      "attention"
+    ],
+    "actions": [
+      "dancing",
+      "focused",
+      "reflecting"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "In the background, a woman in a green dress is seen, her attention focused on the dancing girl, her face reflecting the warmth of the scene.",
+    "objects": [
+      "her",
+      "face",
+      "warmth",
+      "dress",
+      "girl",
+      "woman",
+      "green",
+      "attention"
+    ],
+    "actions": [
+      "dancing",
+      "focused",
+      "reflecting"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,598 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a young boy is seen wearing a blue helmet and a green shirt, riding a small red bicycle.",
+    "objects": [
+      "boy",
+      "small",
+      "blue",
+      "green",
+      "shirt",
+      "helmet",
+      "young",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a young boy is seen wearing a blue helmet and a green shirt, riding a small red bicycle.",
+    "objects": [
+      "boy",
+      "small",
+      "blue",
+      "green",
+      "shirt",
+      "helmet",
+      "young",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a young boy is seen wearing a blue helmet and a green shirt, riding a small red bicycle.",
+    "objects": [
+      "boy",
+      "small",
+      "blue",
+      "green",
+      "shirt",
+      "helmet",
+      "young",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a young boy is seen wearing a blue helmet and a green shirt, riding a small red bicycle.",
+    "objects": [
+      "boy",
+      "small",
+      "blue",
+      "green",
+      "shirt",
+      "helmet",
+      "young",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "red",
+      "riding"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "He is pedaling the bicycle and turning the handlebars, indicating that he is in motion.",
+    "objects": [
+      "that",
+      "bicycle",
+      "motion"
+    ],
+    "actions": [
+      "indicating",
+      "turning",
+      "pedaling",
+      "handlebars"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "He is pedaling the bicycle and turning the handlebars, indicating that he is in motion.",
+    "objects": [
+      "that",
+      "bicycle",
+      "motion"
+    ],
+    "actions": [
+      "indicating",
+      "turning",
+      "pedaling",
+      "handlebars"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "He is pedaling the bicycle and turning the handlebars, indicating that he is in motion.",
+    "objects": [
+      "that",
+      "bicycle",
+      "motion"
+    ],
+    "actions": [
+      "indicating",
+      "turning",
+      "pedaling",
+      "handlebars"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "He is pedaling the bicycle and turning the handlebars, indicating that he is in motion.",
+    "objects": [
+      "that",
+      "bicycle",
+      "motion"
+    ],
+    "actions": [
+      "indicating",
+      "turning",
+      "pedaling",
+      "handlebars"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The bicycle is red with a blue seat, and the boy appears to be enjoying his ride, as he is smiling while riding.",
+    "objects": [
+      "boy",
+      "ride",
+      "while",
+      "blue",
+      "his",
+      "seat",
+      "bicycle"
+    ],
+    "actions": [
+      "riding",
+      "enjoying",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The bicycle is red with a blue seat, and the boy appears to be enjoying his ride, as he is smiling while riding.",
+    "objects": [
+      "boy",
+      "ride",
+      "while",
+      "blue",
+      "his",
+      "seat",
+      "bicycle"
+    ],
+    "actions": [
+      "riding",
+      "enjoying",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The bicycle is red with a blue seat, and the boy appears to be enjoying his ride, as he is smiling while riding.",
+    "objects": [
+      "boy",
+      "ride",
+      "while",
+      "blue",
+      "his",
+      "seat",
+      "bicycle"
+    ],
+    "actions": [
+      "riding",
+      "enjoying",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The bicycle is red with a blue seat, and the boy appears to be enjoying his ride, as he is smiling while riding.",
+    "objects": [
+      "boy",
+      "ride",
+      "while",
+      "blue",
+      "his",
+      "seat",
+      "bicycle"
+    ],
+    "actions": [
+      "riding",
+      "enjoying",
+      "red",
+      "smiling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The setting is outdoors with a background of a street and buildings, suggesting an urban environment.",
+    "objects": [
+      "urban",
+      "environment",
+      "street"
+    ],
+    "actions": [
+      "outdoors",
+      "buildings",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The setting is outdoors with a background of a street and buildings, suggesting an urban environment.",
+    "objects": [
+      "urban",
+      "environment",
+      "street"
+    ],
+    "actions": [
+      "outdoors",
+      "buildings",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The setting is outdoors with a background of a street and buildings, suggesting an urban environment.",
+    "objects": [
+      "urban",
+      "environment",
+      "street"
+    ],
+    "actions": [
+      "outdoors",
+      "buildings",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The setting is outdoors with a background of a street and buildings, suggesting an urban environment.",
+    "objects": [
+      "urban",
+      "environment",
+      "street"
+    ],
+    "actions": [
+      "outdoors",
+      "buildings",
+      "suggesting",
+      "setting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The boy is wearing a helmet for safety, and the bicycle has two wheels, one at the front and one at the back, indicating it's a single-seater bicycle.",
+    "objects": [
+      "one",
+      "boy",
+      "two",
+      "has",
+      "safety",
+      "helmet",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "indicating",
+      "wheels"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The boy is wearing a helmet for safety, and the bicycle has two wheels, one at the front and one at the back, indicating it's a single-seater bicycle.",
+    "objects": [
+      "one",
+      "boy",
+      "two",
+      "has",
+      "safety",
+      "helmet",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "indicating",
+      "wheels"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The boy is wearing a helmet for safety, and the bicycle has two wheels, one at the front and one at the back, indicating it's a single-seater bicycle.",
+    "objects": [
+      "one",
+      "boy",
+      "two",
+      "has",
+      "safety",
+      "helmet",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "indicating",
+      "wheels"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The boy is wearing a helmet for safety, and the bicycle has two wheels, one at the front and one at the back, indicating it's a single-seater bicycle.",
+    "objects": [
+      "one",
+      "boy",
+      "two",
+      "has",
+      "safety",
+      "helmet",
+      "bicycle"
+    ],
+    "actions": [
+      "wearing",
+      "indicating",
+      "wheels"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The road is made of asphalt, and there is a silver car parked on the side of the road.",
+    "objects": [
+      "asphalt",
+      "there",
+      "made",
+      "silver",
+      "car",
+      "side",
+      "road"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The road is made of asphalt, and there is a silver car parked on the side of the road.",
+    "objects": [
+      "asphalt",
+      "there",
+      "made",
+      "silver",
+      "car",
+      "side",
+      "road"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The road is made of asphalt, and there is a silver car parked on the side of the road.",
+    "objects": [
+      "asphalt",
+      "there",
+      "made",
+      "silver",
+      "car",
+      "side",
+      "road"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The road is made of asphalt, and there is a silver car parked on the side of the road.",
+    "objects": [
+      "asphalt",
+      "there",
+      "made",
+      "silver",
+      "car",
+      "side",
+      "road"
+    ],
+    "actions": [
+      "parked"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The street is lined with buildings, and there is a clear blue sky above, indicating it's a sunny day.",
+    "objects": [
+      "there",
+      "street",
+      "above",
+      "blue",
+      "clear",
+      "day",
+      "sky",
+      "sunny"
+    ],
+    "actions": [
+      "buildings",
+      "lined",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The street is lined with buildings, and there is a clear blue sky above, indicating it's a sunny day.",
+    "objects": [
+      "there",
+      "street",
+      "above",
+      "blue",
+      "clear",
+      "day",
+      "sky",
+      "sunny"
+    ],
+    "actions": [
+      "buildings",
+      "lined",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The street is lined with buildings, and there is a clear blue sky above, indicating it's a sunny day.",
+    "objects": [
+      "there",
+      "street",
+      "above",
+      "blue",
+      "clear",
+      "day",
+      "sky",
+      "sunny"
+    ],
+    "actions": [
+      "buildings",
+      "lined",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The street is lined with buildings, and there is a clear blue sky above, indicating it's a sunny day.",
+    "objects": [
+      "there",
+      "street",
+      "above",
+      "blue",
+      "clear",
+      "day",
+      "sky",
+      "sunny"
+    ],
+    "actions": [
+      "buildings",
+      "lined",
+      "indicating"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The boy's action of pedaling and turning the handlebars suggests that he is in control of the bicycle, and his smile indicates that he is having a good time.",
+    "objects": [
+      "good",
+      "time",
+      "action",
+      "control",
+      "that",
+      "his",
+      "bicycle",
+      "smile"
+    ],
+    "actions": [
+      "boy's",
+      "handlebars",
+      "indicates",
+      "turning"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The boy's action of pedaling and turning the handlebars suggests that he is in control of the bicycle, and his smile indicates that he is having a good time.",
+    "objects": [
+      "good",
+      "time",
+      "action",
+      "control",
+      "that",
+      "his",
+      "bicycle",
+      "smile"
+    ],
+    "actions": [
+      "boy's",
+      "handlebars",
+      "indicates",
+      "turning"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The boy's action of pedaling and turning the handlebars suggests that he is in control of the bicycle, and his smile indicates that he is having a good time.",
+    "objects": [
+      "good",
+      "time",
+      "action",
+      "control",
+      "that",
+      "his",
+      "bicycle",
+      "smile"
+    ],
+    "actions": [
+      "boy's",
+      "handlebars",
+      "indicates",
+      "turning"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The boy's action of pedaling and turning the handlebars suggests that he is in control of the bicycle, and his smile indicates that he is having a good time.",
+    "objects": [
+      "good",
+      "time",
+      "action",
+      "control",
+      "that",
+      "his",
+      "bicycle",
+      "smile"
+    ],
+    "actions": [
+      "boy's",
+      "handlebars",
+      "indicates",
+      "turning"
+    ],
+    "segment_id": 7
+  }
+]

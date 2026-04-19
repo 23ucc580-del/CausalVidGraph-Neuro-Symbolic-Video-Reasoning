@@ -1,0 +1,570 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people is gathered around a table in what appears to be a park or outdoor recreational area.",
+    "objects": [
+      "what",
+      "people",
+      "park",
+      "area",
+      "group",
+      "table",
+      "recreational",
+      "around"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people is gathered around a table in what appears to be a park or outdoor recreational area.",
+    "objects": [
+      "what",
+      "people",
+      "park",
+      "area",
+      "group",
+      "table",
+      "recreational",
+      "around"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The scene is lively, with individuals engaging in various activities.",
+    "objects": [
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaging",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene is lively, with individuals engaging in various activities.",
+    "objects": [
+      "lively"
+    ],
+    "actions": [
+      "activities",
+      "engaging",
+      "individuals"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "A man and a boy are standing behind the table, with the man holding a ball and the boy wearing a red shirt.",
+    "objects": [
+      "behind",
+      "man",
+      "table",
+      "shirt",
+      "boy",
+      "ball"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "A man and a boy are standing behind the table, with the man holding a ball and the boy wearing a red shirt.",
+    "objects": [
+      "behind",
+      "man",
+      "table",
+      "shirt",
+      "boy",
+      "ball"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing",
+      "red"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "They seem to be involved in a game or activity involving the ball.",
+    "objects": [
+      "activity",
+      "they",
+      "game",
+      "seem",
+      "ball"
+    ],
+    "actions": [
+      "involved",
+      "involving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "They seem to be involved in a game or activity involving the ball.",
+    "objects": [
+      "activity",
+      "they",
+      "game",
+      "seem",
+      "ball"
+    ],
+    "actions": [
+      "involved",
+      "involving"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "To the side, a woman and a young girl are also standing, and the woman is holding a white ball.",
+    "objects": [
+      "woman",
+      "white",
+      "side",
+      "young",
+      "ball",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "To the side, a woman and a young girl are also standing, and the woman is holding a white ball.",
+    "objects": [
+      "woman",
+      "white",
+      "side",
+      "young",
+      "ball",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "In the background, there are people playing with a toy, a woman is standing with a red shirt and a child, and another woman is standing with a child, both wearing hoodies.",
+    "objects": [
+      "woman",
+      "people",
+      "child",
+      "toy",
+      "both",
+      "shirt",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "playing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "In the background, there are people playing with a toy, a woman is standing with a red shirt and a child, and another woman is standing with a child, both wearing hoodies.",
+    "objects": [
+      "woman",
+      "people",
+      "child",
+      "toy",
+      "both",
+      "shirt",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "hoodies",
+      "playing",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "Another child is seen standing with a red shirt and a blue ball.",
+    "objects": [
+      "ball",
+      "child",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "Another child is seen standing with a red shirt and a blue ball.",
+    "objects": [
+      "ball",
+      "child",
+      "blue",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "A woman wearing a green shirt is standing with a child, and another child is standing next to her.",
+    "objects": [
+      "woman",
+      "green",
+      "child",
+      "her",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "A woman wearing a green shirt is standing with a child, and another child is standing next to her.",
+    "objects": [
+      "woman",
+      "green",
+      "child",
+      "her",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "There is also a person wearing a red shirt and a hat, and another individual is holding a white ball.",
+    "objects": [
+      "white",
+      "hat",
+      "individual",
+      "shirt",
+      "ball",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "There is also a person wearing a red shirt and a hat, and another individual is holding a white ball.",
+    "objects": [
+      "white",
+      "hat",
+      "individual",
+      "shirt",
+      "ball",
+      "there"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "red"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "A young boy is standing near a table with a toy, and a woman is standing next to him, both wearing hoodies.",
+    "objects": [
+      "woman",
+      "both",
+      "young",
+      "table",
+      "boy",
+      "him",
+      "toy"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "hoodies"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "A young boy is standing near a table with a toy, and a woman is standing next to him, both wearing hoodies.",
+    "objects": [
+      "woman",
+      "both",
+      "young",
+      "table",
+      "boy",
+      "him",
+      "toy"
+    ],
+    "actions": [
+      "standing",
+      "wearing",
+      "hoodies"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A young boy is standing near a toy and a young girl is standing behind a table with a hat.",
+    "objects": [
+      "behind",
+      "hat",
+      "young",
+      "table",
+      "boy",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A young boy is standing near a toy and a young girl is standing behind a table with a hat.",
+    "objects": [
+      "behind",
+      "hat",
+      "young",
+      "table",
+      "boy",
+      "girl",
+      "toy"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "A man wearing a red shirt is standing with a child, and a woman is standing next to him, both holding white balls.",
+    "objects": [
+      "woman",
+      "man",
+      "white",
+      "child",
+      "both",
+      "shirt",
+      "him"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "balls",
+      "red"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "A man wearing a red shirt is standing with a child, and a woman is standing next to him, both holding white balls.",
+    "objects": [
+      "woman",
+      "man",
+      "white",
+      "child",
+      "both",
+      "shirt",
+      "him"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "balls",
+      "red"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "Furthermore, a woman is standing next to a child with a red shirt and a blue ball, and a young boy is standing behind a table with a toy and a young girl is standing with a hat.",
+    "objects": [
+      "behind",
+      "woman",
+      "child",
+      "blue",
+      "hat",
+      "young",
+      "table",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "Furthermore, a woman is standing next to a child with a red shirt and a blue ball, and a young boy is standing behind a table with a toy and a young girl is standing with a hat.",
+    "objects": [
+      "behind",
+      "woman",
+      "child",
+      "blue",
+      "hat",
+      "young",
+      "table",
+      "shirt"
+    ],
+    "actions": [
+      "standing",
+      "red"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "A woman wearing a green shirt is standing with a child, and a young girl is standing with a red shirt.",
+    "objects": [
+      "woman",
+      "green",
+      "child",
+      "young",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "A woman wearing a green shirt is standing with a child, and a young girl is standing with a red shirt.",
+    "objects": [
+      "woman",
+      "green",
+      "child",
+      "young",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "red"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Lastly, a man is standing behind a table with a toy and a woman is standing next to him, both holding white balls.",
+    "objects": [
+      "behind",
+      "woman",
+      "man",
+      "white",
+      "lastly",
+      "both",
+      "table",
+      "him"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "balls"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Lastly, a man is standing behind a table with a toy and a woman is standing next to him, both holding white balls.",
+    "objects": [
+      "behind",
+      "woman",
+      "man",
+      "white",
+      "lastly",
+      "both",
+      "table",
+      "him"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "balls"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "Throughout the video, the individuals are engaged in different activities and games, with the table serving as a central point for their gathering.",
+    "objects": [
+      "their",
+      "different",
+      "central",
+      "table",
+      "point",
+      "throughout"
+    ],
+    "actions": [
+      "games",
+      "activities",
+      "serving",
+      "engaged"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "Throughout the video, the individuals are engaged in different activities and games, with the table serving as a central point for their gathering.",
+    "objects": [
+      "their",
+      "different",
+      "central",
+      "table",
+      "point",
+      "throughout"
+    ],
+    "actions": [
+      "games",
+      "activities",
+      "serving",
+      "engaged"
+    ],
+    "segment_id": 15
+  }
+]

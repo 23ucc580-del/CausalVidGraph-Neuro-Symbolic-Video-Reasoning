@@ -1,0 +1,548 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video opens with a young girl, dressed in a colorful hoodie and pants, standing in a kitchen with a man behind her.",
+    "objects": [
+      "colorful",
+      "behind",
+      "man",
+      "kitchen",
+      "hoodie",
+      "young",
+      "her",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "opens",
+      "pants"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video opens with a young girl, dressed in a colorful hoodie and pants, standing in a kitchen with a man behind her.",
+    "objects": [
+      "colorful",
+      "behind",
+      "man",
+      "kitchen",
+      "hoodie",
+      "young",
+      "her",
+      "girl"
+    ],
+    "actions": [
+      "standing",
+      "dressed",
+      "opens",
+      "pants"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "She is holding a green balloon and appears to be about to let it go, as she smiles at the camera.",
+    "objects": [
+      "about",
+      "she",
+      "green",
+      "balloon",
+      "let"
+    ],
+    "actions": [
+      "holding",
+      "smiles"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "She is holding a green balloon and appears to be about to let it go, as she smiles at the camera.",
+    "objects": [
+      "about",
+      "she",
+      "green",
+      "balloon",
+      "let"
+    ],
+    "actions": [
+      "holding",
+      "smiles"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The man, wearing a red hoodie, is also wearing glasses and seems to be observing her actions.",
+    "objects": [
+      "hoodie",
+      "man",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "actions",
+      "observing",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The man, wearing a red hoodie, is also wearing glasses and seems to be observing her actions.",
+    "objects": [
+      "hoodie",
+      "man",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "actions",
+      "observing",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The girl then heads towards the dining area, where she releases the balloon and it floats up, as if released.",
+    "objects": [
+      "she",
+      "where",
+      "area",
+      "then",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "released",
+      "towards",
+      "dining",
+      "heads"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The girl then heads towards the dining area, where she releases the balloon and it floats up, as if released.",
+    "objects": [
+      "she",
+      "where",
+      "area",
+      "then",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "released",
+      "towards",
+      "dining",
+      "heads"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The kitchen area is equipped with wooden cabinets and a white refrigerator, and a blue toy car is visible in the background.",
+    "objects": [
+      "white",
+      "kitchen",
+      "car",
+      "wooden",
+      "blue",
+      "area",
+      "refrigerator",
+      "toy"
+    ],
+    "actions": [
+      "cabinets"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The kitchen area is equipped with wooden cabinets and a white refrigerator, and a blue toy car is visible in the background.",
+    "objects": [
+      "white",
+      "kitchen",
+      "car",
+      "wooden",
+      "blue",
+      "area",
+      "refrigerator",
+      "toy"
+    ],
+    "actions": [
+      "cabinets"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "The scene then shifts to the dining area, where the girl is seen playing with the balloon, letting it go, and it floats up.",
+    "objects": [
+      "where",
+      "area",
+      "then",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "playing",
+      "letting",
+      "dining",
+      "shifts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "The scene then shifts to the dining area, where the girl is seen playing with the balloon, letting it go, and it floats up.",
+    "objects": [
+      "where",
+      "area",
+      "then",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "playing",
+      "letting",
+      "dining",
+      "shifts"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "A child is seated at a table in the background, wearing a blue shirt and looking on, and the girl is wearing a colorful shirt and pants.",
+    "objects": [
+      "colorful",
+      "child",
+      "blue",
+      "table",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "looking",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "A child is seated at a table in the background, wearing a blue shirt and looking on, and the girl is wearing a colorful shirt and pants.",
+    "objects": [
+      "colorful",
+      "child",
+      "blue",
+      "table",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "looking",
+      "seated"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The kitchen area is adjacent to the dining area, and a wooden chair is visible.",
+    "objects": [
+      "chair",
+      "kitchen",
+      "wooden",
+      "area",
+      "adjacent"
+    ],
+    "actions": [
+      "dining"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The kitchen area is adjacent to the dining area, and a wooden chair is visible.",
+    "objects": [
+      "chair",
+      "kitchen",
+      "wooden",
+      "area",
+      "adjacent"
+    ],
+    "actions": [
+      "dining"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The scene changes again to the kitchen area, where the girl is seen playing with the balloon, letting it go, and it floats up.",
+    "objects": [
+      "again",
+      "kitchen",
+      "where",
+      "area",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "playing",
+      "letting",
+      "floats",
+      "changes"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The scene changes again to the kitchen area, where the girl is seen playing with the balloon, letting it go, and it floats up.",
+    "objects": [
+      "again",
+      "kitchen",
+      "where",
+      "area",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "playing",
+      "letting",
+      "floats",
+      "changes"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "She is wearing a colorful shirt and pants, and the man is standing behind her.",
+    "objects": [
+      "colorful",
+      "behind",
+      "man",
+      "her",
+      "she",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "She is wearing a colorful shirt and pants, and the man is standing behind her.",
+    "objects": [
+      "colorful",
+      "behind",
+      "man",
+      "her",
+      "she",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "standing",
+      "pants"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "A blue toy car is visible in the background.",
+    "objects": [
+      "car",
+      "blue",
+      "toy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "A blue toy car is visible in the background.",
+    "objects": [
+      "car",
+      "blue",
+      "toy"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene then returns to the dining area, where the girl is playing with the balloon, letting it go, and it floats up.",
+    "objects": [
+      "where",
+      "area",
+      "then",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "returns",
+      "playing",
+      "letting",
+      "dining"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene then returns to the dining area, where the girl is playing with the balloon, letting it go, and it floats up.",
+    "objects": [
+      "where",
+      "area",
+      "then",
+      "balloon",
+      "girl"
+    ],
+    "actions": [
+      "returns",
+      "playing",
+      "letting",
+      "dining"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The child in the blue shirt is seated at the table, and the girl is wearing a colorful shirt and pants.",
+    "objects": [
+      "colorful",
+      "child",
+      "blue",
+      "table",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "seated"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The child in the blue shirt is seated at the table, and the girl is wearing a colorful shirt and pants.",
+    "objects": [
+      "colorful",
+      "child",
+      "blue",
+      "table",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "seated"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The kitchen area is adjacent to the dining area.",
+    "objects": [
+      "area",
+      "adjacent",
+      "kitchen"
+    ],
+    "actions": [
+      "dining"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The kitchen area is adjacent to the dining area.",
+    "objects": [
+      "area",
+      "adjacent",
+      "kitchen"
+    ],
+    "actions": [
+      "dining"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "In the final scene, the girl is seen playing with the balloon, letting it go, and it floats up.",
+    "objects": [
+      "balloon",
+      "girl",
+      "final"
+    ],
+    "actions": [
+      "playing",
+      "letting",
+      "floats"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "In the final scene, the girl is seen playing with the balloon, letting it go, and it floats up.",
+    "objects": [
+      "balloon",
+      "girl",
+      "final"
+    ],
+    "actions": [
+      "playing",
+      "letting",
+      "floats"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The child is seated at the table in the background, and the girl is wearing a colorful shirt and pants.",
+    "objects": [
+      "colorful",
+      "child",
+      "table",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "seated"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The child is seated at the table in the background, and the girl is wearing a colorful shirt and pants.",
+    "objects": [
+      "colorful",
+      "child",
+      "table",
+      "shirt",
+      "girl"
+    ],
+    "actions": [
+      "wearing",
+      "pants",
+      "seated"
+    ],
+    "segment_id": 15
+  }
+]

@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are gathered around a swimming pool.",
+    "objects": [
+      "around",
+      "pool",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "swimming",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are gathered around a swimming pool.",
+    "objects": [
+      "around",
+      "pool",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "swimming",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are gathered around a swimming pool.",
+    "objects": [
+      "around",
+      "pool",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "swimming",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a group of people are gathered around a swimming pool.",
+    "objects": [
+      "around",
+      "pool",
+      "people",
+      "group"
+    ],
+    "actions": [
+      "swimming",
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman is holding a baby, and a man is holding a toddler.",
+    "objects": [
+      "man",
+      "toddler",
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A woman is holding a baby, and a man is holding a toddler.",
+    "objects": [
+      "man",
+      "toddler",
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman is holding a baby, and a man is holding a toddler.",
+    "objects": [
+      "man",
+      "toddler",
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman is holding a baby, and a man is holding a toddler.",
+    "objects": [
+      "man",
+      "toddler",
+      "baby",
+      "woman"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The woman is wearing a bikini, and the baby she's holding is wrapped in a blue blanket.",
+    "objects": [
+      "woman",
+      "blue",
+      "baby",
+      "bikini",
+      "blanket"
+    ],
+    "actions": [
+      "wearing",
+      "she's",
+      "holding",
+      "wrapped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The woman is wearing a bikini, and the baby she's holding is wrapped in a blue blanket.",
+    "objects": [
+      "woman",
+      "blue",
+      "baby",
+      "bikini",
+      "blanket"
+    ],
+    "actions": [
+      "wearing",
+      "she's",
+      "holding",
+      "wrapped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The woman is wearing a bikini, and the baby she's holding is wrapped in a blue blanket.",
+    "objects": [
+      "woman",
+      "blue",
+      "baby",
+      "bikini",
+      "blanket"
+    ],
+    "actions": [
+      "wearing",
+      "she's",
+      "holding",
+      "wrapped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The woman is wearing a bikini, and the baby she's holding is wrapped in a blue blanket.",
+    "objects": [
+      "woman",
+      "blue",
+      "baby",
+      "bikini",
+      "blanket"
+    ],
+    "actions": [
+      "wearing",
+      "she's",
+      "holding",
+      "wrapped"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The man is wearing a white shirt and holding the toddler, who is dressed in a black shirt.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "who",
+      "man",
+      "toddler"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The man is wearing a white shirt and holding the toddler, who is dressed in a black shirt.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "who",
+      "man",
+      "toddler"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The man is wearing a white shirt and holding the toddler, who is dressed in a black shirt.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "who",
+      "man",
+      "toddler"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The man is wearing a white shirt and holding the toddler, who is dressed in a black shirt.",
+    "objects": [
+      "white",
+      "black",
+      "shirt",
+      "who",
+      "man",
+      "toddler"
+    ],
+    "actions": [
+      "wearing",
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The toddler is being fed something by the woman, and they seem to be engaged in a playful interaction.",
+    "objects": [
+      "they",
+      "woman",
+      "seem",
+      "interaction",
+      "toddler",
+      "playful"
+    ],
+    "actions": [
+      "something",
+      "fed",
+      "engaged",
+      "being"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The toddler is being fed something by the woman, and they seem to be engaged in a playful interaction.",
+    "objects": [
+      "they",
+      "woman",
+      "seem",
+      "interaction",
+      "toddler",
+      "playful"
+    ],
+    "actions": [
+      "something",
+      "fed",
+      "engaged",
+      "being"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The toddler is being fed something by the woman, and they seem to be engaged in a playful interaction.",
+    "objects": [
+      "they",
+      "woman",
+      "seem",
+      "interaction",
+      "toddler",
+      "playful"
+    ],
+    "actions": [
+      "something",
+      "fed",
+      "engaged",
+      "being"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The toddler is being fed something by the woman, and they seem to be engaged in a playful interaction.",
+    "objects": [
+      "they",
+      "woman",
+      "seem",
+      "interaction",
+      "toddler",
+      "playful"
+    ],
+    "actions": [
+      "something",
+      "fed",
+      "engaged",
+      "being"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "In the background, there is another person sitting on a chair, wearing a black shirt and sunglasses, while another person is standing on the other side of the pool.",
+    "objects": [
+      "there",
+      "other",
+      "while",
+      "black",
+      "pool",
+      "shirt",
+      "side",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "sunglasses",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "In the background, there is another person sitting on a chair, wearing a black shirt and sunglasses, while another person is standing on the other side of the pool.",
+    "objects": [
+      "there",
+      "other",
+      "while",
+      "black",
+      "pool",
+      "shirt",
+      "side",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "sunglasses",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "In the background, there is another person sitting on a chair, wearing a black shirt and sunglasses, while another person is standing on the other side of the pool.",
+    "objects": [
+      "there",
+      "other",
+      "while",
+      "black",
+      "pool",
+      "shirt",
+      "side",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "sunglasses",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "In the background, there is another person sitting on a chair, wearing a black shirt and sunglasses, while another person is standing on the other side of the pool.",
+    "objects": [
+      "there",
+      "other",
+      "while",
+      "black",
+      "pool",
+      "shirt",
+      "side",
+      "chair"
+    ],
+    "actions": [
+      "wearing",
+      "sitting",
+      "sunglasses",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The pool area is equipped with a poolside barbeque grill and a poolside table.",
+    "objects": [
+      "table",
+      "barbeque",
+      "pool",
+      "grill",
+      "poolside",
+      "area"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The pool area is equipped with a poolside barbeque grill and a poolside table.",
+    "objects": [
+      "table",
+      "barbeque",
+      "pool",
+      "grill",
+      "poolside",
+      "area"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The pool area is equipped with a poolside barbeque grill and a poolside table.",
+    "objects": [
+      "table",
+      "barbeque",
+      "pool",
+      "grill",
+      "poolside",
+      "area"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The pool area is equipped with a poolside barbeque grill and a poolside table.",
+    "objects": [
+      "table",
+      "barbeque",
+      "pool",
+      "grill",
+      "poolside",
+      "area"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is lively and filled with joyous energy.",
+    "objects": [
+      "energy",
+      "lively"
+    ],
+    "actions": [
+      "filled",
+      "joyous"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is lively and filled with joyous energy.",
+    "objects": [
+      "energy",
+      "lively"
+    ],
+    "actions": [
+      "filled",
+      "joyous"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is lively and filled with joyous energy.",
+    "objects": [
+      "energy",
+      "lively"
+    ],
+    "actions": [
+      "filled",
+      "joyous"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is lively and filled with joyous energy.",
+    "objects": [
+      "energy",
+      "lively"
+    ],
+    "actions": [
+      "filled",
+      "joyous"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,572 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are four people standing on a beach at night.",
+    "objects": [
+      "beach",
+      "night",
+      "people",
+      "four",
+      "there"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are four people standing on a beach at night.",
+    "objects": [
+      "beach",
+      "night",
+      "people",
+      "four",
+      "there"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are four people standing on a beach at night.",
+    "objects": [
+      "beach",
+      "night",
+      "people",
+      "four",
+      "there"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The scene opens with two men standing near the water, with one of them holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "water",
+      "men",
+      "one",
+      "them",
+      "two"
+    ],
+    "actions": [
+      "opens",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The scene opens with two men standing near the water, with one of them holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "water",
+      "men",
+      "one",
+      "them",
+      "two"
+    ],
+    "actions": [
+      "opens",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The scene opens with two men standing near the water, with one of them holding a frisbee.",
+    "objects": [
+      "frisbee",
+      "water",
+      "men",
+      "one",
+      "them",
+      "two"
+    ],
+    "actions": [
+      "opens",
+      "holding",
+      "standing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "They appear to be preparing to throw it, but then a third man walks up and joins them.",
+    "objects": [
+      "third",
+      "man",
+      "but",
+      "them",
+      "appear",
+      "throw",
+      "they",
+      "then"
+    ],
+    "actions": [
+      "walks",
+      "preparing",
+      "joins"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "They appear to be preparing to throw it, but then a third man walks up and joins them.",
+    "objects": [
+      "third",
+      "man",
+      "but",
+      "them",
+      "appear",
+      "throw",
+      "they",
+      "then"
+    ],
+    "actions": [
+      "walks",
+      "preparing",
+      "joins"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "They appear to be preparing to throw it, but then a third man walks up and joins them.",
+    "objects": [
+      "third",
+      "man",
+      "but",
+      "them",
+      "appear",
+      "throw",
+      "they",
+      "then"
+    ],
+    "actions": [
+      "walks",
+      "preparing",
+      "joins"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The fourth person walks away from the group, leaving only three people standing.",
+    "objects": [
+      "only",
+      "away",
+      "three",
+      "people",
+      "fourth",
+      "from",
+      "group"
+    ],
+    "actions": [
+      "leaving",
+      "walks",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "The fourth person walks away from the group, leaving only three people standing.",
+    "objects": [
+      "only",
+      "away",
+      "three",
+      "people",
+      "fourth",
+      "from",
+      "group"
+    ],
+    "actions": [
+      "leaving",
+      "walks",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "The fourth person walks away from the group, leaving only three people standing.",
+    "objects": [
+      "only",
+      "away",
+      "three",
+      "people",
+      "fourth",
+      "from",
+      "group"
+    ],
+    "actions": [
+      "leaving",
+      "walks",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "The man with the frisbee looks at the water, and the other two men stand by his side.",
+    "objects": [
+      "frisbee",
+      "man",
+      "water",
+      "other",
+      "men",
+      "his",
+      "side",
+      "two"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "The man with the frisbee looks at the water, and the other two men stand by his side.",
+    "objects": [
+      "frisbee",
+      "man",
+      "water",
+      "other",
+      "men",
+      "his",
+      "side",
+      "two"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "The man with the frisbee looks at the water, and the other two men stand by his side.",
+    "objects": [
+      "frisbee",
+      "man",
+      "water",
+      "other",
+      "men",
+      "his",
+      "side",
+      "two"
+    ],
+    "actions": [
+      "looks"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "The man with the frisbee throws it, and it flies through the air, landing in the water.",
+    "objects": [
+      "frisbee",
+      "man",
+      "water",
+      "air",
+      "through"
+    ],
+    "actions": [
+      "throws",
+      "flies",
+      "landing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "The man with the frisbee throws it, and it flies through the air, landing in the water.",
+    "objects": [
+      "frisbee",
+      "man",
+      "water",
+      "air",
+      "through"
+    ],
+    "actions": [
+      "throws",
+      "flies",
+      "landing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "The man with the frisbee throws it, and it flies through the air, landing in the water.",
+    "objects": [
+      "frisbee",
+      "man",
+      "water",
+      "air",
+      "through"
+    ],
+    "actions": [
+      "throws",
+      "flies",
+      "landing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "The men then begin to play with the frisbee in the water, with one of them throwing it and the other catching it.",
+    "objects": [
+      "frisbee",
+      "water",
+      "other",
+      "men",
+      "one",
+      "them",
+      "play",
+      "begin"
+    ],
+    "actions": [
+      "throwing",
+      "catching"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "The men then begin to play with the frisbee in the water, with one of them throwing it and the other catching it.",
+    "objects": [
+      "frisbee",
+      "water",
+      "other",
+      "men",
+      "one",
+      "them",
+      "play",
+      "begin"
+    ],
+    "actions": [
+      "throwing",
+      "catching"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "The men then begin to play with the frisbee in the water, with one of them throwing it and the other catching it.",
+    "objects": [
+      "frisbee",
+      "water",
+      "other",
+      "men",
+      "one",
+      "them",
+      "play",
+      "begin"
+    ],
+    "actions": [
+      "throwing",
+      "catching"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "They repeat this action a few times.",
+    "objects": [
+      "few",
+      "this",
+      "action",
+      "repeat",
+      "they"
+    ],
+    "actions": [
+      "times"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "They repeat this action a few times.",
+    "objects": [
+      "few",
+      "this",
+      "action",
+      "repeat",
+      "they"
+    ],
+    "actions": [
+      "times"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "They repeat this action a few times.",
+    "objects": [
+      "few",
+      "this",
+      "action",
+      "repeat",
+      "they"
+    ],
+    "actions": [
+      "times"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "The men continue to play with the frisbee, throwing and catching it back and forth in the water.",
+    "objects": [
+      "frisbee",
+      "water",
+      "men",
+      "continue",
+      "forth",
+      "play"
+    ],
+    "actions": [
+      "throwing",
+      "catching"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "The men continue to play with the frisbee, throwing and catching it back and forth in the water.",
+    "objects": [
+      "frisbee",
+      "water",
+      "men",
+      "continue",
+      "forth",
+      "play"
+    ],
+    "actions": [
+      "throwing",
+      "catching"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "The men continue to play with the frisbee, throwing and catching it back and forth in the water.",
+    "objects": [
+      "frisbee",
+      "water",
+      "men",
+      "continue",
+      "forth",
+      "play"
+    ],
+    "actions": [
+      "throwing",
+      "catching"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "The light from the moon reflects off the water's surface as they play, and the sound of the waves can be heard in the background.",
+    "objects": [
+      "moon",
+      "sound",
+      "can",
+      "heard",
+      "surface",
+      "light",
+      "off",
+      "play"
+    ],
+    "actions": [
+      "reflects",
+      "waves",
+      "water's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "The light from the moon reflects off the water's surface as they play, and the sound of the waves can be heard in the background.",
+    "objects": [
+      "moon",
+      "sound",
+      "can",
+      "heard",
+      "surface",
+      "light",
+      "off",
+      "play"
+    ],
+    "actions": [
+      "reflects",
+      "waves",
+      "water's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "The light from the moon reflects off the water's surface as they play, and the sound of the waves can be heard in the background.",
+    "objects": [
+      "moon",
+      "sound",
+      "can",
+      "heard",
+      "surface",
+      "light",
+      "off",
+      "play"
+    ],
+    "actions": [
+      "reflects",
+      "waves",
+      "water's"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "The men seem to be enjoying their time on the beach, laughing and having fun.",
+    "objects": [
+      "seem",
+      "beach",
+      "men",
+      "fun",
+      "time",
+      "their"
+    ],
+    "actions": [
+      "having",
+      "laughing",
+      "enjoying"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "The men seem to be enjoying their time on the beach, laughing and having fun.",
+    "objects": [
+      "seem",
+      "beach",
+      "men",
+      "fun",
+      "time",
+      "their"
+    ],
+    "actions": [
+      "having",
+      "laughing",
+      "enjoying"
+    ],
+    "segment_id": 10
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a dog and a person sitting close together in front of a laptop.",
+    "objects": [
+      "see",
+      "dog",
+      "laptop",
+      "close",
+      "this",
+      "together"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a dog and a person sitting close together in front of a laptop.",
+    "objects": [
+      "see",
+      "dog",
+      "laptop",
+      "close",
+      "this",
+      "together"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a dog and a person sitting close together in front of a laptop.",
+    "objects": [
+      "see",
+      "dog",
+      "laptop",
+      "close",
+      "this",
+      "together"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a dog and a person sitting close together in front of a laptop.",
+    "objects": [
+      "see",
+      "dog",
+      "laptop",
+      "close",
+      "this",
+      "together"
+    ],
+    "actions": [
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The dog appears to be of a medium-sized breed with a fluffy coat of fur, while the person is wearing a white t-shirt and holding a laptop.",
+    "objects": [
+      "fur",
+      "white",
+      "while",
+      "coat",
+      "dog",
+      "laptop",
+      "fluffy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "breed",
+      "medium-sized"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog appears to be of a medium-sized breed with a fluffy coat of fur, while the person is wearing a white t-shirt and holding a laptop.",
+    "objects": [
+      "fur",
+      "white",
+      "while",
+      "coat",
+      "dog",
+      "laptop",
+      "fluffy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "breed",
+      "medium-sized"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog appears to be of a medium-sized breed with a fluffy coat of fur, while the person is wearing a white t-shirt and holding a laptop.",
+    "objects": [
+      "fur",
+      "white",
+      "while",
+      "coat",
+      "dog",
+      "laptop",
+      "fluffy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "breed",
+      "medium-sized"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog appears to be of a medium-sized breed with a fluffy coat of fur, while the person is wearing a white t-shirt and holding a laptop.",
+    "objects": [
+      "fur",
+      "white",
+      "while",
+      "coat",
+      "dog",
+      "laptop",
+      "fluffy"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "breed",
+      "medium-sized"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The laptop is open and turned on, displaying a screen with text on it.",
+    "objects": [
+      "laptop",
+      "screen",
+      "open",
+      "text"
+    ],
+    "actions": [
+      "turned",
+      "displaying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The laptop is open and turned on, displaying a screen with text on it.",
+    "objects": [
+      "laptop",
+      "screen",
+      "open",
+      "text"
+    ],
+    "actions": [
+      "turned",
+      "displaying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The laptop is open and turned on, displaying a screen with text on it.",
+    "objects": [
+      "laptop",
+      "screen",
+      "open",
+      "text"
+    ],
+    "actions": [
+      "turned",
+      "displaying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The laptop is open and turned on, displaying a screen with text on it.",
+    "objects": [
+      "laptop",
+      "screen",
+      "open",
+      "text"
+    ],
+    "actions": [
+      "turned",
+      "displaying"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The scene is dimly lit, suggesting it might be nighttime or a dimly lit room.",
+    "objects": [
+      "lit",
+      "dimly",
+      "might",
+      "room",
+      "nighttime"
+    ],
+    "actions": [
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The scene is dimly lit, suggesting it might be nighttime or a dimly lit room.",
+    "objects": [
+      "lit",
+      "dimly",
+      "might",
+      "room",
+      "nighttime"
+    ],
+    "actions": [
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The scene is dimly lit, suggesting it might be nighttime or a dimly lit room.",
+    "objects": [
+      "lit",
+      "dimly",
+      "might",
+      "room",
+      "nighttime"
+    ],
+    "actions": [
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The scene is dimly lit, suggesting it might be nighttime or a dimly lit room.",
+    "objects": [
+      "lit",
+      "dimly",
+      "might",
+      "room",
+      "nighttime"
+    ],
+    "actions": [
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The person's hand is on the laptop's keyboard, indicating that they are likely typing or using the laptop in some way.",
+    "objects": [
+      "they",
+      "keyboard",
+      "way",
+      "some",
+      "that",
+      "laptop",
+      "likely",
+      "hand"
+    ],
+    "actions": [
+      "laptop's",
+      "using",
+      "indicating",
+      "typing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The person's hand is on the laptop's keyboard, indicating that they are likely typing or using the laptop in some way.",
+    "objects": [
+      "they",
+      "keyboard",
+      "way",
+      "some",
+      "that",
+      "laptop",
+      "likely",
+      "hand"
+    ],
+    "actions": [
+      "laptop's",
+      "using",
+      "indicating",
+      "typing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The person's hand is on the laptop's keyboard, indicating that they are likely typing or using the laptop in some way.",
+    "objects": [
+      "they",
+      "keyboard",
+      "way",
+      "some",
+      "that",
+      "laptop",
+      "likely",
+      "hand"
+    ],
+    "actions": [
+      "laptop's",
+      "using",
+      "indicating",
+      "typing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The person's hand is on the laptop's keyboard, indicating that they are likely typing or using the laptop in some way.",
+    "objects": [
+      "they",
+      "keyboard",
+      "way",
+      "some",
+      "that",
+      "laptop",
+      "likely",
+      "hand"
+    ],
+    "actions": [
+      "laptop's",
+      "using",
+      "indicating",
+      "typing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The dog seems to be attentively looking at the screen, as if watching the content displayed.",
+    "objects": [
+      "attentively",
+      "dog",
+      "screen",
+      "content"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "displayed",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The dog seems to be attentively looking at the screen, as if watching the content displayed.",
+    "objects": [
+      "attentively",
+      "dog",
+      "screen",
+      "content"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "displayed",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The dog seems to be attentively looking at the screen, as if watching the content displayed.",
+    "objects": [
+      "attentively",
+      "dog",
+      "screen",
+      "content"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "displayed",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The dog seems to be attentively looking at the screen, as if watching the content displayed.",
+    "objects": [
+      "attentively",
+      "dog",
+      "screen",
+      "content"
+    ],
+    "actions": [
+      "seems",
+      "looking",
+      "displayed",
+      "watching"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene is peaceful and quiet, with no sounds or movements aside from the dog's occasional breathing and the person's typing.",
+    "objects": [
+      "quiet",
+      "peaceful",
+      "aside",
+      "from",
+      "occasional"
+    ],
+    "actions": [
+      "sounds",
+      "movements",
+      "person's",
+      "typing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene is peaceful and quiet, with no sounds or movements aside from the dog's occasional breathing and the person's typing.",
+    "objects": [
+      "quiet",
+      "peaceful",
+      "aside",
+      "from",
+      "occasional"
+    ],
+    "actions": [
+      "sounds",
+      "movements",
+      "person's",
+      "typing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene is peaceful and quiet, with no sounds or movements aside from the dog's occasional breathing and the person's typing.",
+    "objects": [
+      "quiet",
+      "peaceful",
+      "aside",
+      "from",
+      "occasional"
+    ],
+    "actions": [
+      "sounds",
+      "movements",
+      "person's",
+      "typing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene is peaceful and quiet, with no sounds or movements aside from the dog's occasional breathing and the person's typing.",
+    "objects": [
+      "quiet",
+      "peaceful",
+      "aside",
+      "from",
+      "occasional"
+    ],
+    "actions": [
+      "sounds",
+      "movements",
+      "person's",
+      "typing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "It's unclear what the content on the laptop screen is, but it could be anything from work or school to entertainment.",
+    "objects": [
+      "content",
+      "what",
+      "screen",
+      "unclear",
+      "entertainment",
+      "work",
+      "from",
+      "laptop"
+    ],
+    "actions": [
+      "anything"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "It's unclear what the content on the laptop screen is, but it could be anything from work or school to entertainment.",
+    "objects": [
+      "content",
+      "what",
+      "screen",
+      "unclear",
+      "entertainment",
+      "work",
+      "from",
+      "laptop"
+    ],
+    "actions": [
+      "anything"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "It's unclear what the content on the laptop screen is, but it could be anything from work or school to entertainment.",
+    "objects": [
+      "content",
+      "what",
+      "screen",
+      "unclear",
+      "entertainment",
+      "work",
+      "from",
+      "laptop"
+    ],
+    "actions": [
+      "anything"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "It's unclear what the content on the laptop screen is, but it could be anything from work or school to entertainment.",
+    "objects": [
+      "content",
+      "what",
+      "screen",
+      "unclear",
+      "entertainment",
+      "work",
+      "from",
+      "laptop"
+    ],
+    "actions": [
+      "anything"
+    ],
+    "segment_id": 7
+  }
+]

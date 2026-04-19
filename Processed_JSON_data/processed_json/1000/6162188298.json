@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a serene ocean scene with two men engaged in a recreational activity.",
+    "objects": [
+      "serene",
+      "two",
+      "activity",
+      "ocean",
+      "men",
+      "recreational"
+    ],
+    "actions": [
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a serene ocean scene with two men engaged in a recreational activity.",
+    "objects": [
+      "serene",
+      "two",
+      "activity",
+      "ocean",
+      "men",
+      "recreational"
+    ],
+    "actions": [
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a serene ocean scene with two men engaged in a recreational activity.",
+    "objects": [
+      "serene",
+      "two",
+      "activity",
+      "ocean",
+      "men",
+      "recreational"
+    ],
+    "actions": [
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a serene ocean scene with two men engaged in a recreational activity.",
+    "objects": [
+      "serene",
+      "two",
+      "activity",
+      "ocean",
+      "men",
+      "recreational"
+    ],
+    "actions": [
+      "engaged",
+      "depicts"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One man is wearing a blue hoodie and a baseball cap, while the other man is wearing a black shirt and holding a fishing rod.",
+    "objects": [
+      "man",
+      "rod",
+      "baseball",
+      "hoodie",
+      "blue",
+      "other",
+      "while",
+      "one"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One man is wearing a blue hoodie and a baseball cap, while the other man is wearing a black shirt and holding a fishing rod.",
+    "objects": [
+      "man",
+      "rod",
+      "baseball",
+      "hoodie",
+      "blue",
+      "other",
+      "while",
+      "one"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One man is wearing a blue hoodie and a baseball cap, while the other man is wearing a black shirt and holding a fishing rod.",
+    "objects": [
+      "man",
+      "rod",
+      "baseball",
+      "hoodie",
+      "blue",
+      "other",
+      "while",
+      "one"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One man is wearing a blue hoodie and a baseball cap, while the other man is wearing a black shirt and holding a fishing rod.",
+    "objects": [
+      "man",
+      "rod",
+      "baseball",
+      "hoodie",
+      "blue",
+      "other",
+      "while",
+      "one"
+    ],
+    "actions": [
+      "wearing",
+      "holding",
+      "fishing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man in the blue hoodie is standing on a boat, while the man in the black shirt is sitting on a boat.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "while",
+      "boat",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man in the blue hoodie is standing on a boat, while the man in the black shirt is sitting on a boat.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "while",
+      "boat",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man in the blue hoodie is standing on a boat, while the man in the black shirt is sitting on a boat.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "while",
+      "boat",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man in the blue hoodie is standing on a boat, while the man in the black shirt is sitting on a boat.",
+    "objects": [
+      "man",
+      "hoodie",
+      "blue",
+      "while",
+      "boat",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "standing",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Both are enjoying the tranquil ocean view and the gentle sound of the waves.",
+    "objects": [
+      "tranquil",
+      "gentle",
+      "ocean",
+      "both",
+      "sound"
+    ],
+    "actions": [
+      "enjoying",
+      "waves"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Both are enjoying the tranquil ocean view and the gentle sound of the waves.",
+    "objects": [
+      "tranquil",
+      "gentle",
+      "ocean",
+      "both",
+      "sound"
+    ],
+    "actions": [
+      "enjoying",
+      "waves"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Both are enjoying the tranquil ocean view and the gentle sound of the waves.",
+    "objects": [
+      "tranquil",
+      "gentle",
+      "ocean",
+      "both",
+      "sound"
+    ],
+    "actions": [
+      "enjoying",
+      "waves"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Both are enjoying the tranquil ocean view and the gentle sound of the waves.",
+    "objects": [
+      "tranquil",
+      "gentle",
+      "ocean",
+      "both",
+      "sound"
+    ],
+    "actions": [
+      "enjoying",
+      "waves"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the blue hoodie is wearing glasses and appears to be looking at the water, while the man in the black shirt is smiling and looking towards the camera.",
+    "objects": [
+      "water",
+      "man",
+      "hoodie",
+      "blue",
+      "while",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "towards",
+      "glasses",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the blue hoodie is wearing glasses and appears to be looking at the water, while the man in the black shirt is smiling and looking towards the camera.",
+    "objects": [
+      "water",
+      "man",
+      "hoodie",
+      "blue",
+      "while",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "towards",
+      "glasses",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the blue hoodie is wearing glasses and appears to be looking at the water, while the man in the black shirt is smiling and looking towards the camera.",
+    "objects": [
+      "water",
+      "man",
+      "hoodie",
+      "blue",
+      "while",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "towards",
+      "glasses",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the blue hoodie is wearing glasses and appears to be looking at the water, while the man in the black shirt is smiling and looking towards the camera.",
+    "objects": [
+      "water",
+      "man",
+      "hoodie",
+      "blue",
+      "while",
+      "shirt",
+      "black"
+    ],
+    "actions": [
+      "wearing",
+      "towards",
+      "glasses",
+      "smiling"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man in the blue hoodie is holding a red object, possibly a bottle of beer, while the man in the black shirt is holding a fishing rod with a long pole.",
+    "objects": [
+      "beer",
+      "pole",
+      "man",
+      "long",
+      "rod",
+      "hoodie",
+      "blue",
+      "while"
+    ],
+    "actions": [
+      "holding",
+      "fishing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man in the blue hoodie is holding a red object, possibly a bottle of beer, while the man in the black shirt is holding a fishing rod with a long pole.",
+    "objects": [
+      "beer",
+      "pole",
+      "man",
+      "long",
+      "rod",
+      "hoodie",
+      "blue",
+      "while"
+    ],
+    "actions": [
+      "holding",
+      "fishing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man in the blue hoodie is holding a red object, possibly a bottle of beer, while the man in the black shirt is holding a fishing rod with a long pole.",
+    "objects": [
+      "beer",
+      "pole",
+      "man",
+      "long",
+      "rod",
+      "hoodie",
+      "blue",
+      "while"
+    ],
+    "actions": [
+      "holding",
+      "fishing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man in the blue hoodie is holding a red object, possibly a bottle of beer, while the man in the black shirt is holding a fishing rod with a long pole.",
+    "objects": [
+      "beer",
+      "pole",
+      "man",
+      "long",
+      "rod",
+      "hoodie",
+      "blue",
+      "while"
+    ],
+    "actions": [
+      "holding",
+      "fishing",
+      "red"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The boat they are on is white, and there is a small white boat in the distance.",
+    "objects": [
+      "small",
+      "white",
+      "distance",
+      "they",
+      "boat",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The boat they are on is white, and there is a small white boat in the distance.",
+    "objects": [
+      "small",
+      "white",
+      "distance",
+      "they",
+      "boat",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The boat they are on is white, and there is a small white boat in the distance.",
+    "objects": [
+      "small",
+      "white",
+      "distance",
+      "they",
+      "boat",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The boat they are on is white, and there is a small white boat in the distance.",
+    "objects": [
+      "small",
+      "white",
+      "distance",
+      "they",
+      "boat",
+      "there"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The sky above them is a light blue, and the ocean around them is a dark blue-green, with a few ripples in the water.",
+    "objects": [
+      "water",
+      "them",
+      "above",
+      "sky",
+      "blue",
+      "light",
+      "ocean",
+      "dark"
+    ],
+    "actions": [
+      "ripples"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The sky above them is a light blue, and the ocean around them is a dark blue-green, with a few ripples in the water.",
+    "objects": [
+      "water",
+      "them",
+      "above",
+      "sky",
+      "blue",
+      "light",
+      "ocean",
+      "dark"
+    ],
+    "actions": [
+      "ripples"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The sky above them is a light blue, and the ocean around them is a dark blue-green, with a few ripples in the water.",
+    "objects": [
+      "water",
+      "them",
+      "above",
+      "sky",
+      "blue",
+      "light",
+      "ocean",
+      "dark"
+    ],
+    "actions": [
+      "ripples"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The sky above them is a light blue, and the ocean around them is a dark blue-green, with a few ripples in the water.",
+    "objects": [
+      "water",
+      "them",
+      "above",
+      "sky",
+      "blue",
+      "light",
+      "ocean",
+      "dark"
+    ],
+    "actions": [
+      "ripples"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a person is seen walking their dog in a park setting, with several buildings visible in the background.",
+    "objects": [
+      "dog",
+      "several",
+      "park",
+      "their"
+    ],
+    "actions": [
+      "setting",
+      "buildings",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a person is seen walking their dog in a park setting, with several buildings visible in the background.",
+    "objects": [
+      "dog",
+      "several",
+      "park",
+      "their"
+    ],
+    "actions": [
+      "setting",
+      "buildings",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a person is seen walking their dog in a park setting, with several buildings visible in the background.",
+    "objects": [
+      "dog",
+      "several",
+      "park",
+      "their"
+    ],
+    "actions": [
+      "setting",
+      "buildings",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a person is seen walking their dog in a park setting, with several buildings visible in the background.",
+    "objects": [
+      "dog",
+      "several",
+      "park",
+      "their"
+    ],
+    "actions": [
+      "setting",
+      "buildings",
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The dog is small and brown in color, and the person is wearing a blue hoodie, black pants, and sneakers.",
+    "objects": [
+      "small",
+      "blue",
+      "brown",
+      "color",
+      "black",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "pants",
+      "sneakers",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The dog is small and brown in color, and the person is wearing a blue hoodie, black pants, and sneakers.",
+    "objects": [
+      "small",
+      "blue",
+      "brown",
+      "color",
+      "black",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "pants",
+      "sneakers",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The dog is small and brown in color, and the person is wearing a blue hoodie, black pants, and sneakers.",
+    "objects": [
+      "small",
+      "blue",
+      "brown",
+      "color",
+      "black",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "pants",
+      "sneakers",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The dog is small and brown in color, and the person is wearing a blue hoodie, black pants, and sneakers.",
+    "objects": [
+      "small",
+      "blue",
+      "brown",
+      "color",
+      "black",
+      "dog",
+      "hoodie"
+    ],
+    "actions": [
+      "pants",
+      "sneakers",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The dog is on a leash and appears to be of medium size and is walking calmly next to the person.",
+    "objects": [
+      "medium",
+      "dog",
+      "size",
+      "leash",
+      "calmly"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The dog is on a leash and appears to be of medium size and is walking calmly next to the person.",
+    "objects": [
+      "medium",
+      "dog",
+      "size",
+      "leash",
+      "calmly"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The dog is on a leash and appears to be of medium size and is walking calmly next to the person.",
+    "objects": [
+      "medium",
+      "dog",
+      "size",
+      "leash",
+      "calmly"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The dog is on a leash and appears to be of medium size and is walking calmly next to the person.",
+    "objects": [
+      "medium",
+      "dog",
+      "size",
+      "leash",
+      "calmly"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The park has a lush green field with a few trees, and the sky is blue with some clouds, suggesting it's a bright day.",
+    "objects": [
+      "blue",
+      "lush",
+      "some",
+      "park",
+      "few",
+      "has",
+      "field",
+      "sky"
+    ],
+    "actions": [
+      "trees",
+      "clouds",
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The park has a lush green field with a few trees, and the sky is blue with some clouds, suggesting it's a bright day.",
+    "objects": [
+      "blue",
+      "lush",
+      "some",
+      "park",
+      "few",
+      "has",
+      "field",
+      "sky"
+    ],
+    "actions": [
+      "trees",
+      "clouds",
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The park has a lush green field with a few trees, and the sky is blue with some clouds, suggesting it's a bright day.",
+    "objects": [
+      "blue",
+      "lush",
+      "some",
+      "park",
+      "few",
+      "has",
+      "field",
+      "sky"
+    ],
+    "actions": [
+      "trees",
+      "clouds",
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The park has a lush green field with a few trees, and the sky is blue with some clouds, suggesting it's a bright day.",
+    "objects": [
+      "blue",
+      "lush",
+      "some",
+      "park",
+      "few",
+      "has",
+      "field",
+      "sky"
+    ],
+    "actions": [
+      "trees",
+      "clouds",
+      "suggesting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "As the person walks, they pass by a horse-drawn carriage with a man sitting in it, dressed in a black shirt and jeans, holding a red flag.",
+    "objects": [
+      "pass",
+      "shirt",
+      "carriage",
+      "black",
+      "man",
+      "flag",
+      "they"
+    ],
+    "actions": [
+      "red",
+      "jeans",
+      "dressed",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "As the person walks, they pass by a horse-drawn carriage with a man sitting in it, dressed in a black shirt and jeans, holding a red flag.",
+    "objects": [
+      "pass",
+      "shirt",
+      "carriage",
+      "black",
+      "man",
+      "flag",
+      "they"
+    ],
+    "actions": [
+      "red",
+      "jeans",
+      "dressed",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "As the person walks, they pass by a horse-drawn carriage with a man sitting in it, dressed in a black shirt and jeans, holding a red flag.",
+    "objects": [
+      "pass",
+      "shirt",
+      "carriage",
+      "black",
+      "man",
+      "flag",
+      "they"
+    ],
+    "actions": [
+      "red",
+      "jeans",
+      "dressed",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "As the person walks, they pass by a horse-drawn carriage with a man sitting in it, dressed in a black shirt and jeans, holding a red flag.",
+    "objects": [
+      "pass",
+      "shirt",
+      "carriage",
+      "black",
+      "man",
+      "flag",
+      "they"
+    ],
+    "actions": [
+      "red",
+      "jeans",
+      "dressed",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The carriage is white and has a black awning.",
+    "objects": [
+      "black",
+      "has",
+      "carriage",
+      "white"
+    ],
+    "actions": [
+      "awning"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The carriage is white and has a black awning.",
+    "objects": [
+      "black",
+      "has",
+      "carriage",
+      "white"
+    ],
+    "actions": [
+      "awning"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The carriage is white and has a black awning.",
+    "objects": [
+      "black",
+      "has",
+      "carriage",
+      "white"
+    ],
+    "actions": [
+      "awning"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The carriage is white and has a black awning.",
+    "objects": [
+      "black",
+      "has",
+      "carriage",
+      "white"
+    ],
+    "actions": [
+      "awning"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The person walks on the left side of the road and then turns towards the right, continuing their stroll with their dog.",
+    "objects": [
+      "side",
+      "their",
+      "then",
+      "dog",
+      "stroll",
+      "road"
+    ],
+    "actions": [
+      "walks",
+      "turns",
+      "towards",
+      "continuing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The person walks on the left side of the road and then turns towards the right, continuing their stroll with their dog.",
+    "objects": [
+      "side",
+      "their",
+      "then",
+      "dog",
+      "stroll",
+      "road"
+    ],
+    "actions": [
+      "walks",
+      "turns",
+      "towards",
+      "continuing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The person walks on the left side of the road and then turns towards the right, continuing their stroll with their dog.",
+    "objects": [
+      "side",
+      "their",
+      "then",
+      "dog",
+      "stroll",
+      "road"
+    ],
+    "actions": [
+      "walks",
+      "turns",
+      "towards",
+      "continuing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The person walks on the left side of the road and then turns towards the right, continuing their stroll with their dog.",
+    "objects": [
+      "side",
+      "their",
+      "then",
+      "dog",
+      "stroll",
+      "road"
+    ],
+    "actions": [
+      "walks",
+      "turns",
+      "towards",
+      "continuing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The dog appears relaxed and is looking around at the camera, with the person petting it gently.",
+    "objects": [
+      "dog",
+      "around",
+      "gently"
+    ],
+    "actions": [
+      "petting",
+      "looking",
+      "relaxed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The dog appears relaxed and is looking around at the camera, with the person petting it gently.",
+    "objects": [
+      "dog",
+      "around",
+      "gently"
+    ],
+    "actions": [
+      "petting",
+      "looking",
+      "relaxed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The dog appears relaxed and is looking around at the camera, with the person petting it gently.",
+    "objects": [
+      "dog",
+      "around",
+      "gently"
+    ],
+    "actions": [
+      "petting",
+      "looking",
+      "relaxed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The dog appears relaxed and is looking around at the camera, with the person petting it gently.",
+    "objects": [
+      "dog",
+      "around",
+      "gently"
+    ],
+    "actions": [
+      "petting",
+      "looking",
+      "relaxed"
+    ],
+    "segment_id": 7
+  }
+]

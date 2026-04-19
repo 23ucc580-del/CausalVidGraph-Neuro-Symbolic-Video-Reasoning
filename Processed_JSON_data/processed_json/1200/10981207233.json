@@ -1,0 +1,618 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a woman and a little boy are in a bathroom, where the woman is teaching the boy how to wash his hands.",
+    "objects": [
+      "bathroom",
+      "wash",
+      "where",
+      "his",
+      "how",
+      "boy",
+      "little",
+      "woman"
+    ],
+    "actions": [
+      "hands",
+      "teaching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a woman and a little boy are in a bathroom, where the woman is teaching the boy how to wash his hands.",
+    "objects": [
+      "bathroom",
+      "wash",
+      "where",
+      "his",
+      "how",
+      "boy",
+      "little",
+      "woman"
+    ],
+    "actions": [
+      "hands",
+      "teaching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a woman and a little boy are in a bathroom, where the woman is teaching the boy how to wash his hands.",
+    "objects": [
+      "bathroom",
+      "wash",
+      "where",
+      "his",
+      "how",
+      "boy",
+      "little",
+      "woman"
+    ],
+    "actions": [
+      "hands",
+      "teaching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, a woman and a little boy are in a bathroom, where the woman is teaching the boy how to wash his hands.",
+    "objects": [
+      "bathroom",
+      "wash",
+      "where",
+      "his",
+      "how",
+      "boy",
+      "little",
+      "woman"
+    ],
+    "actions": [
+      "hands",
+      "teaching"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The woman is wearing a black top and blue jeans, and she has a bottle of hand sanitizer in her hand.",
+    "objects": [
+      "sanitizer",
+      "blue",
+      "hand",
+      "top",
+      "has",
+      "bottle",
+      "her",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The woman is wearing a black top and blue jeans, and she has a bottle of hand sanitizer in her hand.",
+    "objects": [
+      "sanitizer",
+      "blue",
+      "hand",
+      "top",
+      "has",
+      "bottle",
+      "her",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The woman is wearing a black top and blue jeans, and she has a bottle of hand sanitizer in her hand.",
+    "objects": [
+      "sanitizer",
+      "blue",
+      "hand",
+      "top",
+      "has",
+      "bottle",
+      "her",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The woman is wearing a black top and blue jeans, and she has a bottle of hand sanitizer in her hand.",
+    "objects": [
+      "sanitizer",
+      "blue",
+      "hand",
+      "top",
+      "has",
+      "bottle",
+      "her",
+      "black"
+    ],
+    "actions": [
+      "jeans",
+      "wearing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The boy is wearing a gray shirt and is holding a soap bottle.",
+    "objects": [
+      "gray",
+      "shirt",
+      "boy",
+      "soap",
+      "bottle"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The boy is wearing a gray shirt and is holding a soap bottle.",
+    "objects": [
+      "gray",
+      "shirt",
+      "boy",
+      "soap",
+      "bottle"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The boy is wearing a gray shirt and is holding a soap bottle.",
+    "objects": [
+      "gray",
+      "shirt",
+      "boy",
+      "soap",
+      "bottle"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The boy is wearing a gray shirt and is holding a soap bottle.",
+    "objects": [
+      "gray",
+      "shirt",
+      "boy",
+      "soap",
+      "bottle"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The woman is demonstrating the proper way to use the soap and sanitizer, emphasizing the importance of washing hands thoroughly.",
+    "objects": [
+      "sanitizer",
+      "use",
+      "way",
+      "importance",
+      "thoroughly",
+      "proper",
+      "woman",
+      "soap"
+    ],
+    "actions": [
+      "emphasizing",
+      "hands",
+      "washing",
+      "demonstrating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The woman is demonstrating the proper way to use the soap and sanitizer, emphasizing the importance of washing hands thoroughly.",
+    "objects": [
+      "sanitizer",
+      "use",
+      "way",
+      "importance",
+      "thoroughly",
+      "proper",
+      "woman",
+      "soap"
+    ],
+    "actions": [
+      "emphasizing",
+      "hands",
+      "washing",
+      "demonstrating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The woman is demonstrating the proper way to use the soap and sanitizer, emphasizing the importance of washing hands thoroughly.",
+    "objects": [
+      "sanitizer",
+      "use",
+      "way",
+      "importance",
+      "thoroughly",
+      "proper",
+      "woman",
+      "soap"
+    ],
+    "actions": [
+      "emphasizing",
+      "hands",
+      "washing",
+      "demonstrating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The woman is demonstrating the proper way to use the soap and sanitizer, emphasizing the importance of washing hands thoroughly.",
+    "objects": [
+      "sanitizer",
+      "use",
+      "way",
+      "importance",
+      "thoroughly",
+      "proper",
+      "woman",
+      "soap"
+    ],
+    "actions": [
+      "emphasizing",
+      "hands",
+      "washing",
+      "demonstrating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "She instructs the boy on how to lather up his hands with soap and ensure he's using enough hand sanitizer to eliminate germs effectively.",
+    "objects": [
+      "sanitizer",
+      "hand",
+      "enough",
+      "his",
+      "eliminate",
+      "how",
+      "effectively",
+      "boy"
+    ],
+    "actions": [
+      "germs",
+      "hands",
+      "instructs",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "She instructs the boy on how to lather up his hands with soap and ensure he's using enough hand sanitizer to eliminate germs effectively.",
+    "objects": [
+      "sanitizer",
+      "hand",
+      "enough",
+      "his",
+      "eliminate",
+      "how",
+      "effectively",
+      "boy"
+    ],
+    "actions": [
+      "germs",
+      "hands",
+      "instructs",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "She instructs the boy on how to lather up his hands with soap and ensure he's using enough hand sanitizer to eliminate germs effectively.",
+    "objects": [
+      "sanitizer",
+      "hand",
+      "enough",
+      "his",
+      "eliminate",
+      "how",
+      "effectively",
+      "boy"
+    ],
+    "actions": [
+      "germs",
+      "hands",
+      "instructs",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "She instructs the boy on how to lather up his hands with soap and ensure he's using enough hand sanitizer to eliminate germs effectively.",
+    "objects": [
+      "sanitizer",
+      "hand",
+      "enough",
+      "his",
+      "eliminate",
+      "how",
+      "effectively",
+      "boy"
+    ],
+    "actions": [
+      "germs",
+      "hands",
+      "instructs",
+      "using"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The scene is set in a clean and well-lit bathroom, with a mirrored vanity above the sink reflecting their actions.",
+    "objects": [
+      "bathroom",
+      "clean",
+      "set",
+      "sink",
+      "above",
+      "their",
+      "vanity"
+    ],
+    "actions": [
+      "mirrored",
+      "actions",
+      "reflecting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The scene is set in a clean and well-lit bathroom, with a mirrored vanity above the sink reflecting their actions.",
+    "objects": [
+      "bathroom",
+      "clean",
+      "set",
+      "sink",
+      "above",
+      "their",
+      "vanity"
+    ],
+    "actions": [
+      "mirrored",
+      "actions",
+      "reflecting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The scene is set in a clean and well-lit bathroom, with a mirrored vanity above the sink reflecting their actions.",
+    "objects": [
+      "bathroom",
+      "clean",
+      "set",
+      "sink",
+      "above",
+      "their",
+      "vanity"
+    ],
+    "actions": [
+      "mirrored",
+      "actions",
+      "reflecting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The scene is set in a clean and well-lit bathroom, with a mirrored vanity above the sink reflecting their actions.",
+    "objects": [
+      "bathroom",
+      "clean",
+      "set",
+      "sink",
+      "above",
+      "their",
+      "vanity"
+    ],
+    "actions": [
+      "mirrored",
+      "actions",
+      "reflecting"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The boy listens intently, learning from the woman's guidance, and the camera captures the moment from a side angle.",
+    "objects": [
+      "guidance",
+      "side",
+      "moment",
+      "boy",
+      "from",
+      "intently"
+    ],
+    "actions": [
+      "woman's",
+      "listens",
+      "learning"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The boy listens intently, learning from the woman's guidance, and the camera captures the moment from a side angle.",
+    "objects": [
+      "guidance",
+      "side",
+      "moment",
+      "boy",
+      "from",
+      "intently"
+    ],
+    "actions": [
+      "woman's",
+      "listens",
+      "learning"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The boy listens intently, learning from the woman's guidance, and the camera captures the moment from a side angle.",
+    "objects": [
+      "guidance",
+      "side",
+      "moment",
+      "boy",
+      "from",
+      "intently"
+    ],
+    "actions": [
+      "woman's",
+      "listens",
+      "learning"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The boy listens intently, learning from the woman's guidance, and the camera captures the moment from a side angle.",
+    "objects": [
+      "guidance",
+      "side",
+      "moment",
+      "boy",
+      "from",
+      "intently"
+    ],
+    "actions": [
+      "woman's",
+      "listens",
+      "learning"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The video emphasizes the importance of good hygiene practices and the woman's role in teaching the boy the correct way to wash his hands.",
+    "objects": [
+      "correct",
+      "wash",
+      "his",
+      "way",
+      "role",
+      "boy",
+      "hygiene",
+      "good"
+    ],
+    "actions": [
+      "woman's",
+      "hands",
+      "teaching",
+      "emphasizes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The video emphasizes the importance of good hygiene practices and the woman's role in teaching the boy the correct way to wash his hands.",
+    "objects": [
+      "correct",
+      "wash",
+      "his",
+      "way",
+      "role",
+      "boy",
+      "hygiene",
+      "good"
+    ],
+    "actions": [
+      "woman's",
+      "hands",
+      "teaching",
+      "emphasizes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The video emphasizes the importance of good hygiene practices and the woman's role in teaching the boy the correct way to wash his hands.",
+    "objects": [
+      "correct",
+      "wash",
+      "his",
+      "way",
+      "role",
+      "boy",
+      "hygiene",
+      "good"
+    ],
+    "actions": [
+      "woman's",
+      "hands",
+      "teaching",
+      "emphasizes"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The video emphasizes the importance of good hygiene practices and the woman's role in teaching the boy the correct way to wash his hands.",
+    "objects": [
+      "correct",
+      "wash",
+      "his",
+      "way",
+      "role",
+      "boy",
+      "hygiene",
+      "good"
+    ],
+    "actions": [
+      "woman's",
+      "hands",
+      "teaching",
+      "emphasizes"
+    ],
+    "segment_id": 7
+  }
+]

@@ -1,0 +1,588 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a scene of a group of young men in a grassy area, possibly a park or a sports field, standing in a line.",
+    "objects": [
+      "line",
+      "park",
+      "area",
+      "group",
+      "possibly",
+      "field",
+      "men",
+      "grassy"
+    ],
+    "actions": [
+      "sports",
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "They are dressed in sportswear, with some wearing helmets and others holding water bottles.",
+    "objects": [
+      "water",
+      "some",
+      "they",
+      "sportswear"
+    ],
+    "actions": [
+      "dressed",
+      "helmets",
+      "holding",
+      "bottles"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 2,
+    "description": "The atmosphere is casual and relaxed.",
+    "objects": [
+      "atmosphere",
+      "casual"
+    ],
+    "actions": [
+      "relaxed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 3,
+    "description": "The first man in line is wearing a blue hoodie and holding a water bottle, while the second man is wearing a helmet and also holding a water bottle.",
+    "objects": [
+      "line",
+      "blue",
+      "bottle",
+      "man",
+      "water",
+      "first",
+      "second",
+      "helmet"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 4,
+    "description": "The third man, positioned slightly ahead, is wearing a black jersey and also holds a water bottle.",
+    "objects": [
+      "ahead",
+      "bottle",
+      "jersey",
+      "black",
+      "third",
+      "man",
+      "water",
+      "slightly"
+    ],
+    "actions": [
+      "holds",
+      "positioned",
+      "wearing"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 5,
+    "description": "The fourth man is dressed in a black jersey and also holding a water bottle.",
+    "objects": [
+      "fourth",
+      "bottle",
+      "jersey",
+      "black",
+      "water",
+      "man"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 6,
+    "description": "The fifth man, positioned ahead of the fourth, is wearing a red shirt and also holding a water bottle.",
+    "objects": [
+      "shirt",
+      "fifth",
+      "fourth",
+      "ahead",
+      "bottle",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "positioned",
+      "wearing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 7,
+    "description": "The sixth man is wearing a white shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "sixth",
+      "white",
+      "bottle",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 8,
+    "description": "The seventh man, positioned ahead of the sixth, is wearing a white shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "sixth",
+      "white",
+      "bottle",
+      "seventh",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "holding",
+      "positioned",
+      "wearing"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 9,
+    "description": "The eighth man, standing ahead of the seventh, is wearing a red shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "bottle",
+      "seventh",
+      "man",
+      "water",
+      "eighth"
+    ],
+    "actions": [
+      "red",
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 10,
+    "description": "The ninth man, ahead of the eighth, is wearing a black shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "bottle",
+      "ninth",
+      "black",
+      "man",
+      "water",
+      "eighth"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 11,
+    "description": "The tenth man, positioned ahead of the ninth, is dressed in a blue shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "blue",
+      "ahead",
+      "tenth",
+      "bottle",
+      "man",
+      "water",
+      "ninth"
+    ],
+    "actions": [
+      "dressed",
+      "holding",
+      "positioned"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 12,
+    "description": "The eleventh man, ahead of the eleventh, is wearing a white shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "white",
+      "bottle",
+      "man",
+      "eleventh",
+      "water"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 13,
+    "description": "The twelfth man, standing ahead of the twelfth, is dressed in a red shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "bottle",
+      "man",
+      "water",
+      "twelfth"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 14,
+    "description": "The thirteenth man, positioned ahead of the thirteenth, is wearing a black jersey and holding a water bottle.",
+    "objects": [
+      "thirteenth",
+      "ahead",
+      "bottle",
+      "jersey",
+      "black",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "holding",
+      "positioned",
+      "wearing"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 15,
+    "description": "The fourteenth man, ahead of the fourteenth, is dressed in a blue shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "blue",
+      "ahead",
+      "bottle",
+      "man",
+      "water",
+      "fourteenth"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 16,
+    "description": "The fifteenth man, standing ahead of the fifteenth, is wearing a white shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "white",
+      "bottle",
+      "man",
+      "water",
+      "fifteenth"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 16
+  },
+  {
+    "frame_id": 17,
+    "description": "The sixteenth man, positioned ahead of the sixteenth, is dressed in a red shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "bottle",
+      "man",
+      "water",
+      "sixteenth"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "holding",
+      "positioned"
+    ],
+    "segment_id": 17
+  },
+  {
+    "frame_id": 18,
+    "description": "The seventeenth man, ahead of the seventeenth, is wearing a black jersey and holding a water bottle.",
+    "objects": [
+      "ahead",
+      "bottle",
+      "jersey",
+      "black",
+      "man",
+      "water",
+      "seventeenth"
+    ],
+    "actions": [
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 18
+  },
+  {
+    "frame_id": 19,
+    "description": "The eighteenth man, standing ahead of the eighteenth, is dressed in a white shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "white",
+      "eighteenth",
+      "bottle",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "dressed",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 19
+  },
+  {
+    "frame_id": 20,
+    "description": "The nineteenth man, positioned ahead of the nineteenth, is wearing a red shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "bottle",
+      "man",
+      "water",
+      "nineteenth"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "positioned",
+      "wearing"
+    ],
+    "segment_id": 20
+  },
+  {
+    "frame_id": 21,
+    "description": "The twentieth man, ahead of the twentieth, is dressed in a blue shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "blue",
+      "ahead",
+      "bottle",
+      "man",
+      "water",
+      "twentieth"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 21
+  },
+  {
+    "frame_id": 22,
+    "description": "The twenty-first man, standing ahead of the twenty-first, is wearing a black jersey and holding a water bottle.",
+    "objects": [
+      "ahead",
+      "bottle",
+      "jersey",
+      "black",
+      "water",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 22
+  },
+  {
+    "frame_id": 23,
+    "description": "The twenty-second man, positioned ahead of the twenty-second, is wearing a white shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "white",
+      "bottle",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "holding",
+      "positioned",
+      "wearing"
+    ],
+    "segment_id": 23
+  },
+  {
+    "frame_id": 24,
+    "description": "The twenty-third man, standing ahead of the twenty-third, is dressed in a red shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "bottle",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 24
+  },
+  {
+    "frame_id": 25,
+    "description": "The twenty-fourth man, positioned ahead of the twenty-fourth, is wearing a black shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "bottle",
+      "black",
+      "water",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "positioned",
+      "wearing"
+    ],
+    "segment_id": 25
+  },
+  {
+    "frame_id": 26,
+    "description": "The twenty-fifth man, ahead of the twenty-fifth, is dressed in a white shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "white",
+      "bottle",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "dressed",
+      "holding"
+    ],
+    "segment_id": 26
+  },
+  {
+    "frame_id": 27,
+    "description": "The twenty-sixth man, standing ahead of the twenty-sixth, is wearing a black jersey and holding a water bottle.",
+    "objects": [
+      "ahead",
+      "bottle",
+      "jersey",
+      "black",
+      "water",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "wearing"
+    ],
+    "segment_id": 27
+  },
+  {
+    "frame_id": 28,
+    "description": "The twenty-seventh man, positioned ahead of the twenty-seventh, is wearing a red shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "bottle",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "red",
+      "holding",
+      "positioned",
+      "wearing"
+    ],
+    "segment_id": 28
+  },
+  {
+    "frame_id": 29,
+    "description": "The twenty-eighth man, standing ahead of the twenty-eighth, is dressed in a white shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "white",
+      "bottle",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "dressed",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 29
+  },
+  {
+    "frame_id": 30,
+    "description": "The twenty-ninth man, positioned ahead of the twenty-ninth, is wearing a black jersey and holding a water bottle.",
+    "objects": [
+      "ahead",
+      "bottle",
+      "jersey",
+      "black",
+      "water",
+      "man"
+    ],
+    "actions": [
+      "holding",
+      "positioned",
+      "wearing"
+    ],
+    "segment_id": 30
+  },
+  {
+    "frame_id": 31,
+    "description": "The thirtieth man, standing ahead of the thirtieth, is dressed in a red shirt and holding a water bottle.",
+    "objects": [
+      "shirt",
+      "ahead",
+      "bottle",
+      "thirtieth",
+      "man",
+      "water"
+    ],
+    "actions": [
+      "dressed",
+      "red",
+      "standing",
+      "holding"
+    ],
+    "segment_id": 31
+  }
+]

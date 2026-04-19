@@ -1,0 +1,582 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see a group of people walking through a museum.",
+    "objects": [
+      "people",
+      "museum",
+      "see",
+      "through",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see a group of people walking through a museum.",
+    "objects": [
+      "people",
+      "museum",
+      "see",
+      "through",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see a group of people walking through a museum.",
+    "objects": [
+      "people",
+      "museum",
+      "see",
+      "through",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see a group of people walking through a museum.",
+    "objects": [
+      "people",
+      "museum",
+      "see",
+      "through",
+      "this",
+      "group"
+    ],
+    "actions": [
+      "walking"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One of the men is wearing a black shirt and holding a backpack, and the other man is wearing a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "black",
+      "men",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One of the men is wearing a black shirt and holding a backpack, and the other man is wearing a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "black",
+      "men",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One of the men is wearing a black shirt and holding a backpack, and the other man is wearing a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "black",
+      "men",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One of the men is wearing a black shirt and holding a backpack, and the other man is wearing a white shirt.",
+    "objects": [
+      "one",
+      "other",
+      "white",
+      "black",
+      "men",
+      "shirt",
+      "man",
+      "backpack"
+    ],
+    "actions": [
+      "wearing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They are both walking towards a checkpoint.",
+    "objects": [
+      "they",
+      "both",
+      "checkpoint"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They are both walking towards a checkpoint.",
+    "objects": [
+      "they",
+      "both",
+      "checkpoint"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They are both walking towards a checkpoint.",
+    "objects": [
+      "they",
+      "both",
+      "checkpoint"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They are both walking towards a checkpoint.",
+    "objects": [
+      "they",
+      "both",
+      "checkpoint"
+    ],
+    "actions": [
+      "towards",
+      "walking"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "As they walk, they pass through a tunnel-like area that leads to another room.",
+    "objects": [
+      "they",
+      "walk",
+      "pass",
+      "that",
+      "through",
+      "room",
+      "area"
+    ],
+    "actions": [
+      "leads"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "As they walk, they pass through a tunnel-like area that leads to another room.",
+    "objects": [
+      "they",
+      "walk",
+      "pass",
+      "that",
+      "through",
+      "room",
+      "area"
+    ],
+    "actions": [
+      "leads"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "As they walk, they pass through a tunnel-like area that leads to another room.",
+    "objects": [
+      "they",
+      "walk",
+      "pass",
+      "that",
+      "through",
+      "room",
+      "area"
+    ],
+    "actions": [
+      "leads"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "As they walk, they pass through a tunnel-like area that leads to another room.",
+    "objects": [
+      "they",
+      "walk",
+      "pass",
+      "that",
+      "through",
+      "room",
+      "area"
+    ],
+    "actions": [
+      "leads"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "In this room, we can see a group of people observing exhibits, while a man is standing with his arms crossed, and another man is holding a camera.",
+    "objects": [
+      "arms",
+      "people",
+      "can",
+      "while",
+      "see",
+      "his",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "observing",
+      "exhibits"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "In this room, we can see a group of people observing exhibits, while a man is standing with his arms crossed, and another man is holding a camera.",
+    "objects": [
+      "arms",
+      "people",
+      "can",
+      "while",
+      "see",
+      "his",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "observing",
+      "exhibits"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "In this room, we can see a group of people observing exhibits, while a man is standing with his arms crossed, and another man is holding a camera.",
+    "objects": [
+      "arms",
+      "people",
+      "can",
+      "while",
+      "see",
+      "his",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "observing",
+      "exhibits"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "In this room, we can see a group of people observing exhibits, while a man is standing with his arms crossed, and another man is holding a camera.",
+    "objects": [
+      "arms",
+      "people",
+      "can",
+      "while",
+      "see",
+      "his",
+      "room",
+      "man"
+    ],
+    "actions": [
+      "standing",
+      "holding",
+      "observing",
+      "exhibits"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "They are all walking towards a display case where a group of people are observing an exhibit.",
+    "objects": [
+      "they",
+      "people",
+      "exhibit",
+      "where",
+      "display",
+      "case",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "towards",
+      "observing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "They are all walking towards a display case where a group of people are observing an exhibit.",
+    "objects": [
+      "they",
+      "people",
+      "exhibit",
+      "where",
+      "display",
+      "case",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "towards",
+      "observing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "They are all walking towards a display case where a group of people are observing an exhibit.",
+    "objects": [
+      "they",
+      "people",
+      "exhibit",
+      "where",
+      "display",
+      "case",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "towards",
+      "observing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "They are all walking towards a display case where a group of people are observing an exhibit.",
+    "objects": [
+      "they",
+      "people",
+      "exhibit",
+      "where",
+      "display",
+      "case",
+      "all",
+      "group"
+    ],
+    "actions": [
+      "towards",
+      "observing",
+      "walking"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The room has a checkpoint-like feature, and a man in a white shirt and black pants is standing behind a glass case.",
+    "objects": [
+      "behind",
+      "white",
+      "feature",
+      "black",
+      "has",
+      "shirt",
+      "case",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The room has a checkpoint-like feature, and a man in a white shirt and black pants is standing behind a glass case.",
+    "objects": [
+      "behind",
+      "white",
+      "feature",
+      "black",
+      "has",
+      "shirt",
+      "case",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The room has a checkpoint-like feature, and a man in a white shirt and black pants is standing behind a glass case.",
+    "objects": [
+      "behind",
+      "white",
+      "feature",
+      "black",
+      "has",
+      "shirt",
+      "case",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The room has a checkpoint-like feature, and a man in a white shirt and black pants is standing behind a glass case.",
+    "objects": [
+      "behind",
+      "white",
+      "feature",
+      "black",
+      "has",
+      "shirt",
+      "case",
+      "room"
+    ],
+    "actions": [
+      "standing",
+      "pants"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The group of people is observing an exhibit while the man in the black shirt and white shirt are walking in the room.",
+    "objects": [
+      "room",
+      "people",
+      "exhibit",
+      "white",
+      "while",
+      "black",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The group of people is observing an exhibit while the man in the black shirt and white shirt are walking in the room.",
+    "objects": [
+      "room",
+      "people",
+      "exhibit",
+      "white",
+      "while",
+      "black",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The group of people is observing an exhibit while the man in the black shirt and white shirt are walking in the room.",
+    "objects": [
+      "room",
+      "people",
+      "exhibit",
+      "white",
+      "while",
+      "black",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "walking"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The group of people is observing an exhibit while the man in the black shirt and white shirt are walking in the room.",
+    "objects": [
+      "room",
+      "people",
+      "exhibit",
+      "white",
+      "while",
+      "black",
+      "shirt",
+      "man"
+    ],
+    "actions": [
+      "observing",
+      "walking"
+    ],
+    "segment_id": 7
+  }
+]

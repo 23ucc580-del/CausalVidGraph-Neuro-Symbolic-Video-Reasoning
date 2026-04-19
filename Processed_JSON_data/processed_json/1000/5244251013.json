@@ -1,0 +1,538 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In this video, we see three men standing in a room with a window.",
+    "objects": [
+      "this",
+      "three",
+      "window",
+      "see",
+      "men",
+      "room"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In this video, we see three men standing in a room with a window.",
+    "objects": [
+      "this",
+      "three",
+      "window",
+      "see",
+      "men",
+      "room"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In this video, we see three men standing in a room with a window.",
+    "objects": [
+      "this",
+      "three",
+      "window",
+      "see",
+      "men",
+      "room"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In this video, we see three men standing in a room with a window.",
+    "objects": [
+      "this",
+      "three",
+      "window",
+      "see",
+      "men",
+      "room"
+    ],
+    "actions": [
+      "standing"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "The room appears to be an office or a workspace.",
+    "objects": [
+      "office",
+      "workspace",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room appears to be an office or a workspace.",
+    "objects": [
+      "office",
+      "workspace",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The room appears to be an office or a workspace.",
+    "objects": [
+      "office",
+      "workspace",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "The room appears to be an office or a workspace.",
+    "objects": [
+      "office",
+      "workspace",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The man on the left is wearing a striped shirt and seems to be in the middle of a conversation with the other two men.",
+    "objects": [
+      "man",
+      "two",
+      "other",
+      "conversation",
+      "shirt",
+      "men",
+      "middle"
+    ],
+    "actions": [
+      "wearing",
+      "striped",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The man on the left is wearing a striped shirt and seems to be in the middle of a conversation with the other two men.",
+    "objects": [
+      "man",
+      "two",
+      "other",
+      "conversation",
+      "shirt",
+      "men",
+      "middle"
+    ],
+    "actions": [
+      "wearing",
+      "striped",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The man on the left is wearing a striped shirt and seems to be in the middle of a conversation with the other two men.",
+    "objects": [
+      "man",
+      "two",
+      "other",
+      "conversation",
+      "shirt",
+      "men",
+      "middle"
+    ],
+    "actions": [
+      "wearing",
+      "striped",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The man on the left is wearing a striped shirt and seems to be in the middle of a conversation with the other two men.",
+    "objects": [
+      "man",
+      "two",
+      "other",
+      "conversation",
+      "shirt",
+      "men",
+      "middle"
+    ],
+    "actions": [
+      "wearing",
+      "striped",
+      "seems"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "He is holding a red folder, which he might be discussing or referencing.",
+    "objects": [
+      "might",
+      "which",
+      "folder"
+    ],
+    "actions": [
+      "referencing",
+      "holding",
+      "discussing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "He is holding a red folder, which he might be discussing or referencing.",
+    "objects": [
+      "might",
+      "which",
+      "folder"
+    ],
+    "actions": [
+      "referencing",
+      "holding",
+      "discussing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "He is holding a red folder, which he might be discussing or referencing.",
+    "objects": [
+      "might",
+      "which",
+      "folder"
+    ],
+    "actions": [
+      "referencing",
+      "holding",
+      "discussing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "He is holding a red folder, which he might be discussing or referencing.",
+    "objects": [
+      "might",
+      "which",
+      "folder"
+    ],
+    "actions": [
+      "referencing",
+      "holding",
+      "discussing",
+      "red"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The man in the middle, who is wearing a green shirt, is also engaged in the conversation, contributing to the discussion.",
+    "objects": [
+      "man",
+      "discussion",
+      "who",
+      "green",
+      "conversation",
+      "shirt",
+      "middle"
+    ],
+    "actions": [
+      "wearing",
+      "contributing",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The man in the middle, who is wearing a green shirt, is also engaged in the conversation, contributing to the discussion.",
+    "objects": [
+      "man",
+      "discussion",
+      "who",
+      "green",
+      "conversation",
+      "shirt",
+      "middle"
+    ],
+    "actions": [
+      "wearing",
+      "contributing",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The man in the middle, who is wearing a green shirt, is also engaged in the conversation, contributing to the discussion.",
+    "objects": [
+      "man",
+      "discussion",
+      "who",
+      "green",
+      "conversation",
+      "shirt",
+      "middle"
+    ],
+    "actions": [
+      "wearing",
+      "contributing",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The man in the middle, who is wearing a green shirt, is also engaged in the conversation, contributing to the discussion.",
+    "objects": [
+      "man",
+      "discussion",
+      "who",
+      "green",
+      "conversation",
+      "shirt",
+      "middle"
+    ],
+    "actions": [
+      "wearing",
+      "contributing",
+      "engaged"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The man on the right, who is wearing a hat, is listening attentively, indicating that he is interested in the conversation.",
+    "objects": [
+      "man",
+      "who",
+      "hat",
+      "attentively",
+      "conversation",
+      "that"
+    ],
+    "actions": [
+      "interested",
+      "wearing",
+      "indicating",
+      "listening"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The man on the right, who is wearing a hat, is listening attentively, indicating that he is interested in the conversation.",
+    "objects": [
+      "man",
+      "who",
+      "hat",
+      "attentively",
+      "conversation",
+      "that"
+    ],
+    "actions": [
+      "interested",
+      "wearing",
+      "indicating",
+      "listening"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The man on the right, who is wearing a hat, is listening attentively, indicating that he is interested in the conversation.",
+    "objects": [
+      "man",
+      "who",
+      "hat",
+      "attentively",
+      "conversation",
+      "that"
+    ],
+    "actions": [
+      "interested",
+      "wearing",
+      "indicating",
+      "listening"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The man on the right, who is wearing a hat, is listening attentively, indicating that he is interested in the conversation.",
+    "objects": [
+      "man",
+      "who",
+      "hat",
+      "attentively",
+      "conversation",
+      "that"
+    ],
+    "actions": [
+      "interested",
+      "wearing",
+      "indicating",
+      "listening"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The room has a door on the left side, which seems to be closed.",
+    "objects": [
+      "which",
+      "has",
+      "door",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "closed",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The room has a door on the left side, which seems to be closed.",
+    "objects": [
+      "which",
+      "has",
+      "door",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "closed",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The room has a door on the left side, which seems to be closed.",
+    "objects": [
+      "which",
+      "has",
+      "door",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "closed",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The room has a door on the left side, which seems to be closed.",
+    "objects": [
+      "which",
+      "has",
+      "door",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "closed",
+      "seems"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The window on the right side allows natural light to enter the room.",
+    "objects": [
+      "enter",
+      "window",
+      "natural",
+      "light",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "allows"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The window on the right side allows natural light to enter the room.",
+    "objects": [
+      "enter",
+      "window",
+      "natural",
+      "light",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "allows"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The window on the right side allows natural light to enter the room.",
+    "objects": [
+      "enter",
+      "window",
+      "natural",
+      "light",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "allows"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The window on the right side allows natural light to enter the room.",
+    "objects": [
+      "enter",
+      "window",
+      "natural",
+      "light",
+      "side",
+      "room"
+    ],
+    "actions": [
+      "allows"
+    ],
+    "segment_id": 7
+  }
+]

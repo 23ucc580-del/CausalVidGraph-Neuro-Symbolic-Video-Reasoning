@@ -1,0 +1,542 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video captures a joyous scene of a birthday celebration.",
+    "objects": [
+      "celebration",
+      "birthday"
+    ],
+    "actions": [
+      "joyous"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video captures a joyous scene of a birthday celebration.",
+    "objects": [
+      "celebration",
+      "birthday"
+    ],
+    "actions": [
+      "joyous"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video captures a joyous scene of a birthday celebration.",
+    "objects": [
+      "celebration",
+      "birthday"
+    ],
+    "actions": [
+      "joyous"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video captures a joyous scene of a birthday celebration.",
+    "objects": [
+      "celebration",
+      "birthday"
+    ],
+    "actions": [
+      "joyous"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "A woman is sitting at a dining table, surrounded by three children.",
+    "objects": [
+      "three",
+      "children",
+      "table",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "surrounded",
+      "dining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "A woman is sitting at a dining table, surrounded by three children.",
+    "objects": [
+      "three",
+      "children",
+      "table",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "surrounded",
+      "dining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "A woman is sitting at a dining table, surrounded by three children.",
+    "objects": [
+      "three",
+      "children",
+      "table",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "surrounded",
+      "dining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "A woman is sitting at a dining table, surrounded by three children.",
+    "objects": [
+      "three",
+      "children",
+      "table",
+      "woman"
+    ],
+    "actions": [
+      "sitting",
+      "surrounded",
+      "dining"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "The birthday cake, placed on a cake stand, is the centerpiece of the table.",
+    "objects": [
+      "table",
+      "stand",
+      "cake",
+      "centerpiece",
+      "birthday"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "The birthday cake, placed on a cake stand, is the centerpiece of the table.",
+    "objects": [
+      "table",
+      "stand",
+      "cake",
+      "centerpiece",
+      "birthday"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "The birthday cake, placed on a cake stand, is the centerpiece of the table.",
+    "objects": [
+      "table",
+      "stand",
+      "cake",
+      "centerpiece",
+      "birthday"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "The birthday cake, placed on a cake stand, is the centerpiece of the table.",
+    "objects": [
+      "table",
+      "stand",
+      "cake",
+      "centerpiece",
+      "birthday"
+    ],
+    "actions": [
+      "placed"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "The cake is adorned with lit candles, and a single one is lit, casting a warm glow on the scene.",
+    "objects": [
+      "one",
+      "single",
+      "cake",
+      "warm",
+      "lit",
+      "glow"
+    ],
+    "actions": [
+      "adorned",
+      "candles",
+      "casting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "The cake is adorned with lit candles, and a single one is lit, casting a warm glow on the scene.",
+    "objects": [
+      "one",
+      "single",
+      "cake",
+      "warm",
+      "lit",
+      "glow"
+    ],
+    "actions": [
+      "adorned",
+      "candles",
+      "casting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "The cake is adorned with lit candles, and a single one is lit, casting a warm glow on the scene.",
+    "objects": [
+      "one",
+      "single",
+      "cake",
+      "warm",
+      "lit",
+      "glow"
+    ],
+    "actions": [
+      "adorned",
+      "candles",
+      "casting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "The cake is adorned with lit candles, and a single one is lit, casting a warm glow on the scene.",
+    "objects": [
+      "one",
+      "single",
+      "cake",
+      "warm",
+      "lit",
+      "glow"
+    ],
+    "actions": [
+      "adorned",
+      "candles",
+      "casting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "A child is seen holding a lighter, poised to light the remaining candles, ready to make a wish.",
+    "objects": [
+      "child",
+      "ready",
+      "wish",
+      "make",
+      "light",
+      "lighter"
+    ],
+    "actions": [
+      "remaining",
+      "holding",
+      "candles",
+      "poised"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "A child is seen holding a lighter, poised to light the remaining candles, ready to make a wish.",
+    "objects": [
+      "child",
+      "ready",
+      "wish",
+      "make",
+      "light",
+      "lighter"
+    ],
+    "actions": [
+      "remaining",
+      "holding",
+      "candles",
+      "poised"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "A child is seen holding a lighter, poised to light the remaining candles, ready to make a wish.",
+    "objects": [
+      "child",
+      "ready",
+      "wish",
+      "make",
+      "light",
+      "lighter"
+    ],
+    "actions": [
+      "remaining",
+      "holding",
+      "candles",
+      "poised"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "A child is seen holding a lighter, poised to light the remaining candles, ready to make a wish.",
+    "objects": [
+      "child",
+      "ready",
+      "wish",
+      "make",
+      "light",
+      "lighter"
+    ],
+    "actions": [
+      "remaining",
+      "holding",
+      "candles",
+      "poised"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman's gaze is fixed on the children, a smile playing on her lips as she waits for the candles to be lit.",
+    "objects": [
+      "lips",
+      "she",
+      "gaze",
+      "children",
+      "lit",
+      "her",
+      "smile"
+    ],
+    "actions": [
+      "fixed",
+      "woman's",
+      "candles",
+      "waits"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman's gaze is fixed on the children, a smile playing on her lips as she waits for the candles to be lit.",
+    "objects": [
+      "lips",
+      "she",
+      "gaze",
+      "children",
+      "lit",
+      "her",
+      "smile"
+    ],
+    "actions": [
+      "fixed",
+      "woman's",
+      "candles",
+      "waits"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman's gaze is fixed on the children, a smile playing on her lips as she waits for the candles to be lit.",
+    "objects": [
+      "lips",
+      "she",
+      "gaze",
+      "children",
+      "lit",
+      "her",
+      "smile"
+    ],
+    "actions": [
+      "fixed",
+      "woman's",
+      "candles",
+      "waits"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman's gaze is fixed on the children, a smile playing on her lips as she waits for the candles to be lit.",
+    "objects": [
+      "lips",
+      "she",
+      "gaze",
+      "children",
+      "lit",
+      "her",
+      "smile"
+    ],
+    "actions": [
+      "fixed",
+      "woman's",
+      "candles",
+      "waits"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The children's faces are lit up with excitement, their eyes filled with anticipation.",
+    "objects": [
+      "their",
+      "anticipation",
+      "lit",
+      "excitement",
+      "eyes"
+    ],
+    "actions": [
+      "faces",
+      "filled",
+      "children's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The children's faces are lit up with excitement, their eyes filled with anticipation.",
+    "objects": [
+      "their",
+      "anticipation",
+      "lit",
+      "excitement",
+      "eyes"
+    ],
+    "actions": [
+      "faces",
+      "filled",
+      "children's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The children's faces are lit up with excitement, their eyes filled with anticipation.",
+    "objects": [
+      "their",
+      "anticipation",
+      "lit",
+      "excitement",
+      "eyes"
+    ],
+    "actions": [
+      "faces",
+      "filled",
+      "children's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The children's faces are lit up with excitement, their eyes filled with anticipation.",
+    "objects": [
+      "their",
+      "anticipation",
+      "lit",
+      "excitement",
+      "eyes"
+    ],
+    "actions": [
+      "faces",
+      "filled",
+      "children's"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "In the background, a Christmas tree stands tall, its twinkling lights adding to the festive atmosphere.",
+    "objects": [
+      "its",
+      "tall",
+      "tree",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "adding",
+      "christmas",
+      "stands",
+      "twinkling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "In the background, a Christmas tree stands tall, its twinkling lights adding to the festive atmosphere.",
+    "objects": [
+      "its",
+      "tall",
+      "tree",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "adding",
+      "christmas",
+      "stands",
+      "twinkling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "In the background, a Christmas tree stands tall, its twinkling lights adding to the festive atmosphere.",
+    "objects": [
+      "its",
+      "tall",
+      "tree",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "adding",
+      "christmas",
+      "stands",
+      "twinkling"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "In the background, a Christmas tree stands tall, its twinkling lights adding to the festive atmosphere.",
+    "objects": [
+      "its",
+      "tall",
+      "tree",
+      "festive",
+      "atmosphere"
+    ],
+    "actions": [
+      "adding",
+      "christmas",
+      "stands",
+      "twinkling"
+    ],
+    "segment_id": 7
+  }
+]

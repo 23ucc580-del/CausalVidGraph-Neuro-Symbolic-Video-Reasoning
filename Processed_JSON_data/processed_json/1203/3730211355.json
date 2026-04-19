@@ -1,0 +1,524 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video begins with a young girl standing on a bed, wearing a blue hoodie and green shorts, holding a toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "green",
+      "young",
+      "girl",
+      "hoodie"
+    ],
+    "actions": [
+      "shorts",
+      "holding",
+      "standing",
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video begins with a young girl standing on a bed, wearing a blue hoodie and green shorts, holding a toy.",
+    "objects": [
+      "blue",
+      "toy",
+      "green",
+      "young",
+      "girl",
+      "hoodie"
+    ],
+    "actions": [
+      "shorts",
+      "holding",
+      "standing",
+      "begins"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "She is looking at a cat sitting on the bed, and she seems to be playing with it.",
+    "objects": [
+      "cat",
+      "she"
+    ],
+    "actions": [
+      "looking",
+      "seems",
+      "sitting",
+      "bed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 3,
+    "description": "She is looking at a cat sitting on the bed, and she seems to be playing with it.",
+    "objects": [
+      "cat",
+      "she"
+    ],
+    "actions": [
+      "looking",
+      "seems",
+      "sitting",
+      "bed"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The cat, a black and white cat with long fur, is sitting on the bed and appears to be calm.",
+    "objects": [
+      "white",
+      "calm",
+      "long",
+      "fur",
+      "cat",
+      "black"
+    ],
+    "actions": [
+      "bed",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 5,
+    "description": "The cat, a black and white cat with long fur, is sitting on the bed and appears to be calm.",
+    "objects": [
+      "white",
+      "calm",
+      "long",
+      "fur",
+      "cat",
+      "black"
+    ],
+    "actions": [
+      "bed",
+      "sitting"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 6,
+    "description": "The girl is also holding a remote control in her hand.",
+    "objects": [
+      "hand",
+      "her",
+      "remote",
+      "girl",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 7,
+    "description": "The girl is also holding a remote control in her hand.",
+    "objects": [
+      "hand",
+      "her",
+      "remote",
+      "girl",
+      "control"
+    ],
+    "actions": [
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 8,
+    "description": "The room is well-lit, and there is a window in the background.",
+    "objects": [
+      "there",
+      "window",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 9,
+    "description": "The room is well-lit, and there is a window in the background.",
+    "objects": [
+      "there",
+      "window",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 10,
+    "description": "As the girl continues to play with the cat, she bends over and the cat walks away.",
+    "objects": [
+      "over",
+      "away",
+      "girl",
+      "cat",
+      "play",
+      "she"
+    ],
+    "actions": [
+      "continues",
+      "walks",
+      "bends"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 11,
+    "description": "As the girl continues to play with the cat, she bends over and the cat walks away.",
+    "objects": [
+      "over",
+      "away",
+      "girl",
+      "cat",
+      "play",
+      "she"
+    ],
+    "actions": [
+      "continues",
+      "walks",
+      "bends"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 12,
+    "description": "The girl then turns towards the window, still holding the remote control.",
+    "objects": [
+      "control",
+      "remote",
+      "girl",
+      "window",
+      "still",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "holding",
+      "turns"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 13,
+    "description": "The girl then turns towards the window, still holding the remote control.",
+    "objects": [
+      "control",
+      "remote",
+      "girl",
+      "window",
+      "still",
+      "then"
+    ],
+    "actions": [
+      "towards",
+      "holding",
+      "turns"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 14,
+    "description": "The video then shifts to the girl standing on the bed again, this time wearing a white shirt and green shorts, and the cat is still on the bed.",
+    "objects": [
+      "white",
+      "again",
+      "green",
+      "this",
+      "shirt",
+      "girl",
+      "time",
+      "cat"
+    ],
+    "actions": [
+      "shifts",
+      "shorts",
+      "standing",
+      "bed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 15,
+    "description": "The video then shifts to the girl standing on the bed again, this time wearing a white shirt and green shorts, and the cat is still on the bed.",
+    "objects": [
+      "white",
+      "again",
+      "green",
+      "this",
+      "shirt",
+      "girl",
+      "time",
+      "cat"
+    ],
+    "actions": [
+      "shifts",
+      "shorts",
+      "standing",
+      "bed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 16,
+    "description": "The girl is holding a toy and appears to be talking to the cat.",
+    "objects": [
+      "girl",
+      "toy",
+      "cat"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 17,
+    "description": "The girl is holding a toy and appears to be talking to the cat.",
+    "objects": [
+      "girl",
+      "toy",
+      "cat"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 18,
+    "description": "The cat seems to be looking at her, and the girl is smiling.",
+    "objects": [
+      "her",
+      "girl",
+      "cat"
+    ],
+    "actions": [
+      "looking",
+      "smiling",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 19,
+    "description": "The cat seems to be looking at her, and the girl is smiling.",
+    "objects": [
+      "her",
+      "girl",
+      "cat"
+    ],
+    "actions": [
+      "looking",
+      "smiling",
+      "seems"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 20,
+    "description": "The room is still well-lit, and the window is still in the background.",
+    "objects": [
+      "still",
+      "window",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 21,
+    "description": "The room is still well-lit, and the window is still in the background.",
+    "objects": [
+      "still",
+      "window",
+      "room"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 22,
+    "description": "The video then shows the girl sitting on the bed, wearing a white shirt and pink shorts, and the cat is sitting on the bed beside her.",
+    "objects": [
+      "white",
+      "pink",
+      "beside",
+      "her",
+      "shirt",
+      "girl",
+      "cat",
+      "then"
+    ],
+    "actions": [
+      "bed",
+      "sitting",
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 23,
+    "description": "The video then shows the girl sitting on the bed, wearing a white shirt and pink shorts, and the cat is sitting on the bed beside her.",
+    "objects": [
+      "white",
+      "pink",
+      "beside",
+      "her",
+      "shirt",
+      "girl",
+      "cat",
+      "then"
+    ],
+    "actions": [
+      "bed",
+      "sitting",
+      "wearing",
+      "shorts"
+    ],
+    "segment_id": 11
+  },
+  {
+    "frame_id": 24,
+    "description": "The girl is holding a toy and talking to the cat.",
+    "objects": [
+      "girl",
+      "toy",
+      "cat"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 25,
+    "description": "The girl is holding a toy and talking to the cat.",
+    "objects": [
+      "girl",
+      "toy",
+      "cat"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 12
+  },
+  {
+    "frame_id": 26,
+    "description": "The cat looks away, and the girl continues to talk to the cat.",
+    "objects": [
+      "away",
+      "talk",
+      "girl",
+      "cat"
+    ],
+    "actions": [
+      "continues",
+      "looks"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 27,
+    "description": "The cat looks away, and the girl continues to talk to the cat.",
+    "objects": [
+      "away",
+      "talk",
+      "girl",
+      "cat"
+    ],
+    "actions": [
+      "continues",
+      "looks"
+    ],
+    "segment_id": 13
+  },
+  {
+    "frame_id": 28,
+    "description": "Finally, the video shows the girl lying on the bed, wearing a white shirt and pink shorts, and the cat is sitting on the bed.",
+    "objects": [
+      "white",
+      "pink",
+      "finally",
+      "shirt",
+      "girl",
+      "cat"
+    ],
+    "actions": [
+      "shorts",
+      "lying",
+      "sitting",
+      "bed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 29,
+    "description": "Finally, the video shows the girl lying on the bed, wearing a white shirt and pink shorts, and the cat is sitting on the bed.",
+    "objects": [
+      "white",
+      "pink",
+      "finally",
+      "shirt",
+      "girl",
+      "cat"
+    ],
+    "actions": [
+      "shorts",
+      "lying",
+      "sitting",
+      "bed"
+    ],
+    "segment_id": 14
+  },
+  {
+    "frame_id": 30,
+    "description": "The girl is holding a toy and talking to the cat.",
+    "objects": [
+      "girl",
+      "toy",
+      "cat"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 15
+  },
+  {
+    "frame_id": 31,
+    "description": "The girl is holding a toy and talking to the cat.",
+    "objects": [
+      "girl",
+      "toy",
+      "cat"
+    ],
+    "actions": [
+      "talking",
+      "holding"
+    ],
+    "segment_id": 15
+  }
+]

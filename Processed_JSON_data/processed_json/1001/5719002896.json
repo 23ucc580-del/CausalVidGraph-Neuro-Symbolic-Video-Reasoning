@@ -1,0 +1,636 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, a group of people are seen gathered in a dimly lit room, presumably a concert venue.",
+    "objects": [
+      "people",
+      "presumably",
+      "lit",
+      "venue",
+      "dimly",
+      "room",
+      "concert",
+      "group"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, a group of people are seen gathered in a dimly lit room, presumably a concert venue.",
+    "objects": [
+      "people",
+      "presumably",
+      "lit",
+      "venue",
+      "dimly",
+      "room",
+      "concert",
+      "group"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, a group of people are seen gathered in a dimly lit room, presumably a concert venue.",
+    "objects": [
+      "people",
+      "presumably",
+      "lit",
+      "venue",
+      "dimly",
+      "room",
+      "concert",
+      "group"
+    ],
+    "actions": [
+      "gathered"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The room is filled with a lively atmosphere, and the air is buzzing with the vibrant energy of a live performance.",
+    "objects": [
+      "air",
+      "energy",
+      "vibrant",
+      "lively",
+      "performance",
+      "live",
+      "room",
+      "atmosphere"
+    ],
+    "actions": [
+      "filled",
+      "buzzing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 4,
+    "description": "The room is filled with a lively atmosphere, and the air is buzzing with the vibrant energy of a live performance.",
+    "objects": [
+      "air",
+      "energy",
+      "vibrant",
+      "lively",
+      "performance",
+      "live",
+      "room",
+      "atmosphere"
+    ],
+    "actions": [
+      "filled",
+      "buzzing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "The room is filled with a lively atmosphere, and the air is buzzing with the vibrant energy of a live performance.",
+    "objects": [
+      "air",
+      "energy",
+      "vibrant",
+      "lively",
+      "performance",
+      "live",
+      "room",
+      "atmosphere"
+    ],
+    "actions": [
+      "filled",
+      "buzzing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "The performers are all in the midst of their performance, each engaged in their own roles.",
+    "objects": [
+      "their",
+      "midst",
+      "each",
+      "own",
+      "performance",
+      "all"
+    ],
+    "actions": [
+      "roles",
+      "performers",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 7,
+    "description": "The performers are all in the midst of their performance, each engaged in their own roles.",
+    "objects": [
+      "their",
+      "midst",
+      "each",
+      "own",
+      "performance",
+      "all"
+    ],
+    "actions": [
+      "roles",
+      "performers",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 8,
+    "description": "The performers are all in the midst of their performance, each engaged in their own roles.",
+    "objects": [
+      "their",
+      "midst",
+      "each",
+      "own",
+      "performance",
+      "all"
+    ],
+    "actions": [
+      "roles",
+      "performers",
+      "engaged"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "- The singer, dressed in a black hoodie, is passionately singing into a microphone, his voice resonating through the room, captivating the audience.",
+    "objects": [
+      "room",
+      "into",
+      "black",
+      "singer",
+      "microphone",
+      "audience",
+      "passionately",
+      "through"
+    ],
+    "actions": [
+      "singing",
+      "dressed",
+      "captivating",
+      "resonating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 10,
+    "description": "- The singer, dressed in a black hoodie, is passionately singing into a microphone, his voice resonating through the room, captivating the audience.",
+    "objects": [
+      "room",
+      "into",
+      "black",
+      "singer",
+      "microphone",
+      "audience",
+      "passionately",
+      "through"
+    ],
+    "actions": [
+      "singing",
+      "dressed",
+      "captivating",
+      "resonating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 11,
+    "description": "- The singer, dressed in a black hoodie, is passionately singing into a microphone, his voice resonating through the room, captivating the audience.",
+    "objects": [
+      "room",
+      "into",
+      "black",
+      "singer",
+      "microphone",
+      "audience",
+      "passionately",
+      "through"
+    ],
+    "actions": [
+      "singing",
+      "dressed",
+      "captivating",
+      "resonating"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 12,
+    "description": "- The guitarist, clad in a black shirt and jeans, is immersed in playing the electric guitar, his fingers dancing over the strings, weaving a melody that complements the singer's voice.",
+    "objects": [
+      "melody",
+      "black",
+      "electric",
+      "guitar",
+      "shirt",
+      "that",
+      "his",
+      "guitarist"
+    ],
+    "actions": [
+      "strings",
+      "weaving",
+      "fingers",
+      "singer's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 13,
+    "description": "- The guitarist, clad in a black shirt and jeans, is immersed in playing the electric guitar, his fingers dancing over the strings, weaving a melody that complements the singer's voice.",
+    "objects": [
+      "melody",
+      "black",
+      "electric",
+      "guitar",
+      "shirt",
+      "that",
+      "his",
+      "guitarist"
+    ],
+    "actions": [
+      "strings",
+      "weaving",
+      "fingers",
+      "singer's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 14,
+    "description": "- The guitarist, clad in a black shirt and jeans, is immersed in playing the electric guitar, his fingers dancing over the strings, weaving a melody that complements the singer's voice.",
+    "objects": [
+      "melody",
+      "black",
+      "electric",
+      "guitar",
+      "shirt",
+      "that",
+      "his",
+      "guitarist"
+    ],
+    "actions": [
+      "strings",
+      "weaving",
+      "fingers",
+      "singer's"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 15,
+    "description": "- The drummer, also dressed in black, is intensely playing the drums, creating a rhythmic backbone for the performance.",
+    "objects": [
+      "rhythmic",
+      "intensely",
+      "black",
+      "drummer",
+      "backbone",
+      "performance"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "creating",
+      "drums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 16,
+    "description": "- The drummer, also dressed in black, is intensely playing the drums, creating a rhythmic backbone for the performance.",
+    "objects": [
+      "rhythmic",
+      "intensely",
+      "black",
+      "drummer",
+      "backbone",
+      "performance"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "creating",
+      "drums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 17,
+    "description": "- The drummer, also dressed in black, is intensely playing the drums, creating a rhythmic backbone for the performance.",
+    "objects": [
+      "rhythmic",
+      "intensely",
+      "black",
+      "drummer",
+      "backbone",
+      "performance"
+    ],
+    "actions": [
+      "playing",
+      "dressed",
+      "creating",
+      "drums"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 18,
+    "description": "- The bassist, sporting a white shirt, is deeply engrossed in his part, his fingers plucking the strings of the bass guitar, providing the foundation for the song.",
+    "objects": [
+      "foundation",
+      "white",
+      "guitar",
+      "shirt",
+      "bassist",
+      "part",
+      "song",
+      "his"
+    ],
+    "actions": [
+      "plucking",
+      "strings",
+      "providing",
+      "engrossed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 19,
+    "description": "- The bassist, sporting a white shirt, is deeply engrossed in his part, his fingers plucking the strings of the bass guitar, providing the foundation for the song.",
+    "objects": [
+      "foundation",
+      "white",
+      "guitar",
+      "shirt",
+      "bassist",
+      "part",
+      "song",
+      "his"
+    ],
+    "actions": [
+      "plucking",
+      "strings",
+      "providing",
+      "engrossed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 20,
+    "description": "- The bassist, sporting a white shirt, is deeply engrossed in his part, his fingers plucking the strings of the bass guitar, providing the foundation for the song.",
+    "objects": [
+      "foundation",
+      "white",
+      "guitar",
+      "shirt",
+      "bassist",
+      "part",
+      "song",
+      "his"
+    ],
+    "actions": [
+      "plucking",
+      "strings",
+      "providing",
+      "engrossed"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 21,
+    "description": "- The keyboardist, wearing a red shirt, is vigilantly playing the keyboard, adding a layer of depth and texture to the performance.",
+    "objects": [
+      "keyboardist",
+      "depth",
+      "vigilantly",
+      "texture",
+      "keyboard",
+      "shirt",
+      "performance",
+      "layer"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "adding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 22,
+    "description": "- The keyboardist, wearing a red shirt, is vigilantly playing the keyboard, adding a layer of depth and texture to the performance.",
+    "objects": [
+      "keyboardist",
+      "depth",
+      "vigilantly",
+      "texture",
+      "keyboard",
+      "shirt",
+      "performance",
+      "layer"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "adding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 23,
+    "description": "- The keyboardist, wearing a red shirt, is vigilantly playing the keyboard, adding a layer of depth and texture to the performance.",
+    "objects": [
+      "keyboardist",
+      "depth",
+      "vigilantly",
+      "texture",
+      "keyboard",
+      "shirt",
+      "performance",
+      "layer"
+    ],
+    "actions": [
+      "wearing",
+      "playing",
+      "adding",
+      "red"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 24,
+    "description": "- The sound technician, clad in a gray shirt, is focused on the sound equipment, ensuring the perfect balance of the instruments and vocals.",
+    "objects": [
+      "balance",
+      "technician",
+      "gray",
+      "shirt",
+      "equipment",
+      "perfect",
+      "sound",
+      "clad"
+    ],
+    "actions": [
+      "focused",
+      "instruments",
+      "ensuring",
+      "vocals"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 25,
+    "description": "- The sound technician, clad in a gray shirt, is focused on the sound equipment, ensuring the perfect balance of the instruments and vocals.",
+    "objects": [
+      "balance",
+      "technician",
+      "gray",
+      "shirt",
+      "equipment",
+      "perfect",
+      "sound",
+      "clad"
+    ],
+    "actions": [
+      "focused",
+      "instruments",
+      "ensuring",
+      "vocals"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 26,
+    "description": "- The sound technician, clad in a gray shirt, is focused on the sound equipment, ensuring the perfect balance of the instruments and vocals.",
+    "objects": [
+      "balance",
+      "technician",
+      "gray",
+      "shirt",
+      "equipment",
+      "perfect",
+      "sound",
+      "clad"
+    ],
+    "actions": [
+      "focused",
+      "instruments",
+      "ensuring",
+      "vocals"
+    ],
+    "segment_id": 8
+  },
+  {
+    "frame_id": 27,
+    "description": "- The lighting technician, dressed in a green shirt, is meticulously adjusting the stage lights, setting the mood and enhancing the visual spectacle.",
+    "objects": [
+      "green",
+      "technician",
+      "shirt",
+      "meticulously",
+      "spectacle",
+      "visual",
+      "stage",
+      "mood"
+    ],
+    "actions": [
+      "dressed",
+      "enhancing",
+      "setting",
+      "adjusting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 28,
+    "description": "- The lighting technician, dressed in a green shirt, is meticulously adjusting the stage lights, setting the mood and enhancing the visual spectacle.",
+    "objects": [
+      "green",
+      "technician",
+      "shirt",
+      "meticulously",
+      "spectacle",
+      "visual",
+      "stage",
+      "mood"
+    ],
+    "actions": [
+      "dressed",
+      "enhancing",
+      "setting",
+      "adjusting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 29,
+    "description": "- The lighting technician, dressed in a green shirt, is meticulously adjusting the stage lights, setting the mood and enhancing the visual spectacle.",
+    "objects": [
+      "green",
+      "technician",
+      "shirt",
+      "meticulously",
+      "spectacle",
+      "visual",
+      "stage",
+      "mood"
+    ],
+    "actions": [
+      "dressed",
+      "enhancing",
+      "setting",
+      "adjusting"
+    ],
+    "segment_id": 9
+  },
+  {
+    "frame_id": 30,
+    "description": "Each individual is engrossed in their role, contributing to the overall performance.",
+    "objects": [
+      "their",
+      "role",
+      "each",
+      "performance",
+      "overall",
+      "individual"
+    ],
+    "actions": [
+      "contributing",
+      "engrossed"
+    ],
+    "segment_id": 10
+  },
+  {
+    "frame_id": 31,
+    "description": "Each individual is engrossed in their role, contributing to the overall performance.",
+    "objects": [
+      "their",
+      "role",
+      "each",
+      "performance",
+      "overall",
+      "individual"
+    ],
+    "actions": [
+      "contributing",
+      "engrossed"
+    ],
+    "segment_id": 10
+  }
+]

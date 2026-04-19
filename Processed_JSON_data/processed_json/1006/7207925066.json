@@ -1,0 +1,502 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, there are three people in a room.",
+    "objects": [
+      "three",
+      "room",
+      "there",
+      "people"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, there are three people in a room.",
+    "objects": [
+      "three",
+      "room",
+      "there",
+      "people"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, there are three people in a room.",
+    "objects": [
+      "three",
+      "room",
+      "there",
+      "people"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, there are three people in a room.",
+    "objects": [
+      "three",
+      "room",
+      "there",
+      "people"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "One person is standing behind a projector screen, holding a remote control.",
+    "objects": [
+      "one",
+      "behind",
+      "screen",
+      "control",
+      "projector",
+      "remote"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "One person is standing behind a projector screen, holding a remote control.",
+    "objects": [
+      "one",
+      "behind",
+      "screen",
+      "control",
+      "projector",
+      "remote"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "One person is standing behind a projector screen, holding a remote control.",
+    "objects": [
+      "one",
+      "behind",
+      "screen",
+      "control",
+      "projector",
+      "remote"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "One person is standing behind a projector screen, holding a remote control.",
+    "objects": [
+      "one",
+      "behind",
+      "screen",
+      "control",
+      "projector",
+      "remote"
+    ],
+    "actions": [
+      "standing",
+      "holding"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "He is wearing a black shirt and seems to be controlling the projector.",
+    "objects": [
+      "black",
+      "projector",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "seems",
+      "controlling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "He is wearing a black shirt and seems to be controlling the projector.",
+    "objects": [
+      "black",
+      "projector",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "seems",
+      "controlling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "He is wearing a black shirt and seems to be controlling the projector.",
+    "objects": [
+      "black",
+      "projector",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "seems",
+      "controlling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "He is wearing a black shirt and seems to be controlling the projector.",
+    "objects": [
+      "black",
+      "projector",
+      "shirt"
+    ],
+    "actions": [
+      "wearing",
+      "seems",
+      "controlling"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Another person is standing on the right side of the screen, wearing a white shirt, and is looking at the screen.",
+    "objects": [
+      "shirt",
+      "screen",
+      "side",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Another person is standing on the right side of the screen, wearing a white shirt, and is looking at the screen.",
+    "objects": [
+      "shirt",
+      "screen",
+      "side",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Another person is standing on the right side of the screen, wearing a white shirt, and is looking at the screen.",
+    "objects": [
+      "shirt",
+      "screen",
+      "side",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Another person is standing on the right side of the screen, wearing a white shirt, and is looking at the screen.",
+    "objects": [
+      "shirt",
+      "screen",
+      "side",
+      "white"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "standing"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The third person is on the left side of the screen, wearing a red shirt, and is also looking at the screen.",
+    "objects": [
+      "shirt",
+      "screen",
+      "third",
+      "side"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The third person is on the left side of the screen, wearing a red shirt, and is also looking at the screen.",
+    "objects": [
+      "shirt",
+      "screen",
+      "third",
+      "side"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The third person is on the left side of the screen, wearing a red shirt, and is also looking at the screen.",
+    "objects": [
+      "shirt",
+      "screen",
+      "third",
+      "side"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The third person is on the left side of the screen, wearing a red shirt, and is also looking at the screen.",
+    "objects": [
+      "shirt",
+      "screen",
+      "third",
+      "side"
+    ],
+    "actions": [
+      "wearing",
+      "looking",
+      "red"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The room has a white wall and a clock on it.",
+    "objects": [
+      "wall",
+      "white",
+      "has",
+      "room",
+      "clock"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The room has a white wall and a clock on it.",
+    "objects": [
+      "wall",
+      "white",
+      "has",
+      "room",
+      "clock"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The room has a white wall and a clock on it.",
+    "objects": [
+      "wall",
+      "white",
+      "has",
+      "room",
+      "clock"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The room has a white wall and a clock on it.",
+    "objects": [
+      "wall",
+      "white",
+      "has",
+      "room",
+      "clock"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "There is a laptop on the table in front of the people.",
+    "objects": [
+      "laptop",
+      "there",
+      "people",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "There is a laptop on the table in front of the people.",
+    "objects": [
+      "laptop",
+      "there",
+      "people",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "There is a laptop on the table in front of the people.",
+    "objects": [
+      "laptop",
+      "there",
+      "people",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "There is a laptop on the table in front of the people.",
+    "objects": [
+      "laptop",
+      "there",
+      "people",
+      "table"
+    ],
+    "actions": [
+      "interaction"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The projector screen displays a presentation slide with a photo of a person holding a cell phone.",
+    "objects": [
+      "screen",
+      "presentation",
+      "slide",
+      "projector",
+      "cell",
+      "phone",
+      "photo"
+    ],
+    "actions": [
+      "holding",
+      "displays"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The projector screen displays a presentation slide with a photo of a person holding a cell phone.",
+    "objects": [
+      "screen",
+      "presentation",
+      "slide",
+      "projector",
+      "cell",
+      "phone",
+      "photo"
+    ],
+    "actions": [
+      "holding",
+      "displays"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The projector screen displays a presentation slide with a photo of a person holding a cell phone.",
+    "objects": [
+      "screen",
+      "presentation",
+      "slide",
+      "projector",
+      "cell",
+      "phone",
+      "photo"
+    ],
+    "actions": [
+      "holding",
+      "displays"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The projector screen displays a presentation slide with a photo of a person holding a cell phone.",
+    "objects": [
+      "screen",
+      "presentation",
+      "slide",
+      "projector",
+      "cell",
+      "phone",
+      "photo"
+    ],
+    "actions": [
+      "holding",
+      "displays"
+    ],
+    "segment_id": 7
+  }
+]

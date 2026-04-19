@@ -1,0 +1,558 @@
+[
+  {
+    "frame_id": 0,
+    "description": "In the video, we see a woman wearing a blue hoodie and a green jacket, sitting at a table in a classroom.",
+    "objects": [
+      "table",
+      "woman",
+      "jacket",
+      "blue",
+      "green",
+      "see",
+      "classroom",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "In the video, we see a woman wearing a blue hoodie and a green jacket, sitting at a table in a classroom.",
+    "objects": [
+      "table",
+      "woman",
+      "jacket",
+      "blue",
+      "green",
+      "see",
+      "classroom",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "In the video, we see a woman wearing a blue hoodie and a green jacket, sitting at a table in a classroom.",
+    "objects": [
+      "table",
+      "woman",
+      "jacket",
+      "blue",
+      "green",
+      "see",
+      "classroom",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "In the video, we see a woman wearing a blue hoodie and a green jacket, sitting at a table in a classroom.",
+    "objects": [
+      "table",
+      "woman",
+      "jacket",
+      "blue",
+      "green",
+      "see",
+      "classroom",
+      "hoodie"
+    ],
+    "actions": [
+      "wearing",
+      "sitting"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "She appears to be writing on a whiteboard, possibly teaching or lecturing.",
+    "objects": [
+      "whiteboard",
+      "possibly",
+      "she"
+    ],
+    "actions": [
+      "lecturing",
+      "teaching",
+      "writing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "She appears to be writing on a whiteboard, possibly teaching or lecturing.",
+    "objects": [
+      "whiteboard",
+      "possibly",
+      "she"
+    ],
+    "actions": [
+      "lecturing",
+      "teaching",
+      "writing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "She appears to be writing on a whiteboard, possibly teaching or lecturing.",
+    "objects": [
+      "whiteboard",
+      "possibly",
+      "she"
+    ],
+    "actions": [
+      "lecturing",
+      "teaching",
+      "writing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "She appears to be writing on a whiteboard, possibly teaching or lecturing.",
+    "objects": [
+      "whiteboard",
+      "possibly",
+      "she"
+    ],
+    "actions": [
+      "lecturing",
+      "teaching",
+      "writing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "Another woman in a green shirt is also present in the room, seated at a table with a whiteboard.",
+    "objects": [
+      "whiteboard",
+      "table",
+      "woman",
+      "green",
+      "shirt",
+      "room",
+      "present"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "Another woman in a green shirt is also present in the room, seated at a table with a whiteboard.",
+    "objects": [
+      "whiteboard",
+      "table",
+      "woman",
+      "green",
+      "shirt",
+      "room",
+      "present"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "Another woman in a green shirt is also present in the room, seated at a table with a whiteboard.",
+    "objects": [
+      "whiteboard",
+      "table",
+      "woman",
+      "green",
+      "shirt",
+      "room",
+      "present"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "Another woman in a green shirt is also present in the room, seated at a table with a whiteboard.",
+    "objects": [
+      "whiteboard",
+      "table",
+      "woman",
+      "green",
+      "shirt",
+      "room",
+      "present"
+    ],
+    "actions": [
+      "seated"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "There is a man seated at a desk nearby, holding a whiteboard and a pen.",
+    "objects": [
+      "whiteboard",
+      "pen",
+      "there",
+      "desk",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "There is a man seated at a desk nearby, holding a whiteboard and a pen.",
+    "objects": [
+      "whiteboard",
+      "pen",
+      "there",
+      "desk",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "There is a man seated at a desk nearby, holding a whiteboard and a pen.",
+    "objects": [
+      "whiteboard",
+      "pen",
+      "there",
+      "desk",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "There is a man seated at a desk nearby, holding a whiteboard and a pen.",
+    "objects": [
+      "whiteboard",
+      "pen",
+      "there",
+      "desk",
+      "man",
+      "nearby"
+    ],
+    "actions": [
+      "seated",
+      "holding"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "The room is well-lit, with natural light coming from the windows.",
+    "objects": [
+      "from",
+      "room",
+      "natural",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "coming"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "The room is well-lit, with natural light coming from the windows.",
+    "objects": [
+      "from",
+      "room",
+      "natural",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "coming"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "The room is well-lit, with natural light coming from the windows.",
+    "objects": [
+      "from",
+      "room",
+      "natural",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "coming"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "The room is well-lit, with natural light coming from the windows.",
+    "objects": [
+      "from",
+      "room",
+      "natural",
+      "light"
+    ],
+    "actions": [
+      "windows",
+      "coming"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "The woman in the blue hoodie is wearing a blue top under her hoodie, and there's a person seated at a table with a laptop, possibly a student or another teacher.",
+    "objects": [
+      "table",
+      "woman",
+      "possibly",
+      "blue",
+      "teacher",
+      "top",
+      "student",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "seated",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "The woman in the blue hoodie is wearing a blue top under her hoodie, and there's a person seated at a table with a laptop, possibly a student or another teacher.",
+    "objects": [
+      "table",
+      "woman",
+      "possibly",
+      "blue",
+      "teacher",
+      "top",
+      "student",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "seated",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "The woman in the blue hoodie is wearing a blue top under her hoodie, and there's a person seated at a table with a laptop, possibly a student or another teacher.",
+    "objects": [
+      "table",
+      "woman",
+      "possibly",
+      "blue",
+      "teacher",
+      "top",
+      "student",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "seated",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "The woman in the blue hoodie is wearing a blue top under her hoodie, and there's a person seated at a table with a laptop, possibly a student or another teacher.",
+    "objects": [
+      "table",
+      "woman",
+      "possibly",
+      "blue",
+      "teacher",
+      "top",
+      "student",
+      "her"
+    ],
+    "actions": [
+      "wearing",
+      "seated",
+      "there's"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "The scene seems to be a classroom environment, with chairs and tables arranged in a traditional setting.",
+    "objects": [
+      "environment",
+      "traditional",
+      "classroom"
+    ],
+    "actions": [
+      "seems",
+      "arranged",
+      "chairs",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "The scene seems to be a classroom environment, with chairs and tables arranged in a traditional setting.",
+    "objects": [
+      "environment",
+      "traditional",
+      "classroom"
+    ],
+    "actions": [
+      "seems",
+      "arranged",
+      "chairs",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "The scene seems to be a classroom environment, with chairs and tables arranged in a traditional setting.",
+    "objects": [
+      "environment",
+      "traditional",
+      "classroom"
+    ],
+    "actions": [
+      "seems",
+      "arranged",
+      "chairs",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "The scene seems to be a classroom environment, with chairs and tables arranged in a traditional setting.",
+    "objects": [
+      "environment",
+      "traditional",
+      "classroom"
+    ],
+    "actions": [
+      "seems",
+      "arranged",
+      "chairs",
+      "setting"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The man at the desk is wearing a black shirt, and there's a person at a table with a drink, possibly a student or a teacher enjoying a beverage.",
+    "objects": [
+      "table",
+      "desk",
+      "black",
+      "possibly",
+      "teacher",
+      "shirt",
+      "beverage",
+      "student"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying",
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The man at the desk is wearing a black shirt, and there's a person at a table with a drink, possibly a student or a teacher enjoying a beverage.",
+    "objects": [
+      "table",
+      "desk",
+      "black",
+      "possibly",
+      "teacher",
+      "shirt",
+      "beverage",
+      "student"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying",
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The man at the desk is wearing a black shirt, and there's a person at a table with a drink, possibly a student or a teacher enjoying a beverage.",
+    "objects": [
+      "table",
+      "desk",
+      "black",
+      "possibly",
+      "teacher",
+      "shirt",
+      "beverage",
+      "student"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying",
+      "there's"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The man at the desk is wearing a black shirt, and there's a person at a table with a drink, possibly a student or a teacher enjoying a beverage.",
+    "objects": [
+      "table",
+      "desk",
+      "black",
+      "possibly",
+      "teacher",
+      "shirt",
+      "beverage",
+      "student"
+    ],
+    "actions": [
+      "wearing",
+      "enjoying",
+      "there's"
+    ],
+    "segment_id": 7
+  }
+]

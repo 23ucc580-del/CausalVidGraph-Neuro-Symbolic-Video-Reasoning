@@ -1,0 +1,614 @@
+[
+  {
+    "frame_id": 0,
+    "description": "The video depicts a group of individuals engaged in a physical activity in a gym setting.",
+    "objects": [
+      "gym",
+      "activity",
+      "physical",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "setting",
+      "individuals",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 1,
+    "description": "The video depicts a group of individuals engaged in a physical activity in a gym setting.",
+    "objects": [
+      "gym",
+      "activity",
+      "physical",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "setting",
+      "individuals",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 2,
+    "description": "The video depicts a group of individuals engaged in a physical activity in a gym setting.",
+    "objects": [
+      "gym",
+      "activity",
+      "physical",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "setting",
+      "individuals",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 3,
+    "description": "The video depicts a group of individuals engaged in a physical activity in a gym setting.",
+    "objects": [
+      "gym",
+      "activity",
+      "physical",
+      "group"
+    ],
+    "actions": [
+      "depicts",
+      "setting",
+      "individuals",
+      "engaged"
+    ],
+    "segment_id": 0
+  },
+  {
+    "frame_id": 4,
+    "description": "In the foreground, two individuals are practicing a martial art, with one wearing a white hoodie and the other wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "other",
+      "shirt",
+      "one",
+      "art",
+      "martial",
+      "hoodie"
+    ],
+    "actions": [
+      "individuals",
+      "wearing",
+      "practicing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 5,
+    "description": "In the foreground, two individuals are practicing a martial art, with one wearing a white hoodie and the other wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "other",
+      "shirt",
+      "one",
+      "art",
+      "martial",
+      "hoodie"
+    ],
+    "actions": [
+      "individuals",
+      "wearing",
+      "practicing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 6,
+    "description": "In the foreground, two individuals are practicing a martial art, with one wearing a white hoodie and the other wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "other",
+      "shirt",
+      "one",
+      "art",
+      "martial",
+      "hoodie"
+    ],
+    "actions": [
+      "individuals",
+      "wearing",
+      "practicing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 7,
+    "description": "In the foreground, two individuals are practicing a martial art, with one wearing a white hoodie and the other wearing a green shirt.",
+    "objects": [
+      "white",
+      "green",
+      "other",
+      "shirt",
+      "one",
+      "art",
+      "martial",
+      "hoodie"
+    ],
+    "actions": [
+      "individuals",
+      "wearing",
+      "practicing"
+    ],
+    "segment_id": 1
+  },
+  {
+    "frame_id": 8,
+    "description": "They appear to be executing a series of movements, possibly martial arts or exercises, that involve kicks and punches.",
+    "objects": [
+      "involve",
+      "arts",
+      "that",
+      "appear",
+      "martial",
+      "they",
+      "possibly"
+    ],
+    "actions": [
+      "movements",
+      "executing",
+      "exercises",
+      "kicks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 9,
+    "description": "They appear to be executing a series of movements, possibly martial arts or exercises, that involve kicks and punches.",
+    "objects": [
+      "involve",
+      "arts",
+      "that",
+      "appear",
+      "martial",
+      "they",
+      "possibly"
+    ],
+    "actions": [
+      "movements",
+      "executing",
+      "exercises",
+      "kicks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 10,
+    "description": "They appear to be executing a series of movements, possibly martial arts or exercises, that involve kicks and punches.",
+    "objects": [
+      "involve",
+      "arts",
+      "that",
+      "appear",
+      "martial",
+      "they",
+      "possibly"
+    ],
+    "actions": [
+      "movements",
+      "executing",
+      "exercises",
+      "kicks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 11,
+    "description": "They appear to be executing a series of movements, possibly martial arts or exercises, that involve kicks and punches.",
+    "objects": [
+      "involve",
+      "arts",
+      "that",
+      "appear",
+      "martial",
+      "they",
+      "possibly"
+    ],
+    "actions": [
+      "movements",
+      "executing",
+      "exercises",
+      "kicks"
+    ],
+    "segment_id": 2
+  },
+  {
+    "frame_id": 12,
+    "description": "Further in the background, there is a man in a red shirt sitting on the floor, possibly observing the activity or resting.",
+    "objects": [
+      "man",
+      "shirt",
+      "further",
+      "there",
+      "activity",
+      "floor",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "sitting",
+      "red",
+      "resting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 13,
+    "description": "Further in the background, there is a man in a red shirt sitting on the floor, possibly observing the activity or resting.",
+    "objects": [
+      "man",
+      "shirt",
+      "further",
+      "there",
+      "activity",
+      "floor",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "sitting",
+      "red",
+      "resting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 14,
+    "description": "Further in the background, there is a man in a red shirt sitting on the floor, possibly observing the activity or resting.",
+    "objects": [
+      "man",
+      "shirt",
+      "further",
+      "there",
+      "activity",
+      "floor",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "sitting",
+      "red",
+      "resting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 15,
+    "description": "Further in the background, there is a man in a red shirt sitting on the floor, possibly observing the activity or resting.",
+    "objects": [
+      "man",
+      "shirt",
+      "further",
+      "there",
+      "activity",
+      "floor",
+      "possibly"
+    ],
+    "actions": [
+      "observing",
+      "sitting",
+      "red",
+      "resting"
+    ],
+    "segment_id": 3
+  },
+  {
+    "frame_id": 16,
+    "description": "Another individual, also in a red shirt, is seen sitting on the floor, facing the camera with a smile, suggesting a relaxed or lighthearted atmosphere.",
+    "objects": [
+      "shirt",
+      "smile",
+      "individual",
+      "atmosphere",
+      "floor"
+    ],
+    "actions": [
+      "lighthearted",
+      "relaxed",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 17,
+    "description": "Another individual, also in a red shirt, is seen sitting on the floor, facing the camera with a smile, suggesting a relaxed or lighthearted atmosphere.",
+    "objects": [
+      "shirt",
+      "smile",
+      "individual",
+      "atmosphere",
+      "floor"
+    ],
+    "actions": [
+      "lighthearted",
+      "relaxed",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 18,
+    "description": "Another individual, also in a red shirt, is seen sitting on the floor, facing the camera with a smile, suggesting a relaxed or lighthearted atmosphere.",
+    "objects": [
+      "shirt",
+      "smile",
+      "individual",
+      "atmosphere",
+      "floor"
+    ],
+    "actions": [
+      "lighthearted",
+      "relaxed",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 19,
+    "description": "Another individual, also in a red shirt, is seen sitting on the floor, facing the camera with a smile, suggesting a relaxed or lighthearted atmosphere.",
+    "objects": [
+      "shirt",
+      "smile",
+      "individual",
+      "atmosphere",
+      "floor"
+    ],
+    "actions": [
+      "lighthearted",
+      "relaxed",
+      "red",
+      "sitting"
+    ],
+    "segment_id": 4
+  },
+  {
+    "frame_id": 20,
+    "description": "Another person, wearing a white shirt, is standing in the background, possibly watching or waiting their turn to join in the activity.",
+    "objects": [
+      "white",
+      "shirt",
+      "turn",
+      "their",
+      "join",
+      "activity",
+      "possibly"
+    ],
+    "actions": [
+      "watching",
+      "wearing",
+      "waiting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 21,
+    "description": "Another person, wearing a white shirt, is standing in the background, possibly watching or waiting their turn to join in the activity.",
+    "objects": [
+      "white",
+      "shirt",
+      "turn",
+      "their",
+      "join",
+      "activity",
+      "possibly"
+    ],
+    "actions": [
+      "watching",
+      "wearing",
+      "waiting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 22,
+    "description": "Another person, wearing a white shirt, is standing in the background, possibly watching or waiting their turn to join in the activity.",
+    "objects": [
+      "white",
+      "shirt",
+      "turn",
+      "their",
+      "join",
+      "activity",
+      "possibly"
+    ],
+    "actions": [
+      "watching",
+      "wearing",
+      "waiting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 23,
+    "description": "Another person, wearing a white shirt, is standing in the background, possibly watching or waiting their turn to join in the activity.",
+    "objects": [
+      "white",
+      "shirt",
+      "turn",
+      "their",
+      "join",
+      "activity",
+      "possibly"
+    ],
+    "actions": [
+      "watching",
+      "wearing",
+      "waiting",
+      "standing"
+    ],
+    "segment_id": 5
+  },
+  {
+    "frame_id": 24,
+    "description": "In the middle of the scene, there is a man in a white shirt and black shorts holding a bottle, perhaps preparing to hydrate or take a break from the physical activity.",
+    "objects": [
+      "white",
+      "middle",
+      "man",
+      "physical",
+      "take",
+      "shirt",
+      "hydrate",
+      "there"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "shorts",
+      "preparing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 25,
+    "description": "In the middle of the scene, there is a man in a white shirt and black shorts holding a bottle, perhaps preparing to hydrate or take a break from the physical activity.",
+    "objects": [
+      "white",
+      "middle",
+      "man",
+      "physical",
+      "take",
+      "shirt",
+      "hydrate",
+      "there"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "shorts",
+      "preparing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 26,
+    "description": "In the middle of the scene, there is a man in a white shirt and black shorts holding a bottle, perhaps preparing to hydrate or take a break from the physical activity.",
+    "objects": [
+      "white",
+      "middle",
+      "man",
+      "physical",
+      "take",
+      "shirt",
+      "hydrate",
+      "there"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "shorts",
+      "preparing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 27,
+    "description": "In the middle of the scene, there is a man in a white shirt and black shorts holding a bottle, perhaps preparing to hydrate or take a break from the physical activity.",
+    "objects": [
+      "white",
+      "middle",
+      "man",
+      "physical",
+      "take",
+      "shirt",
+      "hydrate",
+      "there"
+    ],
+    "actions": [
+      "perhaps",
+      "holding",
+      "shorts",
+      "preparing"
+    ],
+    "segment_id": 6
+  },
+  {
+    "frame_id": 28,
+    "description": "The scene is active and dynamic, with people dressed in athletic wear, and the gym equipment visible in the background.",
+    "objects": [
+      "athletic",
+      "dynamic",
+      "gym",
+      "active",
+      "people",
+      "equipment",
+      "wear"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 29,
+    "description": "The scene is active and dynamic, with people dressed in athletic wear, and the gym equipment visible in the background.",
+    "objects": [
+      "athletic",
+      "dynamic",
+      "gym",
+      "active",
+      "people",
+      "equipment",
+      "wear"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 30,
+    "description": "The scene is active and dynamic, with people dressed in athletic wear, and the gym equipment visible in the background.",
+    "objects": [
+      "athletic",
+      "dynamic",
+      "gym",
+      "active",
+      "people",
+      "equipment",
+      "wear"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 7
+  },
+  {
+    "frame_id": 31,
+    "description": "The scene is active and dynamic, with people dressed in athletic wear, and the gym equipment visible in the background.",
+    "objects": [
+      "athletic",
+      "dynamic",
+      "gym",
+      "active",
+      "people",
+      "equipment",
+      "wear"
+    ],
+    "actions": [
+      "dressed"
+    ],
+    "segment_id": 7
+  }
+]
