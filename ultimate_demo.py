@@ -20,19 +20,11 @@ import re
 MODEL_PATH = "causal_qa_model_answer_aware.pth"
 LLAVA_MODEL_ID = "llava-hf/LLaVA-NeXT-Video-7B-hf"
 NUM_FRAMES = 32
-
-# Tuned based on observed SBERT scores:
-# Valid queries:   ~0.45 - 0.55
-# Invalid queries: ~0.30 - 0.44
-# Entity-blocked:  caught by keyword guard regardless of score
 STRICT_THRESHOLD = 0.40
 
 print("--- INITIALIZING ULTIMATE NEURO-SYMBOLIC ENGINE (V8.0 - MEMORY OPTIMIZED) ---")
 
 
-# ============================================================
-# MODEL ARCHITECTURE
-# ============================================================
 class CausalVLM_QA_AnswerAware(torch.nn.Module):
     def __init__(self):
         super(CausalVLM_QA_AnswerAware, self).__init__()
@@ -76,11 +68,7 @@ class CausalVLM_QA_AnswerAware(torch.nn.Module):
         return torch.cat(scores, dim=1)
 
 
-# ============================================================
-# LAYER 1: ENTITY HALLUCINATION GUARD
-# ============================================================
 def check_key_entities_present(question, full_description):
-    """Block questions that mention specific locations/objects absent from the video."""
     location_keywords = [
         'balcony', 'kitchen', 'bathroom', 'garden', 'park',
         'street', 'car', 'beach', 'office', 'gym', 'pool',
@@ -97,7 +85,6 @@ def check_key_entities_present(question, full_description):
             print(f"[GUARD] Location '{keyword}' in question but absent from description.")
             return False, f"location '{keyword}'"
 
-    # Person gender guard: if question asks about a girl but description says man/boy
     male_indicators = ['man', 'boy', 'guy', 'male', 'he ', 'his ']
     question_asks_female = any(w in question_lower for w in person_keywords)
     desc_has_only_male = any(w in desc_lower for w in male_indicators)
@@ -109,11 +96,7 @@ def check_key_entities_present(question, full_description):
     return True, None
 
 
-# ============================================================
-# LAYER 2: SBERT SEMANTIC RELEVANCE
-# ============================================================
 def compute_relevance_confidence(question, full_description, tokenizer, model, device):
-    """Semantic similarity using MiniLM sentence embeddings."""
     model.eval()
     with torch.no_grad():
         q_inputs = tokenizer(question, return_tensors="pt", padding=True,
@@ -137,11 +120,7 @@ def compute_relevance_confidence(question, full_description, tokenizer, model, d
         return max(0.0, F.cosine_similarity(q_emb, v_emb, dim=1).item())
 
 
-# ============================================================
-# GRAPH BUILDER
-# ============================================================
 def build_graph_data_correct(frames_data, full_desc, question, tokenizer, bert_model, device):
-    """Build semantic graph with per-frame BERT embeddings - matches training exactly."""
     bert_model.eval()
     node_embeddings = []
 
@@ -178,9 +157,6 @@ def build_graph_data_correct(frames_data, full_desc, question, tokenizer, bert_m
     return graph
 
 
-# ============================================================
-# CAUSAL GRAPH VISUALIZER
-# ============================================================
 def draw_causal_graph(events_list, output_file="causal_proof.png"):
     nodes = [textwrap.fill(e, width=20) for e in events_list]
     if not nodes:
@@ -213,16 +189,10 @@ def draw_causal_graph(events_list, output_file="causal_proof.png"):
     return save_path
 
 
-# ============================================================
-# MAIN PIPELINE
-# ============================================================
 def run_ultimate_pipeline(video_path, question, answer_choices):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     vid_id = os.path.splitext(os.path.basename(video_path))[0]
 
-    # ----------------------------------------------------------------
-    # STAGE 1: PERCEPTION - LLaVA extracts all info from video
-    # ----------------------------------------------------------------
     print(f"[INFO] Booting Perception Module...")
     bnb_config = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_quant_type="nf4",
                                      bnb_4bit_compute_dtype=torch.float16)
@@ -262,12 +232,10 @@ def run_ultimate_pipeline(video_path, question, answer_choices):
         return (raw.split("ASSISTANT:")[-1].strip()
                 if "ASSISTANT:" in raw else raw.split("USER:")[-1].strip())
 
-    # Get scene description
     print(f"[INFO] Generating Scene Context...")
     full_desc = ask_llava(
         "USER: <video>\nDescribe what is happening in this video in detail.\nASSISTANT:")
 
-    # Load or generate frame-level JSON
     json_path = os.path.join("data", "processed_json", f"{vid_id}.json")
     fallback_events_list = None
 
@@ -284,10 +252,6 @@ def run_ultimate_pipeline(video_path, question, answer_choices):
         ]
         frames_data = [{'description': evt} for evt in fallback_events_list]
 
-    # ----------------------------------------------------------------
-    # STAGE 2: MULTI-LAYER DEFENSE GATE
-    # (Run both checks before deciding to proceed)
-    # ----------------------------------------------------------------
     print(f"[INFO] Calculating Relevance Check (SBERT)...")
     relevance_tokenizer = AutoTokenizer.from_pretrained(
         'sentence-transformers/all-MiniLM-L6-v2')
@@ -303,9 +267,6 @@ def run_ultimate_pipeline(video_path, question, answer_choices):
 
     entities_grounded, blocked_entity = check_key_entities_present(question, full_desc)
 
-    # ----------------------------------------------------------------
-    # STAGE 3 onwards - only if both gates pass
-    # ----------------------------------------------------------------
     final_answer = ""
     status_msg = ""
     graph_path = None
@@ -313,25 +274,21 @@ def run_ultimate_pipeline(video_path, question, answer_choices):
     llava_raw_answer = None
 
     if not entities_grounded:
-        # BLOCKED by entity guard - free LLaVA immediately
         status_msg = f"[HALLUCINATION BLOCKED] Question references {blocked_entity} not present in video."
         final_answer = "I cannot answer this. Your question mentions elements that are not visible in the video."
         del llava_model, processor
         torch.cuda.empty_cache()
 
     elif confidence < STRICT_THRESHOLD:
-        # BLOCKED by SBERT relevance
         status_msg = f"[WARNING] LOW RELEVANCE (Similarity: {confidence:.1%})"
         final_answer = "I cannot confidently answer this. Your question is unrelated to the events in the video."
         del llava_model, processor
         torch.cuda.empty_cache()
 
     else:
-        # BOTH GATES PASSED - proceed with full pipeline
         status_msg = f"[SUCCESS] Query Contextualized (Similarity: {confidence:.1%})"
         print(f"[INFO] Valid Query detected. Collecting all LLaVA outputs first...")
 
-        # Get events list for causal graph
         if fallback_events_list is not None:
             events_list = fallback_events_list
         else:
@@ -343,22 +300,16 @@ def run_ultimate_pipeline(video_path, question, answer_choices):
                 for line in events_text.split('\n') if line.strip()
             ]
 
-        # Get LLaVA's raw answer BEFORE freeing it
         llava_raw_answer = ask_llava(
             f"USER: <video>\nBased STRICTLY on visible events, answer: {question}\n"
             f"CRITICAL: Only describe what is clearly visible. Do NOT guess.\nASSISTANT:")
 
-        # Draw causal graph while LLaVA is still alive
         graph_path = draw_causal_graph(events_list, output_file=f"proof_{vid_id}.png")
 
-        # FREE LLAVA BEFORE LOADING GNN
         del llava_model, processor
         torch.cuda.empty_cache()
         print("[INFO] LLaVA freed. Loading GNN Validator...")
 
-        # ----------------------------------------------------------------
-        # STAGE 3: GNN ANSWER VALIDATION
-        # ----------------------------------------------------------------
         choices = [c.strip() for c in answer_choices.split(',')] if answer_choices else []
 
         if len(choices) == 5:
@@ -391,7 +342,6 @@ def run_ultimate_pipeline(video_path, question, answer_choices):
                 predicted_text = choices[predicted_class]
                 print(f"[INFO] GNN selected: '{predicted_text}'")
 
-            # GNN grounds the final answer
             final_answer = (
                 f"[GNN Validated: '{predicted_text}'] {llava_raw_answer}"
             )
@@ -403,9 +353,6 @@ def run_ultimate_pipeline(video_path, question, answer_choices):
             print("[WARNING] Exactly 5 choices not provided. Skipping GNN classification.")
             final_answer = llava_raw_answer
 
-    # ----------------------------------------------------------------
-    # FINAL REPORT
-    # ----------------------------------------------------------------
     print(f"\n" + "=" * 75)
     print(f" CAUSAL-VIDGRAPH ULTIMATE ANALYSIS REPORT V8")
     print(f"=" * 75)
@@ -430,11 +377,8 @@ def run_ultimate_pipeline(video_path, question, answer_choices):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--video_path', type=str, required=True,
-                        help="Path to raw video file")
-    parser.add_argument('--question', type=str, required=True,
-                        help="Question to ask about the video")
-    parser.add_argument('--answer_choices', type=str, default=None,
-                        help="Exactly 5 comma-separated choices: 'a,b,c,d,e'")
+    parser.add_argument('--video_path', type=str, required=True)
+    parser.add_argument('--question', type=str, required=True)
+    parser.add_argument('--answer_choices', type=str, default=None)
     args = parser.parse_args()
     run_ultimate_pipeline(args.video_path, args.question, args.answer_choices)
